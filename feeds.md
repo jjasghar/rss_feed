@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 05:01:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-14 06:02:30 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 1 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, November 14, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,6 +168,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/11/14/the-fastest-agent-in-the-race-has-the-best-evals/" target="_blank">The fastest agent in the race has the best evals</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-11-14 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/beachone1155/nextjsdeqiitafeng-nojian-chu-siankarinkuwoshi-zhuang-surufang-fa-bkj" target="_blank">Next.jsでQiita風の見出しアンカーリンクを実装する方法</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-14 05:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-elg" target="_blank">Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies</a></span>
                 <span class="feed">DEV Community</span>
@@ -202,24 +217,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/ffmpeg-google-fiasco/" target="_blank">FFmpeg Calls Google&#x27;s AI Bug Reports &quot;CVE Slop&quot;</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-11-14 01:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/EROFS-Gains-Extra-Reviewer" target="_blank">EROFS File-System Continues Attracting More Industry Players</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-14 01:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-november-14-2025-red-hat" target="_blank">Friday Five — November 14, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-11-14 00:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
