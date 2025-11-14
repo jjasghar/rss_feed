@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 06:02:30 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-14 07:01:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, November 14, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/14/nx-s1-5608894/comey-james-case-dismissal" target="_blank">Comey and James seek case dismissal, arguing prosecutor was illegally appointed</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-14 06:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +102,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/prince-andrew-allegedly-pleaded-epstein-deny-allegations/story?id=127489262" target="_blank">Prince Andrew allegedly pleaded with Epstein to deny allegations</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-13 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/535a/live/63a05d40-c0ab-11f0-ae46-bd64331f0fd4.jpg" alt="BBC apologises to Trump over Panorama edit but refuses to pay compensation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c874nw4g2zzo?at_medium=RSS&at_campaign=rss" target="_blank">BBC apologises to Trump over Panorama edit but refuses to pay compensation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-13 20:47</span>
             </div>
         </div>
 </div>
@@ -178,6 +181,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nazanin_ashrafi/getting-marimo-up-and-running-on-windows-with-uv-4982" target="_blank">Getting Marimo Up and Running on Windows with uv</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-14 06:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/beachone1155/nextjsdeqiitafeng-nojian-chu-siankarinkuwoshi-zhuang-surufang-fa-bkj" target="_blank">Next.jsでQiita風の見出しアンカーリンクを実装する方法</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-14 05:50</span>
@@ -208,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/manthink/in-depth-comparison-of-lorawan-network-servers-thinklink-tts-chirpstack-loriot-and-actility-45l8" target="_blank">In-Depth Comparison of LoRaWAN Network Servers: ThinkLink, TTS, ChirpStack, Loriot, and Actility</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-14 02:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/ffmpeg-google-fiasco/" target="_blank">FFmpeg Calls Google&#x27;s AI Bug Reports &quot;CVE Slop&quot;</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-14 01:53</span>
             </div>
         </div>
 </div>
@@ -338,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
