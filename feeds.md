@@ -1,42 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-11-13 23:12:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-14 00:04:36 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 34 feeds processed -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, November 13, 2025 - 23:12 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, November 14, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -82,6 +84,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/13/nx-s1-5608038/shutdown-special-education-department-layoffs" target="_blank">Federal special education staff may get their jobs back. But for how long?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-13 20:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/13/france-marks-10-years-since-paris-attacks-upended-country?traffic_source=rss" target="_blank">France marks 10 years since Paris attacks upended country</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -97,20 +108,29 @@
                 <span class="time">2025-11-13 19:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/13/colombia-says-will-maintain-intelligence-sharing-to-fight-drug-trafficking?traffic_source=rss" target="_blank">Colombia to maintain US intelligence-sharing to fight drug trafficking</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-13 18:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/12/GettyImages-837481992-500x500.jpg" alt="This flu season looks grim as H3N2 emerges with mutations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/11/this-flu-season-looks-grim-as-h3n2-emerges-with-mutations/" target="_blank">This flu season looks grim as H3N2 emerges with mutations</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-13 23:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/13/vcs-abandon-old-rules-for-a-funky-time-of-investing-in-ai-startups/" target="_blank">VCs abandon old rules for a ‘funky time’ of investing in AI startups</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-13 23:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,29 +167,29 @@
                 <span class="time">2025-11-13 21:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/820503/valve-half-life-alyx-steam-frame-standalone-vr" target="_blank">Valve wants Half-Life: Alyx to work well standalone on Steam Frame</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-13 20:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai" target="_blank">Anthropic details how it measures Claude&amp;#8217;s wokeness</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-13 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="When AI Outpaces the Rulebook" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/when-ai-outpaces-the-rulebook-2hib" target="_blank">When AI Outpaces the Rulebook</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-14 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Firefox-Ai.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox is Getting a New AI Browsing Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/firefox-ai-window-browsing-mode-coming" target="_blank">Firefox is Getting a New AI Browsing Mode</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-13 23:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,24 +226,6 @@
                 <span class="time">2025-11-13 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ninjarocks/turbomapper-52ck" target="_blank">TurboMapper</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-13 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GCN-1.0-Patch-AMDGPU-Default" target="_blank">New Patch Moves AMD GCN 1.0 GPUs Over To AMDGPU Driver By Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-13 19:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Edgar-Wright-Running-Man-3-1280x853.jpg" alt="Apparently, Edgar Wright Turned Down Directing an ‘X-Men’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/edgar-wright-x-men-movie-marvel-2000685623" target="_blank">Apparently, Edgar Wright Turned Down Directing an ‘X-Men’ Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-13 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/short-finned-pilot-whales-1280x853.jpg" alt="Scientists Wanted to Know How Many Squid Pilot Whales Eat Each Day. What They Found Was Astounding" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +308,6 @@
                 <span class="time">2025-11-13 21:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/gavin-newsom.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Newsom&#x27;s social media declares Trump a pedophile" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/13/newsoms-social-media-declares-trump-a-pedophile.html" target="_blank">Newsom&#x27;s social media declares Trump a pedophile</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-13 18:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,22 +340,13 @@
                 <span class="time">2025-11-13 00:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/12/manifold-delights" target="_blank">Manifold Delights</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-12 23:34</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 23:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
