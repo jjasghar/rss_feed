@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 12:02:26 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-14 13:09:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, November 14, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,9 +45,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/14/g-s1-97813/up-first-newsletter-white-house-epstein-charlotte-federal-agents-trump-economy" target="_blank">Trump to address the affordability issue. And, Border Patrol heading to Charlotte</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-14 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/11/14/nx-s1-5608004/bbc-apology-trump-speech" target="_blank">BBC apologizes for edit of Trump speech but says it won&#x27;t provide legal compensation</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-14 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/14/anger-south-africa-plane-palestinians-held-12-hours" target="_blank">Anger in South Africa after Palestinians held on plane for 12 hours</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-14 11:32</span>
             </div>
         </div>
 <div class="story">
@@ -60,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5536/live/5af93eb0-c14a-11f0-86a5-23e8532eb2d7.jpg" alt="Russian drone slams into block of flats in deadly wave of strikes across Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn4jn94gyllo?at_medium=RSS&at_campaign=rss" target="_blank">Russian drone slams into block of flats in deadly wave of strikes across Kyiv</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-14 11:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8585/live/8f858890-c146-11f0-86a5-23e8532eb2d7.jpg" alt="Reeves decides against raising income tax rates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -68,38 +95,20 @@
                 <span class="time">2025-11-14 10:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/14/jack-della-maddalena-backs-himself-to-beat-ufc-legend-islam-makhachev?traffic_source=rss" target="_blank">Jack Della Maddalena backs himself to beat UFC ‘legend’ Islam Makhachev</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-14 09:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/622d/live/e33074c0-c130-11f0-8456-eff94716b162.jpg" alt="Four killed in wave of Russian strikes across Kyiv, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn4jn94gyllo?at_medium=RSS&at_campaign=rss" target="_blank">Four killed in wave of Russian strikes across Kyiv, officials say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-14 08:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/14/us-south-korea-to-move-forward-on-building-nuclear-powered-submarines?traffic_source=rss" target="_blank">US, South Korea to ‘move forward’ on building nuclear-powered submarines</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-14 08:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-500x500.jpg" alt="Researchers question Anthropic claim that AI-assisted attack was 90% autonomous" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/11/researchers-question-anthropic-claim-that-ai-assisted-attack-was-90-autonomous/" target="_blank">Researchers question Anthropic claim that AI-assisted attack was 90% autonomous</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-14 12:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +154,20 @@
                 <span class="time">2025-11-14 02:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/12/GettyImages-837481992-500x500.jpg" alt="This flu season looks grim as H3N2 emerges with mutations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/11/this-flu-season-looks-grim-as-h3n2-emerges-with-mutations/" target="_blank">This flu season looks grim as H3N2 emerges with mutations</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-13 23:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18727986&w=600" alt="Building Smarter Systems: Architecting AI Agents for Real-World Tasks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-smarter-systems-architecting-ai-agents-fo" target="_blank">Building Smarter Systems: Architecting AI Agents for Real-World Tasks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-14 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +213,6 @@
                 <span class="time">2025-11-14 10:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt=".NET 10 Officially Released with Major Performance, AI, and Developer Experience Improvements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/dotnet-10-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET 10 Officially Released with Major Performance, AI, and Developer Experience Improvements</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-14 09:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,20 +227,20 @@
                 <span class="time">2025-11-13 14:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/book-review-the-business-of-secrets.html" target="_blank">Book Review: The Business of Secrets</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-13 12:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/steve-bannon.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Steve Bannon appears in over 1,700 Jeffrey Epstein emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/14/steve-bannon-appears-in-over-1700-jeffrey-epstein-emails.html" target="_blank">Steve Bannon appears in over 1,700 Jeffrey Epstein emails</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-14 12:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/marco-rubio.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="US brands four European anti-fascist groups as terrorists" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +284,6 @@
                 <span class="title"><a href="https://gizmodo.com/scientists-wanted-to-know-how-many-squid-pilot-whales-eat-each-day-what-they-found-was-astounding-2000685522" target="_blank">Scientists Wanted to Know How Many Squid Pilot Whales Eat Each Day. What They Found Was Astounding</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-13 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/RDR2-1280x720.jpg" alt="Red Dead Redemption Gets PS5 Upgrade Before RDR 2 Because Life Isn’t Fair" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/red-dead-redemption-gets-ps5-upgrade-before-rdr-2-because-life-isnt-fair-2000644145" target="_blank">Red Dead Redemption Gets PS5 Upgrade Before RDR 2 Because Life Isn’t Fair</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-13 22:41</span>
             </div>
         </div>
 </div>
@@ -341,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
