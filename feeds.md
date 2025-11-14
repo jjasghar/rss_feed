@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 13:09:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-14 14:01:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, November 14, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/14/nx-s1-5608969/federal-employees-shutdown-trump-leave" target="_blank">She criticized President Trump during the shutdown. Now she&#x27;s been put on leave</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-14 13:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +102,20 @@
                 <span class="time">2025-11-14 11:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8585/live/8f858890-c146-11f0-86a5-23e8532eb2d7.jpg" alt="Reeves decides against raising income tax rates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0mx3nv7zy8o?at_medium=RSS&at_campaign=rss" target="_blank">Reeves decides against raising income tax rates</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-14 10:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG-2-Ascent-11-500x500.jpg" alt="Blue Origin caps second heavy-lift launch with first offshore landing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/blue-origin-caps-second-heavy-lift-launch-with-first-offshore-landing/" target="_blank">Blue Origin caps second heavy-lift launch with first offshore landing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-14 14:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-500x500.jpg" alt="Researchers question Anthropic claim that AI-assisted attack was 90% autonomous" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +161,20 @@
                 <span class="time">2025-11-14 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/820664/cerebral-valley-conference-ai-anonymous-survey" target="_blank">What insiders anonymously think about the AI race</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-14 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/mozilla-ai-window-plans/" target="_blank">Mozilla Unveils Plans for New &#x27;AI Window&#x27; Browsing Mode in Firefox, Opens Signups</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-14 13:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18727986&w=600" alt="Building Smarter Systems: Architecting AI Agents for Real-World Tasks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,20 +220,20 @@
                 <span class="time">2025-11-14 10:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/ubuntu-15-year-support-commitment/" target="_blank">Ubuntu&#x27;s New 15-Year Commitment Targets Long-Lived Enterprise Systems</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-14 10:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/the-role-of-humans-in-an-ai-powered-world.html" target="_blank">The Role of Humans in an AI-Powered World</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-14 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -232,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/DysonV9MotorbarCordless-1280x853.jpg" alt="Dyson Quietly Slashes the V9 Motorbar by 55%, Cheaper Than Any Other Dyson Vacuum Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dysons-cordless-stick-vacuum-comes-down-to-lower-than-half-price-ahead-of-black-friday-2000644141" target="_blank">Dyson Quietly Slashes the V9 Motorbar by 55%, Cheaper Than Any Other Dyson Vacuum Right Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-14 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HM9HYGDR742KRH11WJWN8A44/hero-image.jpg" alt="&#x27;Flowtime&#x27; Is a More Flexible Alternative to the Pomodoro Technique" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/work/flowtime-time-management-technique?utm_medium=RSS" target="_blank">&#x27;Flowtime&#x27; Is a More Flexible Alternative to the Pomodoro Technique</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-14 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/steve-bannon.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Steve Bannon appears in over 1,700 Jeffrey Epstein emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +300,6 @@
                 <span class="title"><a href="https://gizmodo.com/edgar-wright-x-men-movie-marvel-2000685623" target="_blank">Apparently, Edgar Wright Turned Down Directing an ‘X-Men’ Movie</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-13 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K8QJ0H0T2F8BRZ4B3VV7KFWR/hero-image.png" alt="You Can Get This Dragon G3X Ultra Wired Gaming Headset on Sale for Just $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/dragon-g3x-ultra-gaming-headset-stacksocial-sale-november-2025?utm_medium=RSS" target="_blank">You Can Get This Dragon G3X Ultra Wired Gaming Headset on Sale for Just $50</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-13 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/short-finned-pilot-whales-1280x853.jpg" alt="Scientists Wanted to Know How Many Squid Pilot Whales Eat Each Day. What They Found Was Astounding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-wanted-to-know-how-many-squid-pilot-whales-eat-each-day-what-they-found-was-astounding-2000685522" target="_blank">Scientists Wanted to Know How Many Squid Pilot Whales Eat Each Day. What They Found Was Astounding</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-13 23:00</span>
             </div>
         </div>
 </div>
@@ -332,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
