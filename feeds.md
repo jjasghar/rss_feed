@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 05:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-15 06:02:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/nov/15/health-uk-cut-global-fund-aids-tuberculosis-tb-malaria-africa" target="_blank">UK warned that 15% cut to health fund will force ‘impossible choices’ on Africa</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-15 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,30 +88,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-donald-trump-marjorie-taylor-greene_7082456.jpg?20251115031920" alt="Trump cuts ties with &#x27;Wacky&#x27; Marjorie Taylor Greene after she backs release of Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/donald-trump-withdraws-support-for-marjorie-taylor-greene-after-she-calls-for-epstein-files-to-be-released-13470588" target="_blank">Trump cuts ties with &#x27;Wacky&#x27; Marjorie Taylor Greene after she backs release of Epstein files</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-15 01:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63da/live/35262f40-c1bd-11f0-8456-eff94716b162.jpg" alt="Trump says he will take legal action against BBC over Panorama edit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he will take legal action against BBC over Panorama edit</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-15 00:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/14/g-s1-97936/trump-tariffs-executive-order-beef-coffee-fruit" target="_blank">Trump scraps tariffs on beef, coffee, tropical fruit in a push to lower prices</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-14 23:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/14/displaced-palestinian-families-suffer-as-heavy-rains-flood-gaza-tent-camps?traffic_source=rss" target="_blank">Displaced Palestinian families suffer as heavy rains flood Gaza tent camps</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-14 22:16</span>
             </div>
         </div>
 </div>
@@ -163,6 +170,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kamya_shah_e69d5dd78f831c/understanding-the-role-of-context-in-ai-agent-responses-2f8h" target="_blank">Understanding the Role of Context in AI Agent Responses</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-15 05:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fembz7yk6wreyex9n1nuu.png" alt="An Introduction to LangChain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +223,6 @@
                 <span class="time">2025-11-15 01:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2x89qhcnz994126p9deg.jpg" alt="Day 1267 : I Linger On" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dwane/day-1267-i-linger-on-46lc" target="_blank">Day 1267 : I Linger On</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-14 23:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -254,6 +261,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_1982257796-e1763163639267.jpg?fit=768%2C539&amp;quality=60&amp;ssl=1" alt="Consumer Reports: some plant-based protein shakes have over 15x safe lead levels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/14/consumer-reports-some-plant-based-protein-shakes-have-over-15x-safe-lead-levels.html" target="_blank">Consumer Reports: some plant-based protein shakes have over 15x safe lead levels</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-14 23:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/FNAF-Blumhouse-1280x853.jpg" alt="10 Things to Remember About ‘Five Nights at Freddy’s’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/10-things-to-remember-about-five-nights-at-freddys-2000685629" target="_blank">10 Things to Remember About ‘Five Nights at Freddy’s’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-14 23:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KA1P49KXWSB40Y4RKVXDZBXF/hero-image.png" alt="Beware These Black Friday Shopping Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -278,24 +303,6 @@
                 <span class="title"><a href="https://gizmodo.com/doctor-who-war-between-land-and-sea-release-date-usa-disney-2000686264" target="_blank">Disney and the BBC’s Disintegrated ‘Doctor Who’ Deal Is Leaving Its Spinoff in Limbo</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-14 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/helmetmain-1280x720.jpg" alt="Arc Raiders: The Best Cheat Sheets And Third-Party Resources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-cheat-sheet-crafting-guns-ardb-wiki-2000644449" target="_blank">Arc Raiders: The Best Cheat Sheets And Third-Party Resources</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-14 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/star-trek-klingon-empire-high-council-1280x853.jpg" alt="How Do You Run a Klingon Empire?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/klingon-empire-structure-houses-explained-star-trek-2000685616" target="_blank">How Do You Run a Klingon Empire?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-14 20:30</span>
             </div>
         </div>
 </div>
@@ -344,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
