@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 13:06:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-15 14:02:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 13:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2025/11/15/upheaval-at-the-bbc-is-it-a-crisis-or-a-coup?traffic_source=rss" target="_blank">Upheaval at the BBC: Is it a crisis or a coup?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-15 13:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +98,20 @@
                 <span class="time">2025-11-15 09:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-donald-trump-marjorie-taylor-greene_7078742.jpg?20251111054242" alt="Former Trump ally Marjorie Taylor Greene claims Epstein files &#x27;sent him over the edge&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-cuts-ties-with-marjorie-taylor-greene-as-she-claims-epstein-files-sent-him-over-the-edge-13470629" target="_blank">Former Trump ally Marjorie Taylor Greene claims Epstein files &#x27;sent him over the edge&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-15 07:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/821420/framework-laptop-16-2025-nvidia-rtx5070-review" target="_blank">Framework’s franken-laptop is back with big chip upgrades and familiar frustrations</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-15 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Sereno-adw3536-image-3-500x500.jpg" alt="Wyoming dinosaur mummies give us a new view of duck-billed species" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +157,29 @@
                 <span class="time">2025-11-15 00:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025" target="_blank">The best early Black Friday deals we’ve found so far on laptops, TVs, and more</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-14 22:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sitesazan/what-is-an-e-commerce-website-and-why-do-you-need-one-25io" target="_blank">What is an e-commerce website and why do you need one?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-15 13:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-13.2-Released" target="_blank">Debian 13.2 Released With Dozens Of Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-15 13:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +216,6 @@
                 <span class="time">2025-11-15 10:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://ucs-detect.readthedocs.io/" target="_blank">ucs-detect: automatically test the Unicode version and support level of a terminal emulator</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-15 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html" target="_blank">Our investigation into the suspicious pressure on Archive.today</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-15 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/soundpeats-clip1-review-3-1280x853.jpg" alt="Soundpeats Clip1 Review: These Affordable Open Wireless Earbuds Have Bose Beat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/soundpeats-clip1-review-affordable-open-wireless-earbuds-beat-bose-ultra-open-2000684284" target="_blank">Soundpeats Clip1 Review: These Affordable Open Wireless Earbuds Have Bose Beat</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-15 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/String-theory2-1280x853.jpg" alt="Whatever Happened to String Theory?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +289,6 @@
                 <span class="time">2025-11-14 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/black-light-saber.jpg" alt="Bungie Explains Why Destiny 2‘s Big Roadmap Is Still Missing As It Tries To Engineer A Major Turnaround" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/destiny-2-roadmpa-renegades-star-wars-2000644453" target="_blank">Bungie Explains Why Destiny 2‘s Big Roadmap Is Still Missing As It Tries To Engineer A Major Turnaround</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-14 22:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 13:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
