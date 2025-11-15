@@ -1,30 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-14 23:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-15 00:04:30 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, November 14, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +100,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025" target="_blank">The best early Black Friday deals we’ve found so far on laptops, TVs, and more</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-14 22:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-162749548-500x500.jpg" alt="US may owe $1 trillion in refunds if SCOTUS cancels Trump tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -144,20 +153,29 @@
                 <span class="time">2025-11-14 18:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/821177/fortnite-xbox-on-pc-app-store-epic-games-play-anywhere-crew-game-pass" target="_blank">Fortnite is coming to the Xbox PC store</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-14 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2x89qhcnz994126p9deg.jpg" alt="Day 1267 : I Linger On" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dwane/day-1267-i-linger-on-46lc" target="_blank">Day 1267 : I Linger On</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-14 23:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3-Released" target="_blank">Mesa 25.3 Released With Many Open-Source Vulkan Driver Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-14 23:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcmp9xts5akt73exwdckr.png" alt="Self-Propelled Missiles: How To Find and Work with High Achievers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -165,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/gamepill/self-propelled-missiles-how-to-find-and-work-with-high-achievers-1903" target="_blank">Self-Propelled Missiles: How To Find and Work with High Achievers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-14 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.paulox.net//2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/" target="_blank">How to use UUIDv7 in Python, Django and PostgreSQL</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-14 21:21</span>
             </div>
         </div>
 <div class="story">
@@ -185,38 +212,20 @@
                 <span class="time">2025-11-14 20:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-AMDGPU-GCN-1.0-1.1" target="_blank">AMD GCN 1.0/1.1 GPUs Will Default To AMDGPU Driver In Linux 6.19, SMART POWER OLED Added</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-14 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18755089&w=600" alt="5 Agent CI/CD Evaluation Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/5-agent-cicd-evaluation-best-practices" target="_blank">5 Agent CI/CD Evaluation Best Practices</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-14 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18752676&w=600" alt="Spectre and Meltdown: How Modern CPUs Traded Security for Speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/modern-cpu-security-vs-performance" target="_blank">Spectre and Meltdown: How Modern CPUs Traded Security for Speed</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-14 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html" target="_blank">Friday Squid Blogging: Pilot Whales Eat a Lot of Squid</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-14 23:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -293,6 +302,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/14/ursula-major" target="_blank">Ursula Major</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-14 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/nobody-worry-2/" target="_blank">Nobody Worry</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
@@ -340,8 +358,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
