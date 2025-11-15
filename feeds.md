@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 12:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-15 13:06:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 13:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/15/nx-s1-5602807/opinion-pope-leos-hope-inspiring-favorite-films" target="_blank">Opinion: Pope Leo&#x27;s hope-inspiring favorite films</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-15 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +97,6 @@
                 <span class="title"><a href="https://news.sky.com/story/trump-cuts-ties-with-marjorie-taylor-greene-as-she-claims-epstein-files-sent-him-over-the-edge-13470629" target="_blank">Former Trump ally Marjorie Taylor Greene claims Epstein files &#x27;sent him over the edge&#x27;</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-11-15 07:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/15/g-s1-97954/trump-marjorie-taylor-greene" target="_blank">Trump cuts ties with Marjorie Taylor Greene, once among his top MAGA-world defenders</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-15 05:06</span>
             </div>
         </div>
 </div>
@@ -167,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cnivargi/why-we-ditched-react-and-built-financial-calculators-in-vanilla-javascript-and-how-it-made-2nl" target="_blank">Why We Ditched React and Built Financial Calculators in Vanilla JavaScript (And How It Made Everything Better)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-15 12:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/disiplin_forml_e60c4755/the-supply-chain-ecosystem-a-guide-to-building-a-modern-data-driven-logistics-network-41if" target="_blank">The Supply Chain Ecosystem: A Guide to Building a Modern, Data-Driven Logistics Network</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-15 10:51</span>
@@ -178,6 +187,15 @@
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Plasma-6.6-Better-Crash-Loop" target="_blank">Plasma 6.6 Will Avoid Running Out Of RAM When Something Crashes In A Loop</a></span>
                 <span class="feed">Phoronix</span>
+                <span class="time">2025-11-15 10:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/aws-dynamodb-outage-postmortem/en/headerimage/generatedHeaderImage-1762516250063.jpg" alt="Race Condition in DynamoDB DNS System: Analyzing the AWS US-EAST-1 Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/aws-dynamodb-outage-postmortem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Race Condition in DynamoDB DNS System: Analyzing the AWS US-EAST-1 Outage</a></span>
+                <span class="feed">InfoQ</span>
                 <span class="time">2025-11-15 10:46</span>
             </div>
         </div>
@@ -194,27 +212,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html" target="_blank">Adguard DNS received suspicious pressure to block archive.is</a></span>
+                <span class="title"><a href="https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html" target="_blank">Our investigation into the suspicious pressure on Archive.today</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-15 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/data-residency-azure-local/en/headerimage/generatedHeaderImage-1762848906560.jpg" alt="Microsoft Addresses Data Residency with Private Cloud Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/data-residency-azure-local/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Addresses Data Residency with Private Cloud Expansion</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-15 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/samuelbruk/deploy-rails-apps-for-5month-13in" target="_blank">Deploy Rails apps for $5/month</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-15 09:51</span>
             </div>
         </div>
 </div>
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
