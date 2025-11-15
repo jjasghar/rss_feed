@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 16:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-15 17:01:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/thousands-march-for-climate-action-outside-cop30-summit-in-brazil?traffic_source=rss" target="_blank">Thousands march for climate action outside COP30 summit in Brazil</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-15 16:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/15/nx-s1-5602807/opinion-pope-leos-hope-inspiring-favorite-films" target="_blank">Opinion: Pope Leo&#x27;s hope-inspiring favorite films</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-15 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/11/15/why-russias-liberal-opposition-is-so-anti-palestinian?traffic_source=rss" target="_blank">Why Russia’s liberal opposition is so anti-Palestinian</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-15 10:53</span>
             </div>
         </div>
 </div>
@@ -171,6 +176,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729" target="_blank">Linux on the Fujitsu Lifebook U729</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-15 15:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sitesazan/what-is-an-e-commerce-website-and-why-do-you-need-one-25io" target="_blank">What is an e-commerce website and why do you need one?</a></span>
                 <span class="feed">DEV Community</span>
@@ -202,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/disiplin_forml_e60c4755/the-supply-chain-ecosystem-a-guide-to-building-a-modern-data-driven-logistics-network-41if" target="_blank">The Supply Chain Ecosystem: A Guide to Building a Modern, Data-Driven Logistics Network</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-15 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Plasma-6.6-Better-Crash-Loop" target="_blank">Plasma 6.6 Will Avoid Running Out Of RAM When Something Crashes In A Loop</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-15 10:46</span>
             </div>
         </div>
 </div>
@@ -300,31 +305,13 @@
                 <span class="time">2025-11-14 22:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/nobody-worry-2/" target="_blank">Nobody Worry</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-11-14 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1763094803-20251114.png" alt="Saturday Morning Breakfast Cereal - Conspiracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/conspiracy-2" target="_blank">Saturday Morning Breakfast Cereal - Conspiracy</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-14 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
