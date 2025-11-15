@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 10:02:20 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-15 11:01:22 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/china-issues-travel-warning-for-japan-over-threats-to-intervene-in-taiwan?traffic_source=rss" target="_blank">China issues travel warning for Japan over threats to intervene in Taiwan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-15 10:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he will take legal action against BBC after apology</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-15 04:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/trump-withdraws-support-for-former-maga-champion-marjorie-taylor-greene?traffic_source=rss" target="_blank">Trump withdraws support for former MAGA champion Marjorie Taylor Greene</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-15 04:23</span>
             </div>
         </div>
 </div>
@@ -166,6 +167,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/disiplin_forml_e60c4755/the-supply-chain-ecosystem-a-guide-to-building-a-modern-data-driven-logistics-network-41if" target="_blank">The Supply Chain Ecosystem: A Guide to Building a Modern, Data-Driven Logistics Network</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-15 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Plasma-6.6-Better-Crash-Loop" target="_blank">Plasma 6.6 Will Avoid Running Out Of RAM When Something Crashes In A Loop</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-15 10:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/data-residency-azure-local/en/headerimage/generatedHeaderImage-1762848906560.jpg" alt="Microsoft Addresses Data Residency with Private Cloud Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/data-residency-azure-local/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Addresses Data Residency with Private Cloud Expansion</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-15 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/samuelbruk/deploy-rails-apps-for-5month-13in" target="_blank">Deploy Rails apps for $5/month</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-15 09:51</span>
@@ -187,33 +215,6 @@
                 <span class="title"><a href="https://dev.to/kamya_shah_e69d5dd78f831c/understanding-the-role-of-context-in-ai-agent-responses-2f8h" target="_blank">Understanding the Role of Context in AI Agent Responses</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-15 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cs.lmu.edu/~ray/notes/languagedesignnotes/" target="_blank">So, you want to design your own language? (2017)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-15 05:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fembz7yk6wreyex9n1nuu.png" alt="An Introduction to LangChain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/solegaonkar/an-introduction-to-langchain-9m6" target="_blank">An Introduction to LangChain</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-15 04:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lag_lagendary/ai-in-shell-secure-linux-management-via-telegram-and-gemini-ai-technical-deep-dive-2k8i" target="_blank">AI-in-Shell: Secure Linux Management via Telegram and Gemini AI (Technical Deep Dive)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-15 03:57</span>
             </div>
         </div>
 </div>
@@ -335,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
