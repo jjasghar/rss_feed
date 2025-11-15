@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 17:01:27 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-11-15 18:02:04 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 17:01 UTC</div>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/ukraine-says-it-attacked-russian-oil-refinery-near-moscow?traffic_source=rss" target="_blank">Ukraine says it attacked Russian oil refinery near Moscow as winter looms</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-15 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +94,20 @@
                 <span class="time">2025-11-15 13:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/15/nx-s1-5602807/opinion-pope-leos-hope-inspiring-favorite-films" target="_blank">Opinion: Pope Leo&#x27;s hope-inspiring favorite films</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-15 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/821397/best-rei-holiday-sale-2025-deals" target="_blank">Here are 25 of our favorite outdoorsy deals from REI’s massive Holiday Sale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-15 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6917f342842a1c17c7202040/master/pass/The%20Best%20Gifts%20for%20the%20PC%20Gamer%20in%20Your%20Life.png" alt="17 Best Gifts for PC Gamers (2025): Headsets, Desks, Monitors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +153,20 @@
                 <span class="time">2025-11-15 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6917c55c6c189d50a400dab1/master/pass/US-Cheap-EVs-Gear-2211876031.jpg" alt="When Will the US Finally Get $15K EVs?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/when-will-the-us-finally-get-dollar15k-evs/" target="_blank">When Will the US Finally Get $15K EVs?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-15 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://windhawk.net/mods/classic-theme-enable" target="_blank">Windhawk Windows classic theme mod for Windows 11</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-15 16:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa98ycr8ji92elb31oc6z.png" alt="From 11 Failing Tests to a 110-Test &quot;Bulletproof&quot; AI: A Debugging War Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +212,6 @@
                 <span class="time">2025-11-15 12:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/disiplin_forml_e60c4755/the-supply-chain-ecosystem-a-guide-to-building-a-modern-data-driven-logistics-network-41if" target="_blank">The Supply Chain Ecosystem: A Guide to Building a Modern, Data-Driven Logistics Network</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-15 10:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/varanasi-globetrotter-hed-1280x853.jpg" alt="Behold, ‘Varanasi’, the Next Movie from S.S. Rajamouli" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/behold-varanasi-the-next-movie-from-s-s-rajamouli-2000686433" target="_blank">Behold, ‘Varanasi’, the Next Movie from S.S. Rajamouli</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-15 16:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/i5-13-laptop-1280x853.jpg" alt="Lenovo’s 15-Inch 512GB Laptop Is Nearly Free, Amazon Cuts Prices by 78% and Wants It All Gone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +285,6 @@
                 <span class="time">2025-11-15 01:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_1982257796-e1763163639267.jpg?fit=768%2C539&amp;quality=60&amp;ssl=1" alt="Consumer Reports: some plant-based protein shakes have over 15x safe lead levels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/14/consumer-reports-some-plant-based-protein-shakes-have-over-15x-safe-lead-levels.html" target="_blank">Consumer Reports: some plant-based protein shakes have over 15x safe lead levels</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-14 23:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
