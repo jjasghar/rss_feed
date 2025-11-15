@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 00:04:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-15 01:29:12 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63da/live/35262f40-c1bd-11f0-8456-eff94716b162.jpg" alt="Trump says he will take legal action against BBC over Panorama edit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he will take legal action against BBC over Panorama edit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-15 00:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +93,6 @@
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/marjorie-taylor-greene-questions-trump-america-first-foreign-trips-rcna243323" target="_blank">Marjorie Taylor Greene questions if Trump is still the &#x27;America First&#x27; president</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-14 19:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/14/nx-s1-5601054/kansas-redistricting-republican-trump" target="_blank">In Kansas and elsewhere, some state lawmakers are skeptical of the redistricting rush</a></span>
-                <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-14 19:29</span>
             </div>
         </div>
@@ -159,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F704504%2Fa8320008-0720-4944-bcd6-e66a7a23e5a7.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/b5119/-55ml" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-15 01:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2x89qhcnz994126p9deg.jpg" alt="Day 1267 : I Linger On" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,15 +212,6 @@
                 <span class="title"><a href="https://dzone.com/articles/ai-vulnerability-detection-llm-reliability" target="_blank">Evaluating AI Vulnerability Detection: How Reliable Are LLMs for Secure Coding?</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-14 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ko5dyzg0190crokh6j3.png" alt="Building Logic Apps Locally with VS Code: HTTP, Blob, Queue &amp; More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/imdj/building-logic-apps-locally-with-vs-code-http-blob-queue-more-1agj" target="_blank">Building Logic Apps Locally with VS Code: HTTP, Blob, Queue &amp; More</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-14 20:50</span>
             </div>
         </div>
 </div>
@@ -358,8 +360,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
