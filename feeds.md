@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 22:01:22 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-15 23:01:32 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/palestinians-reel-under-winter-rains-as-israel-blocks-gaza-shelter-supplies?traffic_source=rss" target="_blank">Palestinians reel under winter rains as Israel blocks Gaza shelter supplies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-15 22:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-mtg-02-gty-jt-251115_1763227499590_hpMain_4x3t_384.jpg" alt="Trump, Marjorie Taylor Greene escalate feud over Epstein probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-marjorie-taylor-greene-engage-war-words-epstein/story?id=127553799" target="_blank">Trump, Marjorie Taylor Greene escalate feud over Epstein probe</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-15 22:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-mtg-02-gty-jt-251115_1763227499590_hpMain_4x3t_384.jpg" alt="Trump, Marjorie Taylor Greene engage in war of words over Epstein investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +94,20 @@
                 <span class="time">2025-11-15 18:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/ukraine-says-it-attacked-russian-oil-refinery-near-moscow?traffic_source=rss" target="_blank">Ukraine says it attacked Russian oil refinery near Moscow as winter looms</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-15 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/thousands-march-for-climate-action-outside-cop30-summit-in-brazil?traffic_source=rss" target="_blank">Thousands march for climate action outside COP30 summit in Brazil</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-15 16:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/" target="_blank">JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-15 22:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +153,20 @@
                 <span class="time">2025-11-15 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/821614/discover-music-without-algorithms" target="_blank">How to find music you will love without the algorithm</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-15 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/onaolapo11/contrary-to-java-embedded-in-python-is-the-idea-of-methods-and-functions-13df" target="_blank">Contrary to JAVA, embedded in Python is the idea of Methods and Functions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-15 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6kvf3syfhr90okc63msp.png" alt="Building a simple RAG system in PHP with the Neuron AI framework in one evening" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +212,6 @@
                 <span class="time">2025-11-15 16:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa98ycr8ji92elb31oc6z.png" alt="From 11 Failing Tests to a 110-Test &quot;Bulletproof&quot; AI: A Debugging War Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/freerave/from-11-failing-tests-to-a-110-test-bulletproof-ai-a-debugging-war-story-36k3" target="_blank">From 11 Failing Tests to a 110-Test &quot;Bulletproof&quot; AI: A Debugging War Story</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-15 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/meta-quest-3s-vr-1280x853.jpg" alt="Amazon Clears Out the Meta Quest 3S, Your Cheapest Path to Premium VR Is Nearly Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-clears-out-the-meta-quest-3s-your-cheapest-path-to-premium-vr-is-nearly-free-2000644596" target="_blank">Amazon Clears Out the Meta Quest 3S, Your Cheapest Path to Premium VR Is Nearly Free</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-15 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/sharknado-hed-1280x853.jpg" alt="Somehow, ‘Sharknado’ Will Return With an Origin Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/somehow-sharknado-will-return-with-an-origin-movie-2000686336" target="_blank">Somehow, ‘Sharknado’ Will Return With an Origin Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-15 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/hovering-cube-1280x858.jpg" alt="‘Imagine a Cube Floating in the Air’: The New AI Dream Allegedly Driving Yann LeCun Away from Meta" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +285,6 @@
                 <span class="time">2025-11-15 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/i5-13-laptop-1280x853.jpg" alt="Lenovo’s 15-Inch 512GB Laptop Is Nearly Free, Amazon Cuts Prices by 78% and Wants It All Gone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lenovos-15-inch-512gb-laptop-is-nearly-free-amazon-cuts-prices-by-78-and-wants-it-all-gone-2000644589" target="_blank">Lenovo’s 15-Inch 512GB Laptop Is Nearly Free, Amazon Cuts Prices by 78% and Wants It All Gone</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-15 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/tiny-transmitter-bluetooth-1280x853.jpg" alt="This Tiny Gadget Lets You Connect Your Bluetooth Headphones to the Plane’s Screen, and It Costs Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-tiny-gadget-lets-you-connect-your-bluetooth-headphones-to-the-planes-screen-and-it-costs-pennies-2000644579" target="_blank">This Tiny Gadget Lets You Connect Your Bluetooth Headphones to the Plane’s Screen, and It Costs Pennies</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-15 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,22 +299,13 @@
                 <span class="time">2025-11-15 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/14/ursula-major" target="_blank">Ursula Major</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-14 22:43</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
