@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 03:18:08 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-15 04:01:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 03:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 04:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/jailed-tunisian-opposition-figure-hospitalised-amid-hunger-strike-family?traffic_source=rss" target="_blank">Jailed Tunisian opposition figure hospitalised amid hunger strike: Family</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-15 03:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +96,6 @@
                 <span class="time">2025-11-14 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/south-cali-rain-prep-k2-abc-jef-251114_1763133330469_hpMain_4x3t_384.jpg" alt="Southern California storm: Burn scar areas brace for mudslides, debris flows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/millions-flood-watches-evacuation-orders-place-southern-california/story?id=127523533" target="_blank">Southern California storm: Burn scar areas brace for mudslides, debris flows</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-14 21:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -138,6 +138,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/69168307c6287bce23811383/master/pass/The%2019%20Best%20Gifts%20for%20Bird%20Lovers.png" alt="The 19 Best Tried and Tested Gifts for Bird Lovers (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-bird-lovers/" target="_blank">The 19 Best Tried and Tested Gifts for Bird Lovers (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-14 21:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -146,20 +155,20 @@
                 <span class="time">2025-11-14 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Credit-Emme-Hall-500x500.jpg" alt="What’s it like to compete in the longest US off-road rally with no GPS?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/11/i-drove-for-over-2000-kilometers-off-road-without-gps-in-the-rebelle-rally/" target="_blank">What’s it like to compete in the longest US off-road rally with no GPS?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-14 19:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lag_lagendary/ai-in-shell-secure-linux-management-via-telegram-and-gemini-ai-technical-deep-dive-2k8i" target="_blank">AI-in-Shell: Secure Linux Management via Telegram and Gemini AI (Technical Deep Dive)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-15 03:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3-Released" target="_blank">Mesa 25.3 Released With Many Open-Source Vulkan Driver Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-14 23:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcmp9xts5akt73exwdckr.png" alt="Self-Propelled Missiles: How To Find and Work with High Achievers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gamepill/self-propelled-missiles-how-to-find-and-work-with-high-achievers-1903" target="_blank">Self-Propelled Missiles: How To Find and Work with High Achievers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-14 21:47</span>
             </div>
         </div>
 </div>
@@ -351,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 03:18 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 04:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
