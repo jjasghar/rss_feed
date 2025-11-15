@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 21:01:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-11-15 22:01:22 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +52,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-marjorie-taylor-greene-engage-war-words-epstein/story?id=127553799" target="_blank">Trump, Marjorie Taylor Greene engage in war of words over Epstein investigation</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-15 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251115-Border-Patrol-ch-1228-480bc3.jpg" alt="Border Patrol operations start in Charlotte as officials urge calm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/charlotte-north-carolina-border-patrol-operation-rcna244106" target="_blank">Border Patrol operations start in Charlotte as officials urge calm</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-15 19:44</span>
             </div>
         </div>
 <div class="story">
@@ -88,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/thousands-march-for-climate-action-outside-cop30-summit-in-brazil?traffic_source=rss" target="_blank">Thousands march for climate action outside COP30 summit in Brazil</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-15 16:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/15/nx-s1-5609876/uc-university-california-discrimination-fine-ruling" target="_blank">Judge indefinitely bars Trump from fining UC over alleged discrimination</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-15 15:51</span>
             </div>
         </div>
 </div>
@@ -246,6 +246,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2588247199.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Jiffy Lube: too much jiffy, not enough lube" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/15/jiffy-lube-too-much-jiffy-not-enough-lube.html" target="_blank">Jiffy Lube: too much jiffy, not enough lube</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-15 18:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/varanasi-globetrotter-hed-1280x853.jpg" alt="Behold, ‘Varanasi’, the Next Movie from S.S. Rajamouli" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -281,20 +290,20 @@
                 <span class="time">2025-11-15 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/soundpeats-clip1-review-3-1280x853.jpg" alt="Soundpeats Clip1 Review: These Affordable Open Wireless Earbuds Have Bose Beat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/soundpeats-clip1-review-affordable-open-wireless-earbuds-beat-bose-ultra-open-2000684284" target="_blank">Soundpeats Clip1 Review: These Affordable Open Wireless Earbuds Have Bose Beat</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-15 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1763094913-20251115.png" alt="Saturday Morning Breakfast Cereal - Convexity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/convexity" target="_blank">Saturday Morning Breakfast Cereal - Convexity</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-15 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -309,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
