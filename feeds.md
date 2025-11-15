@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 11:01:22 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-11-15 12:02:18 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/11/15/why-russias-liberal-opposition-is-so-anti-palestinian?traffic_source=rss" target="_blank">Why Russia’s liberal opposition is so anti-Palestinian</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-15 10:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jeffrey-epstein-gty-jt-250903_1756915665744_hpMain_4x3t_384.jpg" alt="Timeline: Trump administration responses in Epstein files release saga" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/timeline-trump-administration-responses-epstein-files-release-saga/story?id=127529275" target="_blank">Timeline: Trump administration responses in Epstein files release saga</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-15 10:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +99,29 @@
                 <span class="time">2025-11-15 05:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/nov/15/health-uk-cut-global-fund-aids-tuberculosis-tb-malaria-africa" target="_blank">UK warned that 15% cut to health fund will force ‘impossible choices’ on Africa</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-15 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0acf/live/f99f2110-c1cc-11f0-8669-5560f5c90fbe.jpg" alt="Trump says he will take legal action against BBC after apology" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he will take legal action against BBC after apology</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-15 04:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Sereno-adw3536-image-3-500x500.jpg" alt="Wyoming dinosaur mummies give us a new view of duck-billed species" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/wyoming-dinosaur-mummies-give-us-a-new-view-of-duck-billed-species/" target="_blank">Wyoming dinosaur mummies give us a new view of duck-billed species</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-15 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69175b626ac002ea9e219544/master/pass/IC-Point-Mosquito-cropped-in.jpg" alt="An Invasive Disease-Carrying Mosquito Has Spread to the Rocky Mountains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-disease-carrying-mosquito-has-landed-in-the-rocky-mountains-where-it-historically-couldnt-survive/" target="_blank">An Invasive Disease-Carrying Mosquito Has Spread to the Rocky Mountains</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-15 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6917c55c6c189d50a400dab1/master/pass/US-Cheap-EVs-Gear-2211876031.jpg" alt="When Will the US Finally Get $15K EVs?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +158,6 @@
                 <span class="time">2025-11-14 22:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-162749548-500x500.jpg" alt="US may owe $1 trillion in refunds if SCOTUS cancels Trump tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/tariff-refunds-may-get-messy-if-trump-loses-supreme-court-fight/" target="_blank">US may owe $1 trillion in refunds if SCOTUS cancels Trump tariffs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-14 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69168307c6287bce23811383/master/pass/The%2019%20Best%20Gifts%20for%20Bird%20Lovers.png" alt="The 19 Best Tried and Tested Gifts for Bird Lovers (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-bird-lovers/" target="_blank">The 19 Best Tried and Tested Gifts for Bird Lovers (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-14 21:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,6 +182,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://ucs-detect.readthedocs.io/" target="_blank">ucs-detect: automatically test the Unicode version and support level of a terminal emulator</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-15 10:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html" target="_blank">Adguard DNS received suspicious pressure to block archive.is</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-15 10:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/data-residency-azure-local/en/headerimage/generatedHeaderImage-1762848906560.jpg" alt="Microsoft Addresses Data Residency with Private Cloud Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -199,24 +217,6 @@
                 <span class="time">2025-11-15 09:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/natarajan_c_k/understanding-wmi-in-cybersecurity-a-simple-beginners-guide-3hce" target="_blank">🔐 Understanding WMI in Cybersecurity — A Simple Beginner’s Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-15 07:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kamya_shah_e69d5dd78f831c/understanding-the-role-of-context-in-ai-agent-responses-2f8h" target="_blank">Understanding the Role of Context in AI Agent Responses</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-15 05:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,20 +231,20 @@
                 <span class="time">2025-11-14 23:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/the-role-of-humans-in-an-ai-powered-world.html" target="_blank">The Role of Humans in an AI-Powered World</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-14 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/String-theory2-1280x853.jpg" alt="Whatever Happened to String Theory?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/whatever-happened-to-string-theory-2000686064" target="_blank">Whatever Happened to String Theory?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-15 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/macbook-air-2025-apple-1280x853.jpg" alt="Apple Skips Black Friday at Its Stores, But Quietly Drops the MacBook Air to a New All-Time Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +290,6 @@
                 <span class="time">2025-11-14 22:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/war-between-sea-devils-1280x853.jpg" alt="Disney and the BBC’s Disintegrated ‘Doctor Who’ Deal Is Leaving Its Spinoff in Limbo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/doctor-who-war-between-land-and-sea-release-date-usa-disney-2000686264" target="_blank">Disney and the BBC’s Disintegrated ‘Doctor Who’ Deal Is Leaving Its Spinoff in Limbo</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-14 21:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
