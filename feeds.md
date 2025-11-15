@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 15:01:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-11-15 16:01:46 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/15/nx-s1-5609876/uc-university-california-discrimination-fine-ruling" target="_blank">Judge indefinitely bars Trump from fining UC over alleged discrimination</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-15 15:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/more-details-emerge-of-israels-brutal-treatment-of-palestinian-detainees?traffic_source=rss" target="_blank">More details emerge of Israel’s ‘brutal’ treatment of Palestinian detainees</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-15 15:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +95,20 @@
                 <span class="time">2025-11-15 10:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jeffrey-epstein-gty-jt-250903_1756915665744_hpMain_4x3t_384.jpg" alt="Timeline: Trump administration responses in Epstein files release saga" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/timeline-trump-administration-responses-epstein-files-release-saga/story?id=127529275" target="_blank">Timeline: Trump administration responses in Epstein files release saga</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-15 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/china-issues-travel-warning-for-japan-over-threats-to-intervene-in-taiwan?traffic_source=rss" target="_blank">China issues travel warning for Japan over threats to intervene in Taiwan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-15 10:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6917f342842a1c17c7202040/master/pass/The%20Best%20Gifts%20for%20the%20PC%20Gamer%20in%20Your%20Life.png" alt="17 Best Gifts for PC Gamers (2025): Headsets, Desks, Monitors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/gift-ideas-for-pc-gamers/" target="_blank">17 Best Gifts for PC Gamers (2025): Headsets, Desks, Monitors</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-15 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +154,20 @@
                 <span class="time">2025-11-15 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates" target="_blank">YouTube TV, ESPN, and Disney: the latest on the blackout that’s now over</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-15 01:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa98ycr8ji92elb31oc6z.png" alt="From 11 Failing Tests to a 110-Test &quot;Bulletproof&quot; AI: A Debugging War Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/freerave/from-11-failing-tests-to-a-110-test-bulletproof-ai-a-debugging-war-story-36k3" target="_blank">From 11 Failing Tests to a 110-Test &quot;Bulletproof&quot; AI: A Debugging War Story</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-15 15:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +213,6 @@
                 <span class="time">2025-11-15 10:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/aws-dynamodb-outage-postmortem/en/headerimage/generatedHeaderImage-1762516250063.jpg" alt="Race Condition in DynamoDB DNS System: Analyzing the AWS US-EAST-1 Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/aws-dynamodb-outage-postmortem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Race Condition in DynamoDB DNS System: Analyzing the AWS US-EAST-1 Outage</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-15 10:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/i5-13-laptop-1280x853.jpg" alt="Lenovo’s 15-Inch 512GB Laptop Is Nearly Free, Amazon Cuts Prices by 78% and Wants It All Gone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lenovos-15-inch-512gb-laptop-is-nearly-free-amazon-cuts-prices-by-78-and-wants-it-all-gone-2000644589" target="_blank">Lenovo’s 15-Inch 512GB Laptop Is Nearly Free, Amazon Cuts Prices by 78% and Wants It All Gone</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-15 15:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/tiny-transmitter-bluetooth-1280x853.jpg" alt="This Tiny Gadget Lets You Connect Your Bluetooth Headphones to the Plane’s Screen, and It Costs Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +286,6 @@
                 <span class="time">2025-11-14 23:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/FNAF-Blumhouse-1280x853.jpg" alt="10 Things to Remember About ‘Five Nights at Freddy’s’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/10-things-to-remember-about-five-nights-at-freddys-2000685629" target="_blank">10 Things to Remember About ‘Five Nights at Freddy’s’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-14 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
