@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 07:01:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-11-15 08:02:18 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 07:01 UTC</div>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -166,9 +166,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/natarajan_c_k/understanding-wmi-in-cybersecurity-a-simple-beginners-guide-3hce" target="_blank">🔐 Understanding WMI in Cybersecurity — A Simple Beginner’s Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-15 07:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kamya_shah_e69d5dd78f831c/understanding-the-role-of-context-in-ai-agent-responses-2f8h" target="_blank">Understanding the Role of Context in AI Agent Responses</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-15 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cs.lmu.edu/~ray/notes/languagedesignnotes/" target="_blank">So, you want to design your own language? (2017)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-15 05:44</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/cynthia_f/setting-up-continuous-integration-workflow-and-running-tests-in-another-repository-4d74" target="_blank">Setting Up Continuous Integration Workflow and Running Tests in Another Repository.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-15 03:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tarno_pon_968706448b52563/while-zapiern8n-are-busy-wrapping-apis-flowork-focuses-on-training-ai-models-a-deep-dive-55hj" target="_blank">While Zapier/n8n Are Busy &#x27;Wrapping APIs&#x27;, Flowork Focuses on &#x27;Training AI Models&#x27; (A Deep Dive into AITrainingService)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-15 02:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F704504%2Fa8320008-0720-4944-bcd6-e66a7a23e5a7.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/b5119/-55ml" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-15 01:09</span>
             </div>
         </div>
 </div>
@@ -330,22 +330,13 @@
                 <span class="time">2025-11-14 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/14/ursula-major" target="_blank">Ursula Major</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-14 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
