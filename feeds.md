@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 20:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-15 21:01:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -117,6 +116,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/" target="_blank">Disney and YouTube TV reach deal to end blackout</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-15 17:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/821397/best-rei-holiday-sale-2025-deals" target="_blank">Here are 25 of our favorite outdoorsy deals from REI’s massive Holiday Sale</a></span>
                 <span class="feed">The Verge</span>
@@ -150,20 +158,29 @@
                 <span class="time">2025-11-15 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/821420/framework-laptop-16-2025-nvidia-rtx5070-review" target="_blank">Framework’s franken-laptop is back with big chip upgrades and familiar frustrations</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-15 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6kvf3syfhr90okc63msp.png" alt="Building a simple RAG system in PHP with the Neuron AI framework in one evening" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/samuel_akopyan_e902195a96/building-a-simple-rag-system-in-php-with-the-neuron-ai-framework-in-one-evening-2051" target="_blank">Building a simple RAG system in PHP with the Neuron AI framework in one evening</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-15 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Servo-0.0.2-Released" target="_blank">Servo 0.0.2 Released For Those Wanting To Try Out This Example Rust Web Browser</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-15 20:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5e57lh7rtwwwe2d694n.png" alt="How to Run Efficient ClamAV Scans on a 4GB RAM Server (Without Killing Your Machine)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +217,6 @@
                 <span class="time">2025-11-15 15:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729" target="_blank">Linux on the Fujitsu Lifebook U729</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-15 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Nautilus-Copy-Paste-Files" target="_blank">GNOME&#x27;s Nautilus File Manager Finally Supporting Ctrl+Insert &amp; Shift+Insert</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-15 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,12 +237,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/hovering-cube-1280x858.jpg" alt="‘Imagine a Cube Floating in the Air’: The New AI Dream Allegedly Driving Yann LeCun Away from Meta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/yann-lecun-world-models-2000685265" target="_blank">‘Imagine a Cube Floating in the Air’: The New AI Dream Allegedly Driving Yann LeCun Away from Meta</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-15 19:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/varanasi-globetrotter-hed-1280x853.jpg" alt="Behold, ‘Varanasi’, the Next Movie from S.S. Rajamouli" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/behold-varanasi-the-next-movie-from-s-s-rajamouli-2000686433" target="_blank">Behold, ‘Varanasi’, the Next Movie from S.S. Rajamouli</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-15 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Internxt-Cloud-Storage-Lifetime-Subscription.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The cloud called. Your files are moving in forever." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/15/the-cloud-called-your-files-are-moving-in-forever.html" target="_blank">The cloud called. Your files are moving in forever.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-15 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -273,24 +290,6 @@
                 <span class="time">2025-11-15 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/String-theory2-1280x853.jpg" alt="Whatever Happened to String Theory?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/whatever-happened-to-string-theory-2000686064" target="_blank">Whatever Happened to String Theory?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-15 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/macbook-air-2025-apple-1280x853.jpg" alt="Apple Skips Black Friday at Its Stores, But Quietly Drops the MacBook Air to a New All-Time Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/apple-skips-black-friday-at-its-stores-but-quietly-drops-the-macbook-air-to-a-new-all-time-low-on-amazon-2000644485" target="_blank">Apple Skips Black Friday at Its Stores, But Quietly Drops the MacBook Air to a New All-Time Low on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-15 01:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
