@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 08:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-15 09:01:22 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,10 +52,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/15/g-s1-97954/trump-marjorie-taylor-greene" target="_blank">Trump cuts ties with Marjorie Taylor Greene, once among his top MAGA-world defenders</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-15 05:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/global-development/2025/nov/15/health-uk-cut-global-fund-aids-tuberculosis-tb-malaria-africa" target="_blank">UK warned that 15% cut to health fund will force ‘impossible choices’ on Africa</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-15 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0acf/live/f99f2110-c1cc-11f0-8669-5560f5c90fbe.jpg" alt="Trump says he will take legal action against BBC after apology" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he will take legal action against BBC after apology</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-15 04:41</span>
             </div>
         </div>
 <div class="story">
@@ -78,24 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/seven-killed-in-blast-at-police-station-in-indian-administered-kashmir?traffic_source=rss" target="_blank">Seven killed in blast at police station in Indian-administered Kashmir</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-15 01:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-donald-trump-marjorie-taylor-greene_7082456.jpg?20251115031920" alt="Trump cuts ties with &#x27;Wacky&#x27; Marjorie Taylor Greene after she backs release of Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/donald-trump-withdraws-support-for-marjorie-taylor-greene-after-she-calls-for-epstein-files-to-be-released-13470588" target="_blank">Trump cuts ties with &#x27;Wacky&#x27; Marjorie Taylor Greene after she backs release of Epstein files</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-15 01:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63da/live/35262f40-c1bd-11f0-8456-eff94716b162.jpg" alt="Trump says he will take legal action against BBC over Panorama edit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he will take legal action against BBC over Panorama edit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-15 00:55</span>
             </div>
         </div>
 </div>
@@ -335,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
