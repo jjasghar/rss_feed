@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 09:01:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-15 10:02:20 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/15/g-s1-97958/bondi-investigate-epstein-ties-to-political-foes" target="_blank">At Trump&#x27;s urging, Bondi says U.S. will investigate Epstein&#x27;s ties to political foes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-15 09:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-donald-trump-marjorie-taylor-greene_7078742.jpg?20251111054242" alt="Former Trump ally Marjorie Taylor Greene claims Epstein files &#x27;sent him over the edge&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-cuts-ties-with-marjorie-taylor-greene-as-she-claims-epstein-files-sent-him-over-the-edge-13470629" target="_blank">Former Trump ally Marjorie Taylor Greene claims Epstein files &#x27;sent him over the edge&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-15 07:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +98,20 @@
                 <span class="time">2025-11-15 04:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/jailed-tunisian-opposition-figure-hospitalised-amid-hunger-strike-family?traffic_source=rss" target="_blank">Jailed Tunisian opposition figure hospitalised amid hunger strike: Family</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-15 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/seven-killed-in-blast-at-police-station-in-indian-administered-kashmir?traffic_source=rss" target="_blank">Seven killed in blast at police station in Indian-administered Kashmir</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-15 01:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6917c55c6c189d50a400dab1/master/pass/US-Cheap-EVs-Gear-2211876031.jpg" alt="When Will the US Finally Get $15K EVs?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/when-will-the-us-finally-get-dollar15k-evs/" target="_blank">When Will the US Finally Get $15K EVs?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-15 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +157,20 @@
                 <span class="time">2025-11-14 21:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/821250/switch-2-update-third-party-dock-update-blocked" target="_blank">A recent Switch 2 update blocks some third-party docks, but Nintendo isn’t saying why</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-14 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/samuelbruk/deploy-rails-apps-for-5month-13in" target="_blank">Deploy Rails apps for $5/month</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-15 09:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/lag_lagendary/ai-in-shell-secure-linux-management-via-telegram-and-gemini-ai-technical-deep-dive-2k8i" target="_blank">AI-in-Shell: Secure Linux Management via Telegram and Gemini AI (Technical Deep Dive)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-15 03:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cynthia_f/setting-up-continuous-integration-workflow-and-running-tests-in-another-repository-4d74" target="_blank">Setting Up Continuous Integration Workflow and Running Tests in Another Repository.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-15 03:04</span>
             </div>
         </div>
 </div>
@@ -340,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
