@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 01:29:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-15 02:28:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 02:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/seven-killed-in-blast-at-police-station-in-indian-administered-kashmir?traffic_source=rss" target="_blank">Seven killed in blast at police station in Indian-administered Kashmir</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-15 01:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63da/live/35262f40-c1bd-11f0-8456-eff94716b162.jpg" alt="Trump says he will take legal action against BBC over Panorama edit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he will take legal action against BBC over Panorama edit</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-15 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/14/g-s1-97936/trump-tariffs-executive-order-beef-coffee-fruit" target="_blank">Trump scraps tariffs on beef, coffee, tropical fruit in a push to lower prices</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-14 23:59</span>
             </div>
         </div>
 <div class="story">
@@ -70,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://s.abcnews.com/images/US/south-cali-rain-prep-k2-abc-jef-251114_1763133330469_hpMain_4x3t_384.jpg" alt="Southern California storm: Burn scar areas brace for mudslides, debris flows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/14/shelters-for-displaced-palestinians-in-gaza-flooded-by-heavy-rain?traffic_source=rss" target="_blank">Shelters for displaced Palestinians in Gaza flooded by heavy rain</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-14 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/14/g-s1-97864/purdue-pharma-sackler-family-opioid-settlement" target="_blank">Judge says he&#x27;ll approve opioid settlement with OxyContin maker Purdue and Sackler family</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-14 20:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251104-Marjorie-Taylor-Greene-aa-615-f26232.jpg" alt="Marjorie Taylor Greene questions if Trump is still the &#x27;America First&#x27; president" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/marjorie-taylor-greene-questions-trump-america-first-foreign-trips-rcna243323" target="_blank">Marjorie Taylor Greene questions if Trump is still the &#x27;America First&#x27; president</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-14 19:29</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/millions-flood-watches-evacuation-orders-place-southern-california/story?id=127523533" target="_blank">Southern California storm: Burn scar areas brace for mudslides, debris flows</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-14 21:22</span>
             </div>
         </div>
 </div>
@@ -101,6 +105,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates" target="_blank">YouTube TV, ESPN, and Disney: the latest on the blackout that’s now over</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-15 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/" target="_blank">Leaked documents shed light into how much OpenAI pays Microsoft</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-15 00:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +159,20 @@
                 <span class="time">2025-11-14 19:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2246100870-500x500.jpg" alt="Three astronauts are stuck on China’s space station without a safe ride home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/three-astronauts-are-stuck-on-chinas-space-station-without-a-safe-ride-home/" target="_blank">Three astronauts are stuck on China’s space station without a safe ride home</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-14 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691774f4f9cf281e6cc0912a/master/pass/Our%20Favorite%20Webcam%20Is%20Marked%20Down%20by%20$35.png" alt="Our Favorite Webcam Is Marked Down by $35" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/logitech-brio-500-deal-1125/" target="_blank">Our Favorite Webcam Is Marked Down by $35</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-14 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tarno_pon_968706448b52563/while-zapiern8n-are-busy-wrapping-apis-flowork-focuses-on-training-ai-models-a-deep-dive-55hj" target="_blank">While Zapier/n8n Are Busy &#x27;Wrapping APIs&#x27;, Flowork Focuses on &#x27;Training AI Models&#x27; (A Deep Dive into AITrainingService)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-15 02:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F704504%2Fa8320008-0720-4944-bcd6-e66a7a23e5a7.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,15 +218,6 @@
                 <span class="time">2025-11-14 21:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18733341&w=600" alt="Evaluating AI Vulnerability Detection: How Reliable Are LLMs for Secure Coding?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-vulnerability-detection-llm-reliability" target="_blank">Evaluating AI Vulnerability Detection: How Reliable Are LLMs for Secure Coding?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-14 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/macbook-air-2025-apple-1280x853.jpg" alt="Apple Skips Black Friday at Its Stores, But Quietly Drops the MacBook Air to a New All-Time Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/apple-skips-black-friday-at-its-stores-but-quietly-drops-the-macbook-air-to-a-new-all-time-low-on-amazon-2000644485" target="_blank">Apple Skips Black Friday at Its Stores, But Quietly Drops the MacBook Air to a New All-Time Low on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-15 01:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KA1P49KXWSB40Y4RKVXDZBXF/hero-image.png" alt="Beware These Black Friday Shopping Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +298,6 @@
                 <span class="title"><a href="https://gizmodo.com/klingon-empire-structure-houses-explained-star-trek-2000685616" target="_blank">How Do You Run a Klingon Empire?</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-14 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/04/30bec5b7bff1e5e7ba3937d3ce3e3986-e1763147970689-1280x853.jpg" alt="First Central Bank in Europe Buys Bitcoin Months After ECB President Said It Would Never Enter Reserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/first-central-bank-in-europe-buys-bitcoin-months-after-ecb-president-said-it-would-never-enter-reserves-2000686220" target="_blank">First Central Bank in Europe Buys Bitcoin Months After ECB President Said It Would Never Enter Reserves</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-14 19:35</span>
             </div>
         </div>
 </div>
@@ -346,22 +350,13 @@
                 <span class="time">2025-11-14 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5701.png" alt="Needs Better Soundproofing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5701" target="_blank">Needs Better Soundproofing</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-11-14 01:54</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 02:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
