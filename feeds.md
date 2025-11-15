@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 18:02:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-15 19:01:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 1 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/15/is-global-sports-betting-out-of?traffic_source=rss" target="_blank">Is global sports betting out of control?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-15 18:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/15/g-s1-97843/birth-control-contraceptives-usaid-belgium-unusable-storage" target="_blank">A stock of U.S.-bought birth control, meant for sub-Saharan Africa, goes bad in Belgium</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-15 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2025/11/15/upheaval-at-the-bbc-is-it-a-crisis-or-a-coup?traffic_source=rss" target="_blank">Upheaval at the BBC: Is it a crisis or a coup?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-15 13:06</span>
             </div>
         </div>
 </div>
@@ -304,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
