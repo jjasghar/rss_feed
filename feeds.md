@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-15 19:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-15 20:01:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 1 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, November 15, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, November 15, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-mtg-02-gty-jt-251115_1763227499590_hpMain_4x3t_384.jpg" alt="Trump, Marjorie Taylor Greene engage in war of words over Epstein investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-marjorie-taylor-greene-engage-war-words-epstein/story?id=127553799" target="_blank">Trump, Marjorie Taylor Greene engage in war of words over Epstein investigation</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-15 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/15/ethiopia-confirms-outbreak-of-deadly-marburg-virus" target="_blank">Ethiopia confirms outbreak of deadly Marburg virus</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-15 19:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +100,6 @@
                 <span class="time">2025-11-15 15:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/more-details-emerge-of-israels-brutal-treatment-of-palestinian-detainees?traffic_source=rss" target="_blank">More details emerge of Israel’s ‘brutal’ treatment of Palestinian detainees</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-15 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/15/g-s1-97843/birth-control-contraceptives-usaid-belgium-unusable-storage" target="_blank">A stock of U.S.-bought birth control, meant for sub-Saharan Africa, goes bad in Belgium</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-15 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,9 +109,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/821691/tim-cook-step-down-apple-ceo-next-year" target="_blank">Tim Cook could step down as Apple CEO next year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-15 19:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/821397/best-rei-holiday-sale-2025-deals" target="_blank">Here are 25 of our favorite outdoorsy deals from REI’s massive Holiday Sale</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-15 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/683104b3e6043309df61481d/master/pass/The%20Best%20TVs%20(and%20Helpful%20Buying%20Tips).png" alt="The Best TVs We’ve Reviewed in 2025: Sony, Samsung, LG, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-tvs/" target="_blank">The Best TVs We’ve Reviewed in 2025: Sony, Samsung, LG, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-15 16:30</span>
             </div>
         </div>
 <div class="story">
@@ -140,29 +159,29 @@
                 <span class="time">2025-11-15 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Sereno-adw3536-image-3-500x500.jpg" alt="Wyoming dinosaur mummies give us a new view of duck-billed species" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/wyoming-dinosaur-mummies-give-us-a-new-view-of-duck-billed-species/" target="_blank">Wyoming dinosaur mummies give us a new view of duck-billed species</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-15 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69175b626ac002ea9e219544/master/pass/IC-Point-Mosquito-cropped-in.jpg" alt="An Invasive Disease-Carrying Mosquito Has Spread to the Rocky Mountains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-disease-carrying-mosquito-has-landed-in-the-rocky-mountains-where-it-historically-couldnt-survive/" target="_blank">An Invasive Disease-Carrying Mosquito Has Spread to the Rocky Mountains</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-15 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5e57lh7rtwwwe2d694n.png" alt="How to Run Efficient ClamAV Scans on a 4GB RAM Server (Without Killing Your Machine)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lovestaco/how-to-run-efficient-clamav-scans-on-a-4gb-ram-server-without-killing-your-machine-14" target="_blank">How to Run Efficient ClamAV Scans on a 4GB RAM Server (Without Killing Your Machine)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-15 19:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://elifesciences.org/articles/109427" target="_blank">Transgenerational Epigenetic Inheritance: the story of learned avoidance</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-15 18:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,28 +212,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sitesazan/what-is-an-e-commerce-website-and-why-do-you-need-one-25io" target="_blank">What is an e-commerce website and why do you need one?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-15 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-13.2-Released" target="_blank">Debian 13.2 Released With Dozens Of Fixes</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Nautilus-Copy-Paste-Files" target="_blank">GNOME&#x27;s Nautilus File Manager Finally Supporting Ctrl+Insert &amp; Shift+Insert</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2025-11-15 13:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cnivargi/why-we-ditched-react-and-built-financial-calculators-in-vanilla-javascript-and-how-it-made-2nl" target="_blank">Why We Ditched React and Built Financial Calculators in Vanilla JavaScript (And How It Made Everything Better)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-15 12:37</span>
+                <span class="time">2025-11-15 14:30</span>
             </div>
         </div>
 </div>
@@ -309,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
