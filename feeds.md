@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 01:29:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-16 02:31:40 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, November 16, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -64,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763252096564_wnn_rch_border_patrol_operations_charlotte_immigration_crackdown_251115_1920x1080-783isw.jpg" alt="Border Patrol operations start in Charlotte as Trump Administration escalates immigration crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/border-patrol-operations-start-in-charlotte-as-trump-administration-escalates-immigration-crackdown-252133957690" target="_blank">Border Patrol operations start in Charlotte as Trump Administration escalates immigration crackdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-16 00:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9953/live/b71a51d0-c26b-11f0-8669-5560f5c90fbe.jpg" alt="Refugees to face 20-year wait to settle permanently under asylum reforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -88,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-marjorie-taylor-greene-engage-war-words-epstein/story?id=127553799" target="_blank">Trump, Marjorie Taylor Greene escalate feud over Epstein probe</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-15 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-mtg-02-gty-jt-251115_1763227499590_hpMain_4x3t_384.jpg" alt="Trump, Marjorie Taylor Greene engage in war of words over Epstein investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-marjorie-taylor-greene-engage-war-words-epstein/story?id=127553799" target="_blank">Trump, Marjorie Taylor Greene engage in war of words over Epstein investigation</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-15 19:57</span>
             </div>
         </div>
 </div>
@@ -166,10 +166,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-3agh" target="_blank">Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-16 02:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/rust-alternative-cli-tools/" target="_blank">Better Than Original? 14 Rust-based Alternative CLI Tools to Classic Linux Commands</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-11-16 00:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/kavishdevar/librepods" target="_blank">AirPods libreated from Apple&#x27;s ecosystem</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-16 00:01</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Servo-0.0.2-Released" target="_blank">Servo 0.0.2 Released For Those Wanting To Try Out This Example Rust Web Browser</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-15 20:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5e57lh7rtwwwe2d694n.png" alt="How to Run Efficient ClamAV Scans on a 4GB RAM Server (Without Killing Your Machine)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/how-to-run-efficient-clamav-scans-on-a-4gb-ram-server-without-killing-your-machine-14" target="_blank">How to Run Efficient ClamAV Scans on a 4GB RAM Server (Without Killing Your Machine)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-15 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://elifesciences.org/articles/109427" target="_blank">Transgenerational Epigenetic Inheritance: the story of learned avoidance</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-15 18:40</span>
             </div>
         </div>
 </div>
@@ -296,7 +296,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 01:29 UTC
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
