@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 12:02:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-16 13:06:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, November 16, 2025 - 13:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +44,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9073/live/1f8094d0-c2cd-11f0-9d55-433111332088.jpg" alt="Illegal migration tearing UK apart, Mahmood says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7970p2wx7ro?at_medium=RSS&at_campaign=rss" target="_blank">Illegal migration tearing UK apart, Mahmood says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-16 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/16/what-will-be-the-fallout-from-ukraines-worsening-corruption-scandal?traffic_source=rss" target="_blank">What will be the fallout from Ukraine’s worsening corruption scandal?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-16 12:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9073/live/1f8094d0-c2cd-11f0-9d55-433111332088.jpg" alt="Tackling illegal migration a &#x27;moral mission&#x27;, Mahmood says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c7970p2wx7ro?at_medium=RSS&at_campaign=rss" target="_blank">Tackling illegal migration a &#x27;moral mission&#x27;, Mahmood says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-16 11:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/16/nx-s1-5602335/indigenous-cocaine-traffickers-peru-amazon" target="_blank">&#x27;We have no choice&#x27;: Indigenous guards take on cocaine gangs in Peru&#x27;s Amazon</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-16 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-police-county-louth_7083239.jpg?20251116121333" alt="Five young adults dead after car crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/three-men-and-two-women-in-their-20s-have-died-in-car-crash-in-co-louth-irish-police-say-13471168" target="_blank">Five young adults dead after car crash</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-16 10:42</span>
             </div>
         </div>
 <div class="story">
@@ -59,47 +97,29 @@
                 <span class="time">2025-11-16 10:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/16/video-drc-and-m23-sign-peace-agreement-in-doha?traffic_source=rss" target="_blank">Video: DRC and M23 sign peace agreement in Doha</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-16 10:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91d8/live/51472cb0-c1d1-11f0-a9fe-75bc5051575c.jpg" alt="Feud erupts between Trump and ally Marjorie Taylor Greene ahead of Epstein files vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9wv4dx05q5o?at_medium=RSS&at_campaign=rss" target="_blank">Feud erupts between Trump and ally Marjorie Taylor Greene ahead of Epstein files vote</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-16 08:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/16/uk-to-end-golden-ticket-for-asylum-seekers-in-huge-policy-overhaul?traffic_source=rss" target="_blank">UK to end ‘golden ticket’ for asylum seekers in huge policy overhaul</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-16 07:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/16/live-israeli-air-attacks-across-gaza-deadly-west-bank-raids-continue?traffic_source=rss" target="_blank">LIVE: Israeli air attacks across Gaza; deadly West Bank raids continue</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-16 05:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/691908cfc51668478ad950ca/master/pass/The%2016%20Best%20Subscription%20Boxes%20for%20Kids.png" alt="16 Best Subscription Boxes for Kids (2025): STEM, Books, Clothes, Snacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-subscription-boxes-for-kids/" target="_blank">16 Best Subscription Boxes for Kids (2025): STEM, Books, Clothes, Snacks</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-16 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/821345/micro-dramas-how-hollywood" target="_blank">How soapy micro dramas became Hollywood&amp;#8217;s next big bet</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-16 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1451038709-500x500.jpg" alt="The evolution of rationality: How chimps process conflicting evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,24 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/821691/tim-cook-step-down-apple-ceo-next-year" target="_blank">Tim Cook could step down as Apple CEO next year</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-15 19:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/" target="_blank">Disney and YouTube TV reach deal to end blackout</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-15 17:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/821397/best-rei-holiday-sale-2025-deals" target="_blank">Here are 25 of our favorite outdoorsy deals from REI’s massive Holiday Sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-15 17:00</span>
             </div>
         </div>
 </div>
@@ -291,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 13:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
