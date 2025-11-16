@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 11:01:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-16 12:02:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, November 16, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9073/live/1f8094d0-c2cd-11f0-9d55-433111332088.jpg" alt="Tackling illegal migration a &#x27;moral mission&#x27;, Mahmood says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7970p2wx7ro?at_medium=RSS&at_campaign=rss" target="_blank">Tackling illegal migration a &#x27;moral mission&#x27;, Mahmood says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-16 11:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/11/1920x1080/skynews-gibstown-dundalk-car-crash_7083188.jpg?20251116095349" alt="Three men and two women in their 20s have died in car crash, Irish police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +95,29 @@
                 <span class="time">2025-11-16 05:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-gen-z-mexico-mexico-city_7083069.jpg?20251116043811" alt="Thousands march in Gen Z protests against crime and corruption in Mexico" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/mexico-thousands-march-against-crime-and-corruption-in-generation-z-protests-with-100-police-injured-13471071" target="_blank">Thousands march in Gen Z protests against crime and corruption in Mexico</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-16 03:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1451038709-500x500.jpg" alt="The evolution of rationality: How chimps process conflicting evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/" target="_blank">The evolution of rationality: How chimps process conflicting evidence</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-16 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691344339e11ca3fc31b807e/master/pass/Mechanics-of-Creation-Animated-Lede-resized.gif" alt="How Genes Have Harnessed Physics to Grow Living Things" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-genes-have-harnessed-physics-to-grow-living-things/" target="_blank">How Genes Have Harnessed Physics to Grow Living Things</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-16 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +154,20 @@
                 <span class="time">2025-11-15 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/683104b3e6043309df61481d/master/pass/The%20Best%20TVs%20(and%20Helpful%20Buying%20Tips).png" alt="The Best TVs We’ve Reviewed in 2025: Sony, Samsung, LG, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-tvs/" target="_blank">The Best TVs We’ve Reviewed in 2025: Sony, Samsung, LG, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-15 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6917f342842a1c17c7202040/master/pass/The%20Best%20Gifts%20for%20the%20PC%20Gamer%20in%20Your%20Life.png" alt="17 Best Gifts for PC Gamers (2025): Headsets, Desks, Monitors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/gift-ideas-for-pc-gamers/" target="_blank">17 Best Gifts for PC Gamers (2025): Headsets, Desks, Monitors</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-15 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/" target="_blank">Programming Languages in the Age of &quot;AI&quot; Agents</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-16 11:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,20 +213,20 @@
                 <span class="time">2025-11-16 06:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-4ici" target="_blank">Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-16 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Kennedyovaloffice-1280x853.jpg" alt="RFK Jr. Wants to Link Antidepressants Like SSRIs to Mass Shootings. Experts Aren’t Buying It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rfk-jr-wants-to-link-antidepressants-like-ssris-to-mass-shootings-experts-arent-buying-it-2000684870" target="_blank">RFK Jr. Wants to Link Antidepressants Like SSRIs to Mass Shootings. Experts Aren’t Buying It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-16 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/harvard-front-gate-1280x853.jpg" alt="The Harvard Endowment’s Biggest Public Investment is Now Bitcoin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +272,6 @@
                 <span class="time">2025-11-15 23:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/meta-quest-3s-vr-1280x853.jpg" alt="Amazon Clears Out the Meta Quest 3S, Your Cheapest Path to Premium VR Is Nearly Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-clears-out-the-meta-quest-3s-your-cheapest-path-to-premium-vr-is-nearly-free-2000644596" target="_blank">Amazon Clears Out the Meta Quest 3S, Your Cheapest Path to Premium VR Is Nearly Free</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-15 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
