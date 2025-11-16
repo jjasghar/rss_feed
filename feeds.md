@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 08:02:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-16 09:01:37 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, November 16, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91d8/live/51472cb0-c1d1-11f0-a9fe-75bc5051575c.jpg" alt="Feud erupts between Trump and ally Marjorie Taylor Greene ahead of Epstein files vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9wv4dx05q5o?at_medium=RSS&at_campaign=rss" target="_blank">Feud erupts between Trump and ally Marjorie Taylor Greene ahead of Epstein files vote</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-16 08:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/15/nx-s1-5609943/trump-two-pardons-jan-6-investigation" target="_blank">Trump issues two pardons related to Jan. 6 investigation</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-16 01:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/11/16/live-islam-makhachev-vs-jack-della-maddalena-ufc-322-mma-fight?traffic_source=rss" target="_blank">LIVE: Islam Makhachev vs Jack Della Maddalena – UFC 322</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-16 00:52</span>
             </div>
         </div>
 </div>
@@ -169,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ramyacse/numpy-practice--394g" target="_blank">📊NumPy Practice !</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-16 08:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/chronosvault/trinity-protocol-how-we-built-a-2-of-3-multi-chain-consensus-system-with-90-gas-savings-44k1" target="_blank">Trinity Protocol™: How We Built a 2-of-3 Multi-Chain Consensus System with 90% Gas Savings</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-16 06:48</span>
@@ -208,15 +218,6 @@
                 <span class="title"><a href="https://itsfoss.com/rust-alternative-cli-tools/" target="_blank">Better Than Original? 14 Rust-based Alternative CLI Tools to Classic Linux Commands</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-11-16 00:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/kavishdevar/librepods" target="_blank">AirPods libreated from Apple&#x27;s ecosystem</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-16 00:01</span>
             </div>
         </div>
 </div>
@@ -297,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
