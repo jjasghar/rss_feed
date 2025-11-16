@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 15:01:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-11-16 16:01:45 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, November 16, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/16/india-arrests-kashmir-resident-over-deadly-delhi-car-blast?traffic_source=rss" target="_blank">India arrests Kashmir resident over deadly Delhi car blast</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-16 15:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/TW-MASSIE-20251116-ABC-JH_1763302342905_hpMain_4x3t_384.jpeg" alt="Massie: &#x27;100 or more&#x27; House Republicans could vote to release Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +98,29 @@
                 <span class="time">2025-11-16 11:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/16/nx-s1-5602335/indigenous-cocaine-traffickers-peru-amazon" target="_blank">&#x27;We have no choice&#x27;: Indigenous guards take on cocaine gangs in Peru&#x27;s Amazon</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-16 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history" target="_blank">How LimeWire ended the Napster music revolution</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-16 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68b7a5b5577aac6996e92b58/master/pass/The%20Best%20Action%20Cameras.png" alt="Best Action Cameras (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-action-cameras/" target="_blank">Best Action Cameras (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-16 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/691908cfc51668478ad950ca/master/pass/The%2016%20Best%20Subscription%20Boxes%20for%20Kids.png" alt="16 Best Subscription Boxes for Kids (2025): STEM, Books, Clothes, Snacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +157,6 @@
                 <span class="time">2025-11-16 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/" target="_blank">JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-15 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/821691/tim-cook-step-down-apple-ceo-next-year" target="_blank">Tim Cook could step down as Apple CEO next year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-15 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,10 +165,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ajinkya_singh_2c02bd40423/understanding-linux-cgroups-2kf1" target="_blank">🎮 Understanding Linux Cgroups</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-16 15:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Shortcomings-Screencast" target="_blank">NVIDIA Highlights The Shortcomings With Wayland Screencasting</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-16 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://github.com/nathan-barry/tiny-diffusion" target="_blank">A Tiny, Character-Level Language Diffusion Model Trained on Shakespeare</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-11-16 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/" target="_blank">The Internet Is No Longer a Safe Haven</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-16 13:12</span>
             </div>
         </div>
 <div class="story">
@@ -192,38 +216,20 @@
                 <span class="time">2025-11-16 11:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/" target="_blank">Programming Languages in the Age of &quot;AI&quot; Agents</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-16 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ugo/share-claude-created-documents-across-worktrees-with-dot-claude-sync-cpc" target="_blank">Share Claude-created Documents Across Worktrees with dot-claude-sync</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-16 10:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/" target="_blank">Why I Don&#x27;t Need a Steam Machine</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-16 10:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/black-panther-hed-1280x853.jpg" alt="‘Black Panther 3’ is Officially Ryan Coogler’s Next Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/black-panther-3-is-officially-ryan-cooglers-next-movie-2000686529" target="_blank">‘Black Panther 3’ is Officially Ryan Coogler’s Next Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-16 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/injectable-pens-1-1280x853.jpg" alt="Ozempic’s Latest Weight Loss Competition Is Like Nothing We’ve Seen Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +275,6 @@
                 <span class="time">2025-11-16 01:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/apple-watch-1280x853.jpg" alt="Apple Suffers Two Defeats in One Day Amid Patent War with Masimo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apple-suffers-2-defeats-in-one-day-amid-patent-war-with-masimo-2000686437" target="_blank">Apple Suffers Two Defeats in One Day Amid Patent War with Masimo</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-15 23:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
