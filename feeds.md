@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 18:02:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-16 19:01:36 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, November 16, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/16/are-israeli-backed-human-trafficking-networks-forcing-people-out-of-gaza?traffic_source=rss" target="_blank">Are Israeli-backed human trafficking networks forcing people out of Gaza?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-16 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/16/g-s1-98038/trump-mtg-maga-republicans" target="_blank">Marjorie Taylor Greene says Trump policies are &#x27;not America first&#x27; in fight over MAGA</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-16 18:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +102,20 @@
                 <span class="time">2025-11-16 14:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/16/50000-fans-cheer-for-palestine-at-friendly-football-match-in-spain?traffic_source=rss" target="_blank">50,000 fans cheer for Palestine at friendly football match in Spain</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-16 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9073/live/1f8094d0-c2cd-11f0-9d55-433111332088.jpg" alt="Illegal migration tearing UK apart, Mahmood says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7970p2wx7ro?at_medium=RSS&at_campaign=rss" target="_blank">Illegal migration tearing UK apart, Mahmood says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-16 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/16/amazon-satellite-network-gets-a-rebrand-and-drops-its-affordability-pitch/" target="_blank">Amazon satellite network gets a rebrand — and drops its affordability pitch</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-16 18:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +161,20 @@
                 <span class="time">2025-11-16 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691908cfc51668478ad950ca/master/pass/The%2016%20Best%20Subscription%20Boxes%20for%20Kids.png" alt="16 Best Subscription Boxes for Kids (2025): STEM, Books, Clothes, Snacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-subscription-boxes-for-kids/" target="_blank">16 Best Subscription Boxes for Kids (2025): STEM, Books, Clothes, Snacks</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-16 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bibimbop123/get-good-git-ninja-dont-get-gotnunnuno-q-e83" target="_blank">Get Good Git Ninja, don&#x27;t Get Got (눈_눈) O=(&#x27;-&#x27;Q)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-16 18:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F637pckwrmk1clgzsnfid.jpg" alt="Deploying a Web Server VM and Installing IIS on Windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Shortcomings-Screencast" target="_blank">NVIDIA Highlights The Shortcomings With Wayland Screencasting</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-16 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/nathan-barry/tiny-diffusion" target="_blank">A Tiny, Character-Level Language Diffusion Model Trained on Shakespeare</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-16 14:30</span>
             </div>
         </div>
 </div>
@@ -296,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
