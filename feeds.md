@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 22:01:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-11-16 23:01:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, November 16, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/16/dr-congo-shock-nigeria-on-penalties-to-win-african-world-cup-playoffs?traffic_source=rss" target="_blank">DR Congo shock Nigeria on penalties to win African World Cup playoffs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-16 22:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-greene-20251116-gty-jh_1763324882215_hpMain_4x3t_384.jpg" alt="Vote on Epstein files could be a rare Republican break with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/vote-epstein-files-rare-republican-break-trump/story?id=127575911" target="_blank">Vote on Epstein files could be a rare Republican break with Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-16 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +101,29 @@
                 <span class="time">2025-11-16 19:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/16/are-israeli-backed-human-trafficking-networks-forcing-people-out-of-gaza?traffic_source=rss" target="_blank">Are Israeli-backed human trafficking networks forcing people out of Gaza?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-16 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/16/g-s1-98038/trump-mtg-maga-republicans" target="_blank">Marjorie Taylor Greene says Trump policies are &#x27;not America first&#x27; in fight over MAGA</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-16 18:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/821782/you-need-to-listen-to-the-searing-noise-pop-album-forever-in-your-heart" target="_blank">You need to listen to the searing noise pop album Forever in Your Heart</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-16 22:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/16/beloved-sf-cats-death-fuels-waymo-criticism/" target="_blank">Beloved SF cat’s death fuels Waymo criticism</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-16 22:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +160,20 @@
                 <span class="time">2025-11-16 16:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/780847/best-dad-gift-ideas" target="_blank">The best gifts for dads that have everything (but deserve more)</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-16 16:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history" target="_blank">How LimeWire ended the Napster music revolution</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-16 15:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc6" target="_blank">Linux 6.18-rc6 Released With Fix For ARM64 &quot;Catastrophic Performance Issue&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-16 22:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,13 +219,18 @@
                 <span class="time">2025-11-16 18:52</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F637pckwrmk1clgzsnfid.jpg" alt="Deploying a Web Server VM and Installing IIS on Windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ojosamuel129/deploying-a-web-server-vm-and-installing-iis-on-windows-nfk" target="_blank">Deploying a Web Server VM and Installing IIS on Windows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-16 17:54</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/" target="_blank">Microsoft Patch Tuesday, November 2025 Edition</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-11-16 21:47</span>
             </div>
         </div>
 </div>
@@ -221,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/zombieland-hed-1280x853.jpg" alt="Ruben Fleischer Still Loves What ‘Zombieland’ Became" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ruben-fleischer-still-loves-what-zombieland-became-2000686627" target="_blank">Ruben Fleischer Still Loves What ‘Zombieland’ Became</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-16 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/monster-hunter-hed-1280x853.jpg" alt="‘Monster Hunter’ Is the Next Secret Lair Drop for ‘Magic: The Gathering’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +292,6 @@
                 <span class="time">2025-11-16 13:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Kennedyovaloffice-1280x853.jpg" alt="RFK Jr. Wants to Link Antidepressants Like SSRIs to Mass Shootings. Experts Aren’t Buying It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/rfk-jr-wants-to-link-antidepressants-like-ssris-to-mass-shootings-experts-arent-buying-it-2000684870" target="_blank">RFK Jr. Wants to Link Antidepressants Like SSRIs to Mass Shootings. Experts Aren’t Buying It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-16 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
