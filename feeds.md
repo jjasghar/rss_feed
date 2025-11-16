@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 19:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-16 20:01:46 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, November 16, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/scott-bessent-4-rt-gmh-251025_1761165126439_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Bessent says effort to rein in costs will be felt next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates-trump-blames-democrats-massive/?id=127478903" target="_blank">Trump admin live updates: Bessent says effort to rein in costs will be felt next year</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-16 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/16/ecuador-votes-on-return-of-us-military-bases-to-tackle-drug-violence?traffic_source=rss" target="_blank">Ecuador votes on return of US military bases to tackle drug violence</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-16 19:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +105,20 @@
                 <span class="time">2025-11-16 16:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/16/india-arrests-kashmir-resident-over-deadly-delhi-car-blast?traffic_source=rss" target="_blank">India arrests Kashmir resident over deadly Delhi car blast</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-16 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TW-MASSIE-20251116-ABC-JH_1763302342905_hpMain_4x3t_384.jpeg" alt="Massie: &#x27;100 or more&#x27; House Republicans could vote to release Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/massie-100-house-republicans-vote-release-epstein-files/story?id=127568864" target="_blank">Massie: &#x27;100 or more&#x27; House Republicans could vote to release Epstein files</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-16 14:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/821767/stereogum-scott-lapatine-independent-music-media-streaming-ai" target="_blank">Stereogum soldiers on in the era of streaming and AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-16 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +164,20 @@
                 <span class="time">2025-11-16 15:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b7a5b5577aac6996e92b58/master/pass/The%20Best%20Action%20Cameras.png" alt="Best Action Cameras (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-action-cameras/" target="_blank">Best Action Cameras (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-16 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3344154%2Fe95552f2-ca2e-40b1-a2cc-efb7e2653df9.jpeg" alt="The fastest and easiest way to setup React with Bulma and Vite." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/allxsmith/the-fastest-and-easiest-way-to-setup-react-with-bulma-and-vite-37b" target="_blank">The fastest and easiest way to setup React with Bulma and Vite.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-16 19:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,20 +223,20 @@
                 <span class="time">2025-11-16 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Shortcomings-Screencast" target="_blank">NVIDIA Highlights The Shortcomings With Wayland Screencasting</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-16 14:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/monster-hunter-hed-1280x853.jpg" alt="‘Monster Hunter’ Is the Next Secret Lair Drop for ‘Magic: The Gathering’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/monster-hunter-is-the-next-secret-lair-drop-for-magic-the-gathering-2000686521" target="_blank">‘Monster Hunter’ Is the Next Secret Lair Drop for ‘Magic: The Gathering’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-16 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/shutterstock_2679852497-1280x720.jpg" alt="Apple’s Succession Wars Start. Here’s Who Might Take Tim Cook’s Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +282,6 @@
                 <span class="time">2025-11-16 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/harvard-front-gate-1280x853.jpg" alt="The Harvard Endowment’s Biggest Public Investment is Now Bitcoin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-harvard-endowments-biggest-public-investment-is-now-bitcoin-2000686439" target="_blank">The Harvard Endowment’s Biggest Public Investment is Now Bitcoin</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-16 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
