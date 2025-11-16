@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 02:31:40 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-16 03:24:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, November 16, 2025 - 03:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/16/russia-ukraine-war-list-of-key-events-day-1361?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,361</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-16 02:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/15/palestinians-reel-under-winter-rains-as-israel-blocks-gaza-shelter-supplies?traffic_source=rss" target="_blank">Palestinians reel under winter rains as Israel blocks Gaza shelter supplies</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-15 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-mtg-02-gty-jt-251115_1763227499590_hpMain_4x3t_384.jpg" alt="Trump, Marjorie Taylor Greene escalate feud over Epstein probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-marjorie-taylor-greene-engage-war-words-epstein/story?id=127553799" target="_blank">Trump, Marjorie Taylor Greene escalate feud over Epstein probe</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-15 22:07</span>
             </div>
         </div>
 </div>
@@ -167,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thukhakyawe_cloud/5delete-git-branch-2dpn" target="_blank">5.Delete Git Branch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-16 03:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-3agh" target="_blank">Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-16 02:00</span>
@@ -206,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/samuel_akopyan_e902195a96/building-a-simple-rag-system-in-php-with-the-neuron-ai-framework-in-one-evening-2051" target="_blank">Building a simple RAG system in PHP with the Neuron AI framework in one evening</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-15 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Servo-0.0.2-Released" target="_blank">Servo 0.0.2 Released For Those Wanting To Try Out This Example Rust Web Browser</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-15 20:28</span>
             </div>
         </div>
 </div>
@@ -296,7 +296,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 02:31 UTC
+        🔄 Last Updated: 03:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
