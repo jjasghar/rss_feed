@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 00:05:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-16 01:29:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, November 16, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/15/nx-s1-5609943/trump-two-pardons-jan-6-investigation" target="_blank">Trump issues two pardons related to Jan. 6 investigation</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-16 01:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/11/16/live-islam-makhachev-vs-jack-della-maddalena-ufc-322-mma-fight?traffic_source=rss" target="_blank">LIVE: Islam Makhachev vs Jack Della Maddalena – UFC 322</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-16 00:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9953/live/b71a51d0-c26b-11f0-8669-5560f5c90fbe.jpg" alt="Refugees to face 20-year wait to settle permanently under asylum reforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7970p2wx7ro?at_medium=RSS&at_campaign=rss" target="_blank">Refugees to face 20-year wait to settle permanently under asylum reforms</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-15 23:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,33 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-marjorie-taylor-greene-engage-war-words-epstein/story?id=127553799" target="_blank">Trump, Marjorie Taylor Greene engage in war of words over Epstein investigation</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-15 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251115-Border-Patrol-ch-1228-480bc3.jpg" alt="Border Patrol operations start in Charlotte as officials urge calm" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/charlotte-north-carolina-border-patrol-operation-rcna244106" target="_blank">Border Patrol operations start in Charlotte as officials urge calm</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-15 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/15/ethiopia-confirms-outbreak-of-deadly-marburg-virus" target="_blank">Ethiopia confirms outbreak of deadly Marburg virus</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-15 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/15/is-global-sports-betting-out-of?traffic_source=rss" target="_blank">Is global sports betting out of control?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-15 18:04</span>
             </div>
         </div>
 </div>
@@ -160,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/rust-alternative-cli-tools/" target="_blank">Better Than Original? 14 Rust-based Alternative CLI Tools to Classic Linux Commands</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-16 00:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/onaolapo11/contrary-to-java-embedded-in-python-is-the-idea-of-methods-and-functions-13df" target="_blank">Contrary to JAVA, embedded in Python is the idea of Methods and Functions</a></span>
                 <span class="feed">DEV Community</span>
@@ -202,20 +217,20 @@
                 <span class="time">2025-11-15 18:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://windhawk.net/mods/classic-theme-enable" target="_blank">Windhawk Windows classic theme mod for Windows 11</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-15 16:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/jackery-explorer-2000-1280x853.jpg" alt="Massive 2200W Power Station Slashed 54% Off, Now Priced at Budget Gas Generator Levels Without the Stink and Noise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/massive-2200w-power-station-slashed-54-off-now-priced-at-budget-gas-generator-levels-without-the-stink-and-noise-2000644610" target="_blank">Massive 2200W Power Station Slashed 54% Off, Now Priced at Budget Gas Generator Levels Without the Stink and Noise</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-16 01:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/apple-watch-1280x853.jpg" alt="Apple Suffers 2 Defeats in One Day Amid Patent War with Masimo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,15 +276,6 @@
                 <span class="time">2025-11-15 18:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/varanasi-globetrotter-hed-1280x853.jpg" alt="Behold, ‘Varanasi’, the Next Movie from S.S. Rajamouli" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/behold-varanasi-the-next-movie-from-s-s-rajamouli-2000686433" target="_blank">Behold, ‘Varanasi’, the Next Movie from S.S. Rajamouli</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-15 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -289,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
