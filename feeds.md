@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 21:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-16 22:01:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, November 16, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/16/toppled-hasinas-son-warns-bangladesh-court-will-sentence-her-to-death?traffic_source=rss" target="_blank">Toppled Hasina’s son warns Bangladesh court will sentence her to death</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-16 21:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/scott-bessent-4-rt-gmh-251025_1761165126439_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Bessent says effort to rein in costs will be felt next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/16/g-s1-98038/trump-mtg-maga-republicans" target="_blank">Marjorie Taylor Greene says Trump policies are &#x27;not America first&#x27; in fight over MAGA</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-16 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/16/somalia-confirms-major-data-breach-in-electronic-visa-system?traffic_source=rss" target="_blank">Somalia confirms major data breach in electronic visa system</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-16 17:17</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dhouse109/synthesizing-a-project-in-chatgpt-to-create-content-for-my-site-83n" target="_blank">Synthesizing a project in ChatGPT to create content for my site.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-16 21:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9esr5n6gpn7hrx0b2u6e.png" alt="Ng-News 25/45: Analog v2, Debouncing in SignalForms, Testing &amp; Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -183,6 +192,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.zigbook.net" target="_blank">Open-source Zig book</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-16 19:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bibimbop123/get-good-git-ninja-dont-get-gotnunnuno-q-e83" target="_blank">Get Good Git Ninja, don&#x27;t Get Got (눈_눈) O=(&#x27;-&#x27;Q)</a></span>
                 <span class="feed">DEV Community</span>
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/ojosamuel129/deploying-a-web-server-vm-and-installing-iis-on-windows-nfk" target="_blank">Deploying a Web Server VM and Installing IIS on Windows</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-16 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shishsingh/toon-a-lightweight-data-format-that-helps-cut-llm-token-costs-211i" target="_blank">Toon: A Lightweight Data Format That Helps Cut LLM Token Costs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-16 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ajinkya_singh_2c02bd40423/understanding-linux-cgroups-2kf1" target="_blank">🎮 Understanding Linux Cgroups</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-16 15:38</span>
             </div>
         </div>
 </div>
@@ -294,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
