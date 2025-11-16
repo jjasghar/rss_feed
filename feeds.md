@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 06:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-16 07:01:36 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, November 16, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +55,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/16/live-israeli-air-attacks-across-gaza-deadly-west-bank-raids-continue?traffic_source=rss" target="_blank">LIVE: Israeli air attacks across Gaza; deadly West Bank raids continue</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-16 05:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-gen-z-mexico-mexico-city_7083069.jpg?20251116043811" alt="Thousands march in Gen Z protests against crime and corruption in Mexico" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/mexico-thousands-march-against-crime-and-corruption-in-generation-z-protests-with-100-police-injured-13471071" target="_blank">Thousands march in Gen Z protests against crime and corruption in Mexico</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-16 03:53</span>
             </div>
         </div>
 <div class="story">
@@ -87,15 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/border-patrol-operations-start-in-charlotte-as-trump-administration-escalates-immigration-crackdown-252133957690" target="_blank">Border Patrol operations start in Charlotte as Trump Administration escalates immigration crackdown</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-11-16 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-amazon-rainforest-brazil_7082402.png?20251114231936" alt="&#x27;Smart&#x27; idea to save world&#x27;s tropical forests - so why is UK not investing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/brazil-surprised-uk-not-investing-in-new-rainforest-fund-it-helped-design-13470462" target="_blank">&#x27;Smart&#x27; idea to save world&#x27;s tropical forests - so why is UK not investing?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-16 00:01</span>
             </div>
         </div>
 </div>
@@ -166,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chronosvault/trinity-protocol-how-we-built-a-2-of-3-multi-chain-consensus-system-with-90-gas-savings-44k1" target="_blank">Trinity Protocol™: How We Built a 2-of-3 Multi-Chain Consensus System with 90% Gas Savings</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-16 06:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-4ici" target="_blank">Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-16 04:00</span>
@@ -207,20 +220,20 @@
                 <span class="time">2025-11-16 00:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/onaolapo11/contrary-to-java-embedded-in-python-is-the-idea-of-methods-and-functions-13df" target="_blank">Contrary to JAVA, embedded in Python is the idea of Methods and Functions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-15 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/lg-ultragear-34-1280x853.jpg" alt="LG’s 240Hz 34-Inch Curved OLED Monitor Goes at New All-Time Low, Black Friday Has Started Early" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lg-drops-major-black-friday-deal-on-its-240hz-34-inch-curved-oled-monitor-now-at-new-all-time-low-2000644620" target="_blank">LG’s 240Hz 34-Inch Curved OLED Monitor Goes at New All-Time Low, Black Friday Has Started Early</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-16 04:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/jackery-explorer-2000-1280x853.jpg" alt="Massive 2200W Power Station Slashed 54% Off, Now Priced at Budget Gas Generator Levels Without the Stink and Noise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +279,6 @@
                 <span class="time">2025-11-15 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/hovering-cube-1280x858.jpg" alt="‘Imagine a Cube Floating in the Air’: The New AI Dream Allegedly Driving Yann LeCun Away from Meta" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/yann-lecun-world-models-2000685265" target="_blank">‘Imagine a Cube Floating in the Air’: The New AI Dream Allegedly Driving Yann LeCun Away from Meta</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-15 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
