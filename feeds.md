@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 16:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-16 17:01:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, November 16, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/16/whats-the-shadowy-organisation-taking-gaza-palestinians-to-south-africa?traffic_source=rss" target="_blank">What’s the shadowy organisation taking Gaza Palestinians to South Africa?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-16 16:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +105,38 @@
                 <span class="time">2025-11-16 12:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9073/live/1f8094d0-c2cd-11f0-9d55-433111332088.jpg" alt="Tackling illegal migration a &#x27;moral mission&#x27;, Mahmood says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7970p2wx7ro?at_medium=RSS&at_campaign=rss" target="_blank">Tackling illegal migration a &#x27;moral mission&#x27;, Mahmood says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-16 11:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/16/how-much-of-the-ai-data-center-boom-will-be-powered-by-renewable-energy/" target="_blank">How much of the AI data center boom will be powered by renewable energy?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-16 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/684cf3f15fcfa637bf965ebe/master/pass/The%20Best%20WIRED-Tested%20Organic%20Mattresses_.png" alt="Best Organic Mattresses (2025): Birch, Avocado, Naturepedic, More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-organic-mattresses/" target="_blank">Best Organic Mattresses (2025): Birch, Avocado, Naturepedic, More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-16 16:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/780847/best-dad-gift-ideas" target="_blank">The best gifts for dads that have everything (but deserve more)</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-16 16:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,33 +164,6 @@
                 <span class="time">2025-11-16 13:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/821345/micro-dramas-how-hollywood" target="_blank">How soapy micro dramas became Hollywood&amp;#8217;s next big bet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-16 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1451038709-500x500.jpg" alt="The evolution of rationality: How chimps process conflicting evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/" target="_blank">The evolution of rationality: How chimps process conflicting evidence</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-16 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691344339e11ca3fc31b807e/master/pass/Mechanics-of-Creation-Animated-Lede-resized.gif" alt="How Genes Have Harnessed Physics to Grow Living Things" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-genes-have-harnessed-physics-to-grow-living-things/" target="_blank">How Genes Have Harnessed Physics to Grow Living Things</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-16 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,9 +173,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shishsingh/toon-a-lightweight-data-format-that-helps-cut-llm-token-costs-211i" target="_blank">Toon: A Lightweight Data Format That Helps Cut LLM Token Costs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-16 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ajinkya_singh_2c02bd40423/understanding-linux-cgroups-2kf1" target="_blank">🎮 Understanding Linux Cgroups</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-16 15:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/p-e-w/heretic" target="_blank">Heretic: Automatic censorship removal for language models</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-16 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +223,6 @@
                 <span class="time">2025-11-16 13:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Qt-Moves-Off-RDRAND-RDSEED" target="_blank">Qt Moves Away From Direct RDRAND/RDSEED Usage For Better Performance &amp; Less Bugs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-16 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/Hans-Halverson/brimstone" target="_blank">Brimstone: ES2025 JavaScript engine written in Rust</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-16 11:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -237,6 +244,15 @@
                 <span class="title"><a href="https://gizmodo.com/ozempics-latest-weight-loss-competition-is-like-nothing-weve-seen-before-2000684254" target="_blank">Ozempic’s Latest Weight Loss Competition Is Like Nothing We’ve Seen Before</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-16 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/galaxy-z-fold7-1280x853.jpg" alt="Galaxy Z Fold7 Lands Its First Major Black Friday Deal, Samsung Drops Foldable Phone to New All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/galaxy-z-fold7-lands-its-first-major-black-friday-deal-samsung-drops-foldable-phone-to-new-all-time-low-2000644615" target="_blank">Galaxy Z Fold7 Lands Its First Major Black Friday Deal, Samsung Drops Foldable Phone to New All-Time Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-16 13:20</span>
             </div>
         </div>
 <div class="story">
@@ -266,27 +282,18 @@
                 <span class="time">2025-11-16 04:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/jackery-explorer-2000-1280x853.jpg" alt="Massive 2200W Power Station Slashed 54% Off, Now Priced at Budget Gas Generator Levels Without the Stink and Noise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/massive-2200w-power-station-slashed-54-off-now-priced-at-budget-gas-generator-levels-without-the-stink-and-noise-2000644610" target="_blank">Massive 2200W Power Station Slashed 54% Off, Now Priced at Budget Gas Generator Levels Without the Stink and Noise</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-16 01:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1763094913-20251115.png" alt="Saturday Morning Breakfast Cereal - Convexity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1763259501-20251116.png" alt="Saturday Morning Breakfast Cereal - Conscious" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/convexity" target="_blank">Saturday Morning Breakfast Cereal - Convexity</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/conscious-8" target="_blank">Saturday Morning Breakfast Cereal - Conscious</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-15 16:20</span>
+                <span class="time">2025-11-16 16:20</span>
             </div>
         </div>
 </div>
@@ -294,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
