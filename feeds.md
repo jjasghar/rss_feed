@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 20:01:46 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-16 21:01:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, November 16, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +51,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates-trump-blames-democrats-massive/?id=127478903" target="_blank">Trump admin live updates: Bessent says effort to rein in costs will be felt next year</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-16 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/16/syria-detains-members-of-security-forces-over-suwayda-violence?traffic_source=rss" target="_blank">Syria detains members of security forces over Suwayda violence</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-16 19:53</span>
             </div>
         </div>
 <div class="story">
@@ -94,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/16/somalia-confirms-major-data-breach-in-electronic-visa-system?traffic_source=rss" target="_blank">Somalia confirms major data breach in electronic visa system</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-16 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/16/whats-the-shadowy-organisation-taking-gaza-palestinians-to-south-africa?traffic_source=rss" target="_blank">What’s the shadowy organisation taking Gaza Palestinians to South Africa?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-16 16:18</span>
             </div>
         </div>
 </div>
@@ -170,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9esr5n6gpn7hrx0b2u6e.png" alt="Ng-News 25/45: Analog v2, Debouncing in SignalForms, Testing &amp; Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/this-is-angular/ng-news-2545-analog-v2-debouncing-in-signalforms-testing-time-3j77" target="_blank">Ng-News 25/45: Analog v2, Debouncing in SignalForms, Testing &amp; Time</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-16 20:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3344154%2Fe95552f2-ca2e-40b1-a2cc-efb7e2653df9.jpeg" alt="The fastest and easiest way to setup React with Bulma and Vite." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/ajinkya_singh_2c02bd40423/understanding-linux-cgroups-2kf1" target="_blank">🎮 Understanding Linux Cgroups</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-16 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/p-e-w/heretic" target="_blank">Heretic: Automatic censorship removal for language models</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-16 15:00</span>
             </div>
         </div>
 </div>
@@ -302,7 +295,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 20:01 UTC
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
