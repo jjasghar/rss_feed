@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-16 23:01:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-11-17 00:05:29 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, November 16, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/16/nx-s1-5610508/uss-gerald-ford-aircraft-carrier-history-background" target="_blank">The USS Gerald R. Ford aircraft carrier is in the Caribbean. Here&#x27;s its backstory</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-16 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab61/live/077b5d90-c32f-11f0-8456-eff94716b162.jpg" alt="Fast-track deportations to be announced as part of asylum reforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn97ryvelz0o?at_medium=RSS&at_campaign=rss" target="_blank">Fast-track deportations to be announced as part of asylum reforms</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-16 22:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates-trump-blames-democrats-massive/?id=127478903" target="_blank">Trump admin live updates: Bessent says effort to rein in costs will be felt next year</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-16 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/16/syria-detains-members-of-security-forces-over-suwayda-violence?traffic_source=rss" target="_blank">Syria detains members of security forces over Suwayda violence</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-16 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/16/ecuador-votes-on-return-of-us-military-bases-to-tackle-drug-violence?traffic_source=rss" target="_blank">Ecuador votes on return of US military bases to tackle drug violence</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-16 19:02</span>
             </div>
         </div>
 </div>
@@ -166,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/understanding-the-different-post-content-types.png" alt="Understanding the Different POST Content Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/djangotricks/understanding-the-different-post-content-types-3bjd" target="_blank">Understanding the Different POST Content Types</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-16 23:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -210,15 +220,6 @@
                 <span class="time">2025-11-16 19:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bibimbop123/get-good-git-ninja-dont-get-gotnunnuno-q-e83" target="_blank">Get Good Git Ninja, don&#x27;t Get Got (눈_눈) O=(&#x27;-&#x27;Q)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-16 18:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/bose-qc-ultra-1280x853.jpg" alt="AirPods Max Alternative, These Bose Ultra Headphones Reach New All-Time Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/airpods-max-alternative-these-bose-ultra-headphones-reach-new-all-time-low-on-amazon-2000644687" target="_blank">AirPods Max Alternative, These Bose Ultra Headphones Reach New All-Time Low on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-16 23:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/zombieland-hed-1280x853.jpg" alt="Ruben Fleischer Still Loves What ‘Zombieland’ Became" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +293,6 @@
                 <span class="time">2025-11-16 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/galaxy-z-fold7-1280x853.jpg" alt="Galaxy Z Fold7 Lands Its First Major Black Friday Deal, Samsung Drops Foldable Phone to New All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/galaxy-z-fold7-lands-its-first-major-black-friday-deal-samsung-drops-foldable-phone-to-new-all-time-low-2000644615" target="_blank">Galaxy Z Fold7 Lands Its First Major Black Friday Deal, Samsung Drops Foldable Phone to New All-Time Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-16 13:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
