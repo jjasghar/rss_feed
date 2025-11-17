@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 13:10:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-17 14:01:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +109,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/821258/ford-amazon-auto-online-sales-certified-preowned" target="_blank">You can now buy pre-owned Ford vehicles on Amazon</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-17 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/" target="_blank">MCP AI agent security startup Runlayer launches with 8 unicorns, $11M from Khosla’s Keith Rabois and Felicis</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-17 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/opiates4-500x500.jpg" alt="Ancient Egyptians likely used opiates regularly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/ancient-egyptians-likely-used-opiates-regularly/" target="_blank">Ancient Egyptians likely used opiates regularly</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-17 13:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/11/17/surveillance-tech-provider-protei-was-hacked-its-data-stolen-and-its-website-defaced/" target="_blank">Surveillance tech provider Protei was hacked, its data stolen and its website defaced</a></span>
                 <span class="feed">TechCrunch</span>
@@ -132,38 +160,20 @@
                 <span class="time">2025-11-17 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691932c88d40b0d195f02449/master/pass/The%2012%20Tech%20Gifts%20They'd%20Actually%20Want%20for%20the%20Holidays%20This%20Year.png" alt="12 Best Tech Gifts That They&#x27;d Actually Want (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-tech-gifts/" target="_blank">12 Best Tech Gifts That They&#x27;d Actually Want (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-17 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup" target="_blank">Jeff Bezos will be co-CEO of AI startup Project Prometheus</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-17 10:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/" target="_blank">Danish startup FlatPay joins the club of European fintech unicorns to track</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-17 07:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh3fj528j54zh7wtz8o1d.png" alt="Dejé de hablar de AI y empecé a construir: Construye un RAG simple con Amazon Bedrock Knowledge Bases." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sinariver/deje-de-hablar-de-ai-y-empece-a-construir-construye-un-rag-simple-con-amazon-bedrock-knowledge-3j42" target="_blank">Dejé de hablar de AI y empecé a construir: Construye un RAG simple con Amazon Bedrock Knowledge Bases.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-17 13:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,6 +193,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/veil-gnome-extension/" target="_blank">Clean Up Your GNOME Panel With This New Extension</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-17 12:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/aws-remote-build-cache-docker/en/headerimage/generatedHeaderImage-1763194717154.jpg" alt="AWS Introduces Remote Build Cache in ECR to Accelerate Docker Image Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -198,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/alok_kumar_44670e79f96677/the-ultimate-guide-to-end-to-end-testing-best-practices-tools-and-insights-2aa8" target="_blank">The Ultimate Guide to End-to-End Testing: Best Practices, Tools, and Insights</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-17 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/holistic-engineering-organic-problem-solving-complex-systems/en/headerimage/holistic-engineering-organic-problem-solving-complex-systems-header-1762857128649.jpg" alt="Article: Holistic Engineering: Organic Problem Solving for Complex Evolving Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/holistic-engineering-organic-problem-solving-complex-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Holistic Engineering: Organic Problem Solving for Complex Evolving Systems</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-17 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/notadevbuthere/why-both-startup-code-and-legacy-systems-need-code-context-and-how-llms-codedoc-make-it-possible-19e1" target="_blank">Why Both Startup Code and Legacy Systems Need Code Context — And How LLMs + CodeDoc Make It Possible</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-17 10:54</span>
             </div>
         </div>
 </div>
@@ -247,11 +248,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/ASUSTUF_F16-1280x853.jpg" alt="ASUS TUF F16 (2025) Gaming Laptop With RTX 5050 Just Dropped by Hundreds, Lowest Price Yet for This New Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-just-slashed-350-off-this-asus-tuf-f16-gaming-laptop-dropping-a-1300-machine-to-its-lowest-price-yet-2000644446" target="_blank">ASUS TUF F16 (2025) Gaming Laptop With RTX 5050 Just Dropped by Hundreds, Lowest Price Yet for This New Release</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-17 13:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Mint-Mobile-BF-1280x853.jpg" alt="Mint Mobile’s Black Friday Deal Makes Samsung, Google, and Apple Phones Practically Free With Its 50% Off Unlimited Plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/mint-mobiles-black-friday-deal-makes-samsung-google-and-apple-phones-practically-free-with-its-50-off-unlimited-plan-2000686032" target="_blank">Mint Mobile’s Black Friday Deal Makes Samsung, Google, and Apple Phones Practically Free With Its 50% Off Unlimited Plan</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-17 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J5V7RAJ5W0JW157WXNX4GCW8/hero-image.png" alt="You Can (and Should) Modify the Pomodoro Technique to Fit Your Work Habits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/work/modify-the-pomodoro-technique?utm_medium=RSS" target="_blank">You Can (and Should) Modify the Pomodoro Technique to Fit Your Work Habits</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-17 13:00</span>
             </div>
         </div>
@@ -265,39 +284,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/noem-horse.jpg?fit=1080%2C683&amp;quality=60&amp;ssl=1" alt="Noem faces resignation calls after failed &quot;terrorist&quot; raid yields nothing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/17/noem-faces-resignation-calls-after-failed-terrorist-raid-yields-nothing.html" target="_blank">Noem faces resignation calls after failed &quot;terrorist&quot; raid yields nothing</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-17 11:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/harvard.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Harvard&#x27;s former president asked Epstein for advice on how to have sex with a &quot;mentee&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/11/17/harvards-former-president-asked-epstein-for-advice-on-how-to-have-sex-with-a-mentee.html" target="_blank">Harvard&#x27;s former president asked Epstein for advice on how to have sex with a &quot;mentee&quot;</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-17 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/owl-house-hed-1280x853.jpg" alt="‘Owl House’ Creator Dana Terrace Gives Her Blessing to Pirate It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/owl-house-creator-dana-terrace-gives-her-blessing-to-pirate-it-2000686738" target="_blank">‘Owl House’ Creator Dana Terrace Gives Her Blessing to Pirate It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-17 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/jobs-toy-1280x853.jpg" alt="Apple Reportedly Has a Bold New Plan For Innovation Over the Next Few Years: More iPhones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apple-iphone-schedule-2000686652" target="_blank">Apple Reportedly Has a Bold New Plan For Innovation Over the Next Few Years: More iPhones</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-17 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/bose-qc-ultra-1280x853.jpg" alt="AirPods Max Alternative, These Bose Ultra Headphones Reach New All-Time Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/airpods-max-alternative-these-bose-ultra-headphones-reach-new-all-time-low-on-amazon-2000644687" target="_blank">AirPods Max Alternative, These Bose Ultra Headphones Reach New All-Time Low on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-16 23:25</span>
             </div>
         </div>
 </div>
@@ -337,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
