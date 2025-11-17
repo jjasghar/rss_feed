@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 22:01:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-17 23:01:51 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,9 +49,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/17/unsc-approves-us-resolution-mandating-intl-stabilisation-force-in-gaza?traffic_source=rss" target="_blank">UN Security Council passes US resolution backing Gaza international force</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-17 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-breaking-breaking-news_7042253.png?20251023123455" alt="UN Security Council backs Trump peace plan for Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/un-security-council-backs-trump-peace-plan-for-gaza-13471971" target="_blank">UN Security Council backs Trump peace plan for Gaza</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-17 22:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/17/g-s1-98165/david-richardson-fema-acting-chief-quit" target="_blank">FEMA acting chief David Richardson departs after 6 months on the job</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-17 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/17/acting-fema-head-david-richardson-steps-down-after-troubled-tenure?traffic_source=rss" target="_blank">Acting FEMA head David Richardson steps down after troubled tenure</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-17 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-ap-gmh-251117_1763410209700_hpMain_4x3t_384.jpg" alt="Trump says he would sign bill to release Epstein files if it reaches his desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-sign-bill-release-epstein-files-reaches-desk/story?id=127593346" target="_blank">Trump says he would sign bill to release Epstein files if it reaches his desk</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-17 20:39</span>
             </div>
         </div>
 <div class="story">
@@ -59,47 +99,20 @@
                 <span class="time">2025-11-17 20:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss" target="_blank">Israeli settlers torch homes and vehicles in Palestinian West Bank villages</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-17 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4064/live/42051ef0-c3ee-11f0-ae46-bd64331f0fd4.jpg" alt="Mahmood announces overhaul of &#x27;unfair&#x27; asylum system" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr7myg8g75jo?at_medium=RSS&at_campaign=rss" target="_blank">Mahmood announces overhaul of &#x27;unfair&#x27; asylum system</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-17 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/music/2025/nov/17/nicki-minaj-un-speech-trump-nigeria-christian" target="_blank">Nicki Minaj to spotlight plight of Nigerian Christians in UN speech arranged by White House</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-17 19:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-recognises-palestine?traffic_source=rss" target="_blank">Israel’s Ben-Gvir urges killing PA officials if UN recognises Palestine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-17 18:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/635839/best-foldable-phone" target="_blank">The best foldable phone you can buy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-17 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/report/822110/opentable-ai-assisted-data-restaurants" target="_blank">Your online reservations are telling restaurants all about you</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-17 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/17/cisco-acquires-translation-startup-ezdubs/" target="_blank">Cisco acquires translation startup EzDubs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-17 18:33</span>
             </div>
         </div>
 </div>
@@ -233,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/doctor-fate-black-adam-1280x853.jpg" alt="Pierce Brosnan Wants to Be Doctor Fate Again, and May Get His Chance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/doctor-fate-man-of-tomorrow-superman-pierce-brosnan-2000687123" target="_blank">Pierce Brosnan Wants to Be Doctor Fate Again, and May Get His Chance</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-17 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KA9DWBNPJXQG52JRBG3DFDHB/hero-image.png" alt="What Are Passkeys, and Who Should Be Using Them?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -251,6 +264,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/donald-trump.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="AG Pam Bondi took just 217 minutes to act on Trump&#x27;s demand to investigate Democrats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/17/ag-pam-bondi-took-just-217-minutes-to-act-on-trumps-demand-to-investigate-democrats.html" target="_blank">AG Pam Bondi took just 217 minutes to act on Trump&#x27;s demand to investigate Democrats</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-17 20:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/jewellry.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Asylum seekers face jewelry seizure under new UK policy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -266,24 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/17/doj-busted-grand-jury-misconduct-exposed-in-comey-indictment.html" target="_blank">DOJ busted: grand jury misconduct exposed in Comey indictment</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-17 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/helldivers-2-Worm-1280x720.jpg" alt="Helldivers 2 Head Says Arc Raiders’ Use Of AI ‘Makes Gaming Better’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/helldivers-2-gen-ai-arc-raiders-brendan-green-2000644914" target="_blank">Helldivers 2 Head Says Arc Raiders’ Use Of AI ‘Makes Gaming Better’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-17 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/shutterstock_135614681.jpg?fit=1500%2C1002&amp;quality=60&amp;ssl=1" alt="GOP state senator gets swatted after defying Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/17/gop-state-senator-gets-swatted-after-defying-trump.html" target="_blank">GOP state senator gets swatted after defying Trump</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-17 17:49</span>
             </div>
         </div>
 </div>
@@ -323,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
