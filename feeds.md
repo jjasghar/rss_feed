@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 15:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-17 16:02:16 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -120,6 +117,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/e59bbee78987-193-e1758180732742-800x451-1-500x451.png" alt="When recreating a famous SUV stunt in China goes wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/11/when-recreating-a-famous-suv-stunt-in-china-goes-wrong/" target="_blank">When recreating a famous SUV stunt in China goes wrong</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-17 14:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -146,20 +152,29 @@
                 <span class="time">2025-11-17 13:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/17/surveillance-tech-provider-protei-was-hacked-its-data-stolen-and-its-website-defaced/" target="_blank">Surveillance tech provider Protei was hacked, its data stolen and its website defaced</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-17 13:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LLVM-Clang-NVL-APX-AVX-10.2" target="_blank">Updated LLVM/Clang Compiler Enables AVX 10.2 &amp; APX For Intel Nova Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-17 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/tools-genai/en/headerimage/tools-genai-header-1763379705256.jpg" alt="KubeCon NA 2025 - Erica Hughberg and Alexa Griffith on Tools for the Age of GenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/tools-genai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">KubeCon NA 2025 - Erica Hughberg and Alexa Griffith on Tools for the Age of GenAI</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-17 15:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +211,6 @@
                 <span class="time">2025-11-17 13:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18744453&w=600" alt="From Agent AI to Agentic AI: Building Self-Healing Kubernetes Clusters That Learn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/docker-security-from-theory-to-practice-a-complete" target="_blank">From Agent AI to Agentic AI: Building Self-Healing Kubernetes Clusters That Learn</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-17 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/veil-gnome-extension/" target="_blank">Clean Up Your GNOME Panel With This New Extension</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-17 12:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KA8ETVPGKNGG9HS5V8T1TEKJ/hero-image.png" alt="This Samsung Galaxy Z Fold 7 Is $400 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/galaxy-z-fold-7-jet-black-sale?utm_medium=RSS" target="_blank">This Samsung Galaxy Z Fold 7 Is $400 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-17 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/ASUSTUF_F16-1280x853.jpg" alt="ASUS TUF F16 (2025) Gaming Laptop With RTX 5050 Just Dropped by Hundreds, Lowest Price Yet for This New Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +293,6 @@
                 <span class="time">2025-11-17 11:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/harvard.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Harvard&#x27;s former president asked Epstein for advice on how to have sex with a &quot;mentee&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/17/harvards-former-president-asked-epstein-for-advice-on-how-to-have-sex-with-a-mentee.html" target="_blank">Harvard&#x27;s former president asked Epstein for advice on how to have sex with a &quot;mentee&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-17 11:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
