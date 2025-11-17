@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 21:01:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-17 22:01:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/17/acting-fema-head-david-richardson-steps-down-after-troubled-tenure?traffic_source=rss" target="_blank">Acting FEMA head David Richardson steps down after troubled tenure</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-17 21:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763411751040_now_brk_trump_epstein_sign_251117_1920x1080-3a2m1r.jpg" alt="&#x27;I&#x27;m all for it&#x27;: Trump says he would sign bill to release Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -62,6 +66,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss" target="_blank">Israeli settlers torch homes and vehicles in Palestinian West Bank villages</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-17 20:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4064/live/42051ef0-c3ee-11f0-ae46-bd64331f0fd4.jpg" alt="Mahmood announces overhaul of &#x27;unfair&#x27; asylum system" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr7myg8g75jo?at_medium=RSS&at_campaign=rss" target="_blank">Mahmood announces overhaul of &#x27;unfair&#x27; asylum system</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-17 19:48</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +95,20 @@
                 <span class="time">2025-11-17 18:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/17/eswatini-5-m-dollars-us-deportees" target="_blank">Eswatini confirms receiving over $5m from US to accept deportees</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-17 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/epstein-survivors-ht-gmh-251117_1763392320702_hpMain_4x3t_384.jpg" alt="Epstein survivors&#x27; video message urges release of files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/time-bring-secrets-shadows-epstein-survivors-video-message/story?id=127590658" target="_blank">Epstein survivors&#x27; video message urges release of files</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-17 17:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext" target="_blank">Google updates its weather forecasts with a new AI model</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-17 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +154,20 @@
                 <span class="time">2025-11-17 18:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691b6877c12618cd902a14a4/master/pass/Our%20Favorite%20Compact%20Soundbar%20Is%20$100%20Off.png" alt="Our Favorite Compact Soundbar Is $100 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bose-smart-soundbar-deal-1125/" target="_blank">Our Favorite Compact Soundbar Is $100 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-17 18:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/a_abdellatif/tired-of-rails-one-off-scripts-becoming-a-nightmare-i-built-something-for-that-5fcb" target="_blank">Tired of Rails one-off scripts becoming a nightmare? I built something for that.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-17 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +213,6 @@
                 <span class="time">2025-11-17 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/git/highlights-from-git-2-52/" target="_blank">Highlights from Git 2.52</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-11-17 17:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,20 +227,20 @@
                 <span class="time">2025-11-17 12:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/" target="_blank">Microsoft Patch Tuesday, November 2025 Edition</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-11-16 21:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KA9DWBNPJXQG52JRBG3DFDHB/hero-image.png" alt="What Are Passkeys, and Who Should Be Using Them?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/what-are-passkeys?utm_medium=RSS" target="_blank">What Are Passkeys, and Who Should Be Using Them?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-17 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Timothee-Chalamet-interview-1280x853.jpg" alt="Timothée Chalamet Breaks Down That Iconic ‘Dune Part Two’ Speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +286,6 @@
                 <span class="time">2025-11-17 17:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/astronaut-anne-mcclain-2018-1280x853.jpg" alt="Woman Pleads Guilty to Lying About Astronaut Wife Accessing Her Bank Account From Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/woman-pleads-guilty-to-lying-about-astronaut-wife-accessing-her-bank-account-from-space-2000686965" target="_blank">Woman Pleads Guilty to Lying About Astronaut Wife Accessing Her Bank Account From Space</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-17 17:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -337,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
