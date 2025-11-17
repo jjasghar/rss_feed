@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 14:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-17 15:01:57 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/17/live-hamas-rejects-foreign-guardianship-of-gaza-before-un-vote?traffic_source=rss" target="_blank">LIVE: Hamas rejects ‘foreign guardianship’ of Gaza before UN vote</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-17 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6681/live/01524a10-c39c-11f0-a624-43243f904594.jpg" alt="Snow and ice warnings issued by Met Office as sub-zero temperatures forecast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/weather/articles/cz0xvjrzp4eo?at_medium=RSS&at_campaign=rss" target="_blank">Snow and ice warnings issued by Met Office as sub-zero temperatures forecast</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-17 13:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +96,29 @@
                 <span class="time">2025-11-17 09:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/17/sheffield-based-propagandist-sudan-rsf-militia-abdalmonim-alrabea" target="_blank">‘His role is to recruit’: the Sheffield-based propagandist for Sudan’s RSF militia</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-17 09:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/17/bangladesh-court-convicts-sheikh-hasina-of-crimes-against-humanity?traffic_source=rss" target="_blank">Bangladesh court convicts Sheikh Hasina of crimes against humanity</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-17 08:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025" target="_blank">Some of our favorite gifts will cost you less than $25</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-17 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/" target="_blank">Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-17 14:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +155,29 @@
                 <span class="time">2025-11-17 13:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/17/sakana-ai-raises-135m-series-b-at-a-2-65b-valuation-to-continue-building-ai-models-for-japan/" target="_blank">Sakana AI raises $135M Series B at a $2.65B valuation to continue building AI models for Japan</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-17 11:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6919488230583d5a57d332c7/master/pass/The%20Best%20Dry%20Shampoos.png" alt="11 Best Dry Shampoos for All Types of Hair (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-dry-shampoo/" target="_blank">11 Best Dry Shampoos for All Types of Hair (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-17 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/m_midas/how-skillhunt-uses-telegram-for-faster-job-search-8g8" target="_blank">How SkillHunt Uses Telegram for Faster Job Search</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-17 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/systemd-musl-libc" target="_blank">systemd Lands Experimental Support For musl libc</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-17 14:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh3fj528j54zh7wtz8o1d.png" alt="Dejé de hablar de AI y empecé a construir: Construye un RAG simple con Amazon Bedrock Knowledge Bases." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +212,6 @@
                 <span class="title"><a href="https://itsfoss.com/veil-gnome-extension/" target="_blank">Clean Up Your GNOME Panel With This New Extension</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-11-17 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/aws-remote-build-cache-docker/en/headerimage/generatedHeaderImage-1763194717154.jpg" alt="AWS Introduces Remote Build Cache in ECR to Accelerate Docker Image Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/aws-remote-build-cache-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Remote Build Cache in ECR to Accelerate Docker Image Builds</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-17 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alok_kumar_44670e79f96677/the-ultimate-guide-to-end-to-end-testing-best-practices-tools-and-insights-2aa8" target="_blank">The Ultimate Guide to End-to-End Testing: Best Practices, Tools, and Insights</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-17 11:50</span>
             </div>
         </div>
 </div>
@@ -338,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
