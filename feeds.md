@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 05:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-17 06:02:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,9 +52,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/17/nx-s1-5610542/thanksgiving-prices-turkey-tariffs" target="_blank">Thanksgiving could be more expensive this year. Here&#x27;s how to navigate higher prices</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-17 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/11/16/g-s1-98067/faa-lifts-restrictions-flights" target="_blank">FAA to lift all restrictions on commercial flights</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-17 04:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/17/bangladesh-live-court-verdict-against-toppled-ex-pm-sheikh-hasina-expected?traffic_source=rss" target="_blank">Bangladesh live: Court verdict against toppled ex-PM Sheikh Hasina expected</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-17 04:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-greene-20251116-gty-jh_1763324882215_hpMain_4x3t_384.jpg" alt="Trump calls for Republicans to vote to release Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/vote-epstein-files-rare-republican-break-trump/story?id=127575911" target="_blank">Trump calls for Republicans to vote to release Epstein files</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-17 04:06</span>
             </div>
         </div>
 <div class="story">
@@ -72,33 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/16/nx-s1-5610440/operation-names-charlottes-web-southern-spear" target="_blank">What to know about names such as Operation Charlotte&#x27;s Web</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-17 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251116-airport-miami-cc-0800p-b3e49a.jpg" alt="FAA to lift emergency flight reductions and resume normal operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/faa-will-lift-emergency-flight-reductions-monday-rcna244282" target="_blank">FAA to lift emergency flight reductions and resume normal operations</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-17 01:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251116-airport-miami-cc-0800p-b3e49a.jpg" alt="FAA will lift emergency flight reductions Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/faa-will-lift-emergency-flight-reductions-monday-rcna244282" target="_blank">FAA will lift emergency flight reductions Monday</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-17 01:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/17/dozens-killed-in-dr-congo-after-bridge-collapses-at-copper-cobalt-mine?traffic_source=rss" target="_blank">Dozens killed in DR Congo after bridge collapses at copper, cobalt mine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-17 00:54</span>
             </div>
         </div>
 </div>
@@ -248,6 +249,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Microsoft-Windows-11-Pro-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Arguing with your desktop? Get Windows 11 Pro and a 150-lesson crash course for $19.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/16/arguing-with-your-desktop-get-windows-11-pro-and-a-150-lesson-crash-course-for-19-97.html" target="_blank">Arguing with your desktop? Get Windows 11 Pro and a 150-lesson crash course for $19.97</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-16 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/zombieland-hed-1280x853.jpg" alt="Ruben Fleischer Still Loves What ‘Zombieland’ Became" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -283,15 +293,6 @@
                 <span class="time">2025-11-16 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/black-panther-hed-1280x853.jpg" alt="‘Black Panther 3’ is Officially Ryan Coogler’s Next Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/black-panther-3-is-officially-ryan-cooglers-next-movie-2000686529" target="_blank">‘Black Panther 3’ is Officially Ryan Coogler’s Next Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-16 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
