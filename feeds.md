@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 17:02:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-17 18:02:17 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 17:02 UTC</div>
+    <div class="newspaper-date">Monday, November 17, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,12 +108,48 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/17/luminar-is-fighting-with-its-biggest-customer-as-bankruptcy-threat-looms/" target="_blank">Luminar is fighting with its biggest customer as bankruptcy threat looms</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-17 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Apple-WWDC23-Mac-Pro-M2-Ultra-Mac-Pro-internal-230605-scaled-1-500x500.jpg" alt="Report claims that Apple has yet again put the Mac Pro “on the back burner”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/report-claims-that-apple-has-yet-again-put-the-mac-pro-on-the-back-burner/" target="_blank">Report claims that Apple has yet again put the Mac Pro “on the back burner”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-17 17:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23769068/best-ebook-readers" target="_blank">The best e-reader to buy right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-17 17:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/ftcms-be6a4489-97ce-470a-a1da-64bd738029c8-500x500.jpeg" alt="Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/" target="_blank">Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-17 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691b11bbc6bfec41d68f473a/master/pass/GettyImages-1396504390.jpg" alt="A Collision With Space Debris Leaves 3 Chinese Astronauts Stranded in Orbit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/three-astronauts-are-stuck-on-chinas-space-station-without-a-safe-ride-home/" target="_blank">A Collision With Space Debris Leaves 3 Chinese Astronauts Stranded in Orbit</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-17 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -119,47 +161,29 @@
                 <span class="time">2025-11-17 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/" target="_blank">Jeff Bezos reportedly returns to the trenches as co-CEO of new AI startup, Project Prometheus</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-17 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/e59bbee78987-193-e1758180732742-800x451-1-500x451.png" alt="When recreating a famous SUV stunt in China goes wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/11/when-recreating-a-famous-suv-stunt-in-china-goes-wrong/" target="_blank">When recreating a famous SUV stunt in China goes wrong</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-17 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/821258/ford-amazon-auto-online-sales-certified-preowned" target="_blank">You can now buy pre-owned Ford vehicles on Amazon</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-17 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/" target="_blank">MCP AI agent security startup Runlayer launches with 8 unicorns, $11M from Khosla’s Keith Rabois and Felicis</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-17 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmgpm4tok15ubz3wmvo8z.png" alt="onSubmit in React.js Forms: Why action=&quot;&quot; and method=&quot;&quot; don’t apply anymore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/victorugs_dev/onsubmit-in-reactjs-forms-why-action-and-method-dont-apply-anymore-3dg7" target="_blank">onSubmit in React.js Forms: Why action=&quot;&quot; and method=&quot;&quot; don’t apply anymore</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-17 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://discuss.python.org/t/pre-pep-rust-for-cpython/104906" target="_blank">Pre-PEP: Rust for CPython</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-17 17:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +220,6 @@
                 <span class="time">2025-11-17 15:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/tools-genai/en/headerimage/tools-genai-header-1763379705256.jpg" alt="KubeCon NA 2025 - Erica Hughberg and Alexa Griffith on Tools for the Age of GenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/tools-genai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">KubeCon NA 2025 - Erica Hughberg and Alexa Griffith on Tools for the Age of GenAI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-17 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/m_midas/how-skillhunt-uses-telegram-for-faster-job-search-8g8" target="_blank">How SkillHunt Uses Telegram for Faster Job Search</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-17 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/shutterstock_135614681.jpg?fit=1500%2C1002&amp;quality=60&amp;ssl=1" alt="GOP state senator gets swatted after defying Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/17/gop-state-senator-gets-swatted-after-defying-trump.html" target="_blank">GOP state senator gets swatted after defying Trump</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-17 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/astronaut-anne-mcclain-2018-1280x853.jpg" alt="Woman Pleads Guilty to Lying About Astronaut Wife Accessing Her Bank Account From Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/woman-pleads-guilty-to-lying-about-astronaut-wife-accessing-her-bank-account-from-space-2000686965" target="_blank">Woman Pleads Guilty to Lying About Astronaut Wife Accessing Her Bank Account From Space</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-17 17:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/IMG_3730-scaled.jpg?fit=2560%2C2560&amp;quality=60&amp;ssl=1" alt="Free festival turns 5,000-person mining town into musical maze" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +300,6 @@
                 <span class="title"><a href="https://gizmodo.com/mint-mobiles-black-friday-deal-makes-samsung-google-and-apple-phones-practically-free-with-its-50-off-unlimited-plan-2000686032" target="_blank">Mint Mobile’s Black Friday Deal Makes Samsung, Google, and Apple Phones Practically Free With Its 50% Off Unlimited Plan</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-17 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J5V7RAJ5W0JW157WXNX4GCW8/hero-image.png" alt="You Can (and Should) Modify the Pomodoro Technique to Fit Your Work Habits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/work/modify-the-pomodoro-technique?utm_medium=RSS" target="_blank">You Can (and Should) Modify the Pomodoro Technique to Fit Your Work Habits</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-17 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/now-see-me-hed-1280x853.jpg" alt="The People Love Themselves Some ‘Now You See Me’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-people-love-themselves-some-now-you-see-me-2000686735" target="_blank">The People Love Themselves Some ‘Now You See Me’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-17 12:00</span>
             </div>
         </div>
 </div>
@@ -333,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
