@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 16:02:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-17 17:02:08 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/17/gazas-shelter-crisis-is-most-dangerous-disaster-of-war-authorities?traffic_source=rss" target="_blank">Gaza’s shelter crisis is ‘most dangerous’ disaster of war: Authorities</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-17 16:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +96,20 @@
                 <span class="time">2025-11-17 09:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/17/landslides-kill-dozens-as-heavy-rains-lash-southeast-asia?traffic_source=rss" target="_blank">Landslides kill dozens as heavy rains lash Southeast Asia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-17 09:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/ftcms-be6a4489-97ce-470a-a1da-64bd738029c8-500x500.jpeg" alt="Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/" target="_blank">Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-17 16:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,20 +155,38 @@
                 <span class="time">2025-11-17 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/opiates4-500x500.jpg" alt="Ancient Egyptians likely used opiates regularly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/ancient-egyptians-likely-used-opiates-regularly/" target="_blank">Ancient Egyptians likely used opiates regularly</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-17 13:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-153-1cgi" target="_blank">What are your goals for the week? #153</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-17 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/java-news-roundup-nov10-2025/en/headerimage/java-istock-image-01-1763396731258.jpg" alt="Java News Roundup: Spring Framework 7.0, Spring Data, Spring AI, Payara Platform, OpenJDK, JobRunr" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/java-news-roundup-nov10-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Spring Framework 7.0, Spring Data, Spring AI, Payara Platform, OpenJDK, JobRunr</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-17 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18734672&w=600" alt="How Agentic AI Enhances API Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-agentic-ai-enhances-api-testing" target="_blank">How Agentic AI Enhances API Testing</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-17 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,33 +212,6 @@
                 <span class="title"><a href="https://dev.to/m_midas/how-skillhunt-uses-telegram-for-faster-job-search-8g8" target="_blank">How SkillHunt Uses Telegram for Faster Job Search</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-17 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/systemd-musl-libc" target="_blank">systemd Lands Experimental Support For musl libc</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-17 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh3fj528j54zh7wtz8o1d.png" alt="Dejé de hablar de AI y empecé a construir: Construye un RAG simple con Amazon Bedrock Knowledge Bases." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sinariver/deje-de-hablar-de-ai-y-empece-a-construir-construye-un-rag-simple-con-amazon-bedrock-knowledge-3j42" target="_blank">Dejé de hablar de AI y empecé a construir: Construye un RAG simple con Amazon Bedrock Knowledge Bases.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-17 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/debs_obrien/playwright-mcp-servers-explained-automation-and-testing-4mo0" target="_blank">Playwright MCP Servers Explained: Automation and Testing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-17 13:10</span>
             </div>
         </div>
 </div>
@@ -239,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/IMG_3730-scaled.jpg?fit=2560%2C2560&amp;quality=60&amp;ssl=1" alt="Free festival turns 5,000-person mining town into musical maze" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/17/free-festival-turns-5000-person-mining-town-into-musical-maze.html" target="_blank">Free festival turns 5,000-person mining town into musical maze</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-17 16:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KA8ETVPGKNGG9HS5V8T1TEKJ/hero-image.png" alt="This Samsung Galaxy Z Fold 7 Is $400 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,20 +296,20 @@
                 <span class="time">2025-11-17 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/noem-horse.jpg?fit=1080%2C683&amp;quality=60&amp;ssl=1" alt="Noem faces resignation calls after failed &quot;terrorist&quot; raid yields nothing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/17/noem-faces-resignation-calls-after-failed-terrorist-raid-yields-nothing.html" target="_blank">Noem faces resignation calls after failed &quot;terrorist&quot; raid yields nothing</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-17 11:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1763353003-20251117.png" alt="Saturday Morning Breakfast Cereal - Panic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/panic" target="_blank">Saturday Morning Breakfast Cereal - Panic</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-17 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -316,22 +328,13 @@
                 <span class="time">2025-11-17 02:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1763259501-20251116.png" alt="Saturday Morning Breakfast Cereal - Conscious" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/conscious-8" target="_blank">Saturday Morning Breakfast Cereal - Conscious</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-16 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
