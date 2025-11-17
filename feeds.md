@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 00:05:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-17 01:29:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251116-airport-miami-cc-0800p-b3e49a.jpg" alt="FAA will lift emergency flight reductions Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/faa-will-lift-emergency-flight-reductions-monday-rcna244282" target="_blank">FAA will lift emergency flight reductions Monday</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-17 01:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/17/dozens-killed-in-dr-congo-after-bridge-collapses-at-copper-cobalt-mine?traffic_source=rss" target="_blank">Dozens killed in DR Congo after bridge collapses at copper, cobalt mine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-17 00:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a12/live/5905fee0-b8b2-11f0-aa13-0b0479f6f42a.jpg" alt="Two US marines implicated in killing family in notorious Iraq war shooting, expert tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2emyz0zpxko?at_medium=RSS&at_campaign=rss" target="_blank">Two US marines implicated in killing family in notorious Iraq war shooting, expert tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-17 00:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,33 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/16/dr-congo-shock-nigeria-on-penalties-to-win-african-world-cup-playoffs?traffic_source=rss" target="_blank">DR Congo shock Nigeria on penalties to win African World Cup playoffs</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-16 22:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-greene-20251116-gty-jh_1763324882215_hpMain_4x3t_384.jpg" alt="Vote on Epstein files could be a rare Republican break with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/vote-epstein-files-rare-republican-break-trump/story?id=127575911" target="_blank">Vote on Epstein files could be a rare Republican break with Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-16 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/16/toppled-hasinas-son-warns-bangladesh-court-will-sentence-her-to-death?traffic_source=rss" target="_blank">Toppled Hasina’s son warns Bangladesh court will sentence her to death</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-16 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/scott-bessent-4-rt-gmh-251025_1761165126439_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Bessent says effort to rein in costs will be felt next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates-trump-blames-democrats-massive/?id=127478903" target="_blank">Trump admin live updates: Bessent says effort to rein in costs will be felt next year</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-16 19:57</span>
             </div>
         </div>
 </div>
@@ -178,6 +178,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html" target="_blank">Why your mock breaks later</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-16 23:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/wattage-linux-battery-app.jpg?resize=406%2C232&amp;ssl=1" alt="Monitor Your Linux Laptop Battery Health with Wattage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/wattage-battery-monitoring-app-linux" target="_blank">Monitor Your Linux Laptop Battery Health with Wattage</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-16 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc6" target="_blank">Linux 6.18-rc6 Released With Fix For ARM64 &quot;Catastrophic Performance Issue&quot;</a></span>
                 <span class="feed">Phoronix</span>
@@ -200,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/this-is-angular/ng-news-2545-analog-v2-debouncing-in-signalforms-testing-time-3j77" target="_blank">Ng-News 25/45: Analog v2, Debouncing in SignalForms, Testing &amp; Time</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-16 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3344154%2Fe95552f2-ca2e-40b1-a2cc-efb7e2653df9.jpeg" alt="The fastest and easiest way to setup React with Bulma and Vite." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/allxsmith/the-fastest-and-easiest-way-to-setup-react-with-bulma-and-vite-37b" target="_blank">The fastest and easiest way to setup React with Bulma and Vite.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-16 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.zigbook.net" target="_blank">Open-source Zig book</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-16 19:44</span>
             </div>
         </div>
 </div>
@@ -276,21 +276,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Microsoft-Office-Pro-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Today&#x27;s the final day to get lifetime access to Microsoft Office 2021 and free expert training for 83% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/16/todays-the-final-day-to-get-lifetime-access-to-microsoft-office-2021-and-free-expert-training-for-83-off.html" target="_blank">Today&#x27;s the final day to get lifetime access to Microsoft Office 2021 and free expert training for 83% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-16 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/black-panther-hed-1280x853.jpg" alt="‘Black Panther 3’ is Officially Ryan Coogler’s Next Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/black-panther-3-is-officially-ryan-cooglers-next-movie-2000686529" target="_blank">‘Black Panther 3’ is Officially Ryan Coogler’s Next Movie</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-16 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/injectable-pens-1-1280x853.jpg" alt="Ozempic’s Latest Weight Loss Competition Is Like Nothing We’ve Seen Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ozempics-latest-weight-loss-competition-is-like-nothing-weve-seen-before-2000684254" target="_blank">Ozempic’s Latest Weight Loss Competition Is Like Nothing We’ve Seen Before</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-16 15:00</span>
             </div>
         </div>
 </div>
@@ -312,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
