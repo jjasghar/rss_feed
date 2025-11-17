@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 19:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-17 20:02:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/music/2025/nov/17/nicki-minaj-un-speech-trump-nigeria-christian" target="_blank">Nicki Minaj to spotlight plight of Nigerian Christians in UN speech arranged by White House</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-17 19:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +98,20 @@
                 <span class="time">2025-11-17 14:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6681/live/01524a10-c39c-11f0-a624-43243f904594.jpg" alt="Snow and ice warnings issued by Met Office as sub-zero temperatures forecast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/weather/articles/cz0xvjrzp4eo?at_medium=RSS&at_campaign=rss" target="_blank">Snow and ice warnings issued by Met Office as sub-zero temperatures forecast</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-17 13:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/822365/bose-noise-canceling-quietcomfort-headphones-amazon-deal-sale" target="_blank">Bose’s noise-canceling QuietComfort Headphones are more than 50 percent off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-17 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +157,20 @@
                 <span class="time">2025-11-17 17:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/ftcms-be6a4489-97ce-470a-a1da-64bd738029c8-500x500.jpeg" alt="Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/" target="_blank">Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-17 16:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Git-2.52-Released" target="_blank">Git 2.52 Released With More Preparations Toward Git 3.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-17 19:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-153-1cgi" target="_blank">What are your goals for the week? #153</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-17 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/java-news-roundup-nov10-2025/en/headerimage/java-istock-image-01-1763396731258.jpg" alt="Java News Roundup: Spring Framework 7.0, Spring Data, Spring AI, Payara Platform, OpenJDK, JobRunr" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/java-news-roundup-nov10-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Spring Framework 7.0, Spring Data, Spring AI, Payara Platform, OpenJDK, JobRunr</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-17 16:30</span>
             </div>
         </div>
 </div>
@@ -337,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
