@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 18:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-17 19:01:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-recognises-palestine?traffic_source=rss" target="_blank">Israel’s Ben-Gvir urges killing PA officials if UN recognises Palestine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-17 18:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/17/eswatini-5-m-dollars-us-deportees" target="_blank">Eswatini confirms receiving over $5m from US to accept deportees</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-17 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/epstein-survivors-ht-gmh-251117_1763392320702_hpMain_4x3t_384.jpg" alt="Epstein survivors&#x27; video message urges release of files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/time-bring-secrets-shadows-epstein-survivors-video-message/story?id=127590658" target="_blank">Epstein survivors&#x27; video message urges release of files</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-17 17:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +100,29 @@
                 <span class="time">2025-11-17 13:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/17/g-s1-98106/up-first-newsletter-trump-epstein-files-venezuela-charlotte-border-patrol" target="_blank">Trump changes stance on Epstein files. And, the U.S. increases pressure on Venezuela</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-17 12:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763381992300_tdy_news_7a_trump_epstein_files_reversal_251117_1920x1080-2jo9qj.jpg" alt="Trump Reverses Course on Release of Epstein Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-calls-to-release-epstein-files-in-sharp-reversal-252173381705" target="_blank">Trump Reverses Course on Release of Epstein Files</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-17 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/17/spain-vs-turkiye-world-cup-2026-qualifier-team-news-start-time-lineups?traffic_source=rss" target="_blank">Spain vs Turkiye: World Cup 2026 qualifier – team news, start time, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-17 09:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/822110/opentable-ai-assisted-data-restaurants" target="_blank">Your online reservations are telling restaurants all about you</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-17 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/17/cisco-acquires-translation-startup-ezdubs/" target="_blank">Cisco acquires translation startup EzDubs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-17 18:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +159,29 @@
                 <span class="time">2025-11-17 16:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691b11bbc6bfec41d68f473a/master/pass/GettyImages-1396504390.jpg" alt="A Collision With Space Debris Leaves 3 Chinese Astronauts Stranded in Orbit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/three-astronauts-are-stuck-on-chinas-space-station-without-a-safe-ride-home/" target="_blank">A Collision With Space Debris Leaves 3 Chinese Astronauts Stranded in Orbit</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-17 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025" target="_blank">Some of our favorite gifts will cost you less than $25</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-17 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alejandro_tacorontegonz/looking-for-advice-as-a-junior-fullstack-developer-69n" target="_blank">Looking for Advice as a Junior Fullstack Developer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-17 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18752690&w=600" alt="From Data Lakes to Intelligence Lakes: Augmenting Apache Iceberg With Generative AI Metadata on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/intelligence-lake-iceberg-generative-ai-aws" target="_blank">From Data Lakes to Intelligence Lakes: Augmenting Apache Iceberg With Generative AI Metadata on AWS</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-17 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmgpm4tok15ubz3wmvo8z.png" alt="onSubmit in React.js Forms: Why action=&quot;&quot; and method=&quot;&quot; don’t apply anymore" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +218,6 @@
                 <span class="time">2025-11-17 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18734672&w=600" alt="How Agentic AI Enhances API Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-agentic-ai-enhances-api-testing" target="_blank">How Agentic AI Enhances API Testing</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LLVM-Clang-NVL-APX-AVX-10.2" target="_blank">Updated LLVM/Clang Compiler Enables AVX 10.2 &amp; APX For Intel Nova Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-17 15:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/10/comey.jpg?fit=1484%2C1023&amp;quality=60&amp;ssl=1" alt="DOJ busted: grand jury misconduct exposed in Comey indictment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/17/doj-busted-grand-jury-misconduct-exposed-in-comey-indictment.html" target="_blank">DOJ busted: grand jury misconduct exposed in Comey indictment</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-17 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/helldivers-2-Worm-1280x720.jpg" alt="Helldivers 2 Head Says Arc Raiders’ Use Of AI ‘Makes Gaming Better’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/helldivers-2-gen-ai-arc-raiders-brendan-green-2000644914" target="_blank">Helldivers 2 Head Says Arc Raiders’ Use Of AI ‘Makes Gaming Better’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-17 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/shutterstock_135614681.jpg?fit=1500%2C1002&amp;quality=60&amp;ssl=1" alt="GOP state senator gets swatted after defying Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,24 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/galaxy-z-fold-7-jet-black-sale?utm_medium=RSS" target="_blank">This Samsung Galaxy Z Fold 7 Is $400 Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-17 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/ASUSTUF_F16-1280x853.jpg" alt="ASUS TUF F16 (2025) Gaming Laptop With RTX 5050 Just Dropped by Hundreds, Lowest Price Yet for This New Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-just-slashed-350-off-this-asus-tuf-f16-gaming-laptop-dropping-a-1300-machine-to-its-lowest-price-yet-2000644446" target="_blank">ASUS TUF F16 (2025) Gaming Laptop With RTX 5050 Just Dropped by Hundreds, Lowest Price Yet for This New Release</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-17 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Mint-Mobile-BF-1280x853.jpg" alt="Mint Mobile’s Black Friday Deal Makes Samsung, Google, and Apple Phones Practically Free With Its 50% Off Unlimited Plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mint-mobiles-black-friday-deal-makes-samsung-google-and-apple-phones-practically-free-with-its-50-off-unlimited-plan-2000686032" target="_blank">Mint Mobile’s Black Friday Deal Makes Samsung, Google, and Apple Phones Practically Free With Its 50% Off Unlimited Plan</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-17 13:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
