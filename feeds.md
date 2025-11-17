@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 11:01:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-17 12:02:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -75,6 +74,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-sheikh-hasina-bangladesh_7083797.jpg?20251117081805" alt="Sheikh Hasina sentenced to death for crimes against humanity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ousted-former-bangladesh-pm-sheikh-hasina-convicted-of-crimes-against-humanity-13471521" target="_blank">Sheikh Hasina sentenced to death for crimes against humanity</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-17 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/179d/live/e549fa30-c386-11f0-8456-eff94716b162.jpg" alt="Trump calls on House Republicans to vote to release Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -92,20 +100,29 @@
                 <span class="time">2025-11-17 07:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47d8/live/e7cd88e0-c367-11f0-8669-5560f5c90fbe.jpg" alt="Will the government&#x27;s new asylum plans work?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c231dz29ld5o?at_medium=RSS&at_campaign=rss" target="_blank">Will the government&#x27;s new asylum plans work?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-17 06:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/17/sakana-ai-raises-135m-series-b-at-a-2-65b-valuation-to-continue-building-ai-models-for-japan/" target="_blank">Sakana AI raises $135M Series B at a $2.65B valuation to continue building AI models for Japan</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-17 11:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6919488230583d5a57d332c7/master/pass/The%20Best%20Dry%20Shampoos.png" alt="11 Best Dry Shampoos for All Types of Hair (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-dry-shampoo/" target="_blank">11 Best Dry Shampoos for All Types of Hair (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-17 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/691932c88d40b0d195f02449/master/pass/The%2012%20Tech%20Gifts%20They'd%20Actually%20Want%20for%20the%20Holidays%20This%20Year.png" alt="12 Best Tech Gifts That They&#x27;d Actually Want (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +159,29 @@
                 <span class="time">2025-11-17 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/821807/sky-sports-halo-women-tiktok" target="_blank">Sky Sports killed off its female-focused Halo brand after just three days</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-17 01:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/821782/you-need-to-listen-to-the-searing-noise-pop-album-forever-in-your-heart" target="_blank">You need to listen to the searing noise pop album Forever in Your Heart</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-16 22:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/aws-remote-build-cache-docker/en/headerimage/generatedHeaderImage-1763194717154.jpg" alt="AWS Introduces Remote Build Cache in ECR to Accelerate Docker Image Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/aws-remote-build-cache-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Remote Build Cache in ECR to Accelerate Docker Image Builds</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-17 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alok_kumar_44670e79f96677/the-ultimate-guide-to-end-to-end-testing-best-practices-tools-and-insights-2aa8" target="_blank">The Ultimate Guide to End-to-End Testing: Best Practices, Tools, and Insights</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-17 11:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/holistic-engineering-organic-problem-solving-complex-systems/en/headerimage/holistic-engineering-organic-problem-solving-complex-systems-header-1762857128649.jpg" alt="Article: Holistic Engineering: Organic Problem Solving for Complex Evolving Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +218,6 @@
                 <span class="time">2025-11-17 09:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/kimi-k2-open-source-moe-ai/en/headerimage/generatedHeaderImage-1763271932874.jpg" alt="Kimi&#x27;s K2 Opensource Language Model Supports Dynamic Resource Availability and New Optimizer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/kimi-k2-open-source-moe-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Kimi&#x27;s K2 Opensource Language Model Supports Dynamic Resource Availability and New Optimizer</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-17 08:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxeqfjbt6u8f0hwe9wr8h.png" alt="Transformers: The Magic Engine Behind ChatGPT, Gemini &amp; Every Modern AI Model!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pavanbelagatti/transformers-the-magic-engine-behind-chatgpt-gemini-every-modern-ai-model-5abk" target="_blank">Transformers: The Magic Engine Behind ChatGPT, Gemini &amp; Every Modern AI Model!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-17 07:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/now-see-me-hed-1280x853.jpg" alt="The People Love Themselves Some ‘Now You See Me’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-people-love-themselves-some-now-you-see-me-2000686735" target="_blank">The People Love Themselves Some ‘Now You See Me’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-17 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/harvard.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Harvard&#x27;s former president asked Epstein for advice on how to have sex with a &quot;mentee&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/17/harvards-former-president-asked-epstein-for-advice-on-how-to-have-sex-with-a-mentee.html" target="_blank">Harvard&#x27;s former president asked Epstein for advice on how to have sex with a &quot;mentee&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-17 11:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/owl-house-hed-1280x853.jpg" alt="‘Owl House’ Creator Dana Terrace Gives Her Blessing to Pirate It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/16/arguing-with-your-desktop-get-windows-11-pro-and-a-150-lesson-crash-course-for-19-97.html" target="_blank">Arguing with your desktop? Get Windows 11 Pro and a 150-lesson crash course for $19.97</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-16 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/zombieland-hed-1280x853.jpg" alt="Ruben Fleischer Still Loves What ‘Zombieland’ Became" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ruben-fleischer-still-loves-what-zombieland-became-2000686627" target="_blank">Ruben Fleischer Still Loves What ‘Zombieland’ Became</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-16 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/monster-hunter-hed-1280x853.jpg" alt="‘Monster Hunter’ Is the Next Secret Lair Drop for ‘Magic: The Gathering’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/monster-hunter-is-the-next-secret-lair-drop-for-magic-the-gathering-2000686521" target="_blank">‘Monster Hunter’ Is the Next Secret Lair Drop for ‘Magic: The Gathering’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-16 19:50</span>
             </div>
         </div>
 </div>
@@ -329,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
