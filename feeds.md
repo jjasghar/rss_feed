@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 09:02:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-17 10:01:54 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/17/landslides-kill-dozens-as-heavy-rains-lash-southeast-asia?traffic_source=rss" target="_blank">Landslides kill dozens as heavy rains lash Southeast Asia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-17 09:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/17/nx-s1-5610542/thanksgiving-prices-turkey-tariffs" target="_blank">Thanksgiving could be more expensive this year. Here&#x27;s how to navigate higher prices</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-17 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/16/g-s1-98067/faa-lifts-restrictions-flights" target="_blank">FAA to lift all restrictions on commercial flights</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-17 04:42</span>
             </div>
         </div>
 </div>
@@ -167,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-4489" target="_blank">Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-17 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/snapchat-open-sources-valdi/" target="_blank">Snapchat Opens Valdi Framework to Developers After 8 Years of Internal Use</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-17 09:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/kimi-k2-open-source-moe-ai/en/headerimage/generatedHeaderImage-1763271932874.jpg" alt="Kimi&#x27;s K2 Opensource Language Model Supports Dynamic Resource Availability and New Optimizer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -202,24 +221,6 @@
                 <span class="time">2025-11-17 03:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/alliander-modernises-its-electricity-grid-red-hat-long-term-reliability-balance-rapid-innovation" target="_blank">Alliander modernises its electricity grid with Red Hat for long-term reliability in balance with rapid innovation</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-11-17 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/understanding-the-different-post-content-types.png" alt="Understanding the Different POST Content Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/djangotricks/understanding-the-different-post-content-types-3bjd" target="_blank">Understanding the Different POST Content Types</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-16 23:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/jobs-toy-1280x853.jpg" alt="Apple Reportedly Has a Bold New Plan For Innovation Over the Next Few Years: More iPhones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apple-iphone-schedule-2000686652" target="_blank">Apple Reportedly Has a Bold New Plan For Innovation Over the Next Few Years: More iPhones</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-17 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/bose-qc-ultra-1280x853.jpg" alt="AirPods Max Alternative, These Bose Ultra Headphones Reach New All-Time Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,20 +294,20 @@
                 <span class="time">2025-11-16 17:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Microsoft-Office-Pro-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Today&#x27;s the final day to get lifetime access to Microsoft Office 2021 and free expert training for 83% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/16/todays-the-final-day-to-get-lifetime-access-to-microsoft-office-2021-and-free-expert-training-for-83-off.html" target="_blank">Today&#x27;s the final day to get lifetime access to Microsoft Office 2021 and free expert training for 83% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-16 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/17/the-prints-of-peace" target="_blank">The Prints Of Peace</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-17 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5702.png" alt="Taint One, Taint The Other" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -321,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
