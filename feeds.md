@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 02:30:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-17 03:23:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 03:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,10 +50,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/17/us-flights-to-return-to-normal-after-aviation-authority-lifts-restrictions?traffic_source=rss" target="_blank">US flights to return to normal after aviation authority lifts restrictions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-17 02:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/11/16/nx-s1-5610440/operation-names-charlottes-web-southern-spear" target="_blank">What to know about names such as Operation Charlotte&#x27;s Web</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-17 01:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251116-airport-miami-cc-0800p-b3e49a.jpg" alt="FAA to lift emergency flight reductions and resume normal operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/faa-will-lift-emergency-flight-reductions-monday-rcna244282" target="_blank">FAA to lift emergency flight reductions and resume normal operations</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-17 01:12</span>
             </div>
         </div>
 <div class="story">
@@ -79,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c2emyz0zpxko?at_medium=RSS&at_campaign=rss" target="_blank">Two US marines implicated in killing family in notorious Iraq war shooting, expert tells BBC</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-17 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/16/nx-s1-5610508/uss-gerald-ford-aircraft-carrier-history-background" target="_blank">The USS Gerald R. Ford aircraft carrier is in the Caribbean. Here&#x27;s its backstory</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-16 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab61/live/077b5d90-c32f-11f0-8456-eff94716b162.jpg" alt="Fast-track deportations to be announced as part of asylum reforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn97ryvelz0o?at_medium=RSS&at_campaign=rss" target="_blank">Fast-track deportations to be announced as part of asylum reforms</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-16 22:37</span>
             </div>
         </div>
 </div>
@@ -164,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2127165%2F021925e3-db39-4911-bd2f-a0a3614ce183.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/velwyn_sam_bd8c14920e351a/-354p" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-17 03:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/understanding-the-different-post-content-types.png" alt="Understanding the Different POST Content Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/dhouse109/synthesizing-a-project-in-chatgpt-to-create-content-for-my-site-83n" target="_blank">Synthesizing a project in ChatGPT to create content for my site.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-16 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9esr5n6gpn7hrx0b2u6e.png" alt="Ng-News 25/45: Analog v2, Debouncing in SignalForms, Testing &amp; Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/this-is-angular/ng-news-2545-analog-v2-debouncing-in-signalforms-testing-time-3j77" target="_blank">Ng-News 25/45: Analog v2, Debouncing in SignalForms, Testing &amp; Time</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-16 20:53</span>
             </div>
         </div>
 </div>
@@ -318,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 03:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
