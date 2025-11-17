@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 12:02:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-17 13:10:59 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/17/g-s1-98106/up-first-newsletter-trump-epstein-files-venezuela-charlotte-border-patrol" target="_blank">Trump changes stance on Epstein files. And, the U.S. increases pressure on Venezuela</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-17 12:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763381992300_tdy_news_7a_trump_epstein_files_reversal_251117_1920x1080-2jo9qj.jpg" alt="Trump Reverses Course on Release of Epstein Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-calls-to-release-epstein-files-in-sharp-reversal-252173381705" target="_blank">Trump Reverses Course on Release of Epstein Files</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-17 12:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,37 +85,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/17/bangladesh-court-convicts-sheikh-hasina-of-crimes-against-humanity?traffic_source=rss" target="_blank">Bangladesh court convicts Sheikh Hasina of crimes against humanity</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-17 08:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-sheikh-hasina-bangladesh_7083797.jpg?20251117081805" alt="Sheikh Hasina sentenced to death for crimes against humanity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ousted-former-bangladesh-pm-sheikh-hasina-convicted-of-crimes-against-humanity-13471521" target="_blank">Sheikh Hasina sentenced to death for crimes against humanity</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-17 08:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/179d/live/e549fa30-c386-11f0-8456-eff94716b162.jpg" alt="Trump calls on House Republicans to vote to release Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss" target="_blank">Trump calls on House Republicans to vote to release Epstein files</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-17 07:57</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/17/sheffield-based-propagandist-sudan-rsf-militia-abdalmonim-alrabea" target="_blank">‘His role is to recruit’: the Sheffield-based propagandist for Sudan’s RSF militia</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-17 09:13</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/17/trump-backs-full-release-of-epstein-files-in-sharp-reversal?traffic_source=rss" target="_blank">Trump backs full release of Epstein files in sharp reversal</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/17/bangladesh-court-convicts-sheikh-hasina-of-crimes-against-humanity?traffic_source=rss" target="_blank">Bangladesh court convicts Sheikh Hasina of crimes against humanity</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-17 07:34</span>
+                <span class="time">2025-11-17 08:25</span>
             </div>
         </div>
 </div>
@@ -105,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/17/surveillance-tech-provider-protei-was-hacked-its-data-stolen-and-its-website-defaced/" target="_blank">Surveillance tech provider Protei was hacked, its data stolen and its website defaced</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-17 13:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +159,29 @@
                 <span class="time">2025-11-17 07:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/820398/eu-gas-car-ban-2035-weaken-climate" target="_blank">Europe banned new gas cars after 2035 — now it’s reconsidering</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-17 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/debs_obrien/playwright-mcp-servers-explained-automation-and-testing-4mo0" target="_blank">Playwright MCP Servers Explained: Automation and Testing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-17 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18744453&w=600" alt="From Agent AI to Agentic AI: Building Self-Healing Kubernetes Clusters That Learn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/docker-security-from-theory-to-practice-a-complete" target="_blank">From Agent AI to Agentic AI: Building Self-Healing Kubernetes Clusters That Learn</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-17 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/11/aws-remote-build-cache-docker/en/headerimage/generatedHeaderImage-1763194717154.jpg" alt="AWS Introduces Remote Build Cache in ECR to Accelerate Docker Image Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,29 +218,20 @@
                 <span class="time">2025-11-17 10:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-4489" target="_blank">Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-17 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/snapchat-open-sources-valdi/" target="_blank">Snapchat Opens Valdi Framework to Developers After 8 Years of Internal Use</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-17 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/more-promptgtfo.html" target="_blank">More Prompt&amp;#124;&amp;#124;GTFO</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-17 12:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -237,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Mint-Mobile-BF-1280x853.jpg" alt="Mint Mobile’s Black Friday Deal Makes Samsung, Google, and Apple Phones Practically Free With Its 50% Off Unlimited Plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mint-mobiles-black-friday-deal-makes-samsung-google-and-apple-phones-practically-free-with-its-50-off-unlimited-plan-2000686032" target="_blank">Mint Mobile’s Black Friday Deal Makes Samsung, Google, and Apple Phones Practically Free With Its 50% Off Unlimited Plan</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-17 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/now-see-me-hed-1280x853.jpg" alt="The People Love Themselves Some ‘Now You See Me’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +300,6 @@
                 <span class="time">2025-11-16 23:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Microsoft-Windows-11-Pro-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Arguing with your desktop? Get Windows 11 Pro and a 150-lesson crash course for $19.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/16/arguing-with-your-desktop-get-windows-11-pro-and-a-150-lesson-crash-course-for-19-97.html" target="_blank">Arguing with your desktop? Get Windows 11 Pro and a 150-lesson crash course for $19.97</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-16 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
