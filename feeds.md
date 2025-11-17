@@ -1,31 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 07:01:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-11-17 08:02:28 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +37,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/17/trump-backs-full-release-of-epstein-files-in-sharp-reversal?traffic_source=rss" target="_blank">Trump backs full release of Epstein files in sharp reversal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-17 07:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47d8/live/e7cd88e0-c367-11f0-8669-5560f5c90fbe.jpg" alt="Will the government&#x27;s new asylum plans work?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c231dz29ld5o?at_medium=RSS&at_campaign=rss" target="_blank">Will the government&#x27;s new asylum plans work?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-17 06:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +89,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/vote-epstein-files-rare-republican-break-trump/story?id=127575911" target="_blank">Trump calls for Republicans to vote to release Epstein files</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-17 04:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/17/us-flights-to-return-to-normal-after-aviation-authority-lifts-restrictions?traffic_source=rss" target="_blank">US flights to return to normal after aviation authority lifts restrictions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-17 02:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/16/nx-s1-5610440/operation-names-charlottes-web-southern-spear" target="_blank">What to know about names such as Operation Charlotte&#x27;s Web</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-17 01:23</span>
             </div>
         </div>
 </div>
@@ -160,6 +156,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxeqfjbt6u8f0hwe9wr8h.png" alt="Transformers: The Magic Engine Behind ChatGPT, Gemini &amp; Every Modern AI Model!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pavanbelagatti/transformers-the-magic-engine-behind-chatgpt-gemini-every-modern-ai-model-5abk" target="_blank">Transformers: The Magic Engine Behind ChatGPT, Gemini &amp; Every Modern AI Model!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-17 07:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -178,6 +183,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/alliander-modernises-its-electricity-grid-red-hat-long-term-reliability-balance-rapid-innovation" target="_blank">Alliander modernises its electricity grid with Red Hat for long-term reliability in balance with rapid innovation</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-11-17 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/understanding-the-different-post-content-types.png" alt="Understanding the Different POST Content Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,24 +207,6 @@
                 <span class="title"><a href="https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html" target="_blank">Why your mock breaks later</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-11-16 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/wattage-linux-battery-app.jpg?resize=406%2C232&amp;ssl=1" alt="Monitor Your Linux Laptop Battery Health with Wattage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/wattage-battery-monitoring-app-linux" target="_blank">Monitor Your Linux Laptop Battery Health with Wattage</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-16 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc6" target="_blank">Linux 6.18-rc6 Released With Fix For ARM64 &quot;Catastrophic Performance Issue&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-16 22:45</span>
             </div>
         </div>
 </div>
@@ -314,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
