@@ -1,27 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 08:02:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-17 09:02:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 19 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, November 17, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/17/bangladesh-court-convicts-sheikh-hasina-of-crimes-against-humanity?traffic_source=rss" target="_blank">Bangladesh court convicts Sheikh Hasina of crimes against humanity</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-17 08:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/179d/live/e549fa30-c386-11f0-8456-eff94716b162.jpg" alt="Trump calls on House Republicans to vote to release Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss" target="_blank">Trump calls on House Republicans to vote to release Epstein files</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-17 07:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,29 +102,29 @@
                 <span class="time">2025-11-17 04:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/17/bangladesh-live-court-verdict-against-toppled-ex-pm-sheikh-hasina-expected?traffic_source=rss" target="_blank">Bangladesh live: Court verdict against toppled ex-PM Sheikh Hasina expected</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-17 04:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-greene-20251116-gty-jh_1763324882215_hpMain_4x3t_384.jpg" alt="Trump calls for Republicans to vote to release Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/vote-epstein-files-rare-republican-break-trump/story?id=127575911" target="_blank">Trump calls for Republicans to vote to release Epstein files</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-17 04:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/" target="_blank">Danish startup FlatPay joins the club of European fintech unicorns to track</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-17 07:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/820398/eu-gas-car-ban-2035-weaken-climate" target="_blank">Europe banned new gas cars after 2035 — now it’s reconsidering</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-17 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,29 +161,20 @@
                 <span class="time">2025-11-16 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/16/amazon-satellite-network-gets-a-rebrand-and-drops-its-affordability-pitch/" target="_blank">Amazon satellite network gets a rebrand — and drops its affordability pitch</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-16 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/16/how-much-of-the-ai-data-center-boom-will-be-powered-by-renewable-energy/" target="_blank">How much of the AI data center boom will be powered by renewable energy?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-16 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/kimi-k2-open-source-moe-ai/en/headerimage/generatedHeaderImage-1763271932874.jpg" alt="Kimi&#x27;s K2 Opensource Language Model Supports Dynamic Resource Availability and New Optimizer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/kimi-k2-open-source-moe-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Kimi&#x27;s K2 Opensource Language Model Supports Dynamic Resource Availability and New Optimizer</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-17 08:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxeqfjbt6u8f0hwe9wr8h.png" alt="Transformers: The Magic Engine Behind ChatGPT, Gemini &amp; Every Modern AI Model!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/djangotricks/understanding-the-different-post-content-types-3bjd" target="_blank">Understanding the Different POST Content Types</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-16 23:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html" target="_blank">Why your mock breaks later</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-16 23:24</span>
             </div>
         </div>
 </div>
@@ -310,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
