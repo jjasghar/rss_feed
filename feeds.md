@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 16:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-18 17:02:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 16:02 UTC</div>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/18/wfp-warns-of-deepening-hunger-crisis-amid-funding-shortfall?traffic_source=rss" target="_blank">WFP warns of deepening hunger crisis amid funding shortfall</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-18 16:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/epstein-survivors-presser-03-gty-jef-251118_1763476226245_hpMain_4x3t_384.jpg" alt="Epstein survivors speak out ahead of House vote, take aim at Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/epstein-survivors-speak-ahead-house-vote-aim-trump/story?id=127627340" target="_blank">Epstein survivors speak out ahead of House vote, take aim at Trump</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-18 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763477894112_now_brk_epstein_survivors_speak_out_ahead_house_vote_251118_1920x1080-ppppyp.jpg" alt="Epstein survivors speak out ahead of House vote on Epstein files release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/epstein-survivors-speak-out-ahead-of-house-vote-on-epstein-files-release-252266053776" target="_blank">Epstein survivors speak out ahead of House vote on Epstein files release</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-18 14:58</span>
             </div>
         </div>
 <div class="story">
@@ -87,24 +101,6 @@
                 <span class="time">2025-11-18 14:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d54b/live/912aa4a0-c489-11f0-90ea-63f1b96da933.jpg" alt="UK will not tolerate Chinese spying, minister says after MI5 alert" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gpnz05kr8o?at_medium=RSS&at_campaign=rss" target="_blank">UK will not tolerate Chinese spying, minister says after MI5 alert</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-18 14:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/18/syria-launches-first-trial-over-coastal-violence-that-killed-thousands?traffic_source=rss" target="_blank">Syria launches first trial over coastal violence that killed thousands</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-18 13:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,9 +109,45 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/18/our-funds-are-20-years-old-a-look-inside-the-liquidity-crisis-reshaping-venture-capital/" target="_blank">‘Our funds are 20 years old’: limited partners confront VCs’ liquidity crisis</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-18 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/823052/apple-watch-series-11-onn-4k-pro-deal-sale" target="_blank">The Apple Watch Series 11 has plunged to a record low price</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-18 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Sundar-IO-500x500.jpg" alt="Google CEO: If an AI bubble pops, no one is getting out clean" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/" target="_blank">Google CEO: If an AI bubble pops, no one is getting out clean</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-18 16:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration" target="_blank">Microsoft is turning Windows into an &amp;#8216;agentic OS,&amp;#8217; starting with the taskbar</a></span>
                 <span class="feed">The Verge</span>
+                <span class="time">2025-11-18 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691bc1affd1dcb64a3275fff/master/pass/Microsoft-Agent-365-AI-Chatbot-Boss-Gear.jpg" alt="Microsoft’s Agent 365 Tries to Be the AI Bot Boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/microsoft-ai-agent-365/" target="_blank">Microsoft’s Agent 365 Tries to Be the AI Bot Boss</a></span>
+                <span class="feed">WIRED</span>
                 <span class="time">2025-11-18 16:00</span>
             </div>
         </div>
@@ -128,47 +160,20 @@
                 <span class="time">2025-11-18 15:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/hailmary1-500x500.jpg" alt="Ryan Gosling must save dying stars in Project Hail Mary trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/11/stranded-astronaut-finds-an-alien-ally-in-project-hail-mary-trailer/" target="_blank">Ryan Gosling must save dying stars in Project Hail Mary trailer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-18 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691c0432632b8d38670cc04e/master/pass/The%20Best%20Housewarming%20Gifts%20for%20Any%20Home.png" alt="14 Best Housewarming Gifts We Can&#x27;t Stop Using (2025): Coasters, Blenders, Sheets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/" target="_blank">14 Best Housewarming Gifts We Can&#x27;t Stop Using (2025): Coasters, Blenders, Sheets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-18 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/18/agentio-secures-40-million-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/" target="_blank">Agentio secures $40 million from Forerunner as it scales its creator marketplace beyond YouTube</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-18 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ce4725210d0e11b5670884/master/pass/The%20Best%20Fitness%20Trackers%20and%20Watches%20for%20Everyone.png" alt="14 Best Fitness Trackers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-fitness-tracker/" target="_blank">14 Best Fitness Trackers (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-18 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0z753za1mzrzrau64rbd.png" alt="2025 — Part 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/temporalio/2025-part-2-2eoi" target="_blank">2025 — Part 2</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-18 16:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0x0xkf3188w25s1aefxd.webp" alt="I&#x27;m Getting Serious Déjà Vu... But This Time It&#x27;s Different" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,19 +213,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/emerickp/how-to-run-playwright-in-ci-pipeline-4bec" target="_blank">How to Run Playwright in CI Pipeline</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-18 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dk4bwo5a3e0r2wsu94b.png" alt="How Non-Developers Are Building Apps: Low-Code &amp; No-Code Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/toluxx/how-non-developers-are-building-apps-low-code-no-code-platforms-37pm" target="_blank">How Non-Developers Are Building Apps: Low-Code &amp; No-Code Platforms</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-18 14:00</span>
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/11/18/introducing-stack-internal-powering-the-human-intelligence-layer-of-enterprise-ai/" target="_blank">Introducing Stack Internal: Powering the human intelligence layer of enterprise AI</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-11-18 15:00</span>
             </div>
         </div>
 </div>
@@ -242,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Wicked-For-Good-Review-1280x853.jpg" alt="‘Wicked: For Good’ Never Quite Flies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wicked-for-good-review-ariana-grande-cynthia-erivo-2000686161" target="_blank">‘Wicked: For Good’ Never Quite Flies</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-18 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/Shrouddd-1280x720.jpg" alt="No, The Game Awards Aren’t Rigged" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/shroud-claims-game-awards-rigged-arc-raiders-snub-valve-steam-machine-2000645093" target="_blank">No, The Game Awards Aren’t Rigged</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-18 16:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/main-5-1280x720.jpg" alt="Every Chase Card In Pokémon TCG’s Phantasmal Flames, Including That Charizard" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,29 +292,20 @@
                 <span class="time">2025-11-18 14:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J5V1MY9ZAZ7N552T8QVD1JYN/hero-image.png" alt="Try &#x27;Slow Productivity&#x27; to Improve Your Work and Avoid Burnout" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/work/what-is-slow-productivity?utm_medium=RSS" target="_blank">Try &#x27;Slow Productivity&#x27; to Improve Your Work and Avoid Burnout</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-18 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/giga-factory-1-1280x853.jpg" alt="Tesla Is in Trouble with Travis County, Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tesla-is-in-trouble-with-travis-county-texas-2000686485" target="_blank">Tesla Is in Trouble with Travis County, Texas</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-18 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1763431796-20251118.png" alt="Saturday Morning Breakfast Cereal - Stats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/stats-3" target="_blank">Saturday Morning Breakfast Cereal - Stats</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-18 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5703.png" alt="Keeping It Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -319,22 +324,13 @@
                 <span class="time">2025-11-18 00:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1763353003-20251117.png" alt="Saturday Morning Breakfast Cereal - Panic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/panic" target="_blank">Saturday Morning Breakfast Cereal - Panic</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-17 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
