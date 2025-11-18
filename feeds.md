@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 12:02:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-18 13:10:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/tdy_epstein_251118-kvxlfz.jpg" alt="House to Move Ahead With Epstein Vote Following Trump Reversal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-says-he-would-sign-bill-releasing-epstein-files-if-it-passes-252261957602" target="_blank">House to Move Ahead With Epstein Vote Following Trump Reversal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-18 12:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/11/18/g-s1-98040/is-a-50-year-mortgage-really-that-much-crazier-than-a-30-year-one" target="_blank">Is a 50-year mortgage really that much crazier than a 30-year one?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-18 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe" target="_blank">The rainforest the world forgot: the Congo basin is the second largest on Earth, so why is it being neglected?</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-18 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +102,38 @@
                 <span class="time">2025-11-18 10:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/18/charlottes-web-whats-happening-with-north-carolina-immigration-raids?traffic_source=rss" target="_blank">Charlotte’s Web: What’s happening with North Carolina immigration raids?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-18 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fad6/live/f5a44700-c3e0-11f0-bbb8-f506e20a7d44.jpg" alt="French energy giant Total faces war crimes allegations over Mozambique massacre" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gw119ynlxo?at_medium=RSS&at_campaign=rss" target="_blank">French energy giant Total faces war crimes allegations over Mozambique massacre</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-18 10:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68ce4725210d0e11b5670884/master/pass/The%20Best%20Fitness%20Trackers%20and%20Watches%20for%20Everyone.png" alt="14 Best Fitness Trackers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-fitness-tracker/" target="_blank">14 Best Fitness Trackers (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-18 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq" target="_blank">Steam Machine and Steam Frame: your questions answered</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-18 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/18/intuit-signs-100m-deal-with-openai-to-bring-its-apps-to-chatgpt/" target="_blank">Intuit signs $100M+ deal with OpenAI to bring its apps to ChatGPT</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-18 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,38 +161,38 @@
                 <span class="time">2025-11-18 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/18/mastodon-ceo-steps-down-as-the-social-network-restructures/" target="_blank">Mastodon CEO steps down as the social network restructures</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-18 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="Squarespace Promo Codes: 10% Off | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/squarespace-promo-code/" target="_blank">Squarespace Promo Codes: 10% Off | November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-18 06:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/" target="_blank">As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-18 05:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/akaak/slide-decks-with-markdown-g5d" target="_blank">Slide decks with Markdown</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-18 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/android-camerax-1-5/en/headerimage/camera-x-android-1-5-1763466903448.jpeg" alt="CameraX 1.5 Brings Advanced Video Recording and Image Capture to Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/android-camerax-1-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">CameraX 1.5 Brings Advanced Video Recording and Image Capture to Android</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cloudflarestatus.com/?t=1" target="_blank">Cloudflare Global Network experiencing issues</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-18 11:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F366059%2F44d4a869-bb26-4b8e-aa73-6e596b4b4b8a.jpg" alt="Refactoring 036 - Replace String Concatenations with Text Blocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,33 +220,6 @@
                 <span class="time">2025-11-18 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsobnf00pde73lc70gtyk.png" alt="Pure CSS Timed Cards Opening" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prahalad/pure-css-timed-cards-opening-497b" target="_blank">Pure CSS Timed Cards Opening</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-18 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/rustdesk-multi-scaled-display-support/" target="_blank">RustDesk Pulls Ahead of TeamViewer, AnyDesk with Wayland Multi-Scaled Display Support</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-18 09:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/11/18/how-to-create-agents-that-people-actually-want-to-use/" target="_blank">How to create agents that people actually want to use</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-11-18 08:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,15 +232,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/ai-and-voter-engagement.html" target="_blank">AI and Voter Engagement</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-11-18 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/more-promptgtfo.html" target="_blank">More Prompt&amp;#124;&amp;#124;GTFO</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-17 12:05</span>
             </div>
         </div>
 </div>
@@ -335,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
