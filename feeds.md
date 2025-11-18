@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 03:20:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-18 04:02:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 03:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +52,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/18/trump-mcdonalds-lower-prices?traffic_source=rss" target="_blank">Trump hails lower prices amid rising discontent over cost of living</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-18 02:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-sudan-el-fashir_7084632.jpg?20251118022137" alt="War-torn Sudan &#x27;epicentre of suffering in the world&#x27;, UN humanitarian chief tells Sky News" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/sudan-epicentre-of-suffering-in-the-world-says-un-humanitarian-chief-13472004" target="_blank">War-torn Sudan &#x27;epicentre of suffering in the world&#x27;, UN humanitarian chief tells Sky News</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-18 01:56</span>
             </div>
         </div>
 <div class="story">
@@ -92,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/17/g-s1-98183/un-us-gaza-international-stabilization-force" target="_blank">The U.N. Security Council approves a U.S. plan for a Gaza stabilization force</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-17 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss" target="_blank">US Fed Governor Cook offers detailed defence in mortgage fraud case</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-17 23:05</span>
             </div>
         </div>
 </div>
@@ -241,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/iphone-air-1280x853.jpg" alt="The Designer Who Presented the iPhone Air to the World Has Left Apple, Report Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/iphone-air-creator-quits-2000687279" target="_blank">The Designer Who Presented the iPhone Air to the World Has Left Apple, Report Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-18 03:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/bose-headphones-quietcomfort-1280x853.jpg" alt="Amazon Liquidates Bose Headphones at 50% Off, Now Cheaper Than Mid-Range No-Name Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -282,15 +287,6 @@
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/what-are-passkeys?utm_medium=RSS" target="_blank">What Are Passkeys, and Who Should Be Using Them?</a></span>
                 <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-17 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Timothee-Chalamet-interview-1280x853.jpg" alt="Timothée Chalamet Breaks Down That Iconic ‘Dune Part Two’ Speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/timothee-chalamet-dune-2-speech-lisan-al-gaib-2000687034" target="_blank">Timothée Chalamet Breaks Down That Iconic ‘Dune Part Two’ Speech</a></span>
-                <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-17 21:00</span>
             </div>
         </div>
@@ -349,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 03:21 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
