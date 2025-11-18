@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 17:02:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-18 18:02:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump and Saudi prince meet at White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  President Trump and Saudi prince meet at White House</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-18 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/18/nx-s1-5612442/penny-good-luck-ode-aphorisms-history" target="_blank">Farewell, fair penny. You are finished, but never forgotten</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-18 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/18/bitcoin-ticks-up-after-erasing-all-of-2025-gains?traffic_source=rss" target="_blank">Bitcoin ticks up after erasing all of 2025 gains</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-18 17:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,33 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/epstein-survivors-speak-out-ahead-of-house-vote-on-epstein-files-release-252266053776" target="_blank">Epstein survivors speak out ahead of House vote on Epstein files release</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-11-18 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/11/18/trumps-war-on-south-africa-betrays-a-sinister-threat?traffic_source=rss" target="_blank">Trump’s war on South Africa betrays a sinister threat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-18 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem" target="_blank">40 years ago, Calvin and Hobbes&#x27; raucous adventures burst onto the comics page</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-18 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Epstein survivors, lawmakers hold news conference: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Epstein survivors, lawmakers hold news conference: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-18 14:10</span>
             </div>
         </div>
 </div>
@@ -166,12 +163,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/d8b12a0c-b9c0-46e6-9822-0de783311c0d_1782x1124.png" alt="Career paths for software engineers at large tech companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/career-paths-for-software-engineers" target="_blank">Career paths for software engineers at large tech companies</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-11-18 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18761970&w=600" alt="Embedding Ethics Into Multi-AI Agentic Self-Healing Data Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ethical-ai-agentic-self-healing-data-pipelines" target="_blank">Embedding Ethics Into Multi-AI Agentic Self-Healing Data Pipelines</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-18 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0z753za1mzrzrau64rbd.png" alt="2025 — Part 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/temporalio/2025-part-2-2eoi" target="_blank">2025 — Part 2</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-18 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Blender-5.0-Released" target="_blank">Blender 5.0 Released With Better Vulkan Support, HDR On Wayland</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-18 16:20</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/rocm-71-llama-cpp-vulkan" target="_blank">AMD ROCm 7.1 vs. RADV Vulkan For Llama.cpp With The Radeon AI PRO R9700</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-18 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/database-backed-workflow/en/headerimage/Transact-Header-1763452700156.jpg" alt="QCon SF: Database-Backed Workflow Orchestration Challenges Traditional Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/database-backed-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon SF: Database-Backed Workflow Orchestration Challenges Traditional Architecture</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-18 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18759577&w=600" alt="Building a Containerized Quarkus API on AWS ECS/Fargate With CDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/quarkus-api-aws-ecs-fargate-cdk" target="_blank">Building a Containerized Quarkus API on AWS ECS/Fargate With CDK</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-18 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/11/18/introducing-stack-internal-powering-the-human-intelligence-layer-of-enterprise-ai/" target="_blank">Introducing Stack Internal: Powering the human intelligence layer of enterprise AI</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-11-18 15:00</span>
             </div>
         </div>
 </div>
@@ -238,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Sadie-Sink-Stranger-Things-red-carpet-1280x853.jpg" alt="Report: Sadie Sink’s Mystery ‘Spider-Man’ Role Continues In ‘Avengers: Secret Wars’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sadie-sink-spider-man-4-avengers-secret-wars-2000687577" target="_blank">Report: Sadie Sink’s Mystery ‘Spider-Man’ Role Continues In ‘Avengers: Secret Wars’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-18 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KABQYZP2YN002H1GRFENPNTV/hero-image.png" alt="The Meta Quest 3S VR Headset Just Dropped To Its Lowest Price Ever On Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/meta-quest-3s-vr-headset-deal?utm_medium=RSS" target="_blank">The Meta Quest 3S VR Headset Just Dropped To Its Lowest Price Ever On Amazon</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-18 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Wicked-For-Good-Review-1280x853.jpg" alt="‘Wicked: For Good’ Never Quite Flies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/lumia-smart-earring-2-health-tracking-price-release-date-2000687118" target="_blank">Welp, Smart Earrings Are a Thing Now</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-18 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KABHGTKERAHSEVW7W2KNFPGG/hero-image.jpg" alt="How I Turned My Laptop Into a Distraction-Free Writing Device" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-i-turned-my-laptop-into-a-distraction-free-writing-device?utm_medium=RSS" target="_blank">How I Turned My Laptop Into a Distraction-Free Writing Device</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-18 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/Community.jpg" alt="GameStop Employees Are Freaking Out About ‘Trade Anything Day’: ‘God Help Us’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gamestop-trade-in-anything-day-rules-2000645098" target="_blank">GameStop Employees Are Freaking Out About ‘Trade Anything Day’: ‘God Help Us’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-18 14:58</span>
             </div>
         </div>
 </div>
@@ -329,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
