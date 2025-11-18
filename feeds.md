@@ -1,31 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 00:04:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-18 01:29:25 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763423761766_nn_hja_trump_reversal_on_release_of_epstein_files_251117_1920x1080-htwa7v.jpg" alt="Trump’s reversal on release of Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-s-reversal-on-release-of-epstein-files-252229189654" target="_blank">Trump’s reversal on release of Epstein files</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-17 23:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4064/live/42051ef0-c3ee-11f0-ae46-bd64331f0fd4.jpg" alt="Mahmood defends overhaul of &#x27;out of control&#x27; asylum system" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,30 +77,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c141/live/78b4a2b0-c405-11f0-8669-5560f5c90fbe.jpg" alt="Trump&#x27;s plan for Gaza backed by UN Security Council" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/17/unsc-approves-us-resolution-mandating-intl-stabilisation-force-in-gaza?traffic_source=rss" target="_blank">UN Security Council passes US resolution backing Gaza international force</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-17 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-breaking-breaking-news_7042253.png?20251023123455" alt="UN Security Council backs Trump peace plan for Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/un-security-council-backs-trump-peace-plan-for-gaza-13471971" target="_blank">UN Security Council backs Trump peace plan for Gaza</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-17 22:20</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0rpkgq4wllo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s plan for Gaza backed by UN Security Council</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-17 23:01</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/17/g-s1-98165/david-richardson-fema-acting-chief-quit" target="_blank">FEMA acting chief David Richardson departs after 6 months on the job</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-17 21:37</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/nov/17/nestle-accused-of-risking-health-of-babies-for-profit-over-added-sugar-in-cereals-sold-in-african-countries" target="_blank">Nestlé accused of ’risking health of babies for profit’ over added sugar in cereals sold in African countries</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-17 23:00</span>
             </div>
         </div>
 </div>
@@ -113,9 +112,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/822636/google-robby-starbuck-defamation-lawsuit-ai-chatbot" target="_blank">Google is fighting the defamation battle Meta caved on</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-17 23:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/635839/best-foldable-phone" target="_blank">The best foldable phone you can buy</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-17 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/690d33511c96ff7ae4b99889/master/pass/Uncanny-Valley-Zohran-Fandom-2243511052.jpg" alt="WIRED Roundup: Fandom in Politics, Zuckerberg’s Illegal School, and Nepal’s Discord Revolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-fandom-politics-zuckerberg-illegal-school-nepal-discord-revolution/" target="_blank">WIRED Roundup: Fandom in Politics, Zuckerberg’s Illegal School, and Nepal’s Discord Revolution</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-17 22:11</span>
             </div>
         </div>
 <div class="story">
@@ -136,24 +153,6 @@
                 <span class="time">2025-11-17 20:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/822365/bose-noise-canceling-quietcomfort-headphones-amazon-deal-sale" target="_blank">Bose’s noise-canceling QuietComfort Headphones are more than 50 percent off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-17 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236511159-500x500.jpg" alt="Judge smacks down Texas AG’s request to immediately block Tylenol ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/11/judge-smacks-down-texas-ags-request-to-immediately-block-tylenol-ads/" target="_blank">Judge smacks down Texas AG’s request to immediately block Tylenol ads</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-17 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +165,15 @@
                 <span class="title"><a href="https://dev.to/cmwokocha/creating-file-share-in-azure-kad" target="_blank">Creating File Share In Azure</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-17 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-RC1-Released" target="_blank">FreeBSD 15.0-RC1 Brings Build Fixes For Google Cloud &amp; Azure, Base Repository Changes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-17 22:34</span>
             </div>
         </div>
 <div class="story">
@@ -187,30 +195,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language" target="_blank">Compiling Ruby to machine language</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-17 20:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18759532&w=600" alt="Beyond the Vibe: Why AI Coding Workflows Need a Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/beyond-vibe-ai-coding-frameworks" target="_blank">Beyond the Vibe: Why AI Coding Workflows Need a Framework</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-17 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Git-2.52-Released" target="_blank">Git 2.52 Released With More Preparations Toward Git 3.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-17 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alejandro_tacorontegonz/looking-for-advice-as-a-junior-fullstack-developer-69n" target="_blank">Looking for Advice as a Junior Fullstack Developer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-17 18:50</span>
             </div>
         </div>
 </div>
@@ -292,6 +291,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5703.png" alt="Keeping It Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5703" target="_blank">Keeping It Together</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-11-18 01:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1763353003-20251117.png" alt="Saturday Morning Breakfast Cereal - Panic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -310,6 +318,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/epirbs.png" alt="EPIRBs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3169/" target="_blank">EPIRBs</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-11-17 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5702.png" alt="Taint One, Taint The Other" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -323,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
