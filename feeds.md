@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 02:30:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-18 03:20:59 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 03:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/18/trump-mcdonalds-lower-prices?traffic_source=rss" target="_blank">Trump hails lower prices amid rising discontent over cost of living</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-18 02:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/17/nx-s1-5611103/npr-trump-cpb-lawsuit" target="_blank">CPB agrees to revive a $36 million deal with NPR killed after Trump&#x27;s pressure</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-18 00:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763423761766_nn_hja_trump_reversal_on_release_of_epstein_files_251117_1920x1080-htwa7v.jpg" alt="Trump’s reversal on release of Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss" target="_blank">US Fed Governor Cook offers detailed defence in mortgage fraud case</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-17 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c141/live/78b4a2b0-c405-11f0-8669-5560f5c90fbe.jpg" alt="Trump&#x27;s plan for Gaza backed by UN Security Council" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0rpkgq4wllo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s plan for Gaza backed by UN Security Council</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-17 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/nov/17/nestle-accused-of-risking-health-of-babies-for-profit-over-added-sugar-in-cereals-sold-in-african-countries" target="_blank">Nestlé accused of ’risking health of babies for profit’ over added sugar in cereals sold in African countries</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-17 23:00</span>
             </div>
         </div>
 </div>
@@ -170,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thebitforge/the-year-we-crossed-the-threshold-a-journey-through-2025s-most-transformative-technology-3aa5" target="_blank">The Year We Crossed the Threshold: A Journey Through 2025&#x27;s Most Transformative Technology</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-18 02:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/isaachagoel/the-best-ai-articles-devto-wont-show-you-iph" target="_blank">The Best AI Articles Dev.to Won’t Show You</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-18 02:19</span>
@@ -211,15 +221,6 @@
                 <span class="time">2025-11-17 21:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/systemd-259-rc1" target="_blank">systemd 259-rc1 Released With Musl libc Support, New run0 &quot;Empower&quot; Mode</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-17 20:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +247,15 @@
                 <span class="title"><a href="https://kotaku.com/amazon-liquidates-bose-headphones-at-50-off-now-cheaper-than-mid-range-no-name-models-2000644975" target="_blank">Amazon Liquidates Bose Headphones at 50% Off, Now Cheaper Than Mid-Range No-Name Models</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-18 01:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/08/trump-clown-e1750358910130.jpeg?fit=768%2C525&amp;quality=60&amp;ssl=1" alt="Puddin&#x27; Brains tries and fails to answer a question" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/17/puddin-brains-tries-and-fails-to-answer-a-question.html" target="_blank">Puddin&#x27; Brains tries and fails to answer a question</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-18 00:05</span>
             </div>
         </div>
 <div class="story">
@@ -282,15 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/timothee-chalamet-dune-2-speech-lisan-al-gaib-2000687034" target="_blank">Timothée Chalamet Breaks Down That Iconic ‘Dune Part Two’ Speech</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-17 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/donald-trump.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="AG Pam Bondi took just 217 minutes to act on Trump&#x27;s demand to investigate Democrats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/17/ag-pam-bondi-took-just-217-minutes-to-act-on-trumps-demand-to-investigate-democrats.html" target="_blank">AG Pam Bondi took just 217 minutes to act on Trump&#x27;s demand to investigate Democrats</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-17 20:23</span>
             </div>
         </div>
 </div>
@@ -348,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 03:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
