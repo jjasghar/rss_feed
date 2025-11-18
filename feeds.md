@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 11:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-18 12:02:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/11/18/g-s1-98040/is-a-50-year-mortgage-really-that-much-crazier-than-a-30-year-one" target="_blank">Is a 50-year mortgage really that much crazier than a 30-year one?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-18 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe" target="_blank">The Congo basin may be the world’s most important rainforest – why is it the least researched?</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-18 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/Johnson-rt-er-251117_1763409256884_hpMain_4x3t_384.jpg" alt="House to vote on full Epstein files&#x27; release -- the move Johnson fought for months" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,30 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fad6/live/f5a44700-c3e0-11f0-bbb8-f506e20a7d44.jpg" alt="French energy giant Total faces war crimes allegations over Mozambique massacre" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/18/nx-s1-5596403/newjeans-hybe-ador-min-hee-jin-label-battle" target="_blank">How NewJeans (almost) changed K-pop</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-18 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/18/un-security-council-approves-us-resolution-backing-trumps-gaza-plan?traffic_source=rss" target="_blank">UN Security Council approves US resolution backing Trump’s Gaza plan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-18 07:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/saudi-1-gty-er-251117_1763400103181_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll sell Saudis F-35s as crown prince set to visit White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/saudi-crown-prince-marks-return-us-after-7/story?id=127594469" target="_blank">Trump says he&#x27;ll sell Saudis F-35s as crown prince set to visit White House</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-18 06:54</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gw119ynlxo?at_medium=RSS&at_campaign=rss" target="_blank">French energy giant Total faces war crimes allegations over Mozambique massacre</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-18 10:02</span>
             </div>
         </div>
 </div>
@@ -109,6 +103,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/822163/dji-osmo-action-6-camera-adjustable-aperture-4k-square-sensor" target="_blank">DJI&amp;#8217;s next action camera has an adjustable aperture for better low-light performance</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/18/roblox-will-require-all-users-to-perform-age-checks-to-access-chat-from-january/" target="_blank">Roblox will require all users to perform age-checks to access chat from January</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-18 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69138e7642f0d7fe529d4a38/master/pass/Social-Security-Data-Officially-Being-Shared-with-DHS-to-Target-Immigrants-Politics-2215825808.jpg" alt="Social Security Data Is Openly Being Shared With DHS to Target Immigrants" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,24 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/" target="_blank">As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-18 05:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/17/a16z-backed-super-pac-is-targeting-alex-bores-sponsor-of-new-yorks-ai-safety-bill-he-says-bring-it-on/" target="_blank">a16z-backed super PAC is targeting Alex Bores, sponsor of New York’s AI safety bill — he says bring it on</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-18 00:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-500x500.jpg" alt="Trump admin axed 383 active clinical trials, dumping over 74K participants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/11/over-74000-people-were-kicked-out-of-clinical-trials-because-of-trump-cuts/" target="_blank">Trump admin axed 383 active clinical trials, dumping over 74K participants</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-17 23:15</span>
             </div>
         </div>
 </div>
@@ -227,6 +221,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/ai-and-voter-engagement.html" target="_blank">AI and Voter Engagement</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-18 12:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -332,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
