@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 22:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-18 23:01:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/john-thune-9-ap-gmh-251107_1762551814188_hpMain_4x3t_384.jpg" alt="Senate unanimously agrees to approve Epstein files bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/thune-senate-move-epstein-files-bill-today/story?id=127645638" target="_blank">Senate unanimously agrees to approve Epstein files bill</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-18 22:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +105,38 @@
                 <span class="time">2025-11-18 19:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-china-uk-britain-union-jack_7084918.jpg?20251118120909" alt="MI5 is also trying to send a signal to China with spying warning to parliamentarians" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/mi5-is-also-trying-to-send-a-signal-to-china-with-spying-warning-to-parliamentarians-13472394" target="_blank">MI5 is also trying to send a signal to China with spying warning to parliamentarians</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-18 19:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/823562/cloudflare-outage-wake-up-call-websites" target="_blank">Cloudflare outages aren’t a matter of if — but when</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-18 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-500x500-1746811509.jpg" alt="GOP overhaul of broadband permit laws: Cities hate it, cable companies love it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/gop-overhaul-of-broadband-permit-laws-cities-hate-it-cable-companies-love-it/" target="_blank">GOP overhaul of broadband permit laws: Cities hate it, cable companies love it</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-18 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/18/tesla-receives-ride-hailing-permit-in-arizona-in-last-required-step-to-launch-robotaxi-service/" target="_blank">Tesla receives ride-hailing permit in Arizona in last required step to launch robotaxi service</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-18 22:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2209959270-500x500.jpg" alt="Meta wins monopoly trial, convinces judge that social networking is dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,33 +162,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/new-windows-11-ai-agents-can-work-in-the-background-but-create-new-security-risks/" target="_blank">Microsoft tries to head off the “novel security risks” of Windows 11 AI agents</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-18 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69083b77ebdfe3a45c7ee267/master/pass/Yes,%20You%20Can%20Order%20a%20Whole%20Home-Cooked%20Thanksgiving%20Feast%20in%20the%20Mail.png" alt="The Best Delivery Thanksgiving Meal Kits (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/thanksgiving-meal-kits-2025-update/" target="_blank">The Best Delivery Thanksgiving Meal Kits (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-18 19:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691cc020a8c13f6226694f62/master/pass/This%20Quest%203S%20Bundle%20Is%20$50%20Off%20and%20Includes%20a%20Game%20and%20Gift%20Card.png" alt="This Quest 3S Bundle Is $50 Off and Includes a Game and Gift Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-quest-3s-walking-dead-deal-1125/" target="_blank">This Quest 3S Bundle Is $50 Off and Includes a Game and Gift Card</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-18 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/18/our-funds-are-20-years-old-a-look-inside-the-liquidity-crisis-reshaping-venture-capital/" target="_blank">‘Our funds are 20 years old’: limited partners confront VCs’ liquidity crisis</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-18 17:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +243,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/halo-infinite-hed-1280x853.jpg" alt="Goodbye, ‘Halo Infinite’ (2021-2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/goodbye-halo-infinite-2021-2025-2000687712" target="_blank">Goodbye, ‘Halo Infinite’ (2021-2025)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-18 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/windows111-1280x720.jpg" alt="Microsoft Warns That Windows 11 AI Might Install Malware On Your PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/microsoft-warns-that-windows-11-ai-might-install-malware-on-your-pc-2000645293" target="_blank">Microsoft Warns That Windows 11 AI Might Install Malware On Your PC</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-18 22:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/07_megabonk-1280x721.jpg" alt="Megabonk Dev Officially Withdraws It From The Game Awards" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -267,24 +294,6 @@
                 <span class="title"><a href="https://gizmodo.com/dark-crystal-age-of-resistance-canceled-auction-henson-2000687267" target="_blank">Sorry ‘Dark Crystal: Age of Resistance’ Fans, It’s So Over</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-18 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/18614a82e6bad2075066d91fa66cb2f5-1280x720.jpg" alt="A Game Riot Nearly Killed Has Been Saved" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hytale-riot-minecraft-hypixel-revived-cancel-shutdown-2000645248" target="_blank">A Game Riot Nearly Killed Has Been Saved</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-18 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/trumptaco.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="&quot;Things happened,&quot; Trump excuses the murder of Jamal Khashoggi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/18/things-happened-trump-excuses-the-murder-of-jamal-khashoggi.html" target="_blank">&quot;Things happened,&quot; Trump excuses the murder of Jamal Khashoggi</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-18 18:18</span>
             </div>
         </div>
 </div>
@@ -324,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
