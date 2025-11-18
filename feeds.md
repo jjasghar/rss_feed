@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-17 23:01:51 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-18 00:04:49 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, November 17, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4064/live/42051ef0-c3ee-11f0-ae46-bd64331f0fd4.jpg" alt="Mahmood defends overhaul of &#x27;out of control&#x27; asylum system" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr7myg8g75jo?at_medium=RSS&at_campaign=rss" target="_blank">Mahmood defends overhaul of &#x27;out of control&#x27; asylum system</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-17 23:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/17/g-s1-98183/un-us-gaza-international-stabilization-force" target="_blank">The U.N. Security Council approves a U.S. plan for a Gaza stabilization force</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-17 23:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss" target="_blank">US Fed Governor Cook offers detailed defence in mortgage fraud case</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-17 23:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +95,20 @@
                 <span class="time">2025-11-17 21:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/17/acting-fema-head-david-richardson-steps-down-after-troubled-tenure?traffic_source=rss" target="_blank">Acting FEMA head David Richardson steps down after troubled tenure</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-17 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-ap-gmh-251117_1763410209700_hpMain_4x3t_384.jpg" alt="Trump says he would sign bill to release Epstein files if it reaches his desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-sign-bill-release-epstein-files-reaches-desk/story?id=127593346" target="_blank">Trump says he would sign bill to release Epstein files if it reaches his desk</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-17 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763411751040_now_brk_trump_epstein_sign_251117_1920x1080-3a2m1r.jpg" alt="&#x27;I&#x27;m all for it&#x27;: Trump says he would sign bill to release Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-he-would-sign-bill-to-release-epstein-files-252209221863" target="_blank">&#x27;I&#x27;m all for it&#x27;: Trump says he would sign bill to release Epstein files</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-17 20:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-500x500.jpg" alt="Trump admin axed 383 active clinical trials, dumping over 74K participants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/11/over-74000-people-were-kicked-out-of-clinical-trials-because-of-trump-cuts/" target="_blank">Trump admin axed 383 active clinical trials, dumping over 74K participants</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-17 23:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +154,20 @@
                 <span class="time">2025-11-17 19:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/822110/opentable-ai-assisted-data-restaurants" target="_blank">Your online reservations are telling restaurants all about you</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-17 18:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frx46sl3q1ynitd7ubk4o.png" alt="Creating File Share In Azure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cmwokocha/creating-file-share-in-azure-kad" target="_blank">Creating File Share In Azure</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-17 23:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/alejandro_tacorontegonz/looking-for-advice-as-a-junior-fullstack-developer-69n" target="_blank">Looking for Advice as a Junior Fullstack Developer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-17 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18752690&w=600" alt="From Data Lakes to Intelligence Lakes: Augmenting Apache Iceberg With Generative AI Metadata on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/intelligence-lake-iceberg-generative-ai-aws" target="_blank">From Data Lakes to Intelligence Lakes: Augmenting Apache Iceberg With Generative AI Metadata on AWS</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-17 18:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
