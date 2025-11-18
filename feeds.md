@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 13:10:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-18 14:01:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/18/syria-launches-first-trial-over-coastal-violence-that-killed-thousands?traffic_source=rss" target="_blank">Syria launches first trial over coastal violence that killed thousands</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-18 13:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/tdy_epstein_251118-kvxlfz.jpg" alt="House to Move Ahead With Epstein Vote Following Trump Reversal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +101,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/house-vote-full-epstein-files-release-move-speaker/story?id=127593181" target="_blank">House to vote on full Epstein files&#x27; release -- the move Johnson fought for months</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-18 10:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c19/live/15cad010-c456-11f0-8a46-59224c61e7f0.png" alt="Minister insists government committed to asylum reforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgd2vq4enzo?at_medium=RSS&at_campaign=rss" target="_blank">Minister insists government committed to asylum reforms</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-18 10:42</span>
             </div>
         </div>
 </div>
@@ -167,12 +168,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dk4bwo5a3e0r2wsu94b.png" alt="How Non-Developers Are Building Apps: Low-Code &amp; No-Code Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/toluxx/how-non-developers-are-building-apps-low-code-no-code-platforms-37pm" target="_blank">How Non-Developers Are Building Apps: Low-Code &amp; No-Code Platforms</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-18 14:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/akaak/slide-decks-with-markdown-g5d" target="_blank">Slide decks with Markdown</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-18 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18695722&w=600" alt="Pinecone vs. Weaviate: The Trade-offs You Only Discover in Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/pinecone-vs-weaviate-the-trade-offs-you-only-disco" target="_blank">Pinecone vs. Weaviate: The Trade-offs You Only Discover in Production</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-18 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +221,6 @@
                 <span class="time">2025-11-18 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/MLPerf-Client-1.5-Linux" target="_blank">MLPerf Client 1.5 Introduces Experimental Linux Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-18 10:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/forsgren-reduce-ai-friction/en/headerimage/generatedHeaderImage-1763421293060.jpg" alt="First Keynote at QCon San Francisco 2025: Reducing Friction by Nicole Forsgren" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/forsgren-reduce-ai-friction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">First Keynote at QCon San Francisco 2025: Reducing Friction by Nicole Forsgren</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-18 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J5V1MY9ZAZ7N552T8QVD1JYN/hero-image.png" alt="Try &#x27;Slow Productivity&#x27; to Improve Your Work and Avoid Burnout" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/work/what-is-slow-productivity?utm_medium=RSS" target="_blank">Try &#x27;Slow Productivity&#x27; to Improve Your Work and Avoid Burnout</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-18 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/giga-factory-1-1280x853.jpg" alt="Tesla Is in Trouble with Travis County, Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +294,6 @@
                 <span class="time">2025-11-17 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JCGKE9NN6TNE7TA58A3MQF2Z/hero-image.png" alt="What to Wear to Run in the Cold" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/what-to-wear-to-run-in-the-cold?utm_medium=RSS" target="_blank">What to Wear to Run in the Cold</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-17 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
