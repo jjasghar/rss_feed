@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 04:02:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-18 05:02:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/18/jake-paul-to-fight-anthony-joshua-in-heavyweight-bout-on-december-19?traffic_source=rss" target="_blank">Jake Paul to fight Anthony Joshua in heavyweight bout on December 19</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-18 04:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/17/nx-s1-5611530/national-guard-memphis-judge-ruling" target="_blank">Tennessee judge blocks deployment of National Guard in Memphis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-18 04:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-s-reversal-on-release-of-epstein-files-252229189654" target="_blank">Trump’s reversal on release of Epstein files</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-11-17 23:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4064/live/42051ef0-c3ee-11f0-ae46-bd64331f0fd4.jpg" alt="Mahmood defends overhaul of &#x27;out of control&#x27; asylum system" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr7myg8g75jo?at_medium=RSS&at_campaign=rss" target="_blank">Mahmood defends overhaul of &#x27;out of control&#x27; asylum system</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-17 23:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/17/g-s1-98183/un-us-gaza-international-stabilization-force" target="_blank">The U.N. Security Council approves a U.S. plan for a Gaza stabilization force</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-17 23:10</span>
             </div>
         </div>
 </div>
@@ -164,12 +167,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F2028%2F55d4ec28-b9c7-4adb-bd8f-08fad8f4c075.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/v_b/-ikg" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-18 04:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/thebitforge/the-year-we-crossed-the-threshold-a-journey-through-2025s-most-transformative-technology-3aa5" target="_blank">The Year We Crossed the Threshold: A Journey Through 2025&#x27;s Most Transformative Technology</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-18 02:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html" target="_blank">Core Devices keeps stealing our work</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-18 02:53</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/cmwokocha/creating-file-share-in-azure-kad" target="_blank">Creating File Share In Azure</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-17 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-RC1-Released" target="_blank">FreeBSD 15.0-RC1 Brings Build Fixes For Google Cloud &amp; Azure, Base Repository Changes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-17 22:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/a_abdellatif/tired-of-rails-one-off-scripts-becoming-a-nightmare-i-built-something-for-that-5fcb" target="_blank">Tired of Rails one-off scripts becoming a nightmare? I built something for that.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-17 21:51</span>
             </div>
         </div>
 </div>
@@ -331,22 +334,13 @@
                 <span class="time">2025-11-17 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/epirbs.png" alt="EPIRBs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3169/" target="_blank">EPIRBs</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-11-17 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
