@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 14:01:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-18 15:01:54 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +50,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/11/18/trumps-war-on-south-africa-betrays-a-sinister-threat?traffic_source=rss" target="_blank">Trump’s war on South Africa betrays a sinister threat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-18 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem" target="_blank">40 years ago, Calvin and Hobbes&#x27; raucous adventures burst onto the comics page</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-18 14:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Epstein survivors, lawmakers hold news conference: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Epstein survivors, lawmakers hold news conference: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-18 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d54b/live/912aa4a0-c489-11f0-90ea-63f1b96da933.jpg" alt="UK will not tolerate Chinese spying, minister says after MI5 alert" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gpnz05kr8o?at_medium=RSS&at_campaign=rss" target="_blank">UK will not tolerate Chinese spying, minister says after MI5 alert</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-18 14:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/18/syria-launches-first-trial-over-coastal-violence-that-killed-thousands?traffic_source=rss" target="_blank">Syria launches first trial over coastal violence that killed thousands</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-18 13:33</span>
@@ -67,47 +100,29 @@
                 <span class="time">2025-11-18 12:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/11/18/g-s1-98040/is-a-50-year-mortgage-really-that-much-crazier-than-a-30-year-one" target="_blank">Is a 50-year mortgage really that much crazier than a 30-year one?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-18 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe" target="_blank">The rainforest the world forgot: the Congo basin is the second largest on Earth, so why is it being neglected?</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-18 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe" target="_blank">The Congo basin may be the world’s most important rainforest – why is it the least researched?</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-18 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/Johnson-rt-er-251117_1763409256884_hpMain_4x3t_384.jpg" alt="House to vote on full Epstein files&#x27; release -- the move Johnson fought for months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/house-vote-full-epstein-files-release-move-speaker/story?id=127593181" target="_blank">House to vote on full Epstein files&#x27; release -- the move Johnson fought for months</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-18 10:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/691c0432632b8d38670cc04e/master/pass/The%20Best%20Housewarming%20Gifts%20for%20Any%20Home.png" alt="14 Best Housewarming Gifts We Can&#x27;t Stop Using (2025): Coasters, Blenders, Sheets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/" target="_blank">14 Best Housewarming Gifts We Can&#x27;t Stop Using (2025): Coasters, Blenders, Sheets</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-18 14:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/18/agentio-secures-40-million-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/" target="_blank">Agentio secures $40 million from Forerunner as it scales its creator marketplace beyond YouTube</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-18 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68ce4725210d0e11b5670884/master/pass/The%20Best%20Fitness%20Trackers%20and%20Watches%20for%20Everyone.png" alt="14 Best Fitness Trackers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +159,20 @@
                 <span class="time">2025-11-18 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/18/roblox-will-require-all-users-to-perform-age-checks-to-access-chat-from-january/" target="_blank">Roblox will require all users to perform age-checks to access chat from January</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-18 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69138e7642f0d7fe529d4a38/master/pass/Social-Security-Data-Officially-Being-Shared-with-DHS-to-Target-Immigrants-Politics-2215825808.jpg" alt="Social Security Data Is Openly Being Shared With DHS to Target Immigrants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/social-security-data-shared-with-dhs-target-immigrants/" target="_blank">Social Security Data Is Openly Being Shared With DHS to Target Immigrants</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-18 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/emerickp/how-to-run-playwright-in-ci-pipeline-4bec" target="_blank">How to Run Playwright in CI Pipeline</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-18 14:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dk4bwo5a3e0r2wsu94b.png" alt="How Non-Developers Are Building Apps: Low-Code &amp; No-Code Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +218,6 @@
                 <span class="time">2025-11-18 11:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F366059%2F44d4a869-bb26-4b8e-aa73-6e596b4b4b8a.jpg" alt="Refactoring 036 - Replace String Concatenations with Text Blocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mcsee/refactoring-036-replace-string-concatenations-with-text-blocks-3nop" target="_blank">Refactoring 036 - Replace String Concatenations with Text Blocks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-18 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/lumia-2-lifestyle-1-1280x853.jpg" alt="Welp, Smart Earrings Are a Thing Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lumia-smart-earring-2-health-tracking-price-release-date-2000687118" target="_blank">Welp, Smart Earrings Are a Thing Now</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-18 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/Community.jpg" alt="GameStop Employees Are Freaking Out About ‘Trade Anything Day’: ‘God Help Us’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gamestop-trade-in-anything-day-rules-2000645098" target="_blank">GameStop Employees Are Freaking Out About ‘Trade Anything Day’: ‘God Help Us’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-18 14:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01J5V1MY9ZAZ7N552T8QVD1JYN/hero-image.png" alt="Try &#x27;Slow Productivity&#x27; to Improve Your Work and Avoid Burnout" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/amazon-liquidates-bose-headphones-at-50-off-now-cheaper-than-mid-range-no-name-models-2000644975" target="_blank">Amazon Liquidates Bose Headphones at 50% Off, Now Cheaper Than Mid-Range No-Name Models</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-18 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/08/trump-clown-e1750358910130.jpeg?fit=768%2C525&amp;quality=60&amp;ssl=1" alt="Puddin&#x27; Brains tries and fails to answer a question" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/17/puddin-brains-tries-and-fails-to-answer-a-question.html" target="_blank">Puddin&#x27; Brains tries and fails to answer a question</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-18 00:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/doctor-fate-black-adam-1280x853.jpg" alt="Pierce Brosnan Wants to Be Doctor Fate Again, and May Get His Chance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/doctor-fate-man-of-tomorrow-superman-pierce-brosnan-2000687123" target="_blank">Pierce Brosnan Wants to Be Doctor Fate Again, and May Get His Chance</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-17 23:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
