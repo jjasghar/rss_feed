@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 05:02:01 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-18 06:02:02 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-sudan-el-fashir_7084632.jpg?20251118022137" alt="&#x27;It&#x27;s utterly grim right now - it&#x27;s the epicentre of suffering&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/sudan-epicentre-of-suffering-in-the-world-says-un-humanitarian-chief-13472004" target="_blank">&#x27;It&#x27;s utterly grim right now - it&#x27;s the epicentre of suffering&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-18 01:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/11/1920x1080/skynews-sudan-el-fashir_7084632.jpg?20251118022137" alt="War-torn Sudan &#x27;epicentre of suffering in the world&#x27;, UN humanitarian chief tells Sky News" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -93,20 +98,20 @@
                 <span class="time">2025-11-18 00:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763423761766_nn_hja_trump_reversal_on_release_of_epstein_files_251117_1920x1080-htwa7v.jpg" alt="Trump’s reversal on release of Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-s-reversal-on-release-of-epstein-files-252229189654" target="_blank">Trump’s reversal on release of Epstein files</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-17 23:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/" target="_blank">As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-18 05:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +157,29 @@
                 <span class="time">2025-11-17 22:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext" target="_blank">Google updates its weather forecasts with a new AI model</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-17 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/11/18/how-to-create-agents-that-people-actually-want-to-use/" target="_blank">How to create agents that people actually want to use</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-11-18 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fveogfkpflze8ume9atmi.png" alt="Drowning in Photos? Let a VS Code AI Agent Organize Them for You (No Coding Needed)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sharan_babuparamasivamm/drowning-in-photos-let-a-vs-code-ai-agent-organize-them-for-you-no-coding-needed-5ab8" target="_blank">Drowning in Photos? Let a VS Code AI Agent Organize Them for You (No Coding Needed)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-18 05:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F2028%2F55d4ec28-b9c7-4adb-bd8f-08fad8f4c075.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,30 +208,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="New IBM Granite 4 Models to Reduce AI Costs with Inference-Efficient Hybrid Mamba-2 Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/isaachagoel/the-best-ai-articles-devto-wont-show-you-iph" target="_blank">The Best AI Articles Dev.to Won’t Show You</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-18 02:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenZFS-2.4-rc4-Released" target="_blank">OpenZFS 2.4 Squeezes In Some Last Minute Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-18 01:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frx46sl3q1ynitd7ubk4o.png" alt="Creating File Share In Azure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cmwokocha/creating-file-share-in-azure-kad" target="_blank">Creating File Share In Azure</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-17 23:45</span>
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/ibm-granite-mamba2-enterprise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New IBM Granite 4 Models to Reduce AI Costs with Inference-Efficient Hybrid Mamba-2 Architecture</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-18 02:48</span>
             </div>
         </div>
 </div>
@@ -339,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
