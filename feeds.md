@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 15:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-18 16:01:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/epstein-survivors-presser-03-gty-jef-251118_1763476226245_hpMain_4x3t_384.jpg" alt="Epstein survivors speak out ahead of House vote, take aim at Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/epstein-survivors-speak-ahead-house-vote-aim-trump/story?id=127627340" target="_blank">Epstein survivors speak out ahead of House vote, take aim at Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-18 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +105,38 @@
                 <span class="time">2025-11-18 13:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/tdy_epstein_251118-kvxlfz.jpg" alt="House to Move Ahead With Epstein Vote Following Trump Reversal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-says-he-would-sign-bill-releasing-epstein-files-if-it-passes-252261957602" target="_blank">House to Move Ahead With Epstein Vote Following Trump Reversal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-18 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration" target="_blank">Microsoft is turning Windows into an &amp;#8216;agentic OS,&amp;#8217; starting with the taskbar</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-18 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691c1756902dc7a3ed741e72/master/pass/Best%20Early%20Black%20Friday%20Mattress%20Deals.png" alt="Best Early Black Friday Mattress Deals 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-early-black-friday-mattress-deals-2025/" target="_blank">Best Early Black Friday Mattress Deals 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-18 15:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/hailmary1-500x500.jpg" alt="Ryan Gosling must save dying stars in Project Hail Mary trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/11/stranded-astronaut-finds-an-alien-ally-in-project-hail-mary-trailer/" target="_blank">Ryan Gosling must save dying stars in Project Hail Mary trailer</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-18 15:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/691c0432632b8d38670cc04e/master/pass/The%20Best%20Housewarming%20Gifts%20for%20Any%20Home.png" alt="14 Best Housewarming Gifts We Can&#x27;t Stop Using (2025): Coasters, Blenders, Sheets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,38 +164,47 @@
                 <span class="time">2025-11-18 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq" target="_blank">Steam Machine and Steam Frame: your questions answered</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-18 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/18/intuit-signs-100m-deal-with-openai-to-bring-its-apps-to-chatgpt/" target="_blank">Intuit signs $100M+ deal with OpenAI to bring its apps to ChatGPT</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-18 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/822163/dji-osmo-action-6-camera-adjustable-aperture-4k-square-sensor" target="_blank">DJI&amp;#8217;s next action camera has an adjustable aperture for better low-light performance</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-18 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0x0xkf3188w25s1aefxd.webp" alt="I&#x27;m Getting Serious Déjà Vu... But This Time It&#x27;s Different" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/michaelsolati/im-getting-serious-deja-vu-but-this-time-its-different-17f4" target="_blank">I&#x27;m Getting Serious Déjà Vu... But This Time It&#x27;s Different</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-18 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/rocm-71-llama-cpp-vulkan" target="_blank">AMD ROCm 7.1 vs. RADV Vulkan For Llama.cpp With The Radeon AI PRO R9700</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-18 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/database-backed-workflow/en/headerimage/Transact-Header-1763452700156.jpg" alt="QCon SF: Database-Backed Workflow Orchestration Challenges Traditional Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/database-backed-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon SF: Database-Backed Workflow Orchestration Challenges Traditional Architecture</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-18 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18759577&w=600" alt="Building a Containerized Quarkus API on AWS ECS/Fargate With CDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/quarkus-api-aws-ecs-fargate-cdk" target="_blank">Building a Containerized Quarkus API on AWS ECS/Fargate With CDK</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-18 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -180,42 +221,6 @@
                 <span class="title"><a href="https://dev.to/toluxx/how-non-developers-are-building-apps-low-code-no-code-platforms-37pm" target="_blank">How Non-Developers Are Building Apps: Low-Code &amp; No-Code Platforms</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-18 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/akaak/slide-decks-with-markdown-g5d" target="_blank">Slide decks with Markdown</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-18 13:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18695722&w=600" alt="Pinecone vs. Weaviate: The Trade-offs You Only Discover in Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/pinecone-vs-weaviate-the-trade-offs-you-only-disco" target="_blank">Pinecone vs. Weaviate: The Trade-offs You Only Discover in Production</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-18 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/android-camerax-1-5/en/headerimage/camera-x-android-1-5-1763466903448.jpeg" alt="CameraX 1.5 Brings Advanced Video Recording and Image Capture to Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/android-camerax-1-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">CameraX 1.5 Brings Advanced Video Recording and Image Capture to Android</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-18 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.cloudflarestatus.com/?t=1" target="_blank">Cloudflare Global Network experiencing issues</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-18 11:35</span>
             </div>
         </div>
 </div>
@@ -238,11 +243,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/main-5-1280x720.jpg" alt="Every Chase Card In Pokémon TCG’s Phantasmal Flames, Including That Charizard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-tcg-phantasmal-flames-charizard-chase-card-2000645074" target="_blank">Every Chase Card In Pokémon TCG’s Phantasmal Flames, Including That Charizard</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-18 15:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/lumia-2-lifestyle-1-1280x853.jpg" alt="Welp, Smart Earrings Are a Thing Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/lumia-smart-earring-2-health-tracking-price-release-date-2000687118" target="_blank">Welp, Smart Earrings Are a Thing Now</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-18 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KABHGTKERAHSEVW7W2KNFPGG/hero-image.jpg" alt="How I Turned My Laptop Into a Distraction-Free Writing Device" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-i-turned-my-laptop-into-a-distraction-free-writing-device?utm_medium=RSS" target="_blank">How I Turned My Laptop Into a Distraction-Free Writing Device</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-18 15:00</span>
             </div>
         </div>
@@ -271,24 +294,6 @@
                 <span class="title"><a href="https://gizmodo.com/tesla-is-in-trouble-with-travis-county-texas-2000686485" target="_blank">Tesla Is in Trouble with Travis County, Texas</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-18 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/iphone-air-1280x853.jpg" alt="The Designer Who Presented the iPhone Air to the World Has Left Apple, Report Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/iphone-air-creator-quits-2000687279" target="_blank">The Designer Who Presented the iPhone Air to the World Has Left Apple, Report Says</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-18 03:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/bose-headphones-quietcomfort-1280x853.jpg" alt="Amazon Liquidates Bose Headphones at 50% Off, Now Cheaper Than Mid-Range No-Name Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-liquidates-bose-headphones-at-50-off-now-cheaper-than-mid-range-no-name-models-2000644975" target="_blank">Amazon Liquidates Bose Headphones at 50% Off, Now Cheaper Than Mid-Range No-Name Models</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-18 01:35</span>
             </div>
         </div>
 </div>
@@ -328,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
