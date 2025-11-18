@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 07:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-18 08:02:25 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/18/un-security-council-approves-us-resolution-backing-trumps-gaza-plan?traffic_source=rss" target="_blank">UN Security Council approves US resolution backing Trump’s Gaza plan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-18 07:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +98,6 @@
                 <span class="title"><a href="https://news.sky.com/story/sudan-epicentre-of-suffering-in-the-world-says-un-humanitarian-chief-13472004" target="_blank">War-torn Sudan &#x27;epicentre of suffering in the world&#x27;, UN humanitarian chief tells Sky News</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-11-18 01:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/17/nx-s1-5611103/npr-trump-cpb-lawsuit" target="_blank">CPB agrees to revive a $36 million deal with NPR killed after Trump&#x27;s pressure</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-18 00:12</span>
             </div>
         </div>
 </div>
@@ -198,6 +194,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nautil.us/the-surprising-benefits-of-giving-up-1248362/" target="_blank">The surprising benefits of giving up</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-18 04:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/thebitforge/the-year-we-crossed-the-threshold-a-journey-through-2025s-most-transformative-technology-3aa5" target="_blank">The Year We Crossed the Threshold: A Journey Through 2025&#x27;s Most Transformative Technology</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,15 +216,6 @@
                 <span class="title"><a href="https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html" target="_blank">Core Devices keeps stealing our work</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-18 02:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="New IBM Granite 4 Models to Reduce AI Costs with Inference-Efficient Hybrid Mamba-2 Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/ibm-granite-mamba2-enterprise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New IBM Granite 4 Models to Reduce AI Costs with Inference-Efficient Hybrid Mamba-2 Architecture</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-18 02:48</span>
             </div>
         </div>
 </div>
@@ -327,22 +323,13 @@
                 <span class="time">2025-11-17 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/17/the-prints-of-peace" target="_blank">The Prints Of Peace</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-17 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
