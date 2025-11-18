@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 10:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-18 11:01:31 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, November 18, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/Johnson-rt-er-251117_1763409256884_hpMain_4x3t_384.jpg" alt="House to vote on full Epstein files&#x27; release -- the move Johnson fought for months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/house-vote-full-epstein-files-release-move-speaker/story?id=127593181" target="_blank">House to vote on full Epstein files&#x27; release -- the move Johnson fought for months</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-18 10:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c19/live/15cad010-c456-11f0-8a46-59224c61e7f0.png" alt="Minister insists government committed to asylum reforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgd2vq4enzo?at_medium=RSS&at_campaign=rss" target="_blank">Minister insists government committed to asylum reforms</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-18 10:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/18/charlottes-web-whats-happening-with-north-carolina-immigration-raids?traffic_source=rss" target="_blank">Charlotte’s Web: What’s happening with North Carolina immigration raids?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-18 10:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/18/nx-s1-5596403/newjeans-hybe-ador-min-hee-jin-label-battle" target="_blank">How NewJeans (almost) changed K-pop</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-18 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,47 +104,20 @@
                 <span class="time">2025-11-18 06:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/18/jake-paul-to-fight-anthony-joshua-in-heavyweight-bout-on-december-19?traffic_source=rss" target="_blank">Jake Paul to fight Anthony Joshua in heavyweight bout on December 19</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-18 04:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/17/nx-s1-5611530/national-guard-memphis-judge-ruling" target="_blank">Tennessee judge blocks deployment of National Guard in Memphis</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-18 04:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/18/trump-mcdonalds-lower-prices?traffic_source=rss" target="_blank">Trump hails lower prices amid rising discontent over cost of living</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-18 02:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-sudan-el-fashir_7084632.jpg?20251118022137" alt="&#x27;It&#x27;s utterly grim right now - it&#x27;s the epicentre of suffering&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/sudan-epicentre-of-suffering-in-the-world-says-un-humanitarian-chief-13472004" target="_blank">&#x27;It&#x27;s utterly grim right now - it&#x27;s the epicentre of suffering&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-18 01:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69138e7642f0d7fe529d4a38/master/pass/Social-Security-Data-Officially-Being-Shared-with-DHS-to-Target-Immigrants-Politics-2215825808.jpg" alt="Social Security Data Is Openly Being Shared With DHS to Target Immigrants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/social-security-data-shared-with-dhs-target-immigrants/" target="_blank">Social Security Data Is Openly Being Shared With DHS to Target Immigrants</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-18 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +163,29 @@
                 <span class="time">2025-11-17 23:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/822636/google-robby-starbuck-defamation-lawsuit-ai-chatbot" target="_blank">Google is fighting the defamation battle Meta caved on</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-17 23:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F366059%2F44d4a869-bb26-4b8e-aa73-6e596b4b4b8a.jpg" alt="Refactoring 036 - Replace String Concatenations with Text Blocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mcsee/refactoring-036-replace-string-concatenations-with-text-blocks-3nop" target="_blank">Refactoring 036 - Replace String Concatenations with Text Blocks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-18 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/MLPerf-Client-1.5-Linux" target="_blank">MLPerf Client 1.5 Introduces Experimental Linux Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-18 10:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/11/forsgren-reduce-ai-friction/en/headerimage/generatedHeaderImage-1763421293060.jpg" alt="First Keynote at QCon San Francisco 2025: Reducing Friction by Nicole Forsgren" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +222,6 @@
                 <span class="time">2025-11-18 08:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fveogfkpflze8ume9atmi.png" alt="Drowning in Photos? Let a VS Code AI Agent Organize Them for You (No Coding Needed)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sharan_babuparamasivamm/drowning-in-photos-let-a-vs-code-ai-agent-organize-them-for-you-no-coding-needed-5ab8" target="_blank">Drowning in Photos? Let a VS Code AI Agent Organize Them for You (No Coding Needed)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-18 05:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F2028%2F55d4ec28-b9c7-4adb-bd8f-08fad8f4c075.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/v_b/-ikg" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-18 04:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/giga-factory-1-1280x853.jpg" alt="Tesla Is in Trouble with Travis County, Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tesla-is-in-trouble-with-travis-county-texas-2000686485" target="_blank">Tesla Is in Trouble with Travis County, Texas</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-18 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/iphone-air-1280x853.jpg" alt="The Designer Who Presented the iPhone Air to the World Has Left Apple, Report Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +295,6 @@
                 <span class="time">2025-11-17 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KA9DWBNPJXQG52JRBG3DFDHB/hero-image.png" alt="What Are Passkeys, and Who Should Be Using Them?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/what-are-passkeys?utm_medium=RSS" target="_blank">What Are Passkeys, and Who Should Be Using Them?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-17 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
