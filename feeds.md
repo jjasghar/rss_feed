@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 03:20:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-19 04:02:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 03:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,10 +53,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/russia-ukraine-war-list-of-key-events-day-1364?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,364</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-19 01:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/11/18/nx-s1-5604412/redistricting-midterm-election-texas" target="_blank">Texas appeals ruling that Trump-urged voting map is racial gerrymandering</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-19 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763510898134_nn_hja_congress_approves_bill_to_release_epstein_files_251118_1920x1080-nmfjpo.jpg" alt="Congress approves bill to release Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/congress-approves-bill-to-release-epstein-files-252318789827" target="_blank">Congress approves bill to release Epstein files</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-19 00:08</span>
             </div>
         </div>
 <div class="story">
@@ -75,24 +102,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/thune-senate-move-epstein-files-bill-today/story?id=127645638" target="_blank">Senate unanimously agrees to approve Epstein files bill</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-18 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/18/israeli-attack-on-palestinian-refugee-camp-in-lebanon-kills-at-least-13?traffic_source=rss" target="_blank">Israeli attack on Palestinian refugee camp in Lebanon kills at least 13</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-18 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/18/trump-hosts-saudi-arabias-mohammed-bin-salman-five-key-takeaways?traffic_source=rss" target="_blank">Trump hosts Saudi Arabia’s Mohammed bin Salman: Five key takeaways</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-18 21:36</span>
             </div>
         </div>
 </div>
@@ -305,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 03:21 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
