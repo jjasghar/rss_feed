@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 02:30:06 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-19 03:20:55 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 03:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ejoj4b6agabtassqxwm.png" alt="I Finally Achieved Automatic ID Card and Face Capture on Web Pages, Face Similarity Comparison Between Images and Videos, and..." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wintrover/i-finally-achieved-automatic-id-card-and-face-capture-on-web-pages-face-similarity-comparison-1e40" target="_blank">I Finally Achieved Automatic ID Card and Face Capture on Web Pages, Face Similarity Comparison Between Images and Videos, and...</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-19 03:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/baris86/creating-storage-account-for-finance-departments-shared-file-2d77" target="_blank">Creating Storage Account for Finance Department&#x27;s shared file</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-18 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18762050&w=600" alt="From Zero to Local AI in 10 Minutes With Ollama + Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/zero-to-local-ai-ollama-python" target="_blank">From Zero to Local AI in 10 Minutes With Ollama + Python</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-18 20:00</span>
             </div>
         </div>
 </div>
@@ -282,12 +278,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/07_megabonk-1280x721.jpg" alt="Megabonk Dev Officially Withdraws It From The Game Awards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://lifehacker.com/imagery/articles/01K9881Q5QYKJ9RPH9N2WWY4PH/hero-image.jpg" alt="All the New Features Coming to iOS 26.2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/megabonk-dev-officially-withdraws-it-from-the-game-awards-2000645270" target="_blank">Megabonk Dev Officially Withdraws It From The Game Awards</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-18 20:36</span>
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/new-features-coming-to-ios-262?utm_medium=RSS" target="_blank">All the New Features Coming to iOS 26.2</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-18 22:00</span>
             </div>
         </div>
 </div>
@@ -309,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 03:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
