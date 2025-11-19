@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 21:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-19 22:01:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/19/why-has-number-of-people-facing-hunger-doubled-since-2019?traffic_source=rss" target="_blank">Why has number of people facing hunger doubled since 2019?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-19 21:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +96,20 @@
                 <span class="time">2025-11-19 17:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-gaza-israel-palestine_7086140.jpg?20251119162157" alt="On the ground in Gaza: A landscape of complete devastation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/patchwork-of-dust-and-misery-at-the-yellow-line-dividing-gaza-where-all-that-remains-are-skeletons-of-buildings-13472870" target="_blank">On the ground in Gaza: A landscape of complete devastation</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-19 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/823213/google-scholar-labs-ai-search" target="_blank">Google’s new Scholar Labs search uses AI to find relevant studies</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-19 21:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/691e21f4d689d6dc432d4b24/master/pass/This%20Excellent%20LG%20OLED%20Is%20Deeply%20Discounted%20Before%20Black%20Friday.png" alt="This Excellent LG OLED Is Deeply Discounted Before Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,15 +153,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/interplay-co-founder-and-pioneering-game-developer-rebecca-heineman-dies-at-62/" target="_blank">Celebrated game developer Rebecca Heineman dies at age 62</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-19 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/823988/apple-watch-3d-printing-process" target="_blank">Watch how Apple 3D prints Watches by blasting powdered titanium with lasers</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-19 15:52</span>
             </div>
         </div>
 </div>
@@ -244,6 +243,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAEX1Z2B86QFZYC25F0AJ7BA/hero-image.png" alt="Why I&#x27;m Not Using NotebookLM&#x27;s &#x27;Deep Research&#x27; Tool (and Why You Shouldn&#x27;t Either)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-notebooklm-deep-research-tool?utm_medium=RSS" target="_blank">Why I&#x27;m Not Using NotebookLM&#x27;s &#x27;Deep Research&#x27; Tool (and Why You Shouldn&#x27;t Either)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-19 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2024/01/6caa39e6119d16c5b126dd46b4302592-1280x720.jpg" alt="The 21 Best Games For The Xbox Series X/S" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -288,20 +296,20 @@
                 <span class="time">2025-11-19 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/10/Nuclearpower-1024x683.jpg" alt="US Approves $1B Loan to Restart Three Mile Island, as Microsoft Data Centers Drive Demand" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/us-approves-1b-loan-to-restart-three-mile-island-as-microsoft-data-centers-drive-demand-2000688138" target="_blank">US Approves $1B Loan to Restart Three Mile Island, as Microsoft Data Centers Drive Demand</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-19 16:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/19/value-prop" target="_blank">Value Prop</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-19 18:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1763431888-20251119.png" alt="Saturday Morning Breakfast Cereal - Protagonist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -334,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
