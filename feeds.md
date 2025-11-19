@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 04:02:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-19 05:02:03 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/scotland-beats-denmark-4-2-to-book-first-world-cup-spot-since-1998?traffic_source=rss" target="_blank">Scotland beats Denmark 4-2 to book first World Cup spot since 1998</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-19 03:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cdxr1r34ev9o?at_medium=RSS&at_campaign=rss" target="_blank">Congress approves bill to release Epstein files that will head to Trump&#x27;s desk</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-18 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/john-thune-9-ap-gmh-251107_1762551814188_hpMain_4x3t_384.jpg" alt="Senate unanimously agrees to approve Epstein files bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/thune-senate-move-epstein-files-bill-today/story?id=127645638" target="_blank">Senate unanimously agrees to approve Epstein files bill</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-18 22:58</span>
             </div>
         </div>
 </div>
@@ -169,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dehemi_fabio/react-concepts-explained-part-1-core-fundamentals-52kd" target="_blank">React Concepts Explained: Part 1 - Core Fundamentals</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-19 04:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ejoj4b6agabtassqxwm.png" alt="I Finally Achieved Automatic ID Card and Face Capture on Web Pages, Face Similarity Comparison Between Images and Videos, and..." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +214,6 @@
                 <span class="title"><a href="https://blog.cloudflare.com/18-november-2025-outage/" target="_blank">Cloudflare outage on November 18, 2025 post mortem</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-18 23:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjt14tzq6ccmlapcgll7.png" alt="Creating Storage Account for Finance Department&#x27;s shared file" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/baris86/creating-storage-account-for-finance-departments-shared-file-2d77" target="_blank">Creating Storage Account for Finance Department&#x27;s shared file</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-18 21:49</span>
             </div>
         </div>
 </div>
@@ -314,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
