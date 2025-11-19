@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 14:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-19 15:01:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +107,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/691d003e6dccde5821e66581/master/pass/19%20Adventurous%20Gifts%20for%20Hikers,%20Backpackers,%20and%20Outdoorsy%20People.png" alt="Best Gifts for Hikers, Backpackers, Outdoorsy People (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/" target="_blank">Best Gifts for Hikers, Backpackers, Outdoorsy People (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-19 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/19/onepot-ai-raises-13m-to-help-make-chemical-drug-creation-easier/" target="_blank">Onepot AI raises $13M to help make chemical drug creation easier</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-19 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2242090240-500x500.jpg" alt="How Louvre thieves exploited human psychology to avoid suspicion—and what it reveals about AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/how-louvre-thieves-exploited-human-psychology-to-avoid-suspicion-and-what-it-reveals-about-ai/" target="_blank">How Louvre thieves exploited human psychology to avoid suspicion—and what it reveals about AI</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-19 14:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/DGR-05-night-500x500.jpg" alt="An electric car that’s faster than F1 around Monaco? That’s the idea." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -136,38 +160,38 @@
                 <span class="time">2025-11-19 13:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics" target="_blank">TikTok is letting users control how much AI content they see</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-19 13:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691b5784ee9530d182e88943/master/pass/gear-thruster.jpg" alt="Thrustmaster ESWAP X2 H.E. Controller Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/thrustmaster-eswap-x2-he-controller/" target="_blank">Thrustmaster ESWAP X2 H.E. Controller Review</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-19 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/19/credit-risk-automation-platform-kaaj-raises-3-8m-seed-from-kindred-ventures/" target="_blank">Credit risk automation platform Kaaj raises $3.8M seed from Kindred Ventures</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-19 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Diamond-Rapids-EDAC-IMH" target="_blank">Intel &quot;imh_edac&quot; Driver Being Developed For New Memory Controller With Diamond Rapids</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-19 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/puppet/puppet-core-8160-released-with-several-security-updates-179b" target="_blank">Puppet Core 8.16.0 Released with Several Security Updates</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-19 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18762081&w=600" alt="Smart AI Agent Targeting With MCP Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/smart-ai-agent-targeting-with-mcp-tools" target="_blank">Smart AI Agent Targeting With MCP Tools</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-19 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,33 +219,6 @@
                 <span class="time">2025-11-19 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://eagledot.xyz/hachi.md.html" target="_blank">Hachi:  An Image search engine</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-19 12:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18694812&w=600" alt="Meta Data: How Data about Your Data is Optimal for AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/meta-data-how-data-about-your-data-is-optimal-for-AI" target="_blank">Meta Data: How Data about Your Data is Optimal for AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-19 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Xen-2025-GPU-Virt" target="_blank">AMD Continues Working On Xen GPU Virtualization Features - &quot;The Best Is Yet To Come&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-19 11:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Image-Chepesch-Shutterstock.jpg?fit=1080%2C768&amp;quality=60&amp;ssl=1" alt="Raccoons are self-domesticating and getting cuter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/19/raccoons-are-self-domesticating-and-getting-cuter.html" target="_blank">Raccoons are self-domesticating and getting cuter</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-19 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KA9PW4Z5VY57EFVXPSMQ9X88/hero-image.jpg" alt="Watch Out for These Health Insurance Scams During Open Enrollment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/health-insurance-scams-open-enrollment?utm_medium=RSS" target="_blank">Watch Out for These Health Insurance Scams During Open Enrollment</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-19 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/Apple-AirTag-4-Pack-1280x853.jpg" alt="If You Own an iPhone, Amazon Gives You 2 Free AirTags for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/19/trumps-doj-killed-active-epstein-co-conspirator-investigation-raskin-alleges.html" target="_blank">Trump&#x27;s DOJ Killed Active Epstein Co-Conspirator Investigation, Raskin Alleges</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-19 10:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/08/RFKJR-1024x683.jpg" alt="RFK Jr. Announces $2 Million Prize for Anyone Who Can Help Him Cram AI Into the U.S. Healthcare System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/rfk-2-million-prize-ai-healthcare-2000687874" target="_blank">RFK Jr. Announces $2 Million Prize for Anyone Who Can Help Him Cram AI Into the U.S. Healthcare System</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-19 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/elon-musk-nov.-18-2025-1280x833.jpg" alt="Trump Lovingly Pats Elon Musk on Stomach During Dinner at White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-pats-musk-2000687821" target="_blank">Trump Lovingly Pats Elon Musk on Stomach During Dinner at White House</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-19 01:55</span>
             </div>
         </div>
 </div>
@@ -332,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
