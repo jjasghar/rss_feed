@@ -1,41 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-11-18 23:01:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-19 00:04:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, November 18, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +44,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/thune-senate-move-epstein-files-bill-today/story?id=127645638" target="_blank">Senate unanimously agrees to approve Epstein files bill</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-18 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/18/israeli-attack-on-palestinian-refugee-camp-in-lebanon-kills-at-least-13?traffic_source=rss" target="_blank">Israeli attack on Palestinian refugee camp in Lebanon kills at least 13</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-18 22:50</span>
             </div>
         </div>
 <div class="story">
@@ -94,15 +89,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/house-vote-full-epstein-files-release-move-speaker/story?id=127593181" target="_blank">House overwhelmingly passes bill to force release of full Epstein files</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-18 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/18/meta-prevails-in-existential-challenge-as-court-rules-its-not-a-monopoly?traffic_source=rss" target="_blank">Meta prevails in existential challenge as court rules it’s not a monopoly</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-18 19:37</span>
             </div>
         </div>
 </div>
@@ -170,12 +156,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.cloudflare.com/18-november-2025-outage/" target="_blank">Cloudflare outage on November 18, 2025 post mortem</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-18 23:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhjt14tzq6ccmlapcgll7.png" alt="Creating Storage Account for Finance Department&#x27;s shared file" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/baris86/creating-storage-account-for-finance-departments-shared-file-2d77" target="_blank">Creating Storage Account for Finance Department&#x27;s shared file</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-18 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18762050&w=600" alt="From Zero to Local AI in 10 Minutes With Ollama + Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/zero-to-local-ai-ollama-python" target="_blank">From Zero to Local AI in 10 Minutes With Ollama + Python</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-18 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -205,24 +209,6 @@
                 <span class="time">2025-11-18 19:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devhabib/youre-stuck-in-tutorial-hell-heres-your-direct-escape-route-2emm" target="_blank">You&#x27;re Stuck in &quot;Tutorial Hell.&quot; Here&#x27;s Your Direct Escape Route.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-18 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/enterprise-software/collaboration/level-up-design-to-code-collaboration-with-githubs-open-source-annotation-toolkit/" target="_blank">Level up design-to-code collaboration with GitHub’s open source Annotation Toolkit</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-11-18 18:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +228,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/The-Kiss-1859-1280x853.jpg" alt="Apes Were Kissing Millions of Years Before Humans, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apes-were-kissing-millions-of-years-before-humans-study-suggests-2000687184" target="_blank">Apes Were Kissing Millions of Years Before Humans, Study Suggests</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-19 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/grinch-1280x720.jpg" alt="Fallout Star Walton Goggins Must Need Money Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fallout-star-walton-goggins-walmart-ad-xmas-christmas-grinch-2000645299" target="_blank">Fallout Star Walton Goggins Must Need Money Bad</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-18 23:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/halo-infinite-hed-1280x853.jpg" alt="Goodbye, ‘Halo Infinite’ (2021-2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +280,6 @@
                 <span class="title"><a href="https://gizmodo.com/sabine-jedi-mistake-rebels-ahsoka-star-wars-2000687600" target="_blank">‘Star Wars: Rebels’ Writer Thinks Making Sabine a Jedi Was a Mistake</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-18 19:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KABVCCQD1K0X0W4P5DHS8KZH/hero-image.png" alt="Google Is Giving U.S. College Students Another Free Year of Google AI Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-is-giving-us-college-students-another-free-year-of-gemini-ai-pro?utm_medium=RSS" target="_blank">Google Is Giving U.S. College Students Another Free Year of Google AI Pro</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-18 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/the-scientist-dark-crystal-age-of-resistance-1280x853.jpg" alt="Sorry ‘Dark Crystal: Age of Resistance’ Fans, It’s So Over" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dark-crystal-age-of-resistance-canceled-auction-henson-2000687267" target="_blank">Sorry ‘Dark Crystal: Age of Resistance’ Fans, It’s So Over</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-18 19:00</span>
             </div>
         </div>
 </div>
@@ -333,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
