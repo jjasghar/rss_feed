@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 16:02:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-19 17:02:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 16:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b54/live/23634e70-c558-11f0-9fb5-5f3a3703a365.jpg" alt="Russian spy ship pointed lasers at RAF pilots tracking it, says defence secretary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx24028k7edo?at_medium=RSS&at_campaign=rss" target="_blank">Russian spy ship pointed lasers at RAF pilots tracking it, says defence secretary</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-19 16:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/deab3670-c530-11f0-bf7b-db7c049674ab.jpg" alt="Children among 25 killed in one of Russia&#x27;s deadliest strikes on western Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +97,20 @@
                 <span class="time">2025-11-19 12:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c57/live/4531dfe0-b8a0-11f0-ba75-093eca1ac29b.jpg" alt="Man accused of train stabbings faces more charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2dr9d7p102o?at_medium=RSS&at_campaign=rss" target="_blank">Man accused of train stabbings faces more charges</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-19 12:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/19/yc-backed-poly-relaunches-as-a-cloud-hosted-file-storage-with-ai-search/" target="_blank">YC-backed Poly relaunches as a cloud-hosted file storage with AI search</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-19 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +156,47 @@
                 <span class="time">2025-11-19 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2242090240-500x500.jpg" alt="How Louvre thieves exploited human psychology to avoid suspicion—and what it reveals about AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/how-louvre-thieves-exploited-human-psychology-to-avoid-suspicion-and-what-it-reveals-about-ai/" target="_blank">How Louvre thieves exploited human psychology to avoid suspicion—and what it reveals about AI</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-19 14:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/" target="_blank">How to write a great agents.md: Lessons from over 2,500 repositories</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-11-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://entropicthoughts.com/questions-for-cloudflare" target="_blank">Questions for Cloudflare</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-19 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/threadripper-7980x-2025" target="_blank">AMD Threadripper 7980X Performance On Linux Two Years After Release</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-19 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18761170&w=600" alt="Why Your Architecture Team Is Slow (And It&#x27;s Not the Technology)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-your-architecture-team-is-slow" target="_blank">Why Your Architecture Team Is Slow (And It&#x27;s Not the Technology)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-19 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -180,42 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Diamond-Rapids-EDAC-IMH" target="_blank">Intel &quot;imh_edac&quot; Driver Being Developed For New Memory Controller With Diamond Rapids</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-19 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/puppet/puppet-core-8160-released-with-several-security-updates-179b" target="_blank">Puppet Core 8.16.0 Released with Several Security Updates</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-19 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18762081&w=600" alt="Smart AI Agent Targeting With MCP Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/smart-ai-agent-targeting-with-mcp-tools" target="_blank">Smart AI Agent Targeting With MCP Tools</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-19 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abiji-2020/embedding-ai-inside-postgresql-building-a-native-c-extension-5b8b" target="_blank">Embedding AI Inside PostgreSQL : Building a Native C++ Extension.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-19 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/observability-layers/en/mediumimage/martha-lambert-medium-1762956856143.jpg" alt="Presentation: From Dashboard Soup to Observability Lasagna: Building Better Layers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/observability-layers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Dashboard Soup to Observability Lasagna: Building Better Layers</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-19 13:37</span>
             </div>
         </div>
 </div>
@@ -247,6 +244,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/10/Nuclearpower-1024x683.jpg" alt="US Approves $1B Loan to Restart Three Mile Island, as Microsoft Data Centers Drive Demand" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/us-approves-1b-loan-to-restart-three-mile-island-as-microsoft-data-centers-drive-demand-2000688138" target="_blank">US Approves $1B Loan to Restart Three Mile Island, as Microsoft Data Centers Drive Demand</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-19 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/hlxtop-1280x720.jpg" alt="Why The Internet Thinks Half-Life 3 Is Being Announced Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/half-life-3-timeline-hype-leaks-clues-explained-release-date-november-trailer-2000645448" target="_blank">Why The Internet Thinks Half-Life 3 Is Being Announced Today</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-19 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KADVNP9RFN0P2HD107AW7271/hero-image.png" alt="The iPad Has Never Been More Like a Mac, but Can It Replace One?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-ipad-has-never-been-more-like-a-mac-but-can-it-replace-one?utm_medium=RSS" target="_blank">The iPad Has Never Been More Like a Mac, but Can It Replace One?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-19 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Vegemite.-Photo-Jennifer-Sandlin-.jpg?fit=1080%2C978&amp;quality=60&amp;ssl=1" alt="Australian prisoner asserts human right to Vegemite" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -273,33 +297,6 @@
                 <span class="time">2025-11-19 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Apple-AirTag-4-Pack-1280x853.jpg" alt="If You Own an iPhone, Amazon Gives You 2 Free AirTags for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/if-you-own-an-iphone-amazon-gives-you-2-free-airtags-for-black-friday-2000645425" target="_blank">If You Own an iPhone, Amazon Gives You 2 Free AirTags for Black Friday</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-19 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/zoox-1280x719.jpg" alt="That Zoox Robotaxi Ride You’ve Been Clamoring for Is Now Available in San Francisco" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/zoox-robotaxi-san-francisco-2000687897" target="_blank">That Zoox Robotaxi Ride You’ve Been Clamoring for Is Now Available in San Francisco</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-19 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Schumer warns Trump: &quot;Can&#x27;t fuck around&quot; with Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/19/schumer-warns-trump-cant-fuck-around-with-epstein-files.html" target="_blank">Schumer warns Trump: &quot;Can&#x27;t fuck around&quot; with Epstein files</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-19 10:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,22 +320,13 @@
                 <span class="time">2025-11-19 01:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1763431796-20251118.png" alt="Saturday Morning Breakfast Cereal - Stats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/stats-3" target="_blank">Saturday Morning Breakfast Cereal - Stats</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-18 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 16:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
