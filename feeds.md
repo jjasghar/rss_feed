@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 10:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-19 11:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/john-thune-gty-gmh-251118_1763512208999_hpMain_4x3t_384.jpg" alt="Senate expected to send Epstein files bill to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/senate-expected-send-epstein-files-bill-trump/story?id=127652257" target="_blank">Senate expected to send Epstein files bill to Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-19 10:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/deab3670-c530-11f0-bf7b-db7c049674ab.jpg" alt="Russian attack hits flats in one of deadliest strikes on western Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss" target="_blank">Russian attack hits flats in one of deadliest strikes on western Ukraine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-19 10:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/nov/19/new-drug-could-be-breakthrough-killer-tb-tuberculosis-sorfequiline" target="_blank">New drug could be a breakthrough in treatment for killer TB, trial suggests</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-19 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca3/live/9e7fcd50-c51b-11f0-9129-896fa1393664.jpg" alt="Russian strike on flats kills 10 in one of deadliest attacks on western Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,33 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/19/g-s1-98354/the-f-35-fighter-jet-trump-selling-saudi-arabia" target="_blank">What to know about the F-35 fighter jet that Trump is selling to Saudi Arabia</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-19 09:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/788f/live/fc5ac0c0-c510-11f0-8303-a9a4889094b8.jpg" alt="Snow and ice hits with warnings of travel disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/weather/articles/cr43gv9zveyo?at_medium=RSS&at_campaign=rss" target="_blank">Snow and ice hits with warnings of travel disruption</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-19 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/china-to-suspend-imports-of-japanese-seafood-amid-diplomatic-row-reports?traffic_source=rss" target="_blank">China to suspend imports of Japanese seafood amid diplomatic row: Reports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-19 08:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/myanmar-military-raids-online-scam-hub-arrests-nearly-350-on-thai-border?traffic_source=rss" target="_blank">Myanmar military raids online scam hub, arrests nearly 350 on Thai border</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-19 07:35</span>
             </div>
         </div>
 </div>
@@ -237,6 +241,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/zoox-1280x719.jpg" alt="That Zoox Robotaxi Ride You’ve Been Clamoring for Is Now Available in San Francisco" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/zoox-robotaxi-san-francisco-2000687897" target="_blank">That Zoox Robotaxi Ride You’ve Been Clamoring for Is Now Available in San Francisco</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-19 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/maxresdefault.jpg?fit=1280%2C720&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s DOJ Killed Active Epstein Co-Conspirator Investigation, Raskin Alleges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/19/trumps-doj-killed-active-epstein-co-conspirator-investigation-raskin-alleges.html" target="_blank">Trump&#x27;s DOJ Killed Active Epstein Co-Conspirator Investigation, Raskin Alleges</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-19 10:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/08/RFKJR-1024x683.jpg" alt="RFK Jr. Announces $2 Million Prize for Anyone Who Can Help Him Cram AI Into the U.S. Healthcare System" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -270,24 +292,6 @@
                 <span class="title"><a href="https://kotaku.com/fallout-star-walton-goggins-walmart-ad-xmas-christmas-grinch-2000645299" target="_blank">Fallout Star Walton Goggins Must Need Money Bad</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-18 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/halo-infinite-hed-1280x853.jpg" alt="Goodbye, ‘Halo Infinite’ (2021-2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/goodbye-halo-infinite-2021-2025-2000687712" target="_blank">Goodbye, ‘Halo Infinite’ (2021-2025)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-18 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/windows111-1280x720.jpg" alt="Microsoft Warns That Windows 11 AI Might Install Malware On Your PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-warns-that-windows-11-ai-might-install-malware-on-your-pc-2000645293" target="_blank">Microsoft Warns That Windows 11 AI Might Install Malware On Your PC</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-18 22:40</span>
             </div>
         </div>
 </div>
@@ -327,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
