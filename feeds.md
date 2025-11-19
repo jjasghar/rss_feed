@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 11:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-19 12:02:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/19/g-s1-98371/up-first-newsletter-saudi-prince-epstein-bill-trump-approval-rating" target="_blank">Dems may have an advantage in the 2026 midterms. And, Trump defends Saudi crown prince</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-19 11:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/deab3670-c530-11f0-bf7b-db7c049674ab.jpg" alt="At least 20 killed in one of Russia&#x27;s deadliest strikes on western Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss" target="_blank">At least 20 killed in one of Russia&#x27;s deadliest strikes on western Ukraine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-19 11:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/poland-to-close-last-russian-consulate-over-unprecedented-act-of-sabotage?traffic_source=rss" target="_blank">Poland to close last Russian consulate over ‘unprecedented act of sabotage’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-19 11:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/john-thune-gty-gmh-251118_1763512208999_hpMain_4x3t_384.jpg" alt="Senate expected to send Epstein files bill to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,33 +96,6 @@
                 <span class="title"><a href="https://www.theguardian.com/global-development/2025/nov/19/new-drug-could-be-breakthrough-killer-tb-tuberculosis-sorfequiline" target="_blank">New drug could be a breakthrough in treatment for killer TB, trial suggests</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-19 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca3/live/9e7fcd50-c51b-11f0-9129-896fa1393664.jpg" alt="Russian strike on flats kills 10 in one of deadliest attacks on western Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss" target="_blank">Russian strike on flats kills 10 in one of deadliest attacks on western Ukraine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-19 09:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/11/19/israeli-attack-on-refugee-camp-in-lebanon-opens-very-dangerous?traffic_source=rss" target="_blank">Israeli attack on refugee camp in Lebanon opens “very dangerous door”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-19 09:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/19/g-s1-98354/the-f-35-fighter-jet-trump-selling-saudi-arabia" target="_blank">What to know about the F-35 fighter jet that Trump is selling to Saudi Arabia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-19 09:11</span>
             </div>
         </div>
 </div>
@@ -168,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Xen-2025-GPU-Virt" target="_blank">AMD Continues Working On Xen GPU Virtualization Features - &quot;The Best Is Yet To Come&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-19 11:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/hidden-decisions/en/headerimage/Hidden-Decisions-Header-1763519047525.jpg" alt="The Decisions You Don&#x27;t Know You&#x27;re Making: QCon Keynote Explores Hidden Choices in Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/hidden-decisions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">The Decisions You Don&#x27;t Know You&#x27;re Making: QCon Keynote Explores Hidden Choices in Engineering</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-19 11:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F329991%2F11cf0248-ec4f-4417-856f-ba9b74d7a5a6.png" alt="My views dropped like a bag of bricks the last 2 - 3 weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,38 +216,6 @@
                 <span class="time">2025-11-19 06:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/open-source-developers-are-exhausted/" target="_blank">Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-19 05:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dehemi_fabio/react-concepts-explained-part-1-core-fundamentals-52kd" target="_blank">React Concepts Explained: Part 1 - Core Fundamentals</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-19 04:53</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/ai-and-voter-engagement.html" target="_blank">AI and Voter Engagement</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-18 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -247,6 +228,15 @@
                 <span class="title"><a href="https://gizmodo.com/zoox-robotaxi-san-francisco-2000687897" target="_blank">That Zoox Robotaxi Ride You’ve Been Clamoring for Is Now Available in San Francisco</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-19 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Schumer warns Trump: &quot;Can&#x27;t fuck around&quot; with Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/19/schumer-warns-trump-cant-fuck-around-with-epstein-files.html" target="_blank">Schumer warns Trump: &quot;Can&#x27;t fuck around&quot; with Epstein files</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-19 10:41</span>
             </div>
         </div>
 <div class="story">
@@ -283,15 +273,6 @@
                 <span class="title"><a href="https://gizmodo.com/apes-were-kissing-millions-of-years-before-humans-study-suggests-2000687184" target="_blank">Apes Were Kissing Millions of Years Before Humans, Study Suggests</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-19 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/grinch-1280x720.jpg" alt="Fallout Star Walton Goggins Must Need Money Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fallout-star-walton-goggins-walmart-ad-xmas-christmas-grinch-2000645299" target="_blank">Fallout Star Walton Goggins Must Need Money Bad</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-18 23:13</span>
             </div>
         </div>
 </div>
@@ -331,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
