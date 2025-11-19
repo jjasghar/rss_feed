@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 20:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-19 21:01:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/19/nx-s1-5614157/curacao-to-cape-verde-small-nations-make-big-world-cup-history" target="_blank">Curaçao to Cape Verde: Small nations make big World Cup history</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-19 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/james-comey-gty-jef-251119_1763576997176_hpMain_4x3t_384.jpg" alt="Trump&#x27;s words loom over Comey case as judge weighs tossing indictment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/trumps-words-loom-comey-case-judge-weighs-tossing/story?id=127677570" target="_blank">Trump&#x27;s words loom over Comey case as judge weighs tossing indictment</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-19 19:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +97,20 @@
                 <span class="time">2025-11-19 16:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b54/live/23634e70-c558-11f0-9fb5-5f3a3703a365.jpg" alt="Russian spy ship pointed lasers at RAF pilots tracking it, says defence secretary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx24028k7edo?at_medium=RSS&at_campaign=rss" target="_blank">Russian spy ship pointed lasers at RAF pilots tracking it, says defence secretary</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-19 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/deab3670-c530-11f0-bf7b-db7c049674ab.jpg" alt="Children among 25 killed in one of Russia&#x27;s deadliest strikes on western Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss" target="_blank">Children among 25 killed in one of Russia&#x27;s deadliest strikes on western Ukraine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-19 15:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/691e21f4d689d6dc432d4b24/master/pass/This%20Excellent%20LG%20OLED%20Is%20Deeply%20Discounted%20Before%20Black%20Friday.png" alt="This Excellent LG OLED Is Deeply Discounted Before Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lg-b5-oled-deal-1125/" target="_blank">This Excellent LG OLED Is Deeply Discounted Before Black Friday</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-19 20:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_3399-500x500.jpeg" alt="Testing shows Apple N1 Wi-Fi chip improves on older Broadcom chips in every way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +156,38 @@
                 <span class="time">2025-11-19 15:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/19/adobe-to-buy-semrush-for-1-9-billion/" target="_blank">Adobe to buy Semrush for $1.9 billion</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-19 15:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fst0q6xzb97zcitkfv2.png" alt="Optimize Python Sorting with One Little Trick" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tilalis/optimize-python-sorting-with-one-little-trick-2gb" target="_blank">Optimize Python Sorting with One Little Trick</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-19 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/" target="_blank">How we’re making GitHub Copilot smarter with fewer tools</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-11-19 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H" target="_blank">The Death of Arduino?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-19 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flq5yjz10v9lvrwwbk121.png" alt="Turbopack: A Better Way to Inline SVG in Next.js 16" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -173,46 +200,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/" target="_blank">Twenty years of Django releases</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-19 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://openai.com/index/gpt-5-1-codex-max/" target="_blank">Building more with GPT-5.1-Codex-Max</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-19 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18761192&w=600" alt="Good CI Is the Key to a Great Developer Onboarding Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/good-ci-great-developer-onboarding" target="_blank">Good CI Is the Key to a Great Developer Onboarding Experience</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-19 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/martin-fowler" target="_blank">How AI will change software engineering – with Martin Fowler</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-11-19 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/" target="_blank">How to write a great agents.md: Lessons from over 2,500 repositories</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-11-19 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://entropicthoughts.com/questions-for-cloudflare" target="_blank">Questions for Cloudflare</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-19 16:49</span>
             </div>
         </div>
 </div>
@@ -243,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/01/6caa39e6119d16c5b126dd46b4302592-1280x720.jpg" alt="The 21 Best Games For The Xbox Series X/S" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-best-games-for-the-xbox-series-x-and-s-1845727745" target="_blank">The 21 Best Games For The Xbox Series X/S</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-19 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2H1A3B8G90G4086BFREJDZ/hero-image.png" alt="Why You Shouldn’t Use ‘Buy Now, Pay Later’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/the-pros-and-cons-of-apple-pay-later?utm_medium=RSS" target="_blank">Why You Shouldn’t Use ‘Buy Now, Pay Later’</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-19 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/wolf-rayet-four-shells-1280x853.jpg" alt="Webb Captures a Stunning Cosmic Structure We’ve Never Seen Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/us-approves-1b-loan-to-restart-three-mile-island-as-microsoft-data-centers-drive-demand-2000688138" target="_blank">US Approves $1B Loan to Restart Three Mile Island, as Microsoft Data Centers Drive Demand</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-19 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/hlxtop-1280x720.jpg" alt="Why The Internet Thinks Half-Life 3 Is Being Announced Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/half-life-3-timeline-hype-leaks-clues-explained-release-date-november-trailer-2000645448" target="_blank">Why The Internet Thinks Half-Life 3 Is Being Announced Today</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-19 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KADVNP9RFN0P2HD107AW7271/hero-image.png" alt="The iPad Has Never Been More Like a Mac, but Can It Replace One?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-ipad-has-never-been-more-like-a-mac-but-can-it-replace-one?utm_medium=RSS" target="_blank">The iPad Has Never Been More Like a Mac, but Can It Replace One?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-19 16:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
