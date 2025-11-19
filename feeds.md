@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 08:02:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-19 09:01:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/788f/live/fc5ac0c0-c510-11f0-8303-a9a4889094b8.jpg" alt="Snow and ice hits with warnings of travel disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/weather/articles/cr43gv9zveyo?at_medium=RSS&at_campaign=rss" target="_blank">Snow and ice hits with warnings of travel disruption</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-19 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/china-to-suspend-imports-of-japanese-seafood-amid-diplomatic-row-reports?traffic_source=rss" target="_blank">China to suspend imports of Japanese seafood amid diplomatic row: Reports</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-19 08:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cqjw5g24rlyo?at_medium=RSS&at_campaign=rss" target="_blank">UK lacks plan to defend itself from invasion, MPs warn</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-19 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/scotland-beats-denmark-4-2-to-book-first-world-cup-spot-since-1998?traffic_source=rss" target="_blank">Scotland beats Denmark 4-2 to book first World Cup spot since 1998</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-19 03:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/russia-ukraine-war-list-of-key-events-day-1364?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,364</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-19 01:51</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F329991%2F11cf0248-ec4f-4417-856f-ba9b74d7a5a6.png" alt="My views dropped like a bag of bricks the last 2 - 3 weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/my-views-dropped-like-a-bag-of-bricks-the-last-2-3-weeks-50cn" target="_blank">My views dropped like a bag of bricks the last 2 - 3 weeks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-19 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/mastodon-ceo-steps-down/" target="_blank">After Nearly 10 Years of Building Mastodon, Eugen Rochko Steps Into Advisory Role</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-19 08:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/fsharp-10-performance/en/headerimage/header-1763334278826.jpg" alt="F# 10 Brings Performance Improvements" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -198,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/dehemi_fabio/react-concepts-explained-part-1-core-fundamentals-52kd" target="_blank">React Concepts Explained: Part 1 - Core Fundamentals</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-19 04:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ejoj4b6agabtassqxwm.png" alt="I Finally Achieved Automatic ID Card and Face Capture on Web Pages, Face Similarity Comparison Between Images and Videos, and..." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wintrover/i-finally-achieved-automatic-id-card-and-face-capture-on-web-pages-face-similarity-comparison-1e40" target="_blank">I Finally Achieved Automatic ID Card and Face Capture on Web Pages, Face Similarity Comparison Between Images and Videos, and...</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-19 03:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ikauedev/cloudflare-uma-plataforma-essencial-para-seguranca-desempenho-e-confiabilidade-na-web-2o2d" target="_blank">Cloudflare: Uma Plataforma Essencial para Segurança, Desempenho e Confiabilidade na Web</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-19 01:51</span>
             </div>
         </div>
 </div>
@@ -319,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
