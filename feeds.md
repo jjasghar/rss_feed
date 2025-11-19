@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 19:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-19 20:02:26 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +103,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_3399-500x500.jpeg" alt="Testing shows Apple N1 Wi-Fi chip improves on older Broadcom chips in every way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/testing-shows-apple-n1-wi-fi-chip-improves-on-older-broadcom-chips-in-every-way/" target="_blank">Testing shows Apple N1 Wi-Fi chip improves on older Broadcom chips in every way</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-19 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23769840/best-bluetooth-trackers" target="_blank">The best Bluetooth trackers for Apple and Android phones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-19 19:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -135,24 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/11/19/adobe-to-buy-semrush-for-1-9-billion/" target="_blank">Adobe to buy Semrush for $1.9 billion</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-19 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67ee7783db42cbaaeee04782/master/pass/Grovemade-Desk-(brown-solid-walnut)-Reviewer-Photo-SOURCE-Julian-Chokkattu-(no-border).jpg" alt="19 Best Mac Accessories (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-mac-accessories/" target="_blank">19 Best Mac Accessories (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-19 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691d003e6dccde5821e66581/master/pass/19%20Adventurous%20Gifts%20for%20Hikers,%20Backpackers,%20and%20Outdoorsy%20People.png" alt="Best Gifts for Hikers, Backpackers, Outdoorsy People (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/" target="_blank">Best Gifts for Hikers, Backpackers, Outdoorsy People (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-19 15:00</span>
             </div>
         </div>
 </div>
@@ -243,6 +244,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/wolf-rayet-four-shells-1280x853.jpg" alt="Webb Captures a Stunning Cosmic Structure We’ve Never Seen Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/webb-captures-a-stunning-cosmic-structure-weve-never-seen-before-2000688330" target="_blank">Webb Captures a Stunning Cosmic Structure We’ve Never Seen Before</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-19 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.00_31_19_12-1-1280x720.jpg" alt="A Newly Revealed Version Of One Of KPop Demon Hunters’ Most Popular Songs Is Messing With My Head" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-your-idol-saja-boys-demo-rumi-ejae-2000645529" target="_blank">A Newly Revealed Version Of One Of KPop Demon Hunters’ Most Popular Songs Is Messing With My Head</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-19 19:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KAEE7CPQXN6WDPTXHFTVT5YP/hero-image.jpg" alt="Use This New TikTok Tool to Control How Much AI Is in Your Feed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -276,24 +295,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/the-ipad-has-never-been-more-like-a-mac-but-can-it-replace-one?utm_medium=RSS" target="_blank">The iPad Has Never Been More Like a Mac, but Can It Replace One?</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-19 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Vegemite.-Photo-Jennifer-Sandlin-.jpg?fit=1080%2C978&amp;quality=60&amp;ssl=1" alt="Australian prisoner asserts human right to Vegemite" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/19/australian-prisoner-asserts-human-right-to-vegemite.html" target="_blank">Australian prisoner asserts human right to Vegemite</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-19 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Image-Chepesch-Shutterstock.jpg?fit=1080%2C768&amp;quality=60&amp;ssl=1" alt="Raccoons are self-domesticating and getting cuter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/19/raccoons-are-self-domesticating-and-getting-cuter.html" target="_blank">Raccoons are self-domesticating and getting cuter</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-19 14:30</span>
             </div>
         </div>
 </div>
@@ -333,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
