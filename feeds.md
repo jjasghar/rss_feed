@@ -1,44 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 06:02:19 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-19 07:01:54 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 35 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/19/nx-s1-5604813/marijuana-drinking-california-sober" target="_blank">Can weed help you drink less? Scientists study how well &#x27;California sober&#x27; works</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-19 05:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd02/live/ced1a470-c4ac-11f0-bf7b-db7c049674ab.jpg" alt="UK lacks plan to defend itself from invasion, MPs warn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -99,20 +100,20 @@
                 <span class="time">2025-11-19 00:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/18/congress-passes-bill-to-release-epstein-files-sending-measure-to-trump?traffic_source=rss" target="_blank">Congress passes bill to release ‘Epstein files’, sending measure to Trump</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-18 23:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/823265/meross-matter-thread-smart-presence-sensor-ms605-radar-mmwave" target="_blank">Meross’ radar presence sensor ditches the cord and adds Matter-over-Thread support</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-19 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,20 +159,20 @@
                 <span class="time">2025-11-18 22:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/18/tesla-receives-ride-hailing-permit-in-arizona-in-last-required-step-to-launch-robotaxi-service/" target="_blank">Tesla receives ride-hailing permit in Arizona in last required step to launch robotaxi service</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-18 22:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1f70pfenq733qjunh0ce.png" alt="C# Guide: Build Dynamic Word Files with Rich Formatting and Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/allen_yang_f905170c5a197b/c-guide-build-dynamic-word-files-with-rich-formatting-and-data-7hc" target="_blank">C# Guide: Build Dynamic Word Files with Rich Formatting and Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-19 06:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Vulkan-SER-Performance" target="_blank">Vulkan SER Showing Up To ~47% Performance Improvement For Ray-Tracing</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-19 01:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/xubuntu-bug-glitch.jpg?resize=406%2C232&amp;ssl=1" alt="Xubuntu Reveals How its Website Was Hijacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/xubuntu-website-breach-report" target="_blank">Xubuntu Reveals How its Website Was Hijacked</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-18 23:59</span>
             </div>
         </div>
 </div>
@@ -327,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
