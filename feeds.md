@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 13:11:10 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-19 14:01:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,12 +110,48 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/DGR-05-night-500x500.jpg" alt="An electric car that’s faster than F1 around Monaco? That’s the idea." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/11/an-electric-car-thats-faster-than-f1-around-monaco-thats-the-idea/" target="_blank">An electric car that’s faster than F1 around Monaco? That’s the idea.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-19 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/19/security-startup-guardio-nabs-80m-from-ion-crossover-partners/" target="_blank">Security startup Guardio nabs $80M from ION Crossover Partners</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-19 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/823788/europe-cookie-prompt-browser-changes-proposal" target="_blank">Europe&amp;#8217;s cookie nightmare is crumbling</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-19 13:28</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics" target="_blank">TikTok is letting users control how much AI content they see</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-19 13:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691b5784ee9530d182e88943/master/pass/gear-thruster.jpg" alt="Thrustmaster ESWAP X2 H.E. Controller Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/thrustmaster-eswap-x2-he-controller/" target="_blank">Thrustmaster ESWAP X2 H.E. Controller Review</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-19 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -121,47 +163,38 @@
                 <span class="time">2025-11-19 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero" target="_blank">AI, my unexpected daily travel companion</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-19 09:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="10% Off Canon Promo Codes | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/canon-promo-code/" target="_blank">10% Off Canon Promo Codes | November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-19 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/823265/meross-matter-thread-smart-presence-sensor-ms605-radar-mmwave" target="_blank">Meross’ radar presence sensor ditches the cord and adds Matter-over-Thread support</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-19 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/18/tiktok-will-now-give-you-badges-for-limiting-your-doomscrolling/" target="_blank">TikTok will now give you badges for limiting your doomscrolling</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-19 05:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abiji-2020/embedding-ai-inside-postgresql-building-a-native-c-extension-5b8b" target="_blank">Embedding AI Inside PostgreSQL : Building a Native C++ Extension.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-19 13:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/observability-layers/en/mediumimage/martha-lambert-medium-1762956856143.jpg" alt="Presentation: From Dashboard Soup to Observability Lasagna: Building Better Layers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/observability-layers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Dashboard Soup to Observability Lasagna: Building Better Layers</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-19 13:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18758911&w=600" alt="Faster Build &amp;amp; Test Loops, Better DevX" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/smarter-testing-better-devx" target="_blank">Faster Build &amp;amp; Test Loops, Better DevX</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-19 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +222,6 @@
                 <span class="time">2025-11-19 11:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/hidden-decisions/en/headerimage/Hidden-Decisions-Header-1763519047525.jpg" alt="The Decisions You Don&#x27;t Know You&#x27;re Making: QCon Keynote Explores Hidden Choices in Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/hidden-decisions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">The Decisions You Don&#x27;t Know You&#x27;re Making: QCon Keynote Explores Hidden Choices in Engineering</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-19 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/new-windows-ai-feature-can-be-tricked/" target="_blank">Microsoft&#x27;s New Windows AI Feature Comes With Warnings About Malware and Data Theft</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-19 11:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F329991%2F11cf0248-ec4f-4417-856f-ba9b74d7a5a6.png" alt="My views dropped like a bag of bricks the last 2 - 3 weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/my-views-dropped-like-a-bag-of-bricks-the-last-2-3-weeks-50cn" target="_blank">My views dropped like a bag of bricks the last 2 - 3 weeks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-19 08:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Apple-AirTag-4-Pack-1280x853.jpg" alt="If You Own an iPhone, Amazon Gives You 2 Free AirTags for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/if-you-own-an-iphone-amazon-gives-you-2-free-airtags-for-black-friday-2000645425" target="_blank">If You Own an iPhone, Amazon Gives You 2 Free AirTags for Black Friday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-19 13:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/zoox-1280x719.jpg" alt="That Zoox Robotaxi Ride You’ve Been Clamoring for Is Now Available in San Francisco" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +295,6 @@
                 <span class="time">2025-11-19 01:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/The-Kiss-1859-1280x853.jpg" alt="Apes Were Kissing Millions of Years Before Humans, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apes-were-kissing-millions-of-years-before-humans-study-suggests-2000687184" target="_blank">Apes Were Kissing Millions of Years Before Humans, Study Suggests</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-19 00:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
