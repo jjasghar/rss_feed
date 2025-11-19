@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 17:02:01 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-19 18:02:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/19/g-s1-98403/fire-japan-oita" target="_blank">A fire in southwestern Japan damages 170 homes and forces evacuations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-19 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/comey-gty-er-251118_1763492478230_hpMain_4x3t_384.jpg" alt="Judge grills government over apparent lapses in Comey indictment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/comey-seeks-indictment-dismissed-due-vindictive-prosecution/story?id=127643726" target="_blank">Judge grills government over apparent lapses in Comey indictment</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-19 17:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b54/live/23634e70-c558-11f0-9fb5-5f3a3703a365.jpg" alt="Russian spy ship pointed lasers at RAF pilots tracking it, says defence secretary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +95,6 @@
                 <span class="time">2025-11-19 12:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/19/g-s1-98136/world-toilet-day-sanitation-sewage" target="_blank">World Toilet Day is today! Um .. is that really the best name?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-19 12:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763554684784_tdy_news_7a_hallie_epstein_vote_passes_251119_1920x1080-bduayh.jpg" alt="Senate Agrees to Send Epstein Bill to Trump&#x27;s Desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/epstein-vote-passes-congress-trump-vows-to-sign-bill-252344901747" target="_blank">Senate Agrees to Send Epstein Bill to Trump&#x27;s Desk</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-19 12:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,6 +107,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/11/19/yc-backed-poly-relaunches-as-a-cloud-hosted-file-storage-with-ai-search/" target="_blank">YC-backed Poly relaunches as a cloud-hosted file storage with AI search</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/rebecca_heineman_1-500x500.jpg" alt="Celebrated game developer Rebecca Heineman dies at age 62" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/interplay-co-founder-and-pioneering-game-developer-rebecca-heineman-dies-at-62/" target="_blank">Celebrated game developer Rebecca Heineman dies at age 62</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-19 16:26</span>
             </div>
         </div>
 <div class="story">
@@ -147,20 +154,20 @@
                 <span class="time">2025-11-19 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/19/onepot-ai-raises-13m-to-help-make-chemical-drug-creation-easier/" target="_blank">Onepot AI raises $13M to help make chemical drug creation easier</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-19 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/martin-fowler" target="_blank">How AI will change software engineering – with Martin Fowler</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-11-19 17:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-New-GPU-IP-Graphics-12.1" target="_blank">AMD Begins Posting Open-Source Linux Patches For Their Next-Gen GPU IP</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-19 15:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Diamond-Rapids-EDAC-IMH" target="_blank">Intel &quot;imh_edac&quot; Driver Being Developed For New Memory Controller With Diamond Rapids</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-19 14:57</span>
             </div>
         </div>
 </div>
@@ -303,6 +301,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1763431888-20251119.png" alt="Saturday Morning Breakfast Cereal - Protagonist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/protagonist-2" target="_blank">Saturday Morning Breakfast Cereal - Protagonist</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-19 16:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -325,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
