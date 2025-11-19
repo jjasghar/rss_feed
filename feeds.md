@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 01:29:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-11-19 02:30:06 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,10 +48,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/18/nx-s1-5604412/redistricting-midterm-election-texas" target="_blank">Texas appeals ruling that Trump-urged voting map is racial gerrymandering</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-19 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/18/congress-passes-bill-to-release-epstein-files-sending-measure-to-trump?traffic_source=rss" target="_blank">Congress passes bill to release ‘Epstein files’, sending measure to Trump</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-18 23:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa78/live/feee31c0-c4a0-11f0-8aea-2f1dd0f97a88.jpg" alt="Congress approves bill to release Epstein files that will head to Trump&#x27;s desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxr1r34ev9o?at_medium=RSS&at_campaign=rss" target="_blank">Congress approves bill to release Epstein files that will head to Trump&#x27;s desk</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-18 23:45</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +99,29 @@
                 <span class="time">2025-11-18 21:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa4c/live/097590b0-c4c0-11f0-9c9c-e7c124d0f066.jpg" alt="Lebanon says Israeli strike killed 13 people near Palestinian refugee camp" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0l73j781y9o?at_medium=RSS&at_campaign=rss" target="_blank">Lebanon says Israeli strike killed 13 people near Palestinian refugee camp</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-18 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/18/g-s1-98262/ukraine-deportations-war" target="_blank">U.S. deports dozens of migrants to Ukraine amid war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-18 20:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/823711/cloudflare-outage-postmortem" target="_blank">Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-19 02:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/18/the-all-electric-jeep-recon-is-finally-here/" target="_blank">The all-electric Jeep Recon is finally here</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-19 02:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +158,38 @@
                 <span class="time">2025-11-18 22:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2209959270-500x500.jpg" alt="Meta wins monopoly trial, convinces judge that social networking is dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/meta-wins-monopoly-trial-convinces-judge-that-social-networking-is-dead/" target="_blank">Meta wins monopoly trial, convinces judge that social networking is dead</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-18 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/" target="_blank">Hugging Face CEO says we’re in an ‘LLM bubble,’ not an AI bubble</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-18 21:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ikauedev/cloudflare-uma-plataforma-essencial-para-seguranca-desempenho-e-confiabilidade-na-web-2o2d" target="_blank">Cloudflare: Uma Plataforma Essencial para Segurança, Desempenho e Confiabilidade na Web</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-19 01:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-SER-Performance" target="_blank">Vulkan SER Showing Up To ~47% Performance Improvement For Ray-Tracing</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-19 01:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/xubuntu-bug-glitch.jpg?resize=406%2C232&amp;ssl=1" alt="Xubuntu Reveals How its Website Was Hijacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/xubuntu-website-breach-report" target="_blank">Xubuntu Reveals How its Website Was Hijacked</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-18 23:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +217,6 @@
                 <span class="time">2025-11-18 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1726%2F1f5cc5bc-5f61-428d-9d35-ba0c39f8af2d.png" alt="amazing!!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elizabethfuentes12/amazing-2n1g" target="_blank">amazing!!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-18 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/gimp-3.2-1.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.2 Hits Release Candidate with Improved Text Editing + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/gimp-3-2-release-candidate-highlights" target="_blank">GIMP 3.2 Hits Release Candidate with Improved Text Editing + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-18 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-LASS-For-Linux-6.19" target="_blank">Intel LASS Feature Looks Like It Will Be Upstreamed For Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-18 19:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/elon-musk-nov.-18-2025-1280x833.jpg" alt="Trump Lovingly Pats Elon Musk on Stomach During Dinner at White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-pats-musk-2000687821" target="_blank">Trump Lovingly Pats Elon Musk on Stomach During Dinner at White House</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-19 01:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/The-Kiss-1859-1280x853.jpg" alt="Apes Were Kissing Millions of Years Before Humans, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +290,6 @@
                 <span class="time">2025-11-18 20:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/sabine-ahsoka-lightsaber-1280x853.jpg" alt="‘Star Wars: Rebels’ Writer Thinks Making Sabine a Jedi Was a Mistake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sabine-jedi-mistake-rebels-ahsoka-star-wars-2000687600" target="_blank">‘Star Wars: Rebels’ Writer Thinks Making Sabine a Jedi Was a Mistake</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-18 19:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
