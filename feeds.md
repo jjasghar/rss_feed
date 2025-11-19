@@ -1,34 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 05:02:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-19 06:02:19 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd02/live/ced1a470-c4ac-11f0-bf7b-db7c049674ab.jpg" alt="UK lacks plan to defend itself from invasion, MPs warn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqjw5g24rlyo?at_medium=RSS&at_campaign=rss" target="_blank">UK lacks plan to defend itself from invasion, MPs warn</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-19 04:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +106,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/18/congress-passes-bill-to-release-epstein-files-sending-measure-to-trump?traffic_source=rss" target="_blank">Congress passes bill to release ‘Epstein files’, sending measure to Trump</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-18 23:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa78/live/feee31c0-c4a0-11f0-8aea-2f1dd0f97a88.jpg" alt="Congress approves bill to release Epstein files that will head to Trump&#x27;s desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxr1r34ev9o?at_medium=RSS&at_campaign=rss" target="_blank">Congress approves bill to release Epstein files that will head to Trump&#x27;s desk</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-18 23:45</span>
             </div>
         </div>
 </div>
@@ -165,6 +175,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/open-source-developers-are-exhausted/" target="_blank">Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-19 05:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dehemi_fabio/react-concepts-explained-part-1-core-fundamentals-52kd" target="_blank">React Concepts Explained: Part 1 - Core Fundamentals</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +224,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/xubuntu-website-breach-report" target="_blank">Xubuntu Reveals How its Website Was Hijacked</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-11-18 23:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.cloudflare.com/18-november-2025-outage/" target="_blank">Cloudflare outage on November 18, 2025 post mortem</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-18 23:31</span>
             </div>
         </div>
 </div>
@@ -295,6 +305,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5704.png" alt="Another Mortifying Ordeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5704" target="_blank">Another Mortifying Ordeal</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-11-19 01:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1763431796-20251118.png" alt="Saturday Morning Breakfast Cereal - Stats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -308,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
