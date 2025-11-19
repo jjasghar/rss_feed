@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 09:01:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-19 10:01:49 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca3/live/9e7fcd50-c51b-11f0-9129-896fa1393664.jpg" alt="Russian strike on flats kills 10 in one of deadliest attacks on western Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss" target="_blank">Russian strike on flats kills 10 in one of deadliest attacks on western Ukraine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-19 09:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/11/19/israeli-attack-on-refugee-camp-in-lebanon-opens-very-dangerous?traffic_source=rss" target="_blank">Israeli attack on refugee camp in Lebanon opens “very dangerous door”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-19 09:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/19/g-s1-98354/the-f-35-fighter-jet-trump-selling-saudi-arabia" target="_blank">What to know about the F-35 fighter jet that Trump is selling to Saudi Arabia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-19 09:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/788f/live/fc5ac0c0-c510-11f0-8303-a9a4889094b8.jpg" alt="Snow and ice hits with warnings of travel disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,38 +99,20 @@
                 <span class="time">2025-11-19 07:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/19/g-s1-98349/israeli-airstrike-palestinian-refugee-camp-lebanon" target="_blank">Israeli airstrike on a Palestinian refugee camp in Lebanon kills 13 people</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-19 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/19/nx-s1-5604813/marijuana-drinking-california-sober" target="_blank">Can weed help you drink less? Scientists study how well &#x27;California sober&#x27; works</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-19 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd02/live/ced1a470-c4ac-11f0-bf7b-db7c049674ab.jpg" alt="UK lacks plan to defend itself from invasion, MPs warn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqjw5g24rlyo?at_medium=RSS&at_campaign=rss" target="_blank">UK lacks plan to defend itself from invasion, MPs warn</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-19 04:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero" target="_blank">AI, my unexpected daily travel companion</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-19 09:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="10% Off Canon Promo Codes | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -127,6 +134,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/18/tiktok-will-now-give-you-badges-for-limiting-your-doomscrolling/" target="_blank">TikTok will now give you badges for limiting your doomscrolling</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-19 05:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/823711/cloudflare-outage-postmortem" target="_blank">Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT</a></span>
                 <span class="feed">The Verge</span>
@@ -140,24 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/11/18/the-all-electric-jeep-recon-is-finally-here/" target="_blank">The all-electric Jeep Recon is finally here</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-19 02:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23674658/best-android-phone" target="_blank">The best Android phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-19 00:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/823562/cloudflare-outage-wake-up-call-websites" target="_blank">Cloudflare outages aren’t a matter of if — but when</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-18 22:58</span>
             </div>
         </div>
 </div>
@@ -239,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/08/RFKJR-1024x683.jpg" alt="RFK Jr. Announces $2 Million Prize for Anyone Who Can Help Him Cram AI Into the U.S. Healthcare System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rfk-2-million-prize-ai-healthcare-2000687874" target="_blank">RFK Jr. Announces $2 Million Prize for Anyone Who Can Help Him Cram AI Into the U.S. Healthcare System</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-19 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/elon-musk-nov.-18-2025-1280x833.jpg" alt="Trump Lovingly Pats Elon Musk on Stomach During Dinner at White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -283,20 +290,20 @@
                 <span class="time">2025-11-18 22:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9881Q5QYKJ9RPH9N2WWY4PH/hero-image.jpg" alt="All the New Features Coming to iOS 26.2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/new-features-coming-to-ios-262?utm_medium=RSS" target="_blank">All the New Features Coming to iOS 26.2</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-18 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/19/value-prop" target="_blank">Value Prop</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-19 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5704.png" alt="Another Mortifying Ordeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -320,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
