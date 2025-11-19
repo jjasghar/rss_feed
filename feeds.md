@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 18:02:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-19 19:01:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/its-israeli-policy-report-reveals-abuse-of-palestinians-in-prisons?traffic_source=rss" target="_blank">‘It’s Israeli policy’: Report reveals abuse of Palestinians in prisons</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-19 18:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -60,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-gaza-israel-palestine_7086140.jpg?20251119162157" alt="On the ground in Gaza: A landscape of complete devastation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/patchwork-of-dust-and-misery-at-the-yellow-line-dividing-gaza-where-all-that-remains-are-skeletons-of-buildings-13472870" target="_blank">On the ground in Gaza: A landscape of complete devastation</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-19 16:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b54/live/23634e70-c558-11f0-9fb5-5f3a3703a365.jpg" alt="Russian spy ship pointed lasers at RAF pilots tracking it, says defence secretary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -75,24 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss" target="_blank">Children among 25 killed in one of Russia&#x27;s deadliest strikes on western Ukraine</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-19 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/19/gunmen-attack-nigeria-church-killing-and-kidnapping-worshippers?traffic_source=rss" target="_blank">Gunmen attack Nigeria church, killing and kidnapping worshippers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-19 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/restricted-did-us-troops-try-to-cordon-off-a-mexican-beach?traffic_source=rss" target="_blank">‘Restricted’: Did US troops try to cordon off a Mexican beach?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-19 12:58</span>
             </div>
         </div>
 </div>
@@ -160,6 +161,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flq5yjz10v9lvrwwbk121.png" alt="Turbopack: A Better Way to Inline SVG in Next.js 16" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vitalets/turbopack-a-better-way-to-inline-svg-in-nextjs-16-36em" target="_blank">Turbopack: A Better Way to Inline SVG in Next.js 16</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-19 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/gpt-5-1-codex-max/" target="_blank">Building more with GPT-5.1-Codex-Max</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-19 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18761192&w=600" alt="Good CI Is the Key to a Great Developer Onboarding Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/good-ci-great-developer-onboarding" target="_blank">Good CI Is the Key to a Great Developer Onboarding Experience</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-19 18:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-wrench"></span>
@@ -184,33 +212,6 @@
                 <span class="title"><a href="https://entropicthoughts.com/questions-for-cloudflare" target="_blank">Questions for Cloudflare</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-19 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/threadripper-7980x-2025" target="_blank">AMD Threadripper 7980X Performance On Linux Two Years After Release</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-19 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18761170&w=600" alt="Why Your Architecture Team Is Slow (And It&#x27;s Not the Technology)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-your-architecture-team-is-slow" target="_blank">Why Your Architecture Team Is Slow (And It&#x27;s Not the Technology)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-19 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-New-GPU-IP-Graphics-12.1" target="_blank">AMD Begins Posting Open-Source Linux Patches For Their Next-Gen GPU IP</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-19 15:31</span>
             </div>
         </div>
 </div>
@@ -241,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAEE7CPQXN6WDPTXHFTVT5YP/hero-image.jpg" alt="Use This New TikTok Tool to Control How Much AI Is in Your Feed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/tool-to-remove-ai-content-from-your-tiktok-feed?utm_medium=RSS" target="_blank">Use This New TikTok Tool to Control How Much AI Is in Your Feed</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-19 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/10/Nuclearpower-1024x683.jpg" alt="US Approves $1B Loan to Restart Three Mile Island, as Microsoft Data Centers Drive Demand" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +296,6 @@
                 <span class="time">2025-11-19 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KA9PW4Z5VY57EFVXPSMQ9X88/hero-image.jpg" alt="Watch Out for These Health Insurance Scams During Open Enrollment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/health-insurance-scams-open-enrollment?utm_medium=RSS" target="_blank">Watch Out for These Health Insurance Scams During Open Enrollment</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-19 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
