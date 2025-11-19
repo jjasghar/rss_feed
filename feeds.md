@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 12:02:37 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-11-19 13:11:10 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, November 19, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/restricted-did-us-troops-try-to-cordon-off-a-mexican-beach?traffic_source=rss" target="_blank">‘Restricted’: Did US troops try to cordon off a Mexican beach?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-19 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/19/g-s1-98136/world-toilet-day-sanitation-sewage" target="_blank">World Toilet Day is today! Um .. is that really the best name?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-19 12:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c57/live/4531dfe0-b8a0-11f0-ba75-093eca1ac29b.jpg" alt="Man accused of train stabbings faces more charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2dr9d7p102o?at_medium=RSS&at_campaign=rss" target="_blank">Man accused of train stabbings faces more charges</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-19 12:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +98,29 @@
                 <span class="time">2025-11-19 11:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/john-thune-gty-gmh-251118_1763512208999_hpMain_4x3t_384.jpg" alt="Senate expected to send Epstein files bill to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/senate-expected-send-epstein-files-bill-trump/story?id=127652257" target="_blank">Senate expected to send Epstein files bill to Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-19 10:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/deab3670-c530-11f0-bf7b-db7c049674ab.jpg" alt="Russian attack hits flats in one of deadliest strikes on western Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss" target="_blank">Russian attack hits flats in one of deadliest strikes on western Ukraine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-19 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/nov/19/new-drug-could-be-breakthrough-killer-tb-tuberculosis-sorfequiline" target="_blank">New drug could be a breakthrough in treatment for killer TB, trial suggests</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-19 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics" target="_blank">TikTok is letting users control how much AI content they see</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-19 13:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/19/credit-risk-automation-platform-kaaj-raises-3-8m-seed-from-kindred-ventures/" target="_blank">Credit risk automation platform Kaaj raises $3.8M seed from Kindred Ventures</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-19 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +157,29 @@
                 <span class="time">2025-11-19 05:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/823711/cloudflare-outage-postmortem" target="_blank">Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-19 02:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/18/the-all-electric-jeep-recon-is-finally-here/" target="_blank">The all-electric Jeep Recon is finally here</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-19 02:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://eagledot.xyz/hachi.md.html" target="_blank">Hachi:  An Image search engine</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-19 12:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18694812&w=600" alt="Meta Data: How Data about Your Data is Optimal for AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/meta-data-how-data-about-your-data-is-optimal-for-AI" target="_blank">Meta Data: How Data about Your Data is Optimal for AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-19 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,6 +199,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/new-windows-ai-feature-can-be-tricked/" target="_blank">Microsoft&#x27;s New Windows AI Feature Comes With Warnings About Malware and Data Theft</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-19 11:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F329991%2F11cf0248-ec4f-4417-856f-ba9b74d7a5a6.png" alt="My views dropped like a bag of bricks the last 2 - 3 weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -189,31 +216,18 @@
                 <span class="time">2025-11-19 08:48</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/mastodon-ceo-steps-down/" target="_blank">After Nearly 10 Years of Building Mastodon, Eugen Rochko Steps Into Advisory Role</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-19 08:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/fsharp-10-performance/en/headerimage/header-1763334278826.jpg" alt="F# 10 Brings Performance Improvements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/fsharp-10-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">F# 10 Brings Performance Improvements</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-19 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1f70pfenq733qjunh0ce.png" alt="C# Guide: Build Dynamic Word Files with Rich Formatting and Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/allen_yang_f905170c5a197b/c-guide-build-dynamic-word-files-with-rich-formatting-and-data-7hc" target="_blank">C# Guide: Build Dynamic Word Files with Rich Formatting and Data</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-19 06:50</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html" target="_blank">Legal Restrictions on Vulnerability Disclosure</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-19 12:04</span>
             </div>
         </div>
 </div>
@@ -312,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
