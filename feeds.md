@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 19:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-20 20:01:58 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/adam-schiff-gty-jef-251117_1763405634767_hpMain_4x3t_384.jpg" alt="DOJ, FBI probing top Trump officials over investigations of president&#x27;s foes: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/doj-fbi-probing-top-trump-administration-officials-investigations/story?id=127602305" target="_blank">DOJ, FBI probing top Trump officials over investigations of president&#x27;s foes: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-20 19:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/20/nx-s1-5615060/byheart-baby-formula-botulism-recall" target="_blank">Recalled baby formula linked to a botulism outbreak may still be in some stores</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-20 19:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/7d2b1c00-c63c-11f0-8c98-11fe43704bb5.jpg" alt="Zelensky to speak with Trump after US proposes Russia-Ukraine peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +99,29 @@
                 <span class="time">2025-11-20 17:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/james-comey-rt-jef-251120_1763655111182_hpMain_4x3t_384.jpg" alt="DOJ, Halligan slam judge in Comey case following hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/doj-halligan-slam-judge-comey-case-hearing/story?id=127709589" target="_blank">DOJ, Halligan slam judge in Comey case following hearing</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-20 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/20/syria-condemns-netanyahus-visit-to-occupied-territory?traffic_source=rss" target="_blank">Syria condemns Netanyahu’s visit to occupied territory</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-20 16:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/823523/sonos-black-friday-deals-soundbar-speaker-sale-2025" target="_blank">You can get up to 30 percent off Sonos speakers and soundbars right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-20 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/20/salesforce-says-some-of-its-customers-data-was-accessed-after-gainsight-breach/" target="_blank">Salesforce says some of its customers’ data was accessed after Gainsight breach</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-20 19:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +156,6 @@
                 <span class="title"><a href="https://arstechnica.com/gaming/2025/11/googles-latest-swing-at-chromebook-gaming-is-a-free-year-of-geforce-now/" target="_blank">Google’s latest swing at Chromebook gaming is a free year of GeForce Now</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-20 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/824940/chromebooks-nvidia-geforce-now-fast-pass-free-year" target="_blank">New Chromebooks will come with a year of Nvidia&amp;#8217;s cloud gaming &amp;#8216;fast pass&amp;#8217;</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-20 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/nano-banana-pro-500x500.png" alt="Google’s new Nano Banana Pro uses Gemini 3 power to generate more realistic AI images" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2025/11/google-launches-nano-banana-pro-image-model-adds-ai-image-detection-in-gemini-app/" target="_blank">Google’s new Nano Banana Pro uses Gemini 3 power to generate more realistic AI images</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-20 16:33</span>
             </div>
         </div>
 </div>
@@ -226,6 +225,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/" target="_blank">Mozilla Says It’s Finally Done With Two-Faced Onerep</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-11-20 19:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/scam-usps-and-e-z-pass-texts-and-websites.html" target="_blank">Scam USPS and E-Z Pass Texts and Websites</a></span>
                 <span class="feed">Schneier on Security</span>
@@ -237,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/arcmain4-1280x720.jpg" alt="Monster Handgun Wrecking Everyone In Arc Raiders Has Been Put In Nerf Jail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arc-raiders-embark-studios-1-3-0-venerator-wall-key-2000645901" target="_blank">Monster Handgun Wrecking Everyone In Arc Raiders Has Been Put In Nerf Jail</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-20 19:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/theia-slamming-into-Earth-1280x853.jpg" alt="We Finally Know the Birthplace of the Mars-Sized Rock That Spawned Our Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,30 +282,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/1min.AI-Lifetime-Subscription-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get the benefits of AI without the training — now for almost 90% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/20/get-the-benefits-of-ai-without-the-training-now-for-almost-90-off.html" target="_blank">Get the benefits of AI without the training — now for almost 90% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-20 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/CrucialP510-1280x853.jpg" alt="Crucial P510 SSD With Heatsink Deal Makes Storage Cost Pennies, PC and PS5 Upgrades Feel Basically Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/unlock-crazy-fast-load-times-on-your-gaming-pc-or-upgrade-your-ps5-storage-by-2tb-with-this-crucial-internal-ssd-for-60-off-2000645621" target="_blank">Crucial P510 SSD With Heatsink Deal Makes Storage Cost Pennies, PC and PS5 Upgrades Feel Basically Free</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-20 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Screenshot-2025-11-20-at-10.21.42 AM-e1763656622133-1280x853.jpg" alt="Google Launches Updated Image Generation Model Nano Banana Pro, Free to Try" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/google-launches-updated-image-generation-model-nano-banana-pro-free-to-try-2000688979" target="_blank">Google Launches Updated Image Generation Model Nano Banana Pro, Free to Try</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-20 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H4YKF9VWRN57JKZGD7GC2/hero-image.png" alt="How Often You Need to Order From Amazon for a Prime Subscription to Be Worth It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/is-amazon-prime-worth-it?utm_medium=RSS" target="_blank">How Often You Need to Order From Amazon for a Prime Subscription to Be Worth It</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-20 16:30</span>
             </div>
         </div>
 </div>
@@ -310,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 148 | 📡 Total Sources: 40 | 📸 With Images: 285 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
