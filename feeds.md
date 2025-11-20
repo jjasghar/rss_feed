@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 00:04:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-20 01:29:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/19/g-s1-98459/trump-administration-endangered-species-act-blanket-rule" target="_blank">Trump administration seeks to roll back protections for imperiled species and habitat</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-19 23:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +101,29 @@
                 <span class="time">2025-11-19 20:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/james-comey-gty-jef-251119_1763576997176_hpMain_4x3t_384.jpg" alt="Trump&#x27;s words loom over Comey case as judge weighs tossing indictment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trumps-words-loom-comey-case-judge-weighs-tossing/story?id=127677570" target="_blank">Trump&#x27;s words loom over Comey case as judge weighs tossing indictment</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-19 19:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/691cbe7e6c9e033305e9f35a/master/pass/Nvidia-Earnnings-Blackwell-AI-Chip-Business-2244922892.jpg" alt="Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nvidia-third-quarter-2026-earnings/" target="_blank">Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-20 00:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws" target="_blank">Here’s the Trump executive order that would ban state AI laws</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-19 23:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +160,29 @@
                 <span class="time">2025-11-19 19:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23769840/best-bluetooth-trackers" target="_blank">The best Bluetooth trackers for Apple and Android phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-19 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/19/yc-backed-poly-relaunches-as-a-cloud-hosted-file-storage-with-ai-search/" target="_blank">YC-backed Poly relaunches as a cloud-hosted file storage with AI search</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-19 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish" target="_blank">Jailbreaking AI Models to Phish Elderly Victims</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-20 00:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Tyr-Begins-Handling-Work" target="_blank">Rust-Based Arm GPU Kernel Driver &quot;Tyr&quot; Begins Running GNOME &amp; Basic Games</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-19 23:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +219,6 @@
                 <span class="time">2025-11-19 19:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flq5yjz10v9lvrwwbk121.png" alt="Turbopack: A Better Way to Inline SVG in Next.js 16" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vitalets/turbopack-a-better-way-to-inline-svg-in-nextjs-16-36em" target="_blank">Turbopack: A Better Way to Inline SVG in Next.js 16</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-19 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/" target="_blank">Twenty years of Django releases</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-19 18:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/govee-floor-lamp-basic-1280x853.jpg" alt="Govee Dumps Color Floor Lamps, Now Selling at New All-Time Low for Prime Members" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/govee-dumps-color-floor-lamps-now-selling-at-new-all-time-low-for-prime-members-2000645559" target="_blank">Govee Dumps Color Floor Lamps, Now Selling at New All-Time Low for Prime Members</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-20 00:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/11/4f3f78eb88f862e766cfb0b8cfc12b18-1024x577.jpg" alt="Yann LeCun Leaves Meta to Create ‘Independent Entity’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/yann-lecun-leaves-meta-to-create-independent-entity-2000687915" target="_blank">Yann LeCun Leaves Meta to Create ‘Independent Entity’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-20 00:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/harry-potter-hogwarts-caste-lego-set-1280x853.jpg" alt="LEGO Goes Big on Harry Potter With Major Deal, Hogwarts Castle Set Now Costs Pocket Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +299,6 @@
                 <span class="title"><a href="https://lifehacker.com/best-amazon-prime-benefits?utm_medium=RSS" target="_blank">The Best Amazon Prime Benefits You Probably Don&#x27;t Know About</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-19 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAEX1Z2B86QFZYC25F0AJ7BA/hero-image.png" alt="Why I&#x27;m Not Using NotebookLM&#x27;s &#x27;Deep Research&#x27; Tool (and Why You Shouldn&#x27;t Either)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-notebooklm-deep-research-tool?utm_medium=RSS" target="_blank">Why I&#x27;m Not Using NotebookLM&#x27;s &#x27;Deep Research&#x27; Tool (and Why You Shouldn&#x27;t Either)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-19 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/01/6caa39e6119d16c5b126dd46b4302592-1280x720.jpg" alt="The 21 Best Games For The Xbox Series X/S" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-best-games-for-the-xbox-series-x-and-s-1845727745" target="_blank">The 21 Best Games For The Xbox Series X/S</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-19 20:45</span>
             </div>
         </div>
 </div>
@@ -346,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
