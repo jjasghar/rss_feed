@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 15:01:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-20 16:01:39 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/20/video-shows-palestinian-child-after-shooting-by-israeli-forces?traffic_source=rss" target="_blank">Video shows Palestinian child after shooting by Israeli forces</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-20 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/20/g-s1-98250/germany-munich-surfing-eisbach-eisbachwelle-e1-wave" target="_blank">Surf&#x27;s down! Munich, until now an inland surfing hotspot, has lost its biggest wave</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-20 15:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/construction-workers-gty-jt-251119_1763586704735_hpMain_4x3t_384.jpg" alt="Jobs report blows past expectations, defying hiring slowdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/long-delayed-jobs-report-show-hiring-amid-wobbly/story?id=127668400" target="_blank">Jobs report blows past expectations, defying hiring slowdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-20 14:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763647817664_now_mnn_sept_jobs_report_251120_1920x1080-f8re6g.jpg" alt="September jobs report shows economy added 119k jobs, unemployment at 4.4%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/september-jobs-report-shows-economy-added-119k-jobs-unemployment-at-4-4-252436549939" target="_blank">September jobs report shows economy added 119k jobs, unemployment at 4.4%</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-20 14:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aaf/live/0023a660-c613-11f0-bac6-252b1f2b7e52.jpg" alt="Some migrants to face 20 year wait for settled status" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,47 +94,20 @@
                 <span class="time">2025-11-20 13:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/20/g-s1-98494/up-first-newsletter-james-comey-epstein-files-nvidia" target="_blank">DOJ case against Comey faces troubles. And, powerful figures in latest Epstein docs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-20 11:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d658/live/eea590e0-c5f6-11f0-8c06-f5d460985095.jpg" alt="US military officials in Kyiv as Europe warns against reported Russia peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss" target="_blank">US military officials in Kyiv as Europe warns against reported Russia peace plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-20 11:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d517/live/07a9a680-a28a-11ef-bdf5-b7cb2fa86e10.png" alt="Rapist ex-Met officer given another life sentence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy0y075nyw8o?at_medium=RSS&at_campaign=rss" target="_blank">Rapist ex-Met officer given another life sentence</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-20 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/20/us-justice-department-commits-to-release-epstein-files-in-30-days?traffic_source=rss" target="_blank">US Justice Department commits to release Epstein files in 30 days</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-20 11:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/691ea2775387aadb4a80b4fe/master/pass/The%20Best%20N95,%20KF94,%20and%20KN95%20Face%20Masks%20for%20Every%20Use.png" alt="The Best N95, KF94, and KN95 Face Masks (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/" target="_blank">The Best N95, KF94, and KN95 Face Masks (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-20 15:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +151,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2025/11/attack-defend-pursue-the-space-forces-new-naming-scheme-foretells-new-era/" target="_blank">Attack, defend, pursue—the Space Force’s new naming scheme foretells new era</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-20 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691cbbd3c32b98bfa2a4ae31/master/pass/Science_Paradromics.jpg" alt="Paradromics Gets FDA Approval to Trial Its Brain Implant in People" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/paradromics-gets-fda-approval-to-trial-its-brain-implant-in-people/" target="_blank">Paradromics Gets FDA Approval to Trial Its Brain Implant in People</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-20 13:00</span>
             </div>
         </div>
 </div>
@@ -242,6 +232,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/3a3f1c9c6078d3260b48e6fe2e59c0a0-1280x720.jpg" alt="Battlefield 6 Is Already Toppling Some Call Of Duty Records" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/battlefield-6-sales-black-ops-7-charts-2000645794" target="_blank">Battlefield 6 Is Already Toppling Some Call Of Duty Records</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-20 15:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/roborock-bf-saros10r-1280x853.jpg" alt="Roborock’s Elite Robot Vacuum and Mop Drops $600, Saros 10R Hits New Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -286,15 +285,6 @@
                 <span class="time">2025-11-20 12:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/Fortnite-Kill-Bill-1280x720.jpg" alt="Fortnite’s About To Get Its Weirdest Crossover Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fortnite-kill-bill-yukis-revenge-lost-chapter-tarantino-2000645687" target="_blank">Fortnite’s About To Get Its Weirdest Crossover Ever</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-20 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
