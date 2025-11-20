@@ -1,46 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 05:02:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-20 06:02:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 37 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/20/g-s1-98477/trump-signed-bill-releasing-epstein-files" target="_blank">What&#x27;s next now that Trump has signed a bill releasing the Epstein files</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-20 05:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -101,20 +104,20 @@
                 <span class="time">2025-11-20 01:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/19/g-s1-98459/trump-administration-endangered-species-act-blanket-rule" target="_blank">Trump administration seeks to roll back protections for imperiled species and habitat</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-19 23:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" alt="Google Workspace Promo Code: Up to 14% Off in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-workspace-promo-code/" target="_blank">Google Workspace Promo Code: Up to 14% Off in 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-20 06:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/jackson1-500x500.jpg" alt="Study: Kids’ drip paintings more like Pollock’s than those of adults" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -160,20 +163,20 @@
                 <span class="time">2025-11-19 23:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/1763499309592-500x500.webp" alt="“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/" target="_blank">“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-19 22:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fize4hx7nz44q7ytqezfr.png" alt="VitePress debug: &quot;frontmatter.title&quot; is appearing in search results" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ahandsel/vitepress-debug-frontmattertitle-is-appearing-in-search-results-k60" target="_blank">VitePress debug: &quot;frontmatter.title&quot; is appearing in search results</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-20 05:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -217,15 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-MEMINSPECT-Patches" target="_blank">MEMINSPECT Proposed For The Linux Kernel To Help In Memory Analysis / Debugging</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-20 01:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish" target="_blank">Jailbreaking AI Models to Phish Elderly Victims</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-20 00:32</span>
             </div>
         </div>
 </div>
@@ -347,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
