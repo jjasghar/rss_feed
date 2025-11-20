@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 03:19:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-20 04:01:51 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 03:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/20/uk-accuses-russian-spy-ship-of-pointing-lasers-at-pilots-watching-vessel?traffic_source=rss" target="_blank">UK accuses Russian spy ship of pointing lasers at pilots watching vessel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-20 02:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763606530044_now_staytuned_trump_epstein_files_251119_1920x1080-jlae0p.jpg" alt="President Trump signs bill to release Justice Department&#x27;s Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/president-trump-signs-bill-to-release-justice-department-s-epstein-files-252411973966" target="_blank">President Trump signs bill to release Justice Department&#x27;s Epstein files</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-20 02:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef2/live/5c250f30-c555-11f0-a1c2-758f53fd6195.jpg" alt="Trump signs bill ordering justice department to release Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/19/g-s1-98459/trump-administration-endangered-species-act-blanket-rule" target="_blank">Trump administration seeks to roll back protections for imperiled species and habitat</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-19 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/syria-condemns-israeli-pm-netanyahus-illegal-visit-to-seized-territory?traffic_source=rss" target="_blank">Syria condemns Israeli PM Netanyahu’s ‘illegal visit’ to seized territory</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-19 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/family-demands-independent-medical-care-for-us-teen-detained-by-israel?traffic_source=rss" target="_blank">Family demands independent medical care for US teen detained by Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-19 22:39</span>
             </div>
         </div>
 </div>
@@ -167,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-47/" target="_blank">FOSS Weekly #25.47: AI Mode in Firefox, Nitrux 5, GNOME Panel, Rust Alternative Commands and More Linux Stuff</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-20 03:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq7khq6knyflld4ncfpwt.png" alt="The Difference Between Unrestricted and Restricted Integer Partitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +214,6 @@
                 <span class="title"><a href="https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/" target="_blank">Verifying your Matrix devices is becoming mandatory</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-20 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Tyr-Begins-Handling-Work" target="_blank">Rust-Based Arm GPU Kernel Driver &quot;Tyr&quot; Begins Running GNOME &amp; Basic Games</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-19 23:38</span>
             </div>
         </div>
 </div>
@@ -267,6 +263,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Screenshot.jpg?fit=1080%2C703&amp;quality=60&amp;ssl=1" alt="Brutalist website criticizes cardboard box giant Uline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/19/brutalist-website-criticizes-cardboard-box-giant-uline.html" target="_blank">Brutalist website criticizes cardboard box giant Uline</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-20 00:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/harry-potter-hogwarts-caste-lego-set-1280x853.jpg" alt="LEGO Goes Big on Harry Potter With Major Deal, Hogwarts Castle Set Now Costs Pocket Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -291,15 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/black-ops-7s-best-part-wont-be-locked-behind-its-worst-part-for-much-longer-2000645605" target="_blank">Black Ops 7′s Best Part Won’t Be Locked Behind Its Worst Part For Much Longer</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-19 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_1330325540.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="The New Pornographers to keep name after drummer&#x27;s child pornography arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/19/the-new-pornographers-to-keep-name-after-drummers-child-pornography-arrest.html" target="_blank">The New Pornographers to keep name after drummer&#x27;s child pornography arrest</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-19 22:49</span>
             </div>
         </div>
 </div>
@@ -339,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 03:19 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
