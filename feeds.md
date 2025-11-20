@@ -1,27 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 14:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-20 15:01:55 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 19 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aaf/live/0023a660-c613-11f0-bac6-252b1f2b7e52.jpg" alt="Some migrants to face 20 year wait for settled status" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3w9wlney23o?at_medium=RSS&at_campaign=rss" target="_blank">Some migrants to face 20 year wait for settled status</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-20 14:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,20 +104,38 @@
                 <span class="time">2025-11-20 11:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Sky-Roberts-gty-gmh-251118_1763480992914_hpMain_4x3t_384.jpg" alt="After Trump signs Epstein files bill, focus shifts to release timeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/after-trump-signs-epstein-files-bill-focus-shifts/story?id=127700652" target="_blank">After Trump signs Epstein files bill, focus shifts to release timeline</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-20 11:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/20/another-fire-breaks-out-at-aluminum-plant-that-supplies-ford/" target="_blank">Another fire breaks out at aluminum plant that supplies Ford</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-20 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/824785/google-nano-banana-pro-try-free-examples-prices" target="_blank">Google&amp;#8217;s Nano Banana AI image model goes Pro and is free to try</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-20 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a7a913ababd253d6b1768f/master/pass/Google%20Pixel%2010%20Series%20SOURCE%20Julian%20Chokkattu.jpg" alt="The Best Google Pixel Phones of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-google-pixel-phone/" target="_blank">The Best Google Pixel Phones of 2025, Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-20 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -123,38 +163,47 @@
                 <span class="time">2025-11-20 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/emoticon_hero_2-500x500.jpg" alt="In 1982, a physics joke gone wrong sparked the invention of the emoticon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/in-1982-a-physics-joke-gone-wrong-sparked-the-invention-of-the-emoticon/" target="_blank">In 1982, a physics joke gone wrong sparked the invention of the emoticon</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-20 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/672938b755735f182d5c87d6/master/pass/Digital-Giftcards-Presents-GEAR-2M7H85F.jpg" alt="The Best Online Gift Cards and Digital Gift Ideas (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gift-cards-and-digital-gift-ideas/" target="_blank">The Best Online Gift Cards and Digital Gift Ideas (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-20 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/20/uber-eats-will-use-starship-sidewalk-robots-to-deliver-food-in-the-uk/" target="_blank">Uber Eats will use Starship sidewalk robots to deliver food in the UK</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-20 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68nwe1qfzagws1851u2f.png" alt="How AI Agents in Cybersecurity Are Revolutionizing AppSec" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/clouddefenseai/how-ai-agents-in-cybersecurity-are-revolutionizing-appsec-5e4m" target="_blank">How AI Agents in Cybersecurity Are Revolutionizing AppSec</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-20 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://taylor.town/iq-not-enough" target="_blank">210 IQ Is Not Enough</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-20 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Google Announces Gemini 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/google-gemini-3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Announces Gemini 3</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-20 14:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18762881&w=600" alt="Why Internal Tools Waste So Much Engineering Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-internal-tools-waste-so-much-engineering-time" target="_blank">Why Internal Tools Waste So Much Engineering Time</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-20 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/developer-experience-load-autonomy/en/mediumimage/infoqlive-540x400-1763459708793.jpg" alt="Presentation: The Architecture of Developer Experience: Where Product, Platform, and Operations Meet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -173,42 +222,6 @@
                 <span class="time">2025-11-20 12:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/aws-lambda-rust-support-ga/en/headerimage/generatedHeaderImage-1763519467007.jpg" alt="AWS Lambda Rust Support Reaches General Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/aws-lambda-rust-support-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Lambda Rust Support Reaches General Availability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-20 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/cranberry-soss/" target="_blank">Deploy Your Thanksgiving Dinner with Cranberry sOSS</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-20 11:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rushier/docker-deserves-a-place-beside-git-heres-why-3444" target="_blank">🐳 Docker Deserves a Place Beside Git — Here’s Why</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-20 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Boot42-Nova-Linux-6.19" target="_blank">Linux 6.19 Nova Driver Landing Boot42 Support For Next-Gen NVIDIA GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-20 11:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -217,10 +230,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/" target="_blank">The Cloudflare Outage May Be a Security Roadmap</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-11-19 14:07</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/scam-usps-and-e-z-pass-texts-and-websites.html" target="_blank">Scam USPS and E-Z Pass Texts and Websites</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-20 12:07</span>
             </div>
         </div>
 </div>
@@ -228,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/roborock-bf-saros10r-1280x853.jpg" alt="Roborock’s Elite Robot Vacuum and Mop Drops $600, Saros 10R Hits New Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/roborocks-elite-robot-vacuum-and-mop-drops-600-saros-10r-hits-new-record-low-2000685664" target="_blank">Roborock’s Elite Robot Vacuum and Mop Drops $600, Saros 10R Hits New Record Low</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-20 14:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/GooglePixelWatch4-1280x853.jpg" alt="Google Is Practically Giving Away the Pixel Watch 4, Zero-Margin Black Friday Play on a 2025 Smartwatch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +295,6 @@
                 <span class="time">2025-11-20 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/9e85e3d9d546d8f4098426ef8fab9c1c_870x1000.jpg?fit=770%2C460&amp;quality=60&amp;ssl=1" alt="Ferry runs aground while helmsman &quot;distracted by phone&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/20/ferry-runs-aground-while-helmsman-distracted-by-phone.html" target="_blank">Ferry runs aground while helmsman &quot;distracted by phone&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-20 11:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
