@@ -1,6 +1,5 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 10:01:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-20 11:01:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
@@ -8,32 +7,36 @@
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/20/nx-s1-5611148/plastic-pollution-ocean-animals-seabirds-turtles-research" target="_blank">Eating just a handful of plastic can be fatal for marine animals, a study finds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-20 10:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +106,20 @@
                 <span class="time">2025-11-20 02:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef2/live/5c250f30-c555-11f0-a1c2-758f53fd6195.jpg" alt="Trump signs bill ordering justice department to release Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss" target="_blank">Trump signs bill ordering justice department to release Epstein files</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-20 02:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68819b1ac5f6cc2dd8df5f58/master/pass/Update-%20The%20Best%20Drip%20Coffee%20Makers%20Now%20Rival%20Cafe%CC%81%20Pour-Over.png" alt="7 Best Coffee Makers (2025): Drip Is Drippin&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-coffee-makers/" target="_blank">7 Best Coffee Makers (2025): Drip Is Drippin&#x27;</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-20 10:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="40% Off Chewy Promo Code | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +165,20 @@
                 <span class="time">2025-11-20 02:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691e459ec0869a8a0eee20a9/master/pass/Trump-Signs-Executive-Order-AI-Litigation-Task-Force-Business-2242862454.jpg" alt="Trump Takes Aim at State AI Laws in Draft Executive Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trump-prepares-executive-order-challenging-state-ai-laws/" target="_blank">Trump Takes Aim at State AI Laws in Draft Executive Order</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-20 01:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yeahiasarker/how-we-built-the-first-open-source-rust-core-agentic-ai-framework-3kfc" target="_blank">How We Built The First Open-Source Rust Core Agentic AI Framework</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-20 10:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix QCon SF 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,6 +186,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/netflix-prioritized-loadshedding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix QCon SF 2025</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-20 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://geacron.com/home-en/" target="_blank">Interactive World History Atlas Since 3000 BC</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-20 09:52</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +222,6 @@
                 <span class="title"><a href="https://freedium-mirror.cfd/@daxx5/why-zig-is-quietly-doing-what-rust-couldnt-staying-simple-a47f86b3a58a" target="_blank">Why Zig Is Quietly Doing What Rust Couldn&#x27;t: Staying Simple</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-20 08:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/driannaird/tutorial-implementasi-email-aman-anti-blokir-zero-bounce-policy-2o0c" target="_blank">TUTORIAL: Implementasi Email Aman &amp; Anti-Blokir (Zero Bounce Policy)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-20 07:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fize4hx7nz44q7ytqezfr.png" alt="VitePress debug: &quot;frontmatter.title&quot; is appearing in search results" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ahandsel/vitepress-debug-frontmattertitle-is-appearing-in-search-results-k60" target="_blank">VitePress debug: &quot;frontmatter.title&quot; is appearing in search results</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-20 05:56</span>
             </div>
         </div>
 </div>
@@ -331,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
