@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 01:29:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-20 02:29:38 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 02:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-251119_1763557323762_hpMain_4x3t_384.jpg" alt="Trump says he signed Epstein bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/senate-expected-send-epstein-files-bill-trump/story?id=127652257" target="_blank">Trump says he signed Epstein bill</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-20 02:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251117-trump-epstein-rs-7ca8ff.jpg" alt="Trump signs bill to release the DOJ&#x27;s Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/trump-signs-bill-release-justice-department-jeffrey-epstein-files-rcna244793" target="_blank">Trump signs bill to release the DOJ&#x27;s Epstein files</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-20 01:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss" target="_blank">Children among 26 killed in one of Russia&#x27;s deadliest strikes on western Ukraine</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-19 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/19/why-has-number-of-people-facing-hunger-doubled-since-2019?traffic_source=rss" target="_blank">Why has number of people facing hunger doubled since 2019?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-19 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/19/nx-s1-5614157/curacao-to-cape-verde-small-nations-make-big-world-cup-history" target="_blank">Curaçao to Cape Verde: Small nations make big World Cup history</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-19 20:54</span>
             </div>
         </div>
 </div>
@@ -168,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-MEMINSPECT-Patches" target="_blank">MEMINSPECT Proposed For The Linux Kernel To Help In Memory Analysis / Debugging</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-20 01:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish" target="_blank">Jailbreaking AI Models to Phish Elderly Victims</a></span>
                 <span class="feed">Hacker News</span>
@@ -202,21 +210,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18764635&w=600" alt="Iceberg Compaction and Fine-Grained Access Control: Performance Challenges and Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/" target="_blank">How we’re making GitHub Copilot smarter with fewer tools</a></span>
-                <span class="feed">The GitHub Blog</span>
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/iceberg-compaction-and-fine-grained-access-control" target="_blank">Iceberg Compaction and Fine-Grained Access Control: Performance Challenges and Solutions</a></span>
+                <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-19 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H" target="_blank">The Death of Arduino?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-19 19:44</span>
             </div>
         </div>
 </div>
@@ -333,22 +332,13 @@
                 <span class="time">2025-11-19 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5704.png" alt="Another Mortifying Ordeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5704" target="_blank">Another Mortifying Ordeal</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-11-19 01:56</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 02:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
