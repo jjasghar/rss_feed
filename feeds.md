@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 18:02:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-20 19:01:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 15 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/7d2b1c00-c63c-11f0-8c98-11fe43704bb5.jpg" alt="Zelensky to speak with Trump after US proposes Russia-Ukraine peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky to speak with Trump after US proposes Russia-Ukraine peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-20 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/20/at-least-41-dead-as-heavy-rain-flooding-and-landslides-hit-central-vietnam?traffic_source=rss" target="_blank">At least 41 dead as heavy rain, flooding and landslides hit central Vietnam</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-20 18:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +100,29 @@
                 <span class="time">2025-11-20 16:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d658/live/eea590e0-c5f6-11f0-8c06-f5d460985095.jpg" alt="US military team visits Kyiv as EU warns about Russian plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss" target="_blank">US military team visits Kyiv as EU warns about Russian plans</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-20 16:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/20/nigerian-court-convicts-biafran-separatist-leader-on-terrorism-charges-nnamdi-kanu" target="_blank">Biafran separatist leader sentenced to life on terrorism charges by Nigerian court</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-20 16:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/825405/microsoft-xbox-full-screen-experience-available-windows-handhelds" target="_blank">Windows handhelds are getting the new Xbox Full Screen Experience tomorrow</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-20 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691f5a8991d474ddeae5eb2c/master/pass/This%20Lightweight%20Laptop%20Is%20Almost%20Half%20Off.png" alt="This Lightweight Laptop Is Almost Half Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/asus-zenbook-a14-deal-1125/" target="_blank">This Lightweight Laptop Is Almost Half Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-20 18:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +159,6 @@
                 <span class="time">2025-11-20 16:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c5cef50126061c6cb39b7f/master/pass/The%20Best%20Automatic%20Cat%20Litter%20Boxes.png" alt="The 6 Best Automatic Litter Boxes (2025) Our Cats Would Recommend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/" target="_blank">The 6 Best Automatic Litter Boxes (2025) Our Cats Would Recommend</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-20 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691ea2775387aadb4a80b4fe/master/pass/The%20Best%20N95,%20KF94,%20and%20KN95%20Face%20Masks%20for%20Every%20Use.png" alt="The Best N95, KF94, and KN95 Face Masks (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/" target="_blank">The Best N95, KF94, and KN95 Face Masks (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-20 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,10 +167,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stevenstuartm/tdd-tests-assumptions-not-just-code-3oa7" target="_blank">TDD Tests Assumptions, Not Just Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-20 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/evolving-github-copilots-next-edit-suggestions-through-custom-model-training/" target="_blank">Evolving GitHub Copilot’s next edit suggestions through custom model training</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-11-20 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18763295&w=600" alt="The Slow/Fast Call Orchestration: Parallelizing for Perception" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/slow-fast-call-orchestration-parallelization" target="_blank">The Slow/Fast Call Orchestration: Parallelizing for Perception</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-20 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +218,6 @@
                 <span class="time">2025-11-20 17:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/11/20/community-products-roadmap-update-november-2025/" target="_blank">Community Products roadmap update, November 2025</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-11-20 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18763007&w=600" alt="Beyond Vector Databases: Integrating RAG as a First-Class Data Platform Workload" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/beyond-vector-databases-integrating-rag" target="_blank">Beyond Vector Databases: Integrating RAG as a First-Class Data Platform Workload</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-20 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/theia-slamming-into-Earth-1280x853.jpg" alt="We Finally Know the Birthplace of the Mars-Sized Rock That Spawned Our Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-mars-sized-rock-slammed-into-earth-billions-of-years-ago-we-finally-know-where-it-came-from-2000688075" target="_blank">We Finally Know the Birthplace of the Mars-Sized Rock That Spawned Our Moon</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-20 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J03XDC2A0HZTS5ZSFV585KY3/hero-image.png" alt="Four Reasons Not to Use ‘Buy Now, Pay Later’ During Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/dont-use-amazon-buy-now-pay-later-black-friday-2025?utm_medium=RSS" target="_blank">Four Reasons Not to Use ‘Buy Now, Pay Later’ During Black Friday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-20 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Pixar-Hoppers-1280x853.jpg" alt="In Pixar’s ‘Hoppers’, the Animal World Wants War" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +291,6 @@
                 <span class="time">2025-11-20 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/manbabymusk.jpg?fit=1500%2C1043&amp;quality=60&amp;ssl=1" alt="Billie Eilish tears into Elon Musk: &quot;f***ing pathetic p**** b**** coward&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/20/billie-eilish-tears-into-elon-musk-fing-pathetic-p-b-coward.html" target="_blank">Billie Eilish tears into Elon Musk: &quot;f***ing pathetic p**** b**** coward&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-20 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2374046869-e1763654887293.jpg?fit=768%2C510&amp;quality=60&amp;ssl=1" alt="Surfs down in Munich, river dredging kills legendary inland surf spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/20/surfs-down-in-munich-river-dredging-kills-legendary-inland-surf-spot.html" target="_blank">Surfs down in Munich, river dredging kills legendary inland surf spot</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-20 16:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,22 +305,13 @@
                 <span class="time">2025-11-20 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/19/value-prop" target="_blank">Value Prop</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-19 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 40 | 📸 With Images: 285 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 148 | 📡 Total Sources: 40 | 📸 With Images: 285 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
