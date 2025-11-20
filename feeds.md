@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 11:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-20 12:02:27 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d658/live/eea590e0-c5f6-11f0-8c06-f5d460985095.jpg" alt="US military officials in Kyiv as Europe warns against reported Russia peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss" target="_blank">US military officials in Kyiv as Europe warns against reported Russia peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-20 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/20/us-justice-department-commits-to-release-epstein-files-in-30-days?traffic_source=rss" target="_blank">US Justice Department commits to release Epstein files in 30 days</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-20 11:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,29 +100,29 @@
                 <span class="time">2025-11-20 05:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/20/uk-accuses-russian-spy-ship-of-pointing-lasers-at-pilots-watching-vessel?traffic_source=rss" target="_blank">UK accuses Russian spy ship of pointing lasers at pilots watching vessel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-20 02:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763606530044_now_staytuned_trump_epstein_files_251119_1920x1080-jlae0p.jpg" alt="President Trump signs bill to release Justice Department&#x27;s Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/president-trump-signs-bill-to-release-justice-department-s-epstein-files-252411973966" target="_blank">President Trump signs bill to release Justice Department&#x27;s Epstein files</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-20 02:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/672938b755735f182d5c87d6/master/pass/Digital-Giftcards-Presents-GEAR-2M7H85F.jpg" alt="The Best Online Gift Cards and Digital Gift Ideas (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gift-cards-and-digital-gift-ideas/" target="_blank">The Best Online Gift Cards and Digital Gift Ideas (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/20/uber-eats-will-use-starship-sidewalk-robots-to-deliver-food-in-the-uk/" target="_blank">Uber Eats will use Starship sidewalk robots to deliver food in the UK</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-20 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68819b1ac5f6cc2dd8df5f58/master/pass/Update-%20The%20Best%20Drip%20Coffee%20Makers%20Now%20Rival%20Cafe%CC%81%20Pour-Over.png" alt="7 Best Coffee Makers (2025): Drip Is Drippin&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,29 +159,38 @@
                 <span class="time">2025-11-20 06:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/jackson1-500x500.jpg" alt="Study: Kids’ drip paintings more like Pollock’s than those of adults" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/study-kids-drip-paintings-more-like-pollocks-than-adults/" target="_blank">Study: Kids’ drip paintings more like Pollock’s than those of adults</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-20 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/19/monarch-tractor-preps-for-layoffs-and-warns-employees-it-may-shut-down/" target="_blank">Monarch Tractor preps for layoffs and warns employees it may ‘shut down’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-20 02:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/aws-lambda-rust-support-ga/en/headerimage/generatedHeaderImage-1763519467007.jpg" alt="AWS Lambda Rust Support Reaches General Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/aws-lambda-rust-support-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Lambda Rust Support Reaches General Availability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/cranberry-soss/" target="_blank">Deploy Your Thanksgiving Dinner with Cranberry sOSS</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-20 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rushier/docker-deserves-a-place-beside-git-heres-why-3444" target="_blank">🐳 Docker Deserves a Place Beside Git — Here’s Why</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-20 11:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,33 +216,6 @@
                 <span class="title"><a href="http://geacron.com/home-en/" target="_blank">Interactive World History Atlas Since 3000 BC</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-20 09:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm07qj238f4bggmcrecve.png" alt="Cheat Sheet for Carbone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/carbone/cheat-sheet-for-carbone-2ikd" target="_blank">Cheat Sheet for Carbone</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-20 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/blender-5-0-release/" target="_blank">Blender 5.0 Released with HDR Support, Video Sequencer Overhaul, and ACES Workflows</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-20 08:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://freedium-mirror.cfd/@daxx5/why-zig-is-quietly-doing-what-rust-couldnt-staying-simple-a47f86b3a58a" target="_blank">Why Zig Is Quietly Doing What Rust Couldn&#x27;t: Staying Simple</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-20 08:27</span>
             </div>
         </div>
 </div>
@@ -253,6 +247,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/Fortnite-Kill-Bill-1280x720.jpg" alt="Fortnite’s About To Get Its Weirdest Crossover Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fortnite-kill-bill-yukis-revenge-lost-chapter-tarantino-2000645687" target="_blank">Fortnite’s About To Get Its Weirdest Crossover Ever</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/9e85e3d9d546d8f4098426ef8fab9c1c_870x1000.jpg?fit=770%2C460&amp;quality=60&amp;ssl=1" alt="Ferry runs aground while helmsman &quot;distracted by phone&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/20/ferry-runs-aground-while-helmsman-distracted-by-phone.html" target="_blank">Ferry runs aground while helmsman &quot;distracted by phone&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-20 11:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/06/304a6fd86995f7983b4e22dbf4593ab4-1024x576.jpg" alt="Telehealth Founder Convicted of Running Adderall Pill Mill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/telehealth-founder-convicted-of-running-adderall-pill-mill-2000688666" target="_blank">Telehealth Founder Convicted of Running Adderall Pill Mill</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-20 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Best-Tech-Gifts-of-2025_Featured-Image@2x-1280x853.jpg" alt="The Best Tech Gifts of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -277,33 +298,6 @@
                 <span class="title"><a href="https://gizmodo.com/yann-lecun-leaves-meta-to-create-independent-entity-2000687915" target="_blank">Yann LeCun Leaves Meta to Create ‘Independent Entity’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-20 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Screenshot.jpg?fit=1080%2C703&amp;quality=60&amp;ssl=1" alt="Brutalist website criticizes cardboard box giant Uline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/19/brutalist-website-criticizes-cardboard-box-giant-uline.html" target="_blank">Brutalist website criticizes cardboard box giant Uline</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-20 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/harry-potter-hogwarts-caste-lego-set-1280x853.jpg" alt="LEGO Goes Big on Harry Potter With Major Deal, Hogwarts Castle Set Now Costs Pocket Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-goes-big-on-harry-potter-with-major-deal-hogwarts-castle-set-now-costs-pocket-change-2000645553" target="_blank">LEGO Goes Big on Harry Potter With Major Deal, Hogwarts Castle Set Now Costs Pocket Change</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-19 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAF2BWZT78Q1JQRHW9ACSMJ0/hero-image.png" alt="This Early Black Friday Deal Makes the M4 MacBook Air Cheaper Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/m4-macbook-air-black-friday-2025?utm_medium=RSS" target="_blank">This Early Black Friday Deal Makes the M4 MacBook Air Cheaper Than Ever</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-19 23:30</span>
             </div>
         </div>
 </div>
@@ -334,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
