@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 02:29:38 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-20 03:19:46 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 02:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 03:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef2/live/5c250f30-c555-11f0-a1c2-758f53fd6195.jpg" alt="Trump signs bill ordering justice department to release Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss" target="_blank">Trump signs bill ordering justice department to release Epstein files</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-20 02:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-251119_1763557323762_hpMain_4x3t_384.jpg" alt="Trump says he signed Epstein bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +102,29 @@
                 <span class="time">2025-11-19 22:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/deab3670-c530-11f0-bf7b-db7c049674ab.jpg" alt="Children among 26 killed in one of Russia&#x27;s deadliest strikes on western Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss" target="_blank">Children among 26 killed in one of Russia&#x27;s deadliest strikes on western Ukraine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-19 21:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/19/monarch-tractor-preps-for-layoffs-and-warns-employees-it-may-shut-down/" target="_blank">Monarch Tractor preps for layoffs and warns employees it may ‘shut down’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-20 02:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691e459ec0869a8a0eee20a9/master/pass/Trump-Signs-Executive-Order-AI-Litigation-Task-Force-Business-2242862454.jpg" alt="Trump Takes Aim at State AI Laws in Draft Executive Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trump-prepares-executive-order-challenging-state-ai-laws/" target="_blank">Trump Takes Aim at State AI Laws in Draft Executive Order</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-20 01:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/691cbe7e6c9e033305e9f35a/master/pass/Nvidia-Earnnings-Blackwell-AI-Chip-Business-2244922892.jpg" alt="Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -124,6 +144,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/1763499309592-500x500.webp" alt="“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/" target="_blank">“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-19 22:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -132,38 +161,29 @@
                 <span class="time">2025-11-19 22:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/823213/google-scholar-labs-ai-search" target="_blank">Google’s new Scholar Labs search uses AI to find relevant studies</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-19 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691e21f4d689d6dc432d4b24/master/pass/This%20Excellent%20LG%20OLED%20Is%20Deeply%20Discounted%20Before%20Black%20Friday.png" alt="This Excellent LG OLED Is Deeply Discounted Before Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lg-b5-oled-deal-1125/" target="_blank">This Excellent LG OLED Is Deeply Discounted Before Black Friday</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-19 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_3399-500x500.jpeg" alt="Testing shows Apple N1 Wi-Fi chip improves on older Broadcom chips in every way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/testing-shows-apple-n1-wi-fi-chip-improves-on-older-broadcom-chips-in-every-way/" target="_blank">Testing shows Apple N1 Wi-Fi chip improves on older Broadcom chips in every way</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-19 19:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq7khq6knyflld4ncfpwt.png" alt="The Difference Between Unrestricted and Restricted Integer Partitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ganesh-kumar/the-difference-between-unrestricted-and-restricted-integer-partitions-548o" target="_blank">The Difference Between Unrestricted and Restricted Integer Partitions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-20 03:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/magentic-marketplace-microsoft/en/headerimage/generatedHeaderImage-1763349198746.jpg" alt="AI Agents Fail Manipulation Tests in Microsoft&#x27;s Magentic Marketplace Simulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/magentic-marketplace-microsoft/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Agents Fail Manipulation Tests in Microsoft&#x27;s Magentic Marketplace Simulation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-20 01:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,37 +205,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Tyr-Begins-Handling-Work" target="_blank">Rust-Based Arm GPU Kernel Driver &quot;Tyr&quot; Begins Running GNOME &amp; Basic Games</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-19 23:38</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/" target="_blank">Verifying your Matrix devices is becoming mandatory</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-20 00:22</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stackbento/day-16-rest-gfa" target="_blank">Day 16 : Rest</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-19 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fst0q6xzb97zcitkfv2.png" alt="Optimize Python Sorting with One Little Trick" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tilalis/optimize-python-sorting-with-one-little-trick-2gb" target="_blank">Optimize Python Sorting with One Little Trick</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-19 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18764635&w=600" alt="Iceberg Compaction and Fine-Grained Access Control: Performance Challenges and Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/iceberg-compaction-and-fine-grained-access-control" target="_blank">Iceberg Compaction and Fine-Grained Access Control: Performance Challenges and Solutions</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-19 20:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Tyr-Begins-Handling-Work" target="_blank">Rust-Based Arm GPU Kernel Driver &quot;Tyr&quot; Begins Running GNOME &amp; Basic Games</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-19 23:38</span>
             </div>
         </div>
 </div>
@@ -292,12 +294,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JYHYVVF3E2SN8A9K7M43R2V1/hero-image.png" alt="The Best Amazon Prime Benefits You Probably Don&#x27;t Know About" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_1330325540.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="The New Pornographers to keep name after drummer&#x27;s child pornography arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-amazon-prime-benefits?utm_medium=RSS" target="_blank">The Best Amazon Prime Benefits You Probably Don&#x27;t Know About</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-19 21:30</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/19/the-new-pornographers-to-keep-name-after-drummers-child-pornography-arrest.html" target="_blank">The New Pornographers to keep name after drummer&#x27;s child pornography arrest</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-19 22:49</span>
             </div>
         </div>
 </div>
@@ -337,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 02:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 03:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
