@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 07:01:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-11-20 08:02:28 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +101,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="40% Off Chewy Promo Code | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chewy-promo-code/" target="_blank">40% Off Chewy Promo Code | November 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-20 07:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="NordVPN Coupons and Deals: 77% Off in November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -151,20 +154,20 @@
                 <span class="time">2025-11-20 01:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691cbe7e6c9e033305e9f35a/master/pass/Nvidia-Earnnings-Blackwell-AI-Chip-Business-2244922892.jpg" alt="Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nvidia-third-quarter-2026-earnings/" target="_blank">Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-20 00:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/driannaird/tutorial-implementasi-email-aman-anti-blokir-zero-bounce-policy-2o0c" target="_blank">TUTORIAL: Implementasi Email Aman &amp; Anti-Blokir (Zero Bounce Policy)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-20 07:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fize4hx7nz44q7ytqezfr.png" alt="VitePress debug: &quot;frontmatter.title&quot; is appearing in search results" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,6 +189,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://materialdistrict.com/material/basalt-woven-textile/" target="_blank">Basalt Woven Textile</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-20 05:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shahrouzlogs/day-40-python-armstrong-numbers-finder-detect-narcissistic-numbers-in-a-range-with-digit-power-4igb" target="_blank">Day 40: Python Armstrong Numbers Finder, Detect Narcissistic Numbers in a Range with Digit Power Sum</a></span>
                 <span class="feed">DEV Community</span>
@@ -199,24 +211,6 @@
                 <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-47/" target="_blank">FOSS Weekly #25.47: AI Mode in Firefox, Nitrux 5, GNOME Panel, Rust Alternative Commands and More Linux Stuff</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-11-20 03:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq7khq6knyflld4ncfpwt.png" alt="The Difference Between Unrestricted and Restricted Integer Partitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ganesh-kumar/the-difference-between-unrestricted-and-restricted-integer-partitions-548o" target="_blank">The Difference Between Unrestricted and Restricted Integer Partitions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-20 03:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/magentic-marketplace-microsoft/en/headerimage/generatedHeaderImage-1763349198746.jpg" alt="AI Agents Fail Manipulation Tests in Microsoft&#x27;s Magentic Marketplace Simulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/magentic-marketplace-microsoft/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Agents Fail Manipulation Tests in Microsoft&#x27;s Magentic Marketplace Simulation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-20 01:52</span>
             </div>
         </div>
 </div>
@@ -247,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Best-Tech-Gifts-of-2025_Featured-Image@2x-1280x853.jpg" alt="The Best Tech Gifts of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/best-tech-gifts-of-2025-2000680379" target="_blank">The Best Tech Gifts of 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-20 05:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/govee-floor-lamp-basic-1280x853.jpg" alt="Govee Dumps Color Floor Lamps, Now Selling at New All-Time Low for Prime Members" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +295,6 @@
                 <span class="time">2025-11-19 23:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/blops7-endgame-1280x720.jpg" alt="Black Ops 7′s Best Part Won’t Be Locked Behind Its Worst Part For Much Longer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/black-ops-7s-best-part-wont-be-locked-behind-its-worst-part-for-much-longer-2000645605" target="_blank">Black Ops 7′s Best Part Won’t Be Locked Behind Its Worst Part For Much Longer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-19 22:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,22 +318,13 @@
                 <span class="time">2025-11-19 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/19/value-prop" target="_blank">Value Prop</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-19 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
