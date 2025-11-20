@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 20:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-20 21:01:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: DZone -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7635/live/5b47a410-c5f0-11f0-9f1e-75cdd6519717.jpg" alt="UK did &#x27;too little, too late&#x27;, leading to thousands more Covid deaths, says inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8030xvvlv0o?at_medium=RSS&at_campaign=rss" target="_blank">UK did &#x27;too little, too late&#x27;, leading to thousands more Covid deaths, says inquiry</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-20 20:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/adam-schiff-gty-jef-251117_1763405634767_hpMain_4x3t_384.jpg" alt="DOJ, FBI probing top Trump officials over investigations of president&#x27;s foes: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +95,47 @@
                 <span class="time">2025-11-20 17:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/20/punishable-by-death-trump-threatens-democrats-with-sedition-charges?traffic_source=rss" target="_blank">‘Punishable by DEATH’: Trump threatens Democrats with sedition charges</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-20 17:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/825283/bethesda-wand-company-fallout-3-new-vegas-pip-boy-3000-replica" target="_blank">Bethesda’s $300 Pip-Boy 3000 replica can measure (harmless) radiation</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-20 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/zorkcommodore-500x500.jpg" alt="Microsoft makes Zork I, II, and III open source under MIT License" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/" target="_blank">Microsoft makes Zork I, II, and III open source under MIT License</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-20 20:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/" target="_blank">Source: Kalshi’s valuation jumps to $11B after raising massive $1B round</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-20 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691f653a3a011638dd816eaa/master/pass/gear-airdrop-2234913161.jpg" alt="Got a Pixel 10? Google’s Android Phone Can Now Share Files With Apple’s AirDrop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/pixel-10-can-now-share-files-with-apples-airdrop/" target="_blank">Got a Pixel 10? Google’s Android Phone Can Now Share Files With Apple’s AirDrop</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-20 20:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,47 +154,33 @@
                 <span class="time">2025-11-20 19:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/825405/microsoft-xbox-full-screen-experience-available-windows-handhelds" target="_blank">Windows handhelds are getting the new Xbox Full Screen Experience tomorrow</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-20 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691f5a8991d474ddeae5eb2c/master/pass/This%20Lightweight%20Laptop%20Is%20Almost%20Half%20Off.png" alt="This Lightweight Laptop Is Almost Half Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/asus-zenbook-a14-deal-1125/" target="_blank">This Lightweight Laptop Is Almost Half Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-20 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/825221/perplexity-comet-ai-browser-launch-android" target="_blank">Perplexity brings its Comet browser to Android</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-20 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/08/asus-gaming-chromebook-500x500.jpg" alt="Google’s latest swing at Chromebook gaming is a free year of GeForce Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/11/googles-latest-swing-at-chromebook-gaming-is-a-free-year-of-geforce-now/" target="_blank">Google’s latest swing at Chromebook gaming is a free year of GeForce Now</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-20 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3621670%2Fc2f0605b-db5f-4b4f-a08d-cf90892b0c61.png" alt="🌍 We are 14-year-old students from Valleyspur International School, Uganda, and we built a complete SDG website from scratch 😳🔥
+
+Our website teaches what to do during war, shows safe locations on a live map, includes emergency call buttons, videos, voic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mikekeith/we-are-14-year-old-students-from-valleyspur-international-school-uganda-and-we-built-a-complete-fod" target="_blank">🌍 We are 14-year-old students from Valleyspur International School, Uganda, and we built a complete SDG website from scratch 😳🔥
+
+Our website teaches what to do during war, shows safe locations on a live map, includes emergency call buttons, videos, voic</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-20 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18764329&w=600" alt="Deploying a Serverless Application on Google Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/deploying-serverless-application-google-cloud" target="_blank">Deploying a Serverless Application on Google Cloud</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-20 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/claude-ai-speed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QConSF 2025 - Developing Claude Code at Anthropic at AI Speed</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-20 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppiwrbr0ue3ihiwoeoe7.jpg" alt="Big BOMB! 💣 PWA, Service Worker and Push Notification in WebForms Core 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elanatframework/big-bomb-pwa-service-worker-and-push-notification-in-webforms-core-2-18ca" target="_blank">Big BOMB! 💣 PWA, Service Worker and Push Notification in WebForms Core 2</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-20 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Runtime-November-2025" target="_blank">Updated Steam Runtime Switches To Debian 13 Libraries, SDL2 Using Compatibility Layer</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-20 17:34</span>
             </div>
         </div>
 </div>
@@ -318,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
