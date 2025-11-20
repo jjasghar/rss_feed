@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 22:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-20 23:01:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 33 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/20/nx-s1-5615399/dc-troops-deployment-blocked-trump" target="_blank">A federal judge temporarily blocks Trump&#x27;s troop deployment in D.C.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-20 22:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/politics/2025/nov/20/keir-starmer-defends-south-africa-g20-budget" target="_blank">Keir Starmer defends trip to South Africa for G20 summit as budget looms</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-20 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/20/what-are-the-consequences-of-an-escalating-global-arms-race?traffic_source=rss" target="_blank">What are the consequences of an escalating global arms race?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-20 21:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7635/live/5b47a410-c5f0-11f0-9f1e-75cdd6519717.jpg" alt="UK did &#x27;too little, too late&#x27;, leading to thousands more Covid deaths, says inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,38 +101,29 @@
                 <span class="time">2025-11-20 19:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/20/nx-s1-5615060/byheart-baby-formula-botulism-recall" target="_blank">Recalled baby formula linked to a botulism outbreak may still be in some stores</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-20 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/7d2b1c00-c63c-11f0-8c98-11fe43704bb5.jpg" alt="Zelensky to speak with Trump after US proposes Russia-Ukraine peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky to speak with Trump after US proposes Russia-Ukraine peace plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-20 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/20/at-least-41-dead-as-heavy-rain-flooding-and-landslides-hit-central-vietnam?traffic_source=rss" target="_blank">At least 41 dead as heavy rain, flooding and landslides hit central Vietnam</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-20 18:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/691f856ddcea540c736d7919/master/pass/Four-Indicted-In-Alleged-Conspiracy-To-Smuggle-Supercomputers-and-Nvidia-Chips-to-China-Business-2244331491.jpg" alt="Four Indicted In Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/" target="_blank">Four Indicted In Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-20 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird" target="_blank">Grok’s Elon Musk worship is getting weird</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-20 22:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +160,20 @@
                 <span class="time">2025-11-20 20:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/" target="_blank">Source: Kalshi’s valuation jumps to $11B after raising massive $1B round</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-20 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691f653a3a011638dd816eaa/master/pass/gear-airdrop-2234913161.jpg" alt="Got a Pixel 10? Google’s Android Phone Can Now Share Files With Apple’s AirDrop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pixel-10-can-now-share-files-with-apples-airdrop/" target="_blank">Got a Pixel 10? Google’s Android Phone Can Now Share Files With Apple’s AirDrop</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-20 20:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jramone3/remi-a-fully-auditable-autonomous-agent-for-technical-symbolic-and-financial-impact-ekj" target="_blank">REMI: A Fully Auditable Autonomous Agent for Technical, Symbolic, and Financial Impact</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-20 22:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp97jaxtc7j1bvj5y8akm.png" alt="Skills, MCPs, and Commands are the same context engineering trend." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -218,15 +223,6 @@ Our website teaches what to do during war, shows safe locations on a live map, i
                 <span class="time">2025-11-20 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stevenstuartm/tdd-tests-assumptions-not-just-code-3oa7" target="_blank">TDD Tests Assumptions, Not Just Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-20 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -255,6 +251,24 @@ Our website teaches what to do during war, shows safe locations on a live map, i
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Ninja-Turtles-2014-1280x853.jpg" alt="The ‘Teenage Mutant Ninja Turtles’ Are Getting New a Live-Action Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/teenage-mutant-ninja-turtles-live-action-reboot-2000689269" target="_blank">The ‘Teenage Mutant Ninja Turtles’ Are Getting New a Live-Action Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-20 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAE8H4ARYQNRB0286V4XKPC5/hero-image.jpg" alt="20 of the Best Thanksgiving Movies to Watch in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-thanksgiving-movies?utm_medium=RSS" target="_blank">20 of the Best Thanksgiving Movies to Watch in 2025</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-20 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Screenshot-American-History-X.jpg?fit=1080%2C544&amp;quality=60&amp;ssl=1" alt="U.S. Coast Guard will no longer classify swastika and noose as hate symbols" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,24 +305,6 @@ Our website teaches what to do during war, shows safe locations on a live map, i
                 <span class="time">2025-11-20 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J03XDC2A0HZTS5ZSFV585KY3/hero-image.png" alt="Four Reasons Not to Use ‘Buy Now, Pay Later’ During Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/dont-use-amazon-buy-now-pay-later-black-friday-2025?utm_medium=RSS" target="_blank">Four Reasons Not to Use ‘Buy Now, Pay Later’ During Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-20 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Pixar-Hoppers-1280x853.jpg" alt="In Pixar’s ‘Hoppers’, the Animal World Wants War" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/pixar-hoppers-trailer-meryl-streep-animals-2000689004" target="_blank">In Pixar’s ‘Hoppers’, the Animal World Wants War</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-20 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +324,8 @@ Our website teaches what to do during war, shows safe locations on a live map, i
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 155 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 157 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
