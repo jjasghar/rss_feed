@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 17:02:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-20 18:02:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 15 new posts out of 32 feeds processed -->
+<!-- Generated 15 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,10 +52,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/20/nx-s1-5615040/cdc-rfk-childhood-vaccines-autism" target="_blank">The CDC revives debunked &#x27;link&#x27; between childhood vaccines and autism</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-20 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/20/punishable-by-death-trump-threatens-democrats-with-sedition-charges?traffic_source=rss" target="_blank">‘Punishable by DEATH’: Trump threatens Democrats with sedition charges</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-20 17:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/james-comey-rt-jef-251120_1763655111182_hpMain_4x3t_384.jpg" alt="DOJ, Halligan slam judge in Comey case following hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/doj-halligan-slam-judge-comey-case-hearing/story?id=127709589" target="_blank">DOJ, Halligan slam judge in Comey case following hearing</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-20 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/20/syria-condemns-netanyahus-visit-to-occupied-territory?traffic_source=rss" target="_blank">Syria condemns Netanyahu’s visit to occupied territory</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-20 16:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d658/live/eea590e0-c5f6-11f0-8c06-f5d460985095.jpg" alt="US military team visits Kyiv as EU warns about Russian plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss" target="_blank">US military team visits Kyiv as EU warns about Russian plans</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-20 16:27</span>
             </div>
         </div>
 <div class="story">
@@ -68,47 +103,29 @@
                 <span class="time">2025-11-20 16:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/20/video-shows-palestinian-child-after-shooting-by-israeli-forces?traffic_source=rss" target="_blank">Video shows Palestinian child after shooting by Israeli forces</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-20 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/20/g-s1-98250/germany-munich-surfing-eisbach-eisbachwelle-e1-wave" target="_blank">Surf&#x27;s down! Munich, until now an inland surfing hotspot, has lost its biggest wave</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-20 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/construction-workers-gty-jt-251119_1763586704735_hpMain_4x3t_384.jpg" alt="Jobs report blows past expectations, defying hiring slowdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/long-delayed-jobs-report-show-hiring-amid-wobbly/story?id=127668400" target="_blank">Jobs report blows past expectations, defying hiring slowdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-20 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763647817664_now_mnn_sept_jobs_report_251120_1920x1080-f8re6g.jpg" alt="September jobs report shows economy added 119k jobs, unemployment at 4.4%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/september-jobs-report-shows-economy-added-119k-jobs-unemployment-at-4-4-252436549939" target="_blank">September jobs report shows economy added 119k jobs, unemployment at 4.4%</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-20 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/825221/perplexity-comet-ai-browser-launch-android" target="_blank">Perplexity brings its Comet browser to Android</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-20 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/08/asus-gaming-chromebook-500x500.jpg" alt="Google’s latest swing at Chromebook gaming is a free year of GeForce Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/11/googles-latest-swing-at-chromebook-gaming-is-a-free-year-of-geforce-now/" target="_blank">Google’s latest swing at Chromebook gaming is a free year of GeForce Now</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-20 17:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +162,56 @@
                 <span class="time">2025-11-20 15:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/20/another-fire-breaks-out-at-aluminum-plant-that-supplies-ford/" target="_blank">Another fire breaks out at aluminum plant that supplies Ford</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-20 15:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/824785/google-nano-banana-pro-try-free-examples-prices" target="_blank">Google&amp;#8217;s Nano Banana AI image model goes Pro and is free to try</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-20 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/evolving-github-copilots-next-edit-suggestions-through-custom-model-training/" target="_blank">Evolving GitHub Copilot’s next edit suggestions through custom model training</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-11-20 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="QConSF 2025 - Developing Claude Code at Anthropic at AI Speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/claude-ai-speed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QConSF 2025 - Developing Claude Code at Anthropic at AI Speed</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-20 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppiwrbr0ue3ihiwoeoe7.jpg" alt="Big BOMB! 💣 PWA, Service Worker and Push Notification in WebForms Core 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/elanatframework/big-bomb-pwa-service-worker-and-push-notification-in-webforms-core-2-18ca" target="_blank">Big BOMB! 💣 PWA, Service Worker and Push Notification in WebForms Core 2</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-20 17:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Runtime-November-2025" target="_blank">Updated Steam Runtime Switches To Debian 13 Libraries, SDL2 Using Compatibility Layer</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-20 17:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/11/20/community-products-roadmap-update-november-2025/" target="_blank">Community Products roadmap update, November 2025</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-11-20 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18763007&w=600" alt="Beyond Vector Databases: Integrating RAG as a First-Class Data Platform Workload" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -175,51 +219,6 @@
                 <span class="title"><a href="https://dzone.com/articles/beyond-vector-databases-integrating-rag" target="_blank">Beyond Vector Databases: Integrating RAG as a First-Class Data Platform Workload</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-20 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/MM-CID-For-Linux-6.19" target="_blank">Linux 6.19 Slated To Land &quot;mm/cid&quot; Rewrite That Has Very Positive Performance Potential</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-20 15:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.google/technology/ai/nano-banana-pro/" target="_blank">Nano Banana Pro</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-20 15:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68nwe1qfzagws1851u2f.png" alt="How AI Agents in Cybersecurity Are Revolutionizing AppSec" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/clouddefenseai/how-ai-agents-in-cybersecurity-are-revolutionizing-appsec-5e4m" target="_blank">How AI Agents in Cybersecurity Are Revolutionizing AppSec</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-20 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://taylor.town/iq-not-enough" target="_blank">210 IQ Is Not Enough</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-20 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Google Announces Gemini 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/google-gemini-3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Announces Gemini 3</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-20 14:09</span>
             </div>
         </div>
 </div>
@@ -241,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Pixar-Hoppers-1280x853.jpg" alt="In Pixar’s ‘Hoppers’, the Animal World Wants War" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pixar-hoppers-trailer-meryl-streep-animals-2000689004" target="_blank">In Pixar’s ‘Hoppers’, the Animal World Wants War</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-20 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/CrucialP510-1280x853.jpg" alt="Crucial P510 SSD With Heatsink Deal Makes Storage Cost Pennies, PC and PS5 Upgrades Feel Basically Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,6 +277,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/manbabymusk.jpg?fit=1500%2C1043&amp;quality=60&amp;ssl=1" alt="Billie Eilish tears into Elon Musk: &quot;f***ing pathetic p**** b**** coward&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/20/billie-eilish-tears-into-elon-musk-fing-pathetic-p-b-coward.html" target="_blank">Billie Eilish tears into Elon Musk: &quot;f***ing pathetic p**** b**** coward&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-20 16:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2374046869-e1763654887293.jpg?fit=768%2C510&amp;quality=60&amp;ssl=1" alt="Surfs down in Munich, river dredging kills legendary inland surf spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -277,29 +294,20 @@
                 <span class="time">2025-11-20 16:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/3a3f1c9c6078d3260b48e6fe2e59c0a0-1280x720.jpg" alt="Battlefield 6 Is Already Toppling Some Call Of Duty Records" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/battlefield-6-sales-black-ops-7-charts-2000645794" target="_blank">Battlefield 6 Is Already Toppling Some Call Of Duty Records</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-20 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/roborock-bf-saros10r-1280x853.jpg" alt="Roborock’s Elite Robot Vacuum and Mop Drops $600, Saros 10R Hits New Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/roborocks-elite-robot-vacuum-and-mop-drops-600-saros-10r-hits-new-record-low-2000685664" target="_blank">Roborock’s Elite Robot Vacuum and Mop Drops $600, Saros 10R Hits New Record Low</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-20 14:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1763611254-20251120edit.png" alt="Saturday Morning Breakfast Cereal - Sword" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/sword-2" target="_blank">Saturday Morning Breakfast Cereal - Sword</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-20 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -314,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 40 | 📸 With Images: 285 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
