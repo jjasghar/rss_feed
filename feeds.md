@@ -1,30 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 16:01:39 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-20 17:02:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 15 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/20/syria-condemns-netanyahus-visit-to-occupied-territory?traffic_source=rss" target="_blank">Syria condemns Netanyahu’s visit to occupied territory</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-20 16:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/20/nigerian-court-convicts-biafran-separatist-leader-on-terrorism-charges-nnamdi-kanu" target="_blank">Biafran separatist leader sentenced to life on terrorism charges by Nigerian court</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-20 16:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +104,38 @@
                 <span class="time">2025-11-20 14:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aaf/live/0023a660-c613-11f0-bac6-252b1f2b7e52.jpg" alt="Some migrants to face 20 year wait for settled status" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3w9wlney23o?at_medium=RSS&at_campaign=rss" target="_blank">Some migrants to face 20 year wait for settled status</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-20 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/20/south-africa-says-us-boycott-of-g20-is-coercion-by-absentia" target="_blank">South Africa says US boycott of G20 is ‘coercion by absentia’</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-20 13:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/824940/chromebooks-nvidia-geforce-now-fast-pass-free-year" target="_blank">New Chromebooks will come with a year of Nvidia&amp;#8217;s cloud gaming &amp;#8216;fast pass&amp;#8217;</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-20 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/nano-banana-pro-500x500.png" alt="Google’s new Nano Banana Pro uses Gemini 3 power to generate more realistic AI images" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/11/google-launches-nano-banana-pro-image-model-adds-ai-image-detection-in-gemini-app/" target="_blank">Google’s new Nano Banana Pro uses Gemini 3 power to generate more realistic AI images</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-20 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c5cef50126061c6cb39b7f/master/pass/The%20Best%20Automatic%20Cat%20Litter%20Boxes.png" alt="The 6 Best Automatic Litter Boxes (2025) Our Cats Would Recommend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/" target="_blank">The 6 Best Automatic Litter Boxes (2025) Our Cats Would Recommend</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-20 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/691ea2775387aadb4a80b4fe/master/pass/The%20Best%20N95,%20KF94,%20and%20KN95%20Face%20Masks%20for%20Every%20Use.png" alt="The Best N95, KF94, and KN95 Face Masks (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,38 +163,38 @@
                 <span class="time">2025-11-20 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a7a913ababd253d6b1768f/master/pass/Google%20Pixel%2010%20Series%20SOURCE%20Julian%20Chokkattu.jpg" alt="The Best Google Pixel Phones of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-google-pixel-phone/" target="_blank">The Best Google Pixel Phones of 2025, Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-20 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/824295/leica-q3-monochrom-black-and-white-digital-camera-price-specs" target="_blank">Leica&amp;#8217;s latest black-and-white-only camera is the $7,800 Q3 Monochrom</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-20 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/DSC03780_1-500x500.jpg" alt="Attack, defend, pursue—the Space Force’s new naming scheme foretells new era" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/11/attack-defend-pursue-the-space-forces-new-naming-scheme-foretells-new-era/" target="_blank">Attack, defend, pursue—the Space Force’s new naming scheme foretells new era</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-20 13:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18763007&w=600" alt="Beyond Vector Databases: Integrating RAG as a First-Class Data Platform Workload" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/beyond-vector-databases-integrating-rag" target="_blank">Beyond Vector Databases: Integrating RAG as a First-Class Data Platform Workload</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-20 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/MM-CID-For-Linux-6.19" target="_blank">Linux 6.19 Slated To Land &quot;mm/cid&quot; Rewrite That Has Very Positive Performance Potential</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-20 15:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.google/technology/ai/nano-banana-pro/" target="_blank">Nano Banana Pro</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-20 15:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68nwe1qfzagws1851u2f.png" alt="How AI Agents in Cybersecurity Are Revolutionizing AppSec" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,33 +222,6 @@
                 <span class="time">2025-11-20 14:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18762881&w=600" alt="Why Internal Tools Waste So Much Engineering Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-internal-tools-waste-so-much-engineering-time" target="_blank">Why Internal Tools Waste So Much Engineering Time</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-20 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/developer-experience-load-autonomy/en/mediumimage/infoqlive-540x400-1763459708793.jpg" alt="Presentation: The Architecture of Developer Experience: Where Product, Platform, and Operations Meet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/developer-experience-load-autonomy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Architecture of Developer Experience: Where Product, Platform, and Operations Meet</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-20 12:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2511.15304" target="_blank">Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-20 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +242,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/CrucialP510-1280x853.jpg" alt="Crucial P510 SSD With Heatsink Deal Makes Storage Cost Pennies, PC and PS5 Upgrades Feel Basically Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/unlock-crazy-fast-load-times-on-your-gaming-pc-or-upgrade-your-ps5-storage-by-2tb-with-this-crucial-internal-ssd-for-60-off-2000645621" target="_blank">Crucial P510 SSD With Heatsink Deal Makes Storage Cost Pennies, PC and PS5 Upgrades Feel Basically Free</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-20 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Screenshot-2025-11-20-at-10.21.42 AM-e1763656622133-1280x853.jpg" alt="Google Launches Updated Image Generation Model Nano Banana Pro, Free to Try" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/google-launches-updated-image-generation-model-nano-banana-pro-free-to-try-2000688979" target="_blank">Google Launches Updated Image Generation Model Nano Banana Pro, Free to Try</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-20 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2H4YKF9VWRN57JKZGD7GC2/hero-image.png" alt="How Often You Need to Order From Amazon for a Prime Subscription to Be Worth It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/is-amazon-prime-worth-it?utm_medium=RSS" target="_blank">How Often You Need to Order From Amazon for a Prime Subscription to Be Worth It</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-20 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2374046869-e1763654887293.jpg?fit=768%2C510&amp;quality=60&amp;ssl=1" alt="Surfs down in Munich, river dredging kills legendary inland surf spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/20/surfs-down-in-munich-river-dredging-kills-legendary-inland-surf-spot.html" target="_blank">Surfs down in Munich, river dredging kills legendary inland surf spot</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-20 16:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/3a3f1c9c6078d3260b48e6fe2e59c0a0-1280x720.jpg" alt="Battlefield 6 Is Already Toppling Some Call Of Duty Records" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -249,42 +295,6 @@
                 <span class="time">2025-11-20 14:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/GooglePixelWatch4-1280x853.jpg" alt="Google Is Practically Giving Away the Pixel Watch 4, Zero-Margin Black Friday Play on a 2025 Smartwatch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/google-is-practically-giving-away-the-pixel-watch-4-zero-margin-black-friday-play-on-a-2025-smartwatch-2000645603" target="_blank">Google Is Practically Giving Away the Pixel Watch 4, Zero-Margin Black Friday Play on a 2025 Smartwatch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-20 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/asus-rog-monitor-1280x853.jpg" alt="Asus Is Going Nuts, Selling ROG Strix 27″ 240Hz OLED Gaming Monitor at a New Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/asus-is-going-nuts-selling-rog-strix-27-240hz-oled-gaming-monitor-at-a-new-record-low-2000645693" target="_blank">Asus Is Going Nuts, Selling ROG Strix 27″ 240Hz OLED Gaming Monitor at a New Record Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-20 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HPSQ87H8N3Z5ZVXQF8W4Q9BS/hero-image.png" alt="Prioritize Your To-Do List By Imagining Rocks in a Jar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/work/pickle-jar-theory-to-prioritize-tasks?utm_medium=RSS" target="_blank">Prioritize Your To-Do List By Imagining Rocks in a Jar</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-20 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/ge.jpeg?fit=1200%2C799&amp;quality=60&amp;ssl=1" alt="ICE detainee found dead and &quot;hog-tied&quot; in shower at Noem facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/20/ice-detainee-found-dead-and-hog-tied-in-shower-at-noem-facility.html" target="_blank">ICE detainee found dead and &quot;hog-tied&quot; in shower at Noem facility</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-20 12:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,22 +309,13 @@
                 <span class="time">2025-11-19 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1763431888-20251119.png" alt="Saturday Morning Breakfast Cereal - Protagonist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/protagonist-2" target="_blank">Saturday Morning Breakfast Cereal - Protagonist</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-19 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
