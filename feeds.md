@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 12:02:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-20 13:10:28 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +51,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/20/g-s1-98494/up-first-newsletter-james-comey-epstein-files-nvidia" target="_blank">DOJ case against Comey faces troubles. And, powerful figures in latest Epstein docs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-20 11:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d658/live/eea590e0-c5f6-11f0-8c06-f5d460985095.jpg" alt="US military officials in Kyiv as Europe warns against reported Russia peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss" target="_blank">US military officials in Kyiv as Europe warns against reported Russia peace plan</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-20 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d517/live/07a9a680-a28a-11ef-bdf5-b7cb2fa86e10.png" alt="Rapist ex-Met officer given another life sentence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy0y075nyw8o?at_medium=RSS&at_campaign=rss" target="_blank">Rapist ex-Met officer given another life sentence</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-20 11:47</span>
             </div>
         </div>
 <div class="story">
@@ -65,6 +87,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/Sky-Roberts-gty-gmh-251118_1763480992914_hpMain_4x3t_384.jpg" alt="After Trump signs Epstein files bill, focus shifts to release timeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/after-trump-signs-epstein-files-bill-focus-shifts/story?id=127700652" target="_blank">After Trump signs Epstein files bill, focus shifts to release timeline</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-20 11:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -73,38 +104,29 @@
                 <span class="time">2025-11-20 10:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/20/g-s1-98482/sheila-cherfilus-mccormick-indicted-stealing-disaster-funds" target="_blank">U.S. Rep. Cherfilus-McCormick indicted on charges of stealing $5M in disaster funds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-20 06:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef2/live/5c250f30-c555-11f0-a1c2-758f53fd6195.jpg" alt="Trump signs bill ordering US justice department to release Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss" target="_blank">Trump signs bill ordering US justice department to release Epstein files</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-20 06:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/20/g-s1-98477/trump-signed-bill-releasing-epstein-files" target="_blank">What&#x27;s next now that Trump has signed a bill releasing the Epstein files</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-20 05:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/691cbbd3c32b98bfa2a4ae31/master/pass/Science_Paradromics.jpg" alt="Paradromics Gets FDA Approval to Trial Its Brain Implant in People" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/paradromics-gets-fda-approval-to-trial-its-brain-implant-in-people/" target="_blank">Paradromics Gets FDA Approval to Trial Its Brain Implant in People</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/emoticon_hero_2-500x500.jpg" alt="In 1982, a physics joke gone wrong sparked the invention of the emoticon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/in-1982-a-physics-joke-gone-wrong-sparked-the-invention-of-the-emoticon/" target="_blank">In 1982, a physics joke gone wrong sparked the invention of the emoticon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-20 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/672938b755735f182d5c87d6/master/pass/Digital-Giftcards-Presents-GEAR-2M7H85F.jpg" alt="The Best Online Gift Cards and Digital Gift Ideas (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +163,20 @@
                 <span class="time">2025-11-20 07:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="NordVPN Coupons and Deals: 77% Off in November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nordvpn-coupon/" target="_blank">NordVPN Coupons and Deals: 77% Off in November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-20 06:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" alt="Google Workspace Promo Code: Up to 14% Off in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-workspace-promo-code/" target="_blank">Google Workspace Promo Code: Up to 14% Off in 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-20 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/developer-experience-load-autonomy/en/mediumimage/infoqlive-540x400-1763459708793.jpg" alt="Presentation: The Architecture of Developer Experience: Where Product, Platform, and Operations Meet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/developer-experience-load-autonomy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Architecture of Developer Experience: Where Product, Platform, and Operations Meet</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-20 12:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/11/aws-lambda-rust-support-ga/en/headerimage/generatedHeaderImage-1763519467007.jpg" alt="AWS Lambda Rust Support Reaches General Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,28 +207,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yeahiasarker/how-we-built-the-first-open-source-rust-core-agentic-ai-framework-3kfc" target="_blank">How We Built The First Open-Source Rust Core Agentic AI Framework</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-20 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix QCon SF 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/netflix-prioritized-loadshedding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix QCon SF 2025</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-20 10:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Boot42-Nova-Linux-6.19" target="_blank">Linux 6.19 Nova Driver Landing Boot42 Support For Next-Gen NVIDIA GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-20 11:40</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://geacron.com/home-en/" target="_blank">Interactive World History Atlas Since 3000 BC</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-20 09:52</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yeahiasarker/how-we-built-the-first-open-source-rust-core-agentic-ai-framework-3kfc" target="_blank">How We Built The First Open-Source Rust Core Agentic AI Framework</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-20 10:45</span>
             </div>
         </div>
 </div>
@@ -232,20 +236,38 @@
                 <span class="time">2025-11-19 14:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html" target="_blank">Legal Restrictions on Vulnerability Disclosure</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-19 12:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/asus-rog-monitor-1280x853.jpg" alt="Asus Is Going Nuts, Selling ROG Strix 27″ 240Hz OLED Gaming Monitor at a New Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/asus-is-going-nuts-selling-rog-strix-27-240hz-oled-gaming-monitor-at-a-new-record-low-2000645693" target="_blank">Asus Is Going Nuts, Selling ROG Strix 27″ 240Hz OLED Gaming Monitor at a New Record Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-20 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HPSQ87H8N3Z5ZVXQF8W4Q9BS/hero-image.png" alt="Prioritize Your To-Do List By Imagining Rocks in a Jar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/work/pickle-jar-theory-to-prioritize-tasks?utm_medium=RSS" target="_blank">Prioritize Your To-Do List By Imagining Rocks in a Jar</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/ge.jpeg?fit=1200%2C799&amp;quality=60&amp;ssl=1" alt="ICE detainee found dead and &quot;hog-tied&quot; in shower at Noem facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/20/ice-detainee-found-dead-and-hog-tied-in-shower-at-noem-facility.html" target="_blank">ICE detainee found dead and &quot;hog-tied&quot; in shower at Noem facility</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-20 12:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/Fortnite-Kill-Bill-1280x720.jpg" alt="Fortnite’s About To Get Its Weirdest Crossover Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,33 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/telehealth-founder-convicted-of-running-adderall-pill-mill-2000688666" target="_blank">Telehealth Founder Convicted of Running Adderall Pill Mill</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-20 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Best-Tech-Gifts-of-2025_Featured-Image@2x-1280x853.jpg" alt="The Best Tech Gifts of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/best-tech-gifts-of-2025-2000680379" target="_blank">The Best Tech Gifts of 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-20 05:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/govee-floor-lamp-basic-1280x853.jpg" alt="Govee Dumps Color Floor Lamps, Now Selling at New All-Time Low for Prime Members" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/govee-dumps-color-floor-lamps-now-selling-at-new-all-time-low-for-prime-members-2000645559" target="_blank">Govee Dumps Color Floor Lamps, Now Selling at New All-Time Low for Prime Members</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-20 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/11/4f3f78eb88f862e766cfb0b8cfc12b18-1024x577.jpg" alt="Yann LeCun Leaves Meta to Create ‘Independent Entity’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/yann-lecun-leaves-meta-to-create-independent-entity-2000687915" target="_blank">Yann LeCun Leaves Meta to Create ‘Independent Entity’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-20 00:34</span>
             </div>
         </div>
 </div>
@@ -328,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
