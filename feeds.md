@@ -1,40 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 13:10:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-20 14:01:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/20/south-africa-says-us-boycott-of-g20-is-coercion-by-absentia" target="_blank">South Africa says US boycott of G20 is ‘coercion by absentia’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-20 13:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +91,29 @@
                 <span class="time">2025-11-20 11:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/20/nx-s1-5611148/plastic-pollution-ocean-animals-seabirds-turtles-research" target="_blank">Eating just a handful of plastic can be fatal for marine animals, a study finds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-20 10:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/824295/leica-q3-monochrom-black-and-white-digital-camera-price-specs" target="_blank">Leica&amp;#8217;s latest black-and-white-only camera is the $7,800 Q3 Monochrom</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-20 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/DSC03780_1-500x500.jpg" alt="Attack, defend, pursue—the Space Force’s new naming scheme foretells new era" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/11/attack-defend-pursue-the-space-forces-new-naming-scheme-foretells-new-era/" target="_blank">Attack, defend, pursue—the Space Force’s new naming scheme foretells new era</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-20 13:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/691cbbd3c32b98bfa2a4ae31/master/pass/Science_Paradromics.jpg" alt="Paradromics Gets FDA Approval to Trial Its Brain Implant in People" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,24 +150,6 @@
                 <span class="time">2025-11-20 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68819b1ac5f6cc2dd8df5f58/master/pass/Update-%20The%20Best%20Drip%20Coffee%20Makers%20Now%20Rival%20Cafe%CC%81%20Pour-Over.png" alt="7 Best Coffee Makers (2025): Drip Is Drippin&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-coffee-makers/" target="_blank">7 Best Coffee Makers (2025): Drip Is Drippin&#x27;</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-20 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="40% Off Chewy Promo Code | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chewy-promo-code/" target="_blank">40% Off Chewy Promo Code | November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-20 07:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +162,15 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/developer-experience-load-autonomy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Architecture of Developer Experience: Where Product, Platform, and Operations Meet</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-20 12:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2511.15304" target="_blank">Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-20 12:01</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +209,6 @@
                 <span class="time">2025-11-20 11:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yeahiasarker/how-we-built-the-first-open-source-rust-core-agentic-ai-framework-3kfc" target="_blank">How We Built The First Open-Source Rust Core Agentic AI Framework</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-20 10:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +228,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/GooglePixelWatch4-1280x853.jpg" alt="Google Is Practically Giving Away the Pixel Watch 4, Zero-Margin Black Friday Play on a 2025 Smartwatch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/google-is-practically-giving-away-the-pixel-watch-4-zero-margin-black-friday-play-on-a-2025-smartwatch-2000645603" target="_blank">Google Is Practically Giving Away the Pixel Watch 4, Zero-Margin Black Friday Play on a 2025 Smartwatch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-20 13:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/asus-rog-monitor-1280x853.jpg" alt="Asus Is Going Nuts, Selling ROG Strix 27″ 240Hz OLED Gaming Monitor at a New Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +282,6 @@
                 <span class="time">2025-11-20 11:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/06/304a6fd86995f7983b4e22dbf4593ab4-1024x576.jpg" alt="Telehealth Founder Convicted of Running Adderall Pill Mill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/telehealth-founder-convicted-of-running-adderall-pill-mill-2000688666" target="_blank">Telehealth Founder Convicted of Running Adderall Pill Mill</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-20 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
