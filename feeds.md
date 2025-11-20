@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-20 06:02:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-20 07:01:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, November 20, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="NordVPN Coupons and Deals: 77% Off in November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nordvpn-coupon/" target="_blank">NordVPN Coupons and Deals: 77% Off in November 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-20 06:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" alt="Google Workspace Promo Code: Up to 14% Off in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -154,15 +160,6 @@
                 <span class="time">2025-11-20 00:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws" target="_blank">Here’s the Trump executive order that would ban state AI laws</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-19 23:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +172,15 @@
                 <span class="title"><a href="https://dev.to/ahandsel/vitepress-debug-frontmattertitle-is-appearing-in-search-results-k60" target="_blank">VitePress debug: &quot;frontmatter.title&quot; is appearing in search results</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-20 05:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/openagents-org/openagents" target="_blank">Show HN: An A2A-compatible, open-source framework for multi-agent networks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-20 05:52</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/magentic-marketplace-microsoft/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Agents Fail Manipulation Tests in Microsoft&#x27;s Magentic Marketplace Simulation</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-20 01:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-MEMINSPECT-Patches" target="_blank">MEMINSPECT Proposed For The Linux Kernel To Help In Memory Analysis / Debugging</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-20 01:51</span>
             </div>
         </div>
 </div>
@@ -341,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
