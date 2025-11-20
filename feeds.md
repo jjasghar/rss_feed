@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-19 23:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-20 00:04:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, November 19, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, November 20, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/syria-condemns-israeli-pm-netanyahus-illegal-visit-to-seized-territory?traffic_source=rss" target="_blank">Syria condemns Israeli PM Netanyahu’s ‘illegal visit’ to seized territory</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-19 23:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +100,20 @@
                 <span class="time">2025-11-19 19:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/19/its-israeli-policy-report-reveals-abuse-of-palestinians-in-prisons?traffic_source=rss" target="_blank">‘It’s Israeli policy’: Report reveals abuse of Palestinians in prisons</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-19 18:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/19/nvidias-record-57b-revenue-and-upbeat-forecast-quiets-ai-bubble-talk/" target="_blank">Nvidia’s record $57B revenue and upbeat forecast quiets AI bubble talk</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-19 22:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/11/19/yc-backed-poly-relaunches-as-a-cloud-hosted-file-storage-with-ai-search/" target="_blank">YC-backed Poly relaunches as a cloud-hosted file storage with AI search</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-19 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/rebecca_heineman_1-500x500.jpg" alt="Celebrated game developer Rebecca Heineman dies at age 62" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/interplay-co-founder-and-pioneering-game-developer-rebecca-heineman-dies-at-62/" target="_blank">Celebrated game developer Rebecca Heineman dies at age 62</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-19 16:26</span>
             </div>
         </div>
 </div>
@@ -252,6 +247,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/harry-potter-hogwarts-caste-lego-set-1280x853.jpg" alt="LEGO Goes Big on Harry Potter With Major Deal, Hogwarts Castle Set Now Costs Pocket Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-goes-big-on-harry-potter-with-major-deal-hogwarts-castle-set-now-costs-pocket-change-2000645553" target="_blank">LEGO Goes Big on Harry Potter With Major Deal, Hogwarts Castle Set Now Costs Pocket Change</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-19 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAF2BWZT78Q1JQRHW9ACSMJ0/hero-image.png" alt="This Early Black Friday Deal Makes the M4 MacBook Air Cheaper Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/m4-macbook-air-black-friday-2025?utm_medium=RSS" target="_blank">This Early Black Friday Deal Makes the M4 MacBook Air Cheaper Than Ever</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-19 23:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/blops7-endgame-1280x720.jpg" alt="Black Ops 7′s Best Part Won’t Be Locked Behind Its Worst Part For Much Longer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -285,24 +298,6 @@
                 <span class="title"><a href="https://kotaku.com/the-best-games-for-the-xbox-series-x-and-s-1845727745" target="_blank">The 21 Best Games For The Xbox Series X/S</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-19 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H1A3B8G90G4086BFREJDZ/hero-image.png" alt="Why You Shouldn’t Use ‘Buy Now, Pay Later’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/the-pros-and-cons-of-apple-pay-later?utm_medium=RSS" target="_blank">Why You Shouldn’t Use ‘Buy Now, Pay Later’</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-19 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/wolf-rayet-four-shells-1280x853.jpg" alt="Webb Captures a Stunning Cosmic Structure We’ve Never Seen Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/webb-captures-a-stunning-cosmic-structure-weve-never-seen-before-2000688330" target="_blank">Webb Captures a Stunning Cosmic Structure We’ve Never Seen Before</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-19 19:55</span>
             </div>
         </div>
 </div>
@@ -351,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
