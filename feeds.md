@@ -1,42 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 10:02:10 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-21 11:01:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/21/g-s1-98704/russian-hacking-fbi-arrested-in-thailand" target="_blank">Russian hacking suspect wanted by the FBI arrested on Thai resort island</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-21 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251120-Mamdani-ch-1413-074ce3.jpg" alt="Trump to meet with Zohran Mamdani after months trading barbs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-zohran-mamdani-meet-oval-office-rcna244964" target="_blank">Trump to meet with Zohran Mamdani after months trading barbs</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-21 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,30 +94,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b436/live/e38ddb60-c630-11f0-9ad1-dbbd54dbf5de.jpg" alt="Households face unexpected rise in energy prices in new year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/countries-sharply-split-on-fossil-fuels-on-cop30-climate-summit-final-day?traffic_source=rss" target="_blank">Countries sharply split on fossil fuels on COP30 climate summit final day</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-21 08:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/israel-plans-to-seize-major-roman-era-historical-site-in-occupied-west-bank?traffic_source=rss" target="_blank">Israel plans to seize major Roman-era historical site in occupied West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-21 07:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/7d2b1c00-c63c-11f0-8c98-11fe43704bb5.jpg" alt="Zelensky ready for &#x27;honest work&#x27; with US to end Ukraine war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky ready for &#x27;honest work&#x27; with US to end Ukraine war</a></span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2lplg7d9ewo?at_medium=RSS&at_campaign=rss" target="_blank">Households face unexpected rise in energy prices in new year</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-11-21 05:55</span>
+                <span class="time">2025-11-21 08:51</span>
             </div>
         </div>
 </div>
@@ -171,6 +167,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/presentations/trust-security-cloud-native/en/mediumimage/emma-yuan-fang-medium-1763029652621.jpg" alt="Presentation: Trust No One: Securing the Modern Software Supply Chain with Zero Trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/trust-security-cloud-native/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Trust No One: Securing the Modern Software Supply Chain with Zero Trust</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-21 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/googleworkspace/from-signal-to-success-lucid-softwares-journey-as-an-early-google-chat-integration-partner-3o6m" target="_blank">From Signal to Success Lucid Software’s Journey as an Early Google Chat Integration Partner</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-21 10:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/enshittification-of-arduino-begins/" target="_blank">Enshittification of Arduino Begins? Qualcomm Starts Clamping Down</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-21 10:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/analogjs-2-angular/en/headerimage/generatedHeaderImage-1763554997809.jpg" alt="AnalogJS 2.0: Angular Full Stack Framework Introduces Content Resources &amp; Leaner Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -189,39 +212,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/11/uno-platform-6-4-agentic/en/headerimage/header-1763592955738.jpg" alt="Uno Platform 6.4 and Uno Platform Studio 2.0: .NET 10, VS2026 and Agentic AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/uno-platform-6-4-agentic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uno Platform 6.4 and Uno Platform Studio 2.0: .NET 10, VS2026 and Agentic AI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-21 08:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://allenai.org/blog/olmo3" target="_blank">Olmo 3: Charting a path through the model flow to lead open-source AI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-21 06:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/snap-app-back-up-restore/" target="_blank">Move Between the Distros: Back Up and Restore Your Snap Packages</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-21 04:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/unseenumair/no-other-icons-library-needed-4500" target="_blank">No other Icons Library Needed 🥶</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-21 02:46</span>
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/11/21/only-you-can-stop-ai-database-drops/" target="_blank">Only you can stop AI database drops</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-11-21 08:40</span>
             </div>
         </div>
 </div>
@@ -252,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/vaccinevial-1280x853.jpg" alt="Pfizer’s mRNA Flu Vaccine Works Great, but RFK Jr. Might Ruin It for Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pfizers-mrna-flu-vaccine-works-great-but-theres-a-potential-problem-2000689075" target="_blank">Pfizer’s mRNA Flu Vaccine Works Great, but RFK Jr. Might Ruin It for Everyone</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-21 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/Australian-Shepherd.jpeg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="Adorable puppy can&#x27;t figure out whose paws are right in front of his face" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/21/adorable-puppy-cant-figure-out-whose-paws-are-right-in-front-of-his-face.html" target="_blank">Adorable puppy can&#x27;t figure out whose paws are right in front of his face</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-21 09:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_354045851.jpg?fit=1500%2C993&amp;quality=60&amp;ssl=1" alt="Fortnite&#x27;s Kill Bill crossover makes zero sense and we love it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,24 +300,6 @@
                 <span class="title"><a href="https://kotaku.com/seagate-22tb-external-hard-drive-drops-60-amazon-clears-stock-for-black-friday-2000645970" target="_blank">Seagate 22TB External Hard Drive Drops 60%, Amazon Clears Stock for Black Friday</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-20 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAHMDZNJQKVPM0ZS883MT9XS/hero-image.jpg" alt="Oura Is Suing More Smart Ring Makers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/oura-is-suing-these-smart-ring-makers?utm_medium=RSS" target="_blank">Oura Is Suing More Smart Ring Makers</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-20 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Ninja-Turtles-2014-1280x853.jpg" alt="The ‘Teenage Mutant Ninja Turtles’ Are Getting New a Live-Action Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/teenage-mutant-ninja-turtles-live-action-reboot-2000689269" target="_blank">The ‘Teenage Mutant Ninja Turtles’ Are Getting New a Live-Action Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-20 22:30</span>
             </div>
         </div>
 </div>
@@ -343,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 158 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
