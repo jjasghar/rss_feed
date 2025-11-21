@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 11:01:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-21 12:02:20 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/21/frida-kahlo-painting-sells-for-record-54-7m?traffic_source=rss" target="_blank">Frida Kahlo painting sells for record $54.7m</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-21 11:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/21/nx-s1-5615168/glp-1-weight-loss-drugs-brain-nausea-wegovy-ozempic" target="_blank">Brain scientists are seeking weight-loss drugs without the nausea</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-21 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +101,29 @@
                 <span class="time">2025-11-21 09:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/21/g-s1-98694/crash-test-dummy-resembles-women" target="_blank">Transportation Department endorses crash test dummy that more closely resembles women</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-21 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b436/live/e38ddb60-c630-11f0-9ad1-dbbd54dbf5de.jpg" alt="Households face unexpected rise in energy prices in new year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2lplg7d9ewo?at_medium=RSS&at_campaign=rss" target="_blank">Households face unexpected rise in energy prices in new year</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-21 08:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley" target="_blank">The new silicon valley (literally)</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-21 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691cd4e1b5114981d80a2f8d/master/pass/gear-apple-shortcuts-2234517515.jpg" alt="Apple’s Most Overlooked App Just Got a Lot Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-shortcuts-just-got-a-lot-better/" target="_blank">Apple’s Most Overlooked App Just Got a Lot Better</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-21 11:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="KitchenAid Promo Code: $250 Off in November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +160,20 @@
                 <span class="time">2025-11-20 23:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691f856ddcea540c736d7919/master/pass/Four-Indicted-In-Alleged-Conspiracy-To-Smuggle-Supercomputers-and-Nvidia-Chips-to-China-Business-2244331491.jpg" alt="Four Indicted In Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/" target="_blank">Four Indicted In Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-20 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird" target="_blank">Grok’s Elon Musk worship is getting weird</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-20 22:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Dynamic-PAMT-TDX" target="_blank">Intel Continues Working On Dynamic PAMT To Reduce Memory Overhead For TDX</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-21 11:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/trust-security-cloud-native/en/mediumimage/emma-yuan-fang-medium-1763029652621.jpg" alt="Presentation: Trust No One: Securing the Modern Software Supply Chain with Zero Trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,30 +202,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html" target="_blank">FAWK: LLMs can write a language interpreter</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-21 10:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/analogjs-2-angular/en/headerimage/generatedHeaderImage-1763554997809.jpg" alt="AnalogJS 2.0: Angular Full Stack Framework Introduces Content Resources &amp; Leaner Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/analogjs-2-angular/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AnalogJS 2.0: Angular Full Stack Framework Introduces Content Resources &amp; Leaner Builds</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-21 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F9852%2Fffcf1c01-7d4b-4298-ad99-7d957738466a.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/david_bussell14/-55am" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-21 08:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/11/21/only-you-can-stop-ai-database-drops/" target="_blank">Only you can stop AI database drops</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-11-21 08:40</span>
             </div>
         </div>
 </div>
@@ -248,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/passenger.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Airlines create permanent surveillance files on all travelers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/21/airlines-create-permanent-surveillance-files-on-all-travelers.html" target="_blank">Airlines create permanent surveillance files on all travelers</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-21 11:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/vaccinevial-1280x853.jpg" alt="Pfizer’s mRNA Flu Vaccine Works Great, but RFK Jr. Might Ruin It for Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +301,6 @@
                 <span class="time">2025-11-20 23:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/seagate-14tb-1280x853.jpg" alt="Seagate 22TB External Hard Drive Drops 60%, Amazon Clears Stock for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/seagate-22tb-external-hard-drive-drops-60-amazon-clears-stock-for-black-friday-2000645970" target="_blank">Seagate 22TB External Hard Drive Drops 60%, Amazon Clears Stock for Black Friday</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-20 23:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 158 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
