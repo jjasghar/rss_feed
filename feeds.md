@@ -1,34 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 21:01:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-21 22:01:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +60,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/21/nx-s1-5616284/female-crash-test-dummy-design-approval" target="_blank">The female crash test dummy has been a long time coming — but she isn&#x27;t here yet</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-21 19:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/11/21/nx-s1-5615174/south-africa-g20-us-boycott" target="_blank">South Africa hosts G20 as tensions with U.S. flare amid boycott</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-21 18:48</span>
@@ -89,20 +92,29 @@
                 <span class="time">2025-11-21 17:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-mamdani-gty-gmh-251120_1763652204638_hpMain_4x3t_384.jpg" alt="Trump, Mamdani to meet in Oval Office as mayor-elect pushes affordability agenda" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-mamdani-meet-oval-office-mayor-elect-pushes/story?id=127715736" target="_blank">Trump, Mamdani to meet in Oval Office as mayor-elect pushes affordability agenda</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-21 17:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6920a060c597ca958cb5bdaf/master/pass/Fortnite-Players-Fighting-Ice-Culture-shutterstock_1444806506.jpg" alt="Activists Are Using &#x27;Fortnite&#x27; to Fight Back Against ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/activists-are-using-fortnite-to-fight-back-against-ice/" target="_blank">Activists Are Using &#x27;Fortnite&#x27; to Fight Back Against ICE</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-21 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/826695/microsoft-xbox-full-screen-experience-pc-laptop-tablet-windows-insider" target="_blank">You can now try the Xbox Full Screen Experience on any PC, laptop, or tablet</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-21 21:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/nvidia-chip-500x500-1754500471.jpg" alt="Tech company CTO and others indicted for exporting Nvidia chips to China" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +151,20 @@
                 <span class="time">2025-11-21 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6920aeda7fd002138b1839e4/master/pass/These%20Beats%20Headphones%20Are%20Marked%20Down%20to%20$150%20for%20Black%20Friday.png" alt="These Beats Headphones Are Marked Down to $150 for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/beats-studio-pro-deal-1125/" target="_blank">These Beats Headphones Are Marked Down to $150 for Black Friday</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-21 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/roadtripTOP-500x500.jpg" alt="Chris Hemsworth and dad fight Alzheimer’s with a trip down memory lane" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/chris-hemsworth-and-dad-fight-alzheimers-with-a-trip-down-memory-lane/" target="_blank">Chris Hemsworth and dad fight Alzheimer’s with a trip down memory lane</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-21 17:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18768548&w=600" alt="Why the MITRE ATT&amp;amp;CK Framework Actually Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-the-mitre-attampck-framework-actually-works" target="_blank">Why the MITRE ATT&amp;amp;CK Framework Actually Works</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-21 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +210,6 @@
                 <span class="time">2025-11-21 16:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-5glp" target="_blank">Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-21 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/destoyer2-1280x720.jpg" alt="Someone Built The Independence Day Ship In No Man’s Sky And It’s As Terrifying As It Is Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/no-mans-sky-corvette-independence-day-ship-build-2000646306" target="_blank">Someone Built The Independence Day Ship In No Man’s Sky And It’s As Terrifying As It Is Awesome</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-21 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAM4C48B0SF3W2CVDTATVXA6/hero-image.jpg" alt="This Black Friday Deal Cuts 50% Off a Six-Month Apple TV Subscription" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-tv-subscription-black-friday-2025?utm_medium=RSS" target="_blank">This Black Friday Deal Cuts 50% Off a Six-Month Apple TV Subscription</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-21 21:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/hoyo-1280x720.jpg" alt="The Genshin Impact Company Just Revealed Another New Game And It’s Basically Anime Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/doge-laid-off-the-humans-now-the-irs-is-deploying-ai-agents-2000689563" target="_blank">DOGE Laid Off the Humans. Now the IRS Is Deploying AI Agents</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-21 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAKSHTTJXZ508WE58K53Q6YT/hero-image.png" alt="All Amazon Kindle Paperwhites Are at Their Lowest Ever Prices for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/all-amazon-kindle-paperwhite-lowest-ever-prices-black-friday?utm_medium=RSS" target="_blank">All Amazon Kindle Paperwhites Are at Their Lowest Ever Prices for Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-21 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/Screenshot-2025-11-21-125129-1280x711.jpg" alt="Revived Hytale Will Be Priced As ‘Aggressively Low As Possible’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hytale-riot-price-low-minecraft-hypixel-2000646230" target="_blank">Revived Hytale Will Be Priced As ‘Aggressively Low As Possible’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-21 17:59</span>
             </div>
         </div>
 </div>
@@ -335,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
