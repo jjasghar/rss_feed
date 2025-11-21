@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 19:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-21 20:01:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +74,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-mamdani-gty-gmh-251120_1763652204638_hpMain_4x3t_384.jpg" alt="Trump, Mamdani to meet in Oval Office as mayor-elect pushes affordability agenda" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-mamdani-meet-oval-office-mayor-elect-pushes/story?id=127715736" target="_blank">Trump, Mamdani to meet in Oval Office as mayor-elect pushes affordability agenda</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-21 17:12</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -87,20 +100,29 @@
                 <span class="time">2025-11-21 16:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab6/live/15f39120-c6f0-11f0-b222-8b5ed945ab17.jpg" alt="Steve Rosenberg: Kremlin tight-lipped on leaked plan - but advises Kyiv to accept" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y9k0mrm2ro?at_medium=RSS&at_campaign=rss" target="_blank">Steve Rosenberg: Kremlin tight-lipped on leaked plan - but advises Kyiv to accept</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-21 15:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21250695/best-laptops" target="_blank">The best laptops you can get</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-21 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6920acb12e95b0710d7d0ea3/master/pass/2231892531" alt="MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/" target="_blank">MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-21 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6920aeda7fd002138b1839e4/master/pass/These%20Beats%20Headphones%20Are%20Marked%20Down%20to%20$150%20for%20Black%20Friday.png" alt="These Beats Headphones Are Marked Down to $150 for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,24 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/825254/ipad-a16-black-friday-deal-sale-2025" target="_blank">Apple’s cheapest iPad is already $70 off for Black Friday</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-21 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/21/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/" target="_blank">Impersonators are (still) targeting companies with fake TechCrunch outreach</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-21 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67412240e4a282f537d8e3f7/master/pass/CurrentBody-LED-Face-Mask-Series-2-Product-Selfie-Reviewer-Photo-SOURCE-Nena-Farrell.jpg" alt="The Best Red Light Therapy Mask You Can Buy Is Currently on Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-current-body-black-friday-deals-2025/" target="_blank">The Best Red Light Therapy Mask You Can Buy Is Currently on Sale</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-21 16:46</span>
             </div>
         </div>
 </div>
@@ -223,18 +227,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html" target="_blank">AI as Cyberattacker</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/71226.html" target="_blank">More on Rewiring Democracy</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-21 12:01</span>
+                <span class="time">2025-11-21 19:07</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/" target="_blank">Mozilla Says It’s Finally Done With Two-Faced Onerep</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-11-20 19:06</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html" target="_blank">AI as Cyberattacker</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-21 12:01</span>
             </div>
         </div>
 </div>
@@ -242,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/03/GettyImages-2200859743-1280x853.jpg" alt="DOGE Laid Off the Humans. Now the IRS Is Deploying AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/doge-laid-off-the-humans-now-the-irs-is-deploying-ai-agents-2000689563" target="_blank">DOGE Laid Off the Humans. Now the IRS Is Deploying AI Agents</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-21 19:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KAKSHTTJXZ508WE58K53Q6YT/hero-image.png" alt="All Amazon Kindle Paperwhites Are at Their Lowest Ever Prices for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +300,6 @@
                 <span class="time">2025-11-21 15:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/TSA-e1763738113469.jpeg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Transportation Secretary feels fashion and friendliness will improve holiday air travel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/21/transportation-secretary-feels-fashion-and-friendliness-will-improve-holiday-air-travel.html" target="_blank">Transportation Secretary feels fashion and friendliness will improve holiday air travel</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-21 15:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
