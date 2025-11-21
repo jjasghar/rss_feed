@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 14:01:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-21 15:01:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +51,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/zelenskyy-says-trumps-ukraine-plan-must-ensure-real-and-dignified-peace?traffic_source=rss" target="_blank">Zelenskyy says Trump’s Ukraine plan must ensure ‘real and dignified peace’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-21 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/why-has-trump-blasted-democrats-for-seditious-comments?traffic_source=rss" target="_blank">Why has Trump blasted US Democrats for ‘seditious’ comments?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-21 13:30</span>
@@ -66,6 +75,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1aa/live/5a731620-c6d9-11f0-a418-cd69f988232b.jpg" alt="Russia yet to receive anything official from US on Ukraine peace plan, Kremlin says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czrkg3gx6d6o?at_medium=RSS&at_campaign=rss" target="_blank">Russia yet to receive anything official from US on Ukraine peace plan, Kremlin says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-21 12:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1aa/live/5a731620-c6d9-11f0-a418-cd69f988232b.jpg" alt="Russia yet to receive anything official from US on peace plan, Kremlin says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -75,30 +93,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763728861418_tdy_news_7a_welker_trump_mamdani_meeting_251121_1920x1080-c9xww6.jpg" alt="Trump to Meet NYC Mayor-Elect Mamdani in Oval Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/indias-home-built-fighter-jet-tejas-crashes-at-dubai-air-show-pilot-dies?traffic_source=rss" target="_blank">India’s Tejas fighter jet crashes at Dubai Airshow, pilot dies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-21 12:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/21/g-s1-97678/measles-romania-vaccines" target="_blank">Are there lessons for the U.S. in this European country&#x27;s struggle with measles?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-21 12:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/21/frida-kahlo-painting-sells-for-record-54-7m?traffic_source=rss" target="_blank">Frida Kahlo painting sells for record $54.7m</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-21 11:06</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-to-meet-nyc-mayor-elect-mamdani-in-oval-office-252533317714" target="_blank">Trump to Meet NYC Mayor-Elect Mamdani in Oval Office</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-21 12:41</span>
             </div>
         </div>
 </div>
@@ -106,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/825219/optimizer-ai-nutrition-tracking-wellness" target="_blank">AI nutrition tracking stinks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-21 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2246883754-500x500.jpg" alt="Rocket Report: SpaceX’s next-gen booster fails; Pegasus will fly again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +160,20 @@
                 <span class="time">2025-11-21 11:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/" target="_blank">The European startup market is ready for the limelight</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-21 11:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcsncqwz290ubtva1gkwa.png" alt="How I built a hybrid LAN/WAN file sync engine without VPN (and why on-demand sync still matters)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pfresquet/how-i-built-a-hybrid-lanwan-file-sync-engine-without-vpn-and-why-on-demand-sync-still-matters-4iib" target="_blank">How I built a hybrid LAN/WAN file sync engine without VPN (and why on-demand sync still matters)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-21 14:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz4uz6ixhzg21rrks3os9.png" alt="This Week In React #259: State of React, Promise subclasses, Next.js, RSC, JSX Tools | Yoga CSS Grid, Radon | TC39, Browserslist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +219,6 @@
                 <span class="time">2025-11-21 10:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/enshittification-of-arduino-begins/" target="_blank">Enshittification of Arduino Begins? Qualcomm Starts Clamping Down</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-21 10:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +248,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/ssd-9100-pro-1280x853.jpg" alt="Samsung 9100 PRO SSD Hits $0.13 per GB, Basically a Loss-Margin Black Friday Giveaway" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/boost-storage-with-the-samsung-9100-pro-1tb-ssd-at-a-32-discount-2000645810" target="_blank">Samsung 9100 PRO SSD Hits $0.13 per GB, Basically a Loss-Margin Black Friday Giveaway</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-21 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/drone-with-AED-1280x853.jpg" alt="North Carolina Town First in U.S. to Deploy Defibrillator Drones During Actual 911 Emergencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/north-carolina-town-first-in-u-s-to-deploy-defibrillator-drones-during-actual-911-emergencies-2000689322" target="_blank">North Carolina Town First in U.S. to Deploy Defibrillator Drones During Actual 911 Emergencies</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-21 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAK16T6H833Y1KS282DE8BT5/hero-image.png" alt="The OnePlus 13 Is Already $150 Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/oneplus-13-sale-black-friday-2025?utm_medium=RSS" target="_blank">The OnePlus 13 Is Already $150 Off for Black Friday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-21 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HRDCC3QTX2MG4N0B8MV65GZ2/hero-image.png" alt="You Should Motivate Yourself With a &#x27;Jar of Awesome&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -272,33 +299,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/21/librarian-spent-5-years-fighting-proctorio-lawsuit-for-sharing-public-youtube-videos.html" target="_blank">Librarian spent 5 years fighting Proctorio lawsuit for sharing public YouTube videos</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-21 12:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/passenger.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Airlines create permanent surveillance files on all travelers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/21/airlines-create-permanent-surveillance-files-on-all-travelers.html" target="_blank">Airlines create permanent surveillance files on all travelers</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-21 11:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/vaccinevial-1280x853.jpg" alt="Pfizer’s mRNA Flu Vaccine Works Great, but RFK Jr. Might Ruin It for Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/pfizers-mrna-flu-vaccine-works-great-but-theres-a-potential-problem-2000689075" target="_blank">Pfizer’s mRNA Flu Vaccine Works Great, but RFK Jr. Might Ruin It for Everyone</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-21 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/Australian-Shepherd.jpeg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="Adorable puppy can&#x27;t figure out whose paws are right in front of his face" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/21/adorable-puppy-cant-figure-out-whose-paws-are-right-in-front-of-his-face.html" target="_blank">Adorable puppy can&#x27;t figure out whose paws are right in front of his face</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-21 09:31</span>
             </div>
         </div>
 </div>
@@ -338,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 155 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
