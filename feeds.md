@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 18:02:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-21 19:01:28 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/21/nx-s1-5615174/south-africa-g20-us-boycott" target="_blank">South Africa hosts G20 as tensions with U.S. flare amid boycott</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-21 18:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +96,20 @@
                 <span class="time">2025-11-21 15:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/21/nx-s1-5612475/vaping-cigarettes-tobacco-addiction" target="_blank">Can vaping help wean people off cigarettes? Anti-smoking advocates are sharply split</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-21 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6920aeda7fd002138b1839e4/master/pass/These%20Beats%20Headphones%20Are%20Marked%20Down%20to%20$150%20for%20Black%20Friday.png" alt="These Beats Headphones Are Marked Down to $150 for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/beats-studio-pro-deal-1125/" target="_blank">These Beats Headphones Are Marked Down to $150 for Black Friday</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-21 18:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/roadtripTOP-500x500.jpg" alt="Chris Hemsworth and dad fight Alzheimer’s with a trip down memory lane" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +155,20 @@
                 <span class="time">2025-11-21 16:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/bronze-axe-2-wow-500x500.jpg" alt="First revealed in spy photos, a Bronze Age city emerges from the steppe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/archaeologists-find-ruins-of-a-bronze-age-city-on-the-kazakh-steppe/" target="_blank">First revealed in spy photos, a Bronze Age city emerges from the steppe</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-21 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fijzez/top-5-ai-tools-every-developer-should-try-in-2025-3gdm" target="_blank">Top 5 AI Tools Every Developer Should Try in 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-21 18:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +214,6 @@
                 <span class="time">2025-11-21 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/STF-Hiring-New-Head" target="_blank">Sovereign Tech Fund Hiring A New Leader For Driving Open-Source Funding</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-21 15:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAKSHTTJXZ508WE58K53Q6YT/hero-image.png" alt="All Amazon Kindle Paperwhites Are at Their Lowest Ever Prices for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/all-amazon-kindle-paperwhite-lowest-ever-prices-black-friday?utm_medium=RSS" target="_blank">All Amazon Kindle Paperwhites Are at Their Lowest Ever Prices for Black Friday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-21 18:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/Screenshot-2025-11-21-125129-1280x711.jpg" alt="Revived Hytale Will Be Priced As ‘Aggressively Low As Possible’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +296,6 @@
                 <span class="time">2025-11-21 15:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/ssd-9100-pro-1280x853.jpg" alt="Samsung 9100 PRO SSD Hits $0.13 per GB, Basically a Loss-Margin Black Friday Giveaway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/boost-storage-with-the-samsung-9100-pro-1tb-ssd-at-a-32-discount-2000645810" target="_blank">Samsung 9100 PRO SSD Hits $0.13 per GB, Basically a Loss-Margin Black Friday Giveaway</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-21 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
