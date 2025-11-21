@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 16:02:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-21 17:01:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 13 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/21/eli-lilly-becomes-first-pharma-firm-to-join-1-trillion-club?traffic_source=rss" target="_blank">Eli Lilly becomes first pharma firm to join $1 trillion club</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-21 16:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da94/live/4fec6e20-c6f4-11f0-a892-01d657345866.jpg" alt="Former Welsh Reform leader jailed for pro-Russia bribery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yd878ejqko?at_medium=RSS&at_campaign=rss" target="_blank">Former Welsh Reform leader jailed for pro-Russia bribery</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-21 16:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab6/live/15f39120-c6f0-11f0-b222-8b5ed945ab17.jpg" alt="Steve Rosenberg: Kremlin tight-lipped on leaked plan - but advises Kyiv to accept" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +101,47 @@
                 <span class="time">2025-11-21 14:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/why-has-trump-blasted-democrats-for-seditious-comments?traffic_source=rss" target="_blank">Why has Trump blasted US Democrats for ‘seditious’ comments?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-21 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/21/run-up-to-g20-in-south-africa-marred-by-hosts-simmering-row-with-us" target="_blank">South Africa’s dispute with US escalates amid row over G20 handover event</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-21 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/825254/ipad-a16-black-friday-deal-sale-2025" target="_blank">Apple’s cheapest iPad is already $70 off for Black Friday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-21 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/21/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/" target="_blank">Impersonators are (still) targeting companies with fake TechCrunch outreach</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-21 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/67412240e4a282f537d8e3f7/master/pass/CurrentBody-LED-Face-Mask-Series-2-Product-Selfie-Reviewer-Photo-SOURCE-Nena-Farrell.jpg" alt="The Best Red Light Therapy Mask You Can Buy Is Currently on Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-current-body-black-friday-deals-2025/" target="_blank">The Best Red Light Therapy Mask You Can Buy Is Currently on Sale</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-21 16:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/bronze-axe-2-wow-500x500.jpg" alt="First revealed in spy photos, a Bronze Age city emerges from the steppe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/archaeologists-find-ruins-of-a-bronze-age-city-on-the-kazakh-steppe/" target="_blank">First revealed in spy photos, a Bronze Age city emerges from the steppe</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-21 15:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,53 +160,44 @@
                 <span class="time">2025-11-21 13:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68673298cf92a64e6097d0b1/master/pass/The%20Best%20Kids%E2%80%99%20Headphones%20for%20Sensitive%20Little%20Ears.png" alt="13 Best Kids Headphones (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-kids-headphones/" target="_blank">13 Best Kids Headphones (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-21 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1137650996-500x500.jpg" alt="Pornhub is urging tech giants to enact device-based age verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/pornhub-is-urging-tech-giants-to-enact-device-based-age-verification/" target="_blank">Pornhub is urging tech giants to enact device-based age verification</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-21 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley" target="_blank">The new silicon valley (literally)</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-21 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691cd4e1b5114981d80a2f8d/master/pass/gear-apple-shortcuts-2234517515.jpg" alt="Apple’s Most Overlooked App Just Got a Lot Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-shortcuts-just-got-a-lot-better/" target="_blank">Apple’s Most Overlooked App Just Got a Lot Better</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-21 11:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/11/qcon-engineering-leadership/en/headerimage/generatedHeaderImage-1763658090627.jpg" alt="QConSF 2025: Humans in the Loop: Engineering Leadership in a Chaotic Industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/qcon-engineering-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QConSF 2025: Humans in the Loop: Engineering Leadership in a Chaotic Industry</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-21 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://wealthfolio.app/?v=2.0" target="_blank">Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-21 16:34</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-5glp" target="_blank">Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2025-11-21 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-zen4-epyc-9v64h-clang-21" target="_blank">Clang 21 Delivering Nice Performance Gains On AMD EPYC Zen 4 With HBM3</a></span>
+                <span class="feed">Phoronix</span>
                 <span class="time">2025-11-21 16:00</span>
             </div>
         </div>
@@ -190,33 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/airbnb-mussel-adaptive-traffic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">From Static to Adaptive Traffic Control in Airbnb’s Key-Value Store to Handle Traffic Spikes</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-21 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcsncqwz290ubtva1gkwa.png" alt="How I built a hybrid LAN/WAN file sync engine without VPN (and why on-demand sync still matters)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pfresquet/how-i-built-a-hybrid-lanwan-file-sync-engine-without-vpn-and-why-on-demand-sync-still-matters-4iib" target="_blank">How I built a hybrid LAN/WAN file sync engine without VPN (and why on-demand sync still matters)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-21 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz4uz6ixhzg21rrks3os9.png" alt="This Week In React #259: State of React, Promise subclasses, Next.js, RSC, JSX Tools | Yoga CSS Grid, Radon | TC39, Browserslist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sebastienlorber/this-week-in-react-259-state-of-react-promise-subclasses-nextjs-rsc-jsx-tools-yoga-css-a4o" target="_blank">This Week In React #259: State of React, Promise subclasses, Next.js, RSC, JSX Tools | Yoga CSS Grid, Radon | TC39, Browserslist</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-21 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/polyapolza108/how-ai-could-transform-team-collaboration-opportunities-challenges-and-the-future-3o5o" target="_blank">How AI could transform team collaboration: opportunities, challenges, and the future</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-21 13:01</span>
             </div>
         </div>
 </div>
@@ -247,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVQ2QHB8X4P8477SC4KQVWHE/hero-image.jpg" alt="The 30 Best Movies Streaming on Tubi Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-tubi?utm_medium=RSS" target="_blank">The 30 Best Movies Streaming on Tubi Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-21 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/roblox99.jpg" alt="Roblox CEO Makes Utter Fool Of Himself In Car-Crash Interview Over Child Safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,20 +301,20 @@
                 <span class="time">2025-11-21 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/jumbles.jpg?fit=904%2C1200&amp;quality=60&amp;ssl=1" alt="Deaf illustrator created beloved children&#x27;s classics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/21/deaf-illustrator-created-beloved-childrens-classics.html" target="_blank">Deaf illustrator created beloved children&#x27;s classics</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-21 12:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1763689949-20251121_edit.png" alt="Saturday Morning Breakfast Cereal - Blame" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/blame" target="_blank">Saturday Morning Breakfast Cereal - Blame</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-21 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -324,22 +333,13 @@
                 <span class="time">2025-11-21 01:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1763611254-20251120edit.png" alt="Saturday Morning Breakfast Cereal - Sword" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/sword-2" target="_blank">Saturday Morning Breakfast Cereal - Sword</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-20 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
