@@ -1,41 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 00:04:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-21 01:29:20 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/20/g-s1-98669/fire-united-nations-climate-talks-brazil-cop30" target="_blank">Fire prompts evacuations at U.N. climate talks in Brazil; 13 suffer smoke inhalation</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-21 00:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +90,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c8030xvvlv0o?at_medium=RSS&at_campaign=rss" target="_blank">UK did &#x27;too little, too late&#x27;, leading to thousands more Covid deaths, says inquiry</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-20 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/james-comey-rt-jef-251120_1763655111182_hpMain_4x3t_384.jpg" alt="In reversal, DOJ says Comey indictment was reviewed by full grand jury" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/doj-halligan-slam-judge-comey-case-hearing/story?id=127709589" target="_blank">In reversal, DOJ says Comey indictment was reviewed by full grand jury</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-20 20:33</span>
             </div>
         </div>
 </div>
@@ -170,6 +157,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbtpy9ni92kbotowzcn0.jpg" alt="Give Your SQLite Queries Their Own Workers: A Practical Guide for Node.js Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mashraf_aiman_b9a968e5c1d/give-your-sqlite-queries-their-own-workers-a-practical-guide-for-nodejs-developers-3d74" target="_blank">Give Your SQLite Queries Their Own Workers: A Practical Guide for Node.js Developers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-21 01:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -188,6 +184,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Dell-Pro-Max-With-Qualcomm-NPU" target="_blank">Dell Now Shipping Laptop With Qualcomm NPU On Linux Ahead Of Windows 11</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-20 22:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp97jaxtc7j1bvj5y8akm.png" alt="Skills, MCPs, and Commands are the same context engineering trend." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,28 +208,6 @@
                 <span class="title"><a href="https://snarky.ca/the-varying-strictness-of-typeddict/" target="_blank">The varying strictness of TypedDict</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-11-20 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/android-jetpack-navigation-3/en/headerimage/android-jetpack-navigation-3-1763670482481.jpeg" alt="After Seven Years, Google Reinvents Android Navigation with Jetpack Navigation 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/android-jetpack-navigation-3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">After Seven Years, Google Reinvents Android Navigation with Jetpack Navigation 3</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-20 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3621670%2Fc2f0605b-db5f-4b4f-a08d-cf90892b0c61.png" alt="🌍 We are 14-year-old students from Valleyspur International School, Uganda, and we built a complete SDG website from scratch 😳🔥
-
-Our website teaches what to do during war, shows safe locations on a live map, includes emergency call buttons, videos, voic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mikekeith/we-are-14-year-old-students-from-valleyspur-international-school-uganda-and-we-built-a-complete-fod" target="_blank">🌍 We are 14-year-old students from Valleyspur International School, Uganda, and we built a complete SDG website from scratch 😳🔥
-
-Our website teaches what to do during war, shows safe locations on a live map, includes emergency call buttons, videos, voic</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-20 20:47</span>
             </div>
         </div>
 </div>
@@ -255,6 +238,15 @@ Our website teaches what to do during war, shows safe locations on a live map, i
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/The-Wailing-io9-2025-retro-review-1280x853.jpg" alt="‘The Wailing’ Is a Korean Horror Masterpiece You Can’t Brace Yourself For" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-wailing-2016-korean-horror-film-review-2000688989" target="_blank">‘The Wailing’ Is a Korean Horror Masterpiece You Can’t Brace Yourself For</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-20 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/seagate-14tb-1280x853.jpg" alt="Seagate 22TB External Hard Drive Drops 60%, Amazon Clears Stock for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,15 +292,6 @@ Our website teaches what to do during war, shows safe locations on a live map, i
                 <span class="time">2025-11-20 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/arcmain4-1280x720.jpg" alt="Monster Handgun Wrecking Everyone In Arc Raiders Has Been Put In Nerf Jail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-embark-studios-1-3-0-venerator-wall-key-2000645901" target="_blank">Monster Handgun Wrecking Everyone In Arc Raiders Has Been Put In Nerf Jail</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-20 19:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +311,8 @@ Our website teaches what to do during war, shows safe locations on a live map, i
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
