@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 15:01:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-21 16:02:21 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab6/live/15f39120-c6f0-11f0-b222-8b5ed945ab17.jpg" alt="Steve Rosenberg: Kremlin tight-lipped on leaked plan - but advises Kyiv to accept" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y9k0mrm2ro?at_medium=RSS&at_campaign=rss" target="_blank">Steve Rosenberg: Kremlin tight-lipped on leaked plan - but advises Kyiv to accept</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-21 15:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/21/nx-s1-5612475/vaping-cigarettes-tobacco-addiction" target="_blank">Can vaping help wean people off cigarettes? Anti-smoking advocates are sharply split</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-21 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/despite-gaza-ceasefire-we-havent-seen-the-worst-btselem-chief?traffic_source=rss" target="_blank">Despite Gaza ceasefire, ‘we haven’t seen the worst’: B’Tselem chief</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-21 14:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,36 +96,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/21/run-up-to-g20-in-south-africa-marred-by-hosts-simmering-row-with-us" target="_blank">Run-up to G20 in South Africa marred by host’s simmering row with US</a></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/21/run-up-to-g20-in-south-africa-marred-by-hosts-simmering-row-with-us" target="_blank">South Africa’s dispute with US escalates amid row over G20 handover event</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-21 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1aa/live/5a731620-c6d9-11f0-a418-cd69f988232b.jpg" alt="Russia yet to receive anything official from US on Ukraine peace plan, Kremlin says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czrkg3gx6d6o?at_medium=RSS&at_campaign=rss" target="_blank">Russia yet to receive anything official from US on Ukraine peace plan, Kremlin says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-21 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1aa/live/5a731620-c6d9-11f0-a418-cd69f988232b.jpg" alt="Russia yet to receive anything official from US on peace plan, Kremlin says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czrkg3gx6d6o?at_medium=RSS&at_campaign=rss" target="_blank">Russia yet to receive anything official from US on peace plan, Kremlin says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-21 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763728861418_tdy_news_7a_welker_trump_mamdani_meeting_251121_1920x1080-c9xww6.jpg" alt="Trump to Meet NYC Mayor-Elect Mamdani in Oval Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-to-meet-nyc-mayor-elect-mamdani-in-oval-office-252533317714" target="_blank">Trump to Meet NYC Mayor-Elect Mamdani in Oval Office</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-21 12:41</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-5glp" target="_blank">Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-21 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/STF-Hiring-New-Head" target="_blank">Sovereign Tech Fund Hiring A New Leader For Driving Open-Source Funding</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-21 15:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/airbnb-mussel-adaptive-traffic/en/headerimage/generatedHeaderImage-1763253167225.jpg" alt="From Static to Adaptive Traffic Control in Airbnb’s Key-Value Store to Handle Traffic Spikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/airbnb-mussel-adaptive-traffic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">From Static to Adaptive Traffic Control in Airbnb’s Key-Value Store to Handle Traffic Spikes</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-21 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcsncqwz290ubtva1gkwa.png" alt="How I built a hybrid LAN/WAN file sync engine without VPN (and why on-demand sync still matters)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/polyapolza108/how-ai-could-transform-team-collaboration-opportunities-challenges-and-the-future-3o5o" target="_blank">How AI could transform team collaboration: opportunities, challenges, and the future</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-21 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Dynamic-PAMT-TDX" target="_blank">Intel Continues Working On Dynamic PAMT To Reduce Memory Overhead For TDX</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-21 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/trust-security-cloud-native/en/mediumimage/emma-yuan-fang-medium-1763029652621.jpg" alt="Presentation: Trust No One: Securing the Modern Software Supply Chain with Zero Trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/trust-security-cloud-native/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Trust No One: Securing the Modern Software Supply Chain with Zero Trust</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-21 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/googleworkspace/from-signal-to-success-lucid-softwares-journey-as-an-early-google-chat-integration-partner-3o6m" target="_blank">From Signal to Success Lucid Software’s Journey as an Early Google Chat Integration Partner</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-21 10:46</span>
             </div>
         </div>
 </div>
@@ -247,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/roblox99.jpg" alt="Roblox CEO Makes Utter Fool Of Himself In Car-Crash Interview Over Child Safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/roblox-new-york-times-interview-baszucki-2000646174" target="_blank">Roblox CEO Makes Utter Fool Of Himself In Car-Crash Interview Over Child Safety</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-21 15:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/ssd-9100-pro-1280x853.jpg" alt="Samsung 9100 PRO SSD Hits $0.13 per GB, Basically a Loss-Margin Black Friday Giveaway" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +301,6 @@
                 <span class="time">2025-11-21 12:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/classroom.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Librarian spent 5 years fighting Proctorio lawsuit for sharing public YouTube videos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/21/librarian-spent-5-years-fighting-proctorio-lawsuit-for-sharing-public-youtube-videos.html" target="_blank">Librarian spent 5 years fighting Proctorio lawsuit for sharing public YouTube videos</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-21 12:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
