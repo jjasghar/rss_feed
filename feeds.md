@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 20:01:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-21 21:01:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/21/is-the-us-negotiating-away-ukraines-future-while-favouring-russia?traffic_source=rss" target="_blank">Is the US negotiating away Ukraine’s future while favouring Russia?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-21 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  NYC Mayor-elect Mamdani meets with President Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  NYC Mayor-elect Mamdani meets with President Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-21 19:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +98,29 @@
                 <span class="time">2025-11-21 17:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/21/eli-lilly-becomes-first-pharma-firm-to-join-1-trillion-club?traffic_source=rss" target="_blank">Eli Lilly becomes first pharma firm to join $1 trillion club</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-21 16:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da94/live/4fec6e20-c6f4-11f0-a892-01d657345866.jpg" alt="Former Welsh Reform leader jailed for pro-Russia bribery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yd878ejqko?at_medium=RSS&at_campaign=rss" target="_blank">Former Welsh Reform leader jailed for pro-Russia bribery</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-21 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/nvidia-chip-500x500-1754500471.jpg" alt="Tech company CTO and others indicted for exporting Nvidia chips to China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/tech-company-cto-and-others-indicted-for-exporting-nvidia-chips-to-china/" target="_blank">Tech company CTO and others indicted for exporting Nvidia chips to China</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-21 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/21/the-hottest-ai-wearables-and-gadgets-you-can-buy-right-now/" target="_blank">The hottest AI wearables and gadgets you can buy right now</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-21 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +157,20 @@
                 <span class="time">2025-11-21 17:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/826189/hoto-cordless-leaf-blower-720-cfm-120-mph" target="_blank">Hoto’s slick new leaf blower looks ready to blast away leaves or alien invaders</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-21 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/825254/ipad-a16-black-friday-deal-sale-2025" target="_blank">Apple’s cheapest iPad is already $70 off for Black Friday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-21 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Frame-Turnip-Vulkan" target="_blank">Steam Frame Using Mesa&#x27;s Turnip Vulkan Open-Source Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-21 19:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +216,6 @@
                 <span class="time">2025-11-21 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-zen4-epyc-9v64h-clang-21" target="_blank">Clang 21 Delivering Nice Performance Gains On AMD EPYC Zen 4 With HBM3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-21 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +245,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/hoyo-1280x720.jpg" alt="The Genshin Impact Company Just Revealed Another New Game And It’s Basically Anime Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/varsapura-trailer-anime-horror-genshin-impact-2000646294" target="_blank">The Genshin Impact Company Just Revealed Another New Game And It’s Basically Anime Control</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-21 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/also-Cui-Jun-1280x853.jpg" alt="Do Not, Under Any Circumstance, Buy Your Kid an AI Toy for Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/do-not-under-any-circumstance-buy-your-kid-an-ai-toy-for-christmas-2000689652" target="_blank">Do Not, Under Any Circumstance, Buy Your Kid an AI Toy for Christmas</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-21 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAKW6VSX2VJRC9Q8XKYBVB9A/hero-image.png" alt="You Can Now Directly Import Apple Music Playlists to Spotify" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/transfer-apple-music-playlists-spotify?utm_medium=RSS" target="_blank">You Can Now Directly Import Apple Music Playlists to Spotify</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-21 20:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/03/GettyImages-2200859743-1280x853.jpg" alt="DOGE Laid Off the Humans. Now the IRS Is Deploying AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -271,33 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/hytale-riot-price-low-minecraft-hypixel-2000646230" target="_blank">Revived Hytale Will Be Priced As ‘Aggressively Low As Possible’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-21 17:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Early Black Friday Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Early Black Friday Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-21 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVQ2QHB8X4P8477SC4KQVWHE/hero-image.jpg" alt="The 30 Best Movies Streaming on Tubi Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-tubi?utm_medium=RSS" target="_blank">The 30 Best Movies Streaming on Tubi Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-21 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/roblox99.jpg" alt="Roblox CEO Makes Utter Fool Of Himself In Car-Crash Interview Over Child Safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/roblox-new-york-times-interview-baszucki-2000646174" target="_blank">Roblox CEO Makes Utter Fool Of Himself In Car-Crash Interview Over Child Safety</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-21 15:54</span>
             </div>
         </div>
 </div>
@@ -338,7 +336,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 20:02 UTC
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
