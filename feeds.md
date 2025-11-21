@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 12:02:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-21 13:09:30 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1aa/live/5a731620-c6d9-11f0-a418-cd69f988232b.jpg" alt="Russia yet to receive anything official from US on peace plan, Kremlin says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czrkg3gx6d6o?at_medium=RSS&at_campaign=rss" target="_blank">Russia yet to receive anything official from US on peace plan, Kremlin says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-21 12:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/indias-home-built-fighter-jet-tejas-crashes-at-dubai-air-show-pilot-dies?traffic_source=rss" target="_blank">India’s Tejas fighter jet crashes at Dubai Airshow, pilot dies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-21 12:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/21/g-s1-97678/measles-romania-vaccines" target="_blank">Are there lessons for the U.S. in this European country&#x27;s struggle with measles?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-21 12:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,39 +94,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0ba/live/2c041c20-c6c1-11f0-8c06-f5d460985095.jpg" alt="UK expected to approve plans for Chinese mega embassy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/21/g-s1-98704/russian-hacking-fbi-arrested-in-thailand" target="_blank">Russian hacking suspect wanted by the FBI arrested on Thai resort island</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-21 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251120-Mamdani-ch-1413-074ce3.jpg" alt="Trump to meet with Zohran Mamdani after months trading barbs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-zohran-mamdani-meet-oval-office-rcna244964" target="_blank">Trump to meet with Zohran Mamdani after months trading barbs</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-21 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/explosion-at-glue-factory-in-eastern-pakistan-kills-at-least-16?traffic_source=rss" target="_blank">Explosion at glue factory in eastern Pakistan kills at least 16</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-21 09:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Zelenskyy-in-France-DB-251120_1763636313907_hpMain_4x3t_384.jpg" alt="US revives Ukraine-Russia peace push with Zelenskyy on the defensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/us-revives-ukraine-russia-peace-push-zelenskyy-defensive/story?id=127700650" target="_blank">US revives Ukraine-Russia peace push with Zelenskyy on the defensive</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-21 09:12</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgexdjp0qj8o?at_medium=RSS&at_campaign=rss" target="_blank">UK expected to approve plans for Chinese mega embassy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-21 10:52</span>
             </div>
         </div>
 </div>
@@ -106,6 +107,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68673298cf92a64e6097d0b1/master/pass/The%20Best%20Kids%E2%80%99%20Headphones%20for%20Sensitive%20Little%20Ears.png" alt="13 Best Kids Headphones (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-kids-headphones/" target="_blank">13 Best Kids Headphones (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-21 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1137650996-500x500.jpg" alt="Pornhub is urging tech giants to enact device-based age verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/pornhub-is-urging-tech-giants-to-enact-device-based-age-verification/" target="_blank">Pornhub is urging tech giants to enact device-based age verification</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-21 12:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,6 +144,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/" target="_blank">The European startup market is ready for the limelight</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-21 11:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="KitchenAid Promo Code: $250 Off in November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -133,38 +161,20 @@
                 <span class="time">2025-11-21 06:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691f6ea63bb1803753c1bf2e/master/pass/GEMINI%20-%20Fun%20creatures%20-%20TA.jpg" alt="Hands On With Google’s Nano Banana Pro Image Generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-nano-banana-pro-hands-on/" target="_blank">Hands On With Google’s Nano Banana Pro Image Generator</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-21 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/20/grok-says-elon-musk-is-better-than-basically-everyone-except-shohei-ohtani/" target="_blank">Grok says Elon Musk is better than basically everyone, except Shohei Ohtani</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-20 23:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1293225672-500x500.jpg" alt="HP and Dell disable HEVC support built into their laptops’ CPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/" target="_blank">HP and Dell disable HEVC support built into their laptops’ CPUs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-20 23:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/polyapolza108/how-ai-could-transform-team-collaboration-opportunities-challenges-and-the-future-3o5o" target="_blank">How AI could transform team collaboration: opportunities, challenges, and the future</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-21 13:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +220,6 @@
                 <span class="time">2025-11-21 10:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/analogjs-2-angular/en/headerimage/generatedHeaderImage-1763554997809.jpg" alt="AnalogJS 2.0: Angular Full Stack Framework Introduces Content Resources &amp; Leaner Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/analogjs-2-angular/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AnalogJS 2.0: Angular Full Stack Framework Introduces Content Resources &amp; Leaner Builds</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-21 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,20 +234,20 @@
                 <span class="time">2025-11-20 19:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/scam-usps-and-e-z-pass-texts-and-websites.html" target="_blank">Scam USPS and E-Z Pass Texts and Websites</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-20 12:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/classroom.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Librarian spent 5 years fighting Proctorio lawsuit for sharing public YouTube videos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/21/librarian-spent-5-years-fighting-proctorio-lawsuit-for-sharing-public-youtube-videos.html" target="_blank">Librarian spent 5 years fighting Proctorio lawsuit for sharing public YouTube videos</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-21 12:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/passenger.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Airlines create permanent surveillance files on all travelers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +293,6 @@
                 <span class="time">2025-11-21 01:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/The-Wailing-io9-2025-retro-review-1280x853.jpg" alt="‘The Wailing’ Is a Korean Horror Masterpiece You Can’t Brace Yourself For" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-wailing-2016-korean-horror-film-review-2000688989" target="_blank">‘The Wailing’ Is a Korean Horror Masterpiece You Can’t Brace Yourself For</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-20 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
