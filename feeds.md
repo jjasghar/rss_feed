@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 17:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-21 18:02:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 13 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/21/nx-s1-5616219/miss-universe-mexico-scandals" target="_blank">A new Miss Universe is crowned, weeks after she left a pageant event in protest</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-21 17:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week" target="_blank">Nigeria reels after second mass school abduction in a week</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-21 17:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +101,29 @@
                 <span class="time">2025-11-21 15:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/despite-gaza-ceasefire-we-havent-seen-the-worst-btselem-chief?traffic_source=rss" target="_blank">Despite Gaza ceasefire, ‘we haven’t seen the worst’: B’Tselem chief</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-21 14:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/zelenskyy-says-trumps-ukraine-plan-must-ensure-real-and-dignified-peace?traffic_source=rss" target="_blank">Zelenskyy says Trump’s Ukraine plan must ensure ‘real and dignified peace’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-21 14:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/roadtripTOP-500x500.jpg" alt="Chris Hemsworth and dad fight Alzheimer’s with a trip down memory lane" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/chris-hemsworth-and-dad-fight-alzheimers-with-a-trip-down-memory-lane/" target="_blank">Chris Hemsworth and dad fight Alzheimer’s with a trip down memory lane</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-21 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/826189/hoto-cordless-leaf-blower-720-cfm-120-mph" target="_blank">Hoto’s slick new leaf blower looks ready to blast away leaves or alien invaders</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-21 17:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +160,20 @@
                 <span class="time">2025-11-21 15:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/825219/optimizer-ai-nutrition-tracking-wellness" target="_blank">AI nutrition tracking stinks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-21 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2246883754-500x500.jpg" alt="Rocket Report: SpaceX’s next-gen booster fails; Pegasus will fly again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/11/rocket-report-spacexs-next-gen-booster-fails-pegasus-will-fly-again/" target="_blank">Rocket Report: SpaceX’s next-gen booster fails; Pegasus will fly again</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-21 13:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/musculus/fixing-hallucinations-in-gemini-3-pro-by-overriding-rlhf-instincts-5e0i" target="_blank">Fixing Hallucinations in Gemini 3 Pro by Overriding RLHF Instincts</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-21 17:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/11/qcon-engineering-leadership/en/headerimage/generatedHeaderImage-1763658090627.jpg" alt="QConSF 2025: Humans in the Loop: Engineering Leadership in a Chaotic Industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +219,6 @@
                 <span class="time">2025-11-21 15:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/airbnb-mussel-adaptive-traffic/en/headerimage/generatedHeaderImage-1763253167225.jpg" alt="From Static to Adaptive Traffic Control in Airbnb’s Key-Value Store to Handle Traffic Spikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/airbnb-mussel-adaptive-traffic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">From Static to Adaptive Traffic Control in Airbnb’s Key-Value Store to Handle Traffic Spikes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-21 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +248,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/Screenshot-2025-11-21-125129-1280x711.jpg" alt="Revived Hytale Will Be Priced As ‘Aggressively Low As Possible’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hytale-riot-price-low-minecraft-hypixel-2000646230" target="_blank">Revived Hytale Will Be Priced As ‘Aggressively Low As Possible’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-21 17:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Early Black Friday Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Early Black Friday Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-21 17:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JVQ2QHB8X4P8477SC4KQVWHE/hero-image.jpg" alt="The 30 Best Movies Streaming on Tubi Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -266,39 +284,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/TSA-e1763738113469.jpeg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Transportation Secretary feels fashion and friendliness will improve holiday air travel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/21/transportation-secretary-feels-fashion-and-friendliness-will-improve-holiday-air-travel.html" target="_blank">Transportation Secretary feels fashion and friendliness will improve holiday air travel</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-21 15:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/ssd-9100-pro-1280x853.jpg" alt="Samsung 9100 PRO SSD Hits $0.13 per GB, Basically a Loss-Margin Black Friday Giveaway" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/boost-storage-with-the-samsung-9100-pro-1tb-ssd-at-a-32-discount-2000645810" target="_blank">Samsung 9100 PRO SSD Hits $0.13 per GB, Basically a Loss-Margin Black Friday Giveaway</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-21 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/drone-with-AED-1280x853.jpg" alt="North Carolina Town First in U.S. to Deploy Defibrillator Drones During Actual 911 Emergencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/north-carolina-town-first-in-u-s-to-deploy-defibrillator-drones-during-actual-911-emergencies-2000689322" target="_blank">North Carolina Town First in U.S. to Deploy Defibrillator Drones During Actual 911 Emergencies</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-21 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAK16T6H833Y1KS282DE8BT5/hero-image.png" alt="The OnePlus 13 Is Already $150 Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/oneplus-13-sale-black-friday-2025?utm_medium=RSS" target="_blank">The OnePlus 13 Is Already $150 Off for Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-21 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HRDCC3QTX2MG4N0B8MV65GZ2/hero-image.png" alt="You Should Motivate Yourself With a &#x27;Jar of Awesome&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/work/use-a-jar-of-awesome-to-stay-motivated?utm_medium=RSS" target="_blank">You Should Motivate Yourself With a &#x27;Jar of Awesome&#x27;</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-21 13:30</span>
             </div>
         </div>
 </div>
@@ -338,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
