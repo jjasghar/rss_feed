@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 05:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-21 06:02:19 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Trump-zelenskyy_1763692250027_hpMain_4x3t_384.jpg" alt="Trump administration&#x27;s 28-point Ukraine-Russia peace plan presented to Zelenskyy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trump-administrations-28-point-ukraine-russia-peace-plan/story?id=127735249" target="_blank">Trump administration&#x27;s 28-point Ukraine-Russia peace plan presented to Zelenskyy</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-21 04:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,6 +71,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763684099010_nn_gha_trumpcallsforarrestdemlawmakers_251120_1920x1080-x0f6k5.jpg" alt="Trump calls for arrest of Democratic lawmakers over video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-calls-for-arrest-of-democratic-lawmakers-over-video-252492869783" target="_blank">Trump calls for arrest of Democratic lawmakers over video</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-21 00:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -78,24 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/20/nx-s1-5615399/dc-troops-deployment-blocked-trump" target="_blank">A federal judge temporarily blocks Trump&#x27;s troop deployment in D.C.</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-20 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/politics/2025/nov/20/keir-starmer-defends-south-africa-g20-budget" target="_blank">Keir Starmer defends trip to South Africa for G20 summit as budget looms</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-20 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/20/what-are-the-consequences-of-an-escalating-global-arms-race?traffic_source=rss" target="_blank">What are the consequences of an escalating global arms race?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-20 21:46</span>
             </div>
         </div>
 </div>
@@ -172,6 +171,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-CR-25.44.36015.5" target="_blank">Intel Compute Runtime 25.44.36015.5 Brings More Performance Optimizations &amp; Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-21 01:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbtpy9ni92kbotowzcn0.jpg" alt="Give Your SQLite Queries Their Own Workers: A Practical Guide for Node.js Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/softwaredeveloperhub01/developing-for-mobile-how-to-build-and-sell-your-own-app-on-the-app-store-3i98" target="_blank">Developing for Mobile: How to Build and Sell Your Own App on the App Store</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-20 23:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jramone3/remi-a-fully-auditable-autonomous-agent-for-technical-symbolic-and-financial-impact-ekj" target="_blank">REMI: A Fully Auditable Autonomous Agent for Technical, Symbolic, and Financial Impact</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-20 22:44</span>
             </div>
         </div>
 </div>
@@ -326,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
