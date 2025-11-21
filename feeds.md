@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 02:29:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-21 03:20:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 02:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 03:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +99,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/691f6ea63bb1803753c1bf2e/master/pass/GEMINI%20-%20Fun%20creatures%20-%20TA.jpg" alt="Hands On With Google’s Nano Banana Pro Image Generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-nano-banana-pro-hands-on/" target="_blank">Hands On With Google’s Nano Banana Pro Image Generator</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-21 00:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -152,20 +152,20 @@
                 <span class="time">2025-11-20 21:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/20/whatsapp-gets-its-own-instagram-notes-like-feature/" target="_blank">WhatsApp gets its own Instagram Notes-like feature</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-20 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/unseenumair/no-other-icons-library-needed-4500" target="_blank">No other Icons Library Needed 🥶</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-21 02:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbtpy9ni92kbotowzcn0.jpg" alt="Give Your SQLite Queries Their Own Workers: A Practical Guide for Node.js Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,6 +185,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/using-airpods-on-linux.jpg?resize=406%2C232&amp;ssl=1" alt="Use AirPods Pro Features on Linux with LibrePods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/airpods-linux-librepods-anc-transparency-mode" target="_blank">Use AirPods Pro Features on Linux with LibrePods</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-20 23:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +209,6 @@
                 <span class="title"><a href="https://dev.to/jramone3/remi-a-fully-auditable-autonomous-agent-for-technical-symbolic-and-financial-impact-ekj" target="_blank">REMI: A Fully Auditable Autonomous Agent for Technical, Symbolic, and Financial Impact</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-20 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Dell-Pro-Max-With-Qualcomm-NPU" target="_blank">Dell Now Shipping Laptop With Qualcomm NPU On Linux Ahead Of Windows 11</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-20 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp97jaxtc7j1bvj5y8akm.png" alt="Skills, MCPs, and Commands are the same context engineering trend." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gvegacl/skills-mcps-and-commands-are-the-same-context-engineering-trend-49dp" target="_blank">Skills, MCPs, and Commands are the same context engineering trend.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-20 21:54</span>
             </div>
         </div>
 </div>
@@ -330,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 02:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 03:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
