@@ -1,28 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 22:01:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-21 23:02:12 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-1-rt-er-251121_1763759233689_hpMain_4x3t_384.jpg" alt="Trump, Mamdani promise to help NYC, tackle affordability in cordial meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-mamdani-meet-oval-office-mayor-elect-pushes/story?id=127715736" target="_blank">Trump, Mamdani promise to help NYC, tackle affordability in cordial meeting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-21 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/former-president-jair-bolsonaro-asks-to-serve-house-arrest-in-brazil?traffic_source=rss" target="_blank">Former President Jair Bolsonaro asks to serve house arrest in Brazil</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-21 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d30/live/b840e960-c6fe-11f0-99c3-7dce999e48af.png" alt="Zelensky warns Ukraine risks losing US support over White House peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy5g4r9l4dlo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky warns Ukraine risks losing US support over White House peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-21 21:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,33 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/21/nx-s1-5616284/female-crash-test-dummy-design-approval" target="_blank">The female crash test dummy has been a long time coming — but she isn&#x27;t here yet</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-21 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/21/nx-s1-5615174/south-africa-g20-us-boycott" target="_blank">South Africa hosts G20 as tensions with U.S. flare amid boycott</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-21 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/21/nx-s1-5616219/miss-universe-mexico-scandals" target="_blank">A new Miss Universe is crowned, weeks after she left a pageant event in protest</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-21 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week" target="_blank">Nigeria reels after second mass school abduction in a week</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-21 17:13</span>
             </div>
         </div>
 </div>
@@ -157,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-580.94.11-Linux-Driver" target="_blank">NVIDIA 580.94.11 Linux Driver Brings HDR Metadata Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-21 22:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18768548&w=600" alt="Why the MITRE ATT&amp;amp;CK Framework Actually Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -201,20 +213,20 @@
                 <span class="time">2025-11-21 16:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://wealthfolio.app/?v=2.0" target="_blank">Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-21 16:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-new-squid-sneaker.html" target="_blank">Friday Squid Blogging: New “Squid” Sneaker</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-21 22:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -238,6 +250,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/VS-YouTube-CallofDutyBlackOps7WorldPremiereTrailergamescomOpeningNightLive2025-227-1280x720.jpg" alt="Activision Isn’t Celebrating Call Of Duty: Black Ops 7‘s Launch The Way It Normally Does" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/call-of-duty-black-ops-7-player-count-battlefield-6-2000646316" target="_blank">Activision Isn’t Celebrating Call Of Duty: Black Ops 7‘s Launch The Way It Normally Does</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-21 22:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/toy-story-pixar-1280x853.jpg" alt="Steve Jobs Hypes Up ‘Toy Story’ and Pixar in Unearthed Interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/toy-story-30th-anniversary-steve-jobs-new-interview-pixar-2000689582" target="_blank">Steve Jobs Hypes Up ‘Toy Story’ and Pixar in Unearthed Interview</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-21 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/destoyer2-1280x720.jpg" alt="Someone Built The Independence Day Ship In No Man’s Sky And It’s As Terrifying As It Is Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +302,6 @@
                 <span class="title"><a href="https://gizmodo.com/do-not-under-any-circumstance-buy-your-kid-an-ai-toy-for-christmas-2000689652" target="_blank">Do Not, Under Any Circumstance, Buy Your Kid an AI Toy for Christmas</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-21 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAKW6VSX2VJRC9Q8XKYBVB9A/hero-image.png" alt="You Can Now Directly Import Apple Music Playlists to Spotify" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/transfer-apple-music-playlists-spotify?utm_medium=RSS" target="_blank">You Can Now Directly Import Apple Music Playlists to Spotify</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-21 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/03/GettyImages-2200859743-1280x853.jpg" alt="DOGE Laid Off the Humans. Now the IRS Is Deploying AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/doge-laid-off-the-humans-now-the-irs-is-deploying-ai-agents-2000689563" target="_blank">DOGE Laid Off the Humans. Now the IRS Is Deploying AI Agents</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-21 19:55</span>
             </div>
         </div>
 </div>
@@ -329,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
