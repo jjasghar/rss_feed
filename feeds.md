@@ -1,27 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 09:02:10 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-21 10:02:10 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/explosion-at-glue-factory-in-eastern-pakistan-kills-at-least-16?traffic_source=rss" target="_blank">Explosion at glue factory in eastern Pakistan kills at least 16</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-21 09:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Zelenskyy-in-France-DB-251120_1763636313907_hpMain_4x3t_384.jpg" alt="US revives Ukraine-Russia peace push with Zelenskyy on the defensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/us-revives-ukraine-russia-peace-push-zelenskyy-defensive/story?id=127700650" target="_blank">US revives Ukraine-Russia peace push with Zelenskyy on the defensive</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-21 09:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/21/g-s1-98694/crash-test-dummy-resembles-women" target="_blank">Transportation Department endorses crash test dummy that more closely resembles women</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-21 08:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,33 +104,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky ready for &#x27;honest work&#x27; with US to end Ukraine war</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-21 05:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Trump-zelenskyy_1763692250027_hpMain_4x3t_384.jpg" alt="Trump administration&#x27;s 28-point Ukraine-Russia peace plan presented to Zelenskyy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-administrations-28-point-ukraine-russia-peace-plan/story?id=127735249" target="_blank">Trump administration&#x27;s 28-point Ukraine-Russia peace plan presented to Zelenskyy</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-21 04:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/lebanon-arrests-alleged-drug-kingpin-sanctioned-by-us-state-department?traffic_source=rss" target="_blank">Lebanon arrests alleged drug kingpin sanctioned by US State Department</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-21 01:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/20/g-s1-98669/fire-united-nations-climate-talks-brazil-cop30" target="_blank">Fire prompts evacuations at U.N. climate talks in Brazil; 13 suffer smoke inhalation</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-21 00:35</span>
             </div>
         </div>
 </div>
@@ -156,6 +171,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/11/analogjs-2-angular/en/headerimage/generatedHeaderImage-1763554997809.jpg" alt="AnalogJS 2.0: Angular Full Stack Framework Introduces Content Resources &amp; Leaner Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/analogjs-2-angular/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AnalogJS 2.0: Angular Full Stack Framework Introduces Content Resources &amp; Leaner Builds</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-21 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F9852%2Fffcf1c01-7d4b-4298-ad99-7d957738466a.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,15 +224,6 @@
                 <span class="time">2025-11-21 02:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-CR-25.44.36015.5" target="_blank">Intel Compute Runtime 25.44.36015.5 Brings More Performance Optimizations &amp; Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-21 01:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_354045851.jpg?fit=1500%2C993&amp;quality=60&amp;ssl=1" alt="Fortnite&#x27;s Kill Bill crossover makes zero sense and we love it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/21/fortnites-kill-bill-crossover-makes-zero-sense-and-we-love-it.html" target="_blank">Fortnite&#x27;s Kill Bill crossover makes zero sense and we love it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-21 09:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/tineco-floor-one-s5-1280x853.jpg" alt="Tineco Goes Nuts, Floor One S5 Wet Dry Vacuum and Mop Now 42% Off Original Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +306,6 @@
                 <span class="time">2025-11-20 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAE8H4ARYQNRB0286V4XKPC5/hero-image.jpg" alt="20 of the Best Thanksgiving Movies to Watch in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-thanksgiving-movies?utm_medium=RSS" target="_blank">20 of the Best Thanksgiving Movies to Watch in 2025</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-20 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
