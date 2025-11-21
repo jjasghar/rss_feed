@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 13:09:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-21 14:01:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/why-has-trump-blasted-democrats-for-seditious-comments?traffic_source=rss" target="_blank">Why has Trump blasted US Democrats for ‘seditious’ comments?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-21 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/21/run-up-to-g20-in-south-africa-marred-by-hosts-simmering-row-with-us" target="_blank">Run-up to G20 in South Africa marred by host’s simmering row with US</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-21 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1aa/live/5a731620-c6d9-11f0-a418-cd69f988232b.jpg" alt="Russia yet to receive anything official from US on peace plan, Kremlin says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +101,20 @@
                 <span class="time">2025-11-21 11:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/21/nx-s1-5615168/glp-1-weight-loss-drugs-brain-nausea-wegovy-ozempic" target="_blank">Brain scientists are seeking weight-loss drugs without the nausea</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-21 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0ba/live/2c041c20-c6c1-11f0-8c06-f5d460985095.jpg" alt="UK expected to approve plans for Chinese mega embassy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgexdjp0qj8o?at_medium=RSS&at_campaign=rss" target="_blank">UK expected to approve plans for Chinese mega embassy</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-21 10:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2246883754-500x500.jpg" alt="Rocket Report: SpaceX’s next-gen booster fails; Pegasus will fly again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/11/rocket-report-spacexs-next-gen-booster-fails-pegasus-will-fly-again/" target="_blank">Rocket Report: SpaceX’s next-gen booster fails; Pegasus will fly again</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-21 13:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68673298cf92a64e6097d0b1/master/pass/The%20Best%20Kids%E2%80%99%20Headphones%20for%20Sensitive%20Little%20Ears.png" alt="13 Best Kids Headphones (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +160,20 @@
                 <span class="time">2025-11-21 11:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="KitchenAid Promo Code: $250 Off in November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/exclusive-kitchenaid-promo-code/" target="_blank">KitchenAid Promo Code: $250 Off in November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-21 06:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz4uz6ixhzg21rrks3os9.png" alt="This Week In React #259: State of React, Promise subclasses, Next.js, RSC, JSX Tools | Yoga CSS Grid, Radon | TC39, Browserslist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sebastienlorber/this-week-in-react-259-state-of-react-promise-subclasses-nextjs-rsc-jsx-tools-yoga-css-a4o" target="_blank">This Week In React #259: State of React, Promise subclasses, Next.js, RSC, JSX Tools | Yoga CSS Grid, Radon | TC39, Browserslist</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-21 13:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,20 +219,20 @@
                 <span class="time">2025-11-21 10:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html" target="_blank">FAWK: LLMs can write a language interpreter</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-21 10:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html" target="_blank">AI as Cyberattacker</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-21 12:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -239,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HRDCC3QTX2MG4N0B8MV65GZ2/hero-image.png" alt="You Should Motivate Yourself With a &#x27;Jar of Awesome&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/work/use-a-jar-of-awesome-to-stay-motivated?utm_medium=RSS" target="_blank">You Should Motivate Yourself With a &#x27;Jar of Awesome&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-21 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/jumbles.jpg?fit=904%2C1200&amp;quality=60&amp;ssl=1" alt="Deaf illustrator created beloved children&#x27;s classics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/21/deaf-illustrator-created-beloved-childrens-classics.html" target="_blank">Deaf illustrator created beloved children&#x27;s classics</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-21 12:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/classroom.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Librarian spent 5 years fighting Proctorio lawsuit for sharing public YouTube videos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +299,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/21/adorable-puppy-cant-figure-out-whose-paws-are-right-in-front-of-his-face.html" target="_blank">Adorable puppy can&#x27;t figure out whose paws are right in front of his face</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-21 09:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_354045851.jpg?fit=1500%2C993&amp;quality=60&amp;ssl=1" alt="Fortnite&#x27;s Kill Bill crossover makes zero sense and we love it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/21/fortnites-kill-bill-crossover-makes-zero-sense-and-we-love-it.html" target="_blank">Fortnite&#x27;s Kill Bill crossover makes zero sense and we love it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-21 09:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/tineco-floor-one-s5-1280x853.jpg" alt="Tineco Goes Nuts, Floor One S5 Wet Dry Vacuum and Mop Now 42% Off Original Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tineco-goes-nuts-floor-one-s5-wet-dry-vacuum-and-mop-now-42-off-original-price-2000645964" target="_blank">Tineco Goes Nuts, Floor One S5 Wet Dry Vacuum and Mop Now 42% Off Original Price</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-21 01:50</span>
             </div>
         </div>
 </div>
@@ -330,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 155 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
