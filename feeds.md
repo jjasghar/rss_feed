@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 07:02:01 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-21 08:02:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/israel-plans-to-seize-major-roman-era-historical-site-in-occupied-west-bank?traffic_source=rss" target="_blank">Israel plans to seize major Roman-era historical site in occupied West Bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-21 07:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/7d2b1c00-c63c-11f0-8c98-11fe43704bb5.jpg" alt="Zelensky ready for &#x27;honest work&#x27; with US to end Ukraine war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-calls-for-arrest-of-democratic-lawmakers-over-video-252492869783" target="_blank">Trump calls for arrest of Democratic lawmakers over video</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-11-21 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/20/zelenskyy-ready-to-work-on-us-backed-plan-to-end-russia-ukraine-war?traffic_source=rss" target="_blank">Zelenskyy ready to work on US-backed plan to end Russia-Ukraine war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-20 22:59</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/11/uno-platform-6-4-agentic/en/headerimage/header-1763592955738.jpg" alt="Uno Platform 6.4 and Uno Platform Studio 2.0: .NET 10, VS2026 and Agentic AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/uno-platform-6-4-agentic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uno Platform 6.4 and Uno Platform Studio 2.0: .NET 10, VS2026 and Agentic AI</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-21 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://allenai.org/blog/olmo3" target="_blank">Olmo 3: Charting a path through the model flow to lead open-source AI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-21 06:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/snap-app-back-up-restore/" target="_blank">Move Between the Distros: Back Up and Restore Your Snap Packages</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-21 04:43</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -188,33 +218,6 @@
                 <span class="title"><a href="https://dev.to/mashraf_aiman_b9a968e5c1d/give-your-sqlite-queries-their-own-workers-a-practical-guide-for-nodejs-developers-3d74" target="_blank">Give Your SQLite Queries Their Own Workers: A Practical Guide for Node.js Developers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-21 01:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-november-21-2025-red-hat" target="_blank">Friday Five — November 21, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-11-21 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/using-airpods-on-linux.jpg?resize=406%2C232&amp;ssl=1" alt="Use AirPods Pro Features on Linux with LibrePods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/airpods-linux-librepods-anc-transparency-mode" target="_blank">Use AirPods Pro Features on Linux with LibrePods</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-20 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/softwaredeveloperhub01/developing-for-mobile-how-to-build-and-sell-your-own-app-on-the-app-store-3i98" target="_blank">Developing for Mobile: How to Build and Sell Your Own App on the App Store</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-20 23:56</span>
             </div>
         </div>
 </div>
@@ -273,6 +276,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAHMDZNJQKVPM0ZS883MT9XS/hero-image.jpg" alt="Oura Is Suing More Smart Ring Makers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/oura-is-suing-these-smart-ring-makers?utm_medium=RSS" target="_blank">Oura Is Suing More Smart Ring Makers</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-20 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Ninja-Turtles-2014-1280x853.jpg" alt="The ‘Teenage Mutant Ninja Turtles’ Are Getting New a Live-Action Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -288,15 +300,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/best-thanksgiving-movies?utm_medium=RSS" target="_blank">20 of the Best Thanksgiving Movies to Watch in 2025</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-20 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Internxt-Cloud-Storage-Lifetime-Subscription-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Subscribe to storage that doesn&#x27;t suck (and it&#x27;s 90% off)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/20/subscribe-to-storage-that-doesnt-suck-and-its-90-off.html" target="_blank">Subscribe to storage that doesn&#x27;t suck (and it&#x27;s 90% off)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-20 22:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
