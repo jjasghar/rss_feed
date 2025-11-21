@@ -1,28 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 01:29:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-21 02:29:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, November 21, 2025 - 02:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/lebanon-arrests-alleged-drug-kingpin-sanctioned-by-us-state-department?traffic_source=rss" target="_blank">Lebanon arrests alleged drug kingpin sanctioned by US State Department</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-21 01:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +102,6 @@
                 <span class="time">2025-11-20 21:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7635/live/5b47a410-c5f0-11f0-9f1e-75cdd6519717.jpg" alt="UK did &#x27;too little, too late&#x27;, leading to thousands more Covid deaths, says inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8030xvvlv0o?at_medium=RSS&at_campaign=rss" target="_blank">UK did &#x27;too little, too late&#x27;, leading to thousands more Covid deaths, says inquiry</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-20 20:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -104,6 +114,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/11/20/grok-says-elon-musk-is-better-than-basically-everyone-except-shohei-ohtani/" target="_blank">Grok says Elon Musk is better than basically everyone, except Shohei Ohtani</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-20 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1293225672-500x500.jpg" alt="HP and Dell disable HEVC support built into their laptops’ CPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/" target="_blank">HP and Dell disable HEVC support built into their laptops’ CPUs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-20 23:02</span>
             </div>
         </div>
 <div class="story">
@@ -142,15 +161,6 @@
                 <span class="time">2025-11-20 21:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/825283/bethesda-wand-company-fallout-3-new-vegas-pip-boy-3000-replica" target="_blank">Bethesda’s $300 Pip-Boy 3000 replica can measure (harmless) radiation</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-20 20:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,6 +173,15 @@
                 <span class="title"><a href="https://dev.to/mashraf_aiman_b9a968e5c1d/give-your-sqlite-queries-their-own-workers-a-practical-guide-for-nodejs-developers-3d74" target="_blank">Give Your SQLite Queries Their Own Workers: A Practical Guide for Node.js Developers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-21 01:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-november-21-2025-red-hat" target="_blank">Friday Five — November 21, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-11-21 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -201,15 +220,6 @@
                 <span class="time">2025-11-20 21:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://snarky.ca/the-varying-strictness-of-typeddict/" target="_blank">The varying strictness of TypedDict</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-20 21:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/tineco-floor-one-s5-1280x853.jpg" alt="Tineco Goes Nuts, Floor One S5 Wet Dry Vacuum and Mop Now 42% Off Original Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tineco-goes-nuts-floor-one-s5-wet-dry-vacuum-and-mop-now-42-off-original-price-2000645964" target="_blank">Tineco Goes Nuts, Floor One S5 Wet Dry Vacuum and Mop Now 42% Off Original Price</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-21 01:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/The-Wailing-io9-2025-retro-review-1280x853.jpg" alt="‘The Wailing’ Is a Korean Horror Masterpiece You Can’t Brace Yourself For" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,20 +302,20 @@
                 <span class="time">2025-11-20 21:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KADYQJP80JT6KCDMAKPC41T2/hero-image.jpg" alt="Why I Quit Netflix, and You Should Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/why-i-quit-netflix-and-you-should-too?utm_medium=RSS" target="_blank">Why I Quit Netflix, and You Should Too</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-20 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5705.png" alt="Ka Chunk Ka Chunk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5706" target="_blank">Ka Chunk Ka Chunk</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-11-21 01:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1763611254-20251120edit.png" alt="Saturday Morning Breakfast Cereal - Sword" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -311,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 02:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
