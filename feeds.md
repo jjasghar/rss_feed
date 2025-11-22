@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 10:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-22 11:01:16 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/22/travis-head-scores-century-as-australia-defeat-england-in-perth-test?traffic_source=rss" target="_blank">Travis Head scores century as Australia defeat England in Perth Test</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-22 10:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +102,20 @@
                 <span class="time">2025-11-22 04:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/mgt-video_1763778172528_hpMain_4x3t_384.jpg" alt="Rep. Marjorie Taylor Greene says she will resign from Congress in January" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/rep-marjorie-taylor-greene-resign-congress-january/story?id=127771912" target="_blank">Rep. Marjorie Taylor Greene says she will resign from Congress in January</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-22 03:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/691773c9469b98252c4f5858/master/pass/wired_earlyblack_final.jpg" alt="55 Best Early Black Friday Deals on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/early-black-friday-deals-2025-2/" target="_blank">55 Best Early Black Friday Deals on WIRED-Tested Gear (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-22 10:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="Logitech Promo Code: $25 Off This Holiday Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +161,20 @@
                 <span class="time">2025-11-22 00:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6920edd094a09f9b9ef47d2e/master/pass/OpenAI_office_GettyImages-2155595491.jpg" alt="OpenAI Locks Down San Francisco Offices Following Alleged Threat From Activist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-office-lockdown-threat-san-francisco/" target="_blank">OpenAI Locks Down San Francisco Offices Following Alleged Threat From Activist</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-21 23:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvxe3qizwrazpl1la8o75.png" alt="A QA Engineer&#x27;s Guide to Mobile App Testing vs. Web App Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jignect-technologies/a-qa-engineers-guide-to-mobile-app-testing-vs-web-app-testing-43hj" target="_blank">A QA Engineer&#x27;s Guide to Mobile App Testing vs. Web App Testing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-22 10:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/manojshr/be-a-responsible-code-reviewer-46ni" target="_blank">Be a Responsible Code Reviewer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-22 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8e9rp0knj6o" target="_blank">Superman copy found in mum&#x27;s attic is most valuable comic ever at $9.12M</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-22 05:21</span>
             </div>
         </div>
 </div>
@@ -334,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
