@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 11:01:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-22 12:02:16 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/101-east/2025/11/22/deadly-skies-why-nepal-is-one-of-the-most-dangerous-places-to-fly?traffic_source=rss" target="_blank">Deadly skies: Why Nepal is one of the most dangerous places to fly</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-22 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/22/nx-s1-5609253/france-macron-adviser-palestinian-state" target="_blank">Meet the peace activist who persuaded France&#x27;s Macron to recognize a Palestinian state</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-22 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +105,29 @@
                 <span class="time">2025-11-22 06:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca04/live/7e8da040-c74f-11f0-91e6-97e22a53c354.jpg" alt="Ukraine allies to hold talks at G20 on White House peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyx9xnpll8o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine allies to hold talks at G20 on White House peace plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-22 05:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/22/can-pakistan-join-the-gaza-stabilisation-force-without-facing-backlash?traffic_source=rss" target="_blank">Can Pakistan join the Gaza stabilisation force without facing backlash?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-22 04:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1315382333-500x500.jpg" alt="This hacker conference installed a literal antivirus monitoring system" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/11/this-hacker-conference-installed-a-literal-antivirus-monitoring-system/" target="_blank">This hacker conference installed a literal antivirus monitoring system</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-22 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685f7ae3da7e3e9cf68b142d/master/pass/The%20Best%20French%20Presses%20for%20Low-Stress%20Morning%20Brew.png" alt="17 Best French Presses (2025): Plastic, Glass, Stainless Steel, Travel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-french-press-for-morning-brew/" target="_blank">17 Best French Presses (2025): Plastic, Glass, Stainless Steel, Travel</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-22 11:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/691773c9469b98252c4f5858/master/pass/wired_earlyblack_final.jpg" alt="55 Best Early Black Friday Deals on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +164,20 @@
                 <span class="time">2025-11-22 00:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/crypto-key-500x500.jpeg" alt="Oops. Cryptographers cancel election results after losing decryption key." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/" target="_blank">Oops. Cryptographers cancel election results after losing decryption key.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-22 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out" target="_blank">Google denies &amp;#8216;misleading&amp;#8217; reports of Gmail using your emails to train AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-22 00:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Ayaneo-Flip-DS" target="_blank">Linux 6.18 To Enable Both Touchscreens On The AYANEO Flip DS Dual-Screen Handheld</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-22 11:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvxe3qizwrazpl1la8o75.png" alt="A QA Engineer&#x27;s Guide to Mobile App Testing vs. Web App Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -173,6 +185,15 @@
                 <span class="title"><a href="https://dev.to/jignect-technologies/a-qa-engineers-guide-to-mobile-app-testing-vs-web-app-testing-43hj" target="_blank">A QA Engineer&#x27;s Guide to Mobile App Testing vs. Web App Testing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-22 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/cloudflare-global-outage-cause/en/headerimage/generatedHeaderImage-1763745101477.jpg" alt="Cloudflare Global Outage Traced to Internal Database Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/cloudflare-global-outage-cause/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Global Outage Traced to Internal Database Change</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-22 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +223,6 @@
                 <span class="time">2025-11-22 07:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftxvmtsl38fga7ippgp0j.png" alt="Building an End-to-End Monitoring Architecture in Azure for a Multi-Service Product" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techwithhari/building-an-end-to-end-monitoring-architecture-in-azure-for-a-multi-service-product-237j" target="_blank">Building an End-to-End Monitoring Architecture in Azure for a Multi-Service Product</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-22 06:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manojshr/be-a-responsible-code-reviewer-46ni" target="_blank">Be a Responsible Code Reviewer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-22 05:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,20 +246,20 @@
                 <span class="time">2025-11-21 19:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html" target="_blank">AI as Cyberattacker</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-21 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/underwater-archaeological-remains-1280x853.jpg" alt="You Won’t Believe What Archaeologists Found Beneath This Lake in Kyrgyzstan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/you-wont-believe-whats-at-the-bottom-of-this-huge-lake-in-kyrgyzstan-2000688602" target="_blank">You Won’t Believe What Archaeologists Found Beneath This Lake in Kyrgyzstan</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-22 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Black Friday Deals Live Blog 2025: Best Early Black Friday Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -302,15 +305,6 @@
                 <span class="time">2025-11-21 22:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/toy-story-pixar-1280x853.jpg" alt="Steve Jobs Hypes Up ‘Toy Story’ and Pixar in Unearthed Interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/toy-story-30th-anniversary-steve-jobs-new-interview-pixar-2000689582" target="_blank">Steve Jobs Hypes Up ‘Toy Story’ and Pixar in Unearthed Interview</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-21 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
