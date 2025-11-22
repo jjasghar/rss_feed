@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 06:02:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-22 07:01:50 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -99,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="Logitech Promo Code: $25 Off This Holiday Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/logitech-promo-code/" target="_blank">Logitech Promo Code: $25 Off This Holiday Season</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-22 06:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -143,20 +157,20 @@
                 <span class="time">2025-11-21 23:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6920a060c597ca958cb5bdaf/master/pass/Fortnite-Players-Fighting-Ice-Culture-shutterstock_1444806506.jpg" alt="Activists Are Using &#x27;Fortnite&#x27; to Fight Back Against ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/activists-are-using-fortnite-to-fight-back-against-ice/" target="_blank">Activists Are Using &#x27;Fortnite&#x27; to Fight Back Against ICE</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-21 21:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftxvmtsl38fga7ippgp0j.png" alt="Building an End-to-End Monitoring Architecture in Azure for a Multi-Service Product" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/techwithhari/building-an-end-to-end-monitoring-architecture-in-azure-for-a-multi-service-product-237j" target="_blank">Building an End-to-End Monitoring Architecture in Azure for a Multi-Service Product</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-22 06:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-Nautilus-Thumbnails" target="_blank">Nautilus File Manager In GNOME 50 Will Load Thumbnails Much Faster</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-22 01:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8c20fh62pgvow71c4fa2.png" alt="Mi Agente se Rebeló: Intentando Crear un Bedrock Agent con S3 (y el Famoso Error &#x27;[retrieved information]&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sinariver/mi-agente-se-rebelo-intentando-crear-un-bedrock-agent-con-s3-y-el-famoso-error-retrieved-2php" target="_blank">Mi Agente se Rebeló: Intentando Crear un Bedrock Agent con S3 (y el Famoso Error &#x27;[retrieved information]&#x27;</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-22 01:14</span>
             </div>
         </div>
 </div>
@@ -339,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
