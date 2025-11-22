@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 03:17:10 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-22 04:02:05 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 03:17 UTC</div>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -162,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F835mkqnpjamjf0e9rkk5.png" alt="I built AppInfo - see what apps are actually doing on your phone 📱" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_9a08d7fd/i-built-appinfo-see-what-apps-are-actually-doing-on-your-phone-35m" target="_blank">I built AppInfo - see what apps are actually doing on your phone 📱</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-22 03:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/valkey-9-atomic-migration/en/headerimage/generatedHeaderImage-1763003433464.jpg" alt="Valkey 9.0 Introduces Multi-Database Clustering, Atomic Slot Migration, and Major Performance Gains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/valkey-9-atomic-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Valkey 9.0 Introduces Multi-Database Clustering, Atomic Slot Migration, and Major Performance Gains</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-22 03:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -195,24 +212,6 @@
                 <span class="title"><a href="https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/" target="_blank">California DMV approves map increase in Waymo driverless operations</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-21 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-580.94.11-Linux-Driver" target="_blank">NVIDIA 580.94.11 Linux Driver Brings HDR Metadata Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-21 22:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18768548&w=600" alt="Why the MITRE ATT&amp;amp;CK Framework Actually Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-the-mitre-attampck-framework-actually-works" target="_blank">Why the MITRE ATT&amp;amp;CK Framework Actually Works</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-21 21:00</span>
             </div>
         </div>
 </div>
@@ -352,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 288 |
-        🔄 Last Updated: 03:17 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 291 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
