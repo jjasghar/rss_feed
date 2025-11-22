@@ -1,39 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 05:02:01 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-22 06:02:14 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +40,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca04/live/7e8da040-c74f-11f0-91e6-97e22a53c354.jpg" alt="Ukraine allies to hold talks at G20 on White House peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyx9xnpll8o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine allies to hold talks at G20 on White House peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-22 05:08</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/22/can-pakistan-join-the-gaza-stabilisation-force-without-facing-backlash?traffic_source=rss" target="_blank">Can Pakistan join the Gaza stabilisation force without facing backlash?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-22 04:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/mgt-video_1763778172528_hpMain_4x3t_384.jpg" alt="Rep. Marjorie Taylor Greene says she will resign from Congress in January" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/rep-marjorie-taylor-greene-resign-congress-january/story?id=127771912" target="_blank">Rep. Marjorie Taylor Greene says she will resign from Congress in January</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-22 03:06</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +93,20 @@
                 <span class="time">2025-11-22 01:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763770043478_nn_gha_trump_mamdani_251121_1920x1080-ps81wq.jpg" alt="Trump, Mamdani strike friendly tone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-mamdani-strike-friendly-tone-252594757554" target="_blank">Trump, Mamdani strike friendly tone</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-22 00:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb7/live/f8ea21f0-c6fb-11f0-a863-434ee92aa5e3.jpg" alt="New puberty blockers trial to begin after UK ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2k4jg0wkj4o?at_medium=RSS&at_campaign=rss" target="_blank">New puberty blockers trial to begin after UK ban</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-22 00:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/" target="_blank">How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-22 03:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +152,29 @@
                 <span class="time">2025-11-21 21:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/826695/microsoft-xbox-full-screen-experience-pc-laptop-tablet-windows-insider" target="_blank">You can now try the Xbox Full Screen Experience on any PC, laptop, or tablet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-21 21:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manojshr/be-a-responsible-code-reviewer-46ni" target="_blank">Be a Responsible Code Reviewer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-22 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8e9rp0knj6o" target="_blank">Superman copy found in mum&#x27;s attic is most valuable comic ever at $9.12M</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-22 05:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F835mkqnpjamjf0e9rkk5.png" alt="I built AppInfo - see what apps are actually doing on your phone 📱" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +209,6 @@
                 <span class="title"><a href="https://dev.to/sinariver/mi-agente-se-rebelo-intentando-crear-un-bedrock-agent-con-s3-y-el-famoso-error-retrieved-2php" target="_blank">Mi Agente se Rebeló: Intentando Crear un Bedrock Agent con S3 (y el Famoso Error &#x27;[retrieved information]&#x27;</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-22 01:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/navidm/axelang-a-systems-programming-language-with-concurrency-as-a-first-class-feature-4i3b" target="_blank">Axelang - A Systems Programming Language with Concurrency as a First-Class feature</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-21 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/" target="_blank">California DMV approves map increase in Waymo driverless operations</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-21 22:52</span>
             </div>
         </div>
 </div>
@@ -349,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 291 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
