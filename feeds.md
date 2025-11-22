@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 15:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-22 16:01:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d42/live/fcc0adb0-c7b1-11f0-83e1-2f64c544cba6.png" alt="Girl, 13, arrested on suspicion of murdering woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g4vdrev2eo?at_medium=RSS&at_campaign=rss" target="_blank">Girl, 13, arrested on suspicion of murdering woman</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-22 14:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/22/i-dont-mind-trump-unfazed-with-mamdani-calling-him-a?traffic_source=rss" target="_blank">‘I don’t mind’: Trump unfazed with Mamdani calling him a ‘fascist’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-22 14:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/society/2025/nov/22/south-africa-g20-protests-gender-based-violence-national-disaster" target="_blank">South Africa declares gender-based violence a national disaster amid G20 protests</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-22 13:57</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +98,29 @@
                 <span class="time">2025-11-22 12:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/101-east/2025/11/22/deadly-skies-why-nepal-is-one-of-the-most-dangerous-places-to-fly?traffic_source=rss" target="_blank">Deadly skies: Why Nepal is one of the most dangerous places to fly</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-22 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/22/nx-s1-5609253/france-macron-adviser-palestinian-state" target="_blank">Meet the peace activist who persuaded France&#x27;s Macron to recognize a Palestinian state</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-22 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/22/why-now-is-the-best-time-to-invest-in-climate-tech/" target="_blank">Why now is the best time to invest in climate tech</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-22 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/692118a07d4b03d83b72c715/master/pass/Best%20MagSafe%20Power%20Banks%20SOURCE%20Simon%20Hill.jpg" alt="13 Best MagSafe Power Banks for iPhones (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-power-banks/" target="_blank">13 Best MagSafe Power Banks for iPhones (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-22 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +157,20 @@
                 <span class="time">2025-11-22 12:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1315382333-500x500.jpg" alt="This hacker conference installed a literal antivirus monitoring system" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/11/this-hacker-conference-installed-a-literal-antivirus-monitoring-system/" target="_blank">This hacker conference installed a literal antivirus monitoring system</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-22 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f7ae3da7e3e9cf68b142d/master/pass/The%20Best%20French%20Presses%20for%20Low-Stress%20Morning%20Brew.png" alt="17 Best French Presses (2025): Plastic, Glass, Stainless Steel, Travel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-french-press-for-morning-brew/" target="_blank">17 Best French Presses (2025): Plastic, Glass, Stainless Steel, Travel</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-22 11:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgpky8m2bwsi3zdjste77.webp" alt="GitHub Universe 2025 Recap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bolt04/github-universe-2025-recap-9gl" target="_blank">GitHub Universe 2025 Recap</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-22 15:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +216,6 @@
                 <span class="time">2025-11-22 11:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvxe3qizwrazpl1la8o75.png" alt="A QA Engineer&#x27;s Guide to Mobile App Testing vs. Web App Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jignect-technologies/a-qa-engineers-guide-to-mobile-app-testing-vs-web-app-testing-43hj" target="_blank">A QA Engineer&#x27;s Guide to Mobile App Testing vs. Web App Testing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-22 10:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/04/Howard-Lutnick-feb-10-2025-1280x853.jpg" alt="The Sons of Trump’s Commerce Secretary Are Making Money in the Data Center Biz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-sons-of-trumps-commerce-secretary-are-making-money-in-the-data-center-biz-2000689741" target="_blank">The Sons of Trump’s Commerce Secretary Are Making Money in the Data Center Biz</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-22 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/beats-studio-pro-headphones-1280x853.jpg" alt="Amazon Goes Savage on Apple, Beats Studio Pro Sinks Nearly 60% Off and Sells for Budget Money" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +298,6 @@
                 <span class="time">2025-11-22 01:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/NG9x4_Liftoff1-1280x853.jpg" alt="Blue Origin Will Make Its New Glenn Rocket Even Bigger to Rival SpaceX" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/blue-origin-will-make-its-new-glenn-rocket-even-bigger-to-rival-spacex-2000689723" target="_blank">Blue Origin Will Make Its New Glenn Rocket Even Bigger to Rival SpaceX</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-22 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
