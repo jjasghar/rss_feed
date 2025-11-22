@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 00:04:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-22 01:29:01 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763770043478_nn_gha_trump_mamdani_251121_1920x1080-ps81wq.jpg" alt="Trump, Mamdani strike friendly tone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-mamdani-strike-friendly-tone-252594757554" target="_blank">Trump, Mamdani strike friendly tone</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-22 00:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb7/live/f8ea21f0-c6fb-11f0-a863-434ee92aa5e3.jpg" alt="New puberty blockers trial to begin after UK ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2k4jg0wkj4o?at_medium=RSS&at_campaign=rss" target="_blank">New puberty blockers trial to begin after UK ban</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-22 00:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +102,20 @@
                 <span class="time">2025-11-21 22:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/former-president-jair-bolsonaro-asks-to-serve-house-arrest-in-brazil?traffic_source=rss" target="_blank">Former President Jair Bolsonaro asks to serve house arrest in Brazil</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-21 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/21/nx-s1-5615262/national-womens-soccer-league-washington-spirit-gotham-fc-san-jose" target="_blank">These fans have sung their way to the National Women&#x27;s Soccer League finals</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-21 21:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/crypto-key-500x500.jpeg" alt="Oops. Cryptographers cancel election results after losing decryption key." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/" target="_blank">Oops. Cryptographers cancel election results after losing decryption key.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-22 00:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +161,20 @@
                 <span class="time">2025-11-21 20:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/21/the-hottest-ai-wearables-and-gadgets-you-can-buy-right-now/" target="_blank">The hottest AI wearables and gadgets you can buy right now</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-21 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8c20fh62pgvow71c4fa2.png" alt="Mi Agente se Rebeló: Intentando Crear un Bedrock Agent con S3 (y el Famoso Error &#x27;[retrieved information]&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sinariver/mi-agente-se-rebelo-intentando-crear-un-bedrock-agent-con-s3-y-el-famoso-error-retrieved-2php" target="_blank">Mi Agente se Rebeló: Intentando Crear un Bedrock Agent con S3 (y el Famoso Error &#x27;[retrieved information]&#x27;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-22 01:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +220,6 @@
                 <span class="time">2025-11-21 19:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fijzez/top-5-ai-tools-every-developer-should-try-in-2025-3gdm" target="_blank">Top 5 AI Tools Every Developer Should Try in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-21 18:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -258,6 +258,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Black Friday Deals Live Blog 2025: Best Early Black Friday Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-early-black-friday-deals-live-blog-2025-apple-samsung-laptops-tvs?utm_medium=RSS" target="_blank">Black Friday Deals Live Blog 2025: Best Early Black Friday Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-22 01:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/amazon-echo-dot-2022-1280x853.jpg" alt="Amazon Decided Money Doesn’t Matter, Now Selling the Echo Dot With Alexa Built-In for Pocket Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-decided-money-doesnt-matter-now-selling-the-echo-dot-with-alexa-built-in-for-pocket-change-2000646337" target="_blank">Amazon Decided Money Doesn’t Matter, Now Selling the Echo Dot With Alexa Built-In for Pocket Change</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-22 01:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/NG9x4_Liftoff1-1280x853.jpg" alt="Blue Origin Will Make Its New Glenn Rocket Even Bigger to Rival SpaceX" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -291,24 +309,6 @@
                 <span class="title"><a href="https://gizmodo.com/toy-story-30th-anniversary-steve-jobs-new-interview-pixar-2000689582" target="_blank">Steve Jobs Hypes Up ‘Toy Story’ and Pixar in Unearthed Interview</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-21 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/destoyer2-1280x720.jpg" alt="Someone Built The Independence Day Ship In No Man’s Sky And It’s As Terrifying As It Is Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/no-mans-sky-corvette-independence-day-ship-build-2000646306" target="_blank">Someone Built The Independence Day Ship In No Man’s Sky And It’s As Terrifying As It Is Awesome</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-21 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAM4C48B0SF3W2CVDTATVXA6/hero-image.jpg" alt="This Black Friday Deal Cuts 50% Off a Six-Month Apple TV Subscription" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-tv-subscription-black-friday-2025?utm_medium=RSS" target="_blank">This Black Friday Deal Cuts 50% Off a Six-Month Apple TV Subscription</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-21 21:32</span>
             </div>
         </div>
 </div>
@@ -357,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
