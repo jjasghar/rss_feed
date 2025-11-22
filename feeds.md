@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 16:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-22 17:01:31 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e601/live/8b9012b0-c7ad-11f0-9fb5-5f3a3703a365.jpg" alt="Ukraine&#x27;s allies voice concerns over US plan to end war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clydg8w7kxvo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine&#x27;s allies voice concerns over US plan to end war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-22 15:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d42/live/fcc0adb0-c7b1-11f0-83e1-2f64c544cba6.png" alt="Girl, 13, arrested on suspicion of murdering woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c4g4vdrev2eo?at_medium=RSS&at_campaign=rss" target="_blank">Girl, 13, arrested on suspicion of murdering woman</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-22 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/22/nx-s1-5617680/nigeria-catholic-school-children-abducted" target="_blank">More than 300 children were abducted in an attack on a Catholic school in Nigeria</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-22 14:37</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +102,20 @@
                 <span class="time">2025-11-22 13:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/22/brazils-bolsonaro-arrested-days-before-start-of-27-year-prison-sentence?traffic_source=rss" target="_blank">Brazil’s Bolsonaro arrested days before start of 27-year prison sentence</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-22 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-keir-starmer-g20-prime-minister_7088334.jpg?20251122121410" alt="Europe scrambles for counter-proposal to US-Russian plan for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/european-leaders-are-scrambling-for-counter-proposal-to-us-russian-peace-plan-for-ukraine-13473899" target="_blank">Europe scrambles for counter-proposal to US-Russian plan for Ukraine</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-22 12:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025" target="_blank">The absolute best Black Friday deals we’ve found (so far)</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-22 16:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +161,29 @@
                 <span class="time">2025-11-22 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6920dddfa3b831f0f5f75616/master/pass/The%20Ninja%20Slushi%20Is%20at%20Its%20Cheapest%20Price%20Ever%20for%20Black%20Friday.png" alt="The Ninja Slushi Early Black Friday Deal Is the Lowest We&#x27;ve Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ninja-slushi-black-friday-deal-2025/" target="_blank">The Ninja Slushi Early Black Friday Deal Is the Lowest We&#x27;ve Seen</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-22 12:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/povilasjurcys/how-i-ended-up-building-with-github-copilot-the-remote-one-and-why-it-still-feels-kinda-wild-36c1" target="_blank">How I Ended Up Building With GitHub Copilot (the Remote One) And Why It Still Feels Kinda Wild</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-22 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/olmo3/en/headerimage/generatedHeaderImage-1763825643990.jpg" alt="Olmo 3 Release Provides Full Transparency Into Model Development and Training" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/olmo3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Olmo 3 Release Provides Full Transparency Into Model Development and Training</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-22 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgpky8m2bwsi3zdjste77.webp" alt="GitHub Universe 2025 Recap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +220,6 @@
                 <span class="time">2025-11-22 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Ayaneo-Flip-DS" target="_blank">Linux 6.18 To Enable Both Touchscreens On The AYANEO Flip DS Dual-Screen Handheld</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-22 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lucumr.pocoo.org/2025/11/21/agents-are-hard/" target="_blank">Agent design is still hard</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-22 11:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/philips-hue-lightstrip-1280x853.jpg" alt="Philips Hue Is Offloading Its 10ft Smart Lightstrips at 40% Off, Now Cheaper Than No-Name Alternatives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/philips-hue-is-offloading-its-10ft-smart-lightstrips-at-40-off-now-cheaper-than-no-name-alternatives-2000646503" target="_blank">Philips Hue Is Offloading Its 10ft Smart Lightstrips at 40% Off, Now Cheaper Than No-Name Alternatives</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-22 16:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/04/Howard-Lutnick-feb-10-2025-1280x853.jpg" alt="The Sons of Trump’s Commerce Secretary Are Making Money in the Data Center Biz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +302,6 @@
                 <span class="time">2025-11-22 01:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/amazon-echo-dot-2022-1280x853.jpg" alt="Amazon Decided Money Doesn’t Matter, Now Selling the Echo Dot With Alexa Built-In for Pocket Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-decided-money-doesnt-matter-now-selling-the-echo-dot-with-alexa-built-in-for-pocket-change-2000646337" target="_blank">Amazon Decided Money Doesn’t Matter, Now Selling the Echo Dot With Alexa Built-In for Pocket Change</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-22 01:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,22 +316,13 @@
                 <span class="time">2025-11-22 00:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1763689949-20251121_edit.png" alt="Saturday Morning Breakfast Cereal - Blame" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/blame" target="_blank">Saturday Morning Breakfast Cereal - Blame</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-21 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
