@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 21:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-22 22:01:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/22/gaza-was-near-and-dear-to-zohran-mamdanis-nyc-mayoral-bid-father-says?traffic_source=rss" target="_blank">Gaza was ‘near and dear’ to Zohran Mamdani’s NYC mayoral bid, father says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-22 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251017-donald-trump-volodymyr-zelensky-ew-148p-d83457.jpg" alt="Trump says Ukraine peace plan isn&#x27;t his &#x27;final offer&#x27; to Zelenskyy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-ukraine-peace-plan-isnt-final-offer-russia-rcna245340" target="_blank">Trump says Ukraine peace plan isn&#x27;t his &#x27;final offer&#x27; to Zelenskyy</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-22 21:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/rubio-zelenskyy-gty-jt-251122_1763827452378_hpMain_4x3t_384.jpg" alt="Trump says Ukraine peace plan offer not final as officials set to meet in Geneva" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/ukraine-peace-talks-place-coming-days/story?id=127779238" target="_blank">Trump says Ukraine peace plan offer not final as officials set to meet in Geneva</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-22 19:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e601/live/8b9012b0-c7ad-11f0-9fb5-5f3a3703a365.jpg" alt="Ukraine&#x27;s allies voice concerns over US plan to end war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +101,20 @@
                 <span class="time">2025-11-22 14:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-lago-president-cop30_7088753.jpg?20251122172212" alt="Countries agree compromise climate deal at COP30 - but omit mention of fossil fuels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/cop30-countries-reach-draft-deal-to-help-speed-up-climate-action-13473945" target="_blank">Countries agree compromise climate deal at COP30 - but omit mention of fossil fuels</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-22 14:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/22/i-dont-mind-trump-unfazed-with-mamdani-calling-him-a?traffic_source=rss" target="_blank">‘I don’t mind’: Trump unfazed with Mamdani calling him a ‘fascist’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-22 14:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/society/2025/nov/22/south-africa-g20-protests-gender-based-violence-national-disaster" target="_blank">South Africa declares gender-based violence a national disaster amid G20 protests</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-22 13:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/22/waymo-gets-regulatory-approval-to-expand-across-bay-area-and-southern-california/" target="_blank">Waymo gets regulatory approval to expand across Bay Area and Southern California</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-22 21:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +157,6 @@
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-power-banks/" target="_blank">13 Best MagSafe Power Banks for iPhones (2025), Tested and Reviewed</a></span>
                 <span class="feed">WIRED</span>
-                <span class="time">2025-11-22 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/826225/xreal-one-viture-luma-pro-ar-glasses-steam-deck-switch-2-deal-sale" target="_blank">The best AR glasses are cheaper than ever during Black Friday</a></span>
-                <span class="feed">The Verge</span>
                 <span class="time">2025-11-22 15:00</span>
             </div>
         </div>
@@ -236,6 +239,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/09/a09f5c4eba94a8375f45477e8a9a855c.jpg" alt="These Great Xbox 360 Classics Are All Super Cheap Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-360-black-friday-2025-best-games-backwards-compatible-2000646545" target="_blank">These Great Xbox 360 Classics Are All Super Cheap Right Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-22 21:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/dmv-1280x721.jpg" alt="California Just Legalized Waymo in Some of the Nation’s Most Populous Areas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/california-just-legalized-waymo-in-some-of-the-nations-most-populous-areas-2000690159" target="_blank">California Just Legalized Waymo in Some of the Nation’s Most Populous Areas</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-22 21:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/game-of-thrones-hed-1280x853.jpg" alt="‘Game of Thrones’ Will Get a Proper Sequel, Eventually" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -271,24 +292,6 @@
                 <span class="time">2025-11-22 17:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/philips-hue-lightstrip-1280x853.jpg" alt="Philips Hue Is Offloading Its 10ft Smart Lightstrips at 40% Off, Now Cheaper Than No-Name Alternatives" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/philips-hue-is-offloading-its-10ft-smart-lightstrips-at-40-off-now-cheaper-than-no-name-alternatives-2000646503" target="_blank">Philips Hue Is Offloading Its 10ft Smart Lightstrips at 40% Off, Now Cheaper Than No-Name Alternatives</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-22 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/04/Howard-Lutnick-feb-10-2025-1280x853.jpg" alt="The Sons of Trump’s Commerce Secretary Are Making Money in the Data Center Biz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-sons-of-trumps-commerce-secretary-are-making-money-in-the-data-center-biz-2000689741" target="_blank">The Sons of Trump’s Commerce Secretary Are Making Money in the Data Center Biz</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-22 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
