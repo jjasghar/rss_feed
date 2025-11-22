@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 22:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-22 23:01:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ded/live/18a04ba0-c7e2-11f0-a715-415645a54121.jpg" alt="UN climate talks fail to secure new fossil fuel promises" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss" target="_blank">UN climate talks fail to secure new fossil fuel promises</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-22 22:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c4g4vdrev2eo?at_medium=RSS&at_campaign=rss" target="_blank">Girl, 13, arrested on suspicion of murdering woman</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-22 14:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/22/nx-s1-5617680/nigeria-catholic-school-children-abducted" target="_blank">More than 300 children were abducted in an attack on a Catholic school in Nigeria</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-22 14:37</span>
             </div>
         </div>
 </div>
@@ -166,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F073xur3s66u2s8y21077.png" alt="Version 1.0.0 Released! My Repo Extraction Tool is now available on NPM!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/whyang9701/100-published-my-repo-extraction-tool-is-on-npm-now-2fbk" target="_blank">Version 1.0.0 Released! My Repo Extraction Tool is now available on NPM!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-22 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/MIPS-RISC-V-Vendor-ID-Linux-618" target="_blank">RISC-V Testing Lapse Resulted In Wrong MIPS RISC-V Vendor ID Landing In Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-22 22:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqhe7vppq7enuyxsqfsf.webp" alt="How Machines Learned to Write Software in a Human Like Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -199,38 +216,6 @@
                 <span class="title"><a href="https://dev.to/povilasjurcys/how-i-ended-up-building-with-github-copilot-the-remote-one-and-why-it-still-feels-kinda-wild-36c1" target="_blank">How I Ended Up Building With GitHub Copilot (the Remote One) And Why It Still Feels Kinda Wild</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-22 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/olmo3/en/headerimage/generatedHeaderImage-1763825643990.jpg" alt="Olmo 3 Release Provides Full Transparency Into Model Development and Training" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/olmo3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Olmo 3 Release Provides Full Transparency Into Model Development and Training</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-22 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgpky8m2bwsi3zdjste77.webp" alt="GitHub Universe 2025 Recap" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bolt04/github-universe-2025-recap-9gl" target="_blank">GitHub Universe 2025 Recap</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-22 15:53</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-new-squid-sneaker.html" target="_blank">Friday Squid Blogging: New “Squid” Sneaker</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-21 22:08</span>
             </div>
         </div>
 </div>
@@ -320,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
