@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 12:02:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-22 13:06:05 UTC -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 13:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6920dddfa3b831f0f5f75616/master/pass/The%20Ninja%20Slushi%20Is%20at%20Its%20Cheapest%20Price%20Ever%20for%20Black%20Friday.png" alt="The Ninja Slushi Early Black Friday Deal Is the Lowest We&#x27;ve Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ninja-slushi-black-friday-deal-2025/" target="_blank">The Ninja Slushi Early Black Friday Deal Is the Lowest We&#x27;ve Seen</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-22 12:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1315382333-500x500.jpg" alt="This hacker conference installed a literal antivirus monitoring system" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -153,15 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/" target="_blank">How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-22 03:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/826901/jeffrey-epstein-files-emails-gmail-jmail" target="_blank">‘Jmail’ is like any other inbox, except this one has Jeffrey Epstein’s emails</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-22 00:58</span>
             </div>
         </div>
 </div>
@@ -333,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 13:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
