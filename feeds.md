@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 07:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-22 08:02:05 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +160,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/11/grafana-new-releases/en/headerimage/generatedHeaderImage-1763759093473.jpg" alt="Grafana Unveils Smarter Logs, an MCP Server, and TraceQL Upgrades in Latest Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/grafana-new-releases/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana Unveils Smarter Logs, an MCP Server, and TraceQL Upgrades in Latest Releases</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-22 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Folkdxb5351kd8zyrtv7v.png" alt="Selenium Architecture &amp; Python Virtual Environ" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pooja_shyam_643fff420b3a8/selenium-architecture-python-virtual-environ-3fi2" target="_blank">Selenium Architecture &amp; Python Virtual Environ</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-22 07:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftxvmtsl38fga7ippgp0j.png" alt="Building an End-to-End Monitoring Architecture in Azure for a Multi-Service Product" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/member_9a08d7fd/i-built-appinfo-see-what-apps-are-actually-doing-on-your-phone-35m" target="_blank">I built AppInfo - see what apps are actually doing on your phone 📱</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-22 03:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/valkey-9-atomic-migration/en/headerimage/generatedHeaderImage-1763003433464.jpg" alt="Valkey 9.0 Introduces Multi-Database Clustering, Atomic Slot Migration, and Major Performance Gains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/valkey-9-atomic-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Valkey 9.0 Introduces Multi-Database Clustering, Atomic Slot Migration, and Major Performance Gains</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-22 03:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-50-Nautilus-Thumbnails" target="_blank">Nautilus File Manager In GNOME 50 Will Load Thumbnails Much Faster</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-22 01:53</span>
             </div>
         </div>
 </div>
@@ -330,22 +327,13 @@
                 <span class="time">2025-11-21 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/21/die-die-my-darling" target="_blank">Die, Die My Darling</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-21 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
