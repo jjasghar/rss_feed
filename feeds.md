@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-21 23:02:12 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-22 00:04:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, November 21, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week" target="_blank">Nigeria reels after 215 children taken in second mass school abduction in a week</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-21 23:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/bbc-board-member-shumeet-banerji-resigns?traffic_source=rss" target="_blank">BBC board member Shumeet Banerji resigns</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-21 23:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-volodymyr-zelenskyy_7087749.jpg?20251121161948" alt="We could all pay if Europe doesn&#x27;t step up and guarantee Ukraine&#x27;s security in face of US betrayal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-peace-plan-we-could-all-pay-if-europe-doesnt-step-up-and-guarantee-ukraines-security-13473738" target="_blank">We could all pay if Europe doesn&#x27;t step up and guarantee Ukraine&#x27;s security in face of US betrayal</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-21 22:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-1-rt-er-251121_1763759233689_hpMain_4x3t_384.jpg" alt="Trump, Mamdani promise to help NYC, tackle affordability in cordial meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -60,39 +94,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d30/live/b840e960-c6fe-11f0-99c3-7dce999e48af.png" alt="Zelensky warns Ukraine risks losing US support over White House peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy5g4r9l4dlo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky warns Ukraine risks losing US support over White House peace plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-21 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/21/is-the-us-negotiating-away-ukraines-future-while-favouring-russia?traffic_source=rss" target="_blank">Is the US negotiating away Ukraine’s future while favouring Russia?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-21 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  NYC Mayor-elect Mamdani meets with President Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  NYC Mayor-elect Mamdani meets with President Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-21 19:36</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/21/nx-s1-5616284/female-crash-test-dummy-design-approval" target="_blank">The female crash test dummy has been a long time coming — but she isn&#x27;t here yet</a></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/21/nx-s1-5615262/national-womens-soccer-league-washington-spirit-gotham-fc-san-jose" target="_blank">These fans have sung their way to the National Women&#x27;s Soccer League finals</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-21 19:13</span>
+                <span class="time">2025-11-21 21:25</span>
             </div>
         </div>
 </div>
@@ -100,6 +107,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out" target="_blank">Google denies &amp;#8216;misleading&amp;#8217; reports of Gmail using your emails to train AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-22 00:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6920edd094a09f9b9ef47d2e/master/pass/OpenAI_office_GettyImages-2155595491.jpg" alt="OpenAI Locks Down San Francisco Offices Following Alleged Threat From Activist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-office-lockdown-threat-san-francisco/" target="_blank">OpenAI Locks Down San Francisco Offices Following Alleged Threat From Activist</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-21 23:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6920a060c597ca958cb5bdaf/master/pass/Fortnite-Players-Fighting-Ice-Culture-shutterstock_1444806506.jpg" alt="Activists Are Using &#x27;Fortnite&#x27; to Fight Back Against ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,29 +161,29 @@
                 <span class="time">2025-11-21 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21250695/best-laptops" target="_blank">The best laptops you can get</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-21 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6920acb12e95b0710d7d0ea3/master/pass/2231892531" alt="MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/" target="_blank">MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-21 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/navidm/axelang-a-systems-programming-language-with-concurrency-as-a-first-class-feature-4i3b" target="_blank">Axelang - A Systems Programming Language with Concurrency as a First-Class feature</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-21 23:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/" target="_blank">California DMV approves map increase in Waymo driverless operations</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-21 22:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/fijzez/top-5-ai-tools-every-developer-should-try-in-2025-3gdm" target="_blank">Top 5 AI Tools Every Developer Should Try in 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-21 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/musculus/fixing-hallucinations-in-gemini-3-pro-by-overriding-rlhf-instincts-5e0i" target="_blank">Fixing Hallucinations in Gemini 3 Pro by Overriding RLHF Instincts</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-21 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/qcon-engineering-leadership/en/headerimage/generatedHeaderImage-1763658090627.jpg" alt="QConSF 2025: Humans in the Loop: Engineering Leadership in a Chaotic Industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/qcon-engineering-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QConSF 2025: Humans in the Loop: Engineering Leadership in a Chaotic Industry</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-21 16:56</span>
             </div>
         </div>
 </div>
@@ -251,6 +258,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/NG9x4_Liftoff1-1280x853.jpg" alt="Blue Origin Will Make Its New Glenn Rocket Even Bigger to Rival SpaceX" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/blue-origin-will-make-its-new-glenn-rocket-even-bigger-to-rival-spacex-2000689723" target="_blank">Blue Origin Will Make Its New Glenn Rocket Even Bigger to Rival SpaceX</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-22 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/Apple-AirPods-4-Wireless-Earbuds-1280x852.jpg" alt="AirPods 4 With ANC Are Nearly 50% Off, Apple Just Activated Chaos Mode for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/airpods-4-with-anc-are-nearly-50-off-apple-just-activated-chaos-mode-for-black-friday-2000646329" target="_blank">AirPods 4 With ANC Are Nearly 50% Off, Apple Just Activated Chaos Mode for Black Friday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-21 23:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/VS-YouTube-CallofDutyBlackOps7WorldPremiereTrailergamescomOpeningNightLive2025-227-1280x720.jpg" alt="Activision Isn’t Celebrating Call Of Duty: Black Ops 7‘s Launch The Way It Normally Does" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -286,24 +311,6 @@
                 <span class="time">2025-11-21 21:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/hoyo-1280x720.jpg" alt="The Genshin Impact Company Just Revealed Another New Game And It’s Basically Anime Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/varsapura-trailer-anime-horror-genshin-impact-2000646294" target="_blank">The Genshin Impact Company Just Revealed Another New Game And It’s Basically Anime Control</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-21 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/also-Cui-Jun-1280x853.jpg" alt="Do Not, Under Any Circumstance, Buy Your Kid an AI Toy for Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/do-not-under-any-circumstance-buy-your-kid-an-ai-toy-for-christmas-2000689652" target="_blank">Do Not, Under Any Circumstance, Buy Your Kid an AI Toy for Christmas</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-21 20:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,6 +335,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/geologic_core_sample.png" alt="Geologic Core Sample" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3171/" target="_blank">Geologic Core Sample</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-11-21 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5705.png" alt="Ka Chunk Ka Chunk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -341,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
