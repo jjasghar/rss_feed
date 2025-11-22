@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 09:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-22 10:01:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/22/china-spat-with-japan-on-taiwan-deepens-reaches-un-whats-it-all-about?traffic_source=rss" target="_blank">China spat with Japan on Taiwan deepens, reaches UN: What’s it all about?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-22 09:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/rep-marjorie-taylor-greene-resign-congress-january/story?id=127771912" target="_blank">Rep. Marjorie Taylor Greene says she will resign from Congress in January</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-22 03:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763776707172_now_staytuned_marjorie_taylor_greene_resigns_251121_1920x1080-5f1fsc.jpg" alt="Rep. Marjorie Taylor Greene to resign from Congress next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/rep-marjorie-taylor-greene-to-resign-from-congress-next-year-252608581927" target="_blank">Rep. Marjorie Taylor Greene to resign from Congress next year</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-22 01:58</span>
             </div>
         </div>
 </div>
@@ -160,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/techpragna/key-concepts-covered-in-a-java-training-course-2e91" target="_blank">Key Concepts Covered in a Java Training Course</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-22 09:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/grafana-new-releases/en/headerimage/generatedHeaderImage-1763759093473.jpg" alt="Grafana Unveils Smarter Logs, an MCP Server, and TraceQL Upgrades in Latest Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -202,15 +213,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c8e9rp0knj6o" target="_blank">Superman copy found in mum&#x27;s attic is most valuable comic ever at $9.12M</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-22 05:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F835mkqnpjamjf0e9rkk5.png" alt="I built AppInfo - see what apps are actually doing on your phone 📱" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_9a08d7fd/i-built-appinfo-see-what-apps-are-actually-doing-on-your-phone-35m" target="_blank">I built AppInfo - see what apps are actually doing on your phone 📱</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-22 03:56</span>
             </div>
         </div>
 </div>
@@ -332,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
