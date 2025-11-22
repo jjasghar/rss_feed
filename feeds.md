@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 14:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-22 15:01:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 34 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/22/i-dont-mind-trump-unfazed-with-mamdani-calling-him-a?traffic_source=rss" target="_blank">‘I don’t mind’: Trump unfazed with Mamdani calling him a ‘fascist’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-22 14:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-gaza-israel-palestine_7086140.jpg?20251119162157" alt="Israel launches strikes on Gaza in further test of fragile ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-striking-hamas-targets-in-gaza-after-reports-soldiers-attacked-13473932" target="_blank">Israel launches strikes on Gaza in further test of fragile ceasefire</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-22 13:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,29 +101,29 @@
                 <span class="time">2025-11-22 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/22/travis-head-scores-century-as-australia-defeat-england-in-perth-test?traffic_source=rss" target="_blank">Travis Head scores century as Australia defeat England in Perth Test</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-22 10:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/22/china-spat-with-japan-on-taiwan-deepens-reaches-un-whats-it-all-about?traffic_source=rss" target="_blank">China spat with Japan on Taiwan deepens, reaches UN: What’s it all about?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-22 09:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/826225/xreal-one-viture-luma-pro-ar-glasses-steam-deck-switch-2-deal-sale" target="_blank">The best AR glasses are cheaper than ever during Black Friday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-22 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6920e0510b506e4e30290819/master/pass/The%20Best%20Posture%20Correctors%20to%20Straighten%20You%20Out.png" alt="These 5 Posture Corrector Picks Will Straighten You Out (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/posture-correctors/" target="_blank">These 5 Posture Corrector Picks Will Straighten You Out (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-22 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,29 +160,29 @@
                 <span class="time">2025-11-22 11:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691773c9469b98252c4f5858/master/pass/wired_earlyblack_final.jpg" alt="55 Best Early Black Friday Deals on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/early-black-friday-deals-2025-2/" target="_blank">55 Best Early Black Friday Deals on WIRED-Tested Gear (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-22 10:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="Logitech Promo Code: $25 Off This Holiday Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/logitech-promo-code/" target="_blank">Logitech Promo Code: $25 Off This Holiday Season</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-22 06:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/samuel_ochaba_eb9c875fa89/this-innocent-array-pattern-quietly-kills-your-javascript-performance-47g8" target="_blank">This &#x27;Innocent&#x27; Array Pattern Quietly Kills Your JavaScript Performance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-22 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/TUXEDO-X1E-Cancelled-DT" target="_blank">Linux Device Trees For Cancelled Products? Don&#x27;t &quot;Waste Time&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-22 14:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/11/nexla-express-ai-data/en/headerimage/generatedHeaderImage-1763744510313.jpg" alt="Nexla Launches Express: A Conversational Platform for AI Data Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,24 +219,6 @@
                 <span class="time">2025-11-22 10:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/cloudflare-global-outage-cause/en/headerimage/generatedHeaderImage-1763745101477.jpg" alt="Cloudflare Global Outage Traced to Internal Database Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/cloudflare-global-outage-cause/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Global Outage Traced to Internal Database Change</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-22 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techpragna/key-concepts-covered-in-a-java-training-course-2e91" target="_blank">Key Concepts Covered in a Java Training Course</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-22 09:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/beats-studio-pro-headphones-1280x853.jpg" alt="Amazon Goes Savage on Apple, Beats Studio Pro Sinks Nearly 60% Off and Sells for Budget Money" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-goes-savage-on-apple-beats-studio-pro-sinks-nearly-60-off-and-sells-for-budget-money-2000646466" target="_blank">Amazon Goes Savage on Apple, Beats Studio Pro Sinks Nearly 60% Off and Sells for Budget Money</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-22 14:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/macbook-air-2025-apple-1280x853.jpg" alt="Apple Swallows Its Pride, MacBook Air Falls to All-Time Low and Goes 2x Cheaper Than Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +301,6 @@
                 <span class="time">2025-11-22 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/Apple-AirPods-4-Wireless-Earbuds-1280x852.jpg" alt="AirPods 4 With ANC Are Nearly 50% Off, Apple Just Activated Chaos Mode for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/airpods-4-with-anc-are-nearly-50-off-apple-just-activated-chaos-mode-for-black-friday-2000646329" target="_blank">AirPods 4 With ANC Are Nearly 50% Off, Apple Just Activated Chaos Mode for Black Friday</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-21 23:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
