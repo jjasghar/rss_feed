@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 01:29:01 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-22 02:28:19 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 02:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763776707172_now_staytuned_marjorie_taylor_greene_resigns_251121_1920x1080-5f1fsc.jpg" alt="Rep. Marjorie Taylor Greene to resign from Congress next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/rep-marjorie-taylor-greene-to-resign-from-congress-next-year-252608581927" target="_blank">Rep. Marjorie Taylor Greene to resign from Congress next year</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-22 01:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/21/g-s1-98856/supreme-court-texas-congressional-map" target="_blank">Supreme Court blocks order that found Texas congressional map is likely racially biased</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-22 01:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/22/russia-ukraine-war-list-of-key-events-day-1367?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,367</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-22 01:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763770043478_nn_gha_trump_mamdani_251121_1920x1080-ps81wq.jpg" alt="Trump, Mamdani strike friendly tone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,38 +102,20 @@
                 <span class="time">2025-11-21 23:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/21/bbc-board-member-shumeet-banerji-resigns?traffic_source=rss" target="_blank">BBC board member Shumeet Banerji resigns</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-21 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-volodymyr-zelenskyy_7087749.jpg?20251121161948" alt="We could all pay if Europe doesn&#x27;t step up and guarantee Ukraine&#x27;s security in face of US betrayal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-peace-plan-we-could-all-pay-if-europe-doesnt-step-up-and-guarantee-ukraines-security-13473738" target="_blank">We could all pay if Europe doesn&#x27;t step up and guarantee Ukraine&#x27;s security in face of US betrayal</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-21 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-1-rt-er-251121_1763759233689_hpMain_4x3t_384.jpg" alt="Trump, Mamdani promise to help NYC, tackle affordability in cordial meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-mamdani-meet-oval-office-mayor-elect-pushes/story?id=127715736" target="_blank">Trump, Mamdani promise to help NYC, tackle affordability in cordial meeting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-21 22:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/826901/jeffrey-epstein-files-emails-gmail-jmail" target="_blank">‘Jmail’ is like any other inbox, except this one has Jeffrey Epstein’s emails</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-22 00:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/crypto-key-500x500.jpeg" alt="Oops. Cryptographers cancel election results after losing decryption key." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/826695/microsoft-xbox-full-screen-experience-pc-laptop-tablet-windows-insider" target="_blank">You can now try the Xbox Full Screen Experience on any PC, laptop, or tablet</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-21 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/nvidia-chip-500x500-1754500471.jpg" alt="Tech company CTO and others indicted for exporting Nvidia chips to China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/tech-company-cto-and-others-indicted-for-exporting-nvidia-chips-to-china/" target="_blank">Tech company CTO and others indicted for exporting Nvidia chips to China</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-21 20:29</span>
             </div>
         </div>
 </div>
@@ -343,22 +343,13 @@
                 <span class="time">2025-11-21 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5705.png" alt="Ka Chunk Ka Chunk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5706" target="_blank">Ka Chunk Ka Chunk</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-11-21 01:37</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 02:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
