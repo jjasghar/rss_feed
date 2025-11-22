@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 13:06:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-22 14:01:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 13:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/22/brazils-bolsonaro-arrested-days-before-start-of-27-year-prison-sentence?traffic_source=rss" target="_blank">Brazil’s Bolsonaro arrested days before start of 27-year prison sentence</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-22 12:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-keir-starmer-g20-prime-minister_7088334.jpg?20251122121410" alt="Europe scrambles for counter-proposal to US-Russian plan for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/european-leaders-are-scrambling-for-counter-proposal-to-us-russian-peace-plan-for-ukraine-13473899" target="_blank">Europe scrambles for counter-proposal to US-Russian plan for Ukraine</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-22 12:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +106,20 @@
                 <span class="time">2025-11-22 09:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/22/epstein-victims-expect-death-threats-to-rise-as-us-release-of-files-nears?traffic_source=rss" target="_blank">Epstein victims expect death threats to rise as US release of files nears</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-22 08:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/22/g-s1-98867/trump-terminating-protections-somali-minnesota" target="_blank">Trump says he&#x27;s terminating legal protections for Somali migrants in Minnesota</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-22 06:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/826331/forestrike-review-nintendo-switch-steam" target="_blank">Forestrike trained me to become an incredible pixelated fighter</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-22 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6920dddfa3b831f0f5f75616/master/pass/The%20Ninja%20Slushi%20Is%20at%20Its%20Cheapest%20Price%20Ever%20for%20Black%20Friday.png" alt="The Ninja Slushi Early Black Friday Deal Is the Lowest We&#x27;ve Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +165,20 @@
                 <span class="time">2025-11-22 06:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/" target="_blank">How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-22 03:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/nexla-express-ai-data/en/headerimage/generatedHeaderImage-1763744510313.jpg" alt="Nexla Launches Express: A Conversational Platform for AI Data Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/nexla-express-ai-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Nexla Launches Express: A Conversational Platform for AI Data Engineering</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-22 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -168,6 +186,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Ayaneo-Flip-DS" target="_blank">Linux 6.18 To Enable Both Touchscreens On The AYANEO Flip DS Dual-Screen Handheld</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-22 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lucumr.pocoo.org/2025/11/21/agents-are-hard/" target="_blank">Agent design is still hard</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-22 11:27</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +222,6 @@
                 <span class="title"><a href="https://dev.to/techpragna/key-concepts-covered-in-a-java-training-course-2e91" target="_blank">Key Concepts Covered in a Java Training Course</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-22 09:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/grafana-new-releases/en/headerimage/generatedHeaderImage-1763759093473.jpg" alt="Grafana Unveils Smarter Logs, an MCP Server, and TraceQL Upgrades in Latest Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/grafana-new-releases/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana Unveils Smarter Logs, an MCP Server, and TraceQL Upgrades in Latest Releases</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-22 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Folkdxb5351kd8zyrtv7v.png" alt="Selenium Architecture &amp; Python Virtual Environ" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pooja_shyam_643fff420b3a8/selenium-architecture-python-virtual-environ-3fi2" target="_blank">Selenium Architecture &amp; Python Virtual Environ</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-22 07:45</span>
             </div>
         </div>
 </div>
@@ -243,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/macbook-air-2025-apple-1280x853.jpg" alt="Apple Swallows Its Pride, MacBook Air Falls to All-Time Low and Goes 2x Cheaper Than Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/apple-swallows-its-pride-macbook-air-falls-to-all-time-low-and-goes-2x-cheaper-than-pro-2000646450" target="_blank">Apple Swallows Its Pride, MacBook Air Falls to All-Time Low and Goes 2x Cheaper Than Pro</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-22 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/underwater-archaeological-remains-1280x853.jpg" alt="You Won’t Believe What Archaeologists Found Beneath This Lake in Kyrgyzstan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +306,6 @@
                 <span class="time">2025-11-21 23:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/VS-YouTube-CallofDutyBlackOps7WorldPremiereTrailergamescomOpeningNightLive2025-227-1280x720.jpg" alt="Activision Isn’t Celebrating Call Of Duty: Black Ops 7‘s Launch The Way It Normally Does" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/call-of-duty-black-ops-7-player-count-battlefield-6-2000646316" target="_blank">Activision Isn’t Celebrating Call Of Duty: Black Ops 7‘s Launch The Way It Normally Does</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-21 22:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 13:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
