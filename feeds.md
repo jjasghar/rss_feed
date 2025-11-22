@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 18:02:07 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-22 19:01:18 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, November 22, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,6 +71,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-lago-president-cop30_7088753.jpg?20251122172212" alt="Countries agree compromise climate deal at COP30 - but omit mention of fossil fuels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/cop30-countries-reach-draft-deal-to-help-speed-up-climate-action-13473945" target="_blank">Countries agree compromise climate deal at COP30 - but omit mention of fossil fuels</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-22 14:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -93,20 +97,20 @@
                 <span class="time">2025-11-22 13:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-gaza-israel-palestine_7086140.jpg?20251119162157" alt="Israel launches strikes on Gaza in further test of fragile ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israel-striking-hamas-targets-in-gaza-after-reports-soldiers-attacked-13473932" target="_blank">Israel launches strikes on Gaza in further test of fragile ceasefire</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-22 13:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/826320/ps5-dualsense-wireless-controller-black-friday-deal-sale-2025" target="_blank">Sony’s entire DualSense lineup is $20 off, including the limited edition models</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-22 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +156,20 @@
                 <span class="time">2025-11-22 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6920e0510b506e4e30290819/master/pass/The%20Best%20Posture%20Correctors%20to%20Straighten%20You%20Out.png" alt="These 5 Posture Corrector Picks Will Straighten You Out (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/posture-correctors/" target="_blank">These 5 Posture Corrector Picks Will Straighten You Out (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-22 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://kevinboone.me/fingerprinting.html" target="_blank">The privacy nightmare of browser fingerprinting</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-22 17:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +215,6 @@
                 <span class="time">2025-11-22 14:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/nexla-express-ai-data/en/headerimage/generatedHeaderImage-1763744510313.jpg" alt="Nexla Launches Express: A Conversational Platform for AI Data Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/nexla-express-ai-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Nexla Launches Express: A Conversational Platform for AI Data Engineering</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-22 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2016/04/Xbox-360.jpg" alt="The 12 Best Games On Xbox 360" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-12-best-games-on-xbox-360-5878837" target="_blank">The 12 Best Games On Xbox 360</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-22 18:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/wicked-for-good-trailer-elphaba-1280x853.jpg" alt="The ‘Wicked’ Musical Creator Has Ideas For More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,20 +297,20 @@
                 <span class="time">2025-11-22 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/underwater-archaeological-remains-1280x853.jpg" alt="You Won’t Believe What Archaeologists Found Beneath This Lake in Kyrgyzstan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/you-wont-believe-whats-at-the-bottom-of-this-huge-lake-in-kyrgyzstan-2000688602" target="_blank">You Won’t Believe What Archaeologists Found Beneath This Lake in Kyrgyzstan</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-22 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1763688606-20251122_edit.png" alt="Saturday Morning Breakfast Cereal - Santa" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/santa-2" target="_blank">Saturday Morning Breakfast Cereal - Santa</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-22 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -321,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
