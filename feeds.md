@@ -1,46 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 16:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-23 17:01:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 37 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -77,6 +68,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/23/cyril-ramaphosa-gavel-g20-summit-us-handover" target="_blank">Cyril Ramaphosa closes G20 summit after US boycott and handover row</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-23 15:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/11/23/nx-s1-5618213/50-schoolchildren-escape-captivity-nigeria" target="_blank">50 schoolchildren escape captivity in Nigeria, more than 200 still held</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -101,15 +101,6 @@
                 <span class="time">2025-11-23 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763903206759_tdy_sun_molly_us_ukraine_talks_251123_1920x1080-250yk0.jpg" alt="Will Ukraine Accept US Peace Proposal Before Thanksgiving?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/us-and-ukraine-hold-talks-amid-concerns-of-russian-wish-list-252746309766" target="_blank">Will Ukraine Accept US Peace Proposal Before Thanksgiving?</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-23 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -119,9 +110,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/23/techcrunch-mobility-searching-for-the-robotaxi-tipping-point/" target="_blank">TechCrunch Mobility: Searching for the robotaxi tipping point</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-23 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/11/23/chatgpt-told-them-they-were-special-their-families-say-it-led-to-tragedy/" target="_blank">ChatGPT told them they were special — their families say it led to tragedy</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-23 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686841af120996c48be6fd17/master/pass/Best%20Air%20Purifiers%20update.png" alt="16 Best Air Purifiers (2025): Coway, AirDoctor, IQAir" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-air-purifiers/" target="_blank">16 Best Air Purifiers (2025): Coway, AirDoctor, IQAir</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-23 15:04</span>
             </div>
         </div>
 <div class="story">
@@ -151,29 +160,29 @@
                 <span class="time">2025-11-23 00:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/" target="_blank">Trump administration might not fight state AI regulations after all</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-22 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/22/waymo-gets-regulatory-approval-to-expand-across-bay-area-and-southern-california/" target="_blank">Waymo gets regulatory approval to expand across Bay Area and Southern California</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-22 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/google-bigtable-tiered-storage/en/headerimage/generatedHeaderImage-1763226132708.jpg" alt="Google Cloud Introduces Bigtable Tiered Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/google-bigtable-tiered-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Introduces Bigtable Tiered Storage</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-23 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-1.6Tb-Net-Linux-6.19" target="_blank">NVIDIA Preps 1.6Tb/s Networking For Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-23 15:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,28 +213,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Nested-VM-Faster-Memory" target="_blank">Linux Patches Improve Intel Nested VM Memory Performance Up To ~2353x In Synthetic Test</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-23 11:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jonasbn/maintenance-release-209-for-the-perl-distribution-workflow-491a" target="_blank">Maintenance release 2.09 for the Perl Distribution Workflow</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-23 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/" target="_blank">After my dad died, we found the love letters</a></span>
+                <span class="title"><a href="https://www.makingsoftware.com/chapters/shaders" target="_blank">Shaders: How to draw high fidelity graphics with just x and y coordinates</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-11-23 08:40</span>
+                <span class="time">2025-11-23 12:26</span>
             </div>
         </div>
 </div>
@@ -293,12 +284,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1763688606-20251122_edit.png" alt="Saturday Morning Breakfast Cereal - Santa" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1763688660-20251123_edit.png" alt="Saturday Morning Breakfast Cereal - Scar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/santa-2" target="_blank">Saturday Morning Breakfast Cereal - Santa</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/scar" target="_blank">Saturday Morning Breakfast Cereal - Scar</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-22 16:20</span>
+                <span class="time">2025-11-23 16:20</span>
             </div>
         </div>
 </div>
@@ -306,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
