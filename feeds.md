@@ -1,28 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 01:29:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-23 02:37:24 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 19 feeds processed -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 02:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,10 +51,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/22/nx-s1-5617698/thanksgiving-travel-best-time-aaa" target="_blank">Hitting the road for Thanksgiving? Here&#x27;s the best time to go</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-23 01:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/world/2025/nov/22/security-fears-rise-in-nigeria-after-more-than-300-taken-mass-school-kidnapping" target="_blank">Security fears rise in Nigeria after more than 300 schoolchildren kidnapped</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-22 23:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c5/live/7fbe5e30-c7f6-11f0-9fb5-5f3a3703a365.jpg" alt="Trump says US plan to end Ukraine war not &#x27;final offer&#x27; for Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clydg8w7kxvo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US plan to end Ukraine war not &#x27;final offer&#x27; for Kyiv</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-22 23:02</span>
             </div>
         </div>
 <div class="story">
@@ -74,29 +102,20 @@
                 <span class="time">2025-11-22 22:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Health/tatiana-schlossberg-gty-jt-251122_1763834844563_hpMain_4x3t_384.jpg" alt="JFK&#x27;s granddaughter reveals terminal cancer diagnosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/tatiana-schlossberg-caroline-kennedys-daughter-reveals-terminal-cancer/story?id=127785089" target="_blank">JFK&#x27;s granddaughter reveals terminal cancer diagnosis</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-22 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/22/gaza-was-near-and-dear-to-zohran-mamdanis-nyc-mayoral-bid-father-says?traffic_source=rss" target="_blank">Gaza was ‘near and dear’ to Zohran Mamdani’s NYC mayoral bid, father says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-22 21:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/827125/elon-musk-x-posts-politics-himself" target="_blank">Shocker: Elon Musk spends a lot of time on X posting bad political takes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-23 00:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,20 +161,20 @@
                 <span class="time">2025-11-22 16:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/22/why-now-is-the-best-time-to-invest-in-climate-tech/" target="_blank">Why now is the best time to invest in climate tech</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-22 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/the_duchess_of_hackers/why-every-newbie-in-tech-should-start-with-python-4lh6" target="_blank">Why Every Newbie in Tech Should Start With Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-23 02:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1znmebllf1kx9iomz1m.webp" alt="The Future of UX: Robotics, Telepresence, and the Rise of Human-in-the-Loop Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/guswoltmann84/how-machines-learned-to-write-software-in-a-human-like-way-1d9c" target="_blank">How Machines Learned to Write Software in a Human Like Way</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-22 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-RC3-Released" target="_blank">FreeBSD 15.0-RC3 Ships Latest OpenZFS, KDE Dropped From DVD ISO Due To Size Constraints</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-22 17:53</span>
             </div>
         </div>
 </div>
@@ -288,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 02:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
