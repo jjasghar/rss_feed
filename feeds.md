@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 04:11:10 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-23 05:01:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 04:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/1dc6f2f0-c828-11f0-8c06-f5d460985095.jpg" alt="US insists it authored Ukraine peace plan ahead of talks on ending war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g95x50kdyo?at_medium=RSS&at_campaign=rss" target="_blank">US insists it authored Ukraine peace plan ahead of talks on ending war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-23 04:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/TrumpEpsteinTakeaways_1763860568279_hpMain_4x3t_384.jpg" alt="DOJ seeks release of Epstein grand jury material in Florida" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/doj-seeks-release-epstein-grand-jury-material-florida/story?id=127791342" target="_blank">DOJ seeks release of Epstein grand jury material in Florida</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-23 01:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss" target="_blank">UN climate talks fail to secure new fossil fuel promises</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-22 22:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c5c/live/e182d190-c7cf-11f0-b259-1f10e6cadd18.jpg" alt="Rail fares to be frozen in England next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwygx71g3n7o?at_medium=RSS&at_campaign=rss" target="_blank">Rail fares to be frozen in England next year</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-22 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/2247364506_Cropped-pc7ovc.jpg" alt="Trump says 28-point Ukraine peace plan isn’t his ‘final offer’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-28-point-ukraine-peace-plan-isn-t-his-final-offer-252686917955" target="_blank">Trump says 28-point Ukraine peace plan isn’t his ‘final offer’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-22 22:18</span>
             </div>
         </div>
 </div>
@@ -204,19 +202,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html" target="_blank">GCC SC approves inclusion of Algol 68 Front End</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-23 02:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GCC-Allowing-Algol-68-Front-End" target="_blank">GCC Steering Committee Allows New Language Front-End To Land For GCC 16</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-23 01:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1znmebllf1kx9iomz1m.webp" alt="The Future of UX: Robotics, Telepresence, and the Rise of Human-in-the-Loop Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mashraf_aiman_b9a968e5c1d/the-future-of-ux-robotics-telepresence-and-the-rise-of-human-in-the-loop-design-3h87" target="_blank">The Future of UX: Robotics, Telepresence, and the Rise of Human-in-the-Loop Design</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-23 01:21</span>
             </div>
         </div>
 </div>
@@ -297,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 04:11 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
