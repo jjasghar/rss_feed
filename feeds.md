@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 14:01:22 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-23 15:02:09 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,10 +51,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/23/nx-s1-5618213/50-schoolchildren-escape-captivity-nigeria" target="_blank">50 schoolchildren escape captivity in Nigeria, more than 200 still held</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-23 14:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deac/live/14347580-c870-11f0-b59b-8f3754d4238d.jpg" alt="Minister denies Budget leaks have damaged economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clykvql14r7o?at_medium=RSS&at_campaign=rss" target="_blank">Minister denies Budget leaks have damaged economy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-23 13:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/11/23/live-arsenal-vs-tottenham-hotspur-premier-league?traffic_source=rss" target="_blank">LIVE: Arsenal vs Tottenham Hotspur – Premier League</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-23 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763903206759_tdy_sun_molly_us_ukraine_talks_251123_1920x1080-250yk0.jpg" alt="Will Ukraine Accept US Peace Proposal Before Thanksgiving?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/us-and-ukraine-hold-talks-amid-concerns-of-russian-wish-list-252746309766" target="_blank">Will Ukraine Accept US Peace Proposal Before Thanksgiving?</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-23 13:06</span>
             </div>
         </div>
 <div class="story">
@@ -68,33 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/23/palestinian-sculptors-create-art-on-gaza-beach-sand-to-escape-israels-war?traffic_source=rss" target="_blank">Palestinian sculptors create art on Gaza beach sand to escape Israel’s war</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-23 11:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/23/nx-s1-5617212/hair-loss-alopecia-female-treatments" target="_blank">Women experience hair loss too. Here&#x27;s what can help</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-23 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/23/nx-s1-5594860/dr-congo-dictator-mobutu" target="_blank">In DR Congo, exhibit reveals nostalgia for former dictator Mobutu</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-23 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/11/23/the-aftermath-of-the-latest-israeli-strikes-on-gaza?traffic_source=rss" target="_blank">The aftermath of the latest Israeli strikes on Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-23 10:36</span>
             </div>
         </div>
 </div>
@@ -221,12 +226,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/SeagateGameDrivePS5-1280x853.jpg" alt="Seagate SSD for PS5 Crashes to $0.08 per GB, Near No-Margin Black Friday Deal on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/seagate-ssd-for-ps5-crashes-to-0-08-per-gb-turning-storage-expansion-into-a-near-freebie-this-black-friday-2000645584" target="_blank">Seagate SSD for PS5 Crashes to $0.08 per GB, Near No-Margin Black Friday Deal on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-23 14:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/jackery-explorer-300-pw-1280x853.jpg" alt="Jackery Decided Margins Don’t Matter, 300W Power Station Now Cheaper Than Fancy Power Banks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/jackery-decided-margins-dont-matter-300w-power-station-now-cheaper-than-fancy-power-banks-2000646676" target="_blank">Jackery Decided Margins Don’t Matter, 300W Power Station Now Cheaper Than Fancy Power Banks</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-23 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/google-nest-doorbell-wired-3rdgen-review-1-1280x853.jpg" alt="Google Nest Doorbell Cam (2025) Review: I’m So Tired of Subscriptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/google-nest-doorbell-cam-2025-review-im-so-tired-of-subscriptions-2000670300" target="_blank">Google Nest Doorbell Cam (2025) Review: I’m So Tired of Subscriptions</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-23 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -256,24 +279,6 @@
                 <span class="time">2025-11-23 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/govee-uplighter-lamp-2-1280x853.jpg" alt="Amazon Is Going Nuts on Govee Uplighter Lamp, Now Selling for Pocket Change at Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-is-going-nuts-on-govee-uplighter-lamp-now-selling-for-pocket-change-at-black-friday-2000646562" target="_blank">Amazon Is Going Nuts on Govee Uplighter Lamp, Now Selling for Pocket Change at Black Friday</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-23 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/airpods-pro-3-1280x853.jpg" alt="Amazon Chose Market Share Over Margins, AirPods Pro 3 Crash to Record Low Days After Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-chose-market-share-over-margins-airpods-pro-3-crash-to-record-low-days-after-launch-2000646557" target="_blank">Amazon Chose Market Share Over Margins, AirPods Pro 3 Crash to Record Low Days After Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-23 00:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
