@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 05:01:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-23 06:02:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/23/ukraine-live?traffic_source=rss" target="_blank">Russia-Ukraine war live: US, European officials to discuss Trump’s plan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-23 05:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/1dc6f2f0-c828-11f0-8c06-f5d460985095.jpg" alt="US insists it authored Ukraine peace plan ahead of talks on ending war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/clydg8w7kxvo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US plan to end Ukraine war not &#x27;final offer&#x27; for Kyiv</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-22 23:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ded/live/18a04ba0-c7e2-11f0-a715-415645a54121.jpg" alt="UN climate talks fail to secure new fossil fuel promises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss" target="_blank">UN climate talks fail to secure new fossil fuel promises</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-22 22:38</span>
             </div>
         </div>
 </div>
@@ -164,12 +166,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/timcrooks/the-importance-of-middle-school-gpa-calculator-for-students-2a44" target="_blank">The Importance of Middle School GPA Calculator for Students</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-23 05:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fallwk2va6b9yu3nvh6fk.png" alt="Docker Quick Guide — From &#x27;Works on My Machine&#x27; to Cloud‑Ready Containers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cristiansifuentes/docker-quick-guide-from-works-on-my-machine-to-cloud-ready-containers-3ggn" target="_blank">Docker Quick Guide — From &#x27;Works on My Machine&#x27; to Cloud‑Ready Containers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-23 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html" target="_blank">Unusual circuits in the Intel 386&#x27;s standard cell logic</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-23 03:33</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/the_duchess_of_hackers/why-every-newbie-in-tech-should-start-with-python-4lh6" target="_blank">Why Every Newbie in Tech Should Start With Python</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-23 02:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html" target="_blank">GCC SC approves inclusion of Algol 68 Front End</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-23 02:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GCC-Allowing-Algol-68-Front-End" target="_blank">GCC Steering Committee Allows New Language Front-End To Land For GCC 16</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-23 01:36</span>
             </div>
         </div>
 </div>
@@ -295,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 297 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
