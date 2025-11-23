@@ -1,28 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 22:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-23 23:01:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: NPR News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 19 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5e/live/ea587380-c88b-11f0-8c06-f5d460985095.jpg" alt="Rubio hails &#x27;tremendous progress&#x27; at Ukraine peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce3zwy808dpo?at_medium=RSS&at_campaign=rss" target="_blank">Rubio hails &#x27;tremendous progress&#x27; at Ukraine peace talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-23 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,20 +102,29 @@
                 <span class="time">2025-11-23 15:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TW-SLOTKIN-20251123-ABC-JH_1763905430276_hpMain_4x3t_384.jpeg" alt="Trump’s accusations of treason draw bipartisan rebuke" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trumps-accusations-treason-draw-bipartisan-rebuke/story?id=127797846" target="_blank">Trump’s accusations of treason draw bipartisan rebuke</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-23 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/23/roblox-ceo-interview-gets-heated-over-child-safety/" target="_blank">Roblox CEO interview gets heated over child safety</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-23 21:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/827298/about-this-account-reveals-the-scale-of-xs-foreign-troll-problem" target="_blank">About This Account reveals the scale of X’s foreign troll problem</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-23 21:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,29 +161,38 @@
                 <span class="time">2025-11-23 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686841af120996c48be6fd17/master/pass/Best%20Air%20Purifiers%20update.png" alt="16 Best Air Purifiers (2025): Coway, AirDoctor, IQAir" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-air-purifiers/" target="_blank">16 Best Air Purifiers (2025): Coway, AirDoctor, IQAir</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-23 15:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-headphones-black-friday-deal-sale-2025" target="_blank">Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-23 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wayland-Protocols-1.46" target="_blank">Wayland Protocols 1.46 Released With New Experimental Additions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-23 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/ESWIN-EBC77-RISC-V-single-board-computer.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Upstreams Patches to Bring Flutter Apps to RISC-V" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/ubuntu-risc-v-flutter-support" target="_blank">Ubuntu Upstreams Patches to Bring Flutter Apps to RISC-V</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-23 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://emilysneddon.com/fran-sans-essay" target="_blank">Fran Sans – font inspired by San Francisco light rail displays</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-23 18:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,33 +218,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/google-bigtable-tiered-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Introduces Bigtable Tiered Storage</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-23 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-1.6Tb-Net-Linux-6.19" target="_blank">NVIDIA Preps 1.6Tb/s Networking For Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-23 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marcosomma/don-quixote-of-orchestration-building-for-problems-no-one-sees-yet-1je6" target="_blank">Don Quixote Of Orchestration: Building For Problems No One Sees Yet</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-23 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.npmjs.com/package/tosijs-schema" target="_blank">Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-23 13:43</span>
             </div>
         </div>
 </div>
@@ -243,6 +253,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Upgrade your PC&#x27;s brain and toolbox with Office 2021 Pro and Windows 11 Pro for $39.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/23/upgrade-your-pcs-brain-and-toolbox-with-office-2021-pro-and-windows-11-pro-for-39-97.html" target="_blank">Upgrade your PC&#x27;s brain and toolbox with Office 2021 Pro and Windows 11 Pro for $39.97</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-23 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/galaxy-a16-samsung-1280x853.jpg" alt="Samsung Shows No Shame on Galaxy A16, Budget Phone Now Cheaper Than Generic Android Garbage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -258,15 +277,6 @@
                 <span class="title"><a href="https://gizmodo.com/aaron-paul-wont-return-to-invincible-because-powerplex-was-so-dark-2000690228" target="_blank">Aaron Paul Won’t Return to ‘Invincible’ Because Powerplex Was So Dark</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-23 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/SeagateGameDrivePS5-1280x853.jpg" alt="Seagate SSD for PS5 Crashes to $0.08 per GB, Near No-Margin Black Friday Deal on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/seagate-ssd-for-ps5-crashes-to-0-08-per-gb-turning-storage-expansion-into-a-near-freebie-this-black-friday-2000645584" target="_blank">Seagate SSD for PS5 Crashes to $0.08 per GB, Near No-Margin Black Friday Deal on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-23 14:45</span>
             </div>
         </div>
 </div>
@@ -288,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
