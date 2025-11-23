@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 17:01:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-23 18:02:05 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +48,15 @@
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/23/manchester-united-vs-everton-premier-league-team-news-start-and-lineups?traffic_source=rss" target="_blank">Manchester United vs Everton: Premier League – team news, start and lineups</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-23 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/TW-SLOTKIN-20251123-ABC-JH_1763905430276_hpMain_4x3t_384.jpeg" alt="Trump’s accusations of treason draw bipartisan rebuke" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trumps-accusations-treason-draw-bipartisan-rebuke/story?id=127797846" target="_blank">Trump’s accusations of treason draw bipartisan rebuke</a></span>
+                <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-23 15:45</span>
             </div>
         </div>
@@ -90,15 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/clykvql14r7o?at_medium=RSS&at_campaign=rss" target="_blank">Minister denies Budget leaks have damaged economy</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-23 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/11/23/live-arsenal-vs-tottenham-hotspur-premier-league?traffic_source=rss" target="_blank">LIVE: Arsenal vs Tottenham Hotspur – Premier League</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-23 13:30</span>
             </div>
         </div>
 </div>
@@ -166,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dainyjose/building-a-location-picker-in-react-native-maps-with-draggable-marker-address-lookup-1d00" target="_blank">Building a Location Picker in React Native Maps (with Draggable Marker &amp; Address Lookup)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-23 17:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/google-bigtable-tiered-storage/en/headerimage/generatedHeaderImage-1763226132708.jpg" alt="Google Cloud Introduces Bigtable Tiered Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -210,20 +214,20 @@
                 <span class="time">2025-11-23 12:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.makingsoftware.com/chapters/shaders" target="_blank">Shaders: How to draw high fidelity graphics with just x and y coordinates</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-23 12:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/shutterstock_2562993133-1280x853.jpg" alt="New X Feature Reveals Many MAGA Patriots on X Are Not Even Based in The U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-x-feature-reveals-many-maga-patriots-on-x-are-not-even-based-in-the-u-s-2000690383" target="_blank">New X Feature Reveals Many MAGA Patriots on X Are Not Even Based in The U.S.</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-23 17:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/galaxy-a16-samsung-1280x853.jpg" alt="Samsung Shows No Shame on Galaxy A16, Budget Phone Now Cheaper Than Generic Android Garbage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +273,6 @@
                 <span class="time">2025-11-23 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/insignia-4k-50-inch-1280x853.jpg" alt="Amazon Makes Zero-Profit Play on 50″ 4K Fire TV, Nearly 50% Off Turns Big Screen Into Pocket Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-makes-zero-profit-play-on-50-4k-fire-tv-nearly-50-off-turns-big-screen-into-pocket-change-2000646651" target="_blank">Amazon Makes Zero-Profit Play on 50″ 4K Fire TV, Nearly 50% Off Turns Big Screen Into Pocket Change</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-23 12:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
