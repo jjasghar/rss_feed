@@ -1,32 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 11:01:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-23 12:02:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/23/palestinian-sculptors-create-art-on-gaza-beach-sand-to-escape-israels-war?traffic_source=rss" target="_blank">Palestinian sculptors create art on Gaza beach sand to escape Israel’s war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-23 11:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/23/nx-s1-5594860/dr-congo-dictator-mobutu" target="_blank">In DR Congo, exhibit reveals nostalgia for former dictator Mobutu</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-23 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +90,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/23/ukraine-e3-to-start-geneva-talks-rubio-rejects-russia-wish-list-claim?traffic_source=rss" target="_blank">Ukraine, E3 to start Geneva talks; Rubio rejects Russia ‘wish list’ claim</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-23 07:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/1dc6f2f0-c828-11f0-8c06-f5d460985095.jpg" alt="US insists it authored Ukraine peace plan after claims of Russian &#x27;wish list&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g95x50kdyo?at_medium=RSS&at_campaign=rss" target="_blank">US insists it authored Ukraine peace plan after claims of Russian &#x27;wish list&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-23 06:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/23/ukraine-live?traffic_source=rss" target="_blank">Russia-Ukraine war live: US, European officials to discuss Trump’s plan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-23 05:46</span>
             </div>
         </div>
 </div>
@@ -170,6 +166,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/" target="_blank">After my dad died, we found the love letters</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-23 08:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcmwl3lmy44eevgf4y7i5.png" alt="Scaling Your Database: Simple Solutions Anyone Can Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,20 +210,20 @@
                 <span class="time">2025-11-23 03:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html" target="_blank">Unusual circuits in the Intel 386&#x27;s standard cell logic</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-23 03:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Kamrui-1280x853.jpg" alt="These KAMRUI Mini PCs Are Small in Stature and Now in Price With a Black-Friday-Level Discount, but Huge in Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/these-kamrui-mini-pcs-are-small-in-stature-and-now-in-price-with-a-black-friday-level-discount-but-huge-in-performance-2000686473" target="_blank">These KAMRUI Mini PCs Are Small in Stature and Now in Price With a Black-Friday-Level Discount, but Huge in Performance</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-23 11:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest-1024x683.jpg" alt="Homeland Security Is Reportedly Probing Bitcoin Mining Giant Bitmain for National Security Reasons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +269,6 @@
                 <span class="time">2025-11-22 21:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/game-of-thrones-hed-1280x853.jpg" alt="‘Game of Thrones’ Will Get a Proper Sequel, Eventually" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/game-of-thrones-sequel-george-r-r-martin-hbo-2000689691" target="_blank">‘Game of Thrones’ Will Get a Proper Sequel, Eventually</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-22 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 41 | 📸 With Images: 294 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
