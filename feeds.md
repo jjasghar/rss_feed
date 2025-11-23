@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 07:01:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-23 08:02:13 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/23/ukraine-e3-to-start-geneva-talks-rubio-rejects-russia-wish-list-claim?traffic_source=rss" target="_blank">Ukraine, E3 to start Geneva talks; Rubio rejects Russia ‘wish list’ claim</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-23 07:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/1dc6f2f0-c828-11f0-8c06-f5d460985095.jpg" alt="US insists it authored Ukraine peace plan after claims of Russian &#x27;wish list&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/22/nx-s1-5617698/thanksgiving-travel-best-time-aaa" target="_blank">Hitting the road for Thanksgiving? Here&#x27;s the best time to go</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-23 01:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/22/security-fears-rise-in-nigeria-after-more-than-300-taken-mass-school-kidnapping" target="_blank">Security fears rise in Nigeria after more than 300 schoolchildren kidnapped</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-22 23:22</span>
             </div>
         </div>
 </div>
@@ -160,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcmwl3lmy44eevgf4y7i5.png" alt="Scaling Your Database: Simple Solutions Anyone Can Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/karthikkorrayi/scaling-your-database-simple-solutions-anyone-can-use-1i98" target="_blank">Scaling Your Database: Simple Solutions Anyone Can Use</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-23 07:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/frank_vega_987689489099bf/the-ojala-experiment-performed-using-perplexity-ai-showed-the-new-algorithm-detects-triangles-in-3l47" target="_blank">The Experiment Ojalá, performed using Perplexity AI, showed the new algorithm detects triangles in large graphs over 100x faster than NetworkX, with results visualized and benchmarked for accuracy and speed.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-23 03:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/toon-reduce-llm-cost-tokens/en/headerimage/generatedHeaderImage-1763863218699.jpg" alt="New Token-Oriented Object Notation (TOON) Hopes to Cut LLM Costs by Reducing Token Consumption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/toon-reduce-llm-cost-tokens/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Token-Oriented Object Notation (TOON) Hopes to Cut LLM Costs by Reducing Token Consumption</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-23 02:49</span>
             </div>
         </div>
 </div>
@@ -291,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 298 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
