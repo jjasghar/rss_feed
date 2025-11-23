@@ -1,28 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 12:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-23 13:06:06 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 13:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/Ternopil-DB-251123_1763891785153_hpMain_4x3t_384.jpg" alt="Ukraine peace talks underway in Geneva as Zelenskyy urges end to &#x27;bloodshed&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/officials-arrive-switzerland-talks-zelenskyy-laments-ongoing-russian/story?id=127796632" target="_blank">Ukraine peace talks underway in Geneva as Zelenskyy urges end to &#x27;bloodshed&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-23 12:04</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/23/palestinian-sculptors-create-art-on-gaza-beach-sand-to-escape-israels-war?traffic_source=rss" target="_blank">Palestinian sculptors create art on Gaza beach sand to escape Israel’s war</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-23 11:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/23/nx-s1-5617212/hair-loss-alopecia-female-treatments" target="_blank">Women experience hair loss too. Here&#x27;s what can help</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-23 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -72,24 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/23/nx-s1-5552239/high-school-moot-court-lets-students-argue-their-case" target="_blank">This civics competition lets high school students have their day in court</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-23 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/23/houthi-court-sentences-17-to-death-accused-of-spying-for-israel-west?traffic_source=rss" target="_blank">Houthi court sentences 17 to death accused of spying for Israel, West</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-23 09:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/23/ukraine-e3-to-start-geneva-talks-rubio-rejects-russia-wish-list-claim?traffic_source=rss" target="_blank">Ukraine, E3 to start Geneva talks; Rubio rejects Russia ‘wish list’ claim</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-23 07:15</span>
             </div>
         </div>
 </div>
@@ -157,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvfaumxulwbqwc02mq84t.png" alt="Opencode for Agentic Development with Local LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ferdousulhaque/opencode-for-agentic-development-with-local-llms-2h4k" target="_blank">Opencode for Agentic Development with Local LLMs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-23 12:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Nested-VM-Faster-Memory" target="_blank">Linux Patches Improve Intel Nested VM Memory Performance Up To ~2353x In Synthetic Test</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-23 11:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -192,29 +216,20 @@
                 <span class="time">2025-11-23 06:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/timcrooks/the-importance-of-middle-school-gpa-calculator-for-students-2a44" target="_blank">The Importance of Middle School GPA Calculator for Students</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-23 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fallwk2va6b9yu3nvh6fk.png" alt="Docker Quick Guide — From &#x27;Works on My Machine&#x27; to Cloud‑Ready Containers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cristiansifuentes/docker-quick-guide-from-works-on-my-machine-to-cloud-ready-containers-3ggn" target="_blank">Docker Quick Guide — From &#x27;Works on My Machine&#x27; to Cloud‑Ready Containers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-23 03:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/insignia-4k-50-inch-1280x853.jpg" alt="Amazon Makes Zero-Profit Play on 50″ 4K Fire TV, Nearly 50% Off Turns Big Screen Into Pocket Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-makes-zero-profit-play-on-50-4k-fire-tv-nearly-50-off-turns-big-screen-into-pocket-change-2000646651" target="_blank">Amazon Makes Zero-Profit Play on 50″ 4K Fire TV, Nearly 50% Off Turns Big Screen Into Pocket Change</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-23 12:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Kamrui-1280x853.jpg" alt="These KAMRUI Mini PCs Are Small in Stature and Now in Price With a Black-Friday-Level Discount, but Huge in Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,15 +275,6 @@
                 <span class="time">2025-11-22 21:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/dmv-1280x721.jpg" alt="California Just Legalized Waymo in Some of the Nation’s Most Populous Areas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/california-just-legalized-waymo-in-some-of-the-nations-most-populous-areas-2000690159" target="_blank">California Just Legalized Waymo in Some of the Nation’s Most Populous Areas</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-22 21:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -288,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 13:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
