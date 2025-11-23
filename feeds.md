@@ -1,35 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 00:05:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-23 01:29:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 00:06 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +157,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy1znmebllf1kx9iomz1m.webp" alt="The Future of UX: Robotics, Telepresence, and the Rise of Human-in-the-Loop Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mashraf_aiman_b9a968e5c1d/the-future-of-ux-robotics-telepresence-and-the-rise-of-human-in-the-loop-design-3h87" target="_blank">The Future of UX: Robotics, Telepresence, and the Rise of Human-in-the-Loop Design</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-23 01:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F073xur3s66u2s8y21077.png" alt="Version 1.0.0 Released! My Repo Extraction Tool is now available on NPM!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,20 +210,20 @@
                 <span class="time">2025-11-22 17:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kevinboone.me/fingerprinting.html" target="_blank">The privacy nightmare of browser fingerprinting</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-22 17:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/airpods-pro-3-1280x853.jpg" alt="Amazon Chose Market Share Over Margins, AirPods Pro 3 Crash to Record Low Days After Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-chose-market-share-over-margins-airpods-pro-3-crash-to-record-low-days-after-launch-2000646557" target="_blank">Amazon Chose Market Share Over Margins, AirPods Pro 3 Crash to Record Low Days After Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-23 00:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/09/a09f5c4eba94a8375f45477e8a9a855c.jpg" alt="These Great Xbox 360 Classics Are All Super Cheap Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +269,6 @@
                 <span class="time">2025-11-22 18:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/wicked-for-good-trailer-elphaba-1280x853.jpg" alt="The ‘Wicked’ Musical Creator Has Ideas For More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-wicked-musical-creator-has-ideas-for-more-2000689825" target="_blank">The ‘Wicked’ Musical Creator Has Ideas For More</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-22 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -290,22 +283,13 @@
                 <span class="time">2025-11-22 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/22/die-die-my-darling" target="_blank">Die, Die My Darling</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-22 00:59</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
