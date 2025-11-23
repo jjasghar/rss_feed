@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 13:06:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-23 14:01:22 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 13:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/11/23/live-arsenal-vs-tottenham-hotspur-premier-league?traffic_source=rss" target="_blank">LIVE: Arsenal vs Tottenham Hotspur – Premier League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-23 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Ternopil-DB-251123_1763891785153_hpMain_4x3t_384.jpg" alt="Ukraine peace talks underway in Geneva as Zelenskyy urges end to &#x27;bloodshed&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +97,20 @@
                 <span class="time">2025-11-23 10:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/23/nx-s1-5552239/high-school-moot-court-lets-students-argue-their-case" target="_blank">This civics competition lets high school students have their day in court</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-23 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/825282/apple-tv-streaming-grow-audience" target="_blank">Apple TV wants to go big</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-23 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +156,20 @@
                 <span class="time">2025-11-22 17:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025" target="_blank">The absolute best Black Friday deals we’ve found (so far)</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-22 16:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.npmjs.com/package/tosijs-schema" target="_blank">Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-23 13:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvfaumxulwbqwc02mq84t.png" alt="Opencode for Agentic Development with Local LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,20 +215,20 @@
                 <span class="time">2025-11-23 07:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bobby_sanders_63117dbdf8a/escaping-the-marketing-treadmill-how-to-build-an-autonomous-system-that-actually-works-1g3e" target="_blank">Escaping the Marketing Treadmill: How to Build an Autonomous System That Actually Works</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-23 06:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/jackery-explorer-300-pw-1280x853.jpg" alt="Jackery Decided Margins Don’t Matter, 300W Power Station Now Cheaper Than Fancy Power Banks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/jackery-decided-margins-dont-matter-300w-power-station-now-cheaper-than-fancy-power-banks-2000646676" target="_blank">Jackery Decided Margins Don’t Matter, 300W Power Station Now Cheaper Than Fancy Power Banks</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-23 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/insignia-4k-50-inch-1280x853.jpg" alt="Amazon Makes Zero-Profit Play on 50″ 4K Fire TV, Nearly 50% Off Turns Big Screen Into Pocket Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +274,6 @@
                 <span class="time">2025-11-23 00:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/09/a09f5c4eba94a8375f45477e8a9a855c.jpg" alt="These Great Xbox 360 Classics Are All Super Cheap Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-360-black-friday-2025-best-games-backwards-compatible-2000646545" target="_blank">These Great Xbox 360 Classics Are All Super Cheap Right Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-22 21:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 13:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
