@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 19:01:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-23 20:01:44 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/23/nx-s1-5616430/g20-summit-ends-south-africa-trump-ramaphosa" target="_blank">G20 summit closes in South Africa after U.S. absence</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-23 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9268/live/f96bce90-c87b-11f0-b59b-8f3754d4238d.jpg" alt="Israel kills top Hezbollah official in first attack on Beirut in months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn81j54xjx1o?at_medium=RSS&at_campaign=rss" target="_blank">Israel kills top Hezbollah official in first attack on Beirut in months</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-23 19:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +100,20 @@
                 <span class="time">2025-11-23 15:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/23/cyril-ramaphosa-gavel-g20-summit-us-handover" target="_blank">Cyril Ramaphosa closes G20 summit after US boycott and handover row</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-23 15:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/23/nx-s1-5618213/50-schoolchildren-escape-captivity-nigeria" target="_blank">50 schoolchildren escape captivity in Nigeria, more than 200 still held</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-23 14:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/826416/best-nintendo-black-friday-deals-switch-games-amiibo-sale-2025" target="_blank">Some of the best Nintendo Switch games are up to $30 off for Black Friday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-23 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +159,6 @@
                 <span class="time">2025-11-23 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/825282/apple-tv-streaming-grow-audience" target="_blank">Apple TV wants to go big</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-23 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +171,15 @@
                 <span class="title"><a href="https://dev.to/dainyjose/building-a-location-picker-in-react-native-maps-with-draggable-marker-address-lookup-1d00" target="_blank">Building a Location Picker in React Native Maps (with Draggable Marker &amp; Address Lookup)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-23 17:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf" target="_blank">Native Secure Enclave backed SSH keys on macOS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-23 17:55</span>
             </div>
         </div>
 <div class="story">
@@ -210,20 +218,29 @@
                 <span class="time">2025-11-23 13:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvfaumxulwbqwc02mq84t.png" alt="Opencode for Agentic Development with Local LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ferdousulhaque/opencode-for-agentic-development-with-local-llms-2h4k" target="_blank">Opencode for Agentic Development with Local LLMs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-23 12:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/castlevania-nocturne-hed-1280x853.jpg" alt="The Magnifique ‘Castlevania: Nocturne’ Art Comes Together In New Art Book" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-magnifique-castlevania-nocturne-art-comes-together-in-new-art-book-2000690117" target="_blank">The Magnifique ‘Castlevania: Nocturne’ Art Comes Together In New Art Book</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-23 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/dyson-airwrap-styler-1280x853.jpg" alt="Dyson Shows No Pride on Airwrap Origin, Selling Premium Hair Tool at Zero Margin Just to Move Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dyson-shows-no-pride-on-airwrap-origin-selling-premium-hair-tool-at-zero-margin-just-to-move-stock-2000646715" target="_blank">Dyson Shows No Pride on Airwrap Origin, Selling Premium Hair Tool at Zero Margin Just to Move Stock</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-23 17:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/shutterstock_2562993133-1280x853.jpg" alt="New X Feature Reveals Many MAGA Patriots on X Are Not Even Based in The U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,24 +277,6 @@
                 <span class="time">2025-11-23 14:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/jackery-explorer-300-pw-1280x853.jpg" alt="Jackery Decided Margins Don’t Matter, 300W Power Station Now Cheaper Than Fancy Power Banks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jackery-decided-margins-dont-matter-300w-power-station-now-cheaper-than-fancy-power-banks-2000646676" target="_blank">Jackery Decided Margins Don’t Matter, 300W Power Station Now Cheaper Than Fancy Power Banks</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-23 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/google-nest-doorbell-wired-3rdgen-review-1-1280x853.jpg" alt="Google Nest Doorbell Cam (2025) Review: I’m So Tired of Subscriptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/google-nest-doorbell-cam-2025-review-im-so-tired-of-subscriptions-2000670300" target="_blank">Google Nest Doorbell Cam (2025) Review: I’m So Tired of Subscriptions</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-23 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
