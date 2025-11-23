@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 06:02:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-23 07:01:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/1dc6f2f0-c828-11f0-8c06-f5d460985095.jpg" alt="US insists it authored Ukraine peace plan after claims of Russian &#x27;wish list&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g95x50kdyo?at_medium=RSS&at_campaign=rss" target="_blank">US insists it authored Ukraine peace plan after claims of Russian &#x27;wish list&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-23 06:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +93,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/nov/22/security-fears-rise-in-nigeria-after-more-than-300-taken-mass-school-kidnapping" target="_blank">Security fears rise in Nigeria after more than 300 schoolchildren kidnapped</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-22 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c5/live/7fbe5e30-c7f6-11f0-9fb5-5f3a3703a365.jpg" alt="Trump says US plan to end Ukraine war not &#x27;final offer&#x27; for Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clydg8w7kxvo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US plan to end Ukraine war not &#x27;final offer&#x27; for Kyiv</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-22 23:02</span>
             </div>
         </div>
 </div>
@@ -169,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bobby_sanders_63117dbdf8a/escaping-the-marketing-treadmill-how-to-build-an-autonomous-system-that-actually-works-1g3e" target="_blank">Escaping the Marketing Treadmill: How to Build an Autonomous System That Actually Works</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-23 06:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/timcrooks/the-importance-of-middle-school-gpa-calculator-for-students-2a44" target="_blank">The Importance of Middle School GPA Calculator for Students</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-23 05:50</span>
@@ -210,20 +213,20 @@
                 <span class="time">2025-11-23 02:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/the_duchess_of_hackers/why-every-newbie-in-tech-should-start-with-python-4lh6" target="_blank">Why Every Newbie in Tech Should Start With Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-23 02:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/govee-uplighter-lamp-2-1280x853.jpg" alt="Amazon Is Going Nuts on Govee Uplighter Lamp, Now Selling for Pocket Change at Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-is-going-nuts-on-govee-uplighter-lamp-now-selling-for-pocket-change-at-black-friday-2000646562" target="_blank">Amazon Is Going Nuts on Govee Uplighter Lamp, Now Selling for Pocket Change at Black Friday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-23 01:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/airpods-pro-3-1280x853.jpg" alt="Amazon Chose Market Share Over Margins, AirPods Pro 3 Crash to Record Low Days After Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +272,6 @@
                 <span class="time">2025-11-22 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2016/04/Xbox-360.jpg" alt="The 12 Best Games On Xbox 360" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-12-best-games-on-xbox-360-5878837" target="_blank">The 12 Best Games On Xbox 360</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-22 18:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 297 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 298 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
