@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-22 23:01:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-11-23 00:05:56 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, November 22, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +46,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/22/security-fears-rise-in-nigeria-after-more-than-300-taken-mass-school-kidnapping" target="_blank">Security fears rise in Nigeria after more than 300 schoolchildren kidnapped</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-22 23:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ded/live/18a04ba0-c7e2-11f0-a715-415645a54121.jpg" alt="UN climate talks fail to secure new fossil fuel promises" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss" target="_blank">UN climate talks fail to secure new fossil fuel promises</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-22 22:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/2247364506_Cropped-pc7ovc.jpg" alt="Trump says 28-point Ukraine peace plan isn’t his ‘final offer’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-28-point-ukraine-peace-plan-isn-t-his-final-offer-252686917955" target="_blank">Trump says 28-point Ukraine peace plan isn’t his ‘final offer’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-22 22:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/22/nx-s1-5616403/ukrainians-reacts-to-a-proposed-peace-plan-that-appears-to-favor-russia" target="_blank">Ukrainians react to a proposed peace plan that appears to favor Russia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-22 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Health/tatiana-schlossberg-gty-jt-251122_1763834844563_hpMain_4x3t_384.jpg" alt="JFK&#x27;s granddaughter reveals terminal cancer diagnosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/tatiana-schlossberg-caroline-kennedys-daughter-reveals-terminal-cancer/story?id=127785089" target="_blank">JFK&#x27;s granddaughter reveals terminal cancer diagnosis</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-22 21:49</span>
             </div>
         </div>
 <div class="story">
@@ -64,47 +99,20 @@
                 <span class="time">2025-11-22 21:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251017-donald-trump-volodymyr-zelensky-ew-148p-d83457.jpg" alt="Trump says Ukraine peace plan isn&#x27;t his &#x27;final offer&#x27; to Zelenskyy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-ukraine-peace-plan-isnt-final-offer-russia-rcna245340" target="_blank">Trump says Ukraine peace plan isn&#x27;t his &#x27;final offer&#x27; to Zelenskyy</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-22 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/rubio-zelenskyy-gty-jt-251122_1763827452378_hpMain_4x3t_384.jpg" alt="Trump says Ukraine peace plan offer not final as officials set to meet in Geneva" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/ukraine-peace-talks-place-coming-days/story?id=127779238" target="_blank">Trump says Ukraine peace plan offer not final as officials set to meet in Geneva</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-22 19:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e601/live/8b9012b0-c7ad-11f0-9fb5-5f3a3703a365.jpg" alt="Ukraine&#x27;s allies voice concerns over US plan to end war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clydg8w7kxvo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine&#x27;s allies voice concerns over US plan to end war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-22 15:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d42/live/fcc0adb0-c7b1-11f0-83e1-2f64c544cba6.png" alt="Girl, 13, arrested on suspicion of murdering woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g4vdrev2eo?at_medium=RSS&at_campaign=rss" target="_blank">Girl, 13, arrested on suspicion of murdering woman</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-22 14:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/" target="_blank">Trump administration might not fight state AI regulations after all</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-22 22:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +158,6 @@
                 <span class="time">2025-11-22 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692118a07d4b03d83b72c715/master/pass/Best%20MagSafe%20Power%20Banks%20SOURCE%20Simon%20Hill.jpg" alt="13 Best MagSafe Power Banks for iPhones (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-power-banks/" target="_blank">13 Best MagSafe Power Banks for iPhones (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-22 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +179,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/MIPS-RISC-V-Vendor-ID-Linux-618" target="_blank">RISC-V Testing Lapse Resulted In Wrong MIPS RISC-V Vendor ID Landing In Linux 6.18</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-22 22:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/" target="_blank">WorldGen – Text to Immersive 3D Worlds</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-22 21:20</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://kevinboone.me/fingerprinting.html" target="_blank">The privacy nightmare of browser fingerprinting</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-22 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/povilasjurcys/how-i-ended-up-building-with-github-copilot-the-remote-one-and-why-it-still-feels-kinda-wild-36c1" target="_blank">How I Ended Up Building With GitHub Copilot (the Remote One) And Why It Still Feels Kinda Wild</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-22 16:57</span>
             </div>
         </div>
 </div>
@@ -305,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
