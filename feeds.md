@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 02:37:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-23 03:29:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 02:37 UTC</div>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -85,21 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c5c/live/e182d190-c7cf-11f0-b259-1f10e6cadd18.jpg" alt="Rail fares to be frozen in England next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwygx71g3n7o?at_medium=RSS&at_campaign=rss" target="_blank">Rail fares to be frozen in England next year</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-22 22:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/2247364506_Cropped-pc7ovc.jpg" alt="Trump says 28-point Ukraine peace plan isn’t his ‘final offer’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/video/trump-says-28-point-ukraine-peace-plan-isn-t-his-final-offer-252686917955" target="_blank">Trump says 28-point Ukraine peace plan isn’t his ‘final offer’</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-11-22 22:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/22/nx-s1-5616403/ukrainians-reacts-to-a-proposed-peace-plan-that-appears-to-favor-russia" target="_blank">Ukrainians react to a proposed peace plan that appears to favor Russia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-22 22:15</span>
             </div>
         </div>
 </div>
@@ -167,12 +163,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2948544%2F3700e162-24cb-433d-8327-219f70a95c37.jpg" alt="The Experiment Ojalá, performed using Perplexity AI, showed the new algorithm detects triangles in large graphs over 100x faster than NetworkX, with results visualized and benchmarked for accuracy and speed." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/frank_vega_987689489099bf/the-ojala-experiment-performed-using-perplexity-ai-showed-the-new-algorithm-detects-triangles-in-3l47" target="_blank">The Experiment Ojalá, performed using Perplexity AI, showed the new algorithm detects triangles in large graphs over 100x faster than NetworkX, with results visualized and benchmarked for accuracy and speed.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-23 03:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/toon-reduce-llm-cost-tokens/en/headerimage/generatedHeaderImage-1763863218699.jpg" alt="New Token-Oriented Object Notation (TOON) Hopes to Cut LLM Costs by Reducing Token Consumption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/toon-reduce-llm-cost-tokens/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Token-Oriented Object Notation (TOON) Hopes to Cut LLM Costs by Reducing Token Consumption</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-23 02:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/the_duchess_of_hackers/why-every-newbie-in-tech-should-start-with-python-4lh6" target="_blank">Why Every Newbie in Tech Should Start With Python</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-23 02:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GCC-Allowing-Algol-68-Front-End" target="_blank">GCC Steering Committee Allows New Language Front-End To Land For GCC 16</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-23 01:36</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +214,6 @@
                 <span class="title"><a href="https://dev.to/whyang9701/100-published-my-repo-extraction-tool-is-on-npm-now-2fbk" target="_blank">Version 1.0.0 Released! My Repo Extraction Tool is now available on NPM!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-22 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/MIPS-RISC-V-Vendor-ID-Linux-618" target="_blank">RISC-V Testing Lapse Resulted In Wrong MIPS RISC-V Vendor ID Landing In Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-22 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/" target="_blank">WorldGen – Text to Immersive 3D Worlds</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-22 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqhe7vppq7enuyxsqfsf.webp" alt="How Machines Learned to Write Software in a Human Like Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/guswoltmann84/how-machines-learned-to-write-software-in-a-human-like-way-1d9c" target="_blank">How Machines Learned to Write Software in a Human Like Way</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-22 19:38</span>
             </div>
         </div>
 </div>
@@ -298,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 02:37 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
