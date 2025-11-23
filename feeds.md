@@ -1,38 +1,46 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 15:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-23 16:01:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +56,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/23/manchester-united-vs-everton-premier-league-team-news-start-and-lineups?traffic_source=rss" target="_blank">Manchester United vs Everton: Premier League – team news, start and lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-23 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Ternopil-DB-251123_1763891785153_hpMain_4x3t_384.jpg" alt="Trump says Ukraine showed &#x27;zero gratitude&#x27; for US peace efforts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/officials-arrive-switzerland-talks-zelenskyy-laments-ongoing-russian/story?id=127796632" target="_blank">Trump says Ukraine showed &#x27;zero gratitude&#x27; for US peace efforts</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-23 15:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +110,29 @@
                 <span class="time">2025-11-23 13:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Ternopil-DB-251123_1763891785153_hpMain_4x3t_384.jpg" alt="Ukraine peace talks underway in Geneva as Zelenskyy urges end to &#x27;bloodshed&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/officials-arrive-switzerland-talks-zelenskyy-laments-ongoing-russian/story?id=127796632" target="_blank">Ukraine peace talks underway in Geneva as Zelenskyy urges end to &#x27;bloodshed&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-23 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/23/palestinian-sculptors-create-art-on-gaza-beach-sand-to-escape-israels-war?traffic_source=rss" target="_blank">Palestinian sculptors create art on Gaza beach sand to escape Israel’s war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-23 11:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/23/chatgpt-told-them-they-were-special-their-families-say-it-led-to-tragedy/" target="_blank">ChatGPT told them they were special — their families say it led to tragedy</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-23 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-headphones-black-friday-deal-sale-2025" target="_blank">Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-23 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +169,20 @@
                 <span class="time">2025-11-22 21:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/826320/ps5-dualsense-wireless-controller-black-friday-deal-sale-2025" target="_blank">Sony’s entire DualSense lineup is $20 off, including the limited edition models</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-22 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/22/meta-wants-to-get-into-the-electricity-trading-business/" target="_blank">Meta wants to get into the electricity trading business</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-22 17:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marcosomma/don-quixote-of-orchestration-building-for-problems-no-one-sees-yet-1je6" target="_blank">Don Quixote Of Orchestration: Building For Problems No One Sees Yet</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-23 15:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,20 +228,29 @@
                 <span class="time">2025-11-23 08:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcmwl3lmy44eevgf4y7i5.png" alt="Scaling Your Database: Simple Solutions Anyone Can Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/karthikkorrayi/scaling-your-database-simple-solutions-anyone-can-use-1i98" target="_blank">Scaling Your Database: Simple Solutions Anyone Can Use</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-23 07:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/galaxy-a16-samsung-1280x853.jpg" alt="Samsung Shows No Shame on Galaxy A16, Budget Phone Now Cheaper Than Generic Android Garbage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-shows-no-shame-on-galaxy-a16-budget-phone-now-cheaper-than-generic-android-garbage-2000646688" target="_blank">Samsung Shows No Shame on Galaxy A16, Budget Phone Now Cheaper Than Generic Android Garbage</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-23 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/invincible-powerplex-1280x853.jpg" alt="Aaron Paul Won’t Return to ‘Invincible’ Because Powerplex Was So Dark" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/aaron-paul-wont-return-to-invincible-because-powerplex-was-so-dark-2000690228" target="_blank">Aaron Paul Won’t Return to ‘Invincible’ Because Powerplex Was So Dark</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-23 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/SeagateGameDrivePS5-1280x853.jpg" alt="Seagate SSD for PS5 Crashes to $0.08 per GB, Near No-Margin Black Friday Deal on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,24 +287,6 @@
                 <span class="time">2025-11-23 12:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Kamrui-1280x853.jpg" alt="These KAMRUI Mini PCs Are Small in Stature and Now in Price With a Black-Friday-Level Discount, but Huge in Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/these-kamrui-mini-pcs-are-small-in-stature-and-now-in-price-with-a-black-friday-level-discount-but-huge-in-performance-2000686473" target="_blank">These KAMRUI Mini PCs Are Small in Stature and Now in Price With a Black-Friday-Level Discount, but Huge in Performance</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-23 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest-1024x683.jpg" alt="Homeland Security Is Reportedly Probing Bitcoin Mining Giant Bitmain for National Security Reasons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/homeland-security-is-reportedly-probing-bitcoin-mining-giant-bitmain-for-national-security-reasons-2000689746" target="_blank">Homeland Security Is Reportedly Probing Bitcoin Mining Giant Bitmain for National Security Reasons</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-23 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
