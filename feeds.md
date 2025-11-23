@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 09:01:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-23 10:01:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, November 23, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/23/houthi-court-sentences-17-to-death-accused-of-spying-for-israel-west?traffic_source=rss" target="_blank">Houthi court sentences 17 to death accused of spying for Israel, West</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-23 09:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +102,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/doj-seeks-release-epstein-grand-jury-material-florida/story?id=127791342" target="_blank">DOJ seeks release of Epstein grand jury material in Florida</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-23 01:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/22/nx-s1-5617698/thanksgiving-travel-best-time-aaa" target="_blank">Hitting the road for Thanksgiving? Here&#x27;s the best time to go</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-23 01:30</span>
             </div>
         </div>
 </div>
@@ -166,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jonasbn/maintenance-release-209-for-the-perl-distribution-workflow-491a" target="_blank">Maintenance release 2.09 for the Perl Distribution Workflow</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-23 09:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcmwl3lmy44eevgf4y7i5.png" alt="Scaling Your Database: Simple Solutions Anyone Can Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,20 +222,20 @@
                 <span class="time">2025-11-23 03:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2948544%2F3700e162-24cb-433d-8327-219f70a95c37.jpg" alt="The Experiment Ojalá, performed using Perplexity AI, showed the new algorithm detects triangles in large graphs over 100x faster than NetworkX, with results visualized and benchmarked for accuracy and speed." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/frank_vega_987689489099bf/the-ojala-experiment-performed-using-perplexity-ai-showed-the-new-algorithm-detects-triangles-in-3l47" target="_blank">The Experiment Ojalá, performed using Perplexity AI, showed the new algorithm detects triangles in large graphs over 100x faster than NetworkX, with results visualized and benchmarked for accuracy and speed.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-23 03:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest-1024x683.jpg" alt="Homeland Security Is Reportedly Probing Bitcoin Mining Giant Bitmain for National Security Reasons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/homeland-security-is-reportedly-probing-bitcoin-mining-giant-bitmain-for-national-security-reasons-2000689746" target="_blank">Homeland Security Is Reportedly Probing Bitcoin Mining Giant Bitmain for National Security Reasons</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-23 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/govee-uplighter-lamp-2-1280x853.jpg" alt="Amazon Is Going Nuts on Govee Uplighter Lamp, Now Selling for Pocket Change at Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +281,6 @@
                 <span class="time">2025-11-22 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/07/c427afe780800af9b072fa425012602a-1280x720.jpg" alt="The Best (And Worst) Xbox 360 Moments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-360-best-worst-arcade-games-netflix-store-closing-1851610163" target="_blank">The Best (And Worst) Xbox 360 Moments</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-22 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
