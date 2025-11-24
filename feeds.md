@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 00:05:28 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-11-24 01:29:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5e/live/ea587380-c88b-11f0-8c06-f5d460985095.jpg" alt="US hails &#x27;tremendous progress&#x27; at Ukraine peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce3zwy808dpo?at_medium=RSS&at_campaign=rss" target="_blank">US hails &#x27;tremendous progress&#x27; at Ukraine peace talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-23 23:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-1-rt-er-251121_1763759233689_hpMain_4x3t_384.jpg" alt="Days after their friendly meeting, Mamdani says he still thinks Trump is a fascist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -57,6 +69,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgkwn0l771o?at_medium=RSS&at_campaign=rss" target="_blank">Lord Cameron reveals he had prostate cancer</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-23 22:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250817-donald-trump-zelenskyy-vl-326p-5f55ed.jpg" alt="With talks ongoing, Trump adds new tension with claim Ukraine has &#x27;zero gratitude&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-says-ukraine-expressed-zero-gratitude-us-help-peace-plan-talks-rcna245412" target="_blank">With talks ongoing, Trump adds new tension with claim Ukraine has &#x27;zero gratitude&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-23 22:07</span>
             </div>
         </div>
 <div class="story">
@@ -77,29 +98,20 @@
                 <span class="time">2025-11-23 20:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/23/nx-s1-5616430/g20-summit-ends-south-africa-trump-ramaphosa" target="_blank">G20 summit closes in South Africa after U.S. absence</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-23 19:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9268/live/f96bce90-c87b-11f0-b59b-8f3754d4238d.jpg" alt="Israel kills top Hezbollah official in first attack on Beirut in months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn81j54xjx1o?at_medium=RSS&at_campaign=rss" target="_blank">Israel kills top Hezbollah official in first attack on Beirut in months</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-23 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/827390/doge-is-no-more-and-in-its-wake-only-chaos" target="_blank">DOGE is no more, and in its wake, only chaos</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-24 00:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +157,20 @@
                 <span class="time">2025-11-23 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/23/chatgpt-told-them-they-were-special-their-families-say-it-led-to-tragedy/" target="_blank">ChatGPT told them they were special — their families say it led to tragedy</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-23 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj1e0vlg5wiyv34w1icol.jpg" alt="Can we use Rust to Develop Extensions for PostgreSQL?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shinyakato_/can-we-use-rust-to-develop-extensions-for-postgresql-5431" target="_blank">Can we use Rust to Develop Extensions for PostgreSQL?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-24 01:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,20 +216,20 @@
                 <span class="time">2025-11-23 17:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf" target="_blank">Native Secure Enclave backed SSH keys on macOS</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-23 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/hp-laptop-17-inch-1280x853.jpg" alt="HP Went Full Liquidation on 17″ Laptop (i5, 32GB RAM, 1TB SSD), 71% Off Turns $3K Into Pocket Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hp-went-full-liquidation-on-17-laptop-i5-32gb-ram-1tb-ssd-71-off-turns-3k-into-pocket-change-2000646751" target="_blank">HP Went Full Liquidation on 17″ Laptop (i5, 32GB RAM, 1TB SSD), 71% Off Turns $3K Into Pocket Change</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-24 01:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/x-men-united-cover-1280x853.jpg" alt="The Next Big X-Men Comic Takes Mutantkind Back to School" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +275,6 @@
                 <span class="time">2025-11-23 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/galaxy-a16-samsung-1280x853.jpg" alt="Samsung Shows No Shame on Galaxy A16, Budget Phone Now Cheaper Than Generic Android Garbage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-shows-no-shame-on-galaxy-a16-budget-phone-now-cheaper-than-generic-android-garbage-2000646688" target="_blank">Samsung Shows No Shame on Galaxy A16, Budget Phone Now Cheaper Than Generic Android Garbage</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-23 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
