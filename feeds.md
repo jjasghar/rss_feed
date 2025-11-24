@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 16:01:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-24 17:01:36 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271f/live/4ab895b0-c946-11f0-8c06-f5d460985095.jpg" alt="Police officer &#x27;unable to dress after hammer attack&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g54g1r15eo?at_medium=RSS&at_campaign=rss" target="_blank">Police officer &#x27;unable to dress after hammer attack&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-24 15:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +98,29 @@
                 <span class="time">2025-11-24 13:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years" target="_blank">Ethiopian volcano erupts for first time in 12,000 years</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-24 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/692489fbf305210dbdbbfffc/master/pass/The%20Oura%20Ring%204%20Is%20$100%20off%20Ahead%20of%20Black%20Friday.png" alt="The Oura Ring 4 Is $100 off Ahead of Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/oura-ring-4-deal-1125/" target="_blank">The Oura Ring 4 Is $100 off Ahead of Black Friday</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-24 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/827658/meta-17-strike-policy-sex-trafficking-testimony-lawsuit" target="_blank">Meta had a 17-strike policy for sex trafficking, former safety leader claims</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-24 16:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,30 +149,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2247872341-500x500.jpg" alt="F1 in Las Vegas: This sport is a 200 mph soap opera" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/" target="_blank">US banks scramble to assess data theft after hackers breach financial tech firm</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-24 14:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/827430/oneplus-15r-will-get-a-late-launch-next-month" target="_blank">OnePlus 15R will get a late launch next month</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-24 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689ec95b6da2c3e2469fecbb/master/pass/Update-%20Best%20Apple%20Watch.png" alt="Best Apple Watch (2025): Buyer’s Guide to the Series 11, SE 3, and Ultra 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-apple-watch/" target="_blank">Best Apple Watch (2025): Buyer’s Guide to the Series 11, SE 3, and Ultra 3</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-24 12:30</span>
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/11/f1-in-las-vegas-this-sport-is-a-200-mph-soap-opera/" target="_blank">F1 in Las Vegas: This sport is a 200 mph soap opera</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-24 14:54</span>
             </div>
         </div>
 </div>
@@ -158,6 +162,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4fq96pu10o21x9zzi5h.png" alt="The saltiest and wrongest article about Big O ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/klauskpm/the-saltiest-and-wrongest-article-about-big-o-ever-1blm" target="_blank">The saltiest and wrongest article about Big O ever</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-24 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770556&w=600" alt="The Right to Be Forgotten in Event-Driven Data Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/right-to-be-forgotten-event-driven-data" target="_blank">The Right to Be Forgotten in Event-Driven Data Products</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-24 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains" target="_blank">SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-24 16:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,33 +216,6 @@
                 <span class="time">2025-11-24 13:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/dell-pro-max-16-plus/" target="_blank">Linux First, Windows Later! Dell Launches Qualcomm NPU Laptop on Linux Before Windows</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-24 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.cr.yp.to/20251123-dodging.html" target="_blank">NSA and IETF, part 3: Dodging the issues at hand</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-24 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe3P-LPD-System-Cache-FBC" target="_blank">Intel Working On Linux Support For New Power Savings Feature With Xe3P_LPD</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-24 11:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/michael-main-1280x720.jpg" alt="Former GTA Boss Isn’t Buying All Of The AI Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dan-houser-ai-rockstar-gtav-rdr2-absurd-ventures-2000646935" target="_blank">Former GTA Boss Isn’t Buying All Of The AI Hype</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-24 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KATMJBDR2BJXG8C0ZQFYDB9H/hero-image.png" alt="You Can Get This Google Nest Thermostat E on Sale for Over 50% Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-nest-thermostat-e-stacksocial-sale-black-friday-2025?utm_medium=RSS" target="_blank">You Can Get This Google Nest Thermostat E on Sale for Over 50% Off for Black Friday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-24 16:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/10/Maingear-Apex-Rush-desktop-PC-review-13-1280x853.jpg" alt="We’re So Screwed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +289,6 @@
                 <span class="time">2025-11-24 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/MS-1124-deadpool-wolverine-1280x853.jpg" alt="Hugh Jackman Isn’t Saying No to More Wolverine Returns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hugh-jackman-wolverine-return-marvel-2000690467" target="_blank">Hugh Jackman Isn’t Saying No to More Wolverine Returns</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-24 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/wickedforgood-1280x853.jpg" alt="‘Wicked: For Good’ Sung Up a Lot of Money on Opening Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wicked-for-good-sung-up-a-lot-of-money-on-opening-weekend-2000690385" target="_blank">‘Wicked: For Good’ Sung Up a Lot of Money on Opening Weekend</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-24 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,22 +312,13 @@
                 <span class="time">2025-11-24 01:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1763688660-20251123_edit.png" alt="Saturday Morning Breakfast Cereal - Scar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/scar" target="_blank">Saturday Morning Breakfast Cereal - Scar</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-23 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
