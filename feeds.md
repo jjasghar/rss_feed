@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 21:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-24 22:01:28 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 13 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 21:01 UTC</div>
+    <div class="newspaper-date">Monday, November 24, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aed/live/26bba570-c96f-11f0-8c06-f5d460985095.png" alt="Farage says he&#x27;s &#x27;never directly racially abused anybody&#x27; after school racism claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c87lx0981nro?at_medium=RSS&at_campaign=rss" target="_blank">Farage says he&#x27;s &#x27;never directly racially abused anybody&#x27; after school racism claims</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-24 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/24/g-s1-99116/chauncey-billups-portland-trail-blazers-rigged-poker-games" target="_blank">Portland Trail Blazers coach pleads not guilty in rigged poker games case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-24 21:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/carnivaldeath_1762746067738_hpMain_4x3t_384.jpg" alt="Anna Kepner&#x27;s death on cruise ship ruled a homicide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/anna-kepner-cruise-ship-death-ruled-homicide/story?id=127712413" target="_blank">Anna Kepner&#x27;s death on cruise ship ruled a homicide</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-24 21:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Jeffrey-Epstein-ap-gmh-240104_1704386953481_hpMain_6_4x3t_384.jpg" alt="DOJ asks judges to authorize release of Epstein and Maxwell grand jury material" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,38 +104,20 @@
                 <span class="time">2025-11-24 20:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/letitia-james-james-comey-gty-jt-251113_1763066953483_hpMain_4x3t_384.jpg" alt="Judge tosses indictments against James Comey and Letitia James" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/judge-dismisses-criminal-cases-comey-james/story?id=127732668" target="_blank">Judge tosses indictments against James Comey and Letitia James</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-24 19:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/syria-extends-homs-curfew-as-killings-threaten-to-inflame-sectarian-tension?traffic_source=rss" target="_blank">Syria extends Homs curfew as killings threaten to inflame sectarian tension</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-24 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Criminal cases against Comey, James dismissed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Criminal cases against Comey, James dismissed</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-24 17:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2200059564-500x500-1764014696.jpg" alt="DOGE “cut muscle, not fat”; 26K experts rehired after brutal cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/doge-doesnt-exist-anymore-but-expert-says-its-still-not-dead/" target="_blank">DOGE “cut muscle, not fat”; 26K experts rehired after brutal cuts</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-24 21:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +163,20 @@
                 <span class="time">2025-11-24 16:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692489fbf305210dbdbbfffc/master/pass/The%20Oura%20Ring%204%20Is%20$100%20off%20Ahead%20of%20Black%20Friday.png" alt="The Oura Ring 4 Is $100 off Ahead of Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/oura-ring-4-deal-1125/" target="_blank">The Oura Ring 4 Is $100 off Ahead of Black Friday</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-24 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770540&w=600" alt="DevSecConflict: How Google Project Zero and FFmpeg Went Viral For All the Wrong Reasons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/devsecconflict-google-project-zero-ffmpeg" target="_blank">DevSecConflict: How Google Project Zero and FFmpeg Went Viral For All the Wrong Reasons</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-24 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rnhqd34hskbe67hurxw.png" alt="From Zero to Building in Under Two Minutes: Kiro-Powered Laravel Skeleton" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,6 +184,15 @@
                 <span class="title"><a href="https://dev.to/johnfmorton/from-zero-to-building-in-under-two-minutes-kiro-powered-laravel-skeleton-3d4o" target="_blank">From Zero to Building in Under Two Minutes: Kiro-Powered Laravel Skeleton</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-24 20:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Alex-Gaynor-Rust-Maintainer" target="_blank">Rust For Linux Kernel Co-Maintainer Formally Steps Down</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-24 20:09</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +222,6 @@
                 <span class="time">2025-11-24 18:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-10.1-Released" target="_blank">AlmaLinux 10.1 Released - Complete With Btrfs Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-24 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/datatechbridge/the-art-of-software-architecture-a-desi-developers-guide-to-building-systems-that-actually-work-39eh" target="_blank">The Art of Software Architecture: A Desi Developer&#x27;s Guide to Building Systems That Actually Work</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-24 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +242,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KATM5Z6YAC1TN4RYFV8ZVSV9/hero-image.png" alt="You Can Get This Budget Dell Latitude Laptop With Microsoft Office on Sale for $275 for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/dell-latitude-microsoft-office-stacksocial-sale-black-friday-2025?utm_medium=RSS" target="_blank">You Can Get This Budget Dell Latitude Laptop With Microsoft Office on Sale for $275 for Black Friday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-24 21:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/psnsale-1280x720.jpg" alt="PlayStation’s Big Black Friday Sale Includes Some Fantastic PS5 Exclusives" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -254,6 +266,15 @@
                 <span class="title"><a href="https://gizmodo.com/now-that-pennywise-has-arrived-on-it-welcome-to-derry-bob-gray-is-close-behind-2000690833" target="_blank">Now That Pennywise Has Arrived on ‘It: Welcome to Derry,’ Bob Gray Is Close Behind</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-24 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/doctype.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Doctype magazine: type-in apps for modern computers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/24/doctype-magazine-type-in-apps-for-modern-computers.html" target="_blank">Doctype magazine: type-in apps for modern computers</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-24 19:56</span>
             </div>
         </div>
 <div class="story">
@@ -274,29 +295,20 @@
                 <span class="time">2025-11-24 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/OP15.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="The OnePlus 15 is an almost perfect smartphone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/24/the-oneplus-15-is-an-almost-perfect-smartphone.html" target="_blank">The OnePlus 15 is an almost perfect smartphone</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-24 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/one-cut-of-the-dead-exclusive-1280x853.jpg" alt="A Brilliant, Unconventional Zombie Movie Gets an Equally Brilliant, Unconventional Poster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/one-cut-of-the-dead-limited-poster-100-soft-2000689883" target="_blank">A Brilliant, Unconventional Zombie Movie Gets an Equally Brilliant, Unconventional Poster</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-24 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1763688697-20251124_edit.png" alt="Saturday Morning Breakfast Cereal - Last" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/last" target="_blank">Saturday Morning Breakfast Cereal - Last</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-24 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -316,6 +328,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/fifteen_years.png" alt="Fifteen Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3172/" target="_blank">Fifteen Years</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-11-24 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5707.png" alt="Angel&#x27;s Concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -329,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 284 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 286 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
