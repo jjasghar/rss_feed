@@ -1,30 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 07:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-24 08:02:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,9 +55,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/24/g-s1-99000/u-s-label-maduro-cartel-de-los-soles-terror-organization" target="_blank">U.S. set to label Maduro-tied Cartel de los Soles as a terror organization</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-24 07:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/11/24/g-s1-98998/geneva-u-s-ukraine-report-progress" target="_blank">In Geneva, U.S. and Ukraine officials report progress on ending war with Russia</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-24 05:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ec1/live/d3644c30-c8ef-11f0-8cad-7b143c08a8f8.jpg" alt="US and Ukraine signal peace plan progress after Geneva talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce3zwy808dpo?at_medium=RSS&at_campaign=rss" target="_blank">US and Ukraine signal peace plan progress after Geneva talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-24 04:57</span>
             </div>
         </div>
 <div class="story">
@@ -76,29 +105,20 @@
                 <span class="time">2025-11-24 02:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/russia-ukraine-war-list-of-key-events-day-1369?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,369</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-24 01:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763943234682_wnn_mhu_questions_over_ukraine_peace_deal_251123_1920x1080-pt2q3w.jpg" alt="U.S. lawmakers, allies voice concern over Trump’s Ukraine peace proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/u-s-lawmakers-allies-voice-concern-over-trump-s-ukraine-peace-proposal-252794949777" target="_blank">U.S. lawmakers, allies voice concern over Trump’s Ukraine peace proposal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-24 00:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/691ce9938dd4b1eceaaa27e7/master/pass/2226607565" alt="Europe Is Bending the Knee to the US on Tech Policy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/europe-bends-us-digital-policies-eu-ai-act/" target="_blank">Europe Is Bending the Knee to the US on Tech Policy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-24 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +164,29 @@
                 <span class="time">2025-11-23 17:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/23/techcrunch-mobility-searching-for-the-robotaxi-tipping-point/" target="_blank">TechCrunch Mobility: Searching for the robotaxi tipping point</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-23 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4p8k" target="_blank">CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-24 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Phoronix-Cyber-Week-2025" target="_blank">Phoronix Premium Cyber Week &quot;Black Friday&quot; Deal To Help Enable Linux Hardware Reviews</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-24 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +221,6 @@
                 <span class="title"><a href="https://lalitm.com/fixits-are-good-for-the-soul/" target="_blank">We stopped roadmap work for a week and fixed 189 bugs</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-24 02:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/spring-news-roundup-nov17-2025/en/headerimage/java-istock-image-01-1763941893788.jpg" alt="Spring News Roundup: GA Releases of Boot, Security, GraphQL, Integration, Modulith, Batch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/spring-news-roundup-nov17-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: GA Releases of Boot, Security, GraphQL, Integration, Modulith, Batch</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-24 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj1e0vlg5wiyv34w1icol.jpg" alt="Can we use Rust to Develop Extensions for PostgreSQL?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shinyakato_/can-we-use-rust-to-develop-extensions-for-postgresql-5431" target="_blank">Can we use Rust to Develop Extensions for PostgreSQL?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-24 01:13</span>
             </div>
         </div>
 </div>
@@ -299,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
