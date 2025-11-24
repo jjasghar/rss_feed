@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 14:01:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-11-24 15:01:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/jimmy-cliff-jamaican-reggae-music-pioneer-dies-at-81?traffic_source=rss" target="_blank">Jimmy Cliff, Jamaican reggae music pioneer, dies at 81</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-24 14:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Kharkiv-attack-DB-251124_1763978169549_hpMain_4x3t_384.jpg" alt="Trump predicts &#x27;something good&#x27; in Ukraine-Russia peace negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +95,29 @@
                 <span class="time">2025-11-24 11:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Kharkiv-attack-DB-251124_1763978169549_hpMain_4x3t_384.jpg" alt="Russia launches deadly attack on Kharkiv amid &#x27;productive&#x27; US-Ukraine talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/russia-launches-deadly-attack-kharkiv-amid-productive-us/story?id=127815412" target="_blank">Russia launches deadly attack on Kharkiv amid &#x27;productive&#x27; US-Ukraine talks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-24 11:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/827555/google-gemini-3-is-winning-the-ai-race-for-now" target="_blank">&amp;#8216;Holy shit’: Gemini 3 is winning the AI race — for now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-24 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/" target="_blank">US banks scramble to assess data theft after hackers breach financial tech firm</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-24 14:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +154,6 @@
                 <span class="time">2025-11-24 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/827390/doge-is-no-more-and-in-its-wake-only-chaos" target="_blank">DOGE is no more, and in its wake, only chaos</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-24 00:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/23/roblox-ceo-interview-gets-heated-over-child-safety/" target="_blank">Roblox CEO interview gets heated over child safety</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-23 21:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,10 +162,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yaldakhoshpey/building-a-3d-virtual-portfolio-room-18kp" target="_blank">Building a 3D Virtual Portfolio Room🏠</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-24 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770515&w=600" alt="When Leadership Blocks Your Pre-Mortem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/when-leadership-blocks-your-pre-mortem" target="_blank">When Leadership Blocks Your Pre-Mortem</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-24 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://ntietz.com/blog/automating-updates-to-a-digital-vigil/" target="_blank">Automating updates to a digital vigil</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-11-24 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/dell-pro-max-16-plus/" target="_blank">Linux First, Windows Later! Dell Launches Qualcomm NPU Laptop on Linux Before Windows</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-24 13:19</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe3P-LPD-System-Cache-FBC" target="_blank">Intel Working On Linux Support For New Power Savings Feature With Xe3P_LPD</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-24 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-ml-jobs/en/mediumimage/michelle-brush-medium-1761904230413.jpg" alt="Presentation: Humans in the Loop: Engineering Leadership in a Chaotic Industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-ml-jobs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Humans in the Loop: Engineering Leadership in a Chaotic Industry</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-24 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shawon/how-to-check-the-number-of-lines-changed-in-your-current-git-branch-compared-to-main-3m6m" target="_blank">How to Check the Number of Lines Changed in Your Current Git Branch Compared to Main</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-24 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24" target="_blank">Shai-Hulud Returns: Over 300 NPM Packages Infected</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-24 10:40</span>
             </div>
         </div>
 </div>
@@ -234,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/airpods-max-apple-1280x853.jpg" alt="Apple Breaks Its Own Pricing Rules, AirPods Max Hits a Wild Black Friday Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/apple-breaks-its-own-pricing-rules-airpods-max-hits-a-wild-black-friday-low-2000646662" target="_blank">Apple Breaks Its Own Pricing Rules, AirPods Max Hits a Wild Black Friday Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-24 14:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KATJ4WRGFJ56PF8HJABGAKEG/hero-image.png" alt="The New Galaxy Watch 8 Classic Is $100 Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +286,6 @@
                 <span class="time">2025-11-24 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/hp-laptop-17-inch-1280x853.jpg" alt="HP Went Full Liquidation on 17″ Laptop (i5, 32GB RAM, 1TB SSD), 71% Off Turns $3K Into Pocket Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hp-went-full-liquidation-on-17-laptop-i5-32gb-ram-1tb-ssd-71-off-turns-3k-into-pocket-change-2000646751" target="_blank">HP Went Full Liquidation on 17″ Laptop (i5, 32GB RAM, 1TB SSD), 71% Off Turns $3K Into Pocket Change</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-24 01:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
