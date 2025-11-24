@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 11:01:53 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-11-24 12:02:37 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/8eb1c8a0-bbc6-11f0-b6c2-7f3ceed9a880.jpg" alt="Officers facing misconduct hearing in Harshita Brella case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1m89d0jjplo?at_medium=RSS&at_campaign=rss" target="_blank">Officers facing misconduct hearing in Harshita Brella case</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-24 11:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Kharkiv-attack-DB-251124_1763978169549_hpMain_4x3t_384.jpg" alt="Russia launches deadly attack on Kharkiv amid &#x27;productive&#x27; US-Ukraine talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/russia-launches-deadly-attack-kharkiv-amid-productive-us/story?id=127815412" target="_blank">Russia launches deadly attack on Kharkiv amid &#x27;productive&#x27; US-Ukraine talks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-24 11:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/24/several-killed-in-suicide-attack-on-security-complex-in-pakistan?traffic_source=rss" target="_blank">Several killed in suicide attack on security complex in Pakistan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-24 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/24/g-s1-99000/u-s-label-maduro-cartel-de-los-soles-terror-organization" target="_blank">U.S. set to label Maduro-tied Cartel de los Soles as a terror organization</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-24 07:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/24/g-s1-98998/geneva-u-s-ukraine-report-progress" target="_blank">In Geneva, U.S. and Ukraine officials report progress on ending war with Russia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-24 05:56</span>
             </div>
         </div>
 </div>
@@ -171,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe3P-LPD-System-Cache-FBC" target="_blank">Intel Working On Linux Support For New Power Savings Feature With Xe3P_LPD</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-24 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shawon/how-to-check-the-number-of-lines-changed-in-your-current-git-branch-compared-to-main-3m6m" target="_blank">How to Check the Number of Lines Changed in Your Current Git Branch Compared to Main</a></span>
                 <span class="feed">DEV Community</span>
@@ -184,6 +187,15 @@
                 <span class="title"><a href="https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24" target="_blank">Shai-Hulud Returns: Over 300 NPM Packages Infected</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-24 10:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/zorin-os-18-upgrade/" target="_blank">Upgrading from Zorin OS 17 to 18 (In Early Access)</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-24 09:53</span>
             </div>
         </div>
 <div class="story">
@@ -204,29 +216,20 @@
                 <span class="time">2025-11-24 08:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4p8k" target="_blank">CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-24 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Phoronix-Cyber-Week-2025" target="_blank">Phoronix Premium Cyber Week &quot;Black Friday&quot; Deal To Help Enable Linux Hardware Reviews</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-24 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/wickedforgood-1280x853.jpg" alt="‘Wicked: For Good’ Sung Up a Lot of Money on Opening Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wicked-for-good-sung-up-a-lot-of-money-on-opening-weekend-2000690385" target="_blank">‘Wicked: For Good’ Sung Up a Lot of Money on Opening Weekend</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-24 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/01/OpenAI-Sam-Altman-at-an-Apple-event--1280x853.jpg" alt="OpenAI’s Smackdown by a German Court Hints at What’s Next for AI and Art" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +275,6 @@
                 <span class="time">2025-11-23 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/dyson-airwrap-styler-1280x853.jpg" alt="Dyson Shows No Pride on Airwrap Origin, Selling Premium Hair Tool at Zero Margin Just to Move Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dyson-shows-no-pride-on-airwrap-origin-selling-premium-hair-tool-at-zero-margin-just-to-move-stock-2000646715" target="_blank">Dyson Shows No Pride on Airwrap Origin, Selling Premium Hair Tool at Zero Margin Just to Move Stock</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-23 17:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
