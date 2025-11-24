@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 04:10:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-24 05:02:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 04:10 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -161,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/themexriver/wordpress-themes-discount-trends-in-2026-an-informational-breakdown-for-web-developers-1ff8" target="_blank">WordPress Themes Discount Trends in 2026 — An Informational Breakdown for Web Developers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-24 04:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ursl7qmx55bxfodg8wb.png" alt="Pixel Perfect Figma plugin for mobile developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +220,6 @@
                 <span class="time">2025-11-23 23:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wayland-Protocols-1.46" target="_blank">Wayland Protocols 1.46 Released With New Experimental Additions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-23 22:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -226,6 +232,15 @@
                 <span class="title"><a href="https://kotaku.com/hp-went-full-liquidation-on-17-laptop-i5-32gb-ram-1tb-ssd-71-off-turns-3k-into-pocket-change-2000646751" target="_blank">HP Went Full Liquidation on 17″ Laptop (i5, 32GB RAM, 1TB SSD), 71% Off Turns $3K Into Pocket Change</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-24 01:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/PromptBuilder.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Engineer AI prompts like a pro with PromptBuilder, now 89% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/23/engineer-ai-prompts-like-a-pro-with-promptbuilder-now-89-off.html" target="_blank">Engineer AI prompts like a pro with PromptBuilder, now 89% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-23 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -264,20 +279,20 @@
                 <span class="time">2025-11-23 17:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Upgrade your PC&#x27;s brain and toolbox with Office 2021 Pro and Windows 11 Pro for $39.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/23/upgrade-your-pcs-brain-and-toolbox-with-office-2021-pro-and-windows-11-pro-for-39-97.html" target="_blank">Upgrade your PC&#x27;s brain and toolbox with Office 2021 Pro and Windows 11 Pro for $39.97</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-23 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5707.png" alt="Angel&#x27;s Concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5707" target="_blank">Angel&#x27;s Concerns</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-11-24 01:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1763688660-20251123_edit.png" alt="Saturday Morning Breakfast Cereal - Scar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 04:10 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
