@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 02:33:18 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-24 03:28:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 02:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss" target="_blank">Hamas meet Egypt’s spy chief, says Israel’s attacks on Gaza threaten truce</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-24 03:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgkwn0l771o?at_medium=RSS&at_campaign=rss" target="_blank">Lord Cameron reveals he had prostate cancer</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-23 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250817-donald-trump-zelenskyy-vl-326p-5f55ed.jpg" alt="With talks ongoing, Trump adds new tension with claim Ukraine has &#x27;zero gratitude&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-says-ukraine-expressed-zero-gratitude-us-help-peace-plan-talks-rcna245412" target="_blank">With talks ongoing, Trump adds new tension with claim Ukraine has &#x27;zero gratitude&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-23 22:07</span>
             </div>
         </div>
 </div>
@@ -163,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ursl7qmx55bxfodg8wb.png" alt="Pixel Perfect Figma plugin for mobile developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/1pixel/pixel-perfect-figma-plugin-for-mobile-developers-3gil" target="_blank">Pixel Perfect Figma plugin for mobile developers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-24 03:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj1e0vlg5wiyv34w1icol.jpg" alt="Can we use Rust to Develop Extensions for PostgreSQL?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +220,6 @@
                 <span class="title"><a href="https://emilysneddon.com/fran-sans-essay" target="_blank">Fran Sans – font inspired by San Francisco light rail displays</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-23 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dainyjose/building-a-location-picker-in-react-native-maps-with-draggable-marker-address-lookup-1d00" target="_blank">Building a Location Picker in React Native Maps (with Draggable Marker &amp; Address Lookup)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-23 17:59</span>
             </div>
         </div>
 </div>
@@ -294,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 02:33 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
