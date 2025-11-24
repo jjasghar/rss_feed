@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-23 23:01:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-24 00:05:28 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, November 23, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-1-rt-er-251121_1763759233689_hpMain_4x3t_384.jpg" alt="Days after their friendly meeting, Mamdani says he still thinks Trump is a fascist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/days-after-friendly-meeting-mamdani-thinks-trump-fascist/story?id=127807736" target="_blank">Days after their friendly meeting, Mamdani says he still thinks Trump is a fascist</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-23 23:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e3/live/6af5a0c0-c8ba-11f0-b418-a7e8ee400de6.jpg" alt="Lord Cameron reveals he had prostate cancer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgkwn0l771o?at_medium=RSS&at_campaign=rss" target="_blank">Lord Cameron reveals he had prostate cancer</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-23 22:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5e/live/ea587380-c88b-11f0-8c06-f5d460985095.jpg" alt="Rubio hails &#x27;tremendous progress&#x27; at Ukraine peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn81j54xjx1o?at_medium=RSS&at_campaign=rss" target="_blank">Israel kills top Hezbollah official in first attack on Beirut in months</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-23 19:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/11/23/venezuela-a-not-so-covert-cia-disaster-in-the-making?traffic_source=rss" target="_blank">Venezuela: A not-so-covert CIA disaster in the making</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-23 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/23/manchester-united-vs-everton-premier-league-team-news-start-and-lineups?traffic_source=rss" target="_blank">Manchester United vs Everton: Premier League – team news, start and lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-23 15:45</span>
             </div>
         </div>
 </div>
@@ -170,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc7-Released" target="_blank">Linux 6.18-rc7 Released With Late Hardware Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-23 23:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Wayland-Protocols-1.46" target="_blank">Wayland Protocols 1.46 Released With New Experimental Additions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-23 22:55</span>
@@ -211,20 +213,20 @@
                 <span class="time">2025-11-23 17:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/google-bigtable-tiered-storage/en/headerimage/generatedHeaderImage-1763226132708.jpg" alt="Google Cloud Introduces Bigtable Tiered Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/google-bigtable-tiered-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Introduces Bigtable Tiered Storage</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-23 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/x-men-united-cover-1280x853.jpg" alt="The Next Big X-Men Comic Takes Mutantkind Back to School" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/x-men-united-marvel-comics-school-mutants-2000689722" target="_blank">The Next Big X-Men Comic Takes Mutantkind Back to School</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-23 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/castlevania-nocturne-hed-1280x853.jpg" alt="The Magnifique ‘Castlevania: Nocturne’ Art Comes Together In New Art Book" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +272,6 @@
                 <span class="time">2025-11-23 15:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/invincible-powerplex-1280x853.jpg" alt="Aaron Paul Won’t Return to ‘Invincible’ Because Powerplex Was So Dark" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/aaron-paul-wont-return-to-invincible-because-powerplex-was-so-dark-2000690228" target="_blank">Aaron Paul Won’t Return to ‘Invincible’ Because Powerplex Was So Dark</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-23 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
