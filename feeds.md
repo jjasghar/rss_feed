@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 05:02:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-24 06:02:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/24/g-s1-98998/geneva-u-s-ukraine-report-progress" target="_blank">In Geneva, U.S. and Ukraine officials report progress on ending war with Russia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-24 05:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/snapchat-starts-age-checks-in-australia-ahead-of-teen-social-media-ban?traffic_source=rss" target="_blank">Snapchat starts age checks in Australia ahead of teen social media ban</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-24 04:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,30 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5e/live/ea587380-c88b-11f0-8c06-f5d460985095.jpg" alt="US hails &#x27;tremendous progress&#x27; at Ukraine peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1763943234682_wnn_mhu_questions_over_ukraine_peace_deal_251123_1920x1080-pt2q3w.jpg" alt="U.S. lawmakers, allies voice concern over Trump’s Ukraine peace proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce3zwy808dpo?at_medium=RSS&at_campaign=rss" target="_blank">US hails &#x27;tremendous progress&#x27; at Ukraine peace talks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-23 23:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-1-rt-er-251121_1763759233689_hpMain_4x3t_384.jpg" alt="Days after their friendly meeting, Mamdani says he still thinks Trump is a fascist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/days-after-friendly-meeting-mamdani-thinks-trump-fascist/story?id=127807736" target="_blank">Days after their friendly meeting, Mamdani says he still thinks Trump is a fascist</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-23 23:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e3/live/6af5a0c0-c8ba-11f0-b418-a7e8ee400de6.jpg" alt="Lord Cameron reveals he had prostate cancer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgkwn0l771o?at_medium=RSS&at_campaign=rss" target="_blank">Lord Cameron reveals he had prostate cancer</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-23 22:48</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/u-s-lawmakers-allies-voice-concern-over-trump-s-ukraine-peace-proposal-252794949777" target="_blank">U.S. lawmakers, allies voice concern over Trump’s Ukraine peace proposal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-24 00:14</span>
             </div>
         </div>
 </div>
@@ -188,6 +187,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://computer.rip/2025-11-22-RuBee.html" target="_blank">RuBee</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-24 03:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://lalitm.com/fixits-are-good-for-the-soul/" target="_blank">We stopped roadmap work for a week and fixed 189 bugs</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-24 02:36</span>
@@ -209,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/shinyakato_/can-we-use-rust-to-develop-extensions-for-postgresql-5431" target="_blank">Can we use Rust to Develop Extensions for PostgreSQL?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-24 01:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-rc7-Released" target="_blank">Linux 6.18-rc7 Released With Late Hardware Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-23 23:03</span>
             </div>
         </div>
 </div>
@@ -307,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
