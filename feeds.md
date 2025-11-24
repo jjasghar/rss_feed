@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 12:02:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-24 13:11:52 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 13:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years" target="_blank">Ethiopian volcano erupts for first time in 12,000 years</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-24 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/8eb1c8a0-bbc6-11f0-b6c2-7f3ceed9a880.jpg" alt="Officers facing misconduct hearing in Harshita Brella case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +97,29 @@
                 <span class="time">2025-11-24 09:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/24/several-killed-in-suicide-attack-on-security-complex-in-pakistan?traffic_source=rss" target="_blank">Several killed in suicide attack on security complex in Pakistan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-24 08:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/827430/oneplus-15r-will-get-a-late-launch-next-month" target="_blank">OnePlus 15R will get a late launch next month</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-24 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/689ec95b6da2c3e2469fecbb/master/pass/Update-%20Best%20Apple%20Watch.png" alt="Best Apple Watch (2025): Buyer’s Guide to the Series 11, SE 3, and Ultra 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-apple-watch/" target="_blank">Best Apple Watch (2025): Buyer’s Guide to the Series 11, SE 3, and Ultra 3</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-24 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69228b3ba39d384448fe8764/master/pass/Update-%20Gifts%20for%20Coffee%20Lovers.png" alt="21 Best Gifts for Coffee Lovers (2025): Drips, Pours, and Shots" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +156,6 @@
                 <span class="time">2025-11-23 21:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/827298/about-this-account-reveals-the-scale-of-xs-foreign-troll-problem" target="_blank">About This Account reveals the scale of X’s foreign troll problem</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-23 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/826416/best-nintendo-black-friday-deals-switch-games-amiibo-sale-2025" target="_blank">Some of the best Nintendo Switch games are up to $30 off for Black Friday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-23 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +168,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe3P-LPD-System-Cache-FBC" target="_blank">Intel Working On Linux Support For New Power Savings Feature With Xe3P_LPD</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-24 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ai-ml-jobs/en/mediumimage/michelle-brush-medium-1761904230413.jpg" alt="Presentation: Humans in the Loop: Engineering Leadership in a Chaotic Industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-ml-jobs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Humans in the Loop: Engineering Leadership in a Chaotic Industry</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-24 11:08</span>
             </div>
         </div>
 <div class="story">
@@ -207,13 +215,18 @@
                 <span class="time">2025-11-24 09:41</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/11/stripe-zero-downtime-date-move/en/headerimage/Stripe-DocDB-Header-1763703410327.jpeg" alt="Stripe&#x27;s Zero-Downtime Data Movement Platform Migrates Petabytes with Millisecond Traffic Switches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/stripe-zero-downtime-date-move/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Stripe&#x27;s Zero-Downtime Data Movement Platform Migrates Petabytes with Millisecond Traffic Switches</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-24 08:30</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html" target="_blank">IACR Nullifies Election Because of Lost Decryption Key</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-24 12:03</span>
             </div>
         </div>
 </div>
@@ -228,6 +241,15 @@
                 <span class="title"><a href="https://gizmodo.com/wicked-for-good-sung-up-a-lot-of-money-on-opening-weekend-2000690385" target="_blank">‘Wicked: For Good’ Sung Up a Lot of Money on Opening Weekend</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-24 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/slenda.jpg?fit=422%2C262&amp;quality=60&amp;ssl=1" alt="Slender Man stabber missing for day after removing monitoring bracelet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/24/slender-man-stabber-missing-for-day-after-removing-monitoring-bracelet.html" target="_blank">Slender Man stabber missing for day after removing monitoring bracelet</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-24 11:54</span>
             </div>
         </div>
 <div class="story">
@@ -264,15 +286,6 @@
                 <span class="title"><a href="https://gizmodo.com/x-men-united-marvel-comics-school-mutants-2000689722" target="_blank">The Next Big X-Men Comic Takes Mutantkind Back to School</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-23 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/castlevania-nocturne-hed-1280x853.jpg" alt="The Magnifique ‘Castlevania: Nocturne’ Art Comes Together In New Art Book" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-magnifique-castlevania-nocturne-art-comes-together-in-new-art-book-2000690117" target="_blank">The Magnifique ‘Castlevania: Nocturne’ Art Comes Together In New Art Book</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-23 19:50</span>
             </div>
         </div>
 </div>
@@ -312,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 13:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
