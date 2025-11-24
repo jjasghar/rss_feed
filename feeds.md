@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 20:02:18 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-24 21:01:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Jeffrey-Epstein-ap-gmh-240104_1704386953481_hpMain_6_4x3t_384.jpg" alt="DOJ asks judges to authorize release of Epstein and Maxwell grand jury material" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/doj-asks-judges-authorize-release-epstein-maxwell-grand/story?id=127836139" target="_blank">DOJ asks judges to authorize release of Epstein and Maxwell grand jury material</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-24 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/france-seeks-progress-on-nuclear-dispute-as-araghchi-set-to-visit-paris?traffic_source=rss" target="_blank">France seeks progress on nuclear talks as Iran top diplomat to visit Paris</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-24 20:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/24/nx-s1-5619170/trump-latinos-poll-immigration-economy-pew" target="_blank">New poll shows Latino support for Trump is slipping after gains in 2024</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-24 20:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/letitia-james-james-comey-gty-jt-251113_1763066953483_hpMain_4x3t_384.jpg" alt="Judge tosses indictments against James Comey and Letitia James" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,38 +101,20 @@
                 <span class="time">2025-11-24 17:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251119-lindsey-halligan-rs-9f4a96.jpg" alt="Judge dismisses cases against James Comey, Letitia James" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/judge-dismisses-cases-james-comey-letitia-james-finding-prosecutor-was-rcna244775" target="_blank">Judge dismisses cases against James Comey, Letitia James</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-24 17:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/24/what-are-the-implications-of-israels-latest-attack-on-hezbollah?traffic_source=rss" target="_blank">What are the implications of Israel’s latest attack on Hezbollah?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-24 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8fb/live/ca85a5b0-c948-11f0-8a95-4d52567d02bf.jpg" alt="Zelensky warns against giving away territory as latest Ukraine talks end" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpd6qd10l94o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky warns against giving away territory as latest Ukraine talks end</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-24 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/24/hands-on-with-stickerbox-the-ai-powered-sticker-maker-for-kids/" target="_blank">Hands on with Stickerbox, the AI-powered sticker maker for kids</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-24 20:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +160,20 @@
                 <span class="time">2025-11-24 16:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/827658/meta-17-strike-policy-sex-trafficking-testimony-lawsuit" target="_blank">Meta had a 17-strike policy for sex trafficking, former safety leader claims</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-24 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rnhqd34hskbe67hurxw.png" alt="From Zero to Building in Under Two Minutes: Kiro-Powered Laravel Skeleton" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/johnfmorton/from-zero-to-building-in-under-two-minutes-kiro-powered-laravel-skeleton-3d4o" target="_blank">From Zero to Building in Under Two Minutes: Kiro-Powered Laravel Skeleton</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-24 20:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770582&w=600" alt="How to Build Real-Time Transaction Monitoring Systems With Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -179,6 +195,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source" target="_blank">Pebble Watch software is now 100% open source</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-24 18:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-10.1-Released" target="_blank">AlmaLinux 10.1 Released - Complete With Btrfs Support</a></span>
                 <span class="feed">Phoronix</span>
@@ -192,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/datatechbridge/the-art-of-software-architecture-a-desi-developers-guide-to-building-systems-that-actually-work-39eh" target="_blank">The Art of Software Architecture: A Desi Developer&#x27;s Guide to Building Systems That Actually Work</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-24 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770559&w=600" alt="Creating an MCP Client With Spring AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/creating-an-mcp-client-with-spring-ai" target="_blank">Creating an MCP Client With Spring AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-24 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/pi-imager-difference.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi Imager 2.0 Released with New Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/raspberry-pi-imager-2-0-released" target="_blank">Raspberry Pi Imager 2.0 Released with New Design</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-24 17:17</span>
             </div>
         </div>
 </div>
@@ -231,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/psnsale-1280x720.jpg" alt="PlayStation’s Big Black Friday Sale Includes Some Fantastic PS5 Exclusives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-5-ps5-exclusives-big-black-friday-sale-death-stranding-astro-bot-spider-man-2000646983" target="_blank">PlayStation’s Big Black Friday Sale Includes Some Fantastic PS5 Exclusives</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-24 20:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/bill-skarsgard_1-2-1280x853.jpg" alt="Now That Pennywise Has Arrived on ‘It: Welcome to Derry,’ Bob Gray Is Close Behind" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +292,6 @@
                 <span class="time">2025-11-24 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/wicked-for-good-press-pics617-11.jpg" alt="Wicked: For Good‘s Scarecrow Reveal Has Fans Both Horny And Horrified" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/wicked-for-good-scarecrow-fiyero-jonathan-bailey-reaction-2000646940" target="_blank">Wicked: For Good‘s Scarecrow Reveal Has Fans Both Horny And Horrified</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-24 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 284 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
