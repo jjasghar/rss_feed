@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 17:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-24 18:01:52 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Generated 14 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Criminal cases against Comey, James dismissed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Criminal cases against Comey, James dismissed</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-24 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/24/what-are-the-implications-of-israels-latest-attack-on-hezbollah?traffic_source=rss" target="_blank">What are the implications of Israel’s latest attack on Hezbollah?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-24 17:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8fb/live/ca85a5b0-c948-11f0-8a95-4d52567d02bf.jpg" alt="Zelensky warns against giving away territory as latest Ukraine talks end" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpd6qd10l94o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky warns against giving away territory as latest Ukraine talks end</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-24 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271f/live/4ab895b0-c946-11f0-8c06-f5d460985095.jpg" alt="Palestine Action activist hit police officer with sledgehammer, jury told" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g54g1r15eo?at_medium=RSS&at_campaign=rss" target="_blank">Palestine Action activist hit police officer with sledgehammer, jury told</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-24 15:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271f/live/4ab895b0-c946-11f0-8c06-f5d460985095.jpg" alt="Police officer &#x27;unable to dress after hammer attack&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,47 +103,29 @@
                 <span class="time">2025-11-24 15:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kepner_1763943182514_hpMain_4x3t_384.jpg" alt="Family of 18-year-old who died on cruise speaks out as stepbrother named &#x27;suspect&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/family-18-year-died-cruise-speaks-step-brother/story?id=127808187" target="_blank">Family of 18-year-old who died on cruise speaks out as stepbrother named &#x27;suspect&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-24 15:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/jimmy-cliff-jamaican-reggae-music-pioneer-dies-at-81?traffic_source=rss" target="_blank">Jimmy Cliff, Jamaican reggae music pioneer, dies at 81</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-24 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Kharkiv-attack-DB-251124_1763978169549_hpMain_4x3t_384.jpg" alt="Trump predicts &#x27;something good&#x27; in Ukraine-Russia peace negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/russia-launches-deadly-attack-kharkiv-amid-productive-us/story?id=127815412" target="_blank">Trump predicts &#x27;something good&#x27; in Ukraine-Russia peace negotiations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-24 13:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/8eb1c8a0-bbc6-11f0-b6c2-7f3ceed9a880.jpg" alt="Police misconduct inquiry in Harshita Brella case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1m89d0jjplo?at_medium=RSS&at_campaign=rss" target="_blank">Police misconduct inquiry in Harshita Brella case</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-24 13:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/827784/aqara-wifi-b50-smart-lock-lowes-budget-friendly" target="_blank">Aqara&amp;#8217;s $99 Wi-Fi smart lock is a good-looking budget option</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-24 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/24/doge-days-are-over-as-trump-disbands-elon-musks-team-of-federal-cost-cutters/" target="_blank">DOGE days are over as Trump disbands Elon Musk’s team of federal cost-cutters</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-24 16:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/692489fbf305210dbdbbfffc/master/pass/The%20Oura%20Ring%204%20Is%20$100%20off%20Ahead%20of%20Black%20Friday.png" alt="The Oura Ring 4 Is $100 off Ahead of Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +162,47 @@
                 <span class="time">2025-11-24 15:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/827555/google-gemini-3-is-winning-the-ai-race-for-now" target="_blank">&amp;#8216;Holy shit’: Gemini 3 is winning the AI race — for now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-24 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2247872341-500x500.jpg" alt="F1 in Las Vegas: This sport is a 200 mph soap opera" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/11/f1-in-las-vegas-this-sport-is-a-200-mph-soap-opera/" target="_blank">F1 in Las Vegas: This sport is a 200 mph soap opera</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-24 14:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/datatechbridge/the-art-of-software-architecture-a-desi-developers-guide-to-building-systems-that-actually-work-39eh" target="_blank">The Art of Software Architecture: A Desi Developer&#x27;s Guide to Building Systems That Actually Work</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-24 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770559&w=600" alt="Creating an MCP Client With Spring AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/creating-an-mcp-client-with-spring-ai" target="_blank">Creating an MCP Client With Spring AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-24 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/pi-imager-difference.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi Imager 2.0 Released with New Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/raspberry-pi-imager-2-0-released" target="_blank">Raspberry Pi Imager 2.0 Released with New Design</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-24 17:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mamot.fr/@LaQuadrature/115581775965025042" target="_blank">France threatens GrapheneOS with arrests / server seizure for refusing backdoors</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-24 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4fq96pu10o21x9zzi5h.png" alt="The saltiest and wrongest article about Big O ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -178,42 +219,6 @@
                 <span class="title"><a href="https://dzone.com/articles/right-to-be-forgotten-event-driven-data" target="_blank">The Right to Be Forgotten in Event-Driven Data Products</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-24 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains" target="_blank">SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-24 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yaldakhoshpey/building-a-3d-virtual-portfolio-room-18kp" target="_blank">Building a 3D Virtual Portfolio Room🏠</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-24 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770515&w=600" alt="When Leadership Blocks Your Pre-Mortem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/when-leadership-blocks-your-pre-mortem" target="_blank">When Leadership Blocks Your Pre-Mortem</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-24 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://ntietz.com/blog/automating-updates-to-a-digital-vigil/" target="_blank">Automating updates to a digital vigil</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-24 13:20</span>
             </div>
         </div>
 </div>
@@ -235,6 +240,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/one-cut-of-the-dead-exclusive-1280x853.jpg" alt="A Brilliant, Unconventional Zombie Movie Gets an Equally Brilliant, Unconventional Poster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/one-cut-of-the-dead-limited-poster-100-soft-2000689883" target="_blank">A Brilliant, Unconventional Zombie Movie Gets an Equally Brilliant, Unconventional Poster</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-24 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/wicked-for-good-press-pics617-11.jpg" alt="Wicked: For Good‘s Scarecrow Reveal Has Fans Both Horny And Horrified" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/wicked-for-good-scarecrow-fiyero-jonathan-bailey-reaction-2000646940" target="_blank">Wicked: For Good‘s Scarecrow Reveal Has Fans Both Horny And Horrified</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-24 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HBRRSMPW2M3TG925D46HE/hero-image.png" alt="I Make This Low-Effort Turkey Every Year, and Everybody Loves It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/simple-roast-turkey-recipe?utm_medium=RSS" target="_blank">I Make This Low-Effort Turkey Every Year, and Everybody Loves It</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-24 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/michael-main-1280x720.jpg" alt="Former GTA Boss Isn’t Buying All Of The AI Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,38 +294,20 @@
                 <span class="time">2025-11-24 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/millenium-falcon-set-lego-1280x853.jpg" alt="LEGO Millennium Falcon Stays Full Price on Official Site, But Selling for Pennies on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-millennium-falcon-stays-full-price-on-official-site-but-selling-for-pennies-on-amazon-2000646840" target="_blank">LEGO Millennium Falcon Stays Full Price on Official Site, But Selling for Pennies on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-24 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/airpods-max-apple-1280x853.jpg" alt="Apple Breaks Its Own Pricing Rules, AirPods Max Hits a Wild Black Friday Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/apple-breaks-its-own-pricing-rules-airpods-max-hits-a-wild-black-friday-low-2000646662" target="_blank">Apple Breaks Its Own Pricing Rules, AirPods Max Hits a Wild Black Friday Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-24 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KATJ4WRGFJ56PF8HJABGAKEG/hero-image.png" alt="The New Galaxy Watch 8 Classic Is $100 Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/new-galaxy-watch-8-classic-sale-black-friday-2025?utm_medium=RSS" target="_blank">The New Galaxy Watch 8 Classic Is $100 Off for Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-24 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/24/the-ol-factory" target="_blank">The Ol&#x27; Factory</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-24 14:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -317,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
