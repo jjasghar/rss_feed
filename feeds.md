@@ -1,28 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 10:02:20 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-24 11:01:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/24/nx-s1-5612550/bowhead-whale-cancer-dna-longevity" target="_blank">A bowhead whale&#x27;s DNA offers clues to fight cancer</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-24 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/far-right-politician-prompts-fury-with-burqa-antics-in-australian-parliament?traffic_source=rss" target="_blank">Far-right politician prompts fury with burqa antics in Australian parliament</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-24 10:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,29 +104,20 @@
                 <span class="time">2025-11-24 05:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ec1/live/d3644c30-c8ef-11f0-8cad-7b143c08a8f8.jpg" alt="US and Ukraine signal peace plan progress after Geneva talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce3zwy808dpo?at_medium=RSS&at_campaign=rss" target="_blank">US and Ukraine signal peace plan progress after Geneva talks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-24 04:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/snapchat-starts-age-checks-in-australia-ahead-of-teen-social-media-ban?traffic_source=rss" target="_blank">Snapchat starts age checks in Australia ahead of teen social media ban</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-24 04:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69228b3ba39d384448fe8764/master/pass/Update-%20Gifts%20for%20Coffee%20Lovers.png" alt="21 Best Gifts for Coffee Lovers (2025): Drips, Pours, and Shots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2025/" target="_blank">21 Best Gifts for Coffee Lovers (2025): Drips, Pours, and Shots</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-24 10:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/691ce9938dd4b1eceaaa27e7/master/pass/2226607565" alt="Europe Is Bending the Knee to the US on Tech Policy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,20 +163,29 @@
                 <span class="time">2025-11-23 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/23/ai-is-too-risky-to-insure-say-people-whose-job-is-insuring-risk/" target="_blank">AI is too risky to insure, say people whose job is insuring risk</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-23 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shawon/how-to-check-the-number-of-lines-changed-in-your-current-git-branch-compared-to-main-3m6m" target="_blank">How to Check the Number of Lines Changed in Your Current Git Branch Compared to Main</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-24 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24" target="_blank">Shai-Hulud Returns: Over 300 NPM Packages Infected</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-24 10:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Phoronix-Cyber-Week-2025" target="_blank">Phoronix Premium Cyber Week &quot;Black Friday&quot; Deal To Help Enable Linux Hardware Reviews</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-24 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/themexriver/wordpress-themes-discount-trends-in-2026-an-informational-breakdown-for-web-developers-1ff8" target="_blank">WordPress Themes Discount Trends in 2026 — An Informational Breakdown for Web Developers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-24 04:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ursl7qmx55bxfodg8wb.png" alt="Pixel Perfect Figma plugin for mobile developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/1pixel/pixel-perfect-figma-plugin-for-mobile-developers-3gil" target="_blank">Pixel Perfect Figma plugin for mobile developers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-24 03:10</span>
             </div>
         </div>
 </div>
@@ -306,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
