@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 13:11:52 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-24 14:01:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 13:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +44,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/Kharkiv-attack-DB-251124_1763978169549_hpMain_4x3t_384.jpg" alt="Trump predicts &#x27;something good&#x27; in Ukraine-Russia peace negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/russia-launches-deadly-attack-kharkiv-amid-productive-us/story?id=127815412" target="_blank">Trump predicts &#x27;something good&#x27; in Ukraine-Russia peace negotiations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-24 13:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/8eb1c8a0-bbc6-11f0-b6c2-7f3ceed9a880.jpg" alt="Police misconduct inquiry in Harshita Brella case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1m89d0jjplo?at_medium=RSS&at_campaign=rss" target="_blank">Police misconduct inquiry in Harshita Brella case</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-24 13:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years" target="_blank">Ethiopian volcano erupts for first time in 12,000 years</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-24 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/24/g-s1-99036/up-first-newsletter-ukraine-russia-marjorie-taylor-greene-israel-hamas" target="_blank">Trump&#x27;s peace plan for Ukraine. And, why Marjorie Taylor Greene is resigning</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-24 12:10</span>
             </div>
         </div>
 <div class="story">
@@ -68,33 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/russia-launches-deadly-attack-kharkiv-amid-productive-us/story?id=127815412" target="_blank">Russia launches deadly attack on Kharkiv amid &#x27;productive&#x27; US-Ukraine talks</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-24 11:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/24/nx-s1-5612550/bowhead-whale-cancer-dna-longevity" target="_blank">A bowhead whale&#x27;s DNA offers clues to fight cancer</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-24 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/far-right-politician-prompts-fury-with-burqa-antics-in-australian-parliament?traffic_source=rss" target="_blank">Far-right politician prompts fury with burqa antics in Australian parliament</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-24 10:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/24/gaza-sports-club-offers-activities-despite-destruction?traffic_source=rss" target="_blank">Gaza sports club offers activities despite destruction</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-24 09:29</span>
             </div>
         </div>
 </div>
@@ -164,6 +164,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://ntietz.com/blog/automating-updates-to-a-digital-vigil/" target="_blank">Automating updates to a digital vigil</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-24 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.cr.yp.to/20251123-dodging.html" target="_blank">NSA and IETF, part 3: Dodging the issues at hand</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-24 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe3P-LPD-System-Cache-FBC" target="_blank">Intel Working On Linux Support For New Power Savings Feature With Xe3P_LPD</a></span>
                 <span class="feed">Phoronix</span>
@@ -197,24 +215,6 @@
                 <span class="time">2025-11-24 10:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/zorin-os-18-upgrade/" target="_blank">Upgrading from Zorin OS 17 to 18 (In Early Access)</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-24 09:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-boot-in-uefi-announcement" target="_blank">AMI and Canonical announce partnership</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-11-24 09:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KATJ4WRGFJ56PF8HJABGAKEG/hero-image.png" alt="The New Galaxy Watch 8 Classic Is $100 Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/new-galaxy-watch-8-classic-sale-black-friday-2025?utm_medium=RSS" target="_blank">The New Galaxy Watch 8 Classic Is $100 Off for Black Friday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-24 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/MS-1124-deadpool-wolverine-1280x853.jpg" alt="Hugh Jackman Isn’t Saying No to More Wolverine Returns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hugh-jackman-wolverine-return-marvel-2000690467" target="_blank">Hugh Jackman Isn’t Saying No to More Wolverine Returns</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-24 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/wickedforgood-1280x853.jpg" alt="‘Wicked: For Good’ Sung Up a Lot of Money on Opening Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/hp-went-full-liquidation-on-17-laptop-i5-32gb-ram-1tb-ssd-71-off-turns-3k-into-pocket-change-2000646751" target="_blank">HP Went Full Liquidation on 17″ Laptop (i5, 32GB RAM, 1TB SSD), 71% Off Turns $3K Into Pocket Change</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-24 01:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/PromptBuilder.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Engineer AI prompts like a pro with PromptBuilder, now 89% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/23/engineer-ai-prompts-like-a-pro-with-promptbuilder-now-89-off.html" target="_blank">Engineer AI prompts like a pro with PromptBuilder, now 89% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-23 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/x-men-united-cover-1280x853.jpg" alt="The Next Big X-Men Comic Takes Mutantkind Back to School" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/x-men-united-marvel-comics-school-mutants-2000689722" target="_blank">The Next Big X-Men Comic Takes Mutantkind Back to School</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-23 21:15</span>
             </div>
         </div>
 </div>
@@ -325,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 13:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
