@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 19:01:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-24 20:02:18 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/letitia-james-james-comey-gty-jt-251113_1763066953483_hpMain_4x3t_384.jpg" alt="Judge tosses indictments against James Comey and Letitia James" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/judge-dismisses-criminal-cases-comey-james/story?id=127732668" target="_blank">Judge tosses indictments against James Comey and Letitia James</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-24 19:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +94,29 @@
                 <span class="time">2025-11-24 16:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271f/live/4ab895b0-c946-11f0-8c06-f5d460985095.jpg" alt="Palestine Action activist hit police officer with sledgehammer, jury told" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g54g1r15eo?at_medium=RSS&at_campaign=rss" target="_blank">Palestine Action activist hit police officer with sledgehammer, jury told</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-24 15:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte" target="_blank">I tested a bunch of Switch 2 screen protectors, and these are the best</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-24 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/24/aws-is-spending-50b-build-ai-infrastructure-for-the-us-government/" target="_blank">AWS is spending $50B build AI infrastructure for the US government</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-24 19:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +153,20 @@
                 <span class="time">2025-11-24 16:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman" target="_blank">Jony Ive and Sam Altman say they finally have an AI hardware prototype</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-24 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/24/facebook-takes-on-reddit-with-launch-of-nicknames-for-facebook-groups/" target="_blank">Facebook takes on Reddit with launch of nicknames for Facebook Groups</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-24 15:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770582&w=600" alt="How to Build Real-Time Transaction Monitoring Systems With Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/real-time-transaction-monitoring-streaming-data" target="_blank">How to Build Real-Time Transaction Monitoring Systems With Streaming Data</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-24 19:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +212,6 @@
                 <span class="time">2025-11-24 17:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mamot.fr/@LaQuadrature/115581775965025042" target="_blank">France threatens GrapheneOS with arrests / server seizure for refusing backdoors</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-24 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/bill-skarsgard_1-2-1280x853.jpg" alt="Now That Pennywise Has Arrived on ‘It: Welcome to Derry,’ Bob Gray Is Close Behind" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/now-that-pennywise-has-arrived-on-it-welcome-to-derry-bob-gray-is-close-behind-2000690833" target="_blank">Now That Pennywise Has Arrived on ‘It: Welcome to Derry,’ Bob Gray Is Close Behind</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-24 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/pride-1-e1739910603281.jpg?fit=1080%2C600&amp;quality=60&amp;ssl=1" alt="Loraine Hutchins has died. She gave bisexual activism its name, shape, and sass" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/24/loraine-hutchins-has-died-she-gave-bisexual-activism-its-name-shape-and-sass.html" target="_blank">Loraine Hutchins has died. She gave bisexual activism its name, shape, and sass</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-24 19:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Jason-Momoa-Fast-X-1280x853.jpg" alt="A New ‘Fast X’ Report Dives Into Its Director Exit and Ending Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +283,6 @@
                 <span class="title"><a href="https://kotaku.com/wicked-for-good-scarecrow-fiyero-jonathan-bailey-reaction-2000646940" target="_blank">Wicked: For Good‘s Scarecrow Reveal Has Fans Both Horny And Horrified</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-24 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HBRRSMPW2M3TG925D46HE/hero-image.png" alt="I Make This Low-Effort Turkey Every Year, and Everybody Loves It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/simple-roast-turkey-recipe?utm_medium=RSS" target="_blank">I Make This Low-Effort Turkey Every Year, and Everybody Loves It</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-24 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/michael-main-1280x720.jpg" alt="Former GTA Boss Isn’t Buying All Of The AI Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dan-houser-ai-rockstar-gtav-rdr2-absurd-ventures-2000646935" target="_blank">Former GTA Boss Isn’t Buying All Of The AI Hype</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-24 17:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 284 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
