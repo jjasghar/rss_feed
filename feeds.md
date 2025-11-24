@@ -1,31 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 15:01:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-24 16:01:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/uk-news/2025/nov/24/uk-rejects-nigerian-request-to-deport-former-politican-ike-ekweremadu-jailed-for-organ-trafficking" target="_blank">UK rejects Nigerian request to deport former politican jailed for organ trafficking</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-24 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kepner_1763943182514_hpMain_4x3t_384.jpg" alt="Family of 18-year-old who died on cruise speaks out as stepbrother named &#x27;suspect&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/family-18-year-died-cruise-speaks-step-brother/story?id=127808187" target="_blank">Family of 18-year-old who died on cruise speaks out as stepbrother named &#x27;suspect&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-24 15:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +94,29 @@
                 <span class="time">2025-11-24 13:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/24/g-s1-99036/up-first-newsletter-ukraine-russia-marjorie-taylor-greene-israel-hamas" target="_blank">Trump&#x27;s peace plan for Ukraine. And, why Marjorie Taylor Greene is resigning</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-24 12:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/8eb1c8a0-bbc6-11f0-b6c2-7f3ceed9a880.jpg" alt="Officers facing misconduct hearing in Harshita Brella case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1m89d0jjplo?at_medium=RSS&at_campaign=rss" target="_blank">Officers facing misconduct hearing in Harshita Brella case</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-24 11:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman" target="_blank">Jony Ive and Sam Altman say they finally have an AI hardware prototype</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-24 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/24/facebook-takes-on-reddit-with-launch-of-nicknames-for-facebook-groups/" target="_blank">Facebook takes on Reddit with launch of nicknames for Facebook Groups</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-24 15:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,24 +151,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-apple-watch/" target="_blank">Best Apple Watch (2025): Buyer’s Guide to the Series 11, SE 3, and Ultra 3</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-24 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69228b3ba39d384448fe8764/master/pass/Update-%20Gifts%20for%20Coffee%20Lovers.png" alt="21 Best Gifts for Coffee Lovers (2025): Drips, Pours, and Shots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2025/" target="_blank">21 Best Gifts for Coffee Lovers (2025): Drips, Pours, and Shots</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-24 10:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691ce9938dd4b1eceaaa27e7/master/pass/2226607565" alt="Europe Is Bending the Knee to the US on Tech Policy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/europe-bends-us-digital-policies-eu-ai-act/" target="_blank">Europe Is Bending the Knee to the US on Tech Policy</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-24 07:00</span>
             </div>
         </div>
 </div>
@@ -233,6 +232,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/10/Maingear-Apex-Rush-desktop-PC-review-13-1280x853.jpg" alt="We’re So Screwed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ram-prices-going-up-ddr5-shortage-2000690697" target="_blank">We’re So Screwed</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-24 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/millenium-falcon-set-lego-1280x853.jpg" alt="LEGO Millennium Falcon Stays Full Price on Official Site, But Selling for Pennies on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-millennium-falcon-stays-full-price-on-official-site-but-selling-for-pennies-on-amazon-2000646840" target="_blank">LEGO Millennium Falcon Stays Full Price on Official Site, But Selling for Pennies on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-24 15:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/airpods-max-apple-1280x853.jpg" alt="Apple Breaks Its Own Pricing Rules, AirPods Max Hits a Wild Black Friday Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -266,24 +283,6 @@
                 <span class="title"><a href="https://gizmodo.com/wicked-for-good-sung-up-a-lot-of-money-on-opening-weekend-2000690385" target="_blank">‘Wicked: For Good’ Sung Up a Lot of Money on Opening Weekend</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-24 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/slenda.jpg?fit=422%2C262&amp;quality=60&amp;ssl=1" alt="Slender Man stabber missing for day after removing monitoring bracelet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/24/slender-man-stabber-missing-for-day-after-removing-monitoring-bracelet.html" target="_blank">Slender Man stabber missing for day after removing monitoring bracelet</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-24 11:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/OpenAI-Sam-Altman-at-an-Apple-event--1280x853.jpg" alt="OpenAI’s Smackdown by a German Court Hints at What’s Next for AI and Art" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/openais-smackdown-by-a-german-court-hints-at-whats-next-for-ai-and-art-2000690375" target="_blank">OpenAI’s Smackdown by a German Court Hints at What’s Next for AI and Art</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-24 10:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
