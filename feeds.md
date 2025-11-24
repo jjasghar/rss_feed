@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 03:28:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-11-24 04:10:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 03:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 04:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -178,6 +170,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lalitm.com/fixits-are-good-for-the-soul/" target="_blank">We stopped roadmap work for a week and fixed 189 bugs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-24 02:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/spring-news-roundup-nov17-2025/en/headerimage/java-istock-image-01-1763941893788.jpg" alt="Spring News Roundup: GA Releases of Boot, Security, GraphQL, Integration, Modulith, Batch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/spring-news-roundup-nov17-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: GA Releases of Boot, Security, GraphQL, Integration, Modulith, Batch</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-24 02:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj1e0vlg5wiyv34w1icol.jpg" alt="Can we use Rust to Develop Extensions for PostgreSQL?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,24 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wayland-Protocols-1.46" target="_blank">Wayland Protocols 1.46 Released With New Experimental Additions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-23 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/ESWIN-EBC77-RISC-V-single-board-computer.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Upstreams Patches to Bring Flutter Apps to RISC-V" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/ubuntu-risc-v-flutter-support" target="_blank">Ubuntu Upstreams Patches to Bring Flutter Apps to RISC-V</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-23 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://emilysneddon.com/fran-sans-essay" target="_blank">Fran Sans – font inspired by San Francisco light rail displays</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-23 18:20</span>
             </div>
         </div>
 </div>
@@ -301,7 +293,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 03:28 UTC
+        🔄 Last Updated: 04:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
