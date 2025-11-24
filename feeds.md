@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 18:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-24 19:01:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/syria-extends-homs-curfew-as-killings-threaten-to-inflame-sectarian-tension?traffic_source=rss" target="_blank">Syria extends Homs curfew as killings threaten to inflame sectarian tension</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-24 18:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Criminal cases against Comey, James dismissed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Criminal cases against Comey, James dismissed</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-24 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251119-lindsey-halligan-rs-9f4a96.jpg" alt="Judge dismisses cases against James Comey, Letitia James" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/judge-dismisses-cases-james-comey-letitia-james-finding-prosecutor-was-rcna244775" target="_blank">Judge dismisses cases against James Comey, Letitia James</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-24 17:46</span>
             </div>
         </div>
 <div class="story">
@@ -83,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c4g54g1r15eo?at_medium=RSS&at_campaign=rss" target="_blank">Palestine Action activist hit police officer with sledgehammer, jury told</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-24 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271f/live/4ab895b0-c946-11f0-8c06-f5d460985095.jpg" alt="Police officer &#x27;unable to dress after hammer attack&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g54g1r15eo?at_medium=RSS&at_campaign=rss" target="_blank">Police officer &#x27;unable to dress after hammer attack&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-24 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/uk-news/2025/nov/24/uk-rejects-nigerian-request-to-deport-former-politican-ike-ekweremadu-jailed-for-organ-trafficking" target="_blank">UK rejects Nigerian request to deport former politican jailed for organ trafficking</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-24 15:46</span>
             </div>
         </div>
 </div>
@@ -171,6 +167,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zainudin_noori_293f1d1c1b/complete-toolkit-for-llm-development-1l7o" target="_blank">Complete Toolkit for LLM Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-24 18:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-10.1-Released" target="_blank">AlmaLinux 10.1 Released - Complete With Btrfs Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-24 18:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/datatechbridge/the-art-of-software-architecture-a-desi-developers-guide-to-building-systems-that-actually-work-39eh" target="_blank">The Art of Software Architecture: A Desi Developer&#x27;s Guide to Building Systems That Actually Work</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-24 17:55</span>
@@ -203,24 +217,6 @@
                 <span class="time">2025-11-24 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4fq96pu10o21x9zzi5h.png" alt="The saltiest and wrongest article about Big O ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/klauskpm/the-saltiest-and-wrongest-article-about-big-o-ever-1blm" target="_blank">The saltiest and wrongest article about Big O ever</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-24 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770556&w=600" alt="The Right to Be Forgotten in Event-Driven Data Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/right-to-be-forgotten-event-driven-data" target="_blank">The Right to Be Forgotten in Event-Driven Data Products</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-24 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Jason-Momoa-Fast-X-1280x853.jpg" alt="A New ‘Fast X’ Report Dives Into Its Director Exit and Ending Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/fast-x-alternate-ending-justin-lin-exit-vin-diesel-2000690773" target="_blank">A New ‘Fast X’ Report Dives Into Its Director Exit and Ending Changes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-24 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/OP15.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="The OnePlus 15 is an almost perfect smartphone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/24/the-oneplus-15-is-an-almost-perfect-smartphone.html" target="_blank">The OnePlus 15 is an almost perfect smartphone</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-24 18:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/one-cut-of-the-dead-exclusive-1280x853.jpg" alt="A Brilliant, Unconventional Zombie Movie Gets an Equally Brilliant, Unconventional Poster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/dan-houser-ai-rockstar-gtav-rdr2-absurd-ventures-2000646935" target="_blank">Former GTA Boss Isn’t Buying All Of The AI Hype</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-24 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KATMJBDR2BJXG8C0ZQFYDB9H/hero-image.png" alt="You Can Get This Google Nest Thermostat E on Sale for Over 50% Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-nest-thermostat-e-stacksocial-sale-black-friday-2025?utm_medium=RSS" target="_blank">You Can Get This Google Nest Thermostat E on Sale for Over 50% Off for Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-24 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/Maingear-Apex-Rush-desktop-PC-review-13-1280x853.jpg" alt="We’re So Screwed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ram-prices-going-up-ddr5-shortage-2000690697" target="_blank">We’re So Screwed</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-24 16:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
