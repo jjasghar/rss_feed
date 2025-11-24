@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 22:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-24 23:01:46 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 31 feeds processed -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8fb/live/ca85a5b0-c948-11f0-8a95-4d52567d02bf.jpg" alt="Zelensky welcomes amendments to proposed peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpd6qd10l94o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky welcomes amendments to proposed peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-24 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7f8/live/c6a6ff90-c982-11f0-a892-01d657345866.jpg" alt="BBC chairman vows to stay to &#x27;fix&#x27; problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62lr2yjy14o?at_medium=RSS&at_campaign=rss" target="_blank">BBC chairman vows to stay to &#x27;fix&#x27; problems</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-24 22:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aed/live/26bba570-c96f-11f0-8c06-f5d460985095.png" alt="Farage says he&#x27;s &#x27;never directly racially abused anybody&#x27; after school racism claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,29 +106,38 @@
                 <span class="time">2025-11-24 20:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/france-seeks-progress-on-nuclear-dispute-as-araghchi-set-to-visit-paris?traffic_source=rss" target="_blank">France seeks progress on nuclear talks as Iran top diplomat to visit Paris</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-24 20:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/24/nx-s1-5619170/trump-latinos-poll-immigration-economy-pew" target="_blank">New poll shows Latino support for Trump is slipping after gains in 2024</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-24 20:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/" target="_blank">Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-24 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Pad37_Fly_Over_Desktop_57943a8aff-500x500.jpg" alt="Rivals object to SpaceX’s Starship plans in Florida—who’s interfering with whom?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/11/rivals-object-to-spacexs-starship-plans-in-florida-whos-interfering-with-whom/" target="_blank">Rivals object to SpaceX’s Starship plans in Florida—who’s interfering with whom?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-24 22:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/828256/meta-smart-glasses-trade-in-credit" target="_blank">Meta&amp;#8217;s new wearables trade-in program gives you Ray-Ban and Oakley discounts</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-24 22:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2200059564-500x500-1764014696.jpg" alt="DOGE “cut muscle, not fat”; 26K experts rehired after brutal cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,33 +163,6 @@
                 <span class="title"><a href="https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte" target="_blank">I tested a bunch of Switch 2 screen protectors, and these are the best</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-24 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/24/aws-is-spending-50b-build-ai-infrastructure-for-the-us-government/" target="_blank">AWS is spending $50B build AI infrastructure for the US government</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-24 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/827784/aqara-wifi-b50-smart-lock-lowes-budget-friendly" target="_blank">Aqara&amp;#8217;s $99 Wi-Fi smart lock is a good-looking budget option</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-24 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/24/doge-days-are-over-as-trump-disbands-elon-musks-team-of-federal-cost-cutters/" target="_blank">DOGE days are over as Trump disbands Elon Musk’s team of federal cost-cutters</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-24 16:51</span>
             </div>
         </div>
 </div>
@@ -242,6 +244,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/olaffix-1280x720.jpg" alt="Soulless Robot Olaf Will Haunt Disney Theme Park In Search Of Friendship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/frozen-olaf-character-roams-disney-parks-2026-2000647055" target="_blank">Soulless Robot Olaf Will Haunt Disney Theme Park In Search Of Friendship</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-24 22:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAVV8BH46DZW7BTE8YXGGEP0/hero-image.png" alt="Why That $300 Black Friday Laptop Deal Probably Isn’t Worth It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/why-that-300-black-friday-laptop-deal-probably-isnt-worth-it?utm_medium=RSS" target="_blank">Why That $300 Black Friday Laptop Deal Probably Isn’t Worth It</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-24 21:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KATM5Z6YAC1TN4RYFV8ZVSV9/hero-image.png" alt="You Can Get This Budget Dell Latitude Laptop With Microsoft Office on Sale for $275 for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -260,39 +280,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/slenderman.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="The Slender Man Killer has escaped" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/24/the-slender-man-killer-has-escaped.html" target="_blank">The Slender Man Killer has escaped</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-24 20:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/bill-skarsgard_1-2-1280x853.jpg" alt="Now That Pennywise Has Arrived on ‘It: Welcome to Derry,’ Bob Gray Is Close Behind" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/now-that-pennywise-has-arrived-on-it-welcome-to-derry-bob-gray-is-close-behind-2000690833" target="_blank">Now That Pennywise Has Arrived on ‘It: Welcome to Derry,’ Bob Gray Is Close Behind</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-24 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/doctype.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Doctype magazine: type-in apps for modern computers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/24/doctype-magazine-type-in-apps-for-modern-computers.html" target="_blank">Doctype magazine: type-in apps for modern computers</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-24 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/pride-1-e1739910603281.jpg?fit=1080%2C600&amp;quality=60&amp;ssl=1" alt="Loraine Hutchins has died. She gave bisexual activism its name, shape, and sass" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/24/loraine-hutchins-has-died-she-gave-bisexual-activism-its-name-shape-and-sass.html" target="_blank">Loraine Hutchins has died. She gave bisexual activism its name, shape, and sass</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-24 19:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Jason-Momoa-Fast-X-1280x853.jpg" alt="A New ‘Fast X’ Report Dives Into Its Director Exit and Ending Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/fast-x-alternate-ending-justin-lin-exit-vin-diesel-2000690773" target="_blank">A New ‘Fast X’ Report Dives Into Its Director Exit and Ending Changes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-24 19:00</span>
             </div>
         </div>
 </div>
@@ -350,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 286 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 40 | 📸 With Images: 287 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
