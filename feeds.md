@@ -1,35 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 09:02:17 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-24 10:02:20 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, November 24, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/24/gaza-sports-club-offers-activities-despite-destruction?traffic_source=rss" target="_blank">Gaza sports club offers activities despite destruction</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-24 09:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +90,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/snapchat-starts-age-checks-in-australia-ahead-of-teen-social-media-ban?traffic_source=rss" target="_blank">Snapchat starts age checks in Australia ahead of teen social media ban</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-24 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss" target="_blank">Hamas meet Egypt’s spy chief, says Israel’s attacks on Gaza threaten truce</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-24 03:03</span>
             </div>
         </div>
 </div>
@@ -164,6 +157,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-boot-in-uefi-announcement" target="_blank">AMI and Canonical announce partnership</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-11-24 09:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/stripe-zero-downtime-date-move/en/headerimage/Stripe-DocDB-Header-1763703410327.jpeg" alt="Stripe&#x27;s Zero-Downtime Data Movement Platform Migrates Petabytes with Millisecond Traffic Switches" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -208,20 +210,20 @@
                 <span class="time">2025-11-24 03:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://computer.rip/2025-11-22-RuBee.html" target="_blank">RuBee</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-24 03:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/01/OpenAI-Sam-Altman-at-an-Apple-event--1280x853.jpg" alt="OpenAI’s Smackdown by a German Court Hints at What’s Next for AI and Art" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/openais-smackdown-by-a-german-court-hints-at-whats-next-for-ai-and-art-2000690375" target="_blank">OpenAI’s Smackdown by a German Court Hints at What’s Next for AI and Art</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-24 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/hp-laptop-17-inch-1280x853.jpg" alt="HP Went Full Liquidation on 17″ Laptop (i5, 32GB RAM, 1TB SSD), 71% Off Turns $3K Into Pocket Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +269,6 @@
                 <span class="time">2025-11-23 17:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/shutterstock_2562993133-1280x853.jpg" alt="New X Feature Reveals Many MAGA Patriots on X Are Not Even Based in The U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-x-feature-reveals-many-maga-patriots-on-x-are-not-even-based-in-the-u-s-2000690383" target="_blank">New X Feature Reveals Many MAGA Patriots on X Are Not Even Based in The U.S.</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-23 17:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
