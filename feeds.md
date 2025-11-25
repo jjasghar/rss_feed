@@ -1,42 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 12:02:37 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-25 13:11:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 34 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +48,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/25/nx-s1-5615326/rural-voters-congress-health-care-voting-invest" target="_blank">Democrats plan a new investment in winning rural voters, who&#x27;ve fled the party</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-25 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/ukraine-main_1764075379409_hpMain_4x3t_384.jpg" alt="US official says Ukrainian delegation has agreed with US on peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/us-holds-secret-meetings-russians-abu-dhabi-ukraine/story?id=127840867" target="_blank">US official says Ukrainian delegation has agreed with US on peace deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-25 12:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4321/live/bfd45a10-c9f9-11f0-9fb5-5f3a3703a365.jpg" alt="Ukraine calls for Trump-Zelensky meeting in US this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine calls for Trump-Zelensky meeting in US this week</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-25 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/25/hunger-stalks-gaza-as-un-demands-israel-let-in-more-aid?traffic_source=rss" target="_blank">Hunger stalks Gaza as UN demands Israel let in more aid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-25 12:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Red-Square-DB-251125_1764061923748_hpMain_4x3t_384.jpg" alt="Kremlin, describing &#x27;information frenzy,&#x27; declines to comment on Ukraine negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,47 +102,29 @@
                 <span class="time">2025-11-25 10:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/25/partners-family-members-killed-137-women-each-day-in-2024-un?traffic_source=rss" target="_blank">Partners, family members killed 137 women each day in 2024: UN</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-25 10:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57eb/live/af4e1ba0-c9e9-11f0-9fb5-5f3a3703a365.jpg" alt="US and Russia to hold Ukraine talks in Abu Dhabi after overnight strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss" target="_blank">US and Russia to hold Ukraine talks in Abu Dhabi after overnight strikes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-25 10:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/25/g-s1-99208/china-launches-spacecraft-return-stranded-astronauts" target="_blank">China launches Shenzhou 22 spacecraft to assist in return of 3 stranded astronauts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-25 09:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c56/live/82a60550-c9d9-11f0-9fb5-5f3a3703a365.jpg" alt="Russia and Ukraine trade deadly strikes overnight as US and Russia hold talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss" target="_blank">Russia and Ukraine trade deadly strikes overnight as US and Russia hold talks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-25 08:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69251fcb9e6d78e74ab779df/master/pass/The%20Best%20Speakers%20for%20Kids.png" alt="9 Best Speakers for Kids (2025): Smart, Bluetooth, and Offline Speakers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-kids-speakers/" target="_blank">9 Best Speakers for Kids (2025): Smart, Bluetooth, and Offline Speakers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-25 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/828155/car-influencer-china-ev-youtube-influencer-pay-play" target="_blank">Car influencers love Chinese EVs — and China loves them back</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-25 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6924e6dd9c37f5fc5dd437ce/master/pass/unnamed.png" alt="Wish List 2025: A WIRED Gift Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,29 +161,38 @@
                 <span class="time">2025-11-25 01:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/" target="_blank">Google teams up with Accel to hunt for India’s next AI breakouts</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-25 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-4.57.28-PM-500x500.png" alt="Anthropic introduces cheaper, more powerful, more efficient Opus 4.5 model" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/11/anthropic-introduces-opus-4-5-cuts-api-pricing-and-enables-much-longer-claude-chats/" target="_blank">Anthropic introduces cheaper, more powerful, more efficient Opus 4.5 model</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-24 23:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fidbf8zedfuu1r3ihendg.png" alt="Non-functional Application Requirements: Compliance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cloudsege/non-functional-application-requirements-compliance-1enk" target="_blank">Non-functional Application Requirements: Compliance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-25 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770624&w=600" alt="Taming Async Chaos: Architecture Patterns for Reliable Event-Driven Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/reliable-event-driven-architecture-patterns" target="_blank">Taming Async Chaos: Architecture Patterns for Reliable Event-Driven Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-25 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/X.Org-Server-21.1.21" target="_blank">X.Org Server 21.1.21 Released To Fix Several Regressions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-25 11:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/11/aws-price-predictable-overages/en/headerimage/generatedHeaderImage-1764007638378.jpg" alt="AWS Introduces Flat-Rate Pricing to Eliminate Cloud Cost Overages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,33 +220,6 @@
                 <span class="time">2025-11-25 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sravanikaipa_c5bf5/the-inevitable-cloud-cost-debt-4j82" target="_blank">The Inevitable Cloud Cost Debt</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-25 08:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/11/25/you-re-probably-underutilizing-your-gpus/" target="_blank">You’re probably underutilizing your GPUs</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-11-25 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/allinsightsnews/cloud-fax-intelligence-the-hidden-engine-behind-modern-compliance-4f9h" target="_blank">Cloud Fax Intelligence: The Hidden Engine Behind Modern Compliance</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-25 06:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,15 +241,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/" target="_blank">Is Your Android TV Streaming Box Part of a Botnet?</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2025-11-24 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html" target="_blank">IACR Nullifies Election Because of Lost Decryption Key</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-24 12:03</span>
             </div>
         </div>
 </div>
@@ -352,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
