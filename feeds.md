@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 00:04:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-25 01:29:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764027731558_nn_lja_james_comey_251124_1920x1080-n2a8ph.jpg" alt="Federal judge tosses charges against James Comey and Letitia James" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/federal-judge-tosses-charges-against-james-comey-and-letitia-james-252918341520" target="_blank">Federal judge tosses charges against James Comey and Letitia James</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-24 23:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/24/g-s1-99116/chauncey-billups-portland-trail-blazers-rigged-poker-games" target="_blank">Portland Trail Blazers coach pleads not guilty in rigged poker games case</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-24 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/carnivaldeath_1762746067738_hpMain_4x3t_384.jpg" alt="Anna Kepner&#x27;s death on cruise ship ruled a homicide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/anna-kepner-cruise-ship-death-ruled-homicide/story?id=127712413" target="_blank">Anna Kepner&#x27;s death on cruise ship ruled a homicide</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-24 21:18</span>
             </div>
         </div>
 </div>
@@ -225,6 +224,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/" target="_blank">Is Your Android TV Streaming Box Part of a Botnet?</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-11-24 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html" target="_blank">IACR Nullifies Election Because of Lost Decryption Key</a></span>
                 <span class="feed">Schneier on Security</span>
@@ -236,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/eufy-solocam-1280x853.jpg" alt="Amazon Sells eufy Solar Camera at Break-Even, 50% Off Means No Profit Just to Offload Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-sells-eufy-solar-camera-at-break-even-50-off-means-no-profit-just-to-offload-stock-2000647046" target="_blank">Amazon Sells eufy Solar Camera at Break-Even, 50% Off Means No Profit Just to Offload Stock</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-25 00:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/sora-1280x853.jpg" alt="OpenAI Can’t Legally Use the Word ‘Cameo’ in Sora Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/openai-cant-legally-use-the-word-cameo-in-sora-now-2000690407" target="_blank">OpenAI Can’t Legally Use the Word ‘Cameo’ in Sora Now</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 00:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/move-2-sonos-1280x853.jpg" alt="Sonos Offloads Move 2 at Zero Margin, Portable Speaker Better Than Most Home Systems Goes for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,39 +281,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/sean-duffy.jpg?fit=1693%2C1000&amp;quality=60&amp;ssl=1" alt="Sean Duffy accepts blame for how he dresses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/24/sean-duffy-accepts-blame-for-how-he-dresses.html" target="_blank">Sean Duffy accepts blame for how he dresses</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-24 22:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/olaffix-1280x720.jpg" alt="Soulless Robot Olaf Will Haunt Disney Theme Park In Search Of Friendship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/frozen-olaf-character-roams-disney-parks-2026-2000647055" target="_blank">Soulless Robot Olaf Will Haunt Disney Theme Park In Search Of Friendship</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-24 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAVV8BH46DZW7BTE8YXGGEP0/hero-image.png" alt="Why That $300 Black Friday Laptop Deal Probably Isn’t Worth It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/why-that-300-black-friday-laptop-deal-probably-isnt-worth-it?utm_medium=RSS" target="_blank">Why That $300 Black Friday Laptop Deal Probably Isn’t Worth It</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-24 21:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KATM5Z6YAC1TN4RYFV8ZVSV9/hero-image.png" alt="You Can Get This Budget Dell Latitude Laptop With Microsoft Office on Sale for $275 for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/dell-latitude-microsoft-office-stacksocial-sale-black-friday-2025?utm_medium=RSS" target="_blank">You Can Get This Budget Dell Latitude Laptop With Microsoft Office on Sale for $275 for Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-24 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/psnsale-1280x720.jpg" alt="PlayStation’s Big Black Friday Sale Includes Some Fantastic PS5 Exclusives" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-5-ps5-exclusives-big-black-friday-sale-death-stranding-astro-bot-spider-man-2000646983" target="_blank">PlayStation’s Big Black Friday Sale Includes Some Fantastic PS5 Exclusives</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-24 20:20</span>
             </div>
         </div>
 </div>
@@ -345,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 287 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
