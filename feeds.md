@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 03:22:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-25 04:05:10 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 03:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 04:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/25/elite-capture-how-pakistan-is-losing-6-percent-of-its-gdp-to-corruption?traffic_source=rss" target="_blank">‘Elite capture’: How Pakistan is losing 6 percent of its GDP to corruption</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-25 03:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/25/taliban-says-pakistan-bombed-afghanistan-killing-nine-children-and-a-woman?traffic_source=rss" target="_blank">Taliban says Pakistan bombed Afghanistan, killing nine children and a woman</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-25 02:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/ukraine-air-defense_1764032166001_hpMain_4x3t_384.jpg" alt="Kyiv targeted in large Russian missile attack: Mayor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/kyiv-targeted-large-russian-missile-attack-mayor/story?id=127844820" target="_blank">Kyiv targeted in large Russian missile attack: Mayor</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-25 01:27</span>
             </div>
         </div>
 <div class="story">
@@ -85,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cpd6qd10l94o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky welcomes amendments to proposed peace plan</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-24 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7f8/live/c6a6ff90-c982-11f0-a892-01d657345866.jpg" alt="BBC chairman vows to stay to &#x27;fix&#x27; problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62lr2yjy14o?at_medium=RSS&at_campaign=rss" target="_blank">BBC chairman vows to stay to &#x27;fix&#x27; problems</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-24 22:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aed/live/26bba570-c96f-11f0-8c06-f5d460985095.png" alt="Farage says he&#x27;s &#x27;never directly racially abused anybody&#x27; after school racism claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c87lx0981nro?at_medium=RSS&at_campaign=rss" target="_blank">Farage says he&#x27;s &#x27;never directly racially abused anybody&#x27; after school racism claims</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-24 21:37</span>
             </div>
         </div>
 </div>
@@ -179,6 +174,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/back-up-restore-flatpak-apps/" target="_blank">Backup and Restore Your Flatpak Apps &amp; Settings Between Distro Switch and Reinstalls</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-25 03:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/java-news-roundup-nov17-2025/en/headerimage/java-istock-image-01-1764006593160.jpg" alt="Java News Roundup: Liberica JDK, Jakarta EE, Open Liberty, Quarkus, JDKUpdater, OpenXava, Gradle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -212,15 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/devsecconflict-google-project-zero-ffmpeg" target="_blank">DevSecConflict: How Google Project Zero and FFmpeg Went Viral For All the Wrong Reasons</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-24 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rnhqd34hskbe67hurxw.png" alt="From Zero to Building in Under Two Minutes: Kiro-Powered Laravel Skeleton" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/johnfmorton/from-zero-to-building-in-under-two-minutes-kiro-powered-laravel-skeleton-3d4o" target="_blank">From Zero to Building in Under Two Minutes: Kiro-Powered Laravel Skeleton</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-24 20:40</span>
             </div>
         </div>
 </div>
@@ -270,6 +265,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Microsoft-Office-2024-Home-Business-for-Mac-or-PC-Lifetime-License.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Microsoft Office 2024 just had a quiet little glow-up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/24/microsoft-office-2024-just-had-a-quiet-little-glow-up.html" target="_blank">Microsoft Office 2024 just had a quiet little glow-up</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-25 01:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/eufy-solocam-1280x853.jpg" alt="Amazon Sells eufy Solar Camera at Break-Even, 50% Off Means No Profit Just to Offload Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -294,15 +298,6 @@
                 <span class="title"><a href="https://kotaku.com/sonos-offloads-move-2-at-zero-margin-portable-speaker-better-than-most-home-systems-goes-for-pennies-2000647037" target="_blank">Sonos Offloads Move 2 at Zero Margin, Portable Speaker Better Than Most Home Systems Goes for Pennies</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-24 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/wicked-for-good-universal-pictures-1280x853.jpg" alt="10 Burning Questions We Still Have After ‘Wicked: For Good’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/10-burning-questions-we-still-have-after-wicked-for-good-2000690809" target="_blank">10 Burning Questions We Still Have After ‘Wicked: For Good’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-24 23:06</span>
             </div>
         </div>
 </div>
@@ -360,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 03:22 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 04:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
