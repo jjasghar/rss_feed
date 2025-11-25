@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 02:30:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-25 03:22:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 03:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/25/taliban-says-pakistan-bombed-afghanistan-killing-nine-children-and-a-woman?traffic_source=rss" target="_blank">Taliban says Pakistan bombed Afghanistan, killing nine children and a woman</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-25 02:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764027731558_nn_lja_james_comey_251124_1920x1080-n2a8ph.jpg" alt="Federal judge tosses charges against James Comey and Letitia James" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +103,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c87lx0981nro?at_medium=RSS&at_campaign=rss" target="_blank">Farage says he&#x27;s &#x27;never directly racially abused anybody&#x27; after school racism claims</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-24 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/24/g-s1-99116/chauncey-billups-portland-trail-blazers-rigged-poker-games" target="_blank">Portland Trail Blazers coach pleads not guilty in rigged poker games case</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-24 21:28</span>
             </div>
         </div>
 </div>
@@ -167,6 +170,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gara501/amazon-q-kiro-dev-faj" target="_blank">Amazon Q - Kiro-dev</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-25 03:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/java-news-roundup-nov17-2025/en/headerimage/java-istock-image-01-1764006593160.jpg" alt="Java News Roundup: Liberica JDK, Jakarta EE, Open Liberty, Quarkus, JDKUpdater, OpenXava, Gradle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/java-news-roundup-nov17-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Liberica JDK, Jakarta EE, Open Liberty, Quarkus, JDKUpdater, OpenXava, Gradle</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-25 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-APX-Extra-GPRs-Kernel-Use" target="_blank">Linux Kernel Developers Eye Uses For Extra General Purpose Registers With APX</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-25 01:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/unnamed.png?resize=406%2C232&amp;ssl=1" alt="Google Releases its New Google Sans Flex Font as Open Source" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -191,33 +221,6 @@
                 <span class="title"><a href="https://dev.to/johnfmorton/from-zero-to-building-in-under-two-minutes-kiro-powered-laravel-skeleton-3d4o" target="_blank">From Zero to Building in Under Two Minutes: Kiro-Powered Laravel Skeleton</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-24 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Alex-Gaynor-Rust-Maintainer" target="_blank">Rust For Linux Kernel Co-Maintainer Formally Steps Down</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-24 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770582&w=600" alt="How to Build Real-Time Transaction Monitoring Systems With Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/real-time-transaction-monitoring-streaming-data" target="_blank">How to Build Real-Time Transaction Monitoring Systems With Streaming Data</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-24 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zainudin_noori_293f1d1c1b/complete-toolkit-for-llm-development-1l7o" target="_blank">Complete Toolkit for LLM Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-24 18:52</span>
             </div>
         </div>
 </div>
@@ -248,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/04/88e237b331e115d67ccc24485b4a5f79-1024x577.jpg" alt="Tucker Carlson is Launching His Own Precious Metals Company" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tucker-carlson-is-launching-his-own-precious-metals-company-2000690962" target="_blank">Tucker Carlson is Launching His Own Precious Metals Company</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 02:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/tile-4-pack-1280x853.jpg" alt="Tile Mate 4-Pack Hits Record Low, iPhone and Android Users Get Four Trackers for One AirTag Money" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +303,6 @@
                 <span class="title"><a href="https://gizmodo.com/10-burning-questions-we-still-have-after-wicked-for-good-2000690809" target="_blank">10 Burning Questions We Still Have After ‘Wicked: For Good’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-24 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/sean-duffy.jpg?fit=1693%2C1000&amp;quality=60&amp;ssl=1" alt="Sean Duffy accepts blame for how he dresses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/24/sean-duffy-accepts-blame-for-how-he-dresses.html" target="_blank">Sean Duffy accepts blame for how he dresses</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-24 22:37</span>
             </div>
         </div>
 </div>
@@ -357,8 +360,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 03:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
