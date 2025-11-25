@@ -1,40 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 21:02:15 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-25 22:01:38 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/25/g-s1-99331/realpage-rent-algorithm-limits-settlement" target="_blank">New limits for rent algorithm that prosecutors say lets landlords drive up prices</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-25 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251125-Elissa-Slotkin-ew-100p-1cfdac.jpg" alt="FBI seeks interviews with six Democrats Trump accused of &#x27;seditious behavior&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/fbi-seeks-interviews-six-democrats-trump-accused-seditious-behavior-rcna245880" target="_blank">FBI seeks interviews with six Democrats Trump accused of &#x27;seditious behavior&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-25 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/25/nigerian-schoolgirls-rescued-after-mass-abduction-in-kebbi" target="_blank">Nigerian schoolgirls rescued after mass abduction in Kebbi</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-25 20:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/fbi-2-rt-gmh-251125_1764094046324_hpMain_4x3t_384.jpg" alt="FBI attempting to schedule interviews with 6 Democrats on video posted for troops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,38 +105,38 @@
                 <span class="time">2025-11-25 18:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbd3/live/ad11de10-ca27-11f0-a892-01d657345866.jpg" alt="Farage&#x27;s racism denials are dishonest, says ex-classmate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2dny3r3vyo?at_medium=RSS&at_campaign=rss" target="_blank">Farage&#x27;s racism denials are dishonest, says ex-classmate</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-25 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/2025/11/25/diego-maradona-five-years-on-from-the-death-of-argentinas-football-icon?traffic_source=rss" target="_blank">Diego Maradona: Five years on from the death of Argentina’s football icon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-25 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e204/live/2ad11750-ca17-11f0-a841-3bc77778e0c0.jpg" alt="Justice secretary wants jury trials scrapped except in most serious cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy7vdvrnnvzo?at_medium=RSS&at_campaign=rss" target="_blank">Justice secretary wants jury trials scrapped except in most serious cases</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-25 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/plex1-500x500.png" alt="Plex’s crackdown on free remote streaming access starts this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/plexs-crackdown-on-free-remote-streaming-access-starts-this-week/" target="_blank">Plex’s crackdown on free remote streaming access starts this week</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-25 21:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/25/character-ai-will-offer-interactive-stories-to-kids-instead-of-open-ended-chat/" target="_blank">Character.AI will offer interactive ‘Stories’ to kids instead of open-ended chat</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-25 21:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order" target="_blank">David Sacks tried to kill state AI laws — and it blew up in his face</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-25 21:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/product-ddr5-2up-angle_3-2-all-others-500x500-1764100670.jpeg" alt="GPU prices are coming to earth just as RAM costs shoot into the stratosphere" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,38 +164,29 @@
                 <span class="time">2025-11-25 19:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69252a2710f48b40d2ab69f1/master/pass/Review-%20Alienware%20Aurora%20Gaming%20Desktop.png" alt="Alienware Aurora Gaming Desktop Review: Great Value" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/alienware-aurora-gaming-desktop/" target="_blank">Alienware Aurora Gaming Desktop Review: Great Value</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-25 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2248311596-500x500.jpg" alt="China launches an emergency lifeboat to bring three astronauts back to Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/11/china-launches-an-emergency-lifeboat-to-bring-three-astronauts-back-to-earth/" target="_blank">China launches an emergency lifeboat to bring three astronauts back to Earth</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-25 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision" target="_blank">Wyze’s new security camera watches your yard from inside your home</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-25 18:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-2.1-But-Xilinx" target="_blank">AMDGPU Driver Lacks HDMI 2.1 While AMD-Xilinx Driver Has Some HDMI 2.1 Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-25 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18775168&w=600" alt="Breaking the Chains of the GIL in Python 3.14" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/breaking-the-chains-of-the-gil-in-python" target="_blank">Breaking the Chains of the GIL in Python 3.14</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-25 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqepp08u3v855x17scd0y.gif" alt="Unleashing the Power of Monitoring: Master Your WordPress with New Relic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,24 +223,6 @@
                 <span class="time">2025-11-25 18:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/a2a-amazon-bedrock-agentcore/en/headerimage/generatedHeaderImage-1763835216380.jpg" alt="Amazon Adds A2A Protocol to Bedrock AgentCore for Interoperable Multi-Agent Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/a2a-amazon-bedrock-agentcore/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Amazon Adds A2A Protocol to Bedrock AgentCore for Interoperable Multi-Agent Workflows</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-25 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3rys0doyu4fybkhhhrup.png" alt="ChatGPT Atlas now has DevTools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/chatgpt-atlas-now-has-devtools-35h9" target="_blank">ChatGPT Atlas now has DevTools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-25 17:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Destiny-2-Renegades-Aunor-Jedi-1280x853.jpg" alt="It’s Good That the ‘Destiny 2’ Jedi Proxy Also Kind of Sounds Like They Suck" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/destiny-2-renegades-praxic-order-jedi-star-wars-2000691646" target="_blank">It’s Good That the ‘Destiny 2’ Jedi Proxy Also Kind of Sounds Like They Suck</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAY6MKJ9P33PJKFJ6W7DGM3N/hero-image.png" alt="These Compact Adjustable Dumbbells Are 24% Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/compact-adjustable-dumbbells-deal-black-friday-2025?utm_medium=RSS" target="_blank">These Compact Adjustable Dumbbells Are 24% Off for Black Friday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-25 21:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/EvaGreen-1280x853.jpg" alt="‘Wednesday’ Casts a Goth Icon to Play the Mysterious Aunt Ophelia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +294,6 @@
                 <span class="title"><a href="https://kotaku.com/horses-creepy-horror-game-steam-banned-before-launch-santa-ragione-2000647324" target="_blank">A Creepy Horse Game Was Banned From Steam And No One’s Sure Why</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-25 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAY43QC49W4YSC3J4GAMQX1K/hero-image.png" alt="I&#x27;m Buying This 130W Car Charger This Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/im-buying-this-130w-car-charger-this-black-friday?utm_medium=RSS" target="_blank">I&#x27;m Buying This 130W Car Charger This Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-25 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2357457855.jpg?fit=1000%2C527&amp;quality=60&amp;ssl=1" alt="EU court rules same-sex marriages must be recognized across union" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/25/eu-court-rules-same-sex-marriages-must-be-recognized-across-union.html" target="_blank">EU court rules same-sex marriages must be recognized across union</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-25 18:24</span>
             </div>
         </div>
 </div>
@@ -332,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
