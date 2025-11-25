@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 04:05:10 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-25 05:02:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 04:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +45,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/25/viola-ford-fletcher-survivor-of-1921-tulsa-massacre-dies-age-111?traffic_source=rss" target="_blank">Viola Ford Fletcher, survivor of 1921 Tulsa Massacre, dies age 111</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-25 04:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/25/elite-capture-how-pakistan-is-losing-6-percent-of-its-gdp-to-corruption?traffic_source=rss" target="_blank">‘Elite capture’: How Pakistan is losing 6 percent of its GDP to corruption</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-25 03:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/24/g-s1-99194/houston-tornado-damage" target="_blank">More than 100 homes damaged by tornado near Houston</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-25 03:00</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +93,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/federal-judge-tosses-charges-against-james-comey-and-letitia-james-252918341520" target="_blank">Federal judge tosses charges against James Comey and Letitia James</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-11-24 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/trump-orders-blacklisting-muslim-brotherhood-branches-as-terrorist-groups?traffic_source=rss" target="_blank">Trump orders blacklisting Muslim Brotherhood branches as ‘terrorist’ groups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-24 23:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8fb/live/ca85a5b0-c948-11f0-8a95-4d52567d02bf.jpg" alt="Zelensky welcomes amendments to proposed peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpd6qd10l94o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky welcomes amendments to proposed peace plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-24 22:19</span>
             </div>
         </div>
 </div>
@@ -341,22 +336,13 @@
                 <span class="time">2025-11-24 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/fifteen_years.png" alt="Fifteen Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3172/" target="_blank">Fifteen Years</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-11-24 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 04:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
