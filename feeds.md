@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 17:02:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-25 18:02:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e204/live/2ad11750-ca17-11f0-a841-3bc77778e0c0.jpg" alt="Justice secretary wants jury trials scrapped except in most serious cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy7vdvrnnvzo?at_medium=RSS&at_campaign=rss" target="_blank">Justice secretary wants jury trials scrapped except in most serious cases</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-25 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/25/nx-s1-5619202/a-former-u-s-attorney-offers-a-manual-for-keeping-a-democracy" target="_blank">A former U.S. attorney offers &#x27;A Manual for Keeping a Democracy&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-25 17:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e204/live/2ad11750-ca17-11f0-a841-3bc77778e0c0.jpg" alt="Jury trials could be scrapped except in most serious cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +97,29 @@
                 <span class="time">2025-11-25 15:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/25/why-the-uks-2025-budget-has-rachel-reeves-facing-an-impossible?traffic_source=rss" target="_blank">Why the UK’s 2025 budget has Rachel Reeves facing an ‘impossible trilemma’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-25 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/25/nx-s1-5615326/rural-voters-congress-health-care-voting-invest" target="_blank">Democrats plan a new investment in winning rural voters, who&#x27;ve fled the party</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-25 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/827914/best-early-black-friday-headphone-earbud-deals-2025" target="_blank">Bose and Sony headphones are up to $200 off in the run-up to Black Friday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-25 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2154521423-500x500.jpg" alt="RealPage agrees to change algorithm so landlords can’t collude on price hikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/realpage-agrees-to-change-algorithm-so-landlords-cant-collude-on-price-hikes/" target="_blank">RealPage agrees to change algorithm so landlords can’t collude on price hikes</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-25 17:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +156,20 @@
                 <span class="time">2025-11-25 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69251fcb9e6d78e74ab779df/master/pass/The%20Best%20Speakers%20for%20Kids.png" alt="9 Best Speakers for Kids (2025): Smart, Bluetooth, and Offline Speakers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-kids-speakers/" target="_blank">9 Best Speakers for Kids (2025): Smart, Bluetooth, and Offline Speakers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-25 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/828155/car-influencer-china-ev-youtube-influencer-pay-play" target="_blank">Car influencers love Chinese EVs — and China loves them back</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-25 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3rys0doyu4fybkhhhrup.png" alt="ChatGPT Atlas now has DevTools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/chatgpt-atlas-now-has-devtools-35h9" target="_blank">ChatGPT Atlas now has DevTools</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-25 17:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqwwxb312q4jpnj34f3m9.png" alt="From Hooks To Actions: What&#x27;s New In React 19" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -169,6 +177,15 @@
                 <span class="title"><a href="https://dev.to/namingthingsishard/from-hooks-to-actions-whats-new-in-react-19-4gn4" target="_blank">From Hooks To Actions: What&#x27;s New In React 19</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-25 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18775070&w=600" alt="Integrating Lakeflow Connect With PostgreSQL: A Developer’s Complete Hands-On Guide From the Field" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/lakeflow-connect-postgresql-integration-tutorial" target="_blank">Integrating Lakeflow Connect With PostgreSQL: A Developer’s Complete Hands-On Guide From the Field</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-25 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +213,6 @@
                 <span class="title"><a href="https://itsfoss.com/black-friday-linux-2025/" target="_blank">Black Friday Deals for Linux Users 2025 [Continually Updated With New Entries]</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-11-25 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18772654&w=600" alt="How to Test POST Requests With REST Assured Java for API Testing: Part I" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/test-post-requests-rest-assured-java" target="_blank">How to Test POST Requests With REST Assured Java for API Testing: Part I</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-25 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoek9grlp6rkxtf9hnz6.png" alt="NodeJS on Ubuntu: Installation, Setup, and First Steps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pablojavierjimenez/nodejs-on-ubuntu-installation-setup-and-first-steps-hnl" target="_blank">NodeJS on Ubuntu: Installation, Setup, and First Steps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-25 16:00</span>
             </div>
         </div>
 </div>
@@ -244,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/UncleOwen-1280x853.jpg" alt="Please Don’t Ask Joel Edgerton to Sign His ‘Star Wars’ Corpse, That’s Not Even His Body" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/please-dont-ask-joel-edgerton-to-sign-his-star-wars-corpse-thats-not-even-his-body-2000691496" target="_blank">Please Don’t Ask Joel Edgerton to Sign His ‘Star Wars’ Corpse, That’s Not Even His Body</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/08/DLR_Walt-Disney_Animatronic.jpg?fit=1200%2C646&amp;quality=60&amp;ssl=1" alt="Defunctland returns with an even deeper dive into Disney&#x27;s ill-fated animatronic ambitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/25/defunctland-returns-with-an-even-deeper-dive-into-disneys-ill-fated-animatronic-ambitions.html" target="_blank">Defunctland returns with an even deeper dive into Disney&#x27;s ill-fated animatronic ambitions</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-25 17:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Zootopia-2-review-1280x853.jpg" alt="‘Zootopia 2’ Was Never Going to Match ‘Zootopia’, and That’s Okay" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +297,6 @@
                 <span class="time">2025-11-25 15:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/tesla.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Dutch regulators tell Tesla fans to stuff it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/25/dutch-regulators-tell-tesla-fans-to-stuff-it.html" target="_blank">Dutch regulators tell Tesla fans to stuff it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-25 15:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/solar-system-1280x853.jpg" alt="Our Solar System Is Moving Faster Than It’s Supposed To, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/our-solar-system-is-moving-faster-than-its-supposed-to-study-suggests-2000691001" target="_blank">Our Solar System Is Moving Faster Than It’s Supposed To, Study Suggests</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-25 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
