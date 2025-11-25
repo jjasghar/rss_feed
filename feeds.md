@@ -1,38 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 13:11:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-25 14:01:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +98,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/827225/8bitdo-ultimate-2-bluetooth-controller-black-friday-deal-sale-2025" target="_blank">One of our favorite Switch 2 controllers is 20 percent off right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-25 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69251fcb9e6d78e74ab779df/master/pass/The%20Best%20Speakers%20for%20Kids.png" alt="9 Best Speakers for Kids (2025): Smart, Bluetooth, and Offline Speakers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -152,20 +151,20 @@
                 <span class="time">2025-11-25 04:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21345733/best-noise-canceling-headphones" target="_blank">The best noise-canceling headphones to buy right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-25 01:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770618&w=600" alt="Effective Strategies for AWS Cost Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/effective-strategies-for-aws-cost-optimization" target="_blank">Effective Strategies for AWS Cost Optimization</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-25 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fidbf8zedfuu1r3ihendg.png" alt="Non-functional Application Requirements: Compliance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +210,6 @@
                 <span class="time">2025-11-25 10:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/sauce-labs-ai-testing/en/headerimage/header-1763849927215.jpeg" alt="Sauce Labs Launches AI Tool for Faster Test Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/sauce-labs-ai-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Sauce Labs Launches AI Tool for Faster Test Analysis</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-25 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Screenshot-Knorr-YouTube.jpg?fit=1080%2C643&amp;quality=60&amp;ssl=1" alt="Nightmare 1980s ad for Knorr soup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/25/nightmare-1980s-ad-for-knorr-soup.html" target="_blank">Nightmare 1980s ad for Knorr soup</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-25 12:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/farcrytvshow.jpg" alt="A Far Cry TV Show From Alien: Earth Creator Is Really Happening" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +292,6 @@
                 <span class="time">2025-11-25 04:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/04/88e237b331e115d67ccc24485b4a5f79-1024x577.jpg" alt="Tucker Carlson is Launching His Own Precious Metals Company" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tucker-carlson-is-launching-his-own-precious-metals-company-2000690962" target="_blank">Tucker Carlson is Launching His Own Precious Metals Company</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-25 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
