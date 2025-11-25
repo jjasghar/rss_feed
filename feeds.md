@@ -1,28 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 14:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-25 15:01:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/25/why-the-uks-2025-budget-has-rachel-reeves-facing-an-impossible?traffic_source=rss" target="_blank">Why the UK’s 2025 budget has Rachel Reeves facing an ‘impossible trilemma’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-25 14:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,20 +105,20 @@
                 <span class="time">2025-11-25 10:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc4/live/13ba8a40-c9d3-11f0-8c1f-e1fe6e7ce046.jpg" alt="Reeves urges Labour MPs to unite behind the Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gpmz8gxwgo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves urges Labour MPs to unite behind the Budget</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-25 10:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685adfdf365370cd8ab52975/master/pass/best%20cheap%20phones.png" alt="8 Best Cheap Phones (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-cheap-phones/" target="_blank">8 Best Cheap Phones (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-25 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,6 +147,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/image-3-500x500.jpeg" alt="Formation of oceans within icy moons could cause the waters to boil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/formation-of-oceans-within-icy-moons-could-cause-the-waters-to-boil/" target="_blank">Formation of oceans within icy moons could cause the waters to boil</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-25 12:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6924e6dd9c37f5fc5dd437ce/master/pass/unnamed.png" alt="Wish List 2025: A WIRED Gift Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -133,29 +164,47 @@
                 <span class="time">2025-11-25 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="20% Off LG Promo Code &amp; Coupons | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lg-promo-code/" target="_blank">20% Off LG Promo Code &amp; Coupons | November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-25 06:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive/" target="_blank">India’s gig workers win legal status, but access to social security remains elusive</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-25 04:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/11/25/essential-ingredients-for-enterprise-ai-success/" target="_blank">Essential ingredients for enterprise AI success</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-11-25 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/tuxedo-computers-shelves-arm-notebook/" target="_blank">The Laptop That Wasn&#x27;t: TUXEDO Computers Shelves Linux ARM Notebook Plans</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-25 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jarvisscript/fast-and-furious-xxv-the-missing-modem-3ng9" target="_blank">Fast and Furious XXV the Missing Modem.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-25 14:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/" target="_blank">Apt Rust requirement raises questions</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-25 14:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770618&w=600" alt="Effective Strategies for AWS Cost Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,42 +221,6 @@
                 <span class="title"><a href="https://dev.to/cloudsege/non-functional-application-requirements-compliance-1enk" target="_blank">Non-functional Application Requirements: Compliance</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-25 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770624&w=600" alt="Taming Async Chaos: Architecture Patterns for Reliable Event-Driven Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/reliable-event-driven-architecture-patterns" target="_blank">Taming Async Chaos: Architecture Patterns for Reliable Event-Driven Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-25 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/X.Org-Server-21.1.21" target="_blank">X.Org Server 21.1.21 Released To Fix Several Regressions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-25 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/aws-price-predictable-overages/en/headerimage/generatedHeaderImage-1764007638378.jpg" alt="AWS Introduces Flat-Rate Pricing to Eliminate Cloud Cost Overages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/aws-price-predictable-overages/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Flat-Rate Pricing to Eliminate Cloud Cost Overages</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-25 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elvisans/le-potentiel-role-de-dieu-dans-notre-sort-pensee-libre-pt-ii-3cje" target="_blank">Le potentiel rôle de Dieu dans notre sort (Pensée libre Pt II)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-25 10:52</span>
             </div>
         </div>
 </div>
@@ -238,6 +251,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/solar-system-1280x853.jpg" alt="Our Solar System Is Moving Faster Than It’s Supposed To, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/our-solar-system-is-moving-faster-than-its-supposed-to-study-suggests-2000691001" target="_blank">Our Solar System Is Moving Faster Than It’s Supposed To, Study Suggests</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2358884747-e1764081451237.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Secretary of War says Boy Scouts no longer manly enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/25/secretary-of-war-says-boy-scouts-no-longer-manly-enough.html" target="_blank">Secretary of War says Boy Scouts no longer manly enough</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-25 14:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Screenshot-Knorr-YouTube.jpg?fit=1080%2C643&amp;quality=60&amp;ssl=1" alt="Nightmare 1980s ad for Knorr soup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +305,6 @@
                 <span class="time">2025-11-25 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Texas--1280x853.jpg" alt="Data Centers in Texas Could Lead to Blackouts in the Middle of Winter, Group Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/data-centers-in-texas-could-lead-to-blackouts-in-the-middle-of-winter-group-warns-2000691060" target="_blank">Data Centers in Texas Could Lead to Blackouts in the Middle of Winter, Group Warns</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-25 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/vitruvian-man-1280x903.jpg" alt="The ‘Genesis Mission’: Here’s What’s in Trump’s Most Grandiose AI Executive Order Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-genesis-mission-2000691153" target="_blank">The ‘Genesis Mission’: Here’s What’s in Trump’s Most Grandiose AI Executive Order Yet</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-25 04:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,22 +328,13 @@
                 <span class="time">2025-11-24 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/24/the-ol-factory" target="_blank">The Ol&#x27; Factory</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-24 14:17</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
