@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 11:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-25 12:02:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -162,6 +171,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/11/aws-price-predictable-overages/en/headerimage/generatedHeaderImage-1764007638378.jpg" alt="AWS Introduces Flat-Rate Pricing to Eliminate Cloud Cost Overages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/aws-price-predictable-overages/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Flat-Rate Pricing to Eliminate Cloud Cost Overages</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-25 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,20 +224,20 @@
                 <span class="time">2025-11-25 06:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/" target="_blank">Most Stable Raspberry Pi? 81% Better NTP with Thermal Management</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-25 06:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/four-ways-ai-is-being-used-to-strengthen-democracies-worldwide.html" target="_blank">Four Ways AI Is Being Used to Strengthen Democracies Worldwide</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-25 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -243,6 +261,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/farcrytvshow.jpg" alt="A Far Cry TV Show From Alien: Earth Creator Is Really Happening" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/far-cry-tv-show-alien-earth-hulu-disney-rob-mac-2000647139" target="_blank">A Far Cry TV Show From Alien: Earth Creator Is Really Happening</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-25 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/nothing-headphone-review-1-1280x853.jpg" alt="Gizmodo Senior Writer James Pero’s 8 Favorite Tech Gifts of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/gizmodo-senior-writer-james-pero-favorite-tech-gifts-of-2025-2000689585" target="_blank">Gizmodo Senior Writer James Pero’s 8 Favorite Tech Gifts of 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Flash-Keaton-Batman-header-1280x853.jpg" alt="Why Does This Michael Keaton Batman Figure Look Like That?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +313,6 @@
                 <span class="title"><a href="https://gizmodo.com/tucker-carlson-is-launching-his-own-precious-metals-company-2000690962" target="_blank">Tucker Carlson is Launching His Own Precious Metals Company</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-25 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/tile-4-pack-1280x853.jpg" alt="Tile Mate 4-Pack Hits Record Low, iPhone and Android Users Get Four Trackers for One AirTag Money" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tile-mate-4-pack-hits-record-low-iphone-and-android-users-get-four-trackers-for-one-airtag-money-2000647050" target="_blank">Tile Mate 4-Pack Hits Record Low, iPhone and Android Users Get Four Trackers for One AirTag Money</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-25 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Microsoft-Office-2024-Home-Business-for-Mac-or-PC-Lifetime-License.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Microsoft Office 2024 just had a quiet little glow-up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/24/microsoft-office-2024-just-had-a-quiet-little-glow-up.html" target="_blank">Microsoft Office 2024 just had a quiet little glow-up</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-25 01:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
