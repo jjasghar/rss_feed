@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 19:01:51 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-25 20:01:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fa8/live/899ef540-ca17-11f0-a841-3bc77778e0c0.jpg" alt="Over 21s to get £12.71 an hour as minimum wage increased" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn41v89xq4go?at_medium=RSS&at_campaign=rss" target="_blank">Over 21s to get £12.71 an hour as minimum wage increased</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-25 18:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +98,20 @@
                 <span class="time">2025-11-25 17:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e204/live/2ad11750-ca17-11f0-a841-3bc77778e0c0.jpg" alt="Jury trials could be scrapped except in most serious cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy7vdvrnnvzo?at_medium=RSS&at_campaign=rss" target="_blank">Jury trials could be scrapped except in most serious cases</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-25 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6925cc9ed9fb5a78e4faab65/master/pass/GettyImages-2246547356.jpg" alt="ICE Offers Up to $280 Million to Immigrant-Tracking ‘Bounty Hunter’ Firms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ice-bounty-hunter-spy-program/" target="_blank">ICE Offers Up to $280 Million to Immigrant-Tracking ‘Bounty Hunter’ Firms</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-25 19:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69252a2710f48b40d2ab69f1/master/pass/Review-%20Alienware%20Aurora%20Gaming%20Desktop.png" alt="Alienware Aurora Gaming Desktop Review: Great Value" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +157,29 @@
                 <span class="time">2025-11-25 17:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/828254/stranger-things-season-5-netflix-tentpoles-future" target="_blank">Stranger Things is ending, and so is Netflix&amp;#8217;s reliance on tentpole shows</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-25 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqepp08u3v855x17scd0y.gif" alt="Unleashing the Power of Monitoring: Master Your WordPress with New Relic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/newrelic/unleashing-the-power-of-monitoring-master-your-wordpress-with-new-relic-1gjg" target="_blank">Unleashing the Power of Monitoring: Master Your WordPress with New Relic</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-25 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/giga-computing-r284" target="_blank">Giga Computing R284-A92-AAL1: A Reliable 2U Rack Server For Intel Xeon 6900 Series</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-25 19:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +216,6 @@
                 <span class="time">2025-11-25 17:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/bb969dc7-8157-4d70-a598-b355cbb99ad7_822x532.png" alt="Holiday gift ideas for techies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/copy-holiday-gift-ideas-for-techies-2025" target="_blank">Holiday gift ideas for techies</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-11-25 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqwwxb312q4jpnj34f3m9.png" alt="From Hooks To Actions: What&#x27;s New In React 19" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/namingthingsishard/from-hooks-to-actions-whats-new-in-react-19-4gn4" target="_blank">From Hooks To Actions: What&#x27;s New In React 19</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-25 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +236,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Star-Wars-Starfighter-Day-1-1280x853.jpg" alt="We Just Got a Tiny New Look at ‘Star Wars: Starfighter’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-starfighter-new-ship-imaage-shawn-levy-2000691642" target="_blank">We Just Got a Tiny New Look at ‘Star Wars: Starfighter’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/horseseses-1280x720.jpg" alt="A Creepy Horse Game Was Banned From Steam And No One’s Sure Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/horses-creepy-horror-game-steam-banned-before-launch-santa-ragione-2000647324" target="_blank">A Creepy Horse Game Was Banned From Steam And No One’s Sure Why</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-25 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAY43QC49W4YSC3J4GAMQX1K/hero-image.png" alt="I&#x27;m Buying This 130W Car Charger This Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/im-buying-this-130w-car-charger-this-black-friday?utm_medium=RSS" target="_blank">I&#x27;m Buying This 130W Car Charger This Black Friday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-25 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2357457855.jpg?fit=1000%2C527&amp;quality=60&amp;ssl=1" alt="EU court rules same-sex marriages must be recognized across union" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/25/eu-court-rules-same-sex-marriages-must-be-recognized-across-union.html" target="_blank">EU court rules same-sex marriages must be recognized across union</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-25 18:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KAY1JJ04ZQ2F1X1Z7FKR8FZS/hero-image.jpg" alt="The Base Amazon Kindle Is Down to $80 for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -256,42 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/please-dont-ask-joel-edgerton-to-sign-his-star-wars-corpse-thats-not-even-his-body-2000691496" target="_blank">Please Don’t Ask Joel Edgerton to Sign His ‘Star Wars’ Corpse, That’s Not Even His Body</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-25 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/08/DLR_Walt-Disney_Animatronic.jpg?fit=1200%2C646&amp;quality=60&amp;ssl=1" alt="Defunctland returns with an even deeper dive into Disney&#x27;s ill-fated animatronic ambitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/25/defunctland-returns-with-an-even-deeper-dive-into-disneys-ill-fated-animatronic-ambitions.html" target="_blank">Defunctland returns with an even deeper dive into Disney&#x27;s ill-fated animatronic ambitions</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-25 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Zootopia-2-review-1280x853.jpg" alt="‘Zootopia 2’ Was Never Going to Match ‘Zootopia’, and That’s Okay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/zootopia-2-movie-review-disney-animation-2000686170" target="_blank">‘Zootopia 2’ Was Never Going to Match ‘Zootopia’, and That’s Okay</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-25 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/dog-heal-1280x720.jpg" alt="This Dog Heals Better Than Most Of My Marvel Rivals Teammates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvel-rivals-dog-healer-twitch-streamer-2000647271" target="_blank">This Dog Heals Better Than Most Of My Marvel Rivals Teammates</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-25 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/Boeings_Starliner_crew_ship_approaches_the_space_station_iss067e066735_cropped.jpg?fit=1280%2C884&amp;quality=60&amp;ssl=1" alt="After stranding astronauts, Boeing Starliner&#x27;s next mission will only carry cargo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/25/after-stranding-astronauts-boeing-starliners-next-mission-will-only-carry-cargo.html" target="_blank">After stranding astronauts, Boeing Starliner&#x27;s next mission will only carry cargo</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-25 16:20</span>
             </div>
         </div>
 </div>
@@ -331,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
