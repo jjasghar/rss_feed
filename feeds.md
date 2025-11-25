@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 20:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-25 21:02:15 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/fbi-2-rt-gmh-251125_1764094046324_hpMain_4x3t_384.jpg" alt="FBI attempting to schedule interviews with 6 Democrats on video posted for troops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/fbi-attempting-schedule-interviews-6-members-congress-made/story?id=127868580" target="_blank">FBI attempting to schedule interviews with 6 Democrats on video posted for troops</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-25 19:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fa8/live/899ef540-ca17-11f0-a841-3bc77778e0c0.jpg" alt="Over 21s to get £12.71 an hour as minimum wage increased" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +104,29 @@
                 <span class="time">2025-11-25 17:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/25/nx-s1-5619202/a-former-u-s-attorney-offers-a-manual-for-keeping-a-democracy" target="_blank">A former U.S. attorney offers &#x27;A Manual for Keeping a Democracy&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-25 17:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/product-ddr5-2up-angle_3-2-all-others-500x500-1764100670.jpeg" alt="GPU prices are coming to earth just as RAM costs shoot into the stratosphere" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/spiking-memory-prices-mean-that-it-is-once-again-a-horrible-time-to-build-a-pc/" target="_blank">GPU prices are coming to earth just as RAM costs shoot into the stratosphere</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-25 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69261056a68a747602c48e98/master/pass/The%20Best%20Deals%20from%20Huckberry's%20Black%20Friday%20Sale.png" alt="The Best Deals from Huckberry&#x27;s 2025 Black Friday Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/huckberry-black-friday-sale-2025/" target="_blank">The Best Deals from Huckberry&#x27;s 2025 Black Friday Sale</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-25 20:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6925cc9ed9fb5a78e4faab65/master/pass/GettyImages-2246547356.jpg" alt="ICE Offers Up to $280 Million to Immigrant-Tracking ‘Bounty Hunter’ Firms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +161,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision" target="_blank">Wyze’s new security camera watches your yard from inside your home</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-25 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/827914/best-early-black-friday-headphone-earbud-deals-2025" target="_blank">Bose and Sony headphones are up to $200 off in the run-up to Black Friday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-25 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2154521423-500x500.jpg" alt="RealPage agrees to change algorithm so landlords can’t collude on price hikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/realpage-agrees-to-change-algorithm-so-landlords-cant-collude-on-price-hikes/" target="_blank">RealPage agrees to change algorithm so landlords can’t collude on price hikes</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-25 17:51</span>
             </div>
         </div>
 </div>
@@ -236,11 +242,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/EvaGreen-1280x853.jpg" alt="‘Wednesday’ Casts a Goth Icon to Play the Mysterious Aunt Ophelia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wednesday-casts-a-goth-icon-to-play-the-mysterious-aunt-ophelia-2000691608" target="_blank">‘Wednesday’ Casts a Goth Icon to Play the Mysterious Aunt Ophelia</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Star-Wars-Starfighter-Day-1-1280x853.jpg" alt="We Just Got a Tiny New Look at ‘Star Wars: Starfighter’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/star-wars-starfighter-new-ship-imaage-shawn-levy-2000691642" target="_blank">We Just Got a Tiny New Look at ‘Star Wars: Starfighter’</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KA1DP8B52AA52F7Z8RWAPJJP/hero-image.png" alt="The Garmin Forerunner 265 and 965 Have Never Been Priced This Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/garmin-forerunner-265-and-965-sales-black-friday-2025?utm_medium=RSS" target="_blank">The Garmin Forerunner 265 and 965 Have Never Been Priced This Low</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-25 20:00</span>
             </div>
         </div>
@@ -269,24 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/25/eu-court-rules-same-sex-marriages-must-be-recognized-across-union.html" target="_blank">EU court rules same-sex marriages must be recognized across union</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-25 18:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAY1JJ04ZQ2F1X1Z7FKR8FZS/hero-image.jpg" alt="The Base Amazon Kindle Is Down to $80 for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-base-kindle-is-down-to-80-dollars-for-black-friday?utm_medium=RSS" target="_blank">The Base Amazon Kindle Is Down to $80 for Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-25 18:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/UncleOwen-1280x853.jpg" alt="Please Don’t Ask Joel Edgerton to Sign His ‘Star Wars’ Corpse, That’s Not Even His Body" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/please-dont-ask-joel-edgerton-to-sign-his-star-wars-corpse-thats-not-even-his-body-2000691496" target="_blank">Please Don’t Ask Joel Edgerton to Sign His ‘Star Wars’ Corpse, That’s Not Even His Body</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-25 18:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
