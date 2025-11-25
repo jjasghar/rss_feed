@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 16:01:53 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-11-25 17:02:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 13 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e204/live/2ad11750-ca17-11f0-a841-3bc77778e0c0.jpg" alt="Jury trials could be scrapped except in most serious cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy7vdvrnnvzo?at_medium=RSS&at_campaign=rss" target="_blank">Jury trials could be scrapped except in most serious cases</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-25 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/25/g-s1-98741/syria-displaced-return-foreign-fighters-uyghurs" target="_blank">Syrians displaced by war are returning to find homes occupied by foreign fighters</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-25 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/25/us-backed-ghf-aid-mission-in-gaza-ends-a-timeline-of-violence?traffic_source=rss" target="_blank">US-backed GHF ‘aid mission’ in Gaza ends – a timeline of violence</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-25 15:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/25/jacob-zuma-daughter-accused-tricking-men-fighting-for-russia-in-ukraine" target="_blank">Jacob Zuma’s daughter accused of tricking men into fighting for Russia in Ukraine</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-25 15:13</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -65,42 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/25/nx-s1-5615326/rural-voters-congress-health-care-voting-invest" target="_blank">Democrats plan a new investment in winning rural voters, who&#x27;ve fled the party</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-25 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/ukraine-main_1764075379409_hpMain_4x3t_384.jpg" alt="US official says Ukrainian delegation has agreed with US on peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/us-holds-secret-meetings-russians-abu-dhabi-ukraine/story?id=127840867" target="_blank">US official says Ukrainian delegation has agreed with US on peace deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-25 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4321/live/bfd45a10-c9f9-11f0-9fb5-5f3a3703a365.jpg" alt="Ukraine calls for Trump-Zelensky meeting in US this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine calls for Trump-Zelensky meeting in US this week</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-25 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/25/hunger-stalks-gaza-as-un-demands-israel-let-in-more-aid?traffic_source=rss" target="_blank">Hunger stalks Gaza as UN demands Israel let in more aid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-25 12:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Red-Square-DB-251125_1764061923748_hpMain_4x3t_384.jpg" alt="Kremlin, describing &#x27;information frenzy,&#x27; declines to comment on Ukraine negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/kremlin-describing-information-frenzy-declines-detail-moscows-view/story?id=127852942" target="_blank">Kremlin, describing &#x27;information frenzy,&#x27; declines to comment on Ukraine negotiations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-25 10:56</span>
             </div>
         </div>
 </div>
@@ -168,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqwwxb312q4jpnj34f3m9.png" alt="From Hooks To Actions: What&#x27;s New In React 19" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/namingthingsishard/from-hooks-to-actions-whats-new-in-react-19-4gn4" target="_blank">From Hooks To Actions: What&#x27;s New In React 19</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-25 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/" target="_blank">Why developers still flock to Python: Guido van Rossum on readability, AI, and the future of programming</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-11-25 17:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -186,39 +199,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18772654&w=600" alt="How to Test POST Requests With REST Assured Java for API Testing: Part I" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/test-post-requests-rest-assured-java" target="_blank">How to Test POST Requests With REST Assured Java for API Testing: Part I</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoek9grlp6rkxtf9hnz6.png" alt="NodeJS on Ubuntu: Installation, Setup, and First Steps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pablojavierjimenez/nodejs-on-ubuntu-installation-setup-and-first-steps-hnl" target="_blank">NodeJS on Ubuntu: Installation, Setup, and First Steps</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-25 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Uniwill-TUXEDO-Add-On-Patches" target="_blank">Improved Upstream Kernel Support For TUXEDO Laptops Being Worked On</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-25 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/tuxedo-computers-shelves-arm-notebook/" target="_blank">The Laptop That Wasn&#x27;t: TUXEDO Computers Shelves Linux ARM Notebook Plans</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-25 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jarvisscript/fast-and-furious-xxv-the-missing-modem-3ng9" target="_blank">Fast and Furious XXV the Missing Modem.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-25 14:53</span>
             </div>
         </div>
 </div>
@@ -250,6 +245,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Zootopia-2-review-1280x853.jpg" alt="‘Zootopia 2’ Was Never Going to Match ‘Zootopia’, and That’s Okay" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/zootopia-2-movie-review-disney-animation-2000686170" target="_blank">‘Zootopia 2’ Was Never Going to Match ‘Zootopia’, and That’s Okay</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/dog-heal-1280x720.jpg" alt="This Dog Heals Better Than Most Of My Marvel Rivals Teammates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marvel-rivals-dog-healer-twitch-streamer-2000647271" target="_blank">This Dog Heals Better Than Most Of My Marvel Rivals Teammates</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-25 16:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/Boeings_Starliner_crew_ship_approaches_the_space_station_iss067e066735_cropped.jpg?fit=1280%2C884&amp;quality=60&amp;ssl=1" alt="After stranding astronauts, Boeing Starliner&#x27;s next mission will only carry cargo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/25/after-stranding-astronauts-boeing-starliners-next-mission-will-only-carry-cargo.html" target="_blank">After stranding astronauts, Boeing Starliner&#x27;s next mission will only carry cargo</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-25 16:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2016/06/v1ag43r0x04hwr0peehv.jpg" alt="Persona Director Says ‘JRPG 3.0’ Is Coming To Re-Shape The Genre ‘At A Fundamental Level’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -276,38 +298,20 @@
                 <span class="time">2025-11-25 14:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2358884747-e1764081451237.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Secretary of War says Boy Scouts no longer manly enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/25/secretary-of-war-says-boy-scouts-no-longer-manly-enough.html" target="_blank">Secretary of War says Boy Scouts no longer manly enough</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-25 14:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Screenshot-Knorr-YouTube.jpg?fit=1080%2C643&amp;quality=60&amp;ssl=1" alt="Nightmare 1980s ad for Knorr soup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/25/nightmare-1980s-ad-for-knorr-soup.html" target="_blank">Nightmare 1980s ad for Knorr soup</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-25 12:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/farcrytvshow.jpg" alt="A Far Cry TV Show From Alien: Earth Creator Is Really Happening" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/far-cry-tv-show-alien-earth-hulu-disney-rob-mac-2000647139" target="_blank">A Far Cry TV Show From Alien: Earth Creator Is Really Happening</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-25 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1764042858-20251125.png" alt="Saturday Morning Breakfast Cereal - Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/life-8" target="_blank">Saturday Morning Breakfast Cereal - Life</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-25 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5708.png" alt="The Ignominius Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -317,22 +321,13 @@
                 <span class="time">2025-11-25 02:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1763688697-20251124_edit.png" alt="Saturday Morning Breakfast Cereal - Last" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/last" target="_blank">Saturday Morning Breakfast Cereal - Last</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-24 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
