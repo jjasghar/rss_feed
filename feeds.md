@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 15:01:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-25 16:01:53 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +109,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/828254/stranger-things-season-5-netflix-tentpoles-future" target="_blank">Stranger Things is ending, and so is Netflix&amp;#8217;s reliance on tentpole shows</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/25/speechify-adds-voice-typing-and-voice-assistant-to-its-chrome-extension/" target="_blank">Speechify adds voice typing and voice assistant to its Chrome extension</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/685adfdf365370cd8ab52975/master/pass/best%20cheap%20phones.png" alt="8 Best Cheap Phones (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -146,24 +162,6 @@
                 <span class="time">2025-11-25 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/image-3-500x500.jpeg" alt="Formation of oceans within icy moons could cause the waters to boil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/formation-of-oceans-within-icy-moons-could-cause-the-waters-to-boil/" target="_blank">Formation of oceans within icy moons could cause the waters to boil</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-25 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6924e6dd9c37f5fc5dd437ce/master/pass/unnamed.png" alt="Wish List 2025: A WIRED Gift Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/wish-list-2025/" target="_blank">Wish List 2025: A WIRED Gift Guide</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-25 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,6 +180,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/black-friday-linux-2025/" target="_blank">Black Friday Deals for Linux Users 2025 [Continually Updated With New Entries]</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-25 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpoek9grlp6rkxtf9hnz6.png" alt="NodeJS on Ubuntu: Installation, Setup, and First Steps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pablojavierjimenez/nodejs-on-ubuntu-installation-setup-and-first-steps-hnl" target="_blank">NodeJS on Ubuntu: Installation, Setup, and First Steps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Uniwill-TUXEDO-Add-On-Patches" target="_blank">Improved Upstream Kernel Support For TUXEDO Laptops Being Worked On</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-25 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/news/tuxedo-computers-shelves-arm-notebook/" target="_blank">The Laptop That Wasn&#x27;t: TUXEDO Computers Shelves Linux ARM Notebook Plans</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-11-25 14:57</span>
@@ -194,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/jarvisscript/fast-and-furious-xxv-the-missing-modem-3ng9" target="_blank">Fast and Furious XXV the Missing Modem.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-25 14:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/" target="_blank">Apt Rust requirement raises questions</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-25 14:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770618&w=600" alt="Effective Strategies for AWS Cost Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/effective-strategies-for-aws-cost-optimization" target="_blank">Effective Strategies for AWS Cost Optimization</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-25 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fidbf8zedfuu1r3ihendg.png" alt="Non-functional Application Requirements: Compliance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cloudsege/non-functional-application-requirements-compliance-1enk" target="_blank">Non-functional Application Requirements: Compliance</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-25 12:58</span>
             </div>
         </div>
 </div>
@@ -251,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2016/06/v1ag43r0x04hwr0peehv.jpg" alt="Persona Director Says ‘JRPG 3.0’ Is Coming To Re-Shape The Genre ‘At A Fundamental Level’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/persona-director-says-jrpg-3-0-is-coming-to-re-shape-the-genre-at-a-fundamental-level-2000647233" target="_blank">Persona Director Says ‘JRPG 3.0’ Is Coming To Re-Shape The Genre ‘At A Fundamental Level’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-25 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/tesla.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Dutch regulators tell Tesla fans to stuff it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/25/dutch-regulators-tell-tesla-fans-to-stuff-it.html" target="_blank">Dutch regulators tell Tesla fans to stuff it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-25 15:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/solar-system-1280x853.jpg" alt="Our Solar System Is Moving Faster Than It’s Supposed To, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,24 +303,6 @@
                 <span class="time">2025-11-25 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/nothing-headphone-review-1-1280x853.jpg" alt="Gizmodo Senior Writer James Pero’s 8 Favorite Tech Gifts of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/gizmodo-senior-writer-james-pero-favorite-tech-gifts-of-2025-2000689585" target="_blank">Gizmodo Senior Writer James Pero’s 8 Favorite Tech Gifts of 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-25 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Flash-Keaton-Batman-header-1280x853.jpg" alt="Why Does This Michael Keaton Batman Figure Look Like That?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/michael-keaton-batman-blue-grey-hot-toys-2000691063" target="_blank">Why Does This Michael Keaton Batman Figure Look Like That?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-25 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
