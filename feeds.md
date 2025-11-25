@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-24 23:01:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-25 00:04:26 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, November 24, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/24/trump-orders-blacklisting-muslim-brotherhood-branches-as-terrorist-groups?traffic_source=rss" target="_blank">Trump orders blacklisting Muslim Brotherhood branches as ‘terrorist’ groups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-24 23:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8fb/live/ca85a5b0-c948-11f0-8a95-4d52567d02bf.jpg" alt="Zelensky welcomes amendments to proposed peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/anna-kepner-cruise-ship-death-ruled-homicide/story?id=127712413" target="_blank">Anna Kepner&#x27;s death on cruise ship ruled a homicide</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-24 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Jeffrey-Epstein-ap-gmh-240104_1704386953481_hpMain_6_4x3t_384.jpg" alt="DOJ asks judges to authorize release of Epstein and Maxwell grand jury material" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/doj-asks-judges-authorize-release-epstein-maxwell-grand/story?id=127836139" target="_blank">DOJ asks judges to authorize release of Epstein and Maxwell grand jury material</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-24 20:41</span>
             </div>
         </div>
 </div>
@@ -171,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/unnamed.png?resize=406%2C232&amp;ssl=1" alt="Google Releases its New Google Sans Flex Font as Open Source" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu" target="_blank">Google Releases its New Google Sans Flex Font as Open Source</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-24 22:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770540&w=600" alt="DevSecConflict: How Google Project Zero and FFmpeg Went Viral For All the Wrong Reasons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -215,15 +217,6 @@
                 <span class="time">2025-11-24 18:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source" target="_blank">Pebble Watch software is now 100% open source</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-24 18:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/move-2-sonos-1280x853.jpg" alt="Sonos Offloads Move 2 at Zero Margin, Portable Speaker Better Than Most Home Systems Goes for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sonos-offloads-move-2-at-zero-margin-portable-speaker-better-than-most-home-systems-goes-for-pennies-2000647037" target="_blank">Sonos Offloads Move 2 at Zero Margin, Portable Speaker Better Than Most Home Systems Goes for Pennies</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-24 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/wicked-for-good-universal-pictures-1280x853.jpg" alt="10 Burning Questions We Still Have After ‘Wicked: For Good’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/10-burning-questions-we-still-have-after-wicked-for-good-2000690809" target="_blank">10 Burning Questions We Still Have After ‘Wicked: For Good’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-24 23:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/olaffix-1280x720.jpg" alt="Soulless Robot Olaf Will Haunt Disney Theme Park In Search Of Friendship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/playstation-5-ps5-exclusives-big-black-friday-sale-death-stranding-astro-bot-spider-man-2000646983" target="_blank">PlayStation’s Big Black Friday Sale Includes Some Fantastic PS5 Exclusives</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-24 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/slenderman.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="The Slender Man Killer has escaped" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/24/the-slender-man-killer-has-escaped.html" target="_blank">The Slender Man Killer has escaped</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-24 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/bill-skarsgard_1-2-1280x853.jpg" alt="Now That Pennywise Has Arrived on ‘It: Welcome to Derry,’ Bob Gray Is Close Behind" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/now-that-pennywise-has-arrived-on-it-welcome-to-derry-bob-gray-is-close-behind-2000690833" target="_blank">Now That Pennywise Has Arrived on ‘It: Welcome to Derry,’ Bob Gray Is Close Behind</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-24 20:00</span>
             </div>
         </div>
 </div>
@@ -352,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 40 | 📸 With Images: 287 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 287 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
