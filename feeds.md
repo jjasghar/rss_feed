@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 10:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-25 11:01:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Red-Square-DB-251125_1764061923748_hpMain_4x3t_384.jpg" alt="Kremlin, describing &#x27;information frenzy,&#x27; declines to comment on Ukraine negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/kremlin-describing-information-frenzy-declines-detail-moscows-view/story?id=127852942" target="_blank">Kremlin, describing &#x27;information frenzy,&#x27; declines to comment on Ukraine negotiations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-25 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc4/live/13ba8a40-c9d3-11f0-8c1f-e1fe6e7ce046.jpg" alt="Reeves urges Labour MPs to unite behind the Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gpmz8gxwgo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves urges Labour MPs to unite behind the Budget</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-25 10:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/25/partners-family-members-killed-137-women-each-day-in-2024-un?traffic_source=rss" target="_blank">Partners, family members killed 137 women each day in 2024: UN</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-25 10:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57eb/live/af4e1ba0-c9e9-11f0-9fb5-5f3a3703a365.jpg" alt="US and Russia to hold Ukraine talks in Abu Dhabi after overnight strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss" target="_blank">US and Russia to hold Ukraine talks in Abu Dhabi after overnight strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-25 10:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -59,47 +97,20 @@
                 <span class="time">2025-11-25 08:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/25/g-s1-99204/superman-comic-book-fetches-9-million" target="_blank">A rare &#x27;Superman No. 1&#x27; comic book found in an attic fetches $9.12M</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-25 07:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/ukraine-air-defense_1764032166001_hpMain_4x3t_384.jpg" alt="2 dead, 7 injured in Kyiv after large Russian missile attack: Mayor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/kyiv-targeted-large-russian-missile-attack-mayor/story?id=127844820" target="_blank">2 dead, 7 injured in Kyiv after large Russian missile attack: Mayor</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-25 05:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b4/live/89808fe0-c9ab-11f0-9fb5-5f3a3703a365.jpg" alt="Russia and Ukraine trade deadly strikes overnight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss" target="_blank">Russia and Ukraine trade deadly strikes overnight</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-25 05:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/25/viola-ford-fletcher-survivor-of-1921-tulsa-massacre-dies-age-111?traffic_source=rss" target="_blank">Viola Ford Fletcher, survivor of 1921 Tulsa Massacre, dies age 111</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-25 04:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6924e6dd9c37f5fc5dd437ce/master/pass/unnamed.png" alt="Wish List 2025: A WIRED Gift Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/wish-list-2025/" target="_blank">Wish List 2025: A WIRED Gift Guide</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-25 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="20% Off LG Promo Code &amp; Coupons | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +156,20 @@
                 <span class="time">2025-11-24 23:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/" target="_blank">Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-24 22:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/elvisans/le-potentiel-role-de-dieu-dans-notre-sort-pensee-libre-pt-ii-3cje" target="_blank">Le potentiel rôle de Dieu dans notre sort (Pensée libre Pt II)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-25 10:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/11/sauce-labs-ai-testing/en/headerimage/header-1763849927215.jpeg" alt="Sauce Labs Launches AI Tool for Faster Test Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,19 +215,6 @@
                 <span class="time">2025-11-25 06:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="The next generation of billion-dollar companies won’t be built in glass offices, with huge teams, layers of management, and complex org charts.
-
-They will be built by 5 people and AI. This isn’t a slogan." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/the-next-generation-of-billion-dollar-companies-wont-be-built-in-glass-offices-with-huge-teams-6ph" target="_blank">The next generation of billion-dollar companies won’t be built in glass offices, with huge teams, layers of management, and complex org charts.
-
-They will be built by 5 people and AI. This isn’t a slogan.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-25 05:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +243,15 @@ They will be built by 5 people and AI. This isn’t a slogan.</a></span>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Flash-Keaton-Batman-header-1280x853.jpg" alt="Why Does This Michael Keaton Batman Figure Look Like That?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/michael-keaton-batman-blue-grey-hot-toys-2000691063" target="_blank">Why Does This Michael Keaton Batman Figure Look Like That?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Texas--1280x853.jpg" alt="Data Centers in Texas Could Lead to Blackouts in the Middle of Winter, Group Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +297,6 @@ They will be built by 5 people and AI. This isn’t a slogan.</a></span>
                 <span class="time">2025-11-25 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/eufy-solocam-1280x853.jpg" alt="Amazon Sells eufy Solar Camera at Break-Even, 50% Off Means No Profit Just to Offload Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-sells-eufy-solar-camera-at-break-even-50-off-means-no-profit-just-to-offload-stock-2000647046" target="_blank">Amazon Sells eufy Solar Camera at Break-Even, 50% Off Means No Profit Just to Offload Stock</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-25 00:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +334,8 @@ They will be built by 5 people and AI. This isn’t a slogan.</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
