@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 07:02:07 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-25 08:02:30 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/25/g-s1-99204/superman-comic-book-fetches-9-million" target="_blank">A rare &#x27;Superman No. 1&#x27; comic book found in an attic fetches $9.12M</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-25 07:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/ukraine-air-defense_1764032166001_hpMain_4x3t_384.jpg" alt="2 dead, 7 injured in Kyiv after large Russian missile attack: Mayor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/International/kyiv-targeted-large-russian-missile-attack-mayor/story?id=127844820" target="_blank">2 dead, 7 injured in Kyiv after large Russian missile attack: Mayor</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-25 05:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b4/live/89808fe0-c9ab-11f0-9fb5-5f3a3703a365.jpg" alt="Russia and Ukraine trade deadly strikes overnight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss" target="_blank">Russia and Ukraine trade deadly strikes overnight</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-25 05:19</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +98,6 @@
                 <span class="time">2025-11-25 03:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/24/g-s1-99194/houston-tornado-damage" target="_blank">More than 100 homes damaged by tornado near Houston</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-25 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/25/taliban-says-pakistan-bombed-afghanistan-killing-nine-children-and-a-woman?traffic_source=rss" target="_blank">Taliban says Pakistan bombed Afghanistan, killing nine children and a woman</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-25 02:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +110,15 @@
                 <span class="title"><a href="https://www.wired.com/story/lg-promo-code/" target="_blank">20% Off LG Promo Code &amp; Coupons | November 2025</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-25 06:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive/" target="_blank">India’s gig workers win legal status, but access to social security remains elusive</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-25 04:42</span>
             </div>
         </div>
 <div class="story">
@@ -148,15 +157,6 @@
                 <span class="time">2025-11-24 22:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Pad37_Fly_Over_Desktop_57943a8aff-500x500.jpg" alt="Rivals object to SpaceX’s Starship plans in Florida—who’s interfering with whom?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/11/rivals-object-to-spacexs-starship-plans-in-florida-whos-interfering-with-whom/" target="_blank">Rivals object to SpaceX’s Starship plans in Florida—who’s interfering with whom?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-24 22:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +178,15 @@
                 <span class="title"><a href="https://dev.to/allinsightsnews/cloud-fax-intelligence-the-hidden-engine-behind-modern-compliance-4f9h" target="_blank">Cloud Fax Intelligence: The Hidden Engine Behind Modern Compliance</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-25 06:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/" target="_blank">Most Stable Raspberry Pi? 81% Better NTP with Thermal Management</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-25 06:35</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +220,6 @@ They will be built by 5 people and AI. This isn’t a slogan.</a></span>
                 <span class="time">2025-11-25 03:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/java-news-roundup-nov17-2025/en/headerimage/java-istock-image-01-1764006593160.jpg" alt="Java News Roundup: Liberica JDK, Jakarta EE, Open Liberty, Quarkus, JDKUpdater, OpenXava, Gradle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/java-news-roundup-nov17-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Liberica JDK, Jakarta EE, Open Liberty, Quarkus, JDKUpdater, OpenXava, Gradle</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-25 02:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +248,15 @@ They will be built by 5 people and AI. This isn’t a slogan.</a></span>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/vitruvian-man-1280x903.jpg" alt="The ‘Genesis Mission’: Here’s What’s in Trump’s Most Grandiose AI Executive Order Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-genesis-mission-2000691153" target="_blank">The ‘Genesis Mission’: Here’s What’s in Trump’s Most Grandiose AI Executive Order Yet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 04:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/04/88e237b331e115d67ccc24485b4a5f79-1024x577.jpg" alt="Tucker Carlson is Launching His Own Precious Metals Company" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +302,6 @@ They will be built by 5 people and AI. This isn’t a slogan.</a></span>
                 <span class="time">2025-11-25 00:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/move-2-sonos-1280x853.jpg" alt="Sonos Offloads Move 2 at Zero Margin, Portable Speaker Better Than Most Home Systems Goes for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sonos-offloads-move-2-at-zero-margin-portable-speaker-better-than-most-home-systems-goes-for-pennies-2000647037" target="_blank">Sonos Offloads Move 2 at Zero Margin, Portable Speaker Better Than Most Home Systems Goes for Pennies</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-24 23:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,22 +334,13 @@ They will be built by 5 people and AI. This isn’t a slogan.</a></span>
                 <span class="time">2025-11-24 14:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/24/the-ol-factory" target="_blank">The Ol&#x27; Factory</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-24 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
