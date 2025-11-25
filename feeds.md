@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 05:02:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-25 06:02:18 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Hacker News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/ukraine-air-defense_1764032166001_hpMain_4x3t_384.jpg" alt="2 dead, 7 injured in Kyiv after large Russian missile attack: Mayor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/kyiv-targeted-large-russian-missile-attack-mayor/story?id=127844820" target="_blank">2 dead, 7 injured in Kyiv after large Russian missile attack: Mayor</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-25 05:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/25/viola-ford-fletcher-survivor-of-1921-tulsa-massacre-dies-age-111?traffic_source=rss" target="_blank">Viola Ford Fletcher, survivor of 1921 Tulsa Massacre, dies age 111</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-25 04:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aec/live/613a2c60-c9a3-11f0-8725-893df8030bfc.jpg" alt="BBC may not be in &#x27;safe hands&#x27; under its chair, says committee head" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd74ne84lqdo?at_medium=RSS&at_campaign=rss" target="_blank">BBC may not be in &#x27;safe hands&#x27; under its chair, says committee head</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-25 04:05</span>
             </div>
         </div>
 <div class="story">
@@ -75,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/25/taliban-says-pakistan-bombed-afghanistan-killing-nine-children-and-a-woman?traffic_source=rss" target="_blank">Taliban says Pakistan bombed Afghanistan, killing nine children and a woman</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-25 02:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/ukraine-air-defense_1764032166001_hpMain_4x3t_384.jpg" alt="Kyiv targeted in large Russian missile attack: Mayor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/kyiv-targeted-large-russian-missile-attack-mayor/story?id=127844820" target="_blank">Kyiv targeted in large Russian missile attack: Mayor</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-25 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764027731558_nn_lja_james_comey_251124_1920x1080-n2a8ph.jpg" alt="Federal judge tosses charges against James Comey and Letitia James" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/federal-judge-tosses-charges-against-james-comey-and-letitia-james-252918341520" target="_blank">Federal judge tosses charges against James Comey and Letitia James</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-24 23:42</span>
             </div>
         </div>
 </div>
@@ -162,6 +168,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/11/25/you-re-probably-underutilizing-your-gpus/" target="_blank">You’re probably underutilizing your GPUs</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-11-25 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="The next generation of billion-dollar companies won’t be built in glass offices, with huge teams, layers of management, and complex org charts.
+
+They will be built by 5 people and AI. This isn’t a slogan." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/the-next-generation-of-billion-dollar-companies-wont-be-built-in-glass-offices-with-huge-teams-6ph" target="_blank">The next generation of billion-dollar companies won’t be built in glass offices, with huge teams, layers of management, and complex org charts.
+
+They will be built by 5 people and AI. This isn’t a slogan.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-25 05:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gara501/amazon-q-kiro-dev-faj" target="_blank">Amazon Q - Kiro-dev</a></span>
                 <span class="feed">DEV Community</span>
@@ -193,24 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-APX-Extra-GPRs-Kernel-Use" target="_blank">Linux Kernel Developers Eye Uses For Extra General Purpose Registers With APX</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-25 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/unnamed.png?resize=406%2C232&amp;ssl=1" alt="Google Releases its New Google Sans Flex Font as Open Source" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu" target="_blank">Google Releases its New Google Sans Flex Font as Open Source</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-24 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770540&w=600" alt="DevSecConflict: How Google Project Zero and FFmpeg Went Viral For All the Wrong Reasons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/devsecconflict-google-project-zero-ffmpeg" target="_blank">DevSecConflict: How Google Project Zero and FFmpeg Went Viral For All the Wrong Reasons</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-24 21:30</span>
             </div>
         </div>
 </div>
@@ -341,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
