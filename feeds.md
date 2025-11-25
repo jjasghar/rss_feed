@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 08:02:30 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-11-25 09:02:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c56/live/82a60550-c9d9-11f0-9fb5-5f3a3703a365.jpg" alt="Russia and Ukraine trade deadly strikes overnight as US and Russia hold talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss" target="_blank">Russia and Ukraine trade deadly strikes overnight as US and Russia hold talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-25 08:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cd74ne84lqdo?at_medium=RSS&at_campaign=rss" target="_blank">BBC may not be in &#x27;safe hands&#x27; under its chair, says committee head</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-25 04:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/25/elite-capture-how-pakistan-is-losing-6-percent-of-its-gdp-to-corruption?traffic_source=rss" target="_blank">‘Elite capture’: How Pakistan is losing 6 percent of its GDP to corruption</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-25 03:20</span>
             </div>
         </div>
 </div>
@@ -163,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/11/sauce-labs-ai-testing/en/headerimage/header-1763849927215.jpeg" alt="Sauce Labs Launches AI Tool for Faster Test Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/sauce-labs-ai-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Sauce Labs Launches AI Tool for Faster Test Analysis</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-25 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sravanikaipa_c5bf5/the-inevitable-cloud-cost-debt-4j82" target="_blank">The Inevitable Cloud Cost Debt</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-25 08:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -200,24 +223,6 @@ They will be built by 5 people and AI. This isn’t a slogan." class="story-imag
 They will be built by 5 people and AI. This isn’t a slogan.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-25 05:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gara501/amazon-q-kiro-dev-faj" target="_blank">Amazon Q - Kiro-dev</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-25 03:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/back-up-restore-flatpak-apps/" target="_blank">Backup and Restore Your Flatpak Apps &amp; Settings Between Distro Switch and Reinstalls</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-25 03:08</span>
             </div>
         </div>
 </div>
@@ -339,8 +344,8 @@ They will be built by 5 people and AI. This isn’t a slogan.</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
