@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 09:02:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-25 10:01:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/25/g-s1-99208/china-launches-spacecraft-return-stranded-astronauts" target="_blank">China launches Shenzhou 22 spacecraft to assist in return of 3 stranded astronauts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-25 09:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c56/live/82a60550-c9d9-11f0-9fb5-5f3a3703a365.jpg" alt="Russia and Ukraine trade deadly strikes overnight as US and Russia hold talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/25/viola-ford-fletcher-survivor-of-1921-tulsa-massacre-dies-age-111?traffic_source=rss" target="_blank">Viola Ford Fletcher, survivor of 1921 Tulsa Massacre, dies age 111</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-25 04:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aec/live/613a2c60-c9a3-11f0-8725-893df8030bfc.jpg" alt="BBC may not be in &#x27;safe hands&#x27; under its chair, says committee head" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd74ne84lqdo?at_medium=RSS&at_campaign=rss" target="_blank">BBC may not be in &#x27;safe hands&#x27; under its chair, says committee head</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-25 04:05</span>
             </div>
         </div>
 </div>
@@ -254,6 +246,15 @@ They will be built by 5 people and AI. This isn’t a slogan.</a></span>
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Texas--1280x853.jpg" alt="Data Centers in Texas Could Lead to Blackouts in the Middle of Winter, Group Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/data-centers-in-texas-could-lead-to-blackouts-in-the-middle-of-winter-group-warns-2000691060" target="_blank">Data Centers in Texas Could Lead to Blackouts in the Middle of Winter, Group Warns</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/vitruvian-man-1280x903.jpg" alt="The ‘Genesis Mission’: Here’s What’s in Trump’s Most Grandiose AI Executive Order Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -298,15 +299,6 @@ They will be built by 5 people and AI. This isn’t a slogan.</a></span>
                 <span class="time">2025-11-25 00:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/sora-1280x853.jpg" alt="OpenAI Can’t Legally Use the Word ‘Cameo’ in Sora Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/openai-cant-legally-use-the-word-cameo-in-sora-now-2000690407" target="_blank">OpenAI Can’t Legally Use the Word ‘Cameo’ in Sora Now</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-25 00:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -344,8 +336,8 @@ They will be built by 5 people and AI. This isn’t a slogan.</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
