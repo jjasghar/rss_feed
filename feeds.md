@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 01:29:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-25 02:30:35 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +110,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21345733/best-noise-canceling-headphones" target="_blank">The best noise-canceling headphones to buy right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-25 01:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/" target="_blank">Google teams up with Accel to hunt for India’s next AI breakouts</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-25 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-4.57.28-PM-500x500.png" alt="Anthropic introduces cheaper, more powerful, more efficient Opus 4.5 model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/11/anthropic-introduces-opus-4-5-cuts-api-pricing-and-enables-much-longer-claude-chats/" target="_blank">Anthropic introduces cheaper, more powerful, more efficient Opus 4.5 model</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-24 23:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/" target="_blank">Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone</a></span>
                 <span class="feed">TechCrunch</span>
@@ -128,33 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/828256/meta-smart-glasses-trade-in-credit" target="_blank">Meta&amp;#8217;s new wearables trade-in program gives you Ray-Ban and Oakley discounts</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-24 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2200059564-500x500-1764014696.jpg" alt="DOGE “cut muscle, not fat”; 26K experts rehired after brutal cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/11/doge-doesnt-exist-anymore-but-expert-says-its-still-not-dead/" target="_blank">DOGE “cut muscle, not fat”; 26K experts rehired after brutal cuts</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-24 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/24/hands-on-with-stickerbox-the-ai-powered-sticker-maker-for-kids/" target="_blank">Hands on with Stickerbox, the AI-powered sticker maker for kids</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-24 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte" target="_blank">I tested a bunch of Switch 2 screen protectors, and these are the best</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-24 20:01</span>
             </div>
         </div>
 </div>
@@ -245,6 +249,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/tile-4-pack-1280x853.jpg" alt="Tile Mate 4-Pack Hits Record Low, iPhone and Android Users Get Four Trackers for One AirTag Money" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tile-mate-4-pack-hits-record-low-iphone-and-android-users-get-four-trackers-for-one-airtag-money-2000647050" target="_blank">Tile Mate 4-Pack Hits Record Low, iPhone and Android Users Get Four Trackers for One AirTag Money</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-25 01:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/eufy-solocam-1280x853.jpg" alt="Amazon Sells eufy Solar Camera at Break-Even, 50% Off Means No Profit Just to Offload Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -289,20 +302,20 @@
                 <span class="time">2025-11-24 22:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/olaffix-1280x720.jpg" alt="Soulless Robot Olaf Will Haunt Disney Theme Park In Search Of Friendship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/frozen-olaf-character-roams-disney-parks-2026-2000647055" target="_blank">Soulless Robot Olaf Will Haunt Disney Theme Park In Search Of Friendship</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-24 22:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5708.png" alt="The Ignominius Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5708" target="_blank">The Ignominius Return</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-11-25 02:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1763688697-20251124_edit.png" alt="Saturday Morning Breakfast Cereal - Last" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -339,22 +352,13 @@
                 <span class="time">2025-11-24 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5707.png" alt="Angel&#x27;s Concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5707" target="_blank">Angel&#x27;s Concerns</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-11-24 01:56</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
