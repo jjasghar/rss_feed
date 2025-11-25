@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 22:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-25 23:01:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, November 25, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/25/chelsea-thump-barcelona-in-champions-league-as-man-city-also-lose?traffic_source=rss" target="_blank">Chelsea thump Barcelona in Champions League as Man City also lose</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-25 22:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jeffry-epstein-gty-gmh-251125_1764101456975_hpMain_4x3t_384.jpg" alt="Judge orders DOJ to expedite processing of records request about Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/judge-orders-expedited-processing-request-records-related-dojs/story?id=127872573" target="_blank">Judge orders DOJ to expedite processing of records request about Epstein files</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-25 21:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +99,20 @@
                 <span class="time">2025-11-25 19:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fa8/live/899ef540-ca17-11f0-a841-3bc77778e0c0.jpg" alt="Over 21s to get £12.71 an hour as minimum wage increased" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn41v89xq4go?at_medium=RSS&at_campaign=rss" target="_blank">Over 21s to get £12.71 an hour as minimum wage increased</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-25 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/25/nx-s1-5620636/lindsey-halligan-us-attorney-unlawful-comey-james" target="_blank">The case against Comey failed because of Trump&#x27;s prosecutor. Who is she?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-25 18:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69262fd3f327312cfe6fb7a7/master/pass/culture_grok_elon_roast.gif" alt="Elon Musk Said Grok’s Roasts Would Be ‘Epic’ at Parties—So I Tried It on My Coworkers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/elon-musk-said-grok-roasts-are-epic-at-parties-i-tried-it-on-my-coworkers/" target="_blank">Elon Musk Said Grok’s Roasts Would Be ‘Epic’ at Parties—So I Tried It on My Coworkers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-25 21:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/plex1-500x500.png" alt="Plex’s crackdown on free remote streaming access starts this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +158,20 @@
                 <span class="time">2025-11-25 20:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6925cc9ed9fb5a78e4faab65/master/pass/GettyImages-2246547356.jpg" alt="ICE Offers Up to $280 Million to Immigrant-Tracking ‘Bounty Hunter’ Firms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ice-bounty-hunter-spy-program/" target="_blank">ICE Offers Up to $280 Million to Immigrant-Tracking ‘Bounty Hunter’ Firms</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-25 19:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2i5hnon7vouj9r4449sy.png" alt="Go full stack web app tutorial with sqlc and htmx. Part 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zaggy/go-full-stack-web-app-tutorial-with-sqlc-and-htmx-part-1-55ag" target="_blank">Go full stack web app tutorial with sqlc and htmx. Part 1</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-25 22:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,28 +202,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/" target="_blank">A new bridge links the math of infinity to computer science</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-25 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/giga-computing-r284" target="_blank">Giga Computing R284-A92-AAL1: A Reliable 2U Rack Server For Intel Xeon 6900 Series</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-25 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/n1ghtm4r33/building-an-experimental-ebpf-firewall-in-rust-xdp-heuristic-risk-scoring-phn" target="_blank">Building an Experimental eBPF Firewall in Rust (XDP + Heuristic Risk Scoring)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-25 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data" target="_blank">Google Antigravity Exfiltrates Data</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-25 18:31</span>
             </div>
         </div>
 </div>
@@ -248,6 +242,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/destiny-2-renegades-praxic-order-jedi-star-wars-2000691646" target="_blank">It’s Good That the ‘Destiny 2’ Jedi Proxy Also Kind of Sounds Like They Suck</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAYH4FCYH6J1DR1Z3PDGREMX/hero-image.jpg" alt="All of These Fitness Watches Are Under $250 for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/the-best-deals-on-running-watches-under-250-early-black-friday-2025?utm_medium=RSS" target="_blank">All of These Fitness Watches Are Under $250 for Black Friday</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-25 22:00</span>
             </div>
         </div>
@@ -287,15 +290,6 @@
                 <span class="time">2025-11-25 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/horseseses-1280x720.jpg" alt="A Creepy Horse Game Was Banned From Steam And No One’s Sure Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/horses-creepy-horror-game-steam-banned-before-launch-santa-ragione-2000647324" target="_blank">A Creepy Horse Game Was Banned From Steam And No One’s Sure Why</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-25 19:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
