@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 15:01:44 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-11-26 16:02:16 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/26/pope-leo-to-travel-to-turkiye-lebanon-on-first-foreign-trip?traffic_source=rss" target="_blank">Pope Leo to travel to Turkiye, Lebanon on first foreign trip</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Ushakov-Putin-DB-251126_1764148194362_hpMain_4x3t_384.jpg" alt="Kremlin-Witkoff phone call leak intended to &#x27;hinder&#x27; peace talks, Putin aide says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/kremlin-aide-preliminary-agreement-place-witkoff-moscow-visit/story?id=127887384" target="_blank">Kremlin-Witkoff phone call leak intended to &#x27;hinder&#x27; peace talks, Putin aide says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-26 15:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +105,20 @@
                 <span class="time">2025-11-26 13:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764161182172_tdy_news_7a_keir_witkoff_russian_aide_251126_1920x1080-6jyvj8.jpg" alt="Trump Envoy Witkoff Advises Russian Aide, Transcript Reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-envoy-witkoff-advises-russian-aide-transcript-reveals-253056069508" target="_blank">Trump Envoy Witkoff Advises Russian Aide, Transcript Reveals</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-26 12:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/26/israels-systematic-campaign-to-expel-west-bank-palestinians?traffic_source=rss" target="_blank">Israel’s systematic campaign to expel West Bank Palestinians</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 12:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/26/bug-in-jury-systems-used-by-several-us-states-exposed-sensitive-personal-data/" target="_blank">Bug in jury systems used by several US states exposed sensitive personal data</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-26 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +164,29 @@
                 <span class="time">2025-11-26 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692643a36171e1fcd338e7f8/master/pass/A%20Black%20Friday%20Promo%20Code%20for%20Discounts%20on%20Kohler%20Bathroom%20and%20Kitchen.png" alt="Kohler Black Friday Promo Code (2025): 10 Percent Off Bathroom and Kitchen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/kohler-black-friday-2025-promo-code/" target="_blank">Kohler Black Friday Promo Code (2025): 10 Percent Off Bathroom and Kitchen</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-26 09:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/core-ultra-9-285k-2025" target="_blank">Intel Core Ultra 9 285K &quot;Arrow Lake&quot; Linux Performance Up ~9% One Year Later At ~85% Power Use</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-26 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18775732&w=600" alt="LLMOps Under the Hood: Docker Practices for Large Language Model Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/llmops-docker-practices-llm-deployment" target="_blank">LLMOps Under the Hood: Docker Practices for Large Language Model Deployment</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-26 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2dwqc4qm3o7ypx5gns5o.png" alt="How to Create Auto Scaling Groups of EC2 Instances for High Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +223,6 @@
                 <span class="time">2025-11-26 13:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/collabora-launches-desktop-office-suite/" target="_blank">Collabora Launches Desktop Office Suite for Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-26 12:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18641308&w=600" alt="Securing Converged AI-Blockchain Systems: Introducing the MAESTRO 7-Layer Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/securing-converged-ai-blockchain-systems-introduci" target="_blank">Securing Converged AI-Blockchain Systems: Introducing the MAESTRO 7-Layer Framework</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-26 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/dust-devil-marsr-1280x853.jpg" alt="We’ve Detected Lightning on Mars for the First Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996" target="_blank">We’ve Detected Lightning on Mars for the First Time</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-26 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/micron-crucial-ssd-1280x853.jpg" alt="Crucial 4TB SSD Reaches $0.06 Per GB (42% Off), Ultra-Fast Storage Finally Matches HDD Prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/crucial-4tb-ssd-reaches-0-06-per-gb-42-off-ultra-fast-storage-finally-matches-hdd-prices-2000647595" target="_blank">Crucial 4TB SSD Reaches $0.06 Per GB (42% Off), Ultra-Fast Storage Finally Matches HDD Prices</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-26 15:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/govee-floor-lamp-basic-1280x853.jpg" alt="Govee LED Floor Lamp Crashes to a Black Friday Low, Shoppers Are Clearing the Shelves Knowing This Is as Cheap as It Gets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +294,6 @@
                 <span class="title"><a href="https://kotaku.com/apple-quietly-sent-amazon-thousands-of-ipads-to-clear-wifi-model-now-selling-at-all-time-low-2000647529" target="_blank">Apple Quietly Sent Amazon Thousands of iPads to Clear, WiFi Model Now Selling at All-Time Low</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-26 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/hallorann_intunnel-1-1280x853.jpg" alt="What’s the Deal With Hallorann’s Terrifying Box on ‘It: Welcome to Derry’?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/whats-the-deal-with-halloranns-terrifying-box-on-it-welcome-to-derry-2000691801" target="_blank">What’s the Deal With Hallorann’s Terrifying Box on ‘It: Welcome to Derry’?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-26 12:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Earthborne-Rangers-Board-Game-1-1280x853.jpg" alt="Gizmodo Consumer Tech Reporter Kyle Barr’s 9 Favorite Board Games for People Who Need a Break From Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/gizmodo-staff-writer-kyle-barr-favorite-gifts-of-2025-2000691473" target="_blank">Gizmodo Consumer Tech Reporter Kyle Barr’s 9 Favorite Board Games for People Who Need a Break From Tech</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-26 12:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
