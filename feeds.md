@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 18:01:59 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-11-26 19:01:23 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 33 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/26/nx-s1-5604808/4-marketing-tricks-to-not-fall-for-this-holiday-season" target="_blank">4 marketing tricks to not fall for this holiday season</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-26 18:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,28 +83,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/georgia-judge-drops-election-interference-case-against-trump?traffic_source=rss" target="_blank">Georgia judge drops election interference case against Trump</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251126-donald-trump-mn-1130-c1697d.jpg" alt="Prosecutor in Georgia election case says he&#x27;s dropping charges against Trump, others" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-georgia-election-interference-case-dropped-rcna246069" target="_blank">Prosecutor in Georgia election case says he&#x27;s dropping charges against Trump, others</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-26 16:03</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/26/guinea-bissau-officers-take-total-control-close-borders-amid-election-chaos" target="_blank">Guinea-Bissau military takes ‘total control’ amid election chaos</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-26 16:52</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/26/pope-leo-to-travel-to-turkiye-lebanon-on-first-foreign-trip?traffic_source=rss" target="_blank">Pope Leo to travel to Turkiye, Lebanon on first foreign trip</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/georgia-judge-drops-election-interference-case-against-trump?traffic_source=rss" target="_blank">Georgia judge drops election interference case against Trump</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 15:45</span>
+                <span class="time">2025-11-26 16:24</span>
             </div>
         </div>
 </div>
@@ -110,6 +103,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2231894756-500x500.jpg" alt="Solar’s growth in US almost enough to offset rising energy use" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/" target="_blank">Solar’s growth in US almost enough to offset rising energy use</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-26 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/26/gm-tech-executive-shakeup-continues-on-software-team/" target="_blank">GM tech executive shakeup continues on software team</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-26 18:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,24 +157,6 @@
                 <span class="time">2025-11-26 16:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/26/bug-in-jury-systems-used-by-several-us-states-exposed-sensitive-personal-data/" target="_blank">Bug in jury systems used by several US states exposed sensitive personal data</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/829892/character-ai-stories-launch-teens" target="_blank">Character.AI launches Stories for teens after banning them from chats</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-26 14:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +169,15 @@
                 <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-2in4" target="_blank">Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-26 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/kde-logo-.jpg?resize=406%2C232&amp;ssl=1" alt="KDE Plasma is Going Wayland-Only – But Not Until 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/kde-plasma-6-8-no-x11-wayland-only" target="_blank">KDE Plasma is Going Wayland-Only – But Not Until 2027</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-26 17:44</span>
             </div>
         </div>
 <div class="story">
@@ -214,15 +216,6 @@
                 <span class="time">2025-11-26 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/core-ultra-9-285k-2025" target="_blank">Intel Core Ultra 9 285K &quot;Arrow Lake&quot; Linux Performance Up ~9% One Year Later At ~85% Power Use</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-26 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/ecoflowdelta2-1280x853.jpg" alt="EcoFlow Decided Profit Doesn’t Matter, 1800W Power Station Hits New All-Time Low for Winter Backup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ecoflow-decided-profit-doesnt-matter-1800w-power-station-hits-new-all-time-low-for-winter-backup-2000647635" target="_blank">EcoFlow Decided Profit Doesn’t Matter, 1800W Power Station Hits New All-Time Low for Winter Backup</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-26 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/AJAX_the_Future_Armoured_Fighting_Vehicle_for_the_British_Army_MOD_45159441.jpg?fit=2297%2C1588&amp;quality=60&amp;ssl=1" alt="Chundertank: Britain&#x27;s new armored fighting vehicle makes soldiers puke" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/26/chundertank-britains-new-armored-fighting-vehicle-makes-soldiers-puke.html" target="_blank">Chundertank: Britain&#x27;s new armored fighting vehicle makes soldiers puke</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-26 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/donald-trump-USA-hat-nov.-22-2025-1280x853.jpg" alt="Trump-Backed Crypto Company Promotes ‘Shit Piss Skin Can’ Coin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,24 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/26/6-7-explained-by-the-la-public-library.html" target="_blank">&quot;6-7&quot; explained by the LA Public Library</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-26 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/dust-devil-marsr-1280x853.jpg" alt="We’ve Detected Lightning on Mars for the First Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996" target="_blank">We’ve Detected Lightning on Mars for the First Time</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/micron-crucial-ssd-1280x853.jpg" alt="Crucial 4TB SSD Reaches $0.06 Per GB (42% Off), Ultra-Fast Storage Finally Matches HDD Prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/crucial-4tb-ssd-reaches-0-06-per-gb-42-off-ultra-fast-storage-finally-matches-hdd-prices-2000647595" target="_blank">Crucial 4TB SSD Reaches $0.06 Per GB (42% Off), Ultra-Fast Storage Finally Matches HDD Prices</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-26 15:55</span>
             </div>
         </div>
 </div>
@@ -342,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
