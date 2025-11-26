@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 13:12:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-26 14:02:28 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kelly-on-kimmel_1764164072267_hpMain_4x3t_384.jpg" alt="Sen. Kelly says Pete Hegseth &#x27;unqualified&#x27; after being bashed over display of medals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/sen-kelly-pete-hegseth-totally-unqualified-after-bashed/story?id=127894384" target="_blank">Sen. Kelly says Pete Hegseth &#x27;unqualified&#x27; after being bashed over display of medals</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-26 13:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/europe-reimagines-rearmament-at-sea-learning-from-russias-war-on-ukraine?traffic_source=rss" target="_blank">Europe reimagines rearmament at sea, learning from Russia’s war on Ukraine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 13:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/26/g-s1-99460/up-first-newsletter-ukraine-russia-thanksgiving-travel" target="_blank">Trump backs Witkoff after leaked call with Russian aide. And, Thanksgiving air travel</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-26 13:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764161182172_tdy_news_7a_keir_witkoff_russian_aide_251126_1920x1080-6jyvj8.jpg" alt="Trump Envoy Witkoff Advises Russian Aide, Transcript Reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,38 +99,20 @@
                 <span class="time">2025-11-26 11:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg" alt="At least four dead as fire engulfs Hong Kong tower blocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss" target="_blank">At least four dead as fire engulfs Hong Kong tower blocks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-26 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/26/nx-s1-5612520/dogs-origin-physical-variation-stone-age-archaeology" target="_blank">The origins of your dog&#x27;s unique look may be older than you think</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-26 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/11/26/floods-kill-dozens-displace-thousands-in-southern-thailand?traffic_source=rss" target="_blank">Floods kill dozens, displace thousands in southern Thailand</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 10:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/692668d690ade6d498746821/master/pass/The%20Best%20Star%20Wars%20Gifts.png" alt="The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-star-wars-gifts/" target="_blank">The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-26 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +158,20 @@
                 <span class="time">2025-11-26 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae" target="_blank">Uber’s robotaxi service in UAE now includes fully driverless vehicles</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-26 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/platform-engineering-evolution/en/mediumimage/rachael-wonnacott-medium-1763543184988.jpg" alt="Presentation: Your Platform is Not an Island: Embracing Evolution in Your Ecosystem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/platform-engineering-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Your Platform is Not an Island: Embracing Evolution in Your Ecosystem</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-26 13:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +215,6 @@
                 <span class="title"><a href="https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks" target="_blank">Await Is Not a Context Switch: Understanding Python&#x27;s Coroutines vs. Tasks</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-26 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/linkedin-migration-journey-users/en/headerimage/generatedHeaderImage-1763862493703.jpg" alt="LinkedIn’s Migration Journey to Serve Billions of Users by Nishant Lakshmikanth at QCon SF" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/linkedin-migration-journey-users/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">LinkedIn’s Migration Journey to Serve Billions of Users by Nishant Lakshmikanth at QCon SF</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-26 10:30</span>
             </div>
         </div>
 </div>
@@ -339,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
