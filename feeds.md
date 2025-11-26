@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 10:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-26 11:01:28 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/11/26/floods-kill-dozens-displace-thousands-in-southern-thailand?traffic_source=rss" target="_blank">Floods kill dozens, displace thousands in southern Thailand</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 10:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/26/nx-s1-5612661/turkey-word-origin-thanksgiving" target="_blank">How the turkey trotted its way onto our Thanksgiving tables — and into our lexicon</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-26 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/26/g-s1-99444/italy-femicide-life-in-prison" target="_blank">Italy now recognizes the crime of femicide and punishes it with life in prison</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-26 07:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/26/g-s1-99442/national-parks-fees-international-tourists" target="_blank">National Parks to raise fees by $100 for international tourists to popular U.S. parks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-26 06:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/kristi-noem-cecot_1764131523519_hpMain_4x3t_384.jpg" alt="Kristi Noem directed deportations to El Salvador after judge&#x27;s order: DOJ" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/kristi-noem-directed-venezuelans-el-salvador-after-federal/story?id=127884456" target="_blank">Kristi Noem directed deportations to El Salvador after judge&#x27;s order: DOJ</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-26 05:08</span>
             </div>
         </div>
 </div>
@@ -168,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/11/linkedin-migration-journey-users/en/headerimage/generatedHeaderImage-1763862493703.jpg" alt="LinkedIn’s Migration Journey to Serve Billions of Users by Nishant Lakshmikanth at QCon SF" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/linkedin-migration-journey-users/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">LinkedIn’s Migration Journey to Serve Billions of Users by Nishant Lakshmikanth at QCon SF</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-26 10:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feq7f9dphzc9zq8rljdfi.png" alt="Gamifying Code Reviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-RC4" target="_blank">FreeBSD 15.0-RC4 Released Due To Last Minute Issues</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-26 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pxtrik/my-new-thesis-go-linter-in-rust-1hp9" target="_blank">My new thesis - Go Linter in Rust</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-25 23:55</span>
             </div>
         </div>
 </div>
@@ -331,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
