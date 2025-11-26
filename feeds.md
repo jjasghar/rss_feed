@@ -1,27 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 01:29:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-26 02:31:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Generated 8 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,9 +57,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/fbi-probes-democrats-who-urged-us-troops-to-defy-illegal-orders?traffic_source=rss" target="_blank">FBI probes Democrats who urged US troops to defy illegal orders</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 01:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251125-dan-driscoll-gk-3cdd4e.jpg" alt="U.S. Army secretary warned Ukraine of imminent defeat while pushing initial peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/us-army-secretary-warned-ukraine-imminent-defeat-pushing-initial-peace-rcna245704" target="_blank">U.S. Army secretary warned Ukraine of imminent defeat while pushing initial peace plan</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-26 01:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/russia-ukraine-war-list-of-key-events-day-1371?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,371</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-26 00:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-putin-trump-zelenskyy_7092050.jpg?20251126000820" alt="Russia &#x27;making concessions&#x27; and Ukraine &#x27;happy&#x27; with peace deal talks, says Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-hopes-to-meet-putin-and-zelenskyy-soon-but-only-if-peace-deal-struck-13475500" target="_blank">Russia &#x27;making concessions&#x27; and Ukraine &#x27;happy&#x27; with peace deal talks, says Trump</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-25 23:10</span>
             </div>
         </div>
 <div class="story">
@@ -62,33 +105,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/25/chelsea-thump-barcelona-in-champions-league-as-man-city-also-lose?traffic_source=rss" target="_blank">Chelsea thump Barcelona in Champions League as Man City also lose</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-25 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jeffry-epstein-gty-gmh-251125_1764101456975_hpMain_4x3t_384.jpg" alt="Judge orders DOJ to expedite processing of records request about Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/judge-orders-expedited-processing-request-records-related-dojs/story?id=127872573" target="_blank">Judge orders DOJ to expedite processing of records request about Epstein files</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-25 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/25/g-s1-99331/realpage-rent-algorithm-limits-settlement" target="_blank">New limits for rent algorithm that prosecutors say lets landlords drive up prices</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-25 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251125-Elissa-Slotkin-ew-100p-1cfdac.jpg" alt="FBI seeks interviews with six Democrats Trump accused of &#x27;seditious behavior&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/fbi-seeks-interviews-six-democrats-trump-accused-seditious-behavior-rcna245880" target="_blank">FBI seeks interviews with six Democrats Trump accused of &#x27;seditious behavior&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-25 20:58</span>
             </div>
         </div>
 </div>
@@ -156,6 +172,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExbTJvenQ0OHA3dDdsN2xlcWJjZHp0YXZtemFtZjF4ejM5ZG9qMGRtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FmweLlGdPR2sv5DTjFO%2Fgiphy.gif" alt="What Modern Python Uses for Async API Calls: HTTPX &amp; TaskGroups" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dentedlogic/what-modern-python-uses-for-async-api-calls-httpx-taskgroups-3e4e" target="_blank">What Modern Python Uses for Async API Calls: HTTPX &amp; TaskGroups</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-26 02:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-RC4" target="_blank">FreeBSD 15.0-RC4 Released Due To Last Minute Issues</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-26 01:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -191,24 +225,6 @@
                 <span class="time">2025-11-25 21:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/go-agent-development-kit/en/headerimage/go-adk-1764101286223.jpeg" alt="Google Launches Agent Development Kit for Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/go-agent-development-kit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Launches Agent Development Kit for Go</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-25 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18775168&w=600" alt="Breaking the Chains of the GIL in Python 3.14" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/breaking-the-chains-of-the-gil-in-python" target="_blank">Breaking the Chains of the GIL in Python 3.14</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-25 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,11 +254,29 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAKJ75EP5EYMFG4RF0FND6TZ/hero-image.png" alt="Black Friday Tech Deals Live Blog 2025: Early Discounts on Phones, Laptops, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/early-black-friday-tech-deals-2025-live-blog?utm_medium=RSS" target="_blank">Black Friday Tech Deals Live Blog 2025: Early Discounts on Phones, Laptops, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-25 23:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Destiny-2-Renegades-Aunor-Jedi-1280x853.jpg" alt="It’s Good That the ‘Destiny 2’ Jedi Proxy Also Kind of Sounds Like They Suck" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/destiny-2-renegades-praxic-order-jedi-star-wars-2000691646" target="_blank">It’s Good That the ‘Destiny 2’ Jedi Proxy Also Kind of Sounds Like They Suck</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-25 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/ASUS-Chromebook-CM30-1.png?fit=1200%2C800&amp;quality=55&amp;ssl=1" alt="The ASUS Chromebook is a tablet when you want, laptop when you need, all for $159.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/25/the-asus-chromebook-is-a-tablet-when-you-want-laptop-when-you-need-all-for-159-99.html" target="_blank">The ASUS Chromebook is a tablet when you want, laptop when you need, all for $159.99</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-25 22:00</span>
             </div>
         </div>
@@ -262,24 +296,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/compact-adjustable-dumbbells-deal-black-friday-2025?utm_medium=RSS" target="_blank">These Compact Adjustable Dumbbells Are 24% Off for Black Friday</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-25 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/EvaGreen-1280x853.jpg" alt="‘Wednesday’ Casts a Goth Icon to Play the Mysterious Aunt Ophelia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wednesday-casts-a-goth-icon-to-play-the-mysterious-aunt-ophelia-2000691608" target="_blank">‘Wednesday’ Casts a Goth Icon to Play the Mysterious Aunt Ophelia</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-25 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Star-Wars-Starfighter-Day-1-1280x853.jpg" alt="We Just Got a Tiny New Look at ‘Star Wars: Starfighter’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-starfighter-new-ship-imaage-shawn-levy-2000691642" target="_blank">We Just Got a Tiny New Look at ‘Star Wars: Starfighter’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-25 20:00</span>
             </div>
         </div>
 </div>
@@ -305,22 +321,13 @@
                 <span class="time">2025-11-25 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5708.png" alt="The Ignominius Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5708" target="_blank">The Ignominius Return</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-11-25 02:18</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 40 | 📸 With Images: 293 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
