@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 17:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-26 18:01:59 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,11 +52,29 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/26/us-group-sues-apple-over-dr-congo-conflict-minerals?traffic_source=rss" target="_blank">US group sues Apple over DR Congo conflict minerals</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 17:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-3-rt-gmh-251126_1764162069239_hpMain_4x3t_384.jpg" alt="Georgia prosecutor drops election interference case against Trump, others" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/georgia-prosecutor-drops-election-interference-case-trump/story?id=127898245" target="_blank">Georgia prosecutor drops election interference case against Trump, others</a></span>
                 <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-26 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/26/nx-s1-5616401/macys-thanksgiving-day-parade" target="_blank">How to watch the Macy&#x27;s Thanksgiving Day Parade</a></span>
+                <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-26 17:00</span>
             </div>
         </div>
@@ -68,6 +88,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251126-donald-trump-mn-1130-c1697d.jpg" alt="Prosecutor in Georgia election case says he&#x27;s dropping charges against Trump, others" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-georgia-election-interference-case-dropped-rcna246069" target="_blank">Prosecutor in Georgia election case says he&#x27;s dropping charges against Trump, others</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-26 16:03</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -76,38 +105,20 @@
                 <span class="time">2025-11-26 15:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Ushakov-Putin-DB-251126_1764148194362_hpMain_4x3t_384.jpg" alt="Kremlin-Witkoff phone call leak intended to &#x27;hinder&#x27; peace talks, Putin aide says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/kremlin-aide-preliminary-agreement-place-witkoff-moscow-visit/story?id=127887384" target="_blank">Kremlin-Witkoff phone call leak intended to &#x27;hinder&#x27; peace talks, Putin aide says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-26 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/russia-ukraine-peace-plan-whats-the-latest-version-after-us-kyiv-talks?traffic_source=rss" target="_blank">Russia-Ukraine ‘peace plan’: What’s the latest version after US-Kyiv talks?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a98e/live/4d6fed60-cace-11f0-8c06-f5d460985095.jpg" alt="Paul Doyle pleads guilty to Liverpool parade charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cde6kne1ykno?at_medium=RSS&at_campaign=rss" target="_blank">Paul Doyle pleads guilty to Liverpool parade charges</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-26 13:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/830182/microsoft-surface-laptop-black-friday-2025-deal-sale" target="_blank">Microsoft’s latest 13-inch Surface Laptop is down to $549.99, a new record low price</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-26 17:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Second-Stage-500x500.jpg" alt="After a decade Russia’s native-built Soyuz 5 rocket finally reaches the launch site" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +164,29 @@
                 <span class="time">2025-11-26 14:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692668d690ade6d498746821/master/pass/The%20Best%20Star%20Wars%20Gifts.png" alt="The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-star-wars-gifts/" target="_blank">The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-26 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-2in4" target="_blank">Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-26 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18775809&w=600" alt="Rethinking the Software Supply Chain for Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/rethinking-the-software-supply-chain-for-agents" target="_blank">Rethinking the Software Supply Chain for Agents</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-26 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,29 +223,20 @@
                 <span class="time">2025-11-26 15:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18775732&w=600" alt="LLMOps Under the Hood: Docker Practices for Large Language Model Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/llmops-docker-practices-llm-deployment" target="_blank">LLMOps Under the Hood: Docker Practices for Large Language Model Deployment</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-26 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2dwqc4qm3o7ypx5gns5o.png" alt="How to Create Auto Scaling Groups of EC2 Instances for High Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/taiwoakinbolaji/how-to-create-auto-scaling-groups-of-ec2-instances-for-high-availability-3mj4" target="_blank">How to Create Auto Scaling Groups of EC2 Instances for High Availability</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-26 14:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/" target="_blank">Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-11-26 17:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -240,6 +251,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/donald-trump-USA-hat-nov.-22-2025-1280x853.jpg" alt="Trump-Backed Crypto Company Promotes ‘Shit Piss Skin Can’ Coin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-crypto-bitcoin-btc-price-shit-piss-skin-can-wlfi-2000692230" target="_blank">Trump-Backed Crypto Company Promotes ‘Shit Piss Skin Can’ Coin</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-26 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/psplus-dec2025-1280x720.jpg" alt="PlayStation Plus Subscribers Get More Free Games Than Usual Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-plus-free-games-december-2025-outlast-horizon-ps5-ps4-2000647645" target="_blank">PlayStation Plus Subscribers Get More Free Games Than Usual Next Month</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-26 17:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/butterfly-nebula-1280x853.jpg" alt="New View of Iconic Butterfly Nebula Is Shockingly Gorgeous" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,29 +305,20 @@
                 <span class="time">2025-11-26 15:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/govee-floor-lamp-basic-1280x853.jpg" alt="Govee LED Floor Lamp Crashes to a Black Friday Low, Shoppers Are Clearing the Shelves Knowing This Is as Cheap as It Gets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/freshen-up-your-space-with-the-govee-rgbic-floor-lamp-while-its-going-for-just-60-2000647241" target="_blank">Govee LED Floor Lamp Crashes to a Black Friday Low, Shoppers Are Clearing the Shelves Knowing This Is as Cheap as It Gets</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-26 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KB087Y11G8MRZKZ8E7520J5K/hero-image.png" alt="The Latest Model of the Blink Mini 2K+ Camera Is Already Half Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/blink-mini-2k-plus-camera-sale-black-friday-sale?utm_medium=RSS" target="_blank">The Latest Model of the Blink Mini 2K+ Camera Is Already Half Off for Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-26 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/26/22nd-annual-child-s-play-dinner-auction" target="_blank">22nd Annual Child&#x27;s Play Dinner/Auction!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-26 17:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -317,22 +337,13 @@
                 <span class="time">2025-11-26 00:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/25/harlan-ellison-did-not-like-me" target="_blank">Harlan Ellison did not like me!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-25 17:40</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
