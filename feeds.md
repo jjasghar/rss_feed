@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 04:04:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-26 05:02:11 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 04:05 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/italy-adds-femicide-to-the-criminal-code-to-curb-violence-against-women?traffic_source=rss" target="_blank">Italy adds ‘femicide’ to the criminal code to curb violence against women</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 03:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-8-gty-gmh-251124_1763993846357_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump sending Witkoff to meet with Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/russia-ukraine-war-list-of-key-events-day-1371?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,371</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-26 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-putin-trump-zelenskyy_7092050.jpg?20251126000820" alt="Russia &#x27;making concessions&#x27; and Ukraine &#x27;happy&#x27; with peace deal talks, says Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-hopes-to-meet-putin-and-zelenskyy-soon-but-only-if-peace-deal-struck-13475500" target="_blank">Russia &#x27;making concessions&#x27; and Ukraine &#x27;happy&#x27; with peace deal talks, says Trump</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-25 23:10</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/debajit13/make-makefiles-a-modern-developers-guide-to-classic-automation-14hl" target="_blank">Make &amp; Makefiles: A Modern Developer&#x27;s Guide to Classic Automation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-26 04:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExbTJvenQ0OHA3dDdsN2xlcWJjZHp0YXZtemFtZjF4ejM5ZG9qMGRtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FmweLlGdPR2sv5DTjFO%2Fgiphy.gif" alt="What Modern Python Uses for Async API Calls: HTTPX &amp; TaskGroups" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +219,6 @@
                 <span class="time">2025-11-25 22:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.mikeayles.com/#kidoom" target="_blank">Show HN: KiDoom – Running DOOM on PCB Traces</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-25 22:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -256,6 +257,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/The-CISSP-Security-Risk-Management-Training-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="You haven&#x27;t been hacked; this CISSP Training Bundle is really $404 off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/25/you-havent-been-hacked-this-cissp-training-bundle-is-really-404-off.html" target="_blank">You haven&#x27;t been hacked; this CISSP Training Bundle is really $404 off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-26 01:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KAKJ75EP5EYMFG4RF0FND6TZ/hero-image.png" alt="Black Friday Tech Deals Live Blog 2025: Early Discounts on Phones, Laptops, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -279,15 +289,6 @@
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/11/25/the-asus-chromebook-is-a-tablet-when-you-want-laptop-when-you-need-all-for-159-99.html" target="_blank">The ASUS Chromebook is a tablet when you want, laptop when you need, all for $159.99</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-25 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAYH4FCYH6J1DR1Z3PDGREMX/hero-image.jpg" alt="All of These Fitness Watches Are Under $250 for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/the-best-deals-on-running-watches-under-250-early-black-friday-2025?utm_medium=RSS" target="_blank">All of These Fitness Watches Are Under $250 for Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-25 22:00</span>
             </div>
         </div>
@@ -328,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 294 |
-        🔄 Last Updated: 04:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
