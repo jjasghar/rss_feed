@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 07:01:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-26 08:02:18 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/indonesia-floods-and-landslides-leave-dozens-dead-and-missing?traffic_source=rss" target="_blank">At least 10 people killed in Indonesia floods, landslides</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 07:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/26/g-s1-99444/italy-femicide-life-in-prison" target="_blank">Italy now recognizes the crime of femicide and punishes it with life in prison</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-26 07:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +99,29 @@
                 <span class="time">2025-11-26 03:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e47b/live/23aa8770-ca78-11f0-8afb-6903ddf7a8f3.jpg" alt="Ukraine says &#x27;understanding&#x27; reached on US peace plan, as Trump envoy to meet Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine says &#x27;understanding&#x27; reached on US peace plan, as Trump envoy to meet Putin</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-26 03:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-8-gty-gmh-251124_1763993846357_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump sending Witkoff to meet with Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=127815197" target="_blank">Trump admin live updates: Trump sending Witkoff to meet with Putin</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-26 02:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="OnePlus Promo Code: $70 Off | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/oneplus-promo-code/" target="_blank">OnePlus Promo Code: $70 Off | November 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-26 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae" target="_blank">Uber’s robotaxi service in UAE now includes fully driverless vehicles</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-26 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +158,20 @@
                 <span class="time">2025-11-25 22:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69262fd3f327312cfe6fb7a7/master/pass/culture_grok_elon_roast.gif" alt="Elon Musk Said Grok’s Roasts Would Be ‘Epic’ at Parties—So I Tried It on My Coworkers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/elon-musk-said-grok-roasts-are-epic-at-parties-i-tried-it-on-my-coworkers/" target="_blank">Elon Musk Said Grok’s Roasts Would Be ‘Epic’ at Parties—So I Tried It on My Coworkers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-25 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/plex1-500x500.png" alt="Plex’s crackdown on free remote streaming access starts this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/plexs-crackdown-on-free-remote-streaming-access-starts-this-week/" target="_blank">Plex’s crackdown on free remote streaming access starts this week</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-25 21:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feq7f9dphzc9zq8rljdfi.png" alt="Gamifying Code Reviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/goofmint/gamifying-code-reviews-3eah" target="_blank">Gamifying Code Reviews</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-26 07:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/11/meta-sam3/en/headerimage/generatedHeaderImage-1764058623669.jpg" alt="SAM 3 Introduces a More Capable Segmentation Architecture for Modern Vision Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +217,6 @@
                 <span class="time">2025-11-25 23:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2i5hnon7vouj9r4449sy.png" alt="Go full stack web app tutorial with sqlc and htmx. Part 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zaggy/go-full-stack-web-app-tutorial-with-sqlc-and-htmx-part-1-55ag" target="_blank">Go full stack web app tutorial with sqlc and htmx. Part 1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-25 22:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +243,15 @@
                 <span class="title"><a href="https://gizmodo.com/openai-court-filing-cites-adam-raines-chatgpt-rule-violations-as-potential-cause-of-his-suicide-2000691765" target="_blank">OpenAI Court Filing Cites Adam Raine’s ChatGPT Rule Violations as Potential Cause of His Suicide</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-26 02:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/roborock-saros-10r-mop-1280x853.jpg" alt="Roborock Saros 10R Crashes $600 Off, 22,000 Pa Suction With Self-Emptying Station Hits All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/roborock-saros-10r-crashes-600-off-22000-pa-suction-with-self-emptying-station-hits-all-time-low-2000647321" target="_blank">Roborock Saros 10R Crashes $600 Off, 22,000 Pa Suction With Self-Emptying Station Hits All-Time Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-26 01:35</span>
             </div>
         </div>
 <div class="story">
@@ -280,15 +287,6 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/destiny-2-renegades-praxic-order-jedi-star-wars-2000691646" target="_blank">It’s Good That the ‘Destiny 2’ Jedi Proxy Also Kind of Sounds Like They Suck</a></span>
                 <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-25 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/ASUS-Chromebook-CM30-1.png?fit=1200%2C800&amp;quality=55&amp;ssl=1" alt="The ASUS Chromebook is a tablet when you want, laptop when you need, all for $159.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/25/the-asus-chromebook-is-a-tablet-when-you-want-laptop-when-you-need-all-for-159-99.html" target="_blank">The ASUS Chromebook is a tablet when you want, laptop when you need, all for $159.99</a></span>
-                <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-25 22:00</span>
             </div>
         </div>
@@ -329,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
