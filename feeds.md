@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 14:02:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-26 15:01:44 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 12 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/russia-ukraine-peace-plan-whats-the-latest-version-after-us-kyiv-talks?traffic_source=rss" target="_blank">Russia-Ukraine ‘peace plan’: What’s the latest version after US-Kyiv talks?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 14:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/kelly-on-kimmel_1764164072267_hpMain_4x3t_384.jpg" alt="Sen. Kelly says Pete Hegseth &#x27;unqualified&#x27; after being bashed over display of medals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +97,20 @@
                 <span class="time">2025-11-26 12:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg" alt="At least 13 dead as fire engulfs Hong Kong tower blocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss" target="_blank">At least 13 dead as fire engulfs Hong Kong tower blocks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-26 11:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/829892/character-ai-stories-launch-teens" target="_blank">Character.AI launches Stories for teens after banning them from chats</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-26 14:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/692668d690ade6d498746821/master/pass/The%20Best%20Star%20Wars%20Gifts.png" alt="The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -111,6 +118,15 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-star-wars-gifts/" target="_blank">The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-26 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1736110926-500x500.jpg" alt="Many genes associated with dog behavior influence human personalities, too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/11/many-genes-associated-with-dog-behavior-influence-human-personalities-too/" target="_blank">Many genes associated with dog behavior influence human personalities, too</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-26 12:30</span>
             </div>
         </div>
 <div class="story">
@@ -140,29 +156,38 @@
                 <span class="time">2025-11-26 09:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/829419/poco-f8-ultra-bose-speakers-stereo-subwoofer" target="_blank">Poco partners with Bose to put a subwoofer in its latest phone</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-26 09:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="OnePlus Promo Code: $70 Off | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/oneplus-promo-code/" target="_blank">OnePlus Promo Code: $70 Off | November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-26 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2dwqc4qm3o7ypx5gns5o.png" alt="How to Create Auto Scaling Groups of EC2 Instances for High Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/taiwoakinbolaji/how-to-create-auto-scaling-groups-of-ec2-instances-for-high-availability-3mj4" target="_blank">How to Create Auto Scaling Groups of EC2 Instances for High Availability</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-26 14:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-SIG-Production-Stability" target="_blank">Fedora SIG Proposed To Improve Production Stability</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-26 14:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/" target="_blank">Voyager 1 Is About to Reach One Light-Day from Earth</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-26 14:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/platform-engineering-evolution/en/mediumimage/rachael-wonnacott-medium-1763543184988.jpg" alt="Presentation: Your Platform is Not an Island: Embracing Evolution in Your Ecosystem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,33 +215,6 @@
                 <span class="time">2025-11-26 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Vulkan-Video-Chrome-Help" target="_blank">NVIDIA Is Interested In Helping Bring Vulkan Video To Chrome</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-26 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/new-gen-linux-apps/" target="_blank">Open Source Never Dies: 11 of My Favorite Linux Apps That Refused to Stay Dead</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-26 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks" target="_blank">Await Is Not a Context Switch: Understanding Python&#x27;s Coroutines vs. Tasks</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-26 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +234,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/govee-floor-lamp-basic-1280x853.jpg" alt="Govee LED Floor Lamp Crashes to a Black Friday Low, Shoppers Are Clearing the Shelves Knowing This Is as Cheap as It Gets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/freshen-up-your-space-with-the-govee-rgbic-floor-lamp-while-its-going-for-just-60-2000647241" target="_blank">Govee LED Floor Lamp Crashes to a Black Friday Low, Shoppers Are Clearing the Shelves Knowing This Is as Cheap as It Gets</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-26 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KB087Y11G8MRZKZ8E7520J5K/hero-image.png" alt="The Latest Model of the Blink Mini 2K+ Camera Is Already Half Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/blink-mini-2k-plus-camera-sale-black-friday-sale?utm_medium=RSS" target="_blank">The Latest Model of the Blink Mini 2K+ Camera Is Already Half Off for Black Friday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-26 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/1762TEASER1200-hollingsworth-hound-20-pato-afortunado.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: Hollingsworth Hound presents the real reason for the housing crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/26/tom-the-dancing-bug-hollingsworth-hound-presents-the-real-reason-for-the-housing-crisis.html" target="_blank">Tom the Dancing Bug: Hollingsworth Hound presents the real reason for the housing crisis</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-26 14:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/ipad-11-a16-1280x853.jpg" alt="Apple Quietly Sent Amazon Thousands of iPads to Clear, WiFi Model Now Selling at All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +286,6 @@
                 <span class="title"><a href="https://gizmodo.com/gizmodo-staff-writer-kyle-barr-favorite-gifts-of-2025-2000691473" target="_blank">Gizmodo Consumer Tech Reporter Kyle Barr’s 9 Favorite Board Games for People Who Need a Break From Tech</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-26 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/chatgpt-app-1280x853.jpg" alt="OpenAI Court Filing Cites Adam Raine’s ChatGPT Rule Violations as Potential Cause of His Suicide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/openai-court-filing-cites-adam-raines-chatgpt-rule-violations-as-potential-cause-of-his-suicide-2000691765" target="_blank">OpenAI Court Filing Cites Adam Raine’s ChatGPT Rule Violations as Potential Cause of His Suicide</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-26 02:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/roborock-saros-10r-mop-1280x853.jpg" alt="Roborock Saros 10R Crashes $600 Off, 22,000 Pa Suction With Self-Emptying Station Hits All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/roborock-saros-10r-crashes-600-off-22000-pa-suction-with-self-emptying-station-hits-all-time-low-2000647321" target="_blank">Roborock Saros 10R Crashes $600 Off, 22,000 Pa Suction With Self-Emptying Station Hits All-Time Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-26 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/samsung-t7-ssd-1280x853.jpg" alt="Samsung T7 SSD Goes for Pocket Change Now, 2TB Drive Selling 68% Off Original Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-t7-ssd-goes-for-pocket-change-now-2tb-drive-selling-68-off-original-price-2000647374" target="_blank">Samsung T7 SSD Goes for Pocket Change Now, 2TB Drive Selling 68% Off Original Price</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-26 01:05</span>
             </div>
         </div>
 </div>
@@ -336,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
