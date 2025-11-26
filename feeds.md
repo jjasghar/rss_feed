@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 11:01:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-11-26 12:02:52 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 12:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg" alt="At least four dead as fire engulfs Hong Kong tower blocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss" target="_blank">At least four dead as fire engulfs Hong Kong tower blocks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-26 11:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/26/nx-s1-5612520/dogs-origin-physical-variation-stone-age-archaeology" target="_blank">The origins of your dog&#x27;s unique look may be older than you think</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-26 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +100,20 @@
                 <span class="time">2025-11-26 07:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e47b/live/23aa8770-ca78-11f0-8afb-6903ddf7a8f3.jpg" alt="Trump&#x27;s envoy to have Ukraine peace plan talks at Kremlin next week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s envoy to have Ukraine peace plan talks at Kremlin next week</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-26 07:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/26/g-s1-99444/italy-femicide-life-in-prison" target="_blank">Italy now recognizes the crime of femicide and punishes it with life in prison</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-26 07:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6921000a0b506e4e3029081d/master/pass/doordash-girl-black-creators-backlash.jpg" alt="The Viral ‘DoorDash Girl’ Saga Unearthed a Nightmare for Black Creators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-viral-doordash-girl-saga-unearthed-a-nightmare-for-black-creators/" target="_blank">The Viral ‘DoorDash Girl’ Saga Unearthed a Nightmare for Black Creators</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-26 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/692643a36171e1fcd338e7f8/master/pass/A%20Black%20Friday%20Promo%20Code%20for%20Discounts%20on%20Kohler%20Bathroom%20and%20Kitchen.png" alt="Kohler Black Friday Promo Code (2025): 10 Percent Off Bathroom and Kitchen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +159,38 @@
                 <span class="time">2025-11-26 07:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" alt="20% Off Sephora Promo Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sephora-promo-code/" target="_blank">20% Off Sephora Promo Code</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-26 06:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Vulkan-Video-Chrome-Help" target="_blank">NVIDIA Is Interested In Helping Bring Vulkan Video To Chrome</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-26 11:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/new-gen-linux-apps/" target="_blank">Open Source Never Dies: 11 of My Favorite Linux Apps That Refused to Stay Dead</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-26 11:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks" target="_blank">Await Is Not a Context Switch: Understanding Python&#x27;s Coroutines vs. Tasks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-26 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/11/linkedin-migration-journey-users/en/headerimage/generatedHeaderImage-1763862493703.jpg" alt="LinkedIn’s Migration Journey to Serve Billions of Users by Nishant Lakshmikanth at QCon SF" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,52 +218,20 @@
                 <span class="time">2025-11-26 05:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/debajit13/make-makefiles-a-modern-developers-guide-to-classic-automation-14hl" target="_blank">Make &amp; Makefiles: A Modern Developer&#x27;s Guide to Classic Automation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-26 04:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExbTJvenQ0OHA3dDdsN2xlcWJjZHp0YXZtemFtZjF4ejM5ZG9qMGRtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FmweLlGdPR2sv5DTjFO%2Fgiphy.gif" alt="What Modern Python Uses for Async API Calls: HTTPX &amp; TaskGroups" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dentedlogic/what-modern-python-uses-for-async-api-calls-httpx-taskgroups-3e4e" target="_blank">What Modern Python Uses for Async API Calls: HTTPX &amp; TaskGroups</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-26 02:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-RC4" target="_blank">FreeBSD 15.0-RC4 Released Due To Last Minute Issues</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-26 01:20</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/four-ways-ai-is-being-used-to-strengthen-democracies-worldwide.html" target="_blank">Four Ways AI Is Being Used to Strengthen Democracies Worldwide</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-25 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Earthborne-Rangers-Board-Game-1-1280x853.jpg" alt="Gizmodo Consumer Tech Reporter Kyle Barr’s 9 Favorite Board Games for People Who Need a Break From Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/gizmodo-staff-writer-kyle-barr-favorite-gifts-of-2025-2000691473" target="_blank">Gizmodo Consumer Tech Reporter Kyle Barr’s 9 Favorite Board Games for People Who Need a Break From Tech</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-26 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/chatgpt-app-1280x853.jpg" alt="OpenAI Court Filing Cites Adam Raine’s ChatGPT Rule Violations as Potential Cause of His Suicide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +277,6 @@
                 <span class="time">2025-11-25 23:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Destiny-2-Renegades-Aunor-Jedi-1280x853.jpg" alt="It’s Good That the ‘Destiny 2’ Jedi Proxy Also Kind of Sounds Like They Suck" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/destiny-2-renegades-praxic-order-jedi-star-wars-2000691646" target="_blank">It’s Good That the ‘Destiny 2’ Jedi Proxy Also Kind of Sounds Like They Suck</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-25 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 12:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
