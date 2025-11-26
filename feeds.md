@@ -1,30 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 00:04:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-26 01:29:12 UTC -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/russia-ukraine-war-list-of-key-events-day-1371?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,371</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 00:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7194/live/eefed080-ca40-11f0-86f6-7b854e603852.jpg" alt="Ukraine says &#x27;understanding&#x27; reached with US on peace plan, as Trump says his envoy will meet Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,15 +89,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/fbi-seeks-interviews-six-democrats-trump-accused-seditious-behavior-rcna245880" target="_blank">FBI seeks interviews with six Democrats Trump accused of &#x27;seditious behavior&#x27;</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-11-25 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/25/nigerian-schoolgirls-rescued-after-mass-abduction-in-kebbi" target="_blank">Nigerian schoolgirls rescued after mass abduction in Kebbi</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-25 20:35</span>
             </div>
         </div>
 </div>
@@ -179,6 +176,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/" target="_blank">Reinventing how .NET builds and ships (again)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-25 22:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-2.1-But-Xilinx" target="_blank">AMDGPU Driver Lacks HDMI 2.1 While AMD-Xilinx Driver Has Some HDMI 2.1 Support</a></span>
                 <span class="feed">Phoronix</span>
@@ -203,15 +209,6 @@
                 <span class="time">2025-11-25 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqepp08u3v855x17scd0y.gif" alt="Unleashing the Power of Monitoring: Master Your WordPress with New Relic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/newrelic/unleashing-the-power-of-monitoring-master-your-wordpress-with-new-relic-1gjg" target="_blank">Unleashing the Power of Monitoring: Master Your WordPress with New Relic</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-25 19:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +228,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/samsung-t7-ssd-1280x853.jpg" alt="Samsung T7 SSD Goes for Pocket Change Now, 2TB Drive Selling 68% Off Original Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-t7-ssd-goes-for-pocket-change-now-2tb-drive-selling-68-off-original-price-2000647374" target="_blank">Samsung T7 SSD Goes for Pocket Change Now, 2TB Drive Selling 68% Off Original Price</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-26 01:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Destiny-2-Renegades-Aunor-Jedi-1280x853.jpg" alt="It’s Good That the ‘Destiny 2’ Jedi Proxy Also Kind of Sounds Like They Suck" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +282,6 @@
                 <span class="time">2025-11-25 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KA1DP8B52AA52F7Z8RWAPJJP/hero-image.png" alt="The Garmin Forerunner 265 and 965 Have Never Been Priced This Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/garmin-forerunner-265-and-965-sales-black-friday-2025?utm_medium=RSS" target="_blank">The Garmin Forerunner 265 and 965 Have Never Been Priced This Low</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-25 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
