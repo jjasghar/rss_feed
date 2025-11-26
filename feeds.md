@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 22:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-26 23:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 13 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/26/psv-trounce-liverpool-as-arsenal-topple-bayern-while-psg-and-real-also-win?traffic_source=rss" target="_blank">PSV trounce Liverpool as Arsenal topple Bayern while PSG and Real also win</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg" alt="At least 44 dead and hundreds missing after fire engulfs Hong Kong tower blocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss" target="_blank">At least 44 dead and hundreds missing after fire engulfs Hong Kong tower blocks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-26 22:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg" alt="At least 36 dead and hundreds missing after fire engulfs Hong Kong tower blocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,30 +97,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e55c/live/f7e80f90-cafe-11f0-a892-01d657345866.jpg" alt="Millions to pay more in tax as Reeves says Budget is tackling cost of living" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/two-national-guard-troops-shot-in-us-capital?traffic_source=rss" target="_blank">Two National Guard troops shot in US capital</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Military personnel, appearing to be National Guard, shot near White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Military personnel, appearing to be National Guard, shot near White House</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-26 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/ireland-tightens-immigration-rules-to-check-population-growth?traffic_source=rss" target="_blank">Ireland tightens immigration rules to check population growth</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 19:43</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c246npmq1n4o?at_medium=RSS&at_campaign=rss" target="_blank">Millions to pay more in tax as Reeves says Budget is tackling cost of living</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-26 20:41</span>
             </div>
         </div>
 </div>
@@ -103,6 +110,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/831048/apple-iphone-17-samsung-galaxy-s25-top-sales-2025" target="_blank">Strong iPhone 17 sales may push Apple ahead of Samsung this year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-26 22:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691ebbbfaaec53d0d5d9437c/master/pass/The%20Best%20Early%20Black%20Friday%20Tech%20Deals%20From%20Best%20Buy.png" alt="14 Early Black Friday Deals at Best Buy (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/early-black-friday-best-buy-deals/" target="_blank">14 Early Black Friday Deals at Best Buy (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-26 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +164,29 @@
                 <span class="time">2025-11-26 18:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/26/gm-tech-executive-shakeup-continues-on-software-team/" target="_blank">GM tech executive shakeup continues on software team</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-26 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/830182/microsoft-surface-laptop-black-friday-2025-deal-sale" target="_blank">Microsoft’s latest 13-inch Surface Laptop is down to $549.99, a new record low price</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-26 17:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bnggbn/the-semantic-object-factory-the-missing-layer-between-ai-intent-and-backend-meaning-1pf8" target="_blank">The Semantic Object Factory — The Missing Layer Between AI Intent and Backend Meaning</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-26 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.pypi.org/posts/2025-11-26-pypi-and-shai-hulud/" target="_blank">PyPI and Shai-Hulud: Staying Secure Amid Emerging Threats</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-26 22:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +223,6 @@
                 <span class="time">2025-11-26 19:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18775813&w=600" alt="Top 5 Best Practices for Building Dockerized MCP Servers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/best-practices-dockerized-mcp-servers" target="_blank">Top 5 Best Practices for Building Dockerized MCP Servers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-26 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-2in4" target="_blank">Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-26 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +252,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/10/2e4b4b2f218acb4aed37585b36577629-1280x720.jpg" alt="Cyberpunk 2077 Is Keeping CD Projekt Red Funded As It Breaks A Witcher 3 Record" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cyberpunk-2-sales-witcher-4-cdpr-2000647747" target="_blank">Cyberpunk 2077 Is Keeping CD Projekt Red Funded As It Breaks A Witcher 3 Record</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-26 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KB114FY717Q7B3K8FR08DAAQ/hero-image.png" alt="These Subscription-Free Fitness Trackers Are All on Sale for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/subscription-free-fitness-trackers-deals-black-friday-2025?utm_medium=RSS" target="_blank">These Subscription-Free Fitness Trackers Are All on Sale for Black Friday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-26 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Sinners-Smoke-Annie-WB-Pictures-1280x853.jpg" alt="How the ‘Sinners’ Costume Designer Helped Wunmi Mosaku Shape the Movie’s Secret MVP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-the-sinners-costume-designer-helped-wunmi-mosaku-shape-the-movies-secret-mvp-2000692351" target="_blank">How the ‘Sinners’ Costume Designer Helped Wunmi Mosaku Shape the Movie’s Secret MVP</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-26 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/1min.AI-3-Year-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get all the AI tools you need in one workspace — now 80% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/26/get-all-the-ai-tools-you-need-in-one-workspace-now-80-off.html" target="_blank">Get all the AI tools you need in one workspace — now 80% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-26 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Image-Victor-Babenko-Shutterstock.jpg?fit=1080%2C739&amp;quality=60&amp;ssl=1" alt="Campbell&#x27;s insists 3D printed meat claims &quot;patently absurd&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -260,42 +303,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/26/nintendo-cracks-down-on-bikini-wearing-kirby-characters.html" target="_blank">Nintendo cracks down on bikini-wearing Kirby characters</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-26 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/ecoflowdelta2-1280x853.jpg" alt="EcoFlow Decided Profit Doesn’t Matter, 1800W Power Station Hits New All-Time Low for Winter Backup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ecoflow-decided-profit-doesnt-matter-1800w-power-station-hits-new-all-time-low-for-winter-backup-2000647635" target="_blank">EcoFlow Decided Profit Doesn’t Matter, 1800W Power Station Hits New All-Time Low for Winter Backup</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-26 18:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/AJAX_the_Future_Armoured_Fighting_Vehicle_for_the_British_Army_MOD_45159441.jpg?fit=2297%2C1588&amp;quality=60&amp;ssl=1" alt="Chundertank: Britain&#x27;s new armored fighting vehicle makes soldiers puke" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/26/chundertank-britains-new-armored-fighting-vehicle-makes-soldiers-puke.html" target="_blank">Chundertank: Britain&#x27;s new armored fighting vehicle makes soldiers puke</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-26 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/donald-trump-USA-hat-nov.-22-2025-1280x853.jpg" alt="Trump-Backed Crypto Company Promotes ‘Shit Piss Skin Can’ Coin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-crypto-bitcoin-btc-price-shit-piss-skin-can-wlfi-2000692230" target="_blank">Trump-Backed Crypto Company Promotes ‘Shit Piss Skin Can’ Coin</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-26 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/psplus-dec2025-1280x720.jpg" alt="PlayStation Plus Subscribers Get More Free Games Than Usual Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-plus-free-games-december-2025-outlast-horizon-ps5-ps4-2000647645" target="_blank">PlayStation Plus Subscribers Get More Free Games Than Usual Next Month</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-26 17:43</span>
             </div>
         </div>
 </div>
@@ -340,6 +347,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/satellite_imagery.png" alt="Satellite Imagery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3173/" target="_blank">Satellite Imagery</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-11-26 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5709.png" alt="Anh Gets Something" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -353,8 +369,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
