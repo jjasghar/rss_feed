@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 16:02:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-26 17:01:44 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-3-rt-gmh-251126_1764162069239_hpMain_4x3t_384.jpg" alt="Georgia prosecutor drops election interference case against Trump, others" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/georgia-prosecutor-drops-election-interference-case-trump/story?id=127898245" target="_blank">Georgia prosecutor drops election interference case against Trump, others</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-26 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/georgia-judge-drops-election-interference-case-against-trump?traffic_source=rss" target="_blank">Georgia judge drops election interference case against Trump</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 16:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,30 +95,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/kelly-on-kimmel_1764164072267_hpMain_4x3t_384.jpg" alt="Sen. Kelly says Pete Hegseth &#x27;unqualified&#x27; after being bashed over display of medals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a98e/live/4d6fed60-cace-11f0-8c06-f5d460985095.jpg" alt="Paul Doyle pleads guilty to Liverpool parade charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/sen-kelly-pete-hegseth-totally-unqualified-after-bashed/story?id=127894384" target="_blank">Sen. Kelly says Pete Hegseth &#x27;unqualified&#x27; after being bashed over display of medals</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-26 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/europe-reimagines-rearmament-at-sea-learning-from-russias-war-on-ukraine?traffic_source=rss" target="_blank">Europe reimagines rearmament at sea, learning from Russia’s war on Ukraine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/26/g-s1-99460/up-first-newsletter-ukraine-russia-thanksgiving-travel" target="_blank">Trump backs Witkoff after leaked call with Russian aide. And, Thanksgiving air travel</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-26 13:12</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cde6kne1ykno?at_medium=RSS&at_campaign=rss" target="_blank">Paul Doyle pleads guilty to Liverpool parade charges</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-26 13:51</span>
             </div>
         </div>
 </div>
@@ -110,6 +108,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Second-Stage-500x500.jpg" alt="After a decade Russia’s native-built Soyuz 5 rocket finally reaches the launch site" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/11/after-a-decade-russias-native-built-soyuz-5-rocket-finally-reaches-the-launch-site/" target="_blank">After a decade Russia’s native-built Soyuz 5 rocket finally reaches the launch site</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-26 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/829971/fanttik-x8-tire-inflator-black-friday-deal-sale" target="_blank">Fanttik&amp;#8217;s portable tire inflator has hit an all-time low for Black Friday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-26 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6926179ea7e41a4f9d20611c/master/pass/KK%20Park_After%20(2).png" alt="The Destruction of a Notorious Myanmar Scam Compound Appears to Have Been ‘Performative’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/myanmar-kk-park-scam-compound-destruction/" target="_blank">The Destruction of a Notorious Myanmar Scam Compound Appears to Have Been ‘Performative’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-26 16:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,38 +162,38 @@
                 <span class="time">2025-11-26 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1736110926-500x500.jpg" alt="Many genes associated with dog behavior influence human personalities, too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/many-genes-associated-with-dog-behavior-influence-human-personalities-too/" target="_blank">Many genes associated with dog behavior influence human personalities, too</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-26 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/26/onton-raises-7-5m-to-expand-its-ai-powered-shopping-site-beyond-furniture/" target="_blank">Onton raises $7.5M to expand its AI-powered shopping site beyond furniture</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-26 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6921000a0b506e4e3029081d/master/pass/doordash-girl-black-creators-backlash.jpg" alt="The Viral ‘DoorDash Girl’ Saga Unearthed a Nightmare for Black Creators" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-viral-doordash-girl-saga-unearthed-a-nightmare-for-black-creators/" target="_blank">The Viral ‘DoorDash Girl’ Saga Unearthed a Nightmare for Black Creators</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-26 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/douglasvandergraph/when-jesus-walks-into-the-story-you-stopped-hoping-would-change-an-8000-word-deep-encounter-with-2988" target="_blank">When Jesus Walks Into the Story You Stopped Hoping Would Change: A Deep Encounter with John Chapter 5</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-26 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/code-security" target="_blank">Code security for software engineers</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-11-26 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18775767&w=600" alt="Building AI Agents With Semantic Kernel: A Practical 101 Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-ai-agents-with-semantic-kernel" target="_blank">Building AI Agents With Semantic Kernel: A Practical 101 Guide</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-26 16:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,33 +221,6 @@
                 <span class="time">2025-11-26 14:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-SIG-Production-Stability" target="_blank">Fedora SIG Proposed To Improve Production Stability</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-26 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/" target="_blank">Voyager 1 Is About to Reach One Light-Day from Earth</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-26 14:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/platform-engineering-evolution/en/mediumimage/rachael-wonnacott-medium-1763543184988.jpg" alt="Presentation: Your Platform is Not an Island: Embracing Evolution in Your Ecosystem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/platform-engineering-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Your Platform is Not an Island: Embracing Evolution in Your Ecosystem</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-26 13:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/butterfly-nebula-1280x853.jpg" alt="New View of Iconic Butterfly Nebula Is Shockingly Gorgeous" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-view-of-iconic-butterfly-nebula-is-shockingly-gorgeous-2000692222" target="_blank">New View of Iconic Butterfly Nebula Is Shockingly Gorgeous</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-26 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/shutterstock_2266530605.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="&quot;6-7&quot; explained by the LA Public Library" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/26/6-7-explained-by-the-la-public-library.html" target="_blank">&quot;6-7&quot; explained by the LA Public Library</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-26 16:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/dust-devil-marsr-1280x853.jpg" alt="We’ve Detected Lightning on Mars for the First Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +294,6 @@
                 <span class="time">2025-11-26 14:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/1762TEASER1200-hollingsworth-hound-20-pato-afortunado.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: Hollingsworth Hound presents the real reason for the housing crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/26/tom-the-dancing-bug-hollingsworth-hound-presents-the-real-reason-for-the-housing-crisis.html" target="_blank">Tom the Dancing Bug: Hollingsworth Hound presents the real reason for the housing crisis</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-26 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/ipad-11-a16-1280x853.jpg" alt="Apple Quietly Sent Amazon Thousands of iPads to Clear, WiFi Model Now Selling at All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/apple-quietly-sent-amazon-thousands-of-ipads-to-clear-wifi-model-now-selling-at-all-time-low-2000647529" target="_blank">Apple Quietly Sent Amazon Thousands of iPads to Clear, WiFi Model Now Selling at All-Time Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-26 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,22 +326,13 @@
                 <span class="time">2025-11-25 17:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1764042858-20251125.png" alt="Saturday Morning Breakfast Cereal - Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/life-8" target="_blank">Saturday Morning Breakfast Cereal - Life</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-25 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
