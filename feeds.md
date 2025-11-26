@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 21:01:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-26 22:01:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NPR News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg" alt="At least 36 dead and hundreds missing after fire engulfs Hong Kong tower blocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss" target="_blank">At least 36 dead and hundreds missing after fire engulfs Hong Kong tower blocks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-26 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/26/nx-s1-5621838/trump-steve-witkoff-russia" target="_blank">Trump defends key negotiator after leaked phone call appears to show him coaching Russia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-26 21:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/26/live-two-us-national-guard-members-shot-killed-near-white-house?traffic_source=rss" target="_blank">LIVE: Two US National Guard members wounded in Washington, DC shooting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 20:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,33 +98,6 @@
                 <span class="time">2025-11-26 19:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/26/nx-s1-5604808/4-marketing-tricks-to-not-fall-for-this-holiday-season" target="_blank">4 marketing tricks to not fall for this holiday season</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-26 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/26/us-group-sues-apple-over-dr-congo-conflict-minerals?traffic_source=rss" target="_blank">US group sues Apple over DR Congo conflict minerals</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37dd/live/1e743530-cae1-11f0-995e-fb191683181c.jpg" alt="Terror group Palestine Action like the suffragettes, court hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1w9qelpdw2o?at_medium=RSS&at_campaign=rss" target="_blank">Terror group Palestine Action like the suffragettes, court hears</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-26 17:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,6 +110,15 @@
                 <span class="title"><a href="https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/" target="_blank">Nordic founders are taking bigger swings, and it’s paying off</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-26 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68f8496f3f853e50e8beaa97/master/pass/Our%20Favorite%20High%20Resolution%20Mirrorless%20Camera%20is%20$900%20Off%20Right%20Now.png" alt="Save $900 on Sony’s Best Mirrorless Camera With This Early Black Friday Deal (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sony-a7rv-black-friday-deal-2025/" target="_blank">Save $900 on Sony’s Best Mirrorless Camera With This Early Black Friday Deal (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-26 20:40</span>
             </div>
         </div>
 <div class="story">
@@ -147,20 +157,20 @@
                 <span class="time">2025-11-26 17:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/Second-Stage-500x500.jpg" alt="After a decade Russia’s native-built Soyuz 5 rocket finally reaches the launch site" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/11/after-a-decade-russias-native-built-soyuz-5-rocket-finally-reaches-the-launch-site/" target="_blank">After a decade Russia’s native-built Soyuz 5 rocket finally reaches the launch site</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-26 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ravidasari/react-vs-vuejs-the-2025-developers-guide-to-performance-ecosystem-and-scalability-3ddi" target="_blank">React vs. Vue.js: The 2025 Developer’s Guide to Performance, Ecosystem, and Scalability</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-26 21:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +216,6 @@
                 <span class="time">2025-11-26 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/kde-logo-.jpg?resize=406%2C232&amp;ssl=1" alt="KDE Plasma is Going Wayland-Only – But Not Until 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/kde-plasma-6-8-no-x11-wayland-only" target="_blank">KDE Plasma is Going Wayland-Only – But Not Until 2027</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-26 17:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Image-Victor-Babenko-Shutterstock.jpg?fit=1080%2C739&amp;quality=60&amp;ssl=1" alt="Campbell&#x27;s insists 3D printed meat claims &quot;patently absurd&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/26/campbells-insists-3d-printed-meat-claims-patently-absurd.html" target="_blank">Campbell&#x27;s insists 3D printed meat claims &quot;patently absurd&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-26 21:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/WCCFkirbysdreambuffet1-e1764186409626.jpg?fit=768%2C432&amp;quality=60&amp;ssl=1" alt="Nintendo cracks down on bikini-wearing Kirby characters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +298,6 @@
                 <span class="time">2025-11-26 17:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/butterfly-nebula-1280x853.jpg" alt="New View of Iconic Butterfly Nebula Is Shockingly Gorgeous" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-view-of-iconic-butterfly-nebula-is-shockingly-gorgeous-2000692222" target="_blank">New View of Iconic Butterfly Nebula Is Shockingly Gorgeous</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-26 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,9 +307,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/26/x-mas-days-of-future-past" target="_blank">X-Mas: Days Of Future Past</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-26 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/26/22nd-annual-child-s-play-dinner-auction" target="_blank">22nd Annual Child&#x27;s Play Dinner/Auction!</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-11-26 17:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1764042886-20251126.png" alt="Saturday Morning Breakfast Cereal - Fine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/fine-2" target="_blank">Saturday Morning Breakfast Cereal - Fine</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-26 16:20</span>
             </div>
         </div>
 <div class="story">
@@ -334,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
