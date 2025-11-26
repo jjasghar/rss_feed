@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 06:02:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-26 07:01:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/26/g-s1-99442/national-parks-fees-international-tourists" target="_blank">National Parks to raise fees by $100 for international tourists to popular U.S. parks</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-26 06:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/kristi-noem-cecot_1764131523519_hpMain_4x3t_384.jpg" alt="Kristi Noem directed deportations to El Salvador after judge&#x27;s order: DOJ" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/kristi-noem-directed-venezuelans-el-salvador-after-federal/story?id=127884456" target="_blank">Kristi Noem directed deportations to El Salvador after judge&#x27;s order: DOJ</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-26 05:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-witkoff-putin_7092063.jpg?20251126043945" alt="Trump&#x27;s peace plan had Russian fingerprints all over it - and now we know why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trumps-peace-plan-had-russian-fingerprints-all-over-it-and-now-we-know-why-13475506" target="_blank">Trump&#x27;s peace plan had Russian fingerprints all over it - and now we know why</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-26 04:31</span>
             </div>
         </div>
 <div class="story">
@@ -65,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e47b/live/23aa8770-ca78-11f0-8afb-6903ddf7a8f3.jpg" alt="Ukraine says &#x27;understanding&#x27; reached on US peace plan, as Trump envoy to meet Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine says &#x27;understanding&#x27; reached on US peace plan, as Trump envoy to meet Putin</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-26 03:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-8-gty-gmh-251124_1763993846357_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump sending Witkoff to meet with Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -73,38 +101,29 @@
                 <span class="time">2025-11-26 02:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/fbi-probes-democrats-who-urged-us-troops-to-defy-illegal-orders?traffic_source=rss" target="_blank">FBI probes Democrats who urged US troops to defy illegal orders</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251125-dan-driscoll-gk-3cdd4e.jpg" alt="U.S. Army secretary warned Ukraine of imminent defeat while pushing initial peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/us-army-secretary-warned-ukraine-imminent-defeat-pushing-initial-peace-rcna245704" target="_blank">U.S. Army secretary warned Ukraine of imminent defeat while pushing initial peace plan</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-26 01:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/25/nx-s1-5620991/louisiana-surgeon-general-ralph-abraham-cdc-deputy" target="_blank">Louisiana&#x27;s top health official, a critic of the COVID vaccine, will be CDC deputy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-26 01:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/25/uber-and-werides-robotaxi-service-in-abu-dhabi-is-officially-driverless/" target="_blank">Uber and WeRide’s robotaxi service in Abu Dhabi is officially driverless</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-26 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" alt="20% Off Sephora Promo Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sephora-promo-code/" target="_blank">20% Off Sephora Promo Code</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-26 06:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/plexs-crackdown-on-free-remote-streaming-access-starts-this-week/" target="_blank">Plex’s crackdown on free remote streaming access starts this week</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-11-25 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/25/character-ai-will-offer-interactive-stories-to-kids-instead-of-open-ended-chat/" target="_blank">Character.AI will offer interactive ‘Stories’ to kids instead of open-ended chat</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-25 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order" target="_blank">David Sacks tried to kill state AI laws — and it blew up in his face</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-25 21:06</span>
             </div>
         </div>
 </div>
@@ -328,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
