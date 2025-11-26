@@ -1,26 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 03:22:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-26 04:04:47 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 18 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 03:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 04:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-8-gty-gmh-251124_1763993846357_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump sending Witkoff to meet with Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=127815197" target="_blank">Trump admin live updates: Trump sending Witkoff to meet with Putin</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-26 02:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,15 +100,6 @@
                 <span class="time">2025-11-25 23:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7194/live/eefed080-ca40-11f0-86f6-7b854e603852.jpg" alt="Ukraine says &#x27;understanding&#x27; reached with US on peace plan, as Trump says his envoy will meet Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine says &#x27;understanding&#x27; reached with US on peace plan, as Trump says his envoy will meet Putin</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-25 22:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -102,6 +112,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup" target="_blank">Campbell’s promises its soups are not made with 3D printed meat</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-25 23:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2126120280-500x500.jpg" alt="There may not be a safe off-ramp for some taking GLP-1 drugs, study suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/11/glp-1-drugs-improve-heart-health-but-only-if-you-keep-taking-them/" target="_blank">There may not be a safe off-ramp for some taking GLP-1 drugs, study suggests</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-25 22:44</span>
             </div>
         </div>
 <div class="story">
@@ -138,15 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order" target="_blank">David Sacks tried to kill state AI laws — and it blew up in his face</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-25 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/product-ddr5-2up-angle_3-2-all-others-500x500-1764100670.jpeg" alt="GPU prices are coming to earth just as RAM costs shoot into the stratosphere" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/11/spiking-memory-prices-mean-that-it-is-once-again-a-horrible-time-to-build-a-pc/" target="_blank">GPU prices are coming to earth just as RAM costs shoot into the stratosphere</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-25 20:15</span>
             </div>
         </div>
 </div>
@@ -228,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/chatgpt-app-1280x853.jpg" alt="OpenAI Court Filing Cites Adam Raine’s ChatGPT Rule Violations as Potential Cause of His Suicide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/openai-court-filing-cites-adam-raines-chatgpt-rule-violations-as-potential-cause-of-his-suicide-2000691765" target="_blank">OpenAI Court Filing Cites Adam Raine’s ChatGPT Rule Violations as Potential Cause of His Suicide</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-26 02:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/samsung-t7-ssd-1280x853.jpg" alt="Samsung T7 SSD Goes for Pocket Change Now, 2TB Drive Selling 68% Off Original Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -272,15 +291,6 @@
                 <span class="time">2025-11-25 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAY6MKJ9P33PJKFJ6W7DGM3N/hero-image.png" alt="These Compact Adjustable Dumbbells Are 24% Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/compact-adjustable-dumbbells-deal-black-friday-2025?utm_medium=RSS" target="_blank">These Compact Adjustable Dumbbells Are 24% Off for Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-25 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 293 |
-        🔄 Last Updated: 03:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 294 |
+        🔄 Last Updated: 04:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
