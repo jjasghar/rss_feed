@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-25 23:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-26 00:04:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, November 25, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7194/live/eefed080-ca40-11f0-86f6-7b854e603852.jpg" alt="Ukraine says &#x27;understanding&#x27; reached with US on peace plan, as Trump says his envoy will meet Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine says &#x27;understanding&#x27; reached with US on peace plan, as Trump says his envoy will meet Putin</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-25 22:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +94,20 @@
                 <span class="time">2025-11-25 20:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/fbi-2-rt-gmh-251125_1764094046324_hpMain_4x3t_384.jpg" alt="FBI attempting to schedule interviews with 6 Democrats on video posted for troops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/fbi-attempting-schedule-interviews-6-members-congress-made/story?id=127868580" target="_blank">FBI attempting to schedule interviews with 6 Democrats on video posted for troops</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-25 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup" target="_blank">Campbell’s promises its soups are not made with 3D printed meat</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-25 23:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69262fd3f327312cfe6fb7a7/master/pass/culture_grok_elon_roast.gif" alt="Elon Musk Said Grok’s Roasts Would Be ‘Epic’ at Parties—So I Tried It on My Coworkers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +153,20 @@
                 <span class="time">2025-11-25 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69261056a68a747602c48e98/master/pass/The%20Best%20Deals%20from%20Huckberry's%20Black%20Friday%20Sale.png" alt="The Best Deals from Huckberry&#x27;s 2025 Black Friday Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/huckberry-black-friday-sale-2025/" target="_blank">The Best Deals from Huckberry&#x27;s 2025 Black Friday Sale</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-25 20:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pxtrik/my-new-thesis-go-linter-in-rust-1hp9" target="_blank">My new thesis - Go Linter in Rust</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-25 23:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2i5hnon7vouj9r4449sy.png" alt="Go full stack web app tutorial with sqlc and htmx. Part 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -182,6 +186,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/11/go-agent-development-kit/en/headerimage/go-adk-1764101286223.jpeg" alt="Google Launches Agent Development Kit for Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/go-agent-development-kit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Launches Agent Development Kit for Go</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-25 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18775168&w=600" alt="Breaking the Chains of the GIL in Python 3.14" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -197,24 +210,6 @@
                 <span class="title"><a href="https://dev.to/newrelic/unleashing-the-power-of-monitoring-master-your-wordpress-with-new-relic-1gjg" target="_blank">Unleashing the Power of Monitoring: Master Your WordPress with New Relic</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-25 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/" target="_blank">A new bridge links the math of infinity to computer science</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-25 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/giga-computing-r284" target="_blank">Giga Computing R284-A92-AAL1: A Reliable 2U Rack Server For Intel Xeon 6900 Series</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-25 19:10</span>
             </div>
         </div>
 </div>
@@ -327,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
