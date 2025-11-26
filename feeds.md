@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 19:01:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-26 20:01:36 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, November 26, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Military personnel, appearing to be National Guard, shot near White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Military personnel, appearing to be National Guard, shot near White House</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-26 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/ireland-tightens-immigration-rules-to-check-population-growth?traffic_source=rss" target="_blank">Ireland tightens immigration rules to check population growth</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 19:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37dd/live/1e743530-cae1-11f0-995e-fb191683181c.jpg" alt="Terror group Palestine Action like the suffragettes, court hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1w9qelpdw2o?at_medium=RSS&at_campaign=rss" target="_blank">Terror group Palestine Action like the suffragettes, court hears</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-26 17:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-3-rt-gmh-251126_1764162069239_hpMain_4x3t_384.jpg" alt="Georgia prosecutor drops election interference case against Trump, others" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -71,38 +101,20 @@
                 <span class="time">2025-11-26 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/26/nx-s1-5616401/macys-thanksgiving-day-parade" target="_blank">How to watch the Macy&#x27;s Thanksgiving Day Parade</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-26 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/26/guinea-bissau-officers-take-total-control-close-borders-amid-election-chaos" target="_blank">Guinea-Bissau military takes ‘total control’ amid election chaos</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-26 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/26/georgia-judge-drops-election-interference-case-against-trump?traffic_source=rss" target="_blank">Georgia judge drops election interference case against Trump</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 16:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/26/chatgpt-everything-to-know-about-the-ai-chatbot/" target="_blank">ChatGPT: Everything you need to know about the AI-powered chatbot</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-26 19:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2231894756-500x500.jpg" alt="Solar’s growth in US almost enough to offset rising energy use" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +160,29 @@
                 <span class="time">2025-11-26 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6926179ea7e41a4f9d20611c/master/pass/KK%20Park_After%20(2).png" alt="The Destruction of a Notorious Myanmar Scam Compound Appears to Have Been ‘Performative’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/myanmar-kk-park-scam-compound-destruction/" target="_blank">The Destruction of a Notorious Myanmar Scam Compound Appears to Have Been ‘Performative’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-26 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jess/i-think-e-mail-reactions-are-a-crime-42e0" target="_blank">I think e-mail reactions are a crime</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-26 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18775813&w=600" alt="Top 5 Best Practices for Building Dockerized MCP Servers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/best-practices-dockerized-mcp-servers" target="_blank">Top 5 Best Practices for Building Dockerized MCP Servers</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-26 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/douglasvandergraph/when-jesus-walks-into-the-story-you-stopped-hoping-would-change-an-8000-word-deep-encounter-with-2988" target="_blank">When Jesus Walks Into the Story You Stopped Hoping Would Change: A Deep Encounter with John Chapter 5</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-26 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/code-security" target="_blank">Code security for software engineers</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-11-26 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18775767&w=600" alt="Building AI Agents With Semantic Kernel: A Practical 101 Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-ai-agents-with-semantic-kernel" target="_blank">Building AI Agents With Semantic Kernel: A Practical 101 Guide</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-26 16:30</span>
             </div>
         </div>
 </div>
@@ -335,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 293 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
