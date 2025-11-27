@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 03:20:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-27 04:02:50 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 03:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 04:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ramya_kamalasekaran/collection-framework-ak1" target="_blank">Collection framework</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-27 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/CDE-2.5.3-Desktop" target="_blank">Common Desktop Environment &quot;CDE&quot; 2.5.3 Released After Two Years</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,15 +221,6 @@
                 <span class="time">2025-11-26 21:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Radeon-Software-25.20.3-Linux" target="_blank">Radeon Software for Linux 25.20.3 Released - &quot;Exclusively Open-Source&quot; With RADV</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-26 20:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2493708425.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Campbells fires exec who said it was unhealthy, highly-processed food for poor people" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/26/campbells-fires-exec-who-said-it-was-unhealthy-highly-processed-food-for-poor-people.html" target="_blank">Campbells fires exec who said it was unhealthy, highly-processed food for poor people</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-27 01:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Stranger-Things-Netflix-1280x853.jpg" alt="‘Stranger Things’ Lets It Rip to Kick Off Its Final Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +301,6 @@
                 <span class="title"><a href="https://lifehacker.com/home/easy-ways-to-winterize-house-lower-utility-bills?utm_medium=RSS" target="_blank">13 Easy Ways to Winterize Your House and Lower Your Utility Bills</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-26 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KB0JTB98ZH0B5R23D4WQHCCE/hero-image.png" alt="10 Pocketable Tools That Make Great Stocking Stuffers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/pocket-sized-tool-stocking-stuffers?utm_medium=RSS" target="_blank">10 Pocketable Tools That Make Great Stocking Stuffers</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-26 23:00</span>
             </div>
         </div>
 </div>
@@ -353,8 +358,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 03:20 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 04:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
