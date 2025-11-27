@@ -1,36 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 07:02:25 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-11-27 08:02:11 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/train-collision-in-china-kills-11-railway-maintenance-workers-reports?traffic_source=rss" target="_blank">Train collision in China kills 11 railway maintenance workers: Reports</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-27 07:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +88,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/suspect-identified-in-the-national-guard-d-c-shooting-253121093677" target="_blank">Suspect identified in the National Guard D.C. shooting</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-11-27 00:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46f7/live/e55c7e80-cade-11f0-995e-fb191683181c.jpg" alt="Nine ways the Budget could affect you if you&#x27;re under 25" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn4dxmg7jyjo?at_medium=RSS&at_campaign=rss" target="_blank">Nine ways the Budget could affect you if you&#x27;re under 25</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-27 00:00</span>
             </div>
         </div>
 </div>
@@ -168,6 +158,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/elianalamhost/event-opening-aws-community-day-hong-kong-2025-3eod" target="_blank">Event Opening - AWS Community Day Hong Kong 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-27 07:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/factsaboutb2bblogs/dynamics-365-for-sales-the-best-crm-for-modern-businesses-in-2026-32bc" target="_blank">Dynamics 365 for Sales: The Best CRM for Modern Businesses in 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-27 05:48</span>
@@ -207,15 +206,6 @@
                 <span class="title"><a href="https://ziglang.org/news/migrating-from-github-to-codeberg/" target="_blank">Migrating the main Zig repository from GitHub to Codeberg</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-27 01:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CDE-2.5.3-Desktop" target="_blank">Common Desktop Environment &quot;CDE&quot; 2.5.3 Released After Two Years</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-27 01:43</span>
             </div>
         </div>
 </div>
@@ -332,22 +322,13 @@
                 <span class="time">2025-11-26 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/26/x-mas-days-of-future-past" target="_blank">X-Mas: Days Of Future Past</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-26 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
