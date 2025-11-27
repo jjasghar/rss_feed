@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 10:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-27 11:01:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +109,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6851d357d1cd4a57bb6484e7/master/pass/Best%20Smart%20Glasses%201%20SOURCE%20Simon%20Hill.png" alt="5 Best Smart Glasses (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-smart-glasses/" target="_blank">5 Best Smart Glasses (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-27 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="30% Off Canon Promo Codes | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -154,20 +162,29 @@
                 <span class="time">2025-11-26 22:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691ebbbfaaec53d0d5d9437c/master/pass/The%20Best%20Early%20Black%20Friday%20Tech%20Deals%20From%20Best%20Buy.png" alt="14 Early Black Friday Deals at Best Buy (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/early-black-friday-best-buy-deals/" target="_blank">14 Early Black Friday Deals at Best Buy (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-26 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhj898a51uuracxif2mgg.png" alt="HOW TO BECOME AN INTELLIGENT MAN." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arunabraham9947/how-to-become-an-intelligent-man-bpd" target="_blank">HOW TO BECOME AN INTELLIGENT MAN.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-27 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/micro-frontends-migration-qcon/en/headerimage/generatedHeaderImage-1763512378589.jpg" alt="Lessons Learned in Migrating to Micro-Frontends by Luca Mezzalira at QCon SF" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/micro-frontends-migration-qcon/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Lessons Learned in Migrating to Micro-Frontends by Luca Mezzalira at QCon SF</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-27 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68bvyn5wmiuppw3s0gpe.png" alt="AWS Explained in Simple Plain English" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +219,6 @@
                 <span class="title"><a href="https://reverser.dev/linux-kernel-explorer" target="_blank">Linux Kernel Explorer</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-27 06:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/factsaboutb2bblogs/dynamics-365-for-sales-the-best-crm-for-modern-businesses-in-2026-32bc" target="_blank">Dynamics 365 for Sales: The Best CRM for Modern Businesses in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-27 05:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-48/" target="_blank">FOSS Weekly #25.48: Backup Flatpaks and Snaps, Arduino&#x27;s Troubled Future, New Office, Popular Linux Apps Reborn and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-27 04:41</span>
             </div>
         </div>
 </div>
@@ -341,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
