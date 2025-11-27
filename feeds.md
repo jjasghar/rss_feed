@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 05:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-27 06:02:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -72,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46f7/live/e55c7e80-cade-11f0-995e-fb191683181c.jpg" alt="Nine ways the Budget could affect you if you&#x27;re under 25" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn4dxmg7jyjo?at_medium=RSS&at_campaign=rss" target="_blank">Nine ways the Budget could affect you if you&#x27;re under 25</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-27 00:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -87,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss" target="_blank">Canada announces new support for lumber, steel industries hit by tariffs</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-26 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/26/psv-trounce-liverpool-as-arsenal-topple-bayern-while-psg-and-real-also-win?traffic_source=rss" target="_blank">PSV trounce Liverpool as Arsenal topple Bayern while PSG and Real also win</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 22:51</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/factsaboutb2bblogs/dynamics-365-for-sales-the-best-crm-for-modern-businesses-in-2026-32bc" target="_blank">Dynamics 365 for Sales: The Best CRM for Modern Businesses in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-27 05:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/ubuntu-news.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Replaces System Monitor and Totem with New Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/ubuntu-26-04-lts-showtime-resources-default-apps" target="_blank">Ubuntu 26.04 Replaces System Monitor and Totem with New Apps</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-27 04:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ramya_kamalasekaran/collection-framework-ak1" target="_blank">Collection framework</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-27 03:49</span>
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/bnggbn/the-semantic-object-factory-the-missing-layer-between-ai-intent-and-backend-meaning-1pf8" target="_blank">The Semantic Object Factory — The Missing Layer Between AI Intent and Backend Meaning</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-26 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.pypi.org/posts/2025-11-26-pypi-and-shai-hulud/" target="_blank">PyPI and Shai-Hulud: Staying Secure Amid Emerging Threats</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-26 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bringbackdoors.com/" target="_blank">Bring Bathroom Doors Back to Hotels</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-26 22:26</span>
             </div>
         </div>
 </div>
@@ -344,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
