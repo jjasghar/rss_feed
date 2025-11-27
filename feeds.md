@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 19:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-27 20:01:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +109,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/27/this-thanksgivings-real-drama-may-be-michael-burry-versus-nvidia/" target="_blank">This Thanksgiving’s real drama may be Michael Burry versus Nvidia</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-27 19:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/829006/dreame-x40-ultra-black-friday-2025-deal-sale" target="_blank">Dreame’s X40 Ultra is arguably the best robovac deal you can grab for Black Friday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-27 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/11/27/best-ipad-apps-for-unleashing-and-exploring-your-creativity/" target="_blank">Best iPad apps for unleashing and exploring your creativity</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-27 17:29</span>
@@ -136,29 +159,38 @@
                 <span class="time">2025-11-27 14:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/830079/sentimental-value-joachim-trier-interview" target="_blank">Joachim Trier finds his place</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-27 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/831354/alibaba-quark-smart-glasses" target="_blank">China’s Alibaba giant enters the smart glasses race with removable batteries</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-27 13:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/galacthd/how-to-setup-vite-kemal-p6o" target="_blank">How to setup Vite + Kemal</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-27 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18777457&w=600" alt="How To Restore a Deleted Branch In Azure DevOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/restore-deleted-branch-azure-devops" target="_blank">How To Restore a Deleted Branch In Azure DevOps</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-27 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://replaceyourboss.ai/" target="_blank">Replace your boss before they replace you</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-27 18:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,38 +218,20 @@
                 <span class="time">2025-11-27 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F84p1gay68gkygp0f93ey.png" alt="The Modern Web Stack Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/saquib_pervez_0a13e54c649/the-modern-web-stack-explained-18gd" target="_blank">The Modern Web Stack Explained</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-27 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18777445&w=600" alt="Run LLMs Locally Using Ollama" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/run-llms-locally-using-ollama" target="_blank">Run LLMs Locally Using Ollama</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-27 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support" target="_blank">Same-day upstream Linux support for Snapdragon 8 Elite Gen 5</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-27 16:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAKV4QF3D0E24ZYPHVAS63FX/hero-image.png" alt="Epicka Makes My Favorite Universal Travel Adapter, and It&#x27;s One the Best Early Black Friday Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/travel/epicka-my-favorite-universal-travel-adapter-early-black-friday-deals?utm_medium=RSS" target="_blank">Epicka Makes My Favorite Universal Travel Adapter, and It&#x27;s One the Best Early Black Friday Deals</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-27 19:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/orangecat-1280x853.jpg" alt="The Story of How Cats Conquered the World Just Got Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +277,6 @@
                 <span class="time">2025-11-27 14:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/1536x864_cmsv2_fd7d3f3d-0f06-580b-a372-71c3311222c9-9563592.webp?fit=1536%2C864&amp;quality=55&amp;ssl=1" alt="Adolf Hitler wins fifth term of office in Ompundja, Namibia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/27/adolf-hitler-wins-fifth-term-of-office-in-ompundja-namibia.html" target="_blank">Adolf Hitler wins fifth term of office in Ompundja, Namibia</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-27 14:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 303 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 300 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
