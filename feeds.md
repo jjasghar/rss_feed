@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-26 23:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-27 00:04:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, November 26, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,9 +46,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss" target="_blank">Canada announces new support for lumber, steel industries hit by tariffs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 23:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/26/psv-trounce-liverpool-as-arsenal-topple-bayern-while-psg-and-real-also-win?traffic_source=rss" target="_blank">PSV trounce Liverpool as Arsenal topple Bayern while PSG and Real also win</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-26 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764196006339_now_hallie_hegseth_500_251126_1920x1080-gwp3da.jpg" alt="500 additional National Guard members will be sent to D.C., Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/500-additional-national-guard-members-will-be-sent-to-d-c-hegseth-says-253108293884" target="_blank">500 additional National Guard members will be sent to D.C., Hegseth says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-26 22:26</span>
             </div>
         </div>
 <div class="story">
@@ -85,24 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/26/nx-s1-5621838/trump-steve-witkoff-russia" target="_blank">Trump defends key negotiator after leaked phone call appears to show him coaching Russia</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-26 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/26/live-two-us-national-guard-members-shot-killed-near-white-house?traffic_source=rss" target="_blank">LIVE: Two US National Guard members wounded in Washington, DC shooting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e55c/live/f7e80f90-cafe-11f0-a892-01d657345866.jpg" alt="Millions to pay more in tax as Reeves says Budget is tackling cost of living" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c246npmq1n4o?at_medium=RSS&at_campaign=rss" target="_blank">Millions to pay more in tax as Reeves says Budget is tackling cost of living</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-26 20:41</span>
             </div>
         </div>
 </div>
@@ -252,6 +243,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/playstation-dualsense-edge-wireless-controller-1280x853.jpg" alt="Sony Goes Zero Profit on DualSense Edge Controller, Pro Gamers Can Snag It at All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sony-goes-zero-profit-on-dualsense-edge-controller-pro-gamers-can-snag-it-at-all-time-low-2000647737" target="_blank">Sony Goes Zero Profit on DualSense Edge Controller, Pro Gamers Can Snag It at All-Time Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-26 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KB0JTB98ZH0B5R23D4WQHCCE/hero-image.png" alt="10 Pocketable Tools That Make Great Stocking Stuffers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/pocket-sized-tool-stocking-stuffers?utm_medium=RSS" target="_blank">10 Pocketable Tools That Make Great Stocking Stuffers</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-26 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2023/10/2e4b4b2f218acb4aed37585b36577629-1280x720.jpg" alt="Cyberpunk 2077 Is Keeping CD Projekt Red Funded As It Breaks A Witcher 3 Record" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -285,24 +294,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/26/get-all-the-ai-tools-you-need-in-one-workspace-now-80-off.html" target="_blank">Get all the AI tools you need in one workspace — now 80% off</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-26 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Image-Victor-Babenko-Shutterstock.jpg?fit=1080%2C739&amp;quality=60&amp;ssl=1" alt="Campbell&#x27;s insists 3D printed meat claims &quot;patently absurd&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/26/campbells-insists-3d-printed-meat-claims-patently-absurd.html" target="_blank">Campbell&#x27;s insists 3D printed meat claims &quot;patently absurd&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-26 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/WCCFkirbysdreambuffet1-e1764186409626.jpg?fit=768%2C432&amp;quality=60&amp;ssl=1" alt="Nintendo cracks down on bikini-wearing Kirby characters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/26/nintendo-cracks-down-on-bikini-wearing-kirby-characters.html" target="_blank">Nintendo cracks down on bikini-wearing Kirby characters</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-26 19:46</span>
             </div>
         </div>
 </div>
@@ -369,8 +360,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
