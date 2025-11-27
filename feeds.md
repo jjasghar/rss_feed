@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 16:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-27 17:02:07 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/national-guard-4-rt-er-251127_1764253760232_hpMain_4x3t_384.jpg" alt="Shooting suspect drove across country to target National Guard members: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/2-national-guard-members-remain-critical-condition-after/story?id=127924182" target="_blank">Shooting suspect drove across country to target National Guard members: Officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-27 16:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +98,29 @@
                 <span class="time">2025-11-27 13:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/washington-dc-shooting-does-us-view-77000-afghans-as-potential-threats?traffic_source=rss" target="_blank">Washington, DC, shooting: Does US view 77,000 Afghans as potential threats?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-27 13:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025" target="_blank">Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-27 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6923e06e6d1b164c3de1b926/master/pass/Amazon%20Is%20Having%20an%20Epic%20Sale%20on%20Birdfy%20Smart%20Bird%20Feeders.png" alt="Amazon Is Having a Huge Black Friday Sale on Birdfy Smart Bird Feeders (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-smart-bird-feeder-deals-black-friday-2025/" target="_blank">Amazon Is Having a Huge Black Friday Sale on Birdfy Smart Bird Feeders (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-27 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/692759910bd064a72000766c/master/pass/The%20Smart%20Speakers%20We%20Can't%20Stop%20Talking%20To.png" alt="6 Best Smart Speakers (2025): Alexa, Google Assistant, Siri" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +157,29 @@
                 <span class="time">2025-11-27 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/ladyhawke3-500x500.jpg" alt="Blast from the past: 15 movie gems of 1985" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/11/blast-from-the-past-15-movie-gems-of-1985/" target="_blank">Blast from the past: 15 movie gems of 1985</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-27 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6925e8185217ca08473208af/master/pass/Best-Video-Games-You-Missed-Culture-Blue_Prince_Screenshot_02.png" alt="5 Great Video Games You Might Have Missed (2025): Blippo+, Sektori, Dispatch, Blue Prince" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/5-great-games-you-might-have-missed-in-2025/" target="_blank">5 Great Video Games You Might Have Missed (2025): Blippo+, Sektori, Dispatch, Blue Prince</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-27 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F84p1gay68gkygp0f93ey.png" alt="The Modern Web Stack Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saquib_pervez_0a13e54c649/the-modern-web-stack-explained-18gd" target="_blank">The Modern Web Stack Explained</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-27 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18777445&w=600" alt="Run LLMs Locally Using Ollama" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/run-llms-locally-using-ollama" target="_blank">Run LLMs Locally Using Ollama</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-27 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8pokgk99kjkv2qsahubp.png" alt="C++ on Ubuntu: Installation, Setup, and First Steps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,6 +187,15 @@
                 <span class="title"><a href="https://dev.to/pablojavierjimenez/c-on-ubuntu-installation-setup-and-first-steps-4k4k" target="_blank">C++ on Ubuntu: Installation, Setup, and First Steps</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-27 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/zlib-ng-2.3.1-Released" target="_blank">Zlib-ng 2.3.1 Released With More CPU Performance Optimizations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-27 15:52</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/when-saas-tenancy-models-backfire-at-scale" target="_blank">The Fake &quot;Multi&quot; in Multi-Tenant: When SaaS Tenancy Models Backfire at Scale</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-27 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffatz7ltbem00m6ra5dfk.png" alt="🎯 Task #3 — Enable AutoSync + Health Checks + Self-Heal in ArgoCD" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/latchudevops/task-3-enable-autosync-health-checks-self-heal-in-argocd-3pap" target="_blank">🎯 Task #3 — Enable AutoSync + Health Checks + Self-Heal in ArgoCD</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-27 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jeandevbr/-from-dot-com-bubble-to-digital-hype-learning-from-the-past-2k1i" target="_blank">## ⏳ From Dot-Com Bubble to Digital Hype: Learning from the Past</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-27 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Color-Pipeline-API-Ready" target="_blank">Valve-Backed Color Pipeline API For Linux Is Finally Ready For Upstream</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-27 11:49</span>
             </div>
         </div>
 </div>
@@ -298,6 +295,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1764198260-20251127_edit.png" alt="Saturday Morning Breakfast Cereal - Quality" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/quality" target="_blank">Saturday Morning Breakfast Cereal - Quality</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-27 16:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -315,22 +321,13 @@
                 <span class="time">2025-11-26 17:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1764042886-20251126.png" alt="Saturday Morning Breakfast Cereal - Fine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/fine-2" target="_blank">Saturday Morning Breakfast Cereal - Fine</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-26 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 303 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
