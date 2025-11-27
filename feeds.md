@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 13:10:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-27 14:01:29 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/washington-dc-shooting-does-us-view-77000-afghans-as-potential-threats?traffic_source=rss" target="_blank">Washington, DC, shooting: Does US view 77,000 Afghans as potential threats?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-27 13:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg" alt="At least 65 dead and hundreds missing after fire engulfs Hong Kong tower blocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -65,6 +70,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/27/major-fallout-for-afghans-in-us-after-national-guard-shooting?traffic_source=rss" target="_blank">Major fallout for Afghans in US after National Guard shooting</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-27 12:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764245751770_tdy_news_7a_peter_national_guardsmen_shot_251127_1920x1080-u7brfa.jpg" alt="Suspect Identified in National Guard Attack Near White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/new-details-emerge-on-national-guard-attack-near-white-house-253165125824" target="_blank">Suspect Identified in National Guard Attack Near White House</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-27 12:16</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +99,20 @@
                 <span class="time">2025-11-27 11:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3293/live/5ef81e20-cb70-11f0-afb7-8f7c37abbc93.jpg" alt="OBR calls in cyber expert over botched release of Budget analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgmn991pz9jo?at_medium=RSS&at_campaign=rss" target="_blank">OBR calls in cyber expert over botched release of Budget analysis</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-27 10:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/27/trump-to-review-afghan-immigrants-after-washington-dc-shooting?traffic_source=rss" target="_blank">Trump to review Afghan immigrants after Washington DC shooting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-27 07:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/830079/sentimental-value-joachim-trier-interview" target="_blank">Joachim Trier finds his place</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-27 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +158,20 @@
                 <span class="time">2025-11-27 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6851d357d1cd4a57bb6484e7/master/pass/Best%20Smart%20Glasses%201%20SOURCE%20Simon%20Hill.png" alt="5 Best Smart Glasses (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-smart-glasses/" target="_blank">5 Best Smart Glasses (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-27 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18772649&w=600" alt="The Fake &quot;Multi&quot; in Multi-Tenant: When SaaS Tenancy Models Backfire at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/when-saas-tenancy-models-backfire-at-scale" target="_blank">The Fake &quot;Multi&quot; in Multi-Tenant: When SaaS Tenancy Models Backfire at Scale</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-27 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffatz7ltbem00m6ra5dfk.png" alt="🎯 Task #3 — Enable AutoSync + Health Checks + Self-Heal in ArgoCD" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +217,6 @@
                 <span class="time">2025-11-27 10:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhj898a51uuracxif2mgg.png" alt="HOW TO BECOME AN INTELLIGENT MAN." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arunabraham9947/how-to-become-an-intelligent-man-bpd" target="_blank">HOW TO BECOME AN INTELLIGENT MAN.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-27 10:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/galaxy-z-fold7-1280x853.jpg" alt="Samsung Enters Chaos Mode, Now Selling Galaxy Z Fold7 at Record Low and Cheaper Than Old Fold6" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-enters-chaos-mode-now-selling-galaxy-z-fold7-at-record-low-and-cheaper-than-old-fold6-2000648076" target="_blank">Samsung Enters Chaos Mode, Now Selling Galaxy Z Fold7 at Record Low and Cheaper Than Old Fold6</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-27 13:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/dji-mini-4k-drone-bundle-1280x853.jpg" alt="Amazon Posts “Hidden Price” on Mini 4K Drones for Black Friday, DJI Blocks Displaying Such Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +290,6 @@
                 <span class="time">2025-11-27 01:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Microsoft-Office-Pro-2021-for-Windows-3.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Forgo &quot;the ecosystem&quot; and get this Dell laptop and MS Office Pro license for under $275" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/26/forgo-the-ecosystem-and-get-this-dell-laptop-and-ms-office-pro-license-for-under-275.html" target="_blank">Forgo &quot;the ecosystem&quot; and get this Dell laptop and MS Office Pro license for under $275</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-27 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 295 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 297 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
