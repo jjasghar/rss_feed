@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 11:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-27 12:02:33 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/what-is-bamboo-scaffolding-and-how-did-it-worsen-the-hong-kong-fire?traffic_source=rss" target="_blank">What is bamboo scaffolding and how did it worsen the Hong Kong fire?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-27 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3293/live/5ef81e20-cb70-11f0-afb7-8f7c37abbc93.jpg" alt="OBR calls in cyber expert over botched release of Budget analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgmn991pz9jo?at_medium=RSS&at_campaign=rss" target="_blank">OBR calls in cyber expert over botched release of Budget analysis</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-27 10:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +104,29 @@
                 <span class="time">2025-11-27 04:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-hong-kong-fire_7093139.jpg?20251127040630" alt="Police make arrests over huge Hong Kong flats fire - with dozens killed and more still missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/three-people-arrested-on-suspicion-of-manslaughter-after-hong-kong-apartment-fire-kills-at-least-44-13475954" target="_blank">Police make arrests over huge Hong Kong flats fire - with dozens killed and more still missing</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-27 03:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/natl-guard-police-tape-02-rt-jt-251126_1764193124573_hpMain_4x3t_384.jpg" alt="National Guard shooting &#x27;act of evil,&#x27; Trump says; suspect ID&#x27;d as Afghan national" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/2-military-personnel-appearing-national-guard-shot-white/story?id=127905871" target="_blank">National Guard shooting &#x27;act of evil,&#x27; Trump says; suspect ID&#x27;d as Afghan national</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-27 03:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6925e8185217ca08473208af/master/pass/Best-Video-Games-You-Missed-Culture-Blue_Prince_Screenshot_02.png" alt="5 Great Video Games You Might Have Missed (2025): Blippo+, Sektori, Dispatch, Blue Prince" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/5-great-games-you-might-have-missed-in-2025/" target="_blank">5 Great Video Games You Might Have Missed (2025): Blippo+, Sektori, Dispatch, Blue Prince</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-27 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/827435/uk-vpn-restrictions-ban-online-safety-act" target="_blank">The VPN panic is only getting started</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-27 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6851d357d1cd4a57bb6484e7/master/pass/Best%20Smart%20Glasses%201%20SOURCE%20Simon%20Hill.png" alt="5 Best Smart Glasses (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +163,38 @@
                 <span class="time">2025-11-27 01:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/54717981613_7c2acddc58_6k-1-500x500.jpg" alt="ULA aimed to launch up to 10 Vulcan rockets this year—it will fly just once" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/11/ula-aimed-to-launch-up-to-10-vulcan-rockets-this-year-it-will-fly-just-once/" target="_blank">ULA aimed to launch up to 10 Vulcan rockets this year—it will fly just once</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-26 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/831048/apple-iphone-17-samsung-galaxy-s25-top-sales-2025" target="_blank">Strong iPhone 17 sales may push Apple ahead of Samsung this year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-26 22:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jeandevbr/-from-dot-com-bubble-to-digital-hype-learning-from-the-past-2k1i" target="_blank">## ⏳ From Dot-Com Bubble to Digital Hype: Learning from the Past</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-27 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/impactful-software-teams/en/headerimage/impactful-software-teams-header-1764053312849.jpg" alt="Creating Impactful Software Teams That Continuously Improve" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/impactful-software-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Creating Impactful Software Teams That Continuously Improve</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-27 11:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/" target="_blank">How Arthur Conan Doyle Explored Men&#x27;s Mental Health Through Sherlock Holmes</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-27 10:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhj898a51uuracxif2mgg.png" alt="HOW TO BECOME AN INTELLIGENT MAN." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,33 +220,6 @@
                 <span class="title"><a href="https://dev.to/dulmika_semal_90fb5094b87/aws-expalined-in-simple-plain-english-5h0m" target="_blank">AWS Explained in Simple Plain English</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-27 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arina_cholee/how-safeline-waf-transformed-our-web-security-a-real-user-case-study-1m0l" target="_blank">How SafeLine WAF Transformed Our Web Security: A Real User Case Study</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-27 08:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elianalamhost/event-opening-aws-community-day-hong-kong-2025-3eod" target="_blank">Event Opening - AWS Community Day Hong Kong 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-27 07:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://reverser.dev/linux-kernel-explorer" target="_blank">Linux Kernel Explorer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-27 06:17</span>
             </div>
         </div>
 </div>
@@ -249,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Eureka-J15-Ultra-1280x853.jpg" alt="Clean Up on the Black Friday Deals at Eureka and Save Big On These Five Powerhouse Vacuums" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/clean-up-on-the-black-friday-deals-at-eureka-and-save-big-on-these-five-powerhouse-vacuums-2000684873" target="_blank">Clean Up on the Black Friday Deals at Eureka and Save Big On These Five Powerhouse Vacuums</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-27 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2493708425.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Campbells fires exec who said it was unhealthy, highly-processed food for poor people" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +304,6 @@
                 <span class="time">2025-11-27 00:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/playstation-dualsense-edge-wireless-controller-1280x853.jpg" alt="Sony Goes Zero Profit on DualSense Edge Controller, Pro Gamers Can Snag It at All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sony-goes-zero-profit-on-dualsense-edge-controller-pro-gamers-can-snag-it-at-all-time-low-2000647737" target="_blank">Sony Goes Zero Profit on DualSense Edge Controller, Pro Gamers Can Snag It at All-Time Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-26 23:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
