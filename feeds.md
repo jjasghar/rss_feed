@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 04:02:50 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-11-27 05:01:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 04:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/australia-clamps-downs-on-nudify-sites-used-for-ai-generated-child-abuse?traffic_source=rss" target="_blank">Australia clamps downs on ‘nudify’ sites used for AI-generated child abuse</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-27 04:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/natl-guard-police-tape-02-rt-jt-251126_1764193124573_hpMain_4x3t_384.jpg" alt="National Guard shooting &#x27;act of evil,&#x27; Trump says; suspect ID&#x27;d as Afghan national" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/26/psv-trounce-liverpool-as-arsenal-topple-bayern-while-psg-and-real-also-win?traffic_source=rss" target="_blank">PSV trounce Liverpool as Arsenal topple Bayern while PSG and Real also win</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-26 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764196006339_now_hallie_hegseth_500_251126_1920x1080-gwp3da.jpg" alt="500 additional National Guard members will be sent to D.C., Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/500-additional-national-guard-members-will-be-sent-to-d-c-hegseth-says-253108293884" target="_blank">500 additional National Guard members will be sent to D.C., Hegseth says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-26 22:26</span>
             </div>
         </div>
 </div>
@@ -179,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ziglang.org/news/migrating-from-github-to-codeberg/" target="_blank">Migrating the main Zig repository from GitHub to Codeberg</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-27 01:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/CDE-2.5.3-Desktop" target="_blank">Common Desktop Environment &quot;CDE&quot; 2.5.3 Released After Two Years</a></span>
                 <span class="feed">Phoronix</span>
@@ -210,15 +214,6 @@
                 <span class="title"><a href="https://bringbackdoors.com/" target="_blank">Bring Bathroom Doors Back to Hotels</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-26 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ravidasari/react-vs-vuejs-the-2025-developers-guide-to-performance-ecosystem-and-scalability-3ddi" target="_blank">React vs. Vue.js: The 2025 Developer’s Guide to Performance, Ecosystem, and Scalability</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-26 21:50</span>
             </div>
         </div>
 </div>
@@ -259,6 +254,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/fitbit-charge-6-1280x853.jpg" alt="Fitbit Adopts Zero-Profit Play on Charge 6 Fitness Tracker This Black Friday, Selling at New All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fitbit-adopts-zero-profit-play-on-charge-6-fitness-tracker-this-black-friday-selling-at-new-all-time-low-2000647751" target="_blank">Fitbit Adopts Zero-Profit Play on Charge 6 Fitness Tracker This Black Friday, Selling at New All-Time Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-27 01:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Stranger-Things-Netflix-1280x853.jpg" alt="‘Stranger Things’ Lets It Rip to Kick Off Its Final Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -292,15 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/sony-goes-zero-profit-on-dualsense-edge-controller-pro-gamers-can-snag-it-at-all-time-low-2000647737" target="_blank">Sony Goes Zero Profit on DualSense Edge Controller, Pro Gamers Can Snag It at All-Time Low</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-26 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KB0R4Y4EJE29VSHEHY37EVVM/hero-image.png" alt="13 Easy Ways to Winterize Your House and Lower Your Utility Bills" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/easy-ways-to-winterize-house-lower-utility-bills?utm_medium=RSS" target="_blank">13 Easy Ways to Winterize Your House and Lower Your Utility Bills</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-26 23:30</span>
             </div>
         </div>
 </div>
@@ -344,22 +339,13 @@
                 <span class="time">2025-11-26 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/satellite_imagery.png" alt="Satellite Imagery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3173/" target="_blank">Satellite Imagery</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-11-26 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 04:03 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
