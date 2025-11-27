@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 01:29:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-27 02:29:59 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764205129892_now_topstory_suspect_identified_shooting_251126_1920x1080-8gahf9.jpg" alt="Suspect identified in the National Guard D.C. shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/suspect-identified-in-the-national-guard-d-c-shooting-253121093677" target="_blank">Suspect identified in the National Guard D.C. shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-27 00:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss" target="_blank">At least 44 dead and hundreds missing after fire engulfs Hong Kong tower blocks</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-26 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg" alt="At least 36 dead and hundreds missing after fire engulfs Hong Kong tower blocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss" target="_blank">At least 36 dead and hundreds missing after fire engulfs Hong Kong tower blocks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-26 21:03</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CDE-2.5.3-Desktop" target="_blank">Common Desktop Environment &quot;CDE&quot; 2.5.3 Released After Two Years</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-27 01:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bnggbn/the-semantic-object-factory-the-missing-layer-between-ai-intent-and-backend-meaning-1pf8" target="_blank">The Semantic Object Factory — The Missing Layer Between AI Intent and Backend Meaning</a></span>
                 <span class="feed">DEV Community</span>
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Radeon-Software-25.20.3-Linux" target="_blank">Radeon Software for Linux 25.20.3 Released - &quot;Exclusively Open-Source&quot; With RADV</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-26 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18775850&w=600" alt="How to Push Docker Images to AWS Elastic Container Repository Using GitHub Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/push-docker-images-to-aws-ecr-using-github-actions" target="_blank">How to Push Docker Images to AWS Elastic Container Repository Using GitHub Actions</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-26 20:00</span>
             </div>
         </div>
 </div>
@@ -356,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
