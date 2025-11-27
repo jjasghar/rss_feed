@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 14:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-27 15:01:59 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/national-guard-dc-shooting_1764241823269_hpMain_4x3t_384.jpg" alt="2 National Guard members remain in critical condition after &#x27;targeted shooting&#x27; in DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/2-national-guard-members-remain-critical-condition-after/story?id=127924182" target="_blank">2 National Guard members remain in critical condition after &#x27;targeted shooting&#x27; in DC</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-27 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d325/live/9ff75970-cabe-11f0-8830-713b9084fff8.jpg" alt="Firefighters search for hundreds still missing in devastating Hong Kong tower blocks fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62n3enz9klo?at_medium=RSS&at_campaign=rss" target="_blank">Firefighters search for hundreds still missing in devastating Hong Kong tower blocks fire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-27 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/27/live-israel-launches-air-strikes-on-west-bank-as-incursion-turns-deadly?traffic_source=rss" target="_blank">LIVE: Israel launches air strikes on West Bank as incursion turns deadly</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-27 14:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/27/nx-s1-5622955/national-guard-shooting-washington-dc-updates" target="_blank">Here&#x27;s what we know about the shooting of 2 National Guard members in D.C.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-27 13:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -55,48 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg" alt="At least 65 dead and hundreds missing after fire engulfs Hong Kong tower blocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f56/live/1b9226d0-cb84-11f0-ad4e-c7505c19c14b.jpg" alt="Sharp fall in UK net migration with drop in arrivals for work and study" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss" target="_blank">At least 65 dead and hundreds missing after fire engulfs Hong Kong tower blocks</a></span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c246ndy63j9o?at_medium=RSS&at_campaign=rss" target="_blank">Sharp fall in UK net migration with drop in arrivals for work and study</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-11-27 12:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/27/major-fallout-for-afghans-in-us-after-national-guard-shooting?traffic_source=rss" target="_blank">Major fallout for Afghans in US after National Guard shooting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-27 12:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764245751770_tdy_news_7a_peter_national_guardsmen_shot_251127_1920x1080-u7brfa.jpg" alt="Suspect Identified in National Guard Attack Near White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/new-details-emerge-on-national-guard-attack-near-white-house-253165125824" target="_blank">Suspect Identified in National Guard Attack Near White House</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-27 12:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/27/nx-s1-5620998/nasa-astronauts-thanksgiving-cranberry-sauce" target="_blank">NASA astronauts celebrate Thanksgiving with Russian cranberry sauce</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-27 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/what-is-bamboo-scaffolding-and-how-did-it-worsen-the-hong-kong-fire?traffic_source=rss" target="_blank">What is bamboo scaffolding and how did it worsen the Hong Kong fire?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-27 11:43</span>
+                <span class="time">2025-11-27 13:39</span>
             </div>
         </div>
 </div>
@@ -104,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/692759910bd064a72000766c/master/pass/The%20Smart%20Speakers%20We%20Can't%20Stop%20Talking%20To.png" alt="6 Best Smart Speakers (2025): Alexa, Google Assistant, Siri" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-smart-speakers/" target="_blank">6 Best Smart Speakers (2025): Alexa, Google Assistant, Siri</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-27 14:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +157,6 @@
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/story/5-great-games-you-might-have-missed-in-2025/" target="_blank">5 Great Video Games You Might Have Missed (2025): Blippo+, Sektori, Dispatch, Blue Prince</a></span>
                 <span class="feed">WIRED</span>
-                <span class="time">2025-11-27 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/827435/uk-vpn-restrictions-ban-online-safety-act" target="_blank">The VPN panic is only getting started</a></span>
-                <span class="feed">The Verge</span>
                 <span class="time">2025-11-27 12:00</span>
             </div>
         </div>
@@ -237,6 +239,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/beats-studio-pro-headphones-2-1280x853.jpg" alt="Beats Studio Pro Now 3x Cheaper Than AirPods Max, Apple Makes Zero Profit Play on Beats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/beats-studio-pro-now-3x-cheaper-than-airpods-max-apple-makes-zero-profit-play-on-beats-2000648084" target="_blank">Beats Studio Pro Now 3x Cheaper Than AirPods Max, Apple Makes Zero Profit Play on Beats</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-27 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/1536x864_cmsv2_fd7d3f3d-0f06-580b-a372-71c3311222c9-9563592.webp?fit=1536%2C864&amp;quality=55&amp;ssl=1" alt="Adolf Hitler wins fifth term of office in Ompundja, Namibia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/27/adolf-hitler-wins-fifth-term-of-office-in-ompundja-namibia.html" target="_blank">Adolf Hitler wins fifth term of office in Ompundja, Namibia</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-27 14:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/galaxy-z-fold7-1280x853.jpg" alt="Samsung Enters Chaos Mode, Now Selling Galaxy Z Fold7 at Record Low and Cheaper Than Old Fold6" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -270,24 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/11/26/campbells-fires-exec-who-said-it-was-unhealthy-highly-processed-food-for-poor-people.html" target="_blank">Campbells fires exec who said it was unhealthy, highly-processed food for poor people</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-11-27 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/fitbit-charge-6-1280x853.jpg" alt="Fitbit Adopts Zero-Profit Play on Charge 6 Fitness Tracker This Black Friday, Selling at New All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fitbit-adopts-zero-profit-play-on-charge-6-fitness-tracker-this-black-friday-selling-at-new-all-time-low-2000647751" target="_blank">Fitbit Adopts Zero-Profit Play on Charge 6 Fitness Tracker This Black Friday, Selling at New All-Time Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-27 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Stranger-Things-Netflix-1280x853.jpg" alt="‘Stranger Things’ Lets It Rip to Kick Off Its Final Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stranger-things-lets-it-rip-to-kick-off-its-final-season-2000691701" target="_blank">‘Stranger Things’ Lets It Rip to Kick Off Its Final Season</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-27 01:01</span>
             </div>
         </div>
 </div>
@@ -327,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 297 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
