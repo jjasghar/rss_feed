@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 00:04:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-27 01:29:26 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Linux.com -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/26/thailands-pork-industry-fears-influx-of-cheap-us-imports-under-trump?traffic_source=rss" target="_blank">Thailand’s pork industry fears influx of cheap US imports under Trump</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-26 23:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +101,29 @@
                 <span class="time">2025-11-26 21:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/26/nx-s1-5621838/trump-steve-witkoff-russia" target="_blank">Trump defends key negotiator after leaked phone call appears to show him coaching Russia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-26 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23037217/best-apple-watch-series-se-ultra" target="_blank">The best Apple Watch to buy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-27 01:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/54717981613_7c2acddc58_6k-1-500x500.jpg" alt="ULA aimed to launch up to 10 Vulcan rockets this year—it will fly just once" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/11/ula-aimed-to-launch-up-to-10-vulcan-rockets-this-year-it-will-fly-just-once/" target="_blank">ULA aimed to launch up to 10 Vulcan rockets this year—it will fly just once</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-26 23:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +160,6 @@
                 <span class="time">2025-11-26 20:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/26/chatgpt-everything-to-know-about-the-ai-chatbot/" target="_blank">ChatGPT: Everything you need to know about the AI-powered chatbot</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-26 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2231894756-500x500.jpg" alt="Solar’s growth in US almost enough to offset rising energy use" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/" target="_blank">Solar’s growth in US almost enough to offset rising energy use</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-26 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +181,15 @@
                 <span class="title"><a href="https://blog.pypi.org/posts/2025-11-26-pypi-and-shai-hulud/" target="_blank">PyPI and Shai-Hulud: Staying Secure Amid Emerging Threats</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-11-26 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bringbackdoors.com/" target="_blank">Bring Bathroom Doors Back to Hotels</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-26 22:26</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +217,6 @@
                 <span class="title"><a href="https://dzone.com/articles/push-docker-images-to-aws-ecr-using-github-actions" target="_blank">How to Push Docker Images to AWS Elastic Container Repository Using GitHub Actions</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-26 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jess/i-think-e-mail-reactions-are-a-crime-42e0" target="_blank">I think e-mail reactions are a crime</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-26 19:55</span>
             </div>
         </div>
 </div>
@@ -243,12 +248,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Stranger-Things-Netflix-1280x853.jpg" alt="‘Stranger Things’ Lets It Rip to Kick Off Its Final Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/stranger-things-lets-it-rip-to-kick-off-its-final-season-2000691701" target="_blank">‘Stranger Things’ Lets It Rip to Kick Off Its Final Season</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-27 01:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/buds-3-pro-galaxy-1280x853.jpg" alt="Samsung Quietly Supplies Amazon Millions of Galaxy Buds 3 Pro to Clear Stock, Now at New All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-quietly-supplies-amazon-millions-of-galaxy-buds-3-pro-to-clear-stock-now-at-new-all-time-low-2000647746" target="_blank">Samsung Quietly Supplies Amazon Millions of Galaxy Buds 3 Pro to Clear Stock, Now at New All-Time Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-27 00:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/playstation-dualsense-edge-wireless-controller-1280x853.jpg" alt="Sony Goes Zero Profit on DualSense Edge Controller, Pro Gamers Can Snag It at All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/sony-goes-zero-profit-on-dualsense-edge-controller-pro-gamers-can-snag-it-at-all-time-low-2000647737" target="_blank">Sony Goes Zero Profit on DualSense Edge Controller, Pro Gamers Can Snag It at All-Time Low</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-26 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KB0R4Y4EJE29VSHEHY37EVVM/hero-image.png" alt="13 Easy Ways to Winterize Your House and Lower Your Utility Bills" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/easy-ways-to-winterize-house-lower-utility-bills?utm_medium=RSS" target="_blank">13 Easy Ways to Winterize Your House and Lower Your Utility Bills</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-26 23:30</span>
             </div>
         </div>
 <div class="story">
@@ -267,33 +299,6 @@
                 <span class="title"><a href="https://kotaku.com/cyberpunk-2-sales-witcher-4-cdpr-2000647747" target="_blank">Cyberpunk 2077 Is Keeping CD Projekt Red Funded As It Breaks A Witcher 3 Record</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-26 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KB114FY717Q7B3K8FR08DAAQ/hero-image.png" alt="These Subscription-Free Fitness Trackers Are All on Sale for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/subscription-free-fitness-trackers-deals-black-friday-2025?utm_medium=RSS" target="_blank">These Subscription-Free Fitness Trackers Are All on Sale for Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-26 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Sinners-Smoke-Annie-WB-Pictures-1280x853.jpg" alt="How the ‘Sinners’ Costume Designer Helped Wunmi Mosaku Shape the Movie’s Secret MVP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-the-sinners-costume-designer-helped-wunmi-mosaku-shape-the-movies-secret-mvp-2000692351" target="_blank">How the ‘Sinners’ Costume Designer Helped Wunmi Mosaku Shape the Movie’s Secret MVP</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-26 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/1min.AI-3-Year-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get all the AI tools you need in one workspace — now 80% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/26/get-all-the-ai-tools-you-need-in-one-workspace-now-80-off.html" target="_blank">Get all the AI tools you need in one workspace — now 80% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-26 22:00</span>
             </div>
         </div>
 </div>
@@ -346,22 +351,13 @@
                 <span class="time">2025-11-26 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5709.png" alt="Anh Gets Something" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5709" target="_blank">Anh Gets Something</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-11-26 00:28</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
