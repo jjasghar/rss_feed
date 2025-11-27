@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 15:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-27 16:02:15 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 15:02 UTC</div>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/national-guard-members-shot-in-washington-dc-attack-identified?traffic_source=rss" target="_blank">National Guard members shot in Washington, DC, attack identified</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-27 15:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/national-guard-dc-shooting_1764241823269_hpMain_4x3t_384.jpg" alt="2 National Guard members remain in critical condition after &#x27;targeted shooting&#x27; in DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/washington-dc-shooting-does-us-view-77000-afghans-as-potential-threats?traffic_source=rss" target="_blank">Washington, DC, shooting: Does US view 77,000 Afghans as potential threats?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-27 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f56/live/1b9226d0-cb84-11f0-ad4e-c7505c19c14b.jpg" alt="Sharp fall in UK net migration with drop in arrivals for work and study" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c246ndy63j9o?at_medium=RSS&at_campaign=rss" target="_blank">Sharp fall in UK net migration with drop in arrivals for work and study</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-27 13:39</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8pokgk99kjkv2qsahubp.png" alt="C++ on Ubuntu: Installation, Setup, and First Steps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pablojavierjimenez/c-on-ubuntu-installation-setup-and-first-steps-4k4k" target="_blank">C++ on Ubuntu: Installation, Setup, and First Steps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-27 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18777414&w=600" alt="Automating FastAPI Deployments With a GitHub Actions Pipeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/fastapi-github-actions-deploy" target="_blank">Automating FastAPI Deployments With a GitHub Actions Pipeline</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-27 15:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18772649&w=600" alt="The Fake &quot;Multi&quot; in Multi-Tenant: When SaaS Tenancy Models Backfire at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -201,24 +219,6 @@
                 <span class="time">2025-11-27 11:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/impactful-software-teams/en/headerimage/impactful-software-teams-header-1764053312849.jpg" alt="Creating Impactful Software Teams That Continuously Improve" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/impactful-software-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Creating Impactful Software Teams That Continuously Improve</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-27 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/" target="_blank">How Arthur Conan Doyle Explored Men&#x27;s Mental Health Through Sherlock Holmes</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-27 10:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/wd-drive-1280x853.jpg" alt="WD 14TB External Hard Drive Restocks at $0.01 per GB, Proving Margin Isn’t the Plan for Storage Deals This Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-takes-23-off-the-massive-20tb-wd-external-hard-drive-but-not-for-long-2000646687" target="_blank">WD 14TB External Hard Drive Restocks at $0.01 per GB, Proving Margin Isn’t the Plan for Storage Deals This Black Friday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-27 15:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/beats-studio-pro-headphones-2-1280x853.jpg" alt="Beats Studio Pro Now 3x Cheaper Than AirPods Max, Apple Makes Zero Profit Play on Beats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +292,6 @@
                 <span class="time">2025-11-27 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2493708425.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Campbells fires exec who said it was unhealthy, highly-processed food for poor people" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/26/campbells-fires-exec-who-said-it-was-unhealthy-highly-processed-food-for-poor-people.html" target="_blank">Campbells fires exec who said it was unhealthy, highly-processed food for poor people</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-27 01:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
