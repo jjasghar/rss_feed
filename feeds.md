@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 21:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-27 22:01:26 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/real-uncertainty-what-to-know-about-the-honduran-presidential-election?traffic_source=rss" target="_blank">‘Real uncertainty’: What to know about the Honduran presidential election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-27 21:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,21 +90,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-hong-kong-wang-fuk_7093891.jpg?20251127195207" alt="Survivors cling to each other as debris falls from smouldering Hong Kong buildings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-hong-kong-wang-fuk_7093891.jpg?20251127195207" alt="Horror in Hong Kong: Residents reel from its worst disaster in modern history" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/survivors-cling-to-each-other-as-debris-falls-from-smouldering-hong-kong-buildings-13476256" target="_blank">Survivors cling to each other as debris falls from smouldering Hong Kong buildings</a></span>
+                <span class="title"><a href="https://news.sky.com/story/horror-in-hong-kong-residents-reel-from-its-worst-disaster-in-modern-history-13476256" target="_blank">Horror in Hong Kong: Residents reel from its worst disaster in modern history</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-11-27 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa59/live/7165f8c0-cbb6-11f0-9dec-8913bb28cd81.jpg" alt="Labour ditches day-one protection from unfair dismissal in U-turn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2d7j350q1o?at_medium=RSS&at_campaign=rss" target="_blank">Labour ditches day-one protection from unfair dismissal in U-turn</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-27 17:51</span>
             </div>
         </div>
 </div>
@@ -105,6 +103,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69276529097f2a0eaceef112/master/pass/wired_absolutebest.jpg" alt="Best Black Friday Deals 2025: We&#x27;ve Tested Every Item and Tracked Every Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-deals-2025/" target="_blank">Best Black Friday Deals 2025: We&#x27;ve Tested Every Item and Tracked Every Price</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-27 21:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +157,20 @@
                 <span class="time">2025-11-27 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692759910bd064a72000766c/master/pass/The%20Smart%20Speakers%20We%20Can't%20Stop%20Talking%20To.png" alt="6 Best Smart Speakers (2025): Alexa, Google Assistant, Siri" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-smart-speakers/" target="_blank">6 Best Smart Speakers (2025): Alexa, Google Assistant, Siri</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-27 14:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2103048%2F716988a5-9c51-49bf-acef-191bc6dd2fee.jpeg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anthonymax/-ep4" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-27 21:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -176,6 +183,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dynomight.net/thanks-5/" target="_blank">Underrated reasons to be thankful V</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-27 20:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18777484&w=600" alt="Building a Simple MCP Server and Client: An In-Memory Database" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/simple-mcp-server-client-database" target="_blank">Building a Simple MCP Server and Client: An In-Memory Database</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-27 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/galacthd/how-to-setup-vite-kemal-p6o" target="_blank">How to setup Vite + Kemal</a></span>
                 <span class="feed">DEV Community</span>
@@ -183,39 +208,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18777457&w=600" alt="How To Restore a Deleted Branch In Azure DevOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/restore-deleted-branch-azure-devops" target="_blank">How To Restore a Deleted Branch In Azure DevOps</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-27 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://replaceyourboss.ai/" target="_blank">Replace your boss before they replace you</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-27 18:37</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-b580-compute-one-year" target="_blank">Intel Battlemage Graphics Enjoyed Nice GPU Compute Performance Gains In 2025</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GCC-16-Now-CPP20-Default" target="_blank">GCC 16 Switches To Using C++20 Standard By Default</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2025-11-27 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/kde-plasma-to-drop-x11-support/" target="_blank">KDE Plasma 6.8 to Drop X11 Support, Goes All-In on Wayland</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-27 17:00</span>
+                <span class="time">2025-11-27 19:47</span>
             </div>
         </div>
 </div>
@@ -223,6 +221,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAK16T6H833Y1KS282DE8BT5/hero-image.png" alt="The OnePlus 13 Is Already $150 Off for Its Early Black Friday Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/oneplus-13-early-black-friday-deal-2025?utm_medium=RSS" target="_blank">The OnePlus 13 Is Already $150 Off for Its Early Black Friday Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-27 20:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KAKV4QF3D0E24ZYPHVAS63FX/hero-image.png" alt="Epicka Makes My Favorite Universal Travel Adapter, and It&#x27;s One the Best Early Black Friday Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +275,6 @@
                 <span class="time">2025-11-27 15:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/beats-studio-pro-headphones-2-1280x853.jpg" alt="Beats Studio Pro Now 3x Cheaper Than AirPods Max, Apple Makes Zero Profit Play on Beats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/beats-studio-pro-now-3x-cheaper-than-airpods-max-apple-makes-zero-profit-play-on-beats-2000648084" target="_blank">Beats Studio Pro Now 3x Cheaper Than AirPods Max, Apple Makes Zero Profit Play on Beats</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-27 14:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,22 +289,13 @@
                 <span class="time">2025-11-27 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/26/x-mas-days-of-future-past" target="_blank">X-Mas: Days Of Future Past</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-26 21:36</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 300 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
