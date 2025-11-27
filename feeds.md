@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 17:02:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-27 18:02:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa59/live/7165f8c0-cbb6-11f0-9dec-8913bb28cd81.jpg" alt="Labour ditches day-one protection from unfair dismissal in U-turn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2d7j350q1o?at_medium=RSS&at_campaign=rss" target="_blank">Labour ditches day-one protection from unfair dismissal in U-turn</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-27 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/27/what-was-behind-the-coup-in-guinea-bissau-days-after-the-election?traffic_source=rss" target="_blank">What was behind the coup in Guinea-Bissau days after the election?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-27 17:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/national-guard-4-rt-er-251127_1764253760232_hpMain_4x3t_384.jpg" alt="Shooting suspect drove across country to target National Guard members: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +100,20 @@
                 <span class="time">2025-11-27 14:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/27/live-israel-launches-air-strikes-on-west-bank-as-incursion-turns-deadly?traffic_source=rss" target="_blank">LIVE: Israel launches air strikes on West Bank as incursion turns deadly</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-27 14:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/27/nx-s1-5622955/national-guard-shooting-washington-dc-updates" target="_blank">Here&#x27;s what we know about the shooting of 2 National Guard members in D.C.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-27 13:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/27/best-ipad-apps-for-unleashing-and-exploring-your-creativity/" target="_blank">Best iPad apps for unleashing and exploring your creativity</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-27 17:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +159,20 @@
                 <span class="time">2025-11-27 13:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6923cc95a616c99b3b5d5964/master/pass/Dell%20Laptop%20Standalone.png" alt="The Dell 14 Plus Just Hit a New Rock Bottom Price (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dell-14-plus-black-friday-2025/" target="_blank">The Dell 14 Plus Just Hit a New Rock Bottom Price (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-27 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18777452&w=600" alt="Solving Real-Time Event Correlation in Distributed Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/real-time-event-correlation-distributed-systems" target="_blank">Solving Real-Time Event Correlation in Distributed Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-27 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F84p1gay68gkygp0f93ey.png" alt="The Modern Web Stack Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,34 +218,20 @@
                 <span class="time">2025-11-27 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18772649&w=600" alt="The Fake &quot;Multi&quot; in Multi-Tenant: When SaaS Tenancy Models Backfire at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/when-saas-tenancy-models-backfire-at-scale" target="_blank">The Fake &quot;Multi&quot; in Multi-Tenant: When SaaS Tenancy Models Backfire at Scale</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-27 13:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/" target="_blank">Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-11-26 17:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/turkeytopart-1280x853.jpg" alt="The ‘Rick and Morty’ Thanksgiving Episode Takes a Delightfully Cynical Jab at American Values" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-rick-and-morty-thanksgiving-episode-takes-a-delightfully-cynical-jab-at-american-values-2000689804" target="_blank">The ‘Rick and Morty’ Thanksgiving Episode Takes a Delightfully Cynical Jab at American Values</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-27 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/wd-drive-1280x853.jpg" alt="WD 14TB External Hard Drive Restocks at $0.01 per GB, Proving Margin Isn’t the Plan for Storage Deals This Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +277,6 @@
                 <span class="time">2025-11-27 12:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Eureka-J15-Ultra-1280x853.jpg" alt="Clean Up on the Black Friday Deals at Eureka and Save Big On These Five Powerhouse Vacuums" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/clean-up-on-the-black-friday-deals-at-eureka-and-save-big-on-these-five-powerhouse-vacuums-2000684873" target="_blank">Clean Up on the Black Friday Deals at Eureka and Save Big On These Five Powerhouse Vacuums</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-27 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,22 +300,13 @@
                 <span class="time">2025-11-26 21:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/26/22nd-annual-child-s-play-dinner-auction" target="_blank">22nd Annual Child&#x27;s Play Dinner/Auction!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-26 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 303 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 305 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
