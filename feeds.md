@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 06:02:23 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-27 07:02:25 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/gasfield-in-northern-iraq-hit-by-drone-attack-reports?traffic_source=rss" target="_blank">Gasfield in northern Iraq hit by drone attack: Reports</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-27 06:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/australia-clamps-downs-on-nudify-sites-used-for-ai-generated-child-abuse?traffic_source=rss" target="_blank">Australia clamps downs on ‘nudify’ sites used for AI-generated child abuse</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-27 04:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-hong-kong-fire_7093139.jpg?20251127040630" alt="Police make arrests over huge Hong Kong flats fire - with dozens killed and more still missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/three-people-arrested-on-suspicion-of-manslaughter-after-hong-kong-apartment-fire-kills-at-least-44-13475954" target="_blank">Police make arrests over huge Hong Kong flats fire - with dozens killed and more still missing</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-27 03:56</span>
             </div>
         </div>
 <div class="story">
@@ -78,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn4dxmg7jyjo?at_medium=RSS&at_campaign=rss" target="_blank">Nine ways the Budget could affect you if you&#x27;re under 25</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-27 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/26/thailands-pork-industry-fears-influx-of-cheap-us-imports-under-trump?traffic_source=rss" target="_blank">Thailand’s pork industry fears influx of cheap US imports under Trump</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 23:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/11/26/canada-announces-new-support-for-lumber-steel-industries-hit-by-tariffs?traffic_source=rss" target="_blank">Canada announces new support for lumber, steel industries hit by tariffs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-26 23:09</span>
             </div>
         </div>
 </div>
@@ -172,6 +174,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-48/" target="_blank">FOSS Weekly #25.48: Backup Flatpaks and Snaps, Arduino&#x27;s Troubled Future, New Office, Popular Linux Apps Reborn and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-27 04:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/ubuntu-news.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Replaces System Monitor and Totem with New Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -205,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/CDE-2.5.3-Desktop" target="_blank">Common Desktop Environment &quot;CDE&quot; 2.5.3 Released After Two Years</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-27 01:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bnggbn/the-semantic-object-factory-the-missing-layer-between-ai-intent-and-backend-meaning-1pf8" target="_blank">The Semantic Object Factory — The Missing Layer Between AI Intent and Backend Meaning</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-26 22:47</span>
             </div>
         </div>
 </div>
@@ -344,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
