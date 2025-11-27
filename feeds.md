@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 12:02:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-27 13:10:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg" alt="At least 65 dead and hundreds missing after fire engulfs Hong Kong tower blocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss" target="_blank">At least 65 dead and hundreds missing after fire engulfs Hong Kong tower blocks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-27 12:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/27/major-fallout-for-afghans-in-us-after-national-guard-shooting?traffic_source=rss" target="_blank">Major fallout for Afghans in US after National Guard shooting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-27 12:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/27/nx-s1-5620998/nasa-astronauts-thanksgiving-cranberry-sauce" target="_blank">NASA astronauts celebrate Thanksgiving with Russian cranberry sauce</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-27 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,38 +103,38 @@
                 <span class="time">2025-11-27 07:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/train-collision-in-china-kills-11-railway-maintenance-workers-reports?traffic_source=rss" target="_blank">Train collision in China kills 11 railway maintenance workers: Reports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-27 07:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/gasfield-in-northern-iraq-hit-by-drone-attack-reports?traffic_source=rss" target="_blank">Gasfield in northern Iraq hit by drone attack: Reports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-27 06:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/australia-clamps-downs-on-nudify-sites-used-for-ai-generated-child-abuse?traffic_source=rss" target="_blank">Australia clamps downs on ‘nudify’ sites used for AI-generated child abuse</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-27 04:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/831354/alibaba-quark-smart-glasses" target="_blank">China’s Alibaba giant enters the smart glasses race with removable batteries</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-27 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6923cc95a616c99b3b5d5964/master/pass/Dell%20Laptop%20Standalone.png" alt="The Dell 14 Plus Just Hit a New Rock Bottom Price (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dell-14-plus-black-friday-2025/" target="_blank">The Dell 14 Plus Just Hit a New Rock Bottom Price (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/ladyhawke3-500x500.jpg" alt="Blast from the past: 15 movie gems of 1985" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/11/blast-from-the-past-15-movie-gems-of-1985/" target="_blank">Blast from the past: 15 movie gems of 1985</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-27 12:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6925e8185217ca08473208af/master/pass/Best-Video-Games-You-Missed-Culture-Blue_Prince_Screenshot_02.png" alt="5 Great Video Games You Might Have Missed (2025): Blippo+, Sektori, Dispatch, Blue Prince" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,38 +162,20 @@
                 <span class="time">2025-11-27 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="30% Off Canon Promo Codes | November 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/canon-promo-code/" target="_blank">30% Off Canon Promo Codes | November 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-27 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/26/the-future-will-be-explained-to-you-in-palo-alto/" target="_blank">The future will be explained to you in Palo Alto</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-27 06:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23037217/best-apple-watch-series-se-ultra" target="_blank">The best Apple Watch to buy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-27 01:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffatz7ltbem00m6ra5dfk.png" alt="🎯 Task #3 — Enable AutoSync + Health Checks + Self-Heal in ArgoCD" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/latchudevops/task-3-enable-autosync-health-checks-self-heal-in-argocd-3pap" target="_blank">🎯 Task #3 — Enable AutoSync + Health Checks + Self-Heal in ArgoCD</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-27 12:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/jeandevbr/-from-dot-com-bubble-to-digital-hype-learning-from-the-past-2k1i" target="_blank">## ⏳ From Dot-Com Bubble to Digital Hype: Learning from the Past</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-27 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Color-Pipeline-API-Ready" target="_blank">Valve-Backed Color Pipeline API For Linux Is Finally Ready For Upstream</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-27 11:49</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +221,6 @@
                 <span class="time">2025-11-27 10:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/micro-frontends-migration-qcon/en/headerimage/generatedHeaderImage-1763512378589.jpg" alt="Lessons Learned in Migrating to Micro-Frontends by Luca Mezzalira at QCon SF" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/micro-frontends-migration-qcon/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Lessons Learned in Migrating to Micro-Frontends by Luca Mezzalira at QCon SF</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-27 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68bvyn5wmiuppw3s0gpe.png" alt="AWS Explained in Simple Plain English" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dulmika_semal_90fb5094b87/aws-expalined-in-simple-plain-english-5h0m" target="_blank">AWS Explained in Simple Plain English</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-27 09:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,20 +235,20 @@
                 <span class="time">2025-11-26 17:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/huawei-and-chinese-surveillance.html" target="_blank">Huawei and Chinese Surveillance</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-26 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/dji-mini-4k-drone-bundle-1280x853.jpg" alt="Amazon Posts “Hidden Price” on Mini 4K Drones for Black Friday, DJI Blocks Displaying Such Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-posts-hidden-price-on-mini-4k-drones-for-black-friday-dji-blocks-displaying-such-record-low-2000648056" target="_blank">Amazon Posts “Hidden Price” on Mini 4K Drones for Black Friday, DJI Blocks Displaying Such Record Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-27 12:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Eureka-J15-Ultra-1280x853.jpg" alt="Clean Up on the Black Friday Deals at Eureka and Save Big On These Five Powerhouse Vacuums" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,15 +294,6 @@
                 <span class="time">2025-11-27 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/buds-3-pro-galaxy-1280x853.jpg" alt="Samsung Quietly Supplies Amazon Millions of Galaxy Buds 3 Pro to Clear Stock, Now at New All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-quietly-supplies-amazon-millions-of-galaxy-buds-3-pro-to-clear-stock-now-at-new-all-time-low-2000647746" target="_blank">Samsung Quietly Supplies Amazon Millions of Galaxy Buds 3 Pro to Clear Stock, Now at New All-Time Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-27 00:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -341,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 295 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
