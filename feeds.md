@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 20:01:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-27 21:01:26 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +49,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/27/g-s1-99677/national-dog-show-soleil-belgian-sheepdog" target="_blank">Soleil, a Belgian sheepdog, takes Best in Show at the National Dog Show</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-27 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/27/video-shows-israeli-soldiers-shooting-surrendering-palestinians-in-jenin?traffic_source=rss" target="_blank">Video shows Israeli soldiers shooting surrendering Palestinians in Jenin</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-27 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/afghan-1-gty-er-251127_1764269633888_hpMain_4x3t_384.jpg" alt="National Guard shooting suspect was likely vetted by US before being granted asylum" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/national-guard-shooting-suspect-vetted-us-granted-asylum/story?id=127930034" target="_blank">National Guard shooting suspect was likely vetted by US before being granted asylum</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-27 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/israeli-troops-kill-two-palestinians-in-jenin-as-they-try-to-surrender?traffic_source=rss" target="_blank">Israeli troops kill two Palestinians in Jenin as they try to surrender</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-27 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-hong-kong-wang-fuk_7093891.jpg?20251127195207" alt="Survivors cling to each other as debris falls from smouldering Hong Kong buildings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/survivors-cling-to-each-other-as-debris-falls-from-smouldering-hong-kong-buildings-13476256" target="_blank">Survivors cling to each other as debris falls from smouldering Hong Kong buildings</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-27 18:08</span>
             </div>
         </div>
 <div class="story">
@@ -62,42 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2d7j350q1o?at_medium=RSS&at_campaign=rss" target="_blank">Labour ditches day-one protection from unfair dismissal in U-turn</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-27 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/27/what-was-behind-the-coup-in-guinea-bissau-days-after-the-election?traffic_source=rss" target="_blank">What was behind the coup in Guinea-Bissau days after the election?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-27 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/national-guard-4-rt-er-251127_1764253760232_hpMain_4x3t_384.jpg" alt="Shooting suspect drove across country to target National Guard members: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/2-national-guard-members-remain-critical-condition-after/story?id=127924182" target="_blank">Shooting suspect drove across country to target National Guard members: Officials</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-27 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/national-guard-members-shot-in-washington-dc-attack-identified?traffic_source=rss" target="_blank">National Guard members shot in Washington, DC, attack identified</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-27 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/national-guard-dc-shooting_1764241823269_hpMain_4x3t_384.jpg" alt="2 National Guard members remain in critical condition after &#x27;targeted shooting&#x27; in DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/2-national-guard-members-remain-critical-condition-after/story?id=127924182" target="_blank">2 National Guard members remain in critical condition after &#x27;targeted shooting&#x27; in DC</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-27 14:52</span>
             </div>
         </div>
 </div>
@@ -168,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lorcan_firstblox/icymi-preinvent-announcements-2025-5h1l" target="_blank">ICYMI - pre:Invent announcements 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-27 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/galacthd/how-to-setup-vite-kemal-p6o" target="_blank">How to setup Vite + Kemal</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-27 19:54</span>
@@ -206,15 +215,6 @@
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/news/kde-plasma-to-drop-x11-support/" target="_blank">KDE Plasma 6.8 to Drop X11 Support, Goes All-In on Wayland</a></span>
                 <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-27 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18777452&w=600" alt="Solving Real-Time Event Correlation in Distributed Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/real-time-event-correlation-distributed-systems" target="_blank">Solving Real-Time Event Correlation in Distributed Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-27 17:00</span>
             </div>
         </div>
@@ -305,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 300 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
