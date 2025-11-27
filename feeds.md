@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-27 02:29:59 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-11-27 03:20:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, November 27, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, November 27, 2025 - 03:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/natl-guard-police-tape-02-rt-jt-251126_1764193124573_hpMain_4x3t_384.jpg" alt="National Guard shooting &#x27;act of evil,&#x27; Trump says; suspect ID&#x27;d as Afghan national" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/2-military-personnel-appearing-national-guard-shot-white/story?id=127905871" target="_blank">National Guard shooting &#x27;act of evil,&#x27; Trump says; suspect ID&#x27;d as Afghan national</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-27 03:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764205129892_now_topstory_suspect_identified_shooting_251126_1920x1080-8gahf9.jpg" alt="Suspect identified in the National Guard D.C. shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/500-additional-national-guard-members-will-be-sent-to-d-c-hegseth-says-253108293884" target="_blank">500 additional National Guard members will be sent to D.C., Hegseth says</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-11-26 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg" alt="At least 44 dead and hundreds missing after fire engulfs Hong Kong tower blocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss" target="_blank">At least 44 dead and hundreds missing after fire engulfs Hong Kong tower blocks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-26 22:14</span>
             </div>
         </div>
 </div>
@@ -254,6 +254,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Microsoft-Office-Pro-2021-for-Windows-3.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Forgo &quot;the ecosystem&quot; and get this Dell laptop and MS Office Pro license for under $275" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/26/forgo-the-ecosystem-and-get-this-dell-laptop-and-ms-office-pro-license-for-under-275.html" target="_blank">Forgo &quot;the ecosystem&quot; and get this Dell laptop and MS Office Pro license for under $275</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-27 01:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/buds-3-pro-galaxy-1280x853.jpg" alt="Samsung Quietly Supplies Amazon Millions of Galaxy Buds 3 Pro to Clear Stock, Now at New All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -287,15 +296,6 @@
                 <span class="title"><a href="https://lifehacker.com/home/pocket-sized-tool-stocking-stuffers?utm_medium=RSS" target="_blank">10 Pocketable Tools That Make Great Stocking Stuffers</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-26 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/10/2e4b4b2f218acb4aed37585b36577629-1280x720.jpg" alt="Cyberpunk 2077 Is Keeping CD Projekt Red Funded As It Breaks A Witcher 3 Record" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cyberpunk-2-sales-witcher-4-cdpr-2000647747" target="_blank">Cyberpunk 2077 Is Keeping CD Projekt Red Funded As It Breaks A Witcher 3 Record</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-26 22:49</span>
             </div>
         </div>
 </div>
@@ -353,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 03:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
