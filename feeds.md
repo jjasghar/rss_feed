@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 02:29:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing 54 RSS feeds at 2025-11-28 03:20:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 03:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +50,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/28/trump-says-us-will-soon-stop-venezuelan-drug-trafficking-by-land?traffic_source=rss" target="_blank">Trump says US will soon stop Venezuelan drug trafficking ‘by land’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-28 03:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/sarah-beckstrom_1764289597997_hpMain_4x3t_384.jpg" alt="West Virginia National Guard member dies after being shot in DC attack, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/2-national-guard-members-remain-critical-condition-after/story?id=127924182" target="_blank">West Virginia National Guard member dies after being shot in DC attack, Trump says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-11-28 00:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764288362567_nn_mza_national_guard_attack_251127_1920x1080-tdxdn1.jpg" alt="New details after targeted National Guard shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-details-after-targeted-national-guard-shooting-253200965793" target="_blank">New details after targeted National Guard shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-28 00:06</span>
             </div>
         </div>
 <div class="story">
@@ -78,24 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/27/video-shows-israeli-soldiers-shooting-surrendering-palestinians-in-jenin?traffic_source=rss" target="_blank">Video shows Israeli soldiers shooting surrendering Palestinians in Jenin</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-27 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/afghan-1-gty-er-251127_1764269633888_hpMain_4x3t_384.jpg" alt="National Guard shooting suspect was likely vetted by US before being granted asylum" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/national-guard-shooting-suspect-vetted-us-granted-asylum/story?id=127930034" target="_blank">National Guard shooting suspect was likely vetted by US before being granted asylum</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-27 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/israeli-troops-kill-two-palestinians-in-jenin-as-they-try-to-surrender?traffic_source=rss" target="_blank">Israeli troops kill two Palestinians in Jenin as they try to surrender</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-27 18:32</span>
             </div>
         </div>
 </div>
@@ -163,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/farhadrahimiklie/a-complete-guide-to-mongodb-for-developers-with-code-examples-k23" target="_blank">A Complete Guide to MongoDB for Developers (With Code Examples)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-28 03:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fghok3j6zjpo4ujhq0wau.png" alt="Mastering Tariff Code Lookup for International Trade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,30 +204,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/03/plucky-download-now.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Snapshot 1 is Available to Download" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/ubuntu-26-04-snapshot-1-released" target="_blank">Ubuntu 26.04 Snapshot 1 is Available to Download</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-27 23:08</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pglejzer/timepicker-ui-v400-five-years-of-learning-one-major-rewrite-1j6a" target="_blank">Timepicker-UI v4.0.0 - Five Years of Learning, One Major Rewrite</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-27 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/" target="_blank">250MWh &#x27;Sand Battery&#x27; to start construction in Finland</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-27 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2103048%2F716988a5-9c51-49bf-acef-191bc6dd2fee.jpeg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anthonymax/-ep4" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-27 21:44</span>
             </div>
         </div>
 </div>
@@ -294,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 301 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 300 |
+        🔄 Last Updated: 03:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
