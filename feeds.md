@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 07:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-28 08:02:24 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/11/28/in-geneva-and-pokrovsk-ukraine-fights-trump-peace-plan-and-putins-troops?traffic_source=rss" target="_blank">In Geneva and Pokrovsk, Ukraine fights Trump peace plan and Putin’s troops</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-28 07:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/28/nx-s1-5623787/trump-vows-to-permanently-pause-migration-from-poor-nations-in-social-media-screed" target="_blank">Trump vows to &#x27;permanently pause&#x27; migration from poor nations in social media screed</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-28 06:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/28/trump-says-us-will-soon-stop-venezuelan-drug-trafficking-by-land?traffic_source=rss" target="_blank">Trump says US will soon stop Venezuelan drug trafficking ‘by land’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-28 03:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/sarah-beckstrom_1764289597997_hpMain_4x3t_384.jpg" alt="West Virginia National Guard member dies after being shot in DC attack, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/2-national-guard-members-remain-critical-condition-after/story?id=127924182" target="_blank">West Virginia National Guard member dies after being shot in DC attack, Trump says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-28 00:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764288362567_nn_mza_national_guard_attack_251127_1920x1080-tdxdn1.jpg" alt="New details after targeted National Guard shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-details-after-targeted-national-guard-shooting-253200965793" target="_blank">New details after targeted National Guard shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-28 00:06</span>
             </div>
         </div>
 </div>
@@ -178,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/NullPxl/banrays" target="_blank">Show HN: Glasses to detect smart-glasses that have cameras</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-28 05:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/stack_overflowed/7-best-resources-to-learn-c-from-my-coding-journey-to-yours-148c" target="_blank">7 Best Resources to Learn C# — From My Coding Journey to Yours</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/farhadrahimiklie/a-complete-guide-to-mongodb-for-developers-with-code-examples-k23" target="_blank">A Complete Guide to MongoDB for Developers (With Code Examples)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-28 03:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fghok3j6zjpo4ujhq0wau.png" alt="Mastering Tariff Code Lookup for International Trade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pnka_ntzv_87f464617e8d42b/mastering-tariff-code-lookup-for-international-trade-72g" target="_blank">Mastering Tariff Code Lookup for International Trade</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-28 02:19</span>
             </div>
         </div>
 </div>
@@ -298,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 294 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
