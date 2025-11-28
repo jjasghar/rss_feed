@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 17:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-28 18:02:04 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a712/live/0c46c260-cc71-11f0-ab80-ff64212d3317.jpg" alt="Zelensky&#x27;s top adviser resigns after Ukrainian anti-corruption raid on his home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg9nd2wddno?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky&#x27;s top adviser resigns after Ukrainian anti-corruption raid on his home</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-28 17:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a712/live/0c46c260-cc71-11f0-ab80-ff64212d3317.jpg" alt="Zelensky&#x27;s chief of staff resigns after Ukrainian anti-corruption raid on his home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,20 +98,20 @@
                 <span class="time">2025-11-28 12:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764331995700_tdy_news_7a_zanona_national_guard_member_dies_251128_1920x1080-85w4qf.jpg" alt="National Guard Member Dies After Targeted Ambush in D.C." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-to-permanently-pause-migration-from-3rd-world-countries-253235269596" target="_blank">National Guard Member Dies After Targeted Ambush in D.C.</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-28 12:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21309820/best-wireless-earbuds" target="_blank">The best earbuds we’ve tested for 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-28 17:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -117,6 +131,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/soyuz1-500x500.jpg" alt="Before a Soyuz launch Thursday someone forgot to secure a 20-ton service platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/" target="_blank">Before a Soyuz launch Thursday someone forgot to secure a 20-ton service platform</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-28 16:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -132,24 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/" target="_blank">How OpenAI and Google see AI changing go-to-market strategies</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-28 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69266c30e44d5ed7c3809f07/master/pass/The%20Best%20Black%20Friday%20Smartphone%20Deals.png" alt="10 Best Black Friday Phone Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/black-friday-phone-deals-2025/" target="_blank">10 Best Black Friday Phone Deals (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-28 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/22985108/best-fitness-tracker" target="_blank">The best fitness trackers and watches we’ve tested</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-28 13:46</span>
             </div>
         </div>
 </div>
@@ -185,6 +190,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/11/reddit-comments-go-migration/en/headerimage/generatedHeaderImage-1763831457503.jpg" alt="Reddit Migrates Comment Backend from Python to Go Microservice to Halve Latency" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/reddit-comments-go-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Reddit Migrates Comment Backend from Python to Go Microservice to Halve Latency</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-28 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18777536&w=600" alt="From Repetition to Reusability: How Maven Archetypes Save Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -202,20 +216,29 @@
                 <span class="time">2025-11-28 14:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/" target="_blank">The ultimate gift guide for the developer in your life</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-11-28 13:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/anker-charger-1280x853.jpg" alt="Anker 65W Nano Charger Price Collapses, Cheaper Than Last Black Friday as Stock Gets Dumped" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/top-all-your-essentials-in-one-go-with-the-3-port-65w-anker-usb-c-charger-for-just-24-2000648212" target="_blank">Anker 65W Nano Charger Price Collapses, Cheaper Than Last Black Friday as Stock Gets Dumped</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-28 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAH8E7HY3WXTWJ3NQZSM65DM/hero-image.png" alt="The Best Deals on Home Improvement During Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/best-home-improvement-deals-black-friday-2025?utm_medium=RSS" target="_blank">The Best Deals on Home Improvement During Black Friday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-28 17:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/12/weevil.jpg?fit=1070%2C603&amp;quality=60&amp;ssl=1" alt="Hamburglar McWeevil joins &quot;freaking creepy&quot; Ronald McWeevil in Enterprise, AL" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -252,24 +275,6 @@
                 <span class="time">2025-11-28 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/forerunner-55-garmin-watch-1280x853.jpg" alt="Garmin Offloads Its Cheapest Model Ever, Now Zero-Profit Play on Forerunner 55 GPS Running Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/garmin-offloads-its-cheapest-model-ever-now-zero-profit-play-on-forerunner-55-gps-running-watch-2000648408" target="_blank">Garmin Offloads Its Cheapest Model Ever, Now Zero-Profit Play on Forerunner 55 GPS Running Watch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-28 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Pluribus_Photo_powder-1280x853.jpg" alt="Nature Is Healing (Sorta?) on This Week’s ‘Pluribus’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nature-is-healing-sorta-on-this-weeks-pluribus-2000689828" target="_blank">Nature Is Healing (Sorta?) on This Week’s ‘Pluribus’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-28 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -289,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
