@@ -1,40 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 16:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-28 17:01:36 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +39,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a712/live/0c46c260-cc71-11f0-ab80-ff64212d3317.jpg" alt="Zelensky&#x27;s chief of staff resigns after Ukrainian anti-corruption raid on his home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg9nd2wddno?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky&#x27;s chief of staff resigns after Ukrainian anti-corruption raid on his home</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-28 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/28/g-s1-99736/zelenskyys-chief-of-staff-resigns-as-ukraine-corruption-investigations-widen" target="_blank">Zelenskyy&#x27;s chief of staff resigns as Ukraine corruption investigations widen</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-28 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-10-abc-gmh-251126_1764210667275_hpMain_4x3t_384.jpg" alt="Trump vows to &#x27;permanently pause&#x27; migration from some countries after DC attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-permanently-pause-migration-countries-after-national-guard/story?id=127942078" target="_blank">Trump vows to &#x27;permanently pause&#x27; migration from some countries after DC attack</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-28 15:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-10-abc-gmh-251126_1764210667275_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll &#x27;permanently pause&#x27; migration from some countries after DC shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,38 +93,38 @@
                 <span class="time">2025-11-28 12:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/28/death-toll-from-flooding-in-southern-thailand-reaches-at-least-145?traffic_source=rss" target="_blank">Death toll from flooding in southern Thailand reaches at least 145</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-28 12:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/28/nx-s1-5623879/israeli-forces-kill-at-least-10-syria-raid" target="_blank">Israeli forces kill at least 10 in southern Syria raid, officials and residents say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-28 11:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5301/live/574b3c40-cc4a-11f0-a892-01d657345866.jpg" alt="France to intercept small boats after pressure from UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1kpmm20zwwo?at_medium=RSS&at_campaign=rss" target="_blank">France to intercept small boats after pressure from UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-28 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/831498/modretro-m64-console-4k-fpga-nintendo-64-clone" target="_blank">ModRetro recreated the N64 controller for its M64 console</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-28 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6929d0af83ffa526c40b11d0/master/pass/The%20Best%20Black%20Friday%20Pod%20Coffee%20Maker%20Deals.png" alt="The Best Black Friday Pod Coffee Maker Deals, According to a Daily User (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-pod-coffee-maker-black-friday-deals-2025/" target="_blank">The Best Black Friday Pod Coffee Maker Deals, According to a Daily User (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-28 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/" target="_blank">SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-28 16:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,38 +152,20 @@
                 <span class="time">2025-11-28 13:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6927af994780b710836b1072/master/pass/Cozy%20Earth's%20Best%20Black%20Friday%20Sales%20on%20Products%20We%20Love_.png" alt="Cozy Earth&#x27;s Best Black Friday Sales on Products We Love (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cozy-earth-black-friday-sale-2025/" target="_blank">Cozy Earth&#x27;s Best Black Friday Sales on Products We Love (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-28 13:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/optimus_prime_death-500x500.jpg" alt="Here are the best Black Friday deals we can find" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/shopping/2025/11/here-are-the-best-black-friday-deals-we-can-find/" target="_blank">Here are the best Black Friday deals we can find</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-28 12:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/829295/black-friday-ama" target="_blank">I’ve covered Black Friday deals for ten years, ask me anything</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-28 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft" target="_blank">Can Dutch universities do without Microsoft?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-28 15:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,20 +211,20 @@
                 <span class="time">2025-11-28 13:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18579908&w=600" alt="Five Nonprofit &amp;amp; Charity APIs That Make Due Diligence Way Less Painful for Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/five-nonprofit-amp-charity-apis-that-make-due-dili" target="_blank">Five Nonprofit &amp;amp; Charity APIs That Make Due Diligence Way Less Painful for Developers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-28 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/12/weevil.jpg?fit=1070%2C603&amp;quality=60&amp;ssl=1" alt="Hamburglar McWeevil joins &quot;freaking creepy&quot; Ronald McWeevil in Enterprise, AL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/28/hamburglar-mcweevil-joins-freaking-creepy-ronald-mcweevil-in-enterprise-al.html" target="_blank">Hamburglar McWeevil joins &quot;freaking creepy&quot; Ronald McWeevil in Enterprise, AL</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-28 16:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Bugonia-exclusive-1280x853.jpg" alt="The Score for ‘Bugonia’ Happened in a Truly Unbelievable Way (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +270,6 @@
                 <span class="time">2025-11-28 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/LEGO-Christmas-Tree-1280x856.jpg" alt="LEGO Christmas Tree Hit 80K Sales This Black Friday, Festive Set Now Goes for Peanuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-christmas-tree-hit-80k-sales-this-black-friday-festive-set-now-goes-for-peanuts-2000648384" target="_blank">LEGO Christmas Tree Hit 80K Sales This Black Friday, Festive Set Now Goes for Peanuts</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-28 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,22 +284,13 @@
                 <span class="time">2025-11-28 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1764198260-20251127_edit.png" alt="Saturday Morning Breakfast Cereal - Quality" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/quality" target="_blank">Saturday Morning Breakfast Cereal - Quality</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-27 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
