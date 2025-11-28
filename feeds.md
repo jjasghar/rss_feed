@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 10:02:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-28 11:01:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/48dd23e0-cc44-11f0-9fb5-5f3a3703a365.jpg" alt="Hong Kong tower blocks fire death toll rises to 128" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c79xd17dre3o?at_medium=RSS&at_campaign=rss" target="_blank">Hong Kong tower blocks fire death toll rises to 128</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-28 10:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/28/nx-s1-5620965/commercial-drivers-licenses-cdl-dot-immigration" target="_blank">The DOT says it wants to make trucking safer, but some see an &#x27;immigration raid&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-28 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +95,29 @@
                 <span class="time">2025-11-28 07:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/28/nx-s1-5623787/trump-vows-to-permanently-pause-migration-from-poor-nations-in-social-media-screed" target="_blank">Trump vows to &#x27;permanently pause&#x27; migration from poor nations in social media screed</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-28 06:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/28/nx-s1-5623784/pope-leo-turkey-force-peace" target="_blank">Pope Leo XIV encourages Turkey to be a force for peace on his first foreign trip</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-28 06:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69276633c77248337ceeb5ef/master/pass/wired_bflive.jpg" alt="Black Friday Deals Live 2025: We&#x27;re Tracking Discounts, Trends, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/live/black-friday-live-25/" target="_blank">Black Friday Deals Live 2025: We&#x27;re Tracking Discounts, Trends, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-28 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025" target="_blank">The best Black Friday deals on AirPods, AirTags, and other Apple gear</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-28 10:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +154,6 @@
                 <span class="time">2025-11-28 05:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/822252/sony-dualsense-edge-controller-black-friday-deal-sale-2025" target="_blank">The DualSense Edge has fallen to one of the lowest we’ve seen for Black Friday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-27 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69276529097f2a0eaceef112/master/pass/wired_absolutebest.jpg" alt="Best Black Friday Deals 2025: We&#x27;ve Tested Every Item and Tracked Every Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/black-friday-deals-2025/" target="_blank">Best Black Friday Deals 2025: We&#x27;ve Tested Every Item and Tracked Every Price</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-27 21:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +166,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/azure-cobalt-200-chip/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft&#x27;s Azure Cobalt 200 ARM Chip Delivers 50% Performance Boost</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-28 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/pebble-returns-as-open-source/" target="_blank">After Fitbit Killed it in 2016, Pebble Returns with 100% Open Source Software and Hardware</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-28 09:50</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/stack_overflowed/7-best-resources-to-learn-c-from-my-coding-journey-to-yours-148c" target="_blank">7 Best Resources to Learn C# — From My Coding Journey to Yours</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-28 05:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Black-Friday-2025" target="_blank">Black Friday Reminder For Those Hating Ads But Loving Linux Hardware/Software</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-28 05:00</span>
             </div>
         </div>
 </div>
@@ -304,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 292 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 289 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
