@@ -1,29 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 00:04:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-28 01:29:21 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 1 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -99,6 +100,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/822252/sony-dualsense-edge-controller-black-friday-deal-sale-2025" target="_blank">The DualSense Edge has fallen to one of the lowest we’ve seen for Black Friday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-27 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69276529097f2a0eaceef112/master/pass/wired_absolutebest.jpg" alt="Best Black Friday Deals 2025: We&#x27;ve Tested Every Item and Tracked Every Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -141,15 +151,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025" target="_blank">Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-27 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6923e06e6d1b164c3de1b926/master/pass/Amazon%20Is%20Having%20an%20Epic%20Sale%20on%20Birdfy%20Smart%20Bird%20Feeders.png" alt="Amazon Is Having a Huge Black Friday Sale on Birdfy Smart Bird Feeders (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-smart-bird-feeder-deals-black-friday-2025/" target="_blank">Amazon Is Having a Huge Black Friday Sale on Birdfy Smart Bird Feeders (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-27 16:30</span>
             </div>
         </div>
 </div>
@@ -289,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 300 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 301 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
