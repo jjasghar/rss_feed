@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 22:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-28 23:01:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +53,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/28/could-conscription-return-in-europe?traffic_source=rss" target="_blank">Could conscription return in Europe?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-28 22:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/28/peru-to-declare-state-of-emergency-to-block-chile-border-crossings?traffic_source=rss" target="_blank">Peru to declare state of emergency to block Chile border crossings</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-28 21:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-airbus-a320_7094985.jpg?20251128214725" alt="Why concerns over &#x27;intense&#x27; solar radiation affecting Airbus planes has led to global flight disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/why-does-solar-radiation-mean-thousands-of-airbus-planes-require-software-changes-13476813" target="_blank">Why concerns over &#x27;intense&#x27; solar radiation affecting Airbus planes has led to global flight disruption</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-28 21:23</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +103,20 @@
                 <span class="time">2025-11-28 16:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb69/live/870fd830-cc83-11f0-9fb5-5f3a3703a365.jpg" alt="Prostate cancer screening should not be offered to most UK men, say experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm20169gz44o?at_medium=RSS&at_campaign=rss" target="_blank">Prostate cancer screening should not be offered to most UK men, say experts</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-28 16:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/28/g-s1-99736/zelenskyys-chief-of-staff-resigns-as-ukraine-corruption-investigations-widen" target="_blank">Zelenskyy&#x27;s chief of staff resigns as Ukraine corruption investigations widen</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-28 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/" target="_blank">Supabase hit $5B by turning down million-dollar contracts. Here’s why.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-28 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +162,29 @@
                 <span class="time">2025-11-28 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6929d0af83ffa526c40b11d0/master/pass/The%20Best%20Black%20Friday%20Pod%20Coffee%20Maker%20Deals.png" alt="The Best Black Friday Pod Coffee Maker Deals, According to a Daily User (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-pod-coffee-maker-black-friday-deals-2025/" target="_blank">The Best Black Friday Pod Coffee Maker Deals, According to a Daily User (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-28 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgzbbk6yh331rekiewgzk.png" alt="Finding Strength in Code, Part 2: Lessons from Loss and the Power of Reflection" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/smmd/finding-strength-in-code-part-2-lessons-from-loss-and-the-power-of-reflection-2fb2" target="_blank">Finding Strength in Code, Part 2: Lessons from Loss and the Power of Reflection</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-28 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-10.20-Released" target="_blank">Wine 10.20 Released With VKD3D 1.18 Upgrade For Direct3D 12</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-28 21:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0lrpbo84l8kxr4x38vy4.png" alt="Unknown Unknowns (Bite-size Article)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -167,6 +192,15 @@
                 <span class="title"><a href="https://dev.to/koshirok096/unknown-unknowns-bite-size-article-37j" target="_blank">Unknown Unknowns (Bite-size Article)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-28 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18778801&w=600" alt="How to Gracefully Deal With Contention" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/gracefully-deal-with-contention" target="_blank">How to Gracefully Deal With Contention</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-28 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -187,38 +221,20 @@
                 <span class="time">2025-11-28 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/viz-x/factor-the-stack-based-language-built-around-words-quotations-and-combinators-342b" target="_blank">📌 Factor — The Stack-Based Language Built Around Words, Quotations, and Combinators</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-28 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset" target="_blank">28M Hacker News comments as vector embedding search dataset</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-28 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18774271&w=600" alt="RAG Applications with Vertex AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/rag-applications-with-vertex-ai" target="_blank">RAG Applications with Vertex AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-28 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html" target="_blank">Friday Squid Blogging: Flying Neon Squid Found on Israeli Beach</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-28 20:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -234,12 +250,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/lg-oled-evo-c4-1280x853.jpg" alt="LG 48″ OLED evo C4 Series Gets “Hidden Price” on Amazon, 45% Off Price Violates LG’s Display Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lg-48-oled-evo-c4-series-gets-hidden-price-on-amazon-45-off-price-violates-lgs-display-rules-2000648469" target="_blank">LG 48″ OLED evo C4 Series Gets “Hidden Price” on Amazon, 45% Off Price Violates LG’s Display Rules</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-28 22:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Angels-Egg-io9-2025-retro-review-1280x853.jpg" alt="‘Angel’s Egg’ Still Embodies Anime’s Wonderous Ability to Move Without Words" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/angels-egg-anime-mamoru-oshii-gkids-retro-review-2000692231" target="_blank">‘Angel’s Egg’ Still Embodies Anime’s Wonderous Ability to Move Without Words</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-28 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/sample.png?fit=640%2C320&amp;quality=55&amp;ssl=1" alt="Tiny pixel fonts are a challenge. With double-width pixels, they&#x27;re a nightmare." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/28/tiny-pixel-fonts-are-a-challenge-with-double-width-pixels-theyre-a-nightmare.html" target="_blank">Tiny pixel fonts are a challenge. With double-width pixels, they&#x27;re a nightmare.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-28 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7FDV9SVRS44PHHSZYPRDK07/hero-image.jpg" alt="For Black Friday, You Can Get a One-Year BJ&#x27;s Membership for Just $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/bjs-membership-stacksocial-sale-black-friday-2025?utm_medium=RSS" target="_blank">For Black Friday, You Can Get a One-Year BJ&#x27;s Membership for Just $15</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-28 21:38</span>
             </div>
         </div>
 <div class="story">
@@ -258,33 +301,6 @@
                 <span class="title"><a href="https://kotaku.com/turn-your-living-room-into-a-playground-with-the-nex-playground-while-its-discounted-by-20-2000648449" target="_blank">Forget Nintendo, Nex Motion Gaming Console Hits All-Time Low as Amazon Clears Out the Remaining Stock After 80K+ Sold</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-11-28 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/MicrosoftSurfacePro-1280x853.jpg" alt="Microsoft Goes More Aggressive Than Apple as Surface Pro 2-in-1 Drops to a Budget-PC Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-goes-more-aggressive-than-apple-as-surface-pro-2-in-1-drops-to-a-budget-pc-low-2000648444" target="_blank">Microsoft Goes More Aggressive Than Apple as Surface Pro 2-in-1 Drops to a Budget-PC Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-28 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/20251128_173034-1280x960.jpg" alt="Lego’s First ‘Star Trek’ Set Should Be a Sign of Great Things to Come" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lego-star-trek-enterprise-d-review-next-generation-2000692310" target="_blank">Lego’s First ‘Star Trek’ Set Should Be a Sign of Great Things to Come</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-28 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/anker-charger-1280x853.jpg" alt="Anker 65W Nano Charger Price Collapses, Cheaper Than Last Black Friday as Stock Gets Dumped" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/top-all-your-essentials-in-one-go-with-the-3-port-65w-anker-usb-c-charger-for-just-24-2000648212" target="_blank">Anker 65W Nano Charger Price Collapses, Cheaper Than Last Black Friday as Stock Gets Dumped</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-28 17:45</span>
             </div>
         </div>
 </div>
@@ -333,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
