@@ -1,33 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 08:02:24 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-28 09:02:11 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/11/28/israeli-occupation-now-far-more-extreme-for-palestinians?traffic_source=rss" target="_blank">Israeli occupation now “far more extreme” for Palestinians</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-28 08:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,21 +84,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e8/live/02f75300-cba9-11f0-9b12-8751a987e19a.jpg" alt="Parents threatened and blamed by authorities as 1,000 adopted children returned to care" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/28/jordan-demands-russia-stop-recruiting-citizens-after-two-killed-in-fighting?traffic_source=rss" target="_blank">Jordan demands Russia stop recruiting citizens after two killed in fighting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-28 03:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/28/trump-says-us-will-soon-stop-venezuelan-drug-trafficking-by-land?traffic_source=rss" target="_blank">Trump says US will soon stop Venezuelan drug trafficking ‘by land’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-28 03:05</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0kdv1x83gko?at_medium=RSS&at_campaign=rss" target="_blank">Parents threatened and blamed by authorities as 1,000 adopted children returned to care</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-28 05:54</span>
             </div>
         </div>
 </div>
@@ -102,6 +97,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f941cd8917864e5606190f/master/pass/GoPro%20Max%202%20front%20SOURCE%20Scott%20Gilbertson.png" alt="The 13 Best GoPro and Camera Deals for Black Friday (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-camera-deals-2025/" target="_blank">The 13 Best GoPro and Camera Deals for Black Friday (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-28 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +151,6 @@
                 <span class="time">2025-11-27 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/27/best-ipad-apps-for-unleashing-and-exploring-your-creativity/" target="_blank">Best iPad apps for unleashing and exploring your creativity</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-27 17:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +163,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/11/28/lightning-as-a-service-for-agriculture/" target="_blank">Lightning-as-a-service for agriculture</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-11-28 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/meirk-codes/building-peoplehub-an-ai-powered-linkedin-intelligence-platform-with-langgraph-and-bright-data-44na" target="_blank">Building PeopleHub: An AI-Powered LinkedIn Intelligence Platform with LangGraph and Bright Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-28 08:38</span>
             </div>
         </div>
 <div class="story">
@@ -204,15 +208,6 @@
                 <span class="title"><a href="https://dev.to/manoj_sravan_ccfc9fa15b8d/case-study-building-a-multi-product-ecosystem-for-illumora-boombooth-ma" target="_blank">📌 Case Study: Building a Multi-Product Ecosystem for Illumora &amp; Boombooth</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-28 04:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/farhadrahimiklie/a-complete-guide-to-mongodb-for-developers-with-code-examples-k23" target="_blank">A Complete Guide to MongoDB for Developers (With Code Examples)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-28 03:08</span>
             </div>
         </div>
 </div>
@@ -293,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 294 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
