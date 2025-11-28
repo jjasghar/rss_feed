@@ -1,31 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 11:01:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-11-28 12:02:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +39,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/28/nx-s1-5623879/israeli-forces-kill-at-least-10-syria-raid" target="_blank">Israeli forces kill at least 10 in southern Syria raid, officials and residents say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-28 11:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5301/live/574b3c40-cc4a-11f0-a892-01d657345866.jpg" alt="France to intercept small boats after pressure from UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1kpmm20zwwo?at_medium=RSS&at_campaign=rss" target="_blank">France to intercept small boats after pressure from UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-28 11:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/11/28/history-illustrated-will-bangladeshs-hasina-face-the-hangman?traffic_source=rss" target="_blank">Will Bangladesh’s Hasina face the hangman?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-28 11:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/48dd23e0-cc44-11f0-9fb5-5f3a3703a365.jpg" alt="Hong Kong tower blocks fire death toll rises to 128" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -53,46 +77,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/28/nx-s1-5620965/commercial-drivers-licenses-cdl-dot-immigration" target="_blank">The DOT says it wants to make trucking safer, but some see an &#x27;immigration raid&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2025/nov/28/africa-forests-transformed-carbon-sink-carbon-source-study" target="_blank">Africa’s forests transformed from carbon sink to carbon source, study finds</a></span>
+                <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-28 10:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/11/28/no-justification-for-israeli-field-execution-in-occupied-west-bank?traffic_source=rss" target="_blank">“No justification [for Israeli] field execution” in occupied West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-28 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/11/28/israeli-occupation-now-far-more-extreme-for-palestinians?traffic_source=rss" target="_blank">Israeli occupation now “far more extreme” for Palestinians</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-28 08:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/583c/live/f8ea78d0-cc19-11f0-8c06-f5d460985095.jpg" alt="&#x27;This was preventable&#x27;: Anger and unanswered questions after Hong Kong fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn8e5j20g27o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;This was preventable&#x27;: Anger and unanswered questions after Hong Kong fire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-28 08:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/11/28/in-geneva-and-pokrovsk-ukraine-fights-trump-peace-plan-and-putins-troops?traffic_source=rss" target="_blank">In Geneva and Pokrovsk, Ukraine fights Trump peace plan and Putin’s troops</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-28 07:31</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/28/nx-s1-5620965/commercial-drivers-licenses-cdl-dot-immigration" target="_blank">The DOT says it wants to make trucking safer, but some see an &#x27;immigration raid&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-28 10:00</span>
             </div>
         </div>
 </div>
@@ -100,6 +97,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/829295/black-friday-ama" target="_blank">I’ve covered Black Friday deals for ten years, ask me anything</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-28 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69276633c77248337ceeb5ef/master/pass/wired_bflive.jpg" alt="Black Friday Deals Live 2025: We&#x27;re Tracking Discounts, Trends, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,15 +149,6 @@
                 <span class="title"><a href="https://www.wired.com/story/black-friday-camera-deals-2025/" target="_blank">The 13 Best GoPro and Camera Deals for Black Friday (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-28 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/27/andurils-autonomous-weapons-stumble-in-tests-and-combat-wsj-reports/" target="_blank">Anduril’s autonomous weapons stumble in tests and combat, WSJ reports</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-28 05:07</span>
             </div>
         </div>
 </div>
@@ -219,6 +216,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/neanderthal-woman-and-child-1280x853.jpg" alt="New Evidence Suggests Neanderthals Cannibalized Outsider Women and Children" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-evidence-suggests-neanderthals-cannibalized-outsider-women-and-children-2000691018" target="_blank">New Evidence Suggests Neanderthals Cannibalized Outsider Women and Children</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-28 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/Apple-AirPods-4-Wireless-Earbuds-1280x852.jpg" alt="Apple Breaks Margin Lines as AirPods 4 at Nearly 50% Off Are Priced Like Budget Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/airpods-4-2000647084" target="_blank">Apple Breaks Margin Lines as AirPods 4 at Nearly 50% Off Are Priced Like Budget Earbuds</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-28 11:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/vote-1280x853.jpg" alt="The Latest Thing AI Is Accelerating Is How Much U.S. Elections Suck" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -254,24 +269,6 @@
                 <span class="time">2025-11-27 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAK16T6H833Y1KS282DE8BT5/hero-image.png" alt="The OnePlus 13 Is Already $150 Off for Its Early Black Friday Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/oneplus-13-early-black-friday-deal-2025?utm_medium=RSS" target="_blank">The OnePlus 13 Is Already $150 Off for Its Early Black Friday Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-27 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAKV4QF3D0E24ZYPHVAS63FX/hero-image.png" alt="Epicka Makes My Favorite Universal Travel Adapter, and It&#x27;s One the Best Early Black Friday Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/travel/epicka-my-favorite-universal-travel-adapter-early-black-friday-deals?utm_medium=RSS" target="_blank">Epicka Makes My Favorite Universal Travel Adapter, and It&#x27;s One the Best Early Black Friday Deals</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-27 19:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 289 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 288 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
