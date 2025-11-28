@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 13:10:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-28 14:01:25 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/22985108/best-fitness-tracker" target="_blank">The best fitness trackers and watches we’ve tested</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-28 13:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6927af994780b710836b1072/master/pass/Cozy%20Earth's%20Best%20Black%20Friday%20Sales%20on%20Products%20We%20Love_.png" alt="Cozy Earth&#x27;s Best Black Friday Sales on Products We Love (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,15 +160,6 @@
                 <span class="time">2025-11-28 10:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas" target="_blank">The 148 best Black Friday deals we’ve found so far — a ton of tech is over half off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-28 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,12 +175,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18579908&w=600" alt="Five Nonprofit &amp;amp; Charity APIs That Make Due Diligence Way Less Painful for Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/five-nonprofit-amp-charity-apis-that-make-due-dili" target="_blank">Five Nonprofit &amp;amp; Charity APIs That Make Due Diligence Way Less Painful for Developers</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-28 13:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.bbc.com/future/article/20251125-the-mysterious-black-fungus-from-chernobyl-that-appears-to-eat-radiation" target="_blank">The mysterious black fungus from Chernobyl that may eat radiation</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-28 12:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ISP4-Driver-v6" target="_blank">AMD ISP4 Linux Webcam Driver Updated For HP ZBook Ultra G1a &amp; Future Ryzen Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-28 12:03</span>
             </div>
         </div>
 <div class="story">
@@ -199,29 +219,20 @@
                 <span class="time">2025-11-28 09:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/11/28/lightning-as-a-service-for-agriculture/" target="_blank">Lightning-as-a-service for agriculture</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-11-28 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/meirk-codes/building-peoplehub-an-ai-powered-linkedin-intelligence-platform-with-langgraph-and-bright-data-44na" target="_blank">Building PeopleHub: An AI-Powered LinkedIn Intelligence Platform with LangGraph and Bright Data</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-28 08:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Pluribus_Photo_powder-1280x853.jpg" alt="Nature Is Healing (Sorta?) on This Week’s ‘Pluribus’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nature-is-healing-sorta-on-this-weeks-pluribus-2000689828" target="_blank">Nature Is Healing (Sorta?) on This Week’s ‘Pluribus’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-28 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/LEGO-Christmas-Tree-1280x856.jpg" alt="LEGO Christmas Tree Hit 80K Sales This Black Friday, Festive Set Now Goes for Peanuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +278,6 @@
                 <span class="time">2025-11-28 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/ipad-air-2025-wifi-1280x853.jpg" alt="Apple Runs Secret iPad Air Sale on Amazon, Best Apple Tablet Now Going for All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/apple-quietly-ditches-ipad-air-pride-on-amazon-own-site-still-pretends-nothing-changed-2000648171" target="_blank">Apple Runs Secret iPad Air Sale on Amazon, Best Apple Tablet Now Going for All-Time Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-28 01:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
