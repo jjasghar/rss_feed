@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 14:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-28 15:01:54 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-10-abc-gmh-251126_1764210667275_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll &#x27;permanently pause&#x27; migration from some countries after DC shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-permanently-pause-migration-countries-after-national-guard/story?id=127942078" target="_blank">Trump says he&#x27;ll &#x27;permanently pause&#x27; migration from some countries after DC shooting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-28 14:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1kpmm20zwwo?at_medium=RSS&at_campaign=rss" target="_blank">France to intercept small boats after pressure from UK</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-28 11:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/11/28/history-illustrated-will-bangladeshs-hasina-face-the-hangman?traffic_source=rss" target="_blank">Will Bangladesh’s Hasina face the hangman?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-28 11:12</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18777536&w=600" alt="From Repetition to Reusability: How Maven Archetypes Save Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-maven-archetypes-save-time" target="_blank">From Repetition to Reusability: How Maven Archetypes Save Time</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-28 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main" target="_blank">Petition to formally recognize open source work as civic service in Germany</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-28 14:08</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
@@ -201,29 +219,29 @@
                 <span class="time">2025-11-28 12:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/azure-cobalt-200-chip/en/headerimage/generatedHeaderImage-1764014735419.jpg" alt="Microsoft&#x27;s Azure Cobalt 200 ARM Chip Delivers 50% Performance Boost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/azure-cobalt-200-chip/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft&#x27;s Azure Cobalt 200 ARM Chip Delivers 50% Performance Boost</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-28 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/pebble-returns-as-open-source/" target="_blank">After Fitbit Killed it in 2016, Pebble Returns with 100% Open Source Software and Hardware</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-28 09:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Oura-Ring-4-Ceramic-review-03-1280x853.jpg" alt="Oura Ring 4 Ceramic Review: Can the Latest Smart Ring Really Track It All?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/oura-ring-4-ceramic-review-can-the-latest-smart-ring-really-track-it-all-2000692522" target="_blank">Oura Ring 4 Ceramic Review: Can the Latest Smart Ring Really Track It All?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-28 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/forerunner-55-garmin-watch-1280x853.jpg" alt="Garmin Offloads Its Cheapest Model Ever, Now Zero-Profit Play on Forerunner 55 GPS Running Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/garmin-offloads-its-cheapest-model-ever-now-zero-profit-play-on-forerunner-55-gps-running-watch-2000648408" target="_blank">Garmin Offloads Its Cheapest Model Ever, Now Zero-Profit Play on Forerunner 55 GPS Running Watch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-28 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Pluribus_Photo_powder-1280x853.jpg" alt="Nature Is Healing (Sorta?) on This Week’s ‘Pluribus’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,24 +278,6 @@
                 <span class="time">2025-11-28 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/Apple-AirPods-4-Wireless-Earbuds-1280x852.jpg" alt="Apple Breaks Margin Lines as AirPods 4 at Nearly 50% Off Are Priced Like Budget Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/airpods-4-2000647084" target="_blank">Apple Breaks Margin Lines as AirPods 4 at Nearly 50% Off Are Priced Like Budget Earbuds</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-28 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/vote-1280x853.jpg" alt="The Latest Thing AI Is Accelerating Is How Much U.S. Elections Suck" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-latest-thing-ai-is-accelerating-is-how-much-u-s-elections-suck-2000691848" target="_blank">The Latest Thing AI Is Accelerating Is How Much U.S. Elections Suck</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-28 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
