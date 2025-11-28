@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 18:02:04 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-28 19:01:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -63,6 +60,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb69/live/870fd830-cc83-11f0-9fb5-5f3a3703a365.jpg" alt="Prostate cancer screening should not be offered to most UK men, say experts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm20169gz44o?at_medium=RSS&at_campaign=rss" target="_blank">Prostate cancer screening should not be offered to most UK men, say experts</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-28 16:27</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -81,21 +87,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-10-abc-gmh-251126_1764210667275_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll &#x27;permanently pause&#x27; migration from some countries after DC shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-permanently-pause-migration-countries-after-national-guard/story?id=127942078" target="_blank">Trump says he&#x27;ll &#x27;permanently pause&#x27; migration from some countries after DC shooting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-28 14:57</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/28/nx-s1-5623878/death-toll-floods-landslides-indonesias-sumatra-rises-to-174" target="_blank">Death toll from floods and landslides on Indonesia&#x27;s Sumatra rises to 174</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-28 12:45</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/28/jacob-zuma-daughter-resigns-claims-south-africans-tricked-fight-russia" target="_blank">Jacob Zuma’s daughter resigns amid claims South Africans tricked to fight for Russia</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-28 15:28</span>
             </div>
         </div>
 </div>
@@ -165,6 +162,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/viz-x/factor-the-stack-based-language-built-around-words-quotations-and-combinators-342b" target="_blank">📌 Factor — The Stack-Based Language Built Around Words, Quotations, and Combinators</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-28 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18774271&w=600" alt="RAG Applications with Vertex AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/rag-applications-with-vertex-ai" target="_blank">RAG Applications with Vertex AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-28 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft" target="_blank">Can Dutch universities do without Microsoft?</a></span>
                 <span class="feed">Hacker News</span>
@@ -198,29 +213,29 @@
                 <span class="time">2025-11-28 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18777536&w=600" alt="From Repetition to Reusability: How Maven Archetypes Save Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-maven-archetypes-save-time" target="_blank">From Repetition to Reusability: How Maven Archetypes Save Time</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-28 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main" target="_blank">Petition to formally recognize open source work as civic service in Germany</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-28 14:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/MicrosoftSurfacePro-1280x853.jpg" alt="Microsoft Goes More Aggressive Than Apple as Surface Pro 2-in-1 Drops to a Budget-PC Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/microsoft-goes-more-aggressive-than-apple-as-surface-pro-2-in-1-drops-to-a-budget-pc-low-2000648444" target="_blank">Microsoft Goes More Aggressive Than Apple as Surface Pro 2-in-1 Drops to a Budget-PC Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-28 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/20251128_173034-1280x960.jpg" alt="Lego’s First ‘Star Trek’ Set Should Be a Sign of Great Things to Come" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lego-star-trek-enterprise-d-review-next-generation-2000692310" target="_blank">Lego’s First ‘Star Trek’ Set Should Be a Sign of Great Things to Come</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-28 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/anker-charger-1280x853.jpg" alt="Anker 65W Nano Charger Price Collapses, Cheaper Than Last Black Friday as Stock Gets Dumped" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,29 +272,20 @@
                 <span class="time">2025-11-28 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/sony-Speaker-1-1280x853.jpg" alt="Forget JBL, Sony Goes Into Clearance Mode With Its Travel Speaker as Remaining Stock Runs Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/take-34-off-the-sony-srs-xb100s-speaker-that-brings-life-to-your-favorite-music-2000648189" target="_blank">Forget JBL, Sony Goes Into Clearance Mode With Its Travel Speaker as Remaining Stock Runs Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-28 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Oura-Ring-4-Ceramic-review-03-1280x853.jpg" alt="Oura Ring 4 Ceramic Review: Can the Latest Smart Ring Really Track It All?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/oura-ring-4-ceramic-review-can-the-latest-smart-ring-really-track-it-all-2000692522" target="_blank">Oura Ring 4 Ceramic Review: Can the Latest Smart Ring Really Track It All?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-28 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1764198389-20251128_edit.png" alt="Saturday Morning Breakfast Cereal - Red" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/red-3" target="_blank">Saturday Morning Breakfast Cereal - Red</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-28 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -294,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
