@@ -1,28 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 12:02:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-28 13:10:16 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/28/nx-s1-5623878/death-toll-floods-landslides-indonesias-sumatra-rises-to-174" target="_blank">Death toll from floods and landslides on Indonesia&#x27;s Sumatra rises to 174</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-28 12:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764331995700_tdy_news_7a_zanona_national_guard_member_dies_251128_1920x1080-85w4qf.jpg" alt="National Guard Member Dies After Targeted Ambush in D.C." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-to-permanently-pause-migration-from-3rd-world-countries-253235269596" target="_blank">National Guard Member Dies After Targeted Ambush in D.C.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-28 12:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/28/death-toll-from-flooding-in-southern-thailand-reaches-at-least-145?traffic_source=rss" target="_blank">Death toll from flooding in southern Thailand reaches at least 145</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-28 12:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,38 +99,29 @@
                 <span class="time">2025-11-28 11:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/48dd23e0-cc44-11f0-9fb5-5f3a3703a365.jpg" alt="Hong Kong tower blocks fire death toll rises to 128" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c79xd17dre3o?at_medium=RSS&at_campaign=rss" target="_blank">Hong Kong tower blocks fire death toll rises to 128</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-28 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2025/nov/28/africa-forests-transformed-carbon-sink-carbon-source-study" target="_blank">Africa’s forests transformed from carbon sink to carbon source, study finds</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-28 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/28/nx-s1-5620965/commercial-drivers-licenses-cdl-dot-immigration" target="_blank">The DOT says it wants to make trucking safer, but some see an &#x27;immigration raid&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-28 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6927af994780b710836b1072/master/pass/Cozy%20Earth's%20Best%20Black%20Friday%20Sales%20on%20Products%20We%20Love_.png" alt="Cozy Earth&#x27;s Best Black Friday Sales on Products We Love (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cozy-earth-black-friday-sale-2025/" target="_blank">Cozy Earth&#x27;s Best Black Friday Sales on Products We Love (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-28 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/optimus_prime_death-500x500.jpg" alt="Here are the best Black Friday deals we can find" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/shopping/2025/11/here-are-the-best-black-friday-deals-we-can-find/" target="_blank">Here are the best Black Friday deals we can find</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-28 12:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,29 +158,29 @@
                 <span class="time">2025-11-28 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691eb5b2d121d26c390d65a4/master/pass/Google's%20Black%20Friday%20Sale%20Starts%20Today%20on%20Pixel%20Phones_.png" alt="Best Black Friday Google Pixel Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-black-friday-google-pixel-deals-2025-1/" target="_blank">Best Black Friday Google Pixel Deals (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-28 09:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f941cd8917864e5606190f/master/pass/GoPro%20Max%202%20front%20SOURCE%20Scott%20Gilbertson.png" alt="The 13 Best GoPro and Camera Deals for Black Friday (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/black-friday-camera-deals-2025/" target="_blank">The 13 Best GoPro and Camera Deals for Black Friday (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-28 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/" target="_blank">The ultimate gift guide for the developer in your life</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-11-28 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/future/article/20251125-the-mysterious-black-fungus-from-chernobyl-that-appears-to-eat-radiation" target="_blank">The mysterious black fungus from Chernobyl that may eat radiation</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-28 12:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/11/azure-cobalt-200-chip/en/headerimage/generatedHeaderImage-1764014735419.jpg" alt="Microsoft&#x27;s Azure Cobalt 200 ARM Chip Delivers 50% Performance Boost" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,29 +217,29 @@
                 <span class="time">2025-11-28 08:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/NullPxl/banrays" target="_blank">Show HN: Glasses to detect smart-glasses that have cameras</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-28 05:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stack_overflowed/7-best-resources-to-learn-c-from-my-coding-journey-to-yours-148c" target="_blank">7 Best Resources to Learn C# — From My Coding Journey to Yours</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-28 05:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/LEGO-Christmas-Tree-1280x856.jpg" alt="LEGO Christmas Tree Hit 80K Sales This Black Friday, Festive Set Now Goes for Peanuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-christmas-tree-hit-80k-sales-this-black-friday-festive-set-now-goes-for-peanuts-2000648384" target="_blank">LEGO Christmas Tree Hit 80K Sales This Black Friday, Festive Set Now Goes for Peanuts</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-28 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Govee-Permanent-Outdoor-Lights-Prism-5-1280x853.jpg" alt="Govee Permanent Outdoor Lights Prism Review: Great, but Wait for a Good Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/govee-permanent-outdoor-lights-prism-review-great-but-wait-for-a-good-sale-2000662968" target="_blank">Govee Permanent Outdoor Lights Prism Review: Great, but Wait for a Good Sale</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-28 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/neanderthal-woman-and-child-1280x853.jpg" alt="New Evidence Suggests Neanderthals Cannibalized Outsider Women and Children" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -251,24 +276,6 @@
                 <span class="time">2025-11-28 01:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/intel-hp-11-1280x853.jpg" alt="HP Forgot How Math Works, 15.6″ 512GB Laptop Drops 72% From $2K to Almost Nothing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hp-forgot-how-math-works-15-6-512gb-laptop-drops-72-from-2k-to-almost-nothing-2000648161" target="_blank">HP Forgot How Math Works, 15.6″ 512GB Laptop Drops 72% From $2K to Almost Nothing</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-27 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Bluey-Balloon-Ludo-Studio-1280x853.jpg" alt="Where to Find ‘Bluey’ This Holiday Season and New Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/where-to-find-bluey-this-holiday-season-and-new-year-2000692342" target="_blank">Where to Find ‘Bluey’ This Holiday Season and New Year</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-27 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 288 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
