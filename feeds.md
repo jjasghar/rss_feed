@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 19:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-28 20:01:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2025/11/28/why-gender-based-violence-in-south-africa-is-now-a-national-emergency?traffic_source=rss" target="_blank">Why gender-based violence in South Africa is now a national emergency</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-28 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a712/live/0c46c260-cc71-11f0-ab80-ff64212d3317.jpg" alt="Zelensky&#x27;s top adviser resigns after Ukrainian anti-corruption raid on his home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,20 +99,20 @@
                 <span class="time">2025-11-28 15:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/28/jacob-zuma-daughter-resigns-claims-south-africans-tricked-fight-russia" target="_blank">Jacob Zuma’s daughter resigns amid claims South Africans tricked to fight for Russia</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-28 15:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69276633c77248337ceeb5ef/master/pass/wired_bflive.jpg" alt="Black Friday Live 2025: We&#x27;re Tracking Discounts, Trends, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/live/black-friday-live-25/" target="_blank">Black Friday Live 2025: We&#x27;re Tracking Discounts, Trends, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-28 19:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +158,6 @@
                 <span class="time">2025-11-28 16:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/" target="_blank">How OpenAI and Google see AI changing go-to-market strategies</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-28 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,10 +166,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-CodeGen-Faster-Ctx-Switch" target="_blank">New Patches Work To Optimize Code Generation For Linux Context Switching</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-28 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18778796&w=600" alt="The Illusion of Deep Learning: Why &quot;Stacking Layers&quot; Is No Longer Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/illusion-deep-learning-stacking-layers" target="_blank">The Illusion of Deep Learning: Why &quot;Stacking Layers&quot; Is No Longer Enough</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-11-28 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/viz-x/factor-the-stack-based-language-built-around-words-quotations-and-combinators-342b" target="_blank">📌 Factor — The Stack-Based Language Built Around Words, Quotations, and Combinators</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-28 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset" target="_blank">28M Hacker News comments as vector embedding search dataset</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-28 18:02</span>
             </div>
         </div>
 <div class="story">
@@ -186,31 +217,18 @@
                 <span class="time">2025-11-28 15:53</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codlico/profile-card-2025-simple-responsive-profile-cards-built-with-html-and-css-41a5" target="_blank">Profile Card 2025: simple, responsive profile cards built with HTML, CSS &amp; JS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-28 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/nvidia-nvk-linux-618-mesa-26" target="_blank">Open-Source Nouveau+NVK vs. NVIDIA 580 Linux Gaming/Graphics &amp; Compute Driver Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-28 15:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/reddit-comments-go-migration/en/headerimage/generatedHeaderImage-1763831457503.jpg" alt="Reddit Migrates Comment Backend from Python to Go Microservice to Halve Latency" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/reddit-comments-go-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Reddit Migrates Comment Backend from Python to Go Microservice to Halve Latency</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-28 15:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/prompt-injection-through-poetry.html" target="_blank">Prompt Injection Through Poetry</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-11-28 14:54</span>
             </div>
         </div>
 </div>
@@ -218,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/nexplay-1280x853.jpg" alt="Forget Nintendo, Nex Motion Gaming Console Hits All-Time Low as Amazon Clears Out the Remaining Stock After 80K+ Sold" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/turn-your-living-room-into-a-playground-with-the-nex-playground-while-its-discounted-by-20-2000648449" target="_blank">Forget Nintendo, Nex Motion Gaming Console Hits All-Time Low as Amazon Clears Out the Remaining Stock After 80K+ Sold</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-28 19:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/MicrosoftSurfacePro-1280x853.jpg" alt="Microsoft Goes More Aggressive Than Apple as Surface Pro 2-in-1 Drops to a Budget-PC Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,21 +282,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/12/weevil.jpg?fit=1070%2C603&amp;quality=60&amp;ssl=1" alt="Hamburglar McWeevil joins &quot;freaking creepy&quot; Ronald McWeevil in Enterprise, AL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/584611281_834126259245960_2260446820946789362_n.jpg?fit=1663%2C1247&amp;quality=60&amp;ssl=1" alt="Abandoned dog turns out to be discarded toy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/28/hamburglar-mcweevil-joins-freaking-creepy-ronald-mcweevil-in-enterprise-al.html" target="_blank">Hamburglar McWeevil joins &quot;freaking creepy&quot; Ronald McWeevil in Enterprise, AL</a></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/28/abandoned-dog-turns-out-to-be-discarded-toy.html" target="_blank">Abandoned dog turns out to be discarded toy</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-28 16:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Bugonia-exclusive-1280x853.jpg" alt="The Score for ‘Bugonia’ Happened in a Truly Unbelievable Way (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/bugonia-movie-score-clip-exclusive-2000690960" target="_blank">The Score for ‘Bugonia’ Happened in a Truly Unbelievable Way (Exclusive)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-28 16:00</span>
+                <span class="time">2025-11-28 17:38</span>
             </div>
         </div>
 </div>
@@ -300,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
