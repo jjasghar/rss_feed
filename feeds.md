@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 21:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-28 22:01:59 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 21:02 UTC</div>
+    <div class="newspaper-date">Friday, November 28, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/28/peru-to-declare-state-of-emergency-to-block-chile-border-crossings?traffic_source=rss" target="_blank">Peru to declare state of emergency to block Chile border crossings</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-28 21:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +96,20 @@
                 <span class="time">2025-11-28 16:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-10-abc-gmh-251126_1764210667275_hpMain_4x3t_384.jpg" alt="Trump vows to &#x27;permanently pause&#x27; migration from some countries after DC attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-permanently-pause-migration-countries-after-national-guard/story?id=127942078" target="_blank">Trump vows to &#x27;permanently pause&#x27; migration from some countries after DC attack</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-28 15:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/832483/black-friday-apple-airtags-deal-sale-2025" target="_blank">You can get a four-pack of AirTags for just over $60, the lowest price ever</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-28 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6923fb9dc68e1875e6bc3d1b/master/pass/The%20Best%20Black%20Friday%20Beauty%20Deals.png" alt="The Best Black Friday Beauty Deals, WIRED Approved (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +153,6 @@
                 <span class="title"><a href="https://www.wired.com/story/best-pod-coffee-maker-black-friday-deals-2025/" target="_blank">The Best Black Friday Pod Coffee Maker Deals, According to a Daily User (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-28 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/soyuz1-500x500.jpg" alt="Before a Soyuz launch Thursday someone forgot to secure a 20-ton service platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/" target="_blank">Before a Soyuz launch Thursday someone forgot to secure a 20-ton service platform</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-28 16:16</span>
             </div>
         </div>
 </div>
@@ -237,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Angels-Egg-io9-2025-retro-review-1280x853.jpg" alt="‘Angel’s Egg’ Still Embodies Anime’s Wonderous Ability to Move Without Words" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/angels-egg-anime-mamoru-oshii-gkids-retro-review-2000692231" target="_blank">‘Angel’s Egg’ Still Embodies Anime’s Wonderous Ability to Move Without Words</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-28 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KB5Z79DPA47JXGR2Z0WM72JT/hero-image.png" alt="The Shokz OpenRun Pro 2 Workout Headphones Are $45 Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -281,20 +287,20 @@
                 <span class="time">2025-11-28 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAH8E7HY3WXTWJ3NQZSM65DM/hero-image.png" alt="The Best Deals on Home Improvement During Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/best-home-improvement-deals-black-friday-2025?utm_medium=RSS" target="_blank">The Best Deals on Home Improvement During Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-28 17:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/28/dad-hominem" target="_blank">Dad Hominem</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-28 20:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1764198389-20251128_edit.png" alt="Saturday Morning Breakfast Cereal - Red" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -313,13 +319,22 @@
                 <span class="time">2025-11-28 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/bridge_clearance.png" alt="Bridge Clearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3174/" target="_blank">Bridge Clearance</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-11-28 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
