@@ -1,28 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 09:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-28 10:02:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,9 +49,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/11/28/no-justification-for-israeli-field-execution-in-occupied-west-bank?traffic_source=rss" target="_blank">“No justification [for Israeli] field execution” in occupied West Bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-28 09:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/11/28/israeli-occupation-now-far-more-extreme-for-palestinians?traffic_source=rss" target="_blank">Israeli occupation now “far more extreme” for Palestinians</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-28 08:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/583c/live/f8ea78d0-cc19-11f0-8c06-f5d460985095.jpg" alt="&#x27;This was preventable&#x27;: Anger and unanswered questions after Hong Kong fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn8e5j20g27o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;This was preventable&#x27;: Anger and unanswered questions after Hong Kong fire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-28 08:09</span>
             </div>
         </div>
 <div class="story">
@@ -74,29 +99,29 @@
                 <span class="time">2025-11-28 06:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/28/trump-suspends-immigration-from-third-world-orders-review-of-green-cards?traffic_source=rss" target="_blank">Trump suspends immigration from ‘Third World’, orders review of green cards</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-28 06:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e8/live/02f75300-cba9-11f0-9b12-8751a987e19a.jpg" alt="Parents threatened and blamed by authorities as 1,000 adopted children returned to care" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0kdv1x83gko?at_medium=RSS&at_campaign=rss" target="_blank">Parents threatened and blamed by authorities as 1,000 adopted children returned to care</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-28 05:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas" target="_blank">The 148 best Black Friday deals we’ve found so far — a ton of tech is over half off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-28 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691eb5b2d121d26c390d65a4/master/pass/Google's%20Black%20Friday%20Sale%20Starts%20Today%20on%20Pixel%20Phones_.png" alt="Best Black Friday Google Pixel Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-black-friday-google-pixel-deals-2025-1/" target="_blank">Best Black Friday Google Pixel Deals (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-28 09:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68f941cd8917864e5606190f/master/pass/GoPro%20Max%202%20front%20SOURCE%20Scott%20Gilbertson.png" alt="The 13 Best GoPro and Camera Deals for Black Friday (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,29 +158,20 @@
                 <span class="time">2025-11-27 21:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/27/this-thanksgivings-real-drama-may-be-michael-burry-versus-nvidia/" target="_blank">This Thanksgiving’s real drama may be Michael Burry versus Nvidia</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-27 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/829006/dreame-x40-ultra-black-friday-2025-deal-sale" target="_blank">Dreame’s X40 Ultra is arguably the best robovac deal you can grab for Black Friday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-27 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/azure-cobalt-200-chip/en/headerimage/generatedHeaderImage-1764014735419.jpg" alt="Microsoft&#x27;s Azure Cobalt 200 ARM Chip Delivers 50% Performance Boost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/azure-cobalt-200-chip/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft&#x27;s Azure Cobalt 200 ARM Chip Delivers 50% Performance Boost</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-28 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,20 +217,20 @@
                 <span class="time">2025-11-28 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl1uag8d7axlqvn5fdvf7.png" alt="📌 Case Study: Building a Multi-Product Ecosystem for Illumora &amp; Boombooth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manoj_sravan_ccfc9fa15b8d/case-study-building-a-multi-product-ecosystem-for-illumora-boombooth-ma" target="_blank">📌 Case Study: Building a Multi-Product Ecosystem for Illumora &amp; Boombooth</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-28 04:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/vote-1280x853.jpg" alt="The Latest Thing AI Is Accelerating Is How Much U.S. Elections Suck" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-latest-thing-ai-is-accelerating-is-how-much-u-s-elections-suck-2000691848" target="_blank">The Latest Thing AI Is Accelerating Is How Much U.S. Elections Suck</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-28 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/ipad-air-2025-wifi-1280x853.jpg" alt="Apple Runs Secret iPad Air Sale on Amazon, Best Apple Tablet Now Going for All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,20 +276,20 @@
                 <span class="time">2025-11-27 19:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/orangecat-1280x853.jpg" alt="The Story of How Cats Conquered the World Just Got Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-story-of-how-cats-conquered-the-world-just-got-weirder-2000691824" target="_blank">The Story of How Cats Conquered the World Just Got Weirder</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-27 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/11/28/dad-hominem" target="_blank">Dad Hominem</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-11-28 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1764198260-20251127_edit.png" alt="Saturday Morning Breakfast Cereal - Quality" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 292 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
