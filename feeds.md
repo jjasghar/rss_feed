@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 20:01:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-28 21:01:46 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +105,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6923fb9dc68e1875e6bc3d1b/master/pass/The%20Best%20Black%20Friday%20Beauty%20Deals.png" alt="The Best Black Friday Beauty Deals, WIRED Approved (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-beauty-deals-2025/" target="_blank">The Best Black Friday Beauty Deals, WIRED Approved (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-28 20:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69276633c77248337ceeb5ef/master/pass/wired_bflive.jpg" alt="Black Friday Live 2025: We&#x27;re Tracking Discounts, Trends, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,20 +158,20 @@
                 <span class="time">2025-11-28 16:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/" target="_blank">SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-28 16:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0lrpbo84l8kxr4x38vy4.png" alt="Unknown Unknowns (Bite-size Article)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/koshirok096/unknown-unknowns-bite-size-article-37j" target="_blank">Unknown Unknowns (Bite-size Article)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-28 20:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +217,6 @@
                 <span class="time">2025-11-28 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft" target="_blank">Can Dutch universities do without Microsoft?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-28 15:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KB5Z79DPA47JXGR2Z0WM72JT/hero-image.png" alt="The Shokz OpenRun Pro 2 Workout Headphones Are $45 Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/shokz-openrun-headphones-black-friday-2025?utm_medium=RSS" target="_blank">The Shokz OpenRun Pro 2 Workout Headphones Are $45 Off for Black Friday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-28 19:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/nexplay-1280x853.jpg" alt="Forget Nintendo, Nex Motion Gaming Console Hits All-Time Low as Amazon Clears Out the Remaining Stock After 80K+ Sold" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +290,6 @@
                 <span class="time">2025-11-28 17:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/584611281_834126259245960_2260446820946789362_n.jpg?fit=1663%2C1247&amp;quality=60&amp;ssl=1" alt="Abandoned dog turns out to be discarded toy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/28/abandoned-dog-turns-out-to-be-discarded-toy.html" target="_blank">Abandoned dog turns out to be discarded toy</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-28 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
