@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 01:29:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-28 02:29:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, November 28, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/sarah-beckstrom_1764289597997_hpMain_4x3t_384.jpg" alt="West Virginia National Guard member dies after being shot in DC attack, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/2-national-guard-members-remain-critical-condition-after/story?id=127924182" target="_blank">West Virginia National Guard member dies after being shot in DC attack, Trump says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-28 00:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/27/israeli-troops-kill-two-palestinians-in-jenin-as-they-try-to-surrender?traffic_source=rss" target="_blank">Israeli troops kill two Palestinians in Jenin as they try to surrender</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-27 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-hong-kong-wang-fuk_7093891.jpg?20251127195207" alt="Horror in Hong Kong: Residents reel from its worst disaster in modern history" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/horror-in-hong-kong-residents-reel-from-its-worst-disaster-in-modern-history-13476256" target="_blank">Horror in Hong Kong: Residents reel from its worst disaster in modern history</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-27 18:08</span>
             </div>
         </div>
 </div>
@@ -159,6 +163,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fghok3j6zjpo4ujhq0wau.png" alt="Mastering Tariff Code Lookup for International Trade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pnka_ntzv_87f464617e8d42b/mastering-tariff-code-lookup-for-international-trade-72g" target="_blank">Mastering Tariff Code Lookup for International Trade</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-28 02:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-Maintainer-Leaving" target="_blank">One Of Intel&#x27;s Xe Open-Source Linux Graphics Driver Maintainers Is Departing</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-28 01:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-november-28-2025-red-hat" target="_blank">Friday Five — November 28, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-11-28 00:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -185,38 +216,20 @@
                 <span class="time">2025-11-27 21:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lorcan_firstblox/icymi-preinvent-announcements-2025-5h1l" target="_blank">ICYMI - pre:Invent announcements 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-27 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dynomight.net/thanks-5/" target="_blank">Underrated reasons to be thankful V</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-27 20:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18777484&w=600" alt="Building a Simple MCP Server and Client: An In-Memory Database" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/simple-mcp-server-client-database" target="_blank">Building a Simple MCP Server and Client: An In-Memory Database</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-27 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/ipad-air-2025-wifi-1280x853.jpg" alt="Apple Runs Secret iPad Air Sale on Amazon, Best Apple Tablet Now Going for All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/apple-quietly-ditches-ipad-air-pride-on-amazon-own-site-still-pretends-nothing-changed-2000648171" target="_blank">Apple Runs Secret iPad Air Sale on Amazon, Best Apple Tablet Now Going for All-Time Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-28 01:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/intel-hp-11-1280x853.jpg" alt="HP Forgot How Math Works, 15.6″ 512GB Laptop Drops 72% From $2K to Almost Nothing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +275,6 @@
                 <span class="time">2025-11-27 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2020/11/j76i2sbpzdiajbkiytcx-1280x720.jpg" alt="What My Video Game Family Is Bringing To Thanksgiving" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/what-my-video-game-family-is-bringing-to-thanksgiving-1845758556" target="_blank">What My Video Game Family Is Bringing To Thanksgiving</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-27 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -290,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 301 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 301 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
