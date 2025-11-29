@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 11:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-29 12:02:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b60/live/db081870-cd1a-11f0-a892-01d657345866.jpg" alt="More than 600,000 without power in Kyiv after Russian strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2gylngx7go?at_medium=RSS&at_campaign=rss" target="_blank">More than 600,000 without power in Kyiv after Russian strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-29 10:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,21 +94,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/pete-hegseth-rt-gmh-251119_1763557326072_hpMain_4x3t_384.jpg" alt="Hegseth responds to report that boat survivors were killed on his orders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-indonesia-north-sumatra_7095064.jpg?20251129071548" alt="Hundreds killed after floods and landslides in Indonesia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/hegseth-declines-comment-report-boat-survivors-killed-result/story?id=127951385" target="_blank">Hegseth responds to report that boat survivors were killed on his orders</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-29 05:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/belaruss-lukashenko-becomes-second-only-leader-to-visit-myanmar-since-coup?traffic_source=rss" target="_blank">Belarus’s Lukashenko becomes second only leader to visit Myanmar since coup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-29 04:32</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/indonesia-at-least-248-people-dead-and-others-missing-after-floods-and-landslides-13476839" target="_blank">Hundreds killed after floods and landslides in Indonesia</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-29 07:01</span>
             </div>
         </div>
 </div>
@@ -106,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/829414/trump-mobile-mvno-wireless-service-test" target="_blank">All the places I used my Trump Mobile wireless service this week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-29 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685323720b6993e78820adfa/master/pass/The%20Best%20Vibrators%20Update_.png" alt="13 Best Vibrators of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +161,29 @@
                 <span class="time">2025-11-29 04:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas" target="_blank">The 187 best Black Friday deals you can still shop — a ton of tech is over half off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-29 03:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The Great Retraining" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/the-great-retraining-jp" target="_blank">The Great Retraining</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-29 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Endeavour-OS-2025-11" target="_blank">Arch Linux Based Endeavour OS Updated After ISO Refresh Hiatus</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-29 11:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/11/kubernetes-ingress-nginx/en/headerimage/generatedHeaderImage-1764369882967.jpg" alt="Kubernetes Community Retires Popular Ingress NGINX Controller" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +220,6 @@
                 <span class="time">2025-11-29 04:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzklr21mpm5qaun2it6n0.png" alt="Mastering Dart Enums: From Basic Lists to Supercharged Classes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/javeedishaq/mastering-dart-enums-from-basic-lists-to-supercharged-classes-200e" target="_blank">Mastering Dart Enums: From Basic Lists to Supercharged Classes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-29 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/mozilla-slop.jpg?resize=406%2C232&amp;ssl=1" alt="Mozilla’s ‘Rewiring’ to AI – Saving the Web or Saving Itself?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/mozilla-ai-rewiring-why-you-should-worry" target="_blank">Mozilla’s ‘Rewiring’ to AI – Saving the Web or Saving Itself?</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-29 03:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Hoyo-Negro-Diver-1280x853.jpg" alt="Undisturbed for Millennia, This Submerged Cave Is a Portal to the Ice Age" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/undisturbed-for-millennia-this-submerged-cave-is-a-portal-to-the-ice-age-2000688149" target="_blank">Undisturbed for Millennia, This Submerged Cave Is a Portal to the Ice Age</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-29 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/lego-pac-man-1280x853.jpg" alt="LEGO Had No Plan to Slash Pac-Man Arcade Set, Then Went Nuclear at Black Friday’s Final Hour to Clear Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +302,6 @@
                 <span class="time">2025-11-28 21:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7FDV9SVRS44PHHSZYPRDK07/hero-image.jpg" alt="For Black Friday, You Can Get a One-Year BJ&#x27;s Membership for Just $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/bjs-membership-stacksocial-sale-black-friday-2025?utm_medium=RSS" target="_blank">For Black Friday, You Can Get a One-Year BJ&#x27;s Membership for Just $15</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-28 21:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
