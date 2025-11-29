@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 12:02:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-11-29 13:07:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/29/nx-s1-5615237/opinion-holiday-song" target="_blank">Opinion: My kind of holiday song</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-29 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/29/pope-leo-tours-istanbuls-blue-mosque-during-turkiye-trip?traffic_source=rss" target="_blank">Pope Leo tours Istanbul’s Blue Mosque during Turkiye trip</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-29 12:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251126-pokrovsk-rs-b51b01.jpg" alt="Ukrainian soldiers see Trump plan as &#x27;capitulation,&#x27; even as they dream of peace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/ukrainian-soldiers-see-trump-plan-capitulation-even-dream-peace-rcna245864" target="_blank">Ukrainian soldiers see Trump plan as &#x27;capitulation,&#x27; even as they dream of peace</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-29 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b60/live/db081870-cd1a-11f0-a892-01d657345866.jpg" alt="More than 600,000 without power in Kyiv after Russian strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,38 +101,29 @@
                 <span class="time">2025-11-29 08:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/29/what-we-know-about-resignation-of-top-ukraine-official?traffic_source=rss" target="_blank">What we know about resignation of top Ukraine official</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-29 08:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ca/live/2a8293a0-cd00-11f0-8c06-f5d460985095.jpg" alt="US halts all asylum claim decisions after National Guard shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss" target="_blank">US halts all asylum claim decisions after National Guard shooting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-29 07:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-indonesia-north-sumatra_7095064.jpg?20251129071548" alt="Hundreds killed after floods and landslides in Indonesia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/indonesia-at-least-248-people-dead-and-others-missing-after-floods-and-landslides-13476839" target="_blank">Hundreds killed after floods and landslides in Indonesia</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-29 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/832364/honda-reusable-rocket-space-exploration" target="_blank">Why Honda is suddenly launching reusable rockets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-29 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6923fb9dc68e1875e6bc3d1b/master/pass/The%20Best%20Black%20Friday%20Beauty%20Deals.png" alt="The Best Black Friday Beauty Deals, WIRED Approved (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-beauty-deals-2025-1/" target="_blank">The Best Black Friday Beauty Deals, WIRED Approved (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-29 12:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +160,20 @@
                 <span class="time">2025-11-29 06:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025" target="_blank">The Verge’s guide to Black Friday 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-29 05:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/832969/black-friday-macbook-air-m4-13-15-inch-deal-sale-2025" target="_blank">The M4 MacBook Air is one of the best Apple deals you can get for Black Friday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-29 04:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcfjjaptuabg3lw0uda4d.jpg" alt="The Sunk Cost Fallacy in Software: How to Recognize It and What to Do About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tal_shafir_49b67973e9d3b4/the-sunk-cost-fallacy-in-software-how-to-recognize-it-and-what-to-do-about-it-3l3a" target="_blank">The Sunk Cost Fallacy in Software: How to Recognize It and What to Do About It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-29 12:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The Great Retraining" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +219,6 @@
                 <span class="time">2025-11-29 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/preetha_vaishnavi_2b82358/find-my-umbrella-with-getbbox-dlb" target="_blank">Find my umbrella with getBBox()</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-29 04:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/Apple2025MacBookPro-1280x853.jpg" alt="Apple Keeps the M5 MacBook Pro at All-Time Low as It Begins Clearing Out Post–Black Friday Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/apples-2025-macbook-pro-dropped-to-its-lowest-price-ever-for-black-friday-2000648462" target="_blank">Apple Keeps the M5 MacBook Pro at All-Time Low as It Begins Clearing Out Post–Black Friday Stock</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-29 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Hoyo-Negro-Diver-1280x853.jpg" alt="Undisturbed for Millennia, This Submerged Cave Is a Portal to the Ice Age" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +301,6 @@
                 <span class="time">2025-11-28 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/sample.png?fit=640%2C320&amp;quality=55&amp;ssl=1" alt="Tiny pixel fonts are a challenge. With double-width pixels, they&#x27;re a nightmare." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/28/tiny-pixel-fonts-are-a-challenge-with-double-width-pixels-theyre-a-nightmare.html" target="_blank">Tiny pixel fonts are a challenge. With double-width pixels, they&#x27;re a nightmare.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-28 21:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
