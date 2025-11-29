@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 05:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-29 06:02:14 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +103,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025" target="_blank">The Verge’s guide to Black Friday 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-29 05:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/832969/black-friday-macbook-air-m4-13-15-inch-deal-sale-2025" target="_blank">The M4 MacBook Air is one of the best Apple deals you can get for Black Friday</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-29 04:35</span>
@@ -146,15 +151,6 @@
                 <span class="title"><a href="https://www.wired.com/story/you-have-8-hours-to-save-on-this-stunning-smart-fridge/" target="_blank">The Rocco Fridge Isn&#x27;t So Smart, But It Sure Is Pretty</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-29 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/" target="_blank">Supabase hit $5B by turning down million-dollar contracts. Here’s why.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-28 23:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
