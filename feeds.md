@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 13:07:58 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-29 14:01:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 13:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/trump-says-venezuela-airspace-to-be-shut-in-its-entirety-as-tensions-rise?traffic_source=rss" target="_blank">Trump says Venezuela airspace to be shut ‘in its entirety’ as tensions rise</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-29 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/11/29/nx-s1-5615237/opinion-holiday-song" target="_blank">Opinion: My kind of holiday song</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -63,6 +69,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/29/pope-leo-tours-istanbuls-blue-mosque-during-turkiye-trip?traffic_source=rss" target="_blank">Pope Leo tours Istanbul’s Blue Mosque during Turkiye trip</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-29 12:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a43/live/a72730f0-ccf6-11f0-8231-1f56aaf8d190.jpg" alt="Fall of Zelensky&#x27;s top aide - reboot for Kyiv or costly shake-up?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz0nljm4y74o?at_medium=RSS&at_campaign=rss" target="_blank">Fall of Zelensky&#x27;s top aide - reboot for Kyiv or costly shake-up?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-29 11:29</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +98,20 @@
                 <span class="time">2025-11-29 10:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/29/nx-s1-5613340/als-medicaid-trump-disease-flaws-gaps-nursing-homes-ventilators-expense" target="_blank">They need a ventilator to stay alive. Getting one can be a nightmare</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-29 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/sri-lanka-seeks-foreign-help-as-cyclone-ditwah-death-toll-reaches-123?traffic_source=rss" target="_blank">Sri Lanka seeks foreign help as Cyclone Ditwah death toll reaches 123</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-29 08:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69254e313babfea407a3eeff/master/pass/The%20Best%20Black%20Friday%20Tech%20Deals.png" alt="25 Best Black Friday Tech Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-tech-deals-2025/" target="_blank">25 Best Black Friday Tech Deals (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-29 13:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +157,6 @@
                 <span class="time">2025-11-29 06:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/28/vc-kara-nortman-bet-early-on-womens-sports-and-now-shes-creating-the-market/" target="_blank">VC Kara Nortman bet early on women’s sports, and now she’s creating the market</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-29 06:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +169,15 @@
                 <span class="title"><a href="https://dev.to/tal_shafir_49b67973e9d3b4/the-sunk-cost-fallacy-in-software-how-to-recognize-it-and-what-to-do-about-it-3l3a" target="_blank">The Sunk Cost Fallacy in Software: How to Recognize It and What to Do About It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-29 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/docker-desktop-ai/en/headerimage/generatedHeaderImage-1764222751145.jpg" alt="Docker Releases Desktop 4.50, Adds Free Debugging Tools and AI-Native Enhancements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/docker-desktop-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Docker Releases Desktop 4.50, Adds Free Debugging Tools and AI-Native Enhancements</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-29 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -193,30 +199,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/ubuntu-26-04-release-features/" target="_blank">Ubuntu 26.04 LTS: Release Date and New Features</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-11-29 10:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/kubernetes-ingress-nginx/en/headerimage/generatedHeaderImage-1764369882967.jpg" alt="Kubernetes Community Retires Popular Ingress NGINX Controller" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/kubernetes-ingress-nginx/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Kubernetes Community Retires Popular Ingress NGINX Controller</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-29 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/mission-center-vs-resources/" target="_blank">Mission Center vs. Resources: The Ultimate Linux System Monitor Showdown</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-11-29 08:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/evalite-ai-testing/en/headerimage/generatedHeaderImage-1764317198124.jpg" alt="Introducing Evalite: The TypeScript Testing Tool for AI Powered Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/evalite-ai-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Introducing Evalite: The TypeScript Testing Tool for AI Powered Apps</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-29 08:00</span>
             </div>
         </div>
 </div>
@@ -247,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/anker-dock-1280x853.jpg" alt="Anker 12-in-1 Docking Station and Monitor Stand Combo Is Still at Black Friday Low for Cyber Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/save-space-and-boost-efficiency-with-ankers-675-usb-c-docking-station-while-its-going-for-32-less-2000648509" target="_blank">Anker 12-in-1 Docking Station and Monitor Stand Combo Is Still at Black Friday Low for Cyber Monday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-29 13:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/Apple2025MacBookPro-1280x853.jpg" alt="Apple Keeps the M5 MacBook Pro at All-Time Low as It Begins Clearing Out Post–Black Friday Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +298,6 @@
                 <span class="time">2025-11-28 22:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Angels-Egg-io9-2025-retro-review-1280x853.jpg" alt="‘Angel’s Egg’ Still Embodies Anime’s Wonderous Ability to Move Without Words" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/angels-egg-anime-mamoru-oshii-gkids-retro-review-2000692231" target="_blank">‘Angel’s Egg’ Still Embodies Anime’s Wonderous Ability to Move Without Words</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-28 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 13:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
