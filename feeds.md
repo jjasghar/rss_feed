@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 01:29:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-29 02:29:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 02:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,9 +47,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/s-african-ex-leader-zumas-daughter-quits-parliament-over-russia-war-claims?traffic_source=rss" target="_blank">S African ex-leader Zuma’s daughter quits parliament amid Russia war claims</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-29 02:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/russia-ukraine-war-list-of-key-events-day-1374?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,374</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-29 01:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e9/live/a3d64660-cc34-11f0-9fb5-5f3a3703a365.jpg" alt="US halts all asylum claim decisions in wake of National Guard shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss" target="_blank">US halts all asylum claim decisions in wake of National Guard shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-29 00:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/28/nx-s1-5624478/trump-plans-to-pardon-juan-orlando-hernandez" target="_blank">Trump plans to pardon former Honduran President Juan Orlando Hernandez</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-29 00:19</span>
             </div>
         </div>
 <div class="story">
@@ -74,33 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/28/could-conscription-return-in-europe?traffic_source=rss" target="_blank">Could conscription return in Europe?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-28 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/28/peru-to-declare-state-of-emergency-to-block-chile-border-crossings?traffic_source=rss" target="_blank">Peru to declare state of emergency to block Chile border crossings</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-28 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-airbus-a320_7094985.jpg?20251128214725" alt="Why plane&#x27;s sudden drop in altitude led to thousands needing software updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/why-does-solar-radiation-mean-thousands-of-airbus-planes-require-software-changes-13476813" target="_blank">Why plane&#x27;s sudden drop in altitude led to thousands needing software updates</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-28 21:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-airbus-a320_7094985.jpg?20251128214725" alt="Why concerns over &#x27;intense&#x27; solar radiation affecting Airbus planes has led to global flight disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/why-does-solar-radiation-mean-thousands-of-airbus-planes-require-software-changes-13476813" target="_blank">Why concerns over &#x27;intense&#x27; solar radiation affecting Airbus planes has led to global flight disruption</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-28 21:23</span>
             </div>
         </div>
 </div>
@@ -250,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/lego-pac-man-1280x853.jpg" alt="LEGO Had No Plan to Slash Pac-Man Arcade Set, Then Went Nuclear at Black Friday’s Final Hour to Clear Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-had-no-plan-to-slash-pac-man-arcade-set-then-went-nuclear-at-black-fridays-final-hour-to-clear-stock-2000648482" target="_blank">LEGO Had No Plan to Slash Pac-Man Arcade Set, Then Went Nuclear at Black Friday’s Final Hour to Clear Stock</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-29 01:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/lg-oled-evo-c4-1280x853.jpg" alt="LG 48″ OLED evo C4 Series Gets “Hidden Price” on Amazon, 45% Off Price Violates LG’s Display Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -292,15 +295,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/shokz-openrun-headphones-black-friday-2025?utm_medium=RSS" target="_blank">The Shokz OpenRun Pro 2 Workout Headphones Are $45 Off for Black Friday</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-11-28 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/nexplay-1280x853.jpg" alt="Forget Nintendo, Nex Motion Gaming Console Hits All-Time Low as Amazon Clears Out the Remaining Stock After 80K+ Sold" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/turn-your-living-room-into-a-playground-with-the-nex-playground-while-its-discounted-by-20-2000648449" target="_blank">Forget Nintendo, Nex Motion Gaming Console Hits All-Time Low as Amazon Clears Out the Remaining Stock After 80K+ Sold</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-28 19:05</span>
             </div>
         </div>
 </div>
@@ -349,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 02:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
