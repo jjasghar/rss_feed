@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 10:02:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-29 11:01:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/29/nx-s1-5613340/als-medicaid-trump-disease-flaws-gaps-nursing-homes-ventilators-expense" target="_blank">They need a ventilator to stay alive. Getting one can be a nightmare</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-29 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,39 +75,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ca/live/2a8293a0-cd00-11f0-8c06-f5d460985095.jpg" alt="US halts all asylum claim decisions after National Guard shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss" target="_blank">US halts all asylum claim decisions after National Guard shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-29 07:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pete-hegseth-rt-gmh-251119_1763557326072_hpMain_4x3t_384.jpg" alt="Hegseth responds to report that boat survivors were killed on his orders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/hegseth-declines-comment-report-boat-survivors-killed-result/story?id=127951385" target="_blank">Hegseth responds to report that boat survivors were killed on his orders</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-29 05:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/belaruss-lukashenko-becomes-second-only-leader-to-visit-myanmar-since-coup?traffic_source=rss" target="_blank">Belarus’s Lukashenko becomes second only leader to visit Myanmar since coup</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-29 04:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602d/live/3750e380-ccaa-11f0-9975-d11a46903c55.jpg" alt="Planes grounded after Airbus discovers solar radiation could impact systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8e9d13x2z7o?at_medium=RSS&at_campaign=rss" target="_blank">Planes grounded after Airbus discovers solar radiation could impact systems</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-29 03:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/s-african-ex-leader-zumas-daughter-quits-parliament-over-russia-war-claims?traffic_source=rss" target="_blank">S African ex-leader Zuma’s daughter quits parliament amid Russia war claims</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-29 02:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/russia-ukraine-war-list-of-key-events-day-1374?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,374</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-29 01:14</span>
             </div>
         </div>
 </div>
@@ -164,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/11/kubernetes-ingress-nginx/en/headerimage/generatedHeaderImage-1764369882967.jpg" alt="Kubernetes Community Retires Popular Ingress NGINX Controller" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/kubernetes-ingress-nginx/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Kubernetes Community Retires Popular Ingress NGINX Controller</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-29 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -206,15 +217,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/mozilla-ai-rewiring-why-you-should-worry" target="_blank">Mozilla’s ‘Rewiring’ to AI – Saving the Web or Saving Itself?</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-11-29 03:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://macos9lives.com/smforum/index.php?topic=7711.0" target="_blank">System 7 natively boots on the Mac mini G4</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-29 03:26</span>
             </div>
         </div>
 </div>
@@ -327,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
