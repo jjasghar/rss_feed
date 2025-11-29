@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-28 23:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-29 00:04:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, November 28, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,6 +67,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-airbus-a320_7094985.jpg?20251128214725" alt="Why plane&#x27;s sudden drop in altitude led to thousands needing software updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/why-does-solar-radiation-mean-thousands-of-airbus-planes-require-software-changes-13476813" target="_blank">Why plane&#x27;s sudden drop in altitude led to thousands needing software updates</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-28 21:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/11/1920x1080/skynews-airbus-a320_7094985.jpg?20251128214725" alt="Why concerns over &#x27;intense&#x27; solar radiation affecting Airbus planes has led to global flight disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -94,20 +102,20 @@
                 <span class="time">2025-11-28 17:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a712/live/0c46c260-cc71-11f0-ab80-ff64212d3317.jpg" alt="Zelensky&#x27;s chief of staff resigns after Ukrainian anti-corruption raid on his home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg9nd2wddno?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky&#x27;s chief of staff resigns after Ukrainian anti-corruption raid on his home</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-28 16:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66bfa5147b9c3a6bce05097c/master/pass/Rocco-Super-Smart-Fridge-(black)-(pink)-Offwhite-Background-SOURCE-Rocco.jpg" alt="The Rocco Fridge Isn&#x27;t So Smart, But It Sure Is Pretty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/you-have-8-hours-to-save-on-this-stunning-smart-fridge/" target="_blank">The Rocco Fridge Isn&#x27;t So Smart, But It Sure Is Pretty</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-29 00:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +161,20 @@
                 <span class="time">2025-11-28 17:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/831498/modretro-m64-console-4k-fpga-nintendo-64-clone" target="_blank">ModRetro recreated the N64 controller for its M64 console</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-28 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-57ih" target="_blank">Mr Sunday Movies: The Sorcerer&#x27;s Apprentice - Caravan of Garbage</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-29 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgzbbk6yh331rekiewgzk.png" alt="Finding Strength in Code, Part 2: Lessons from Loss and the Power of Reflection" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,6 +194,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/live/cvg4y6g74ert" target="_blank">Flight disruption warning as Airbus requests modifications to 6k planes</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-28 21:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0lrpbo84l8kxr4x38vy4.png" alt="Unknown Unknowns (Bite-size Article)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,24 +218,6 @@
                 <span class="title"><a href="https://dzone.com/articles/gracefully-deal-with-contention" target="_blank">How to Gracefully Deal With Contention</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-11-28 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-CodeGen-Faster-Ctx-Switch" target="_blank">New Patches Work To Optimize Code Generation For Linux Context Switching</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-28 19:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18778796&w=600" alt="The Illusion of Deep Learning: Why &quot;Stacking Layers&quot; Is No Longer Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/illusion-deep-learning-stacking-layers" target="_blank">The Illusion of Deep Learning: Why &quot;Stacking Layers&quot; Is No Longer Enough</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-11-28 19:00</span>
             </div>
         </div>
 </div>
@@ -349,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
