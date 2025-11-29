@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 17:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-29 18:02:13 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/tunisia-police-arrrest-opposition-figure-chaima-issa-during-protest?traffic_source=rss" target="_blank">Tunisia police arrrest opposition figure Chaima Issa during protest</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-29 17:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f8/live/69cf48b0-cc69-11f0-8c06-f5d460985095.jpg" alt="Budget 2025: What&#x27;s the best and worst that could happen for Labour?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/29/nx-s1-5615237/opinion-holiday-song" target="_blank">Opinion: My kind of holiday song</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-29 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/29/pope-leo-tours-istanbuls-blue-mosque-during-turkiye-trip?traffic_source=rss" target="_blank">Pope Leo tours Istanbul’s Blue Mosque during Turkiye trip</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-29 12:49</span>
             </div>
         </div>
 </div>
@@ -167,6 +169,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/acoh3n/youre-not-doing-everything-wrong-4l5n" target="_blank">You&#x27;re NOT doing everything wrong</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-29 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LInux-6.18-Features-Reminder" target="_blank">Linux 6.18 Features From Apple M2 To Sheaves, DM-PCACHE &amp; More Intel + AMD Hardware</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-29 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/stock_expertai_5eafb5be7/the-new-casino-wall-streets-high-stakes-gambling-epidemic-37f" target="_blank">The New Casino: Wall Street&#x27;s High-Stakes Gambling Epidemic</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-29 16:48</span>
@@ -193,28 +213,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aj_arul/what-are-the-programming-languages-4kj8" target="_blank">What are the Programming Languages?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-29 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcfjjaptuabg3lw0uda4d.jpg" alt="The Sunk Cost Fallacy in Software: How to Recognize It and What to Do About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tal_shafir_49b67973e9d3b4/the-sunk-cost-fallacy-in-software-how-to-recognize-it-and-what-to-do-about-it-3l3a" target="_blank">The Sunk Cost Fallacy in Software: How to Recognize It and What to Do About It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-29 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/docker-desktop-ai/en/headerimage/generatedHeaderImage-1764222751145.jpg" alt="Docker Releases Desktop 4.50, Adds Free Debugging Tools and AI-Native Enhancements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/docker-desktop-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Docker Releases Desktop 4.50, Adds Free Debugging Tools and AI-Native Enhancements</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-29 12:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.dagens.com/news/iceland-declares-ocean-current-instability-a-national-security-risk" target="_blank">Iceland declares ocean-current instability a national security risk</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-29 15:21</span>
             </div>
         </div>
 </div>
@@ -236,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/10-digital-picture-frame-1280x853.jpg" alt="Digital Picture Frame Hits 55% Off on Amazon, 60K Photo Storage Cheaper Than Basic Wall Frames Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/digital-picture-frame-hits-55-off-on-amazon-60k-photo-storage-cheaper-than-basic-wall-frames-now-2000648754" target="_blank">Digital Picture Frame Hits 55% Off on Amazon, 60K Photo Storage Cheaper Than Basic Wall Frames Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-29 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/star-wars-starfighter-ryan-gosling-1280x853.jpg" alt="Shawn Levy Teases the Music of ‘Star Wars: Starfighter’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/shawn-levy-teases-the-music-of-star-wars-starfighter-2000693232" target="_blank">Shawn Levy Teases the Music of ‘Star Wars: Starfighter’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-29 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/godzilla-anime-key-art-1280x853.jpg" alt="A New Godzilla Anime Turns a Boy Into the Iconic Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +292,6 @@
                 <span class="time">2025-11-29 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/lego-pac-man-1280x853.jpg" alt="LEGO Had No Plan to Slash Pac-Man Arcade Set, Then Went Nuclear at Black Friday’s Final Hour to Clear Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-had-no-plan-to-slash-pac-man-arcade-set-then-went-nuclear-at-black-fridays-final-hour-to-clear-stock-2000648482" target="_blank">LEGO Had No Plan to Slash Pac-Man Arcade Set, Then Went Nuclear at Black Friday’s Final Hour to Clear Stock</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-29 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/winter_egg.jpeg?fit=1479%2C832&amp;quality=60&amp;ssl=1" alt="Fabergé egg expected to fetch £20 million at auction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/28/faberge-egg-expected-to-fetch-20-million-at-auction.html" target="_blank">Fabergé egg expected to fetch £20 million at auction</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-28 22:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 282 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
