@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 04:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-29 05:01:34 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +107,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/832969/black-friday-macbook-air-m4-13-15-inch-deal-sale-2025" target="_blank">The M4 MacBook Air is one of the best Apple deals you can get for Black Friday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-29 04:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas" target="_blank">The 187 best Black Friday deals you can still shop — a ton of tech is over half off</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-29 03:55</span>
@@ -148,20 +157,20 @@
                 <span class="time">2025-11-28 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/832483/black-friday-apple-airtags-deal-sale-2025" target="_blank">You can get a four-pack of AirTags for just over $60, the lowest price ever</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-28 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/preetha_vaishnavi_2b82358/find-my-umbrella-with-getbbox-dlb" target="_blank">Find my umbrella with getBBox()</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-29 04:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzklr21mpm5qaun2it6n0.png" alt="Mastering Dart Enums: From Basic Lists to Supercharged Classes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -169,6 +178,15 @@
                 <span class="title"><a href="https://dev.to/javeedishaq/mastering-dart-enums-from-basic-lists-to-supercharged-classes-200e" target="_blank">Mastering Dart Enums: From Basic Lists to Supercharged Classes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-29 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/mozilla-slop.jpg?resize=406%2C232&amp;ssl=1" alt="Mozilla’s ‘Rewiring’ to AI – Saving the Web or Saving Itself?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/mozilla-ai-rewiring-why-you-should-worry" target="_blank">Mozilla’s ‘Rewiring’ to AI – Saving the Web or Saving Itself?</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-29 03:38</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-57ih" target="_blank">Mr Sunday Movies: The Sorcerer&#x27;s Apprentice - Caravan of Garbage</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-29 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgzbbk6yh331rekiewgzk.png" alt="Finding Strength in Code, Part 2: Lessons from Loss and the Power of Reflection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/smmd/finding-strength-in-code-part-2-lessons-from-loss-and-the-power-of-reflection-2fb2" target="_blank">Finding Strength in Code, Part 2: Lessons from Loss and the Power of Reflection</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-28 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-10.20-Released" target="_blank">Wine 10.20 Released With VKD3D 1.18 Upgrade For Direct3D 12</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-28 21:22</span>
             </div>
         </div>
 </div>
@@ -254,6 +254,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/winter_egg.jpeg?fit=1479%2C832&amp;quality=60&amp;ssl=1" alt="Fabergé egg expected to fetch £20 million at auction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/28/faberge-egg-expected-to-fetch-20-million-at-auction.html" target="_blank">Fabergé egg expected to fetch £20 million at auction</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-28 22:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/lg-oled-evo-c4-1280x853.jpg" alt="LG 48″ OLED evo C4 Series Gets “Hidden Price” on Amazon, 45% Off Price Violates LG’s Display Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -289,15 +298,6 @@
                 <span class="time">2025-11-28 21:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KB5Z79DPA47JXGR2Z0WM72JT/hero-image.png" alt="The Shokz OpenRun Pro 2 Workout Headphones Are $45 Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/shokz-openrun-headphones-black-friday-2025?utm_medium=RSS" target="_blank">The Shokz OpenRun Pro 2 Workout Headphones Are $45 Off for Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-28 19:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,22 +330,13 @@
                 <span class="time">2025-11-28 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/bridge_clearance.png" alt="Bridge Clearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3174/" target="_blank">Bridge Clearance</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-11-28 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
