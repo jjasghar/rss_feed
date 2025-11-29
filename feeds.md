@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 19:01:27 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-29 20:01:34 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/upfront/2025/11/29/us-whistleblower-exposes-biden-administrations-israel-cover-up?traffic_source=rss" target="_blank">US whistleblower exposes Biden administration’s Israel cover-up</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-29 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebce/live/5c3f61d0-cd54-11f0-9fb5-5f3a3703a365.jpg" alt="Sir Tom Stoppard, playwright famed for his wit and depth, dies at 88" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c74xe49q7vlo?at_medium=RSS&at_campaign=rss" target="_blank">Sir Tom Stoppard, playwright famed for his wit and depth, dies at 88</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-29 19:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-251126_1764162070301_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says Venezuelan airspace should be &#x27;closed&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -56,48 +72,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-hong-kong-fire-flowers_7095878.jpg?20251129190304" alt="Hong Kong mourns those lost to fire as investigators search for remains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hong-kong-mourns-those-lost-to-fire-as-investigators-search-for-remains-13477236" target="_blank">Hong Kong mourns those lost to fire as investigators search for remains</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-29 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251103-fda-rs-ee1ad6.jpg" alt="FDA claims Covid shots killed 10 children and vows new vaccine rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/health/health-news/fda-covid-vaccines-children-deaths-rcna246437" target="_blank">FDA claims Covid shots killed 10 children and vows new vaccine rules</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-29 18:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebce/live/5c3f61d0-cd54-11f0-9fb5-5f3a3703a365.jpg" alt="Playwright Sir Tom Stoppard dies at 88" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c74xe49q7vlo?at_medium=RSS&at_campaign=rss" target="_blank">Playwright Sir Tom Stoppard dies at 88</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-29 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/tunisia-police-arrrest-opposition-figure-chaima-issa-during-protest?traffic_source=rss" target="_blank">Tunisia police arrrest opposition figure Chaima Issa during protest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-29 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f8/live/69cf48b0-cc69-11f0-8c06-f5d460985095.jpg" alt="Budget 2025: What&#x27;s the best and worst that could happen for Labour?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqlk5gd3kv9o?at_medium=RSS&at_campaign=rss" target="_blank">Budget 2025: What&#x27;s the best and worst that could happen for Labour?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-29 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/11/29/live-donald-trump-says-venezuela-airspace-now-closed-as-tensions-surge?traffic_source=rss" target="_blank">LIVE: Donald Trump says Venezuela airspace now closed as tensions surge</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-29 13:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/11/29/g-s1-98622/these-zika-mothers-went-to-battle-and-their-cry-was-heard" target="_blank">These Zika mothers went to battle -- and their cry was heard</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-29 13:34</span>
             </div>
         </div>
 </div>
@@ -112,6 +110,15 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/833365/google-nest-learning-thermostat-4th-gen-black-friday-deal-sale" target="_blank">The latest Nest Learning Thermostat is $70 off for Black Friday</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-29 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69266abf5e4823df17606789/master/pass/A%20Lot%20of%20Our%20Favorite%20Travel%20Gear%20Is%20On%20Sale%20for%20Black%20Friday.png" alt="The Best Black Friday Travel Gear Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/travel-gear-deals-black-friday-2025/" target="_blank">The Best Black Friday Travel Gear Deals (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-29 18:57</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +157,20 @@
                 <span class="time">2025-11-29 13:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/832364/honda-reusable-rocket-space-exploration" target="_blank">Why Honda is suddenly launching reusable rockets</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-29 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/reubenwalker64/symfony-station-communique-stardate-28-november-2025-3ibo" target="_blank">Symfony Station Communiqué - ✦ Stardate: 28 November 2025 ✦</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-29 19:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxmsxpon4qnmk4j60ite.png" alt="Building Modern Backends with Kaapi: API Documentation Generation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +216,6 @@
                 <span class="time">2025-11-29 15:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alikarbasicom/the-vibe-tax-how-unvalidated-ai-code-is-flooding-the-market-and-driving-up-technical-debt-4g9n" target="_blank">The Vibe Tax: How Unvalidated AI Code Is Flooding the Market and Driving Up Technical Debt</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-29 15:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/KPop-Demon-Hunters-Netflix-1280x853.jpg" alt="‘KPop Demon Hunters’ Finally Has an Art Book It Deserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-finally-has-an-art-book-it-deserves-2000693220" target="_blank">‘KPop Demon Hunters’ Finally Has an Art Book It Deserves</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-29 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/tab-s10-lite-1280x853.jpg" alt="Samsung Went Rogue on Galaxy Tab S10 Lite, Black Friday All-Time Low Cheaper Than Last Year’s Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +289,6 @@
                 <span class="time">2025-11-29 13:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/Apple2025MacBookPro-1280x853.jpg" alt="Apple Keeps the M5 MacBook Pro at All-Time Low as It Begins Clearing Out Post–Black Friday Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/apples-2025-macbook-pro-dropped-to-its-lowest-price-ever-for-black-friday-2000648462" target="_blank">Apple Keeps the M5 MacBook Pro at All-Time Low as It Begins Clearing Out Post–Black Friday Stock</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-29 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 103 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
