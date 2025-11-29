@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 20:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-29 21:01:28 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e3e/live/70ac8f80-cd45-11f0-b610-cf72bc71edf9.jpg" alt="Venezuela calls Trump airspace closure warning &#x27;colonialist threat&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss" target="_blank">Venezuela calls Trump airspace closure warning &#x27;colonialist threat&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-29 20:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/pope-leo-visits-blue-mosque-in-turkiyes-istanbul?traffic_source=rss" target="_blank">Pope Leo visits Blue Mosque in Turkiye’s Istanbul</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-29 20:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +99,6 @@
                 <span class="time">2025-11-29 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251103-fda-rs-ee1ad6.jpg" alt="FDA claims Covid shots killed 10 children and vows new vaccine rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/health/health-news/fda-covid-vaccines-children-deaths-rcna246437" target="_blank">FDA claims Covid shots killed 10 children and vows new vaccine rules</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-29 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebce/live/5c3f61d0-cd54-11f0-9fb5-5f3a3703a365.jpg" alt="Playwright Sir Tom Stoppard dies at 88" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c74xe49q7vlo?at_medium=RSS&at_campaign=rss" target="_blank">Playwright Sir Tom Stoppard dies at 88</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-29 18:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -131,6 +132,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/29/new-york-state-law-takes-aim-at-personalized-pricing/" target="_blank">New York state law takes aim at personalized pricing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-29 18:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/692612d46171e1fcd338e7f6/master/pass/Best%20Black%20Friday%20Headphone%20Deals.png" alt="15 Best Black Friday Headphone Deals (2025): Apple, Sony, and Bose" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -148,20 +158,20 @@
                 <span class="time">2025-11-29 15:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69254e313babfea407a3eeff/master/pass/The%20Best%20Black%20Friday%20Tech%20Deals.png" alt="25 Best Black Friday Tech Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/black-friday-tech-deals-2025/" target="_blank">25 Best Black Friday Tech Deals (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-29 13:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Solus-4.8-Released" target="_blank">Solus Linux 4.8 Released With Python 2 Finally Removed, Abandons Solus Software Center</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-29 20:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,29 +215,6 @@
                 <span class="title"><a href="https://dev.to/stock_expertai_5eafb5be7/the-new-casino-wall-streets-high-stakes-gambling-epidemic-37f" target="_blank">The New Casino: Wall Street&#x27;s High-Stakes Gambling Epidemic</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-29 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/aws-opentelemetry/en/headerimage/generatedHeaderImage-1763445831909.jpg" alt="AWS Distributed Tracing Service X-Ray Transitions to OpenTelemetry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/aws-opentelemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Distributed Tracing Service X-Ray Transitions to OpenTelemetry</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-29 15:59</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html" target="_blank">Friday Squid Blogging: Flying Neon Squid Found on Israeli Beach</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-11-28 20:56</span>
             </div>
         </div>
 </div>
@@ -295,12 +282,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://www.smbc-comics.com/comics/1764385189-20251129_edit.png" alt="Saturday Morning Breakfast Cereal - Vat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/11/28/dad-hominem" target="_blank">Dad Hominem</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-11-28 20:44</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/vat" target="_blank">Saturday Morning Breakfast Cereal - Vat</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-29 16:20</span>
             </div>
         </div>
 </div>
@@ -308,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 103 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
