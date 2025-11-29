@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 06:02:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-29 07:01:35 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/belaruss-lukashenko-becomes-second-only-leader-to-visit-myanmar-since-coup?traffic_source=rss" target="_blank">Belarus’s Lukashenko becomes second only leader to visit Myanmar since coup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-29 04:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602d/live/3750e380-ccaa-11f0-9975-d11a46903c55.jpg" alt="Planes grounded after Airbus discovers solar radiation could impact systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +100,29 @@
                 <span class="time">2025-11-29 00:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764373498533_nn_rno_national_guard_shooting_251128_1920x1080-pnzjpg.jpg" alt="Suspect in National Guard shooting to be charged with murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/suspect-in-national-guard-shooting-to-be-charged-with-murder-253270085632" target="_blank">Suspect in National Guard shooting to be charged with murder</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-28 23:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025" target="_blank">The best Black Friday deals you can still get on AirTags, iPad, and other Apple gear</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-29 06:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/28/vc-kara-nortman-bet-early-on-womens-sports-and-now-shes-creating-the-market/" target="_blank">VC Kara Nortman bet early on women’s sports, and now she’s creating the market</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-29 06:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,24 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/best-black-friday-laptop-deals-2025/" target="_blank">9 Best Black Friday Laptop Deals (2025): MacBooks, Gaming Laptops, and More</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-29 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/832513/black-friday-super-mario-galaxy-bundle-switch-deal-sale-2025" target="_blank">The Super Mario Galaxy bundle for the Switch is 20 percent off today only</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-29 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66bfa5147b9c3a6bce05097c/master/pass/Rocco-Super-Smart-Fridge-(black)-(pink)-Offwhite-Background-SOURCE-Rocco.jpg" alt="The Rocco Fridge Isn&#x27;t So Smart, But It Sure Is Pretty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/you-have-8-hours-to-save-on-this-stunning-smart-fridge/" target="_blank">The Rocco Fridge Isn&#x27;t So Smart, But It Sure Is Pretty</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-29 00:01</span>
             </div>
         </div>
 </div>
@@ -331,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
