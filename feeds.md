@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 03:21:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-29 04:02:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 03:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas" target="_blank">The 187 best Black Friday deals you can still shop — a ton of tech is over half off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-29 03:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/692402a28006ba74bce6f97f/master/pass/Best%20Laptop%20Deals%20for%20Black%20Friday%202025.png" alt="9 Best Black Friday Laptop Deals (2025): MacBooks, Gaming Laptops, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -152,20 +157,20 @@
                 <span class="time">2025-11-28 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6923fb9dc68e1875e6bc3d1b/master/pass/The%20Best%20Black%20Friday%20Beauty%20Deals.png" alt="The Best Black Friday Beauty Deals, WIRED Approved (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/black-friday-beauty-deals-2025/" target="_blank">The Best Black Friday Beauty Deals, WIRED Approved (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-28 20:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzklr21mpm5qaun2it6n0.png" alt="Mastering Dart Enums: From Basic Lists to Supercharged Classes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/javeedishaq/mastering-dart-enums-from-basic-lists-to-supercharged-classes-200e" target="_blank">Mastering Dart Enums: From Basic Lists to Supercharged Classes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-29 03:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-10.20-Released" target="_blank">Wine 10.20 Released With VKD3D 1.18 Upgrade For Direct3D 12</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-28 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/live/cvg4y6g74ert" target="_blank">Flight disruption warning as Airbus requests modifications to 6k planes</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-28 21:16</span>
             </div>
         </div>
 </div>
@@ -348,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 03:21 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
