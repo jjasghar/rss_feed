@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 22:01:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-29 23:02:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/29/what-next-for-ukraine-after-president-zelenskyys-top-aide-quits?traffic_source=rss" target="_blank">What next for Ukraine after President Zelenskyy’s top aide quits?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-29 22:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +104,29 @@
                 <span class="time">2025-11-29 19:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-251126_1764162070301_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says Venezuelan airspace should be &#x27;closed&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=127815197" target="_blank">Trump admin live updates: Trump says Venezuelan airspace should be &#x27;closed&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-29 18:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/833697/anker-prime-charger-67w-3-port" target="_blank">Anker’s handy little 3-port charger is just 35 bucks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-29 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69276529097f2a0eaceef112/master/pass/wired_absolutebest.jpg" alt="169 Best Black Friday Deals 2025: Everything Tested and Actually Discounted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-deals-2025-2/" target="_blank">169 Best Black Friday Deals 2025: Everything Tested and Actually Discounted</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-29 22:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +163,20 @@
                 <span class="time">2025-11-29 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69266abf5e4823df17606789/master/pass/A%20Lot%20of%20Our%20Favorite%20Travel%20Gear%20Is%20On%20Sale%20for%20Black%20Friday.png" alt="The Best Black Friday Travel Gear Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/travel-gear-deals-black-friday-2025/" target="_blank">The Best Black Friday Travel Gear Deals (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-29 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6916244d2183e09ed9bac5b0/master/pass/HBO-Max-Show-Guide-Culture-rachel-sennott.jpg" alt="The Best Black Friday Streaming Deals (2025): HBO Max, Disney+, Apple" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/black-friday-streaming-deals-2025/" target="_blank">The Best Black Friday Streaming Deals (2025): HBO Max, Disney+, Apple</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-29 18:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ernesto_malave_285068a60e/por-que-me-puse-a-explorar-cipherseekcom-y-lo-que-pienso-de-la-idea-4b4o" target="_blank">Por qué me puse a explorar Cipherseek.com — y lo que pienso de la idea</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-29 22:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,20 +222,20 @@
                 <span class="time">2025-11-29 18:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/acoh3n/youre-not-doing-everything-wrong-4l5n" target="_blank">You&#x27;re NOT doing everything wrong</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-29 17:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/playstation-5-pro-1280x853.jpg" alt="PS5 Sold Out After Black Friday Chaos, Amazon Now Offers PS5 Pro at Record Low This Cyber Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ps5-sold-out-after-black-friday-chaos-amazon-offers-ps5-pro-at-record-low-this-cyber-monday-2000648789" target="_blank">PS5 Sold Out After Black Friday Chaos, Amazon Now Offers PS5 Pro at Record Low This Cyber Monday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-29 22:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Avatar-3-Varang-fire-1280x853.jpg" alt="James Cameron Has a Backup Plan for ‘Avatar’ If ‘Fire &amp; Ash’ Flops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +281,6 @@
                 <span class="time">2025-11-29 17:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/godzilla-anime-key-art-1280x853.jpg" alt="A New Godzilla Anime Turns a Boy Into the Iconic Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-new-godzilla-anime-turns-a-boy-into-the-iconic-monster-2000693454" target="_blank">A New Godzilla Anime Turns a Boy Into the Iconic Monster</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-29 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
