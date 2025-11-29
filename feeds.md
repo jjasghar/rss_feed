@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 16:02:10 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-29 17:01:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f8/live/69cf48b0-cc69-11f0-8c06-f5d460985095.jpg" alt="Budget 2025: What&#x27;s the best and worst that could happen for Labour?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqlk5gd3kv9o?at_medium=RSS&at_campaign=rss" target="_blank">Budget 2025: What&#x27;s the best and worst that could happen for Labour?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-29 15:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +99,20 @@
                 <span class="time">2025-11-29 12:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a43/live/a72730f0-ccf6-11f0-8231-1f56aaf8d190.jpg" alt="Fall of Zelensky&#x27;s top aide - reboot for Kyiv or costly shake-up?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz0nljm4y74o?at_medium=RSS&at_campaign=rss" target="_blank">Fall of Zelensky&#x27;s top aide - reboot for Kyiv or costly shake-up?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-29 11:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/692612d46171e1fcd338e7f6/master/pass/Best%20Black%20Friday%20Headphone%20Deals.png" alt="15 Best Black Friday Headphone Deals (2025): Apple, Sony, and Bose" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-headphone-deals-2025-1/" target="_blank">15 Best Black Friday Headphone Deals (2025): Apple, Sony, and Bose</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-29 16:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69266c30e44d5ed7c3809f07/master/pass/The%20Best%20Black%20Friday%20Smartphone%20Deals.png" alt="14 Best Black Friday Phone Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +158,29 @@
                 <span class="time">2025-11-29 12:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/829414/trump-mobile-mvno-wireless-service-test" target="_blank">All the places I used my Trump Mobile wireless service this week</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-29 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stock_expertai_5eafb5be7/the-new-casino-wall-streets-high-stakes-gambling-epidemic-37f" target="_blank">The New Casino: Wall Street&#x27;s High-Stakes Gambling Epidemic</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-29 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/aws-opentelemetry/en/headerimage/generatedHeaderImage-1763445831909.jpg" alt="AWS Distributed Tracing Service X-Ray Transitions to OpenTelemetry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/aws-opentelemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Distributed Tracing Service X-Ray Transitions to OpenTelemetry</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-29 15:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/11/docker-desktop-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Docker Releases Desktop 4.50, Adds Free Debugging Tools and AI-Native Enhancements</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-11-29 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The Great Retraining" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/the-great-retraining-jp" target="_blank">The Great Retraining</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-29 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Endeavour-OS-2025-11" target="_blank">Arch Linux Based Endeavour OS Updated After ISO Refresh Hiatus</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-29 11:52</span>
             </div>
         </div>
 </div>
@@ -301,22 +304,13 @@
                 <span class="time">2025-11-28 20:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1764198389-20251128_edit.png" alt="Saturday Morning Breakfast Cereal - Red" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/red-3" target="_blank">Saturday Morning Breakfast Cereal - Red</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-28 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
