@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 02:29:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-29 03:21:05 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 02:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 03:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602d/live/3750e380-ccaa-11f0-9975-d11a46903c55.jpg" alt="Planes grounded after Airbus discovers solar radiation could impact systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8e9d13x2z7o?at_medium=RSS&at_campaign=rss" target="_blank">Planes grounded after Airbus discovers solar radiation could impact systems</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-29 03:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +102,20 @@
                 <span class="time">2025-11-28 23:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/28/could-conscription-return-in-europe?traffic_source=rss" target="_blank">Could conscription return in Europe?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-28 22:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/692402a28006ba74bce6f97f/master/pass/Best%20Laptop%20Deals%20for%20Black%20Friday%202025.png" alt="9 Best Black Friday Laptop Deals (2025): MacBooks, Gaming Laptops, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-black-friday-laptop-deals-2025/" target="_blank">9 Best Black Friday Laptop Deals (2025): MacBooks, Gaming Laptops, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-29 01:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +161,20 @@
                 <span class="time">2025-11-28 20:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69276633c77248337ceeb5ef/master/pass/wired_bflive.jpg" alt="Black Friday Live 2025: We&#x27;re Tracking Discounts, Trends, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/live/black-friday-live-25/" target="_blank">Black Friday Live 2025: We&#x27;re Tracking Discounts, Trends, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-28 19:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aniket_kuyate_15acc4e6587/why-mixup-works-even-when-it-blends-everything-into-goo-25g1" target="_blank">Why Mixup Works (Even When It Blends Everything Into Goo)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-29 03:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +218,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/live/cvg4y6g74ert" target="_blank">Flight disruption warning as Airbus requests modifications to 6k planes</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-28 21:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0lrpbo84l8kxr4x38vy4.png" alt="Unknown Unknowns (Bite-size Article)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/koshirok096/unknown-unknowns-bite-size-article-37j" target="_blank">Unknown Unknowns (Bite-size Article)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-28 20:54</span>
             </div>
         </div>
 </div>
@@ -344,7 +349,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 02:29 UTC
+        🔄 Last Updated: 03:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
