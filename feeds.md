@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 18:02:13 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-29 19:01:27 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, November 29, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-251126_1764162070301_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says Venezuelan airspace should be &#x27;closed&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=127815197" target="_blank">Trump admin live updates: Trump says Venezuelan airspace should be &#x27;closed&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-29 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebce/live/5c3f61d0-cd54-11f0-9fb5-5f3a3703a365.jpg" alt="Playwright Sir Tom Stoppard dies at 88" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c74xe49q7vlo?at_medium=RSS&at_campaign=rss" target="_blank">Playwright Sir Tom Stoppard dies at 88</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-29 18:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +100,29 @@
                 <span class="time">2025-11-29 13:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/trump-says-venezuela-airspace-to-be-shut-in-its-entirety-as-tensions-rise?traffic_source=rss" target="_blank">Trump says Venezuela airspace to be shut ‘in its entirety’ as tensions rise</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-29 13:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/29/nx-s1-5615237/opinion-holiday-song" target="_blank">Opinion: My kind of holiday song</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-29 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/833365/google-nest-learning-thermostat-4th-gen-black-friday-deal-sale" target="_blank">The latest Nest Learning Thermostat is $70 off for Black Friday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-29 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6916244d2183e09ed9bac5b0/master/pass/HBO-Max-Show-Guide-Culture-rachel-sennott.jpg" alt="The Best Black Friday Streaming Deals (2025): HBO Max, Disney+, Apple" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-streaming-deals-2025/" target="_blank">The Best Black Friday Streaming Deals (2025): HBO Max, Disney+, Apple</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-29 18:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/692612d46171e1fcd338e7f6/master/pass/Best%20Black%20Friday%20Headphone%20Deals.png" alt="15 Best Black Friday Headphone Deals (2025): Apple, Sony, and Bose" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +159,20 @@
                 <span class="time">2025-11-29 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6923fb9dc68e1875e6bc3d1b/master/pass/The%20Best%20Black%20Friday%20Beauty%20Deals.png" alt="The Best Black Friday Beauty Deals, WIRED Approved (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/black-friday-beauty-deals-2025-1/" target="_blank">The Best Black Friday Beauty Deals, WIRED Approved (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-29 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-685027551-500x500.jpg" alt="Achieving lasting remission for HIV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/11/achieving-lasting-remission-for-hiv/" target="_blank">Achieving lasting remission for HIV</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-29 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxmsxpon4qnmk4j60ite.png" alt="Building Modern Backends with Kaapi: API Documentation Generation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shygyver/building-modern-backends-with-kaapi-api-documentation-generation-57f2" target="_blank">Building Modern Backends with Kaapi: API Documentation Generation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-29 18:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +218,6 @@
                 <span class="time">2025-11-29 15:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.dagens.com/news/iceland-declares-ocean-current-instability-a-national-security-risk" target="_blank">Iceland declares ocean-current instability a national security risk</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-29 15:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/tab-s10-lite-1280x853.jpg" alt="Samsung Went Rogue on Galaxy Tab S10 Lite, Black Friday All-Time Low Cheaper Than Last Year’s Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-went-rogue-on-galaxy-tab-s10-lite-black-friday-all-time-low-cheaper-than-last-years-models-2000648767" target="_blank">Samsung Went Rogue on Galaxy Tab S10 Lite, Black Friday All-Time Low Cheaper Than Last Year’s Models</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-29 18:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/10-digital-picture-frame-1280x853.jpg" alt="Digital Picture Frame Hits 55% Off on Amazon, 60K Photo Storage Cheaper Than Basic Wall Frames Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +291,6 @@
                 <span class="time">2025-11-29 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Hoyo-Negro-Diver-1280x853.jpg" alt="Undisturbed for Millennia, This Submerged Cave Is a Portal to the Ice Age" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/undisturbed-for-millennia-this-submerged-cave-is-a-portal-to-the-ice-age-2000688149" target="_blank">Undisturbed for Millennia, This Submerged Cave Is a Portal to the Ice Age</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-29 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 282 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
