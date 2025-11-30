@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 06:02:17 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-30 07:01:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/30/four-dead-after-14-people-shot-at-childs-birthday-party-in-california?traffic_source=rss" target="_blank">Four dead after 14 people shot at child’s birthday party in California</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-30 06:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/CaliforniaShooting_1764482538480_hpMain_4x3t_384.jpg" alt="4 dead, 10 wounded in shooting at California banquet hall: Sheriff&#x27;s office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/4-dead-10-wounded-after-shooting-california-banquet/story?id=127972958" target="_blank">4 dead, 10 wounded in shooting at California banquet hall: Sheriff&#x27;s office</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-30 06:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e3e/live/70ac8f80-cd45-11f0-b610-cf72bc71edf9.jpg" alt="Venezuela condemns Trump&#x27;s threat to close country&#x27;s airspace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss" target="_blank">Venezuela condemns Trump&#x27;s threat to close country&#x27;s airspace</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-30 04:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/30/bangladeshs-khaleda-zia-hospitalised-in-very-critical-condition?traffic_source=rss" target="_blank">Bangladesh’s Khaleda Zia hospitalised in ‘very critical’ condition</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-30 02:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/travis-turner-1-ht-gmh-251124_1764014220147_hpMain_4x3t_384.jpg" alt="Missing coach wanted on child sex abuse material charges left with gun: Family" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/missing-virginia-football-coach-wanted-child-sexual-abuse/story?id=127971375" target="_blank">Missing coach wanted on child sex abuse material charges left with gun: Family</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-30 01:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764460669709_wnn_rca_covid_vaccine_memo_251129_1920x1080-zoeutb.jpg" alt="FDA pushes to overhaul childhood vaccine rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/fda-pushes-to-overhaul-childhood-vaccine-rules-253296709965" target="_blank">FDA pushes to overhaul childhood vaccine rules</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-29 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/29/what-next-for-ukraine-after-president-zelenskyys-top-aide-quits?traffic_source=rss" target="_blank">What next for Ukraine after President Zelenskyy’s top aide quits?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-29 22:21</span>
             </div>
         </div>
 </div>
@@ -168,6 +166,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/srfdeveloper/the-ultimate-java-setup-guide-2025-install-jdk-on-windows-mac-linux-3cbd" target="_blank">The Ultimate Java Setup Guide (2025): Install JDK on Windows, Mac &amp; Linux</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-30 06:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/cloudflare-remote-bindings/en/headerimage/generatedHeaderImage-1763757012108.jpg" alt="Cloudflare Introduces Remote Bindings for Local Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/cloudflare-remote-bindings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Remote Bindings for Local Development</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-30 06:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mohantammineni/jutro-digital-platform-guidewires-secret-sauce-for-modern-insurance-apps-4j2e" target="_blank">Jutro Digital Platform — Guidewire’s Secret Sauce for Modern Insurance Apps</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-30 04:06</span>
@@ -198,24 +214,6 @@
                 <span class="title"><a href="https://github.com/cak/elf" target="_blank">elf: Python CLI and library for Advent of Code with input caching and safe submissions</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-11-30 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ernesto_malave_285068a60e/por-que-me-puse-a-explorar-cipherseekcom-y-lo-que-pienso-de-la-idea-4b4o" target="_blank">Por qué me puse a explorar Cipherseek.com — y lo que pienso de la idea</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-29 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bazzite.gg/" target="_blank">Bazzite: The next generation of Linux gaming</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-29 22:22</span>
             </div>
         </div>
 </div>
@@ -296,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
