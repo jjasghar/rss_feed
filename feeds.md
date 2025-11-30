@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 05:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-30 06:02:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -79,21 +83,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764460669709_wnn_rca_covid_vaccine_memo_251129_1920x1080-zoeutb.jpg" alt="FDA pushes to overhaul childhood vaccine rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/fda-pushes-to-overhaul-childhood-vaccine-rules-253296709965" target="_blank">FDA pushes to overhaul childhood vaccine rules</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-29 23:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/29/what-next-for-ukraine-after-president-zelenskyys-top-aide-quits?traffic_source=rss" target="_blank">What next for Ukraine after President Zelenskyy’s top aide quits?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-29 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/ice-arrest-05-gty-jt-251129_1764448420604_hpMain_4x3t_384.jpg" alt="Protesters arrested in NYC over possible ICE-related activity near Chinatown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/protesters-arrested-nyc-ice-related-activity-chinatown/story?id=127968220" target="_blank">Protesters arrested in NYC over possible ICE-related activity near Chinatown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-29 21:44</span>
             </div>
         </div>
 </div>
@@ -172,6 +176,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://boing.greg.technology/" target="_blank">Show HN: Boing</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-30 03:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/softwaredeveloperhub01/the-20-most-essential-devops-tools-bridging-the-gap-between-development-and-operations-2m6i" target="_blank">The 20 Most Essential DevOps Tools: Bridging the Gap Between Development and Operations</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,20 +218,20 @@
                 <span class="time">2025-11-29 22:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-57ih" target="_blank">CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-29 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/poco-f8-ultra.jpg?fit=1600%2C1009&amp;quality=60&amp;ssl=1" alt="Poco&#x27;s flagship smartphone comes in denim" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/29/pocos-flagship-smartphone-comes-in-denim.html" target="_blank">Poco&#x27;s flagship smartphone comes in denim</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-30 04:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2365288379.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Black Friday sales down 2%, but cost 10% more" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +277,6 @@
                 <span class="time">2025-11-29 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/tab-s10-lite-1280x853.jpg" alt="Samsung Went Rogue on Galaxy Tab S10 Lite, Black Friday All-Time Low Cheaper Than Last Year’s Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-went-rogue-on-galaxy-tab-s10-lite-black-friday-all-time-low-cheaper-than-last-years-models-2000648767" target="_blank">Samsung Went Rogue on Galaxy Tab S10 Lite, Black Friday All-Time Low Cheaper Than Last Year’s Models</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-29 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
