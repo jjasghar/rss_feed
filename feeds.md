@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 10:01:41 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-30 11:01:29 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/692a4f34a085970d68c19e32/master/pass/Best%20Black%20Friday%20Christmas%20Trees%20and%20Smart%20Light%20Deals.png" alt="Best Black Friday Christmas Tree Deals (and Lights, Too) of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-christmas-tree-deals/" target="_blank">Best Black Friday Christmas Tree Deals (and Lights, Too) of 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-30 10:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -153,20 +160,20 @@
                 <span class="time">2025-11-29 21:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/691319/best-switch-2-cases" target="_blank">I tested 15 cases for the Switch 2 and these are the best</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-29 21:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Genode-OS-25.11" target="_blank">Genode OS Framework 25.11 Adds Intel Alder Lake Graphics Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-30 10:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,20 +219,20 @@
                 <span class="time">2025-11-30 06:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mohantammineni/jutro-digital-platform-guidewires-secret-sauce-for-modern-insurance-apps-4j2e" target="_blank">Jutro Digital Platform — Guidewire’s Secret Sauce for Modern Insurance Apps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-30 04:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/unitree-robot-1280x853.jpg" alt="Humanoid Robot Hype Is Officially Scaring China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/humanoid-robot-hype-is-officially-scaring-china-2000693462" target="_blank">Humanoid Robot Hype Is Officially Scaring China</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-30 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/poco-f8-ultra.jpg?fit=1600%2C1009&amp;quality=60&amp;ssl=1" alt="Poco&#x27;s flagship smartphone comes in denim" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +278,6 @@
                 <span class="time">2025-11-29 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/KPop-Demon-Hunters-Netflix-1280x853.jpg" alt="‘KPop Demon Hunters’ Finally Has an Art Book It Deserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-finally-has-an-art-book-it-deserves-2000693220" target="_blank">‘KPop Demon Hunters’ Finally Has an Art Book It Deserves</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-29 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
