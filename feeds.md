@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 00:05:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-30 01:30:03 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 00:06 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +66,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-russian-tanker-black-sea_7096087.jpg?20251130005013" alt="Ukrainian officials head to US for talks - as dramatic footage shows Russian tankers being hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ukrainian-officials-head-to-us-for-peace-talks-while-dramatic-footage-shows-russian-oil-tanker-being-hit-13477317" target="_blank">Ukrainian officials head to US for talks - as dramatic footage shows Russian tankers being hit</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-29 21:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -94,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/pope-leo-visits-blue-mosque-in-turkiyes-istanbul?traffic_source=rss" target="_blank">Pope Leo visits Blue Mosque in Turkiye’s Istanbul</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-29 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/upfront/2025/11/29/us-whistleblower-exposes-biden-administrations-israel-cover-up?traffic_source=rss" target="_blank">US whistleblower exposes Biden administration’s Israel cover-up</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-29 19:30</span>
             </div>
         </div>
 </div>
@@ -132,6 +128,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/" target="_blank">Airbus orders software fix to thousands of planes due to solar radiation risk</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-29 22:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/" target="_blank">Black Friday sets online spending record of $11.8B, Adobe says</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-11-29 21:39</span>
@@ -155,20 +160,20 @@
                 <span class="time">2025-11-29 21:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/833365/google-nest-learning-thermostat-4th-gen-black-friday-deal-sale" target="_blank">The latest Nest Learning Thermostat is $70 off for Black Friday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-29 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/cak/elf" target="_blank">elf: Python CLI and library for Advent of Code with input caching and safe submissions</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-30 00:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/reubenwalker64/symfony-station-communique-stardate-28-november-2025-3ibo" target="_blank">Symfony Station Communiqué - ✦ Stardate: 28 November 2025 ✦</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-29 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxmsxpon4qnmk4j60ite.png" alt="Building Modern Backends with Kaapi: API Documentation Generation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shygyver/building-modern-backends-with-kaapi-api-documentation-generation-57f2" target="_blank">Building Modern Backends with Kaapi: API Documentation Generation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-29 18:58</span>
             </div>
         </div>
 </div>
@@ -301,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
