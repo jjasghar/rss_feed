@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 11:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-30 12:02:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +53,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f4/live/110dcd30-cd6a-11f0-8c06-f5d460985095.jpg" alt="Death toll from Indonesia flooding rises to 442" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y9ejley9do?at_medium=RSS&at_campaign=rss" target="_blank">Death toll from Indonesia flooding rises to 442</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-30 11:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51a9/live/2df941c0-cdda-11f0-84e3-8b388d01c57d.png" alt="Reeves denies she misled public over UK&#x27;s finances prior to Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyd38gp00eo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves denies she misled public over UK&#x27;s finances prior to Budget</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-30 11:38</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/30/thousands-of-anti-corruption-protesters-in-manila-say-marcos-must-resign?traffic_source=rss" target="_blank">Thousands of anti-corruption protesters in Manila say Marcos must resign</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-30 09:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-wang-fuk-court-hong-kong_7096305.jpg?20251130110847" alt="Death toll in Hong Kong apartment complex fire rises as more bodies found in burned buildings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hong-kong-death-toll-in-apartment-complex-fire-rises-to-146-as-more-bodies-found-in-burned-buildings-13477397" target="_blank">Death toll in Hong Kong apartment complex fire rises as more bodies found in burned buildings</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-11-30 09:27</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +106,20 @@
                 <span class="time">2025-11-30 06:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/30/nx-s1-5625453/4-dead-shooting-banquet-hall-stockton-california" target="_blank">4 dead and 10 wounded in shooting at banquet hall in Stockton, California</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-30 06:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/CaliforniaShooting_1764482538480_hpMain_4x3t_384.jpg" alt="4 dead, 10 wounded in shooting at California banquet hall: Sheriff&#x27;s office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/4-dead-10-wounded-after-shooting-california-banquet/story?id=127972958" target="_blank">4 dead, 10 wounded in shooting at California banquet hall: Sheriff&#x27;s office</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-30 06:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e3e/live/70ac8f80-cd45-11f0-b610-cf72bc71edf9.jpg" alt="Venezuela condemns Trump&#x27;s threat to close country&#x27;s airspace" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss" target="_blank">Venezuela condemns Trump&#x27;s threat to close country&#x27;s airspace</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-30 04:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69265661f327312cfe6fb7a8/master/pass/futbol.jpg" alt="Mexico Preps for the 2026 World Cup With a Ticket Resale Platform and a Tourism App" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mexico-preps-for-the-2026-world-cup-with-a-ticket-resale-platform-and-a-tourism-app/" target="_blank">Mexico Preps for the 2026 World Cup With a Ticket Resale Platform and a Tourism App</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-30 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/692a4f34a085970d68c19e32/master/pass/Best%20Black%20Friday%20Christmas%20Trees%20and%20Smart%20Light%20Deals.png" alt="Best Black Friday Christmas Tree Deals (and Lights, Too) of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +165,29 @@
                 <span class="time">2025-11-29 22:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/" target="_blank">Black Friday sets online spending record of $11.8B, Adobe says</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-29 21:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-I2C-Drivers-Rust" target="_blank">Linux 6.19 Will Allow You To Write I2C Drivers In Rust</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-30 11:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cachyos.org/" target="_blank">CachyOS: Fast and Customizable Linux Distribution</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-30 10:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +222,6 @@
                 <span class="title"><a href="https://dev.to/ahmed_a_o/beyond-the-context-window-building-a-stateful-memory-mcp-server-on-cloudflare-workers-e2k" target="_blank">Beyond the Context Window: Building a Stateful &#x27;Memory&#x27; MCP Server on Cloudflare Workers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-30 07:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/srfdeveloper/the-ultimate-java-setup-guide-2025-install-jdk-on-windows-mac-linux-3cbd" target="_blank">The Ultimate Java Setup Guide (2025): Install JDK on Windows, Mac &amp; Linux</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-30 06:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/cloudflare-remote-bindings/en/headerimage/generatedHeaderImage-1763757012108.jpg" alt="Cloudflare Introduces Remote Bindings for Local Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/cloudflare-remote-bindings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Remote Bindings for Local Development</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-30 06:26</span>
             </div>
         </div>
 </div>
@@ -297,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
