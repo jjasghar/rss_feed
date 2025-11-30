@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 14:01:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-11-30 15:01:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/30/polls-open-in-honduras-presidential-election-marked-by-fraud-accusations?traffic_source=rss" target="_blank">Polls open in Honduras presidential election marked by fraud accusations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-30 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764510900804_mtp_full_noem_251130_1920x1080-qwyn4p.jpg" alt="Kristi Noem blames Biden Afghanistan ‘abandonment’ for National Guard shooting: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/kristi-noem-blames-biden-afghanistan-abandonment-for-national-guard-shooting-full-interview-253308485652" target="_blank">Kristi Noem blames Biden Afghanistan ‘abandonment’ for National Guard shooting: Full interview</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-11-30 13:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +96,20 @@
                 <span class="time">2025-11-30 11:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/30/nx-s1-5625482/netanyahu-request-pardon-corruption-trial" target="_blank">Netanyahu submits request for a pardon during his ongoing corruption trial</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-30 11:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/30/thousands-of-anti-corruption-protesters-in-manila-say-marcos-must-resign?traffic_source=rss" target="_blank">Thousands of anti-corruption protesters in Manila say Marcos must resign</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-30 09:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/829120/neuralink-bci-webcam" target="_blank">It doesn&amp;#8217;t end at Neuralink</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-30 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6923cfc5c68e1875e6bc3d16/master/pass/BF%20Our%20Favorite%20Automatic%20Litter%20Box%20for%20Most%20People%20Is%20on%20Sale.png" alt="The Petkit PuraMax 2 Is $100 Off Right Now (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +155,20 @@
                 <span class="time">2025-11-30 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available" target="_blank">The 201 Black Friday deals you can still get</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-30 01:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmwb000r2irj776twcs8t.png" alt="Automating My Daily Workflow with n8n, Python &amp; Gemini AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sanjaydot/automating-my-daily-workflow-with-n8n-python-gemini-ai-1a1c" target="_blank">Automating My Daily Workflow with n8n, Python &amp; Gemini AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-30 14:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/shinyakato_/analyzing-psqlrc-settings-on-github-how-postgresql-engineers-configure-postgresql-1b3f" target="_blank">Analyzing psqlrc Settings on GitHub: How PostgreSQL Engineers Configure PostgreSQL</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-30 13:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://adventofcode.com/2025/about" target="_blank">Advent of Code 2025</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-30 13:07</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Genode-OS-25.11" target="_blank">Genode OS Framework 25.11 Adds Intel Alder Lake Graphics Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-30 10:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prasetyanurangga/i-built-a-tiny-mood-based-video-picker-so-my-lunch-break-doesnt-disappear-into-scrolling-4hkp" target="_blank">i built a tiny mood based video picker so my lunch break doesnt disappear into scrolling</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-30 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyz5tzgcdbl72p5utom2k.png" alt="🌱 Day 1 — Introduction to Terraform | 30 Days Terraform Challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lalit192977/day-1-introduction-to-terraform-30-days-terraform-challenge-1jj8" target="_blank">🌱 Day 1 — Introduction to Terraform | 30 Days Terraform Challenge</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-30 08:54</span>
             </div>
         </div>
 </div>
@@ -297,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
