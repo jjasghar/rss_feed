@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 21:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-30 22:01:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/30/african-leaders-push-for-recognition-of-colonial-crimes-and-reparations" target="_blank">African leaders push for recognition of colonial crimes and reparations</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-11-30 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37da/live/4fc00290-ce29-11f0-be98-75d864f0578d.jpg" alt="Ukraine talks &#x27;productive&#x27; but more work needed, Rubio says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd9z2e3exk9o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine talks &#x27;productive&#x27; but more work needed, Rubio says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-30 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/30/nx-s1-5626165/michael-jordan-nascar-court" target="_blank">Michael Jordan&#x27;s fight against NASCAR heads to court</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-30 19:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,38 +102,20 @@
                 <span class="time">2025-11-30 17:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63c8/live/ec2e8510-ce07-11f0-8c06-f5d460985095.jpg" alt="Indonesia searches for hundreds missing in deadly floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyz82z7p8zo?at_medium=RSS&at_campaign=rss" target="_blank">Indonesia searches for hundreds missing in deadly floods</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-30 16:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TW-NOEM-20251130-ABC-JH_1764511646327_hpMain_4x3t_384.jpeg" alt="Noem says National Guard shooting suspect could have been radicalized in US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/noem-national-guard-shooting-suspect-radicalized-us/story?id=127977510" target="_blank">Noem says National Guard shooting suspect could have been radicalized in US</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-11-30 15:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/30/israel-attacks-on-syria-what-happened-who-did-israel-claim-it-was-after?traffic_source=rss" target="_blank">Israel attacks on Syria: What happened, who did Israel claim it was after?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-30 14:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/691ebbbfaaec53d0d5d9437c/master/pass/The%20Best%20Early%20Black%20Friday%20Tech%20Deals%20From%20Best%20Buy.png" alt="20 Best Black Friday Deals at Best Buy (2025) on Hot Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/early-black-friday-best-buy-deals-1/" target="_blank">20 Best Black Friday Deals at Best Buy (2025) on Hot Tech</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-30 21:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69254e313babfea407a3eeff/master/pass/The%20Best%20Black%20Friday%20Tech%20Deals.png" alt="30 Best Cyber Monday Tech Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +161,29 @@
                 <span class="time">2025-11-30 18:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/" target="_blank">Behind the scenes of drone food delivery in Finland</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-30 16:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/blockopensource/mcps-for-developers-who-think-they-dont-need-mcps-4736" target="_blank">MCPs for Developers Who Think They Don&#x27;t Need MCPs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-30 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/helm-4/en/headerimage/generatedHeaderImage-1764537294150.jpg" alt="Helm Improves Kubernetes Package Management with Biggest Release in 6 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/helm-4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Helm Improves Kubernetes Package Management with Biggest Release in 6 Years</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-30 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F84j220jg0z1o4445d9mc.png" alt="Enshittification: Why I’m leaving dev.to" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -176,6 +191,15 @@
                 <span class="title"><a href="https://dev.to/autonomousapps/enshittification-why-im-leaving-devto-3npn" target="_blank">Enshittification: Why I’m leaving dev.to</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-30 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NixOS-25.11-Released" target="_blank">NixOS 25.11 Released With 7,002 New Packages Added</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-30 20:41</span>
             </div>
         </div>
 <div class="story">
@@ -196,38 +220,20 @@
                 <span class="time">2025-11-30 18:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Features-Expected" target="_blank">Features Expected For Linux 6.19: ASUS Armoury, Many Intel Bits, AMD GCN 1.0/1.1 Enhanced</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-30 16:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/google-private-ai-compute-tee/en/headerimage/generatedHeaderImage-1763918783103.jpg" alt="Private AI Compute Enables Google Inference with Hardware Isolation and Ephemeral Data Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/google-private-ai-compute-tee/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Private AI Compute Enables Google Inference with Hardware Isolation and Ephemeral Data Design</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-30 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmwb000r2irj776twcs8t.png" alt="Automating My Daily Workflow with n8n, Python &amp; Gemini AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sanjaydot/automating-my-daily-workflow-with-n8n-python-gemini-ai-1a1c" target="_blank">Automating My Daily Workflow with n8n, Python &amp; Gemini AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-30 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/FalloutS2FLimage5_3000-1280x853.jpg" alt="The ‘Fallout’ Show Won’t Give a Canon Ending for ‘New Vegas’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-fallout-show-wont-give-a-canon-ending-for-new-vegas-2000693494" target="_blank">The ‘Fallout’ Show Won’t Give a Canon Ending for ‘New Vegas’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-30 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/ahsoka-nightsister-klothow-1280x853.jpg" alt="Claudia Black Exits ‘Ahsoka’ Season 2 Over Alleged Pay Disputes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +279,6 @@
                 <span class="time">2025-11-30 16:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/stranger-things-eleven-1280x853.jpg" alt="So About That Surprise ‘Stranger Things’ Return…" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/so-about-that-surprise-stranger-things-return-2000693498" target="_blank">So About That Surprise ‘Stranger Things’ Return…</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-30 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,7 +299,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 95 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 21:01 UTC
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
