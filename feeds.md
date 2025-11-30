@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 20:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-30 21:01:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +111,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69254e313babfea407a3eeff/master/pass/The%20Best%20Black%20Friday%20Tech%20Deals.png" alt="30 Best Cyber Monday Tech Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-tech-deals-2025/" target="_blank">30 Best Cyber Monday Tech Deals (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-30 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/" target="_blank">ChatGPT launched three years ago today</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-30 20:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/834064/echo-frames-cyber-monday-deal-echo-spot" target="_blank">This deal on smart glasses was too good for my husband to pass up</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-30 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/691b6877c12618cd902a14a4/master/pass/Our%20Favorite%20Compact%20Soundbar%20Is%20$100%20Off.png" alt="The Best Black Friday Soundbar Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -130,38 +164,20 @@
                 <span class="time">2025-11-30 16:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6923deca7b8cd84c7d271add/master/pass/The%20Best%20Kindle%20and%20Amazon%20Device%20Black%20Friday%20Deals.png" alt="The Best Amazon Device and Kindle Black Friday Deals (2025): Paperwhite, Scribe, Echo Dot Max" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-device-kindle-black-friday-deals-2025-2/" target="_blank">The Best Amazon Device and Kindle Black Friday Deals (2025): Paperwhite, Scribe, Echo Dot Max</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-30 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6923e421c68e1875e6bc3d18/master/pass/Best%20Black%20Friday%20TV%20Deals.png" alt="20 Best Black Friday TV Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/black-friday-tv-deals-2025-2/" target="_blank">20 Best Black Friday TV Deals (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-30 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/829120/neuralink-bci-webcam" target="_blank">It doesn&amp;#8217;t end at Neuralink</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-30 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F84j220jg0z1o4445d9mc.png" alt="Enshittification: Why I’m leaving dev.to" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/autonomousapps/enshittification-why-im-leaving-devto-3npn" target="_blank">Enshittification: Why I’m leaving dev.to</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-30 20:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,20 +223,20 @@
                 <span class="time">2025-11-30 14:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shinyakato_/analyzing-psqlrc-settings-on-github-how-postgresql-engineers-configure-postgresql-1b3f" target="_blank">Analyzing psqlrc Settings on GitHub: How PostgreSQL Engineers Configure PostgreSQL</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-30 13:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/ahsoka-nightsister-klothow-1280x853.jpg" alt="Claudia Black Exits ‘Ahsoka’ Season 2 Over Alleged Pay Disputes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/claudia-black-exits-ahsoka-season-2-over-alleged-pay-disputes-2000693543" target="_blank">Claudia Black Exits ‘Ahsoka’ Season 2 Over Alleged Pay Disputes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-30 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/shutterstock_2509056937-1280x720.jpg" alt="How Solar Flares Could Have Corrupted An Airbus Plane" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +282,6 @@
                 <span class="time">2025-11-30 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/dysonv8plus-1280x853.jpg" alt="Dyson Has V11 Vacuum Black Friday Leftovers, Now Near Zero Profit to Clear Stock for Cyber Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dyson-has-v11-vacuum-black-friday-leftovers-now-near-zero-profit-to-clear-stock-for-cyber-monday-2000648918" target="_blank">Dyson Has V11 Vacuum Black Friday Leftovers, Now Near Zero Profit to Clear Stock for Cyber Monday</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-30 15:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 95 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
