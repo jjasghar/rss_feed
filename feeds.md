@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 07:01:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-11-30 08:02:10 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/30/neighbourhoods-buried-under-mud-sri-lanka-floods-death-toll-rises-to-159?traffic_source=rss" target="_blank">‘Neighbourhoods buried under mud’: Sri Lanka floods death toll rises to 159</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-30 07:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/crrkdw2xy28o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to back Budget after Reeves accused of misleading public</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-11-30 02:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/30/bangladeshs-khaleda-zia-hospitalised-in-very-critical-condition?traffic_source=rss" target="_blank">Bangladesh’s Khaleda Zia hospitalised in ‘very critical’ condition</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-30 02:08</span>
             </div>
         </div>
 </div>
@@ -166,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ahmed_a_o/beyond-the-context-window-building-a-stateful-memory-mcp-server-on-cloudflare-workers-e2k" target="_blank">Beyond the Context Window: Building a Stateful &#x27;Memory&#x27; MCP Server on Cloudflare Workers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-30 07:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/srfdeveloper/the-ultimate-java-setup-guide-2025-install-jdk-on-windows-mac-linux-3cbd" target="_blank">The Ultimate Java Setup Guide (2025): Install JDK on Windows, Mac &amp; Linux</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-30 06:50</span>
@@ -205,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/softwaredeveloperhub01/the-20-most-essential-devops-tools-bridging-the-gap-between-development-and-operations-2m6i" target="_blank">The 20 Most Essential DevOps Tools: Bridging the Gap Between Development and Operations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-30 03:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/cak/elf" target="_blank">elf: Python CLI and library for Advent of Code with input caching and safe submissions</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-30 00:16</span>
             </div>
         </div>
 </div>
@@ -294,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
