@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 13:07:44 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-11-30 14:01:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 13:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/11/30/how-europes-migration-policy-and-arms-empowered-sudans-warlords?traffic_source=rss" target="_blank">How Europe’s migration policy and arms empowered Sudan’s warlords</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-30 13:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,28 +86,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/30/thousands-of-anti-corruption-protesters-in-manila-say-marcos-must-resign?traffic_source=rss" target="_blank">Thousands of anti-corruption protesters in Manila say Marcos must resign</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-30 09:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-wang-fuk-court-hong-kong_7096305.jpg?20251130110847" alt="Death toll in Hong Kong apartment complex fire rises as more bodies found in burned buildings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hong-kong-death-toll-in-apartment-complex-fire-rises-to-146-as-more-bodies-found-in-burned-buildings-13477397" target="_blank">Death toll in Hong Kong apartment complex fire rises as more bodies found in burned buildings</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-11-30 09:27</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/30/nx-s1-5625482/netanyahu-request-pardon-corruption-trial" target="_blank">Netanyahu submits request for a pardon during his ongoing corruption trial</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-30 11:27</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/30/neighbourhoods-buried-under-mud-sri-lanka-floods-death-toll-rises-to-159?traffic_source=rss" target="_blank">‘Neighbourhoods buried under mud’: Sri Lanka floods death toll rises to 159</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/30/thousands-of-anti-corruption-protesters-in-manila-say-marcos-must-resign?traffic_source=rss" target="_blank">Thousands of anti-corruption protesters in Manila say Marcos must resign</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-30 07:30</span>
+                <span class="time">2025-11-30 09:51</span>
             </div>
         </div>
 </div>
@@ -102,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6923cfc5c68e1875e6bc3d16/master/pass/BF%20Our%20Favorite%20Automatic%20Litter%20Box%20for%20Most%20People%20Is%20on%20Sale.png" alt="The Petkit PuraMax 2 Is $100 Off Right Now (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/petkit-puramax-2-black-friday-2025/" target="_blank">The Petkit PuraMax 2 Is $100 Off Right Now (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-30 13:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +160,20 @@
                 <span class="time">2025-11-30 01:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/833697/anker-prime-charger-67w-3-port" target="_blank">Anker’s handy little 3-port charger is just 35 bucks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-29 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shinyakato_/analyzing-psqlrc-settings-on-github-how-postgresql-engineers-configure-postgresql-1b3f" target="_blank">Analyzing psqlrc Settings on GitHub: How PostgreSQL Engineers Configure PostgreSQL</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-30 13:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,20 +219,29 @@
                 <span class="time">2025-11-30 08:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ahmed_a_o/beyond-the-context-window-building-a-stateful-memory-mcp-server-on-cloudflare-workers-e2k" target="_blank">Beyond the Context Window: Building a Stateful &#x27;Memory&#x27; MCP Server on Cloudflare Workers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-30 07:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/marijuana-buds-joint-1280x860.jpg" alt="Cannabis-Induced ‘Scromiting’ Is on the Rise, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cannabis-induced-scromiting-is-on-the-rise-study-finds-2000691530" target="_blank">Cannabis-Induced ‘Scromiting’ Is on the Rise, Study Finds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-30 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/arzopa-15-monitor-portable-1280x853.jpg" alt="Amazon Sells 15.6″ Portable Monitor for Peanuts, FHD Screen Works With Switch and Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-sells-15-6-portable-monitor-for-peanuts-fhd-screen-works-with-switch-and-laptop-2000648886" target="_blank">Amazon Sells 15.6″ Portable Monitor for Peanuts, FHD Screen Works With Switch and Laptop</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-30 13:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/ASUS-Dual-NVIDIA-GeForce-RTX-3050-6GB-OC-Edition-Gaming-Graphics-Card--1280x853.jpg" alt="ASUS Dual NVIDIA RTX 3050 Gaming Graphics Card Returns at an All-Time Low After Selling Out on Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,24 +278,6 @@
                 <span class="time">2025-11-30 03:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/samsung-oled-tv-83-1280x853.jpg" alt="Samsung 83″ OLED S85F 4K Smart TV (2025) at 42% Off, Time to Throw Out Your 65″ and Upgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-83-oled-s85f-4k-smart-tv-2025-at-42-off-time-to-throw-out-your-65-and-upgrade-2000648809" target="_blank">Samsung 83″ OLED S85F 4K Smart TV (2025) at 42% Off, Time to Throw Out Your 65″ and Upgrade</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-30 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/playstation-5-pro-1280x853.jpg" alt="PS5 Sold Out After Black Friday Chaos, Amazon Now Offers PS5 Pro at Record Low This Cyber Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ps5-sold-out-after-black-friday-chaos-amazon-offers-ps5-pro-at-record-low-this-cyber-monday-2000648789" target="_blank">PS5 Sold Out After Black Friday Chaos, Amazon Now Offers PS5 Pro at Record Low This Cyber Monday</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-29 22:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 13:07 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
