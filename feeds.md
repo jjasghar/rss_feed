@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 15:01:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-30 16:01:34 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +51,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/TW-NOEM-20251130-ABC-JH_1764511646327_hpMain_4x3t_384.jpeg" alt="Noem says National Guard shooting suspect could have been radicalized in US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/noem-national-guard-shooting-suspect-radicalized-us/story?id=127977510" target="_blank">Noem says National Guard shooting suspect could have been radicalized in US</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-30 15:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/30/israel-attacks-on-syria-what-happened-who-did-israel-claim-it-was-after?traffic_source=rss" target="_blank">Israel attacks on Syria: What happened, who did Israel claim it was after?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-30 14:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/30/polls-open-in-honduras-presidential-election-marked-by-fraud-accusations?traffic_source=rss" target="_blank">Polls open in Honduras presidential election marked by fraud accusations</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-30 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/30/nx-s1-5604679/drinking-water-pfas-genx-pollution-louisville-epa-chemours" target="_blank">More cities are seeing PFAS pollution in drinking water. Here&#x27;s what Louisville found</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-30 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -69,38 +104,20 @@
                 <span class="time">2025-11-30 13:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/30/nanny-streamed-dramatic-escape-from-hong-kong-apartment-fire-to-warn-other?traffic_source=rss" target="_blank">Nanny streamed dramatic escape from Hong Kong apartment fire to warn other</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-30 12:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f4/live/110dcd30-cd6a-11f0-8c06-f5d460985095.jpg" alt="Death toll from Indonesia flooding rises to 442" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y9ejley9do?at_medium=RSS&at_campaign=rss" target="_blank">Death toll from Indonesia flooding rises to 442</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-30 11:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51a9/live/2df941c0-cdda-11f0-84e3-8b388d01c57d.png" alt="Reeves denies she misled public over UK&#x27;s finances prior to Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyd38gp00eo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves denies she misled public over UK&#x27;s finances prior to Budget</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-30 11:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6923e421c68e1875e6bc3d18/master/pass/Best%20Black%20Friday%20TV%20Deals.png" alt="20 Best Black Friday TV Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-tv-deals-2025-2/" target="_blank">20 Best Black Friday TV Deals (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-30 15:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +163,6 @@
                 <span class="time">2025-11-30 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692a4f34a085970d68c19e32/master/pass/Best%20Black%20Friday%20Christmas%20Trees%20and%20Smart%20Light%20Deals.png" alt="Best Black Friday Christmas Tree Deals (and Lights, Too) of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/black-friday-christmas-tree-deals/" target="_blank">Best Black Friday Christmas Tree Deals (and Lights, Too) of 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-30 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -191,6 +199,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-2025-Q3-Highlights" target="_blank">Sylve Maturing As A FreeBSD Unified Web Management Interface</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-30 12:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-I2C-Drivers-Rust" target="_blank">Linux 6.19 Will Allow You To Write I2C Drivers In Rust</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-30 11:32</span>
@@ -205,20 +222,38 @@
                 <span class="time">2025-11-30 10:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Genode-OS-25.11" target="_blank">Genode OS Framework 25.11 Adds Intel Alder Lake Graphics Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-30 10:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/stranger-things-eleven-1280x853.jpg" alt="So About That Surprise ‘Stranger Things’ Return…" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/so-about-that-surprise-stranger-things-return-2000693498" target="_blank">So About That Surprise ‘Stranger Things’ Return…</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-30 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/dysonv8plus-1280x853.jpg" alt="Dyson Has V11 Vacuum Black Friday Leftovers, Now Near Zero Profit to Clear Stock for Cyber Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dyson-has-v11-vacuum-black-friday-leftovers-now-near-zero-profit-to-clear-stock-for-cyber-monday-2000648918" target="_blank">Dyson Has V11 Vacuum Black Friday Leftovers, Now Near Zero Profit to Clear Stock for Cyber Monday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-30 15:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2019/11/1200px-Benjamin_Netanyahu_portrait.jpg?fit=1200%2C1157&amp;quality=60&amp;ssl=1" alt="Benjamin Netanyahu requests pardon in corruption trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/30/benjamin-netanyahu-requests-pardon-in-corruption-trial.html" target="_blank">Benjamin Netanyahu requests pardon in corruption trial</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-30 14:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/marijuana-buds-joint-1280x860.jpg" alt="Cannabis-Induced ‘Scromiting’ Is on the Rise, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -246,33 +281,6 @@
                 <span class="time">2025-11-30 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/unitree-robot-1280x853.jpg" alt="Humanoid Robot Hype Is Officially Scaring China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/humanoid-robot-hype-is-officially-scaring-china-2000693462" target="_blank">Humanoid Robot Hype Is Officially Scaring China</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-30 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/poco-f8-ultra.jpg?fit=1600%2C1009&amp;quality=60&amp;ssl=1" alt="Poco&#x27;s flagship smartphone comes in denim" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/29/pocos-flagship-smartphone-comes-in-denim.html" target="_blank">Poco&#x27;s flagship smartphone comes in denim</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-30 04:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2365288379.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Black Friday sales down 2%, but cost 10% more" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/29/black-friday-sales-down-2-but-cost-10-more.html" target="_blank">Black Friday sales down 2%, but cost 10% more</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-30 03:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 100 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
