@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 16:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-30 17:01:25 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/" target="_blank">Behind the scenes of drone food delivery in Finland</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-11-30 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6923deca7b8cd84c7d271add/master/pass/The%20Best%20Kindle%20and%20Amazon%20Device%20Black%20Friday%20Deals.png" alt="The Best Amazon Device and Kindle Black Friday Deals (2025): Paperwhite, Scribe, Echo Dot Max" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-device-kindle-black-friday-deals-2025-2/" target="_blank">The Best Amazon Device and Kindle Black Friday Deals (2025): Paperwhite, Scribe, Echo Dot Max</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-30 16:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6923e421c68e1875e6bc3d18/master/pass/Best%20Black%20Friday%20TV%20Deals.png" alt="20 Best Black Friday TV Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -145,29 +157,20 @@
                 <span class="time">2025-11-30 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/jill1-500x500-1764187093.jpg" alt="Revisiting Jill of the Jungle, the last game Tim Sweeney designed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/11/revisiting-jill-of-the-jungle-the-last-game-tim-sweeney-designed/" target="_blank">Revisiting Jill of the Jungle, the last game Tim Sweeney designed</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-11-30 12:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69265661f327312cfe6fb7a8/master/pass/futbol.jpg" alt="Mexico Preps for the 2026 World Cup With a Ticket Resale Platform and a Tourism App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mexico-preps-for-the-2026-world-cup-with-a-ticket-resale-platform-and-a-tourism-app/" target="_blank">Mexico Preps for the 2026 World Cup With a Ticket Resale Platform and a Tourism App</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-30 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/11/google-private-ai-compute-tee/en/headerimage/generatedHeaderImage-1763918783103.jpg" alt="Private AI Compute Enables Google Inference with Hardware Isolation and Ephemeral Data Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/11/google-private-ai-compute-tee/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Private AI Compute Enables Google Inference with Hardware Isolation and Ephemeral Data Design</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-11-30 15:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmwb000r2irj776twcs8t.png" alt="Automating My Daily Workflow with n8n, Python &amp; Gemini AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,20 +216,20 @@
                 <span class="time">2025-11-30 11:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cachyos.org/" target="_blank">CachyOS: Fast and Customizable Linux Distribution</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-30 10:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2465171583.jpg?fit=1000%2C833&amp;quality=60&amp;ssl=1" alt="France&#x27;s far-right leader floured and egged" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/30/frances-far-right-leader-floured-and-egged.html" target="_blank">France&#x27;s far-right leader floured and egged</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-30 16:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/stranger-things-eleven-1280x853.jpg" alt="So About That Surprise ‘Stranger Things’ Return…" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,36 +275,13 @@
                 <span class="time">2025-11-30 13:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/ASUS-Dual-NVIDIA-GeForce-RTX-3050-6GB-OC-Edition-Gaming-Graphics-Card--1280x853.jpg" alt="ASUS Dual NVIDIA RTX 3050 Gaming Graphics Card Returns at an All-Time Low After Selling Out on Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/asus-dual-nvidia-rtx-3050-gaming-graphics-card-returns-at-an-all-time-low-after-selling-out-on-black-friday-2000647705" target="_blank">ASUS Dual NVIDIA RTX 3050 Gaming Graphics Card Returns at an All-Time Low After Selling Out on Black Friday</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-30 13:05</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1764385189-20251129_edit.png" alt="Saturday Morning Breakfast Cereal - Vat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/vat" target="_blank">Saturday Morning Breakfast Cereal - Vat</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-29 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 100 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 100 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
