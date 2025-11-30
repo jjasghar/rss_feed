@@ -1,13 +1,17 @@
-<!-- Processing 54 RSS feeds at 2025-11-29 23:02:14 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-30 00:05:46 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
@@ -15,26 +19,23 @@
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 1 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, November 29, 2025 - 23:02 UTC</div>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +58,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/11/29/what-next-for-ukraine-after-president-zelenskyys-top-aide-quits?traffic_source=rss" target="_blank">What next for Ukraine after President Zelenskyy’s top aide quits?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-29 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/ice-arrest-05-gty-jt-251129_1764448420604_hpMain_4x3t_384.jpg" alt="Protesters arrested in NYC over possible ICE-related activity near Chinatown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/protesters-arrested-nyc-ice-related-activity-chinatown/story?id=127968220" target="_blank">Protesters arrested in NYC over possible ICE-related activity near Chinatown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-29 21:44</span>
             </div>
         </div>
 <div class="story">
@@ -93,15 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/upfront/2025/11/29/us-whistleblower-exposes-biden-administrations-israel-cover-up?traffic_source=rss" target="_blank">US whistleblower exposes Biden administration’s Israel cover-up</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-29 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebce/live/5c3f61d0-cd54-11f0-9fb5-5f3a3703a365.jpg" alt="Sir Tom Stoppard, playwright famed for his wit and depth, dies at 88" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c74xe49q7vlo?at_medium=RSS&at_campaign=rss" target="_blank">Sir Tom Stoppard, playwright famed for his wit and depth, dies at 88</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-29 19:02</span>
             </div>
         </div>
 </div>
@@ -300,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
