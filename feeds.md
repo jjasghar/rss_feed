@@ -1,37 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 01:30:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-30 02:36:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 01:30 UTC</div>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 02:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/30/bangladeshs-khaleda-zia-hospitalised-in-very-critical-condition?traffic_source=rss" target="_blank">Bangladesh’s Khaleda Zia hospitalised in ‘very critical’ condition</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-30 02:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/travis-turner-1-ht-gmh-251124_1764014220147_hpMain_4x3t_384.jpg" alt="Missing coach wanted on child sex abuse material charges left with gun: Family" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/missing-virginia-football-coach-wanted-child-sexual-abuse/story?id=127971375" target="_blank">Missing coach wanted on child sex abuse material charges left with gun: Family</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-11-30 01:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/11/29/nx-s1-5624964/northwestern-trump-funding-settlement" target="_blank">Northwestern settles with Trump administration in $75M deal to regain federal funding</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-29 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e3e/live/70ac8f80-cd45-11f0-b610-cf72bc71edf9.jpg" alt="Venezuela calls Trump airspace closure warning &#x27;colonialist threat&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss" target="_blank">Venezuela calls Trump airspace closure warning &#x27;colonialist threat&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-29 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/29/pope-leo-visits-blue-mosque-in-turkiyes-istanbul?traffic_source=rss" target="_blank">Pope Leo visits Blue Mosque in Turkiye’s Istanbul</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-29 20:02</span>
             </div>
         </div>
 </div>
@@ -186,6 +178,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bazzite.gg/" target="_blank">Bazzite: The next generation of Linux gaming</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-11-29 22:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-57ih" target="_blank">CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less</a></span>
                 <span class="feed">DEV Community</span>
@@ -208,15 +209,6 @@
                 <span class="title"><a href="https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/" target="_blank">All it takes is for one to work out</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-29 20:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/reubenwalker64/symfony-station-communique-stardate-28-november-2025-3ibo" target="_blank">Symfony Station Communiqué - ✦ Stardate: 28 November 2025 ✦</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-29 19:38</span>
             </div>
         </div>
 </div>
@@ -297,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 02:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
