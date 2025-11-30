@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 12:02:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-11-30 13:07:44 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 13:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/11/30/nanny-streamed-dramatic-escape-from-hong-kong-apartment-fire-to-warn-other?traffic_source=rss" target="_blank">Nanny streamed dramatic escape from Hong Kong apartment fire to warn other</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-30 12:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f4/live/110dcd30-cd6a-11f0-8c06-f5d460985095.jpg" alt="Death toll from Indonesia flooding rises to 442" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,20 +97,29 @@
                 <span class="time">2025-11-30 07:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/30/four-dead-after-14-people-shot-at-childs-birthday-party-in-california?traffic_source=rss" target="_blank">Four dead after 14 people shot at child’s birthday party in California</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-30 06:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/829831/indie-web-geocities-neocities" target="_blank">The indie web is here to make the internet weird again</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-11-30 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/jill1-500x500-1764187093.jpg" alt="Revisiting Jill of the Jungle, the last game Tim Sweeney designed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/11/revisiting-jill-of-the-jungle-the-last-game-tim-sweeney-designed/" target="_blank">Revisiting Jill of the Jungle, the last game Tim Sweeney designed</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-11-30 12:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69265661f327312cfe6fb7a8/master/pass/futbol.jpg" alt="Mexico Preps for the 2026 World Cup With a Ticket Resale Platform and a Tourism App" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,24 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/833697/anker-prime-charger-67w-3-port" target="_blank">Anker’s handy little 3-port charger is just 35 bucks</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-11-29 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69276529097f2a0eaceef112/master/pass/wired_absolutebest.jpg" alt="169 Best Black Friday Deals 2025: Everything Tested and Actually Discounted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/black-friday-deals-2025-2/" target="_blank">169 Best Black Friday Deals 2025: Everything Tested and Actually Discounted</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-29 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/" target="_blank">Airbus orders software fix to thousands of planes due to solar radiation risk</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-29 22:03</span>
             </div>
         </div>
 </div>
@@ -230,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/ASUS-Dual-NVIDIA-GeForce-RTX-3050-6GB-OC-Edition-Gaming-Graphics-Card--1280x853.jpg" alt="ASUS Dual NVIDIA RTX 3050 Gaming Graphics Card Returns at an All-Time Low After Selling Out on Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/asus-dual-nvidia-rtx-3050-gaming-graphics-card-returns-at-an-all-time-low-after-selling-out-on-black-friday-2000647705" target="_blank">ASUS Dual NVIDIA RTX 3050 Gaming Graphics Card Returns at an All-Time Low After Selling Out on Black Friday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-30 13:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/unitree-robot-1280x853.jpg" alt="Humanoid Robot Hype Is Officially Scaring China" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -274,15 +274,6 @@
                 <span class="time">2025-11-29 22:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Avatar-3-Varang-fire-1280x853.jpg" alt="James Cameron Has a Backup Plan for ‘Avatar’ If ‘Fire &amp; Ash’ Flops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/james-cameron-has-a-backup-plan-for-avatar-if-fire-ash-flops-2000693222" target="_blank">James Cameron Has a Backup Plan for ‘Avatar’ If ‘Fire &amp; Ash’ Flops</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-29 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 13:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
