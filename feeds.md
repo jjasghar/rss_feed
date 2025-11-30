@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 19:01:23 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-11-30 20:01:38 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/30/merino-strikes-to-earn-arsenal-bruising-1-1-draw-at-10-man-chelsea?traffic_source=rss" target="_blank">Merino strikes to earn Arsenal bruising 1-1 draw against 10-man Chelsea</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-30 18:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f098/live/b2dcd6d0-cdfe-11f0-9fb5-5f3a3703a365.png" alt="Reeves denies she misled public over UK&#x27;s finances in run-up to Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +98,20 @@
                 <span class="time">2025-11-30 14:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/11/30/polls-open-in-honduras-presidential-election-marked-by-fraud-accusations?traffic_source=rss" target="_blank">Polls open in Honduras presidential election marked by fraud accusations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-30 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/691b6877c12618cd902a14a4/master/pass/Our%20Favorite%20Compact%20Soundbar%20Is%20$100%20Off.png" alt="The Best Black Friday Soundbar Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-soundbar-deals-2025/" target="_blank">The Best Black Friday Soundbar Deals</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-30 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d433f6f60ab0ab6a5799dc/master/pass/The%20Best%20Bed%20Frames%20We%E2%80%99ve%20Slept%20On.png" alt="Best Thuma Black Friday Deal: Signature Bed Frame (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +157,20 @@
                 <span class="time">2025-11-30 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6923cfc5c68e1875e6bc3d16/master/pass/BF%20Our%20Favorite%20Automatic%20Litter%20Box%20for%20Most%20People%20Is%20on%20Sale.png" alt="The Petkit PuraMax 2 Is $100 Off Right Now (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/petkit-puramax-2-black-friday-2025/" target="_blank">The Petkit PuraMax 2 Is $100 Off Right Now (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-30 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4pjc" target="_blank">CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-30 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +216,6 @@
                 <span class="time">2025-11-30 13:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://adventofcode.com/2025/about" target="_blank">Advent of Code 2025</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-30 13:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -226,6 +228,15 @@
                 <span class="title"><a href="https://gizmodo.com/how-solar-flares-could-have-corrupted-an-airbus-plane-2000693690" target="_blank">How Solar Flares Could Have Corrupted An Airbus Plane</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-11-30 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAH5Y98AK30APR713J5SXFJM/hero-image.jpg" alt="Cyber Monday Fitness Deals Live Blog 2025: The Best Sales on Smart Watches, Gym Equipment, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/black-friday-cyber-monday-fitness-deals-11-30-2025-live-blog?utm_medium=RSS" target="_blank">Cyber Monday Fitness Deals Live Blog 2025: The Best Sales on Smart Watches, Gym Equipment, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-11-30 17:57</span>
             </div>
         </div>
 <div class="story">
@@ -264,15 +275,6 @@
                 <span class="time">2025-11-30 15:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2019/11/1200px-Benjamin_Netanyahu_portrait.jpg?fit=1200%2C1157&amp;quality=60&amp;ssl=1" alt="Benjamin Netanyahu requests pardon in corruption trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/30/benjamin-netanyahu-requests-pardon-in-corruption-trial.html" target="_blank">Benjamin Netanyahu requests pardon in corruption trial</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-30 14:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
