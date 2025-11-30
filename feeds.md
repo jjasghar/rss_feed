@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 03:28:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-30 04:11:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 04:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -173,6 +172,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohantammineni/jutro-digital-platform-guidewires-secret-sauce-for-modern-insurance-apps-4j2e" target="_blank">Jutro Digital Platform — Guidewire’s Secret Sauce for Modern Insurance Apps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-30 04:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/softwaredeveloperhub01/the-20-most-essential-devops-tools-bridging-the-gap-between-development-and-operations-2m6i" target="_blank">The 20 Most Essential DevOps Tools: Bridging the Gap Between Development and Operations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-11-30 03:12</span>
@@ -214,20 +222,29 @@
                 <span class="time">2025-11-29 22:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Solus-4.8-Released" target="_blank">Solus Linux 4.8 Released With Python 2 Finally Removed, Abandons Solus Software Center</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-29 20:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2365288379.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Black Friday sales down 2%, but cost 10% more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/29/black-friday-sales-down-2-but-cost-10-more.html" target="_blank">Black Friday sales down 2%, but cost 10% more</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-11-30 03:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/samsung-oled-tv-83-1280x853.jpg" alt="Samsung 83″ OLED S85F 4K Smart TV (2025) at 42% Off, Time to Throw Out Your 65″ and Upgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-83-oled-s85f-4k-smart-tv-2025-at-42-off-time-to-throw-out-your-65-and-upgrade-2000648809" target="_blank">Samsung 83″ OLED S85F 4K Smart TV (2025) at 42% Off, Time to Throw Out Your 65″ and Upgrade</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-30 01:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/playstation-5-pro-1280x853.jpg" alt="PS5 Sold Out After Black Friday Chaos, Amazon Now Offers PS5 Pro at Record Low This Cyber Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +281,6 @@
                 <span class="time">2025-11-29 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/10-digital-picture-frame-1280x853.jpg" alt="Digital Picture Frame Hits 55% Off on Amazon, 60K Photo Storage Cheaper Than Basic Wall Frames Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/digital-picture-frame-hits-55-off-on-amazon-60k-photo-storage-cheaper-than-basic-wall-frames-now-2000648754" target="_blank">Digital Picture Frame Hits 55% Off on Amazon, 60K Photo Storage Cheaper Than Basic Wall Frames Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-29 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/star-wars-starfighter-ryan-gosling-1280x853.jpg" alt="Shawn Levy Teases the Music of ‘Star Wars: Starfighter’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/shawn-levy-teases-the-music-of-star-wars-starfighter-2000693232" target="_blank">Shawn Levy Teases the Music of ‘Star Wars: Starfighter’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-29 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 04:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
