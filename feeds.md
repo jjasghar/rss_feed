@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 17:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-30 18:02:12 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f098/live/b2dcd6d0-cdfe-11f0-9fb5-5f3a3703a365.png" alt="Reeves denies she misled public over UK&#x27;s finances in run-up to Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyd38gp00eo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves denies she misled public over UK&#x27;s finances in run-up to Budget</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-30 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/30/isak-scores-first-goal-as-liverpool-defeat-west-ham-in-premier-league?traffic_source=rss" target="_blank">Isak scores first goal as Liverpool defeat West Ham in Premier League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-11-30 17:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/TW-NOEM-20251130-ABC-JH_1764511646327_hpMain_4x3t_384.jpeg" alt="Noem says National Guard shooting suspect could have been radicalized in US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/30/nx-s1-5604679/drinking-water-pfas-genx-pollution-louisville-epa-chemours" target="_blank">More cities are seeing PFAS pollution in drinking water. Here&#x27;s what Louisville found</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-11-30 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_11/1764510900804_mtp_full_noem_251130_1920x1080-qwyn4p.jpg" alt="Kristi Noem blames Biden Afghanistan ‘abandonment’ for National Guard shooting: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/kristi-noem-blames-biden-afghanistan-abandonment-for-national-guard-shooting-full-interview-253308485652" target="_blank">Kristi Noem blames Biden Afghanistan ‘abandonment’ for National Guard shooting: Full interview</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-11-30 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/11/30/how-europes-migration-policy-and-arms-empowered-sudans-warlords?traffic_source=rss" target="_blank">How Europe’s migration policy and arms empowered Sudan’s warlords</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-30 13:36</span>
             </div>
         </div>
 </div>
@@ -163,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Features-Expected" target="_blank">Features Expected For Linux 6.19: ASUS Armoury, Many Intel Bits, AMD GCN 1.0/1.1 Enhanced</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-30 16:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/11/google-private-ai-compute-tee/en/headerimage/generatedHeaderImage-1763918783103.jpg" alt="Private AI Compute Enables Google Inference with Hardware Isolation and Ephemeral Data Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -207,20 +219,20 @@
                 <span class="time">2025-11-30 12:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-I2C-Drivers-Rust" target="_blank">Linux 6.19 Will Allow You To Write I2C Drivers In Rust</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-30 11:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/Eureka-J15-Ultra-1280x853.jpg" alt="Clean Up on the Still-Alive Black Friday Deals at Eureka and Save Big On These Five Powerhouse Vacuums" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/clean-up-on-the-black-friday-deals-at-eureka-and-save-big-on-these-five-powerhouse-vacuums-2000684873" target="_blank">Clean Up on the Still-Alive Black Friday Deals at Eureka and Save Big On These Five Powerhouse Vacuums</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-30 17:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/shutterstock_2465171583.jpg?fit=1000%2C833&amp;quality=60&amp;ssl=1" alt="France&#x27;s far-right leader floured and egged" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,22 +278,13 @@
                 <span class="time">2025-11-30 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/arzopa-15-monitor-portable-1280x853.jpg" alt="Amazon Sells 15.6″ Portable Monitor for Peanuts, FHD Screen Works With Switch and Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-sells-15-6-portable-monitor-for-peanuts-fhd-screen-works-with-switch-and-laptop-2000648886" target="_blank">Amazon Sells 15.6″ Portable Monitor for Peanuts, FHD Screen Works With Switch and Laptop</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-11-30 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 100 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
