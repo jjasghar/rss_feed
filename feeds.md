@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 18:02:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-30 19:01:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +61,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63c8/live/ec2e8510-ce07-11f0-8c06-f5d460985095.jpg" alt="Indonesia searches for hundreds missing in deadly floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyz82z7p8zo?at_medium=RSS&at_campaign=rss" target="_blank">Indonesia searches for hundreds missing in deadly floods</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-11-30 16:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/TW-NOEM-20251130-ABC-JH_1764511646327_hpMain_4x3t_384.jpeg" alt="Noem says National Guard shooting suspect could have been radicalized in US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -92,20 +96,20 @@
                 <span class="time">2025-11-30 14:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/11/30/nx-s1-5604679/drinking-water-pfas-genx-pollution-louisville-epa-chemours" target="_blank">More cities are seeing PFAS pollution in drinking water. Here&#x27;s what Louisville found</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-30 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d433f6f60ab0ab6a5799dc/master/pass/The%20Best%20Bed%20Frames%20We%E2%80%99ve%20Slept%20On.png" alt="Best Thuma Black Friday Deal: Signature Bed Frame (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/thuma-black-friday-deals-2025/" target="_blank">Best Thuma Black Friday Deal: Signature Bed Frame (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-30 18:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +155,20 @@
                 <span class="time">2025-11-30 13:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/829831/indie-web-geocities-neocities" target="_blank">The indie web is here to make the internet weird again</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-30 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/a1k7/fighting-the-macos-file-system-how-i-built-a-cross-platform-organizer-in-python-3icf" target="_blank">Fighting the macOS File System: How I built a cross-platform organizer in Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-30 18:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,20 +214,20 @@
                 <span class="time">2025-11-30 13:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-2025-Q3-Highlights" target="_blank">Sylve Maturing As A FreeBSD Unified Web Management Interface</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-30 12:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/shutterstock_2509056937-1280x720.jpg" alt="How Solar Flares Could Have Corrupted An Airbus Plane" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-solar-flares-could-have-corrupted-an-airbus-plane-2000693690" target="_blank">How Solar Flares Could Have Corrupted An Airbus Plane</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-11-30 18:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/Eureka-J15-Ultra-1280x853.jpg" alt="Clean Up on the Still-Alive Black Friday Deals at Eureka and Save Big On These Five Powerhouse Vacuums" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,13 +273,18 @@
                 <span class="time">2025-11-30 14:03</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/marijuana-buds-joint-1280x860.jpg" alt="Cannabis-Induced ‘Scromiting’ Is on the Rise, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1764385265-20251130_edit.png" alt="Saturday Morning Breakfast Cereal - Construction" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cannabis-induced-scromiting-is-on-the-rise-study-finds-2000691530" target="_blank">Cannabis-Induced ‘Scromiting’ Is on the Rise, Study Finds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-30 14:00</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/construction" target="_blank">Saturday Morning Breakfast Cereal - Construction</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-11-30 16:20</span>
             </div>
         </div>
 </div>
@@ -283,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
