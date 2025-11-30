@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 08:02:10 UTC -->
+<!-- Processing 54 RSS feeds at 2025-11-30 09:01:59 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, November 30, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -64,6 +61,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/30/nx-s1-5625453/4-dead-shooting-banquet-hall-stockton-california" target="_blank">4 dead and 10 wounded in shooting at banquet hall in Stockton, California</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-30 06:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/CaliforniaShooting_1764482538480_hpMain_4x3t_384.jpg" alt="4 dead, 10 wounded in shooting at California banquet hall: Sheriff&#x27;s office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -88,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/11/30/tens-of-thousands-march-in-europe-denouncing-israels-genocide-in-gaza?traffic_source=rss" target="_blank">Tens of thousands rally in Europe, demanding justice over Israel’s Gaza war</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-30 04:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d1/live/ed524500-cd8d-11f0-8c06-f5d460985095.jpg" alt="Starmer to back Budget after Reeves accused of misleading public" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crrkdw2xy28o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to back Budget after Reeves accused of misleading public</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-30 02:47</span>
             </div>
         </div>
 </div>
@@ -164,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyz5tzgcdbl72p5utom2k.png" alt="🌱 Day 1 — Introduction to Terraform | 30 Days Terraform Challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lalit192977/day-1-introduction-to-terraform-30-days-terraform-challenge-1jj8" target="_blank">🌱 Day 1 — Introduction to Terraform | 30 Days Terraform Challenge</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-11-30 08:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +212,6 @@
                 <span class="title"><a href="https://boing.greg.technology/" target="_blank">Show HN: Boing</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-11-30 03:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/softwaredeveloperhub01/the-20-most-essential-devops-tools-bridging-the-gap-between-development-and-operations-2m6i" target="_blank">The 20 Most Essential DevOps Tools: Bridging the Gap Between Development and Operations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-30 03:12</span>
             </div>
         </div>
 </div>
@@ -295,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
