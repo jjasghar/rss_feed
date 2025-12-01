@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 02:43:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-01 03:31:39 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 02:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 03:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -64,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/CaliforniaShooting_1764482538480_hpMain_4x3t_384.jpg" alt="3 children among 4 people killed in banquet hall shooting: Sheriff&#x27;s office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/4-dead-10-wounded-after-shooting-california-banquet/story?id=127972958" target="_blank">3 children among 4 people killed in banquet hall shooting: Sheriff&#x27;s office</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-01 01:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -90,20 +99,20 @@
                 <span class="time">2025-11-30 22:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/nov/30/african-leaders-push-for-recognition-of-colonial-crimes-and-reparations" target="_blank">African leaders push for recognition of colonial crimes and reparations</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-11-30 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025" target="_blank">Here are 50 standout deals under $100 we’re eyeing for Cyber Monday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-01 03:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/black-friday-tech-deals-2025/" target="_blank">30 Best Cyber Monday Tech Deals (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-30 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/" target="_blank">ChatGPT launched three years ago today</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-11-30 20:14</span>
             </div>
         </div>
 </div>
@@ -223,6 +223,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/fitbit-charge-6-1280x853.jpg" alt="Amazon Goes Full Liquidation on Fitbit Charge 6, Now at Record Low for Cyber Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-goes-full-liquidation-on-fitbit-charge-6-now-at-record-low-for-cyber-monday-2000648957" target="_blank">Amazon Goes Full Liquidation on Fitbit Charge 6, Now at Record Low for Cyber Monday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-01 01:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Maclock.-Image-Kokogol.com_.jpg?fit=1080%2C796&amp;quality=60&amp;ssl=1" alt="Maclock is a clock that looks like an original Macintosh" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -267,20 +276,20 @@
                 <span class="time">2025-11-30 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/ahsoka-nightsister-klothow-1280x853.jpg" alt="Claudia Black Exits ‘Ahsoka’ Season 2 Over Alleged Pay Disputes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/claudia-black-exits-ahsoka-season-2-over-alleged-pay-disputes-2000693543" target="_blank">Claudia Black Exits ‘Ahsoka’ Season 2 Over Alleged Pay Disputes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-30 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5710.png" alt="Amber Is The Color" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5712" target="_blank">Amber Is The Color</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-12-01 01:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1764385265-20251130_edit.png" alt="Saturday Morning Breakfast Cereal - Construction" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 02:44 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 03:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
