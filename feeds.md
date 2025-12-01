@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 18:01:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-01 19:04:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 31 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 19:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-main_1764586696967_hpMain_4x3t_384.jpg" alt="Trump admin live updates: WH says Adm. Bradley gave order on 2nd drug boat strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=127993391" target="_blank">Trump admin live updates: WH says Adm. Bradley gave order on 2nd drug boat strike</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-01 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c3/live/08b81600-cee5-11f0-8c06-f5d460985095.jpg" alt="OBR head resigns over Budget day publishing error" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd74v35p77jo?at_medium=RSS&at_campaign=rss" target="_blank">OBR head resigns over Budget day publishing error</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-01 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/01/nx-s1-5626743/white-house-holiday-tours-east-wing" target="_blank">After East Wing demolition, White House tours are back just in time for the holidays</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-01 18:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6085/live/8f3b6d70-cebe-11f0-9fb5-5f3a3703a365.jpg" alt="Starmer says he is proud of Budget as he denies misleading public" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,33 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/01/g-s1-99892/austria-nuns-convent-vatican" target="_blank">Austria&#x27;s rebel nuns refuse to give up Instagram to stay in their convent</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-01 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/01/south-africans-court-alleged-recruitment-russia-war-ukraine" target="_blank">Five South Africans in court over alleged recruitment for Russia’s war in Ukraine</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-01 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-10/241023-ozempic-vl-1233p-6ebfba.jpg" alt="WHO recommends GLP-1 drugs for obesity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/health/health-news/recommends-glp-1-drugs-obesity-rcna245919" target="_blank">WHO recommends GLP-1 drugs for obesity</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-01 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/national-guard-6-rt-er-251127_1764254945234_hpMain_2_4x3t_384.jpg" alt="National Guardsmen shooting suspect: Afghan commander&#x27;s death, financial woes surface" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/death-afghan-commander-financial-stress-surface-national-guard/story?id=127991010" target="_blank">National Guardsmen shooting suspect: Afghan commander&#x27;s death, financial woes surface</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-01 12:30</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-GCC-Managed-Memory" target="_blank">AMD GPU Managed Memory Support Merged For The GCC 16 Compiler</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-01 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jbrec.com/insights/job-growth-housing-demand-metro-analysis-2026/" target="_blank">High-income job losses are cooling housing demand</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-01 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-qualcomm-dragonwing-iq9075" target="_blank">Canonical announces general availability of Ubuntu on Qualcomm Dragonwing™ IQ-9075 platform</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-12-01 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F501q7geay49mze9yn15u.png" alt="HackerRank &#x27;The Pads&#x27; MySQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -178,48 +201,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/" target="_blank">How to orchestrate agents using mission control</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-12-01 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3585818%2Fbd1ab422-577a-45e3-99cb-f838f37f72ad.png" alt="3D-Agent and Blender-MCP: Both Amazing Blender AI Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/glglgl/3d-agent-and-blender-mcp-both-amazing-blender-ai-tools-4o7n" target="_blank">3D-Agent and Blender-MCP: Both Amazing Blender AI Tools</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-01 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/09/pi-5-color.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi 5 1GB Launched, Other Models See Price Hikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/raspberry-pi-5-1gb-announced" target="_blank">Raspberry Pi 5 1GB Launched, Other Models See Price Hikes</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-01 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sbotto/how-time-machine-saved-my-life-1p34" target="_blank">How Time Machine saved my life*</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-01 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18778848&w=600" alt="Shield Your Nonprofit: How to Tackle Ransomware Attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/shield-nonprofit-tackle-ransomware" target="_blank">Shield Your Nonprofit: How to Tackle Ransomware Attacks</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-01 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Rust" target="_blank">Rust Updates For Linux 6.19, Rust Minimum Baseline To Likely Follow Debian Stable</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-01 15:39</span>
             </div>
         </div>
 </div>
@@ -241,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/image-10.jpg" alt="A Terrible AI Song About Charlie Kirk Is Infecting The Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/we-are-charlie-kirk-song-ai-videos-memes-kirkify-jokes-2000649211" target="_blank">A Terrible AI Song About Charlie Kirk Is Infecting The Internet</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-01 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/banana-fish-anime-mappa-1280x853.jpg" alt="Amazon’s Atrocious AI Anime Dubs Are a Dark Sign of Things to Come" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazon-anime-ai-dub-banana-fish-no-game-no-life-2000693962" target="_blank">Amazon’s Atrocious AI Anime Dubs Are a Dark Sign of Things to Come</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-01 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HB2M5RT6ZKFFZ5M4ERWSH/hero-image.jpg" alt="How to Tell If a Black Friday or Cyber Monday Deal Is Just Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-to-tell-black-friday-cyber-monday-2025-deal-is-actually-good?utm_medium=RSS" target="_blank">How to Tell If a Black Friday or Cyber Monday Deal Is Just Hype</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-01 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/image-10-1280x719.jpg" alt="Marvel Cosmic Invasion: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,33 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/airpods-pro-2-are-nearly-half-off-for-cyber-monday-2025?utm_medium=RSS" target="_blank">The AirPods Pro 2 Are Nearly Half Off for Cyber Monday 2025</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-01 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/velcro.jpg?fit=1200%2C837&amp;quality=60&amp;ssl=1" alt="Swiss engineer&#x27;s dog walk led to Velcro breakthrough in 1941 (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/01/swiss-engineers-dog-walk-led-to-velcro-breakthrough-in-1941-video.html" target="_blank">Swiss engineer&#x27;s dog walk led to Velcro breakthrough in 1941 (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-01 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KATQBZ9TT9TP11JK277Z4R2Y/hero-image.png" alt="This Cyber Monday Deal Cuts the 15-Inch M2 MacBook Air to 40% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/m2-macbook-air-stacksocial-black-friday-cyber-monday-deal-2025?utm_medium=RSS" target="_blank">This Cyber Monday Deal Cuts the 15-Inch M2 MacBook Air to 40% Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-01 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/sonos-era-100-1280x853.jpg" alt="Sonos Quietly Offloads Era 100 for Cyber Monday, WiFi and Bluetooth Compatible Speaker at Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sonos-quietly-offloads-era-100-for-cyber-monday-wifi-and-bluetooth-compatible-speaker-at-record-low-2000649099" target="_blank">Sonos Quietly Offloads Era 100 for Cyber Monday, WiFi and Bluetooth Compatible Speaker at Record Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-01 13:50</span>
             </div>
         </div>
 </div>
@@ -332,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 19:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
