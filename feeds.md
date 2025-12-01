@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 08:02:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-12-01 09:03:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 1 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/1/drone-video-shows-devastation-from-floods-in-indonesias-sumatra?traffic_source=rss" target="_blank">Drone video shows devastation from floods in Indonesia’s Sumatra</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-01 07:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +89,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgk1l4lrrdo?at_medium=RSS&at_campaign=rss" target="_blank">Special Forces heads suppressed SAS war crime evidence, inquiry hears</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-01 01:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/792e/live/dc6c9780-ce38-11f0-b0ac-d13c1508eb1d.jpg" alt="SAS war crime evidence suppressed, inquiry hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgk1l4lrrdo?at_medium=RSS&at_campaign=rss" target="_blank">SAS war crime evidence suppressed, inquiry hears</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-01 01:33</span>
             </div>
@@ -308,7 +299,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 08:02 UTC
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
