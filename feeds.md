@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 10:02:13 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-01 11:01:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/1/over-1600-sudanese-civilians-flee-south-kordofan-in-single-day?traffic_source=rss" target="_blank">More than 1,600 people flee Sudan’s South Kordofan in single day</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-01 10:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/putin-main_1764578791428_hpMain_4x3t_384.jpg" alt="After US-Ukraine meeting in Florida, focus shifts to Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,30 +77,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-sri-lanka-flood-flooding_7097228.jpg?20251201072525" alt="Rescue efforts continue across south of Asia as floods death toll climbs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/rescue-efforts-continue-across-south-of-asia-as-floods-death-toll-climbs-13477761" target="_blank">Rescue efforts continue across south of Asia as floods death toll climbs</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-01 07:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/1/live-over-900-killed-in-floods-in-indonesia-malaysia-thailand-sri-lanka?traffic_source=rss" target="_blank">LIVE: Over 900 killed in floods in Indonesia, Sri Lanka, Thailand, Malaysia</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-01 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/1/live-over-900-killed-in-floods-in-indonesia-malaysia-thailand-sri-lanka?traffic_source=rss" target="_blank">LIVE: Over 900 killed in floods in Indonesia, Malaysia, Thailand, Sri Lanka</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-01 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/1/russia-ukraine-war-list-of-key-events-day-1376?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,376</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-01 02:53</span>
             </div>
         </div>
 </div>
@@ -169,6 +159,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/podcasts/looking-root-causes-false-path/en/smallimage/the-infoq-podcast-logo-thumbnail-1756468716063.jpg" alt="Podcast: Looking for Root Causes is a False Path: A Conversation with David Blank-Edelman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/looking-root-causes-false-path/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Looking for Root Causes is a False Path: A Conversation with David Blank-Edelman</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-01 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/linux-kernel-6-18/" target="_blank">&quot;Less Bugfixing Noise&quot;: Last Kernel Release of 2025 is Here and it Could be an LTS</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-12-01 10:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -204,29 +212,20 @@
                 <span class="time">2025-12-01 04:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tegabrain.com/Slop-Evader" target="_blank">Search tool that only returns content created before ChatGPT&#x27;s public release</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-01 04:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/java-news-roundup-nov24-2025/en/headerimage/java-istock-image-01-1764535539330.jpg" alt="Java News Roundup: Spring Cloud, Quarkus, Hibernate ORM, JobRunr, LangChain4j, Java Operator SDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/java-news-roundup-nov24-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Spring Cloud, Quarkus, Hibernate ORM, JobRunr, LangChain4j, Java Operator SDK</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-01 02:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/packages-1280x836.jpg" alt="Black Friday Set a Record Even As In-Person Sales Slumped" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/black-friday-set-a-record-even-as-in-person-sales-slumped-2000693764" target="_blank">Black Friday Set a Record Even As In-Person Sales Slumped</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-01 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/david-sacks-1280x853.jpg" alt="438 Reasons to Doubt that David Sacks Should Work for the Federal Government" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +271,6 @@
                 <span class="time">2025-11-30 23:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Image-Tangent.jpg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="Speaker that fits in Ikea Kallax shelves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/11/30/speaker-that-fits-in-ikea-kallax-shelves.html" target="_blank">Speaker that fits in Ikea Kallax shelves</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-11-30 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
