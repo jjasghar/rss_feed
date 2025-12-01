@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-11-30 23:01:19 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-01 00:06:04 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, November 30, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/30/nx-s1-5626173/rubens-painting-sells-for-2-7-million-at-auction" target="_blank">Lost for over 400 years, Rubens painting sells for $2.7 million at auction</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-11-30 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +103,29 @@
                 <span class="time">2025-11-30 18:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/30/isak-scores-first-goal-as-liverpool-defeat-west-ham-in-premier-league?traffic_source=rss" target="_blank">Isak scores first goal as Liverpool defeat West Ham in Premier League</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-30 17:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025" target="_blank">The absolute best Cyber Monday deals you can already shop</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-01 00:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69299e46677a25ec29d6a4ab/master/pass/sc01_25_MoonSwatch_SO33W701L_december_close-up%20Earthphase_Moonphase.jpg" alt="Swatch MoonSwatch Mission To Earthphase Moonshine Gold Cold Moon: Price, Specs, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/every-model-of-this-new-snoopy-moonswatch-is-different-and-you-can-only-get-one-when-it-snows/" target="_blank">Swatch MoonSwatch Mission To Earthphase Moonshine Gold Cold Moon: Price, Specs, Availability</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-11-30 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +162,29 @@
                 <span class="time">2025-11-30 20:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/834064/echo-frames-cyber-monday-deal-echo-spot" target="_blank">This deal on smart glasses was too good for my husband to pass up</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-11-30 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691b6877c12618cd902a14a4/master/pass/Our%20Favorite%20Compact%20Soundbar%20Is%20$100%20Off.png" alt="The Best Black Friday Soundbar Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/black-friday-soundbar-deals-2025/" target="_blank">The Best Black Friday Soundbar Deals</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-30 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://docs.astral.sh/ty/" target="_blank">ty - Python type checker</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-11-30 23:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Released" target="_blank">Linux 6.18 Released With Many New Features, Likely This Year&#x27;s LTS Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-11-30 23:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,29 +221,20 @@
                 <span class="time">2025-11-30 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F84j220jg0z1o4445d9mc.png" alt="Enshittification: Why I’m leaving dev.to" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/autonomousapps/enshittification-why-im-leaving-devto-3npn" target="_blank">Enshittification: Why I’m leaving dev.to</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-30 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NixOS-25.11-Released" target="_blank">NixOS 25.11 Released With 7,002 New Packages Added</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-30 20:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/roborock-q7-m5plus-1280x853.jpg" alt="Roborock Q7 Max+ With 9 Weeks Self-Empty Crashes to Record Low, Cyber Monday Goes Zero Profit for Final Clearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/roborock-q7-max-with-9-weeks-self-empty-crashes-to-record-low-cyber-monday-goes-zero-profit-for-final-clearance-2000648933" target="_blank">Roborock Q7 Max+ With 9 Weeks Self-Empty Crashes to Record Low, Cyber Monday Goes Zero Profit for Final Clearance</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-11-30 23:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Image-Tangent.jpg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="Speaker that fits in Ikea Kallax shelves" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +280,6 @@
                 <span class="time">2025-11-30 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/Eureka-J15-Ultra-1280x853.jpg" alt="Clean Up on the Still-Alive Black Friday Deals at Eureka and Save Big On These Five Powerhouse Vacuums" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/clean-up-on-the-black-friday-deals-at-eureka-and-save-big-on-these-five-powerhouse-vacuums-2000684873" target="_blank">Clean Up on the Still-Alive Black Friday Deals at Eureka and Save Big On These Five Powerhouse Vacuums</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-30 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
