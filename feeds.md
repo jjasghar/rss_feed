@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 19:04:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-01 20:01:51 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 19:04 UTC</div>
+    <div class="newspaper-date">Monday, December 01, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/12/1/aje-onl-aj_tt_ukr_futuredronewars_av_v1-011225?traffic_source=rss" target="_blank">How Ukraine turned into the world’s drone testing lab</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-01 19:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-main_1764586696967_hpMain_4x3t_384.jpg" alt="Trump admin live updates: WH says Adm. Bradley gave order on 2nd drug boat strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +100,20 @@
                 <span class="time">2025-12-01 17:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/01/g-s1-99892/austria-nuns-convent-vatican" target="_blank">Austria&#x27;s rebel nuns refuse to give up Instagram to stay in their convent</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-01 15:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/834864/kindle-remote-page-turner-cyber-monday-deal-sale-2025" target="_blank">This $5 Kindle page-turning remote is all I’m buying for Cyber Monday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-01 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +159,20 @@
                 <span class="time">2025-12-01 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/dead-duke1-500x500.jpg" alt="Research roundup: 6 cool stories we almost missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/research-roundup-6-cool-stories-we-almost-missed/" target="_blank">Research roundup: 6 cool stories we almost missed</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-01 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-44-Nicer-NTSYNC" target="_blank">Fedora 44 Granted Approval For A Nicer NTSYNC Experience For Wine &amp; Steam Play</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-01 19:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +218,6 @@
                 <span class="time">2025-12-01 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3585818%2Fbd1ab422-577a-45e3-99cb-f838f37f72ad.png" alt="3D-Agent and Blender-MCP: Both Amazing Blender AI Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/glglgl/3d-agent-and-blender-mcp-both-amazing-blender-ai-tools-4o7n" target="_blank">3D-Agent and Blender-MCP: Both Amazing Blender AI Tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-01 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_WillandVecna-1280x853.jpg" alt="Even the Guy Who Plays Vecna Didn’t Know How ‘Stranger Things’ Would End" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/even-the-guy-who-plays-vecna-didnt-know-how-stranger-things-would-end-2000694067" target="_blank">Even the Guy Who Plays Vecna Didn’t Know How ‘Stranger Things’ Would End</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-01 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBDDSEE8SENBE1NGTH0JT9AC/hero-image.jpg" alt="Netflix Is Killing Casting From Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/netflix-is-killing-casting-from-your-phone?utm_medium=RSS" target="_blank">Netflix Is Killing Casting From Your Phone</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-01 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/jeanne.jpg?fit=1200%2C603&amp;quality=60&amp;ssl=1" alt="Why this husband commissioned a sculpture of his wife&#x27;s rotting body" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/01/why-this-husband-commissioned-a-sculpture-of-his-wifes-rotting-body.html" target="_blank">Why this husband commissioned a sculpture of his wife&#x27;s rotting body</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-01 19:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/image-10.jpg" alt="A Terrible AI Song About Charlie Kirk Is Infecting The Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,33 +291,6 @@
                 <span class="time">2025-12-01 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/image-10-1280x719.jpg" alt="Marvel Cosmic Invasion: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvel-cosmic-invasion-review-characters-length-2000649131" target="_blank">Marvel Cosmic Invasion: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Rewatches-Replays-YIR2025-3-Box-Pink-1280x853.jpg" alt="io9’s Favorite Replays, Rereads, and Rewatches of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/io9s-favorite-replays-rereads-and-rewatches-of-2025-2000693935" target="_blank">io9’s Favorite Replays, Rereads, and Rewatches of 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-01 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBDECM5NCRY6BWT0A0MTKG2T/hero-image.png" alt="The AirPods Pro 2 Are Nearly Half Off for Cyber Monday 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/airpods-pro-2-are-nearly-half-off-for-cyber-monday-2025?utm_medium=RSS" target="_blank">The AirPods Pro 2 Are Nearly Half Off for Cyber Monday 2025</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-01 17:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,6 +315,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/website_task_flowchart.png" alt="Website Task Flowchart" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3175/" target="_blank">Website Task Flowchart</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-12-01 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5710.png" alt="Amber Is The Color" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -328,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 19:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
