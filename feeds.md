@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 05:07:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-01 06:02:25 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 05:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/1/live-over-900-killed-in-floods-in-indonesia-malaysia-thailand-sri-lanka?traffic_source=rss" target="_blank">LIVE: Over 900 killed in floods in Indonesia, Malaysia, Thailand, Sri Lanka</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-01 05:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +97,20 @@
                 <span class="time">2025-12-01 01:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-volodymyr-zelenskyy_7097067.jpg?20251130210458" alt="Zelenskyy to make first official visit to Ireland - as &#x27;productive&#x27; Ukraine-US talks under way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/zelenskyy-to-make-first-official-visit-to-ireland-as-productive-ukraine-us-talks-under-way-in-florida-13477690" target="_blank">Zelenskyy to make first official visit to Ireland - as &#x27;productive&#x27; Ukraine-US talks under way</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-01 00:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="20% Squarespace Promo Codes | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/squarespace-promo-code/" target="_blank">20% Squarespace Promo Codes | December 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-01 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +156,6 @@
                 <span class="time">2025-11-30 22:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691ebbbfaaec53d0d5d9437c/master/pass/The%20Best%20Early%20Black%20Friday%20Tech%20Deals%20From%20Best%20Buy.png" alt="20 Best Black Friday Deals at Best Buy (2025) on Hot Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/early-black-friday-best-buy-deals-1/" target="_blank">20 Best Black Friday Deals at Best Buy (2025) on Hot Tech</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-30 21:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,9 +165,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-56lo" target="_blank">CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-01 06:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/augusto_joaquinriveramu/build-your-first-remote-mcp-server-on-cloudflare-workers-2nio" target="_blank">Build Your First Remote MCP Server on Cloudflare Workers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-01 04:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tegabrain.com/Slop-Evader" target="_blank">Search tool that only returns content created before ChatGPT&#x27;s public release</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-01 04:06</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/monetzly/monetzly-a-new-era-for-ai-monetization-in-llm-apps-ch5" target="_blank">Monetzly: A New Era for AI Monetization in LLM Apps</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-01 01:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/linux-kernel-6.18.jpg?resize=406%2C232&amp;ssl=1" alt="Linux 6.18 Release Improves Gaming, Laptops, and Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/linux-kernel-6-18-new-features" target="_blank">Linux 6.18 Release Improves Gaming, Laptops, and Security</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-11-30 23:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://docs.astral.sh/ty/" target="_blank">ty - Python type checker</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-11-30 23:38</span>
             </div>
         </div>
 </div>
@@ -307,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 05:08 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
