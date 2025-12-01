@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 07:03:25 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-12-01 08:02:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -85,21 +85,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/792e/live/dc6c9780-ce38-11f0-b0ac-d13c1508eb1d.jpg" alt="Special Forces heads suppressed SAS war crime evidence, inquiry hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgk1l4lrrdo?at_medium=RSS&at_campaign=rss" target="_blank">Special Forces heads suppressed SAS war crime evidence, inquiry hears</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-01 01:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/792e/live/dc6c9780-ce38-11f0-b0ac-d13c1508eb1d.jpg" alt="SAS war crime evidence suppressed, inquiry hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgk1l4lrrdo?at_medium=RSS&at_campaign=rss" target="_blank">SAS war crime evidence suppressed, inquiry hears</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-01 01:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/CaliforniaShooting_1764482538480_hpMain_4x3t_384.jpg" alt="3 children among 4 people killed in banquet hall shooting: Sheriff&#x27;s office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/4-dead-10-wounded-after-shooting-california-banquet/story?id=127972958" target="_blank">3 children among 4 people killed in banquet hall shooting: Sheriff&#x27;s office</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-01 01:11</span>
             </div>
         </div>
 </div>
@@ -167,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F143755%2F8cbedfa8-996d-401d-984c-38357059cd0a.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gouravgope/-33ik" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-01 07:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Gaudi-3-Open-Source" target="_blank">Intel Finally Posts Open-Source Gaudi 3 Driver Code For The Linux Kernel</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-01 01:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/monetzly/monetzly-a-new-era-for-ai-monetization-in-llm-apps-ch5" target="_blank">Monetzly: A New Era for AI Monetization in LLM Apps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-01 01:09</span>
             </div>
         </div>
 </div>
@@ -308,7 +308,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 07:03 UTC
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
