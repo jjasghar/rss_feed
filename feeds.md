@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 20:01:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-01 21:01:44 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/01/nx-s1-5620992/tsmc-chipmaker-expands-beyond-taiwan" target="_blank">As political winds shift, top chipmaker TSMC looks beyond Taiwan</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-01 20:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +105,38 @@
                 <span class="time">2025-12-01 17:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/01/g-s1-99279/fired-worker-sues-government" target="_blank">Fired worker sues government in case that could upend civil rights laws</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-01 17:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/" target="_blank">Nvidia announces new open AI models and tools for autonomous driving research</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-01 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/835100/samsung-switch-2-microsd-express-cyber-monday-deal-sale" target="_blank">You can double your Switch 2’s storage with Samsung’s $40 microSD Express card</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-01 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691b6877c12618cd902a14a4/master/pass/Our%20Favorite%20Compact%20Soundbar%20Is%20$100%20Off.png" alt="The Best Cyber Monday Soundbar Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cyber-monday-soundbar-deals-2025/" target="_blank">The Best Cyber Monday Soundbar Deals</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-01 20:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,38 +164,29 @@
                 <span class="time">2025-12-01 17:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/828746/marty-supreme-movie-review" target="_blank">The ping pong movie is very stressful</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-01 16:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/" target="_blank">OpenAI’s investment into Thrive Holdings is its latest circular deal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-01 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing" target="_blank">Why IBM CEO Arvind Krishna is still hiring humans in the AI era</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-01 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe31y59ibf2ddys5qrx07.png" alt="Why I Built Shamba-MedCare (And What I Learned About Solving Real Problems)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nicanor_korir/why-i-built-shamba-medcare-and-what-i-learned-about-solving-real-problems-425g" target="_blank">Why I Built Shamba-MedCare (And What I Learned About Solving Real Problems)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-01 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Btrfs" target="_blank">Btrfs In Linux 6.19 Adds Experimental Features, Continues Preparations For FSCRYPT</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-01 20:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +221,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/canonical-qualcomm-dragonwing-iq9075" target="_blank">Canonical announces general availability of Ubuntu on Qualcomm Dragonwing™ IQ-9075 platform</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2025-12-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F501q7geay49mze9yn15u.png" alt="HackerRank &#x27;The Pads&#x27; MySQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/carol_caillaud/hackerrank-the-pads-mysql-46n9" target="_blank">HackerRank &#x27;The Pads&#x27; MySQL</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-01 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/" target="_blank">How to orchestrate agents using mission control</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-12-01 17:00</span>
             </div>
         </div>
 </div>
@@ -337,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
