@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 12:02:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-01 13:13:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 12:02 UTC</div>
+    <div class="newspaper-date">Monday, December 01, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/national-guard-6-rt-er-251127_1764254945234_hpMain_2_4x3t_384.jpg" alt="National Guardsmen shooting suspect: Afghan commander&#x27;s death, financial woes surface" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/death-afghan-commander-financial-stress-surface-national-guard/story?id=127991010" target="_blank">National Guardsmen shooting suspect: Afghan commander&#x27;s death, financial woes surface</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-01 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/8f6cd0f0-ceae-11f0-a93a-1d6163a2536b.jpg" alt="Four dead in Russian attack as diplomatic efforts to end war continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1m8nmx75evo?at_medium=RSS&at_campaign=rss" target="_blank">Four dead in Russian attack as diplomatic efforts to end war continue</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-01 12:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/1/palestinian-students-return-to-class-at-gaza-university?traffic_source=rss" target="_blank">Palestinian students return to class at Gaza university</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-01 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/792e/live/dc6c9780-ce38-11f0-b0ac-d13c1508eb1d.jpg" alt="Heads of UK Special Forces suppressed evidence of war crimes, officer tells inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +97,38 @@
                 <span class="time">2025-12-01 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/1/trump-backed-candidate-leads-honduras-presidential-vote-early-trends-show?traffic_source=rss" target="_blank">Trump-backed candidate Nasry Asfura leads Honduras race, early trends show</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-01 09:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/1/drone-video-shows-devastation-from-floods-in-indonesias-sumatra?traffic_source=rss" target="_blank">Drone video shows devastation from floods in Indonesia’s Sumatra</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-01 07:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-sri-lanka-flood-flooding_7097228.jpg?20251201072525" alt="Rescue efforts continue across south of Asia as floods death toll climbs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/rescue-efforts-continue-across-south-of-asia-as-floods-death-toll-climbs-13477761" target="_blank">Rescue efforts continue across south of Asia as floods death toll climbs</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-01 07:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6923fb9dc68e1875e6bc3d1b/master/pass/The%20Best%20Black%20Friday%20Beauty%20Deals.png" alt="The Best Cyber Monday Beauty Deals, WIRED Approved (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cyber-monday-beauty-deals-2025/" target="_blank">The Best Cyber Monday Beauty Deals, WIRED Approved (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-01 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/830877/app-store-age-verification-act-pinterest-endorsement" target="_blank">A nationwide internet age verification plan is sweeping Congress</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-01 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/01/koreas-coupang-says-data-breach-exposed-nearly-34m-customers-personal-information/" target="_blank">Korea’s Coupang says data breach exposed nearly 34M customers’ personal information</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-01 12:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6925f4622a28299e7369f588/master/pass/MR%20012%20'Ruby'%20(1).jpg" alt="Ruby Is Not a Serious Programming Language" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +156,20 @@
                 <span class="time">2025-12-01 07:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="20% Squarespace Promo Codes | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/squarespace-promo-code/" target="_blank">20% Squarespace Promo Codes | December 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-01 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025" target="_blank">Here are 50 standout deals under $100 we’re eyeing for Cyber Monday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-01 03:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/11/30/varda-says-it-has-proven-space-manufacturing-works-now-it-wants-to-make-it-boring/" target="_blank">Varda says it has proven space manufacturing works — now it wants to make it boring</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-01 02:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jxlee007/musk-x-kamath-the-source-code-for-your-20s-and-the-future-of-ai-5dge" target="_blank">🚀 Musk x Kamath: The &quot;Source Code&quot; for Your 20s (And the Future of AI)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-01 13:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/12/accessibility-ariakit-react/en/headerimage/generatedHeaderImage-1764520045335.jpg" alt="Accessibility with Interactive Components at React Advanced Conf" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,13 +215,18 @@
                 <span class="time">2025-12-01 09:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F143755%2F8cbedfa8-996d-401d-984c-38357059cd0a.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gouravgope/-33ik" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-01 07:48</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/banning-vpns.html" target="_blank">Banning VPNs</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-01 12:59</span>
             </div>
         </div>
 </div>
@@ -312,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
