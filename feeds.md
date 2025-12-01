@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 11:01:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-12-01 12:02:29 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/792e/live/dc6c9780-ce38-11f0-b0ac-d13c1508eb1d.jpg" alt="Heads of UK Special Forces suppressed evidence of war crimes, officer tells inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgk1l4lrrdo?at_medium=RSS&at_campaign=rss" target="_blank">Heads of UK Special Forces suppressed evidence of war crimes, officer tells inquiry</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-01 11:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +98,29 @@
                 <span class="time">2025-12-01 07:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/1/live-over-900-killed-in-floods-in-indonesia-malaysia-thailand-sri-lanka?traffic_source=rss" target="_blank">LIVE: Over 900 killed in floods in Indonesia, Sri Lanka, Thailand, Malaysia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-01 05:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6925f4622a28299e7369f588/master/pass/MR%20012%20'Ruby'%20(1).jpg" alt="Ruby Is Not a Serious Programming Language" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ruby-is-not-a-serious-programming-language/" target="_blank">Ruby Is Not a Serious Programming Language</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-01 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/830876/influencers-anti-ai-deepfakes-fandom-economy" target="_blank">Welcome to fandom’s AI clout economy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-01 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/692757a9b4d28f88b673a6d5/master/pass/Signal-Festival-Culture-V.P.M.jpg" alt="Prague’s City Center Sparkles, Buzzes, and Burns at the Signal Festival" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +157,29 @@
                 <span class="time">2025-12-01 02:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025" target="_blank">The absolute best Cyber Monday deals you can already shop</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-01 00:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69299e46677a25ec29d6a4ab/master/pass/sc01_25_MoonSwatch_SO33W701L_december_close-up%20Earthphase_Moonphase.jpg" alt="Swatch MoonSwatch Mission To Earthphase Moonshine Gold Cold Moon: Price, Specs, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/every-model-of-this-new-snoopy-moonswatch-is-different-and-you-can-only-get-one-when-it-snows/" target="_blank">Swatch MoonSwatch Mission To Earthphase Moonshine Gold Cold Moon: Price, Specs, Availability</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-30 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/accessibility-ariakit-react/en/headerimage/generatedHeaderImage-1764520045335.jpg" alt="Accessibility with Interactive Components at React Advanced Conf" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/accessibility-ariakit-react/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Accessibility with Interactive Components at React Advanced Conf</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-01 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shorthander/the-8020-landing-page-rule-spend-80-here-get-300-more-customers-al2" target="_blank">The 80/20 landing page rule: Spend 80% here, get 300% more customers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-01 11:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/podcasts/looking-root-causes-false-path/en/smallimage/the-infoq-podcast-logo-thumbnail-1756468716063.jpg" alt="Podcast: Looking for Root Causes is a False Path: A Conversation with David Blank-Edelman" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/gouravgope/-33ik" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-01 07:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-56lo" target="_blank">CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-01 06:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/augusto_joaquinriveramu/build-your-first-remote-mcp-server-on-cloudflare-workers-2nio" target="_blank">Build Your First Remote MCP Server on Cloudflare Workers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-01 04:08</span>
             </div>
         </div>
 </div>
@@ -308,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
