@@ -1,43 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 04:20:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-01 05:07:49 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 34 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 04:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 05:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -124,6 +119,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/11/30/varda-says-it-has-proven-space-manufacturing-works-now-it-wants-to-make-it-boring/" target="_blank">Varda says it has proven space manufacturing works — now it wants to make it boring</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-01 02:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025" target="_blank">The absolute best Cyber Monday deals you can already shop</a></span>
                 <span class="feed">The Verge</span>
@@ -155,15 +159,6 @@
                 <span class="title"><a href="https://www.wired.com/story/early-black-friday-best-buy-deals-1/" target="_blank">20 Best Black Friday Deals at Best Buy (2025) on Hot Tech</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-11-30 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69254e313babfea407a3eeff/master/pass/The%20Best%20Black%20Friday%20Tech%20Deals.png" alt="30 Best Cyber Monday Tech Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/black-friday-tech-deals-2025/" target="_blank">30 Best Cyber Monday Tech Deals (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-11-30 20:55</span>
             </div>
         </div>
 </div>
@@ -208,21 +203,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/linux-kernel-6.18.jpg?resize=406%2C232&amp;ssl=1" alt="Linux 6.18 Release Improves Gaming, Laptops, and Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/11/linux-kernel-6-18-new-features" target="_blank">Linux 6.18 Release Improves Gaming, Laptops, and Security</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-11-30 23:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://docs.astral.sh/ty/" target="_blank">ty - Python type checker</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-11-30 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Released" target="_blank">Linux 6.18 Released With Many New Features, Likely This Year&#x27;s LTS Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-11-30 23:23</span>
             </div>
         </div>
 </div>
@@ -312,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 04:20 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 05:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
