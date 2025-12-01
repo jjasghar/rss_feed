@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 00:06:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-01 01:30:19 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 00:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-volodymyr-zelenskyy_7097067.jpg?20251130210458" alt="Zelenskyy to make first official visit to Ireland - as &#x27;productive&#x27; Ukraine-US talks under way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/zelenskyy-to-make-first-official-visit-to-ireland-as-productive-ukraine-us-talks-under-way-in-florida-13477690" target="_blank">Zelenskyy to make first official visit to Ireland - as &#x27;productive&#x27; Ukraine-US talks under way</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-01 00:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/30/merino-strikes-to-earn-arsenal-bruising-1-1-draw-at-10-man-chelsea?traffic_source=rss" target="_blank">Merino strikes to earn Arsenal bruising 1-1 draw against 10-man Chelsea</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-11-30 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f098/live/b2dcd6d0-cdfe-11f0-9fb5-5f3a3703a365.png" alt="Reeves denies she misled public over UK&#x27;s finances in run-up to Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyd38gp00eo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves denies she misled public over UK&#x27;s finances in run-up to Budget</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-30 18:01</span>
             </div>
         </div>
 </div>
@@ -170,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/monetzly/monetzly-a-new-era-for-ai-monetization-in-llm-apps-ch5" target="_blank">Monetzly: A New Era for AI Monetization in LLM Apps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-01 01:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://docs.astral.sh/ty/" target="_blank">ty - Python type checker</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -212,20 +215,20 @@
                 <span class="time">2025-11-30 21:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/11/helm-4/en/headerimage/generatedHeaderImage-1764537294150.jpg" alt="Helm Improves Kubernetes Package Management with Biggest Release in 6 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/11/helm-4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Helm Improves Kubernetes Package Management with Biggest Release in 6 Years</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-11-30 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/airpodspro-3-1280x853.jpg" alt="Amazon Clears Out AirPods Pro 3 for Cyber Monday, Liquidates Black Friday Leftovers at Record Low Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-clears-out-airpods-pro-3-for-cyber-monday-liquidates-black-friday-leftovers-at-record-low-price-2000648949" target="_blank">Amazon Clears Out AirPods Pro 3 for Cyber Monday, Liquidates Black Friday Leftovers at Record Low Price</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-01 00:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/roborock-q7-m5plus-1280x853.jpg" alt="Roborock Q7 Max+ With 9 Weeks Self-Empty Crashes to Record Low, Cyber Monday Goes Zero Profit for Final Clearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +274,6 @@
                 <span class="time">2025-11-30 18:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAH5Y98AK30APR713J5SXFJM/hero-image.jpg" alt="Cyber Monday Fitness Deals Live Blog 2025: The Best Sales on Smart Watches, Gym Equipment, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/black-friday-cyber-monday-fitness-deals-11-30-2025-live-blog?utm_medium=RSS" target="_blank">Cyber Monday Fitness Deals Live Blog 2025: The Best Sales on Smart Watches, Gym Equipment, and More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-11-30 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
