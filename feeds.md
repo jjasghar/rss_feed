@@ -1,29 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 09:03:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-01 10:02:13 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/putin-main_1764578791428_hpMain_4x3t_384.jpg" alt="After US-Ukraine meeting in Florida, focus shifts to Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/after-us-ukraine-meeting-florida-focus-shifts-putin/story?id=127993030" target="_blank">After US-Ukraine meeting in Florida, focus shifts to Putin</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-01 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/1/trump-backed-candidate-leads-honduras-presidential-vote-early-trends-show?traffic_source=rss" target="_blank">Trump-backed candidate Nasry Asfura leads Honduras race, early trends show</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-01 09:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,24 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/1/russia-ukraine-war-list-of-key-events-day-1376?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,376</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-01 02:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/1/israelis-protest-in-tel-aviv-after-netanyahu-seeks-pardon-on-fraud-cases?traffic_source=rss" target="_blank">Israelis protest in Tel Aviv after Netanyahu seeks pardon on fraud cases</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-01 01:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/792e/live/dc6c9780-ce38-11f0-b0ac-d13c1508eb1d.jpg" alt="Special Forces heads suppressed SAS war crime evidence, inquiry hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgk1l4lrrdo?at_medium=RSS&at_campaign=rss" target="_blank">Special Forces heads suppressed SAS war crime evidence, inquiry hears</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-01 01:33</span>
             </div>
         </div>
 </div>
@@ -158,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/November-2025-Highlights" target="_blank">Steam Machine, Continued Open-Source Rust Usage &amp; Linux Kernel Happenings In November</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-01 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F143755%2F8cbedfa8-996d-401d-984c-38357059cd0a.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,20 +222,20 @@
                 <span class="time">2025-12-01 02:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Gaudi-3-Open-Source" target="_blank">Intel Finally Posts Open-Source Gaudi 3 Driver Code For The Linux Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-01 01:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/david-sacks-1280x853.jpg" alt="438 Reasons to Doubt that David Sacks Should Work for the Federal Government" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/david-sacks-possible-conflicts-2000693709" target="_blank">438 Reasons to Doubt that David Sacks Should Work for the Federal Government</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-01 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/fitbit-charge-6-1280x853.jpg" alt="Amazon Goes Full Liquidation on Fitbit Charge 6, Now at Record Low for Cyber Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,20 +281,20 @@
                 <span class="time">2025-11-30 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/FalloutS2FLimage5_3000-1280x853.jpg" alt="The ‘Fallout’ Show Won’t Give a Canon Ending for ‘New Vegas’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-fallout-show-wont-give-a-canon-ending-for-new-vegas-2000693494" target="_blank">The ‘Fallout’ Show Won’t Give a Canon Ending for ‘New Vegas’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-30 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/01/come-in-clutch" target="_blank">Come In Clutch</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-01 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5710.png" alt="Amber Is The Color" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
