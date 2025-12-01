@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 21:01:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-01 22:01:23 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251201-sept-2-boat-strike-gk-75515f.jpg" alt="White House confirms a second strike was ordered on an alleged drug boat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/white-house-confirms-second-sept-2-strike-alleged-drug-boat-rcna246834" target="_blank">White House confirms a second strike was ordered on an alleged drug boat</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-01 21:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +99,29 @@
                 <span class="time">2025-12-01 18:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6085/live/8f3b6d70-cebe-11f0-9fb5-5f3a3703a365.jpg" alt="Starmer says he is proud of Budget as he denies misleading public" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c79x3w1pwg5o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer says he is proud of Budget as he denies misleading public</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-01 17:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/692402a28006ba74bce6f97f/master/pass/Best%20Laptop%20Deals%20for%20Black%20Friday%202025.png" alt="14 Best Cyber Monday Laptop Deals (2025): MacBooks, Gaming Laptops, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-cyber-monday-laptop-deals-2025/" target="_blank">14 Best Cyber Monday Laptop Deals (2025): MacBooks, Gaming Laptops, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-01 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2218000971-500x500.jpg" alt="In Myanmar, illicit rare-earth mining is taking a heavy toll" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/in-myanmar-illicit-rare-earth-mining-is-taking-a-heavy-toll/" target="_blank">In Myanmar, illicit rare-earth mining is taking a heavy toll</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-01 21:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/834864/kindle-remote-page-turner-cyber-monday-deal-sale-2025" target="_blank">This $5 Kindle page-turning remote is all I’m buying for Cyber Monday</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-01 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas" target="_blank">These great Cyber Monday tech deals will likely be gone tomorrow</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2219047538-500x500.jpg" alt="Space CEO explains why he believes private space stations are a viable business" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/12/space-ceo-explains-why-he-believes-private-space-stations-are-a-viable-business/" target="_blank">Space CEO explains why he believes private space stations are a viable business</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-01 17:40</span>
             </div>
         </div>
 </div>
@@ -243,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/peacefullife-1280x710.jpg" alt="Extraction Shooter Player Puts Down Guns And Starts Selling Fruit Instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arc-raiders-trade-fruit-loot-scrappy-lemons-mushrooms-2000649233" target="_blank">Extraction Shooter Player Puts Down Guns And Starts Selling Fruit Instead</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-01 21:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_WillandVecna-1280x853.jpg" alt="Even the Guy Who Plays Vecna Didn’t Know How ‘Stranger Things’ Would End" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -287,20 +290,20 @@
                 <span class="time">2025-12-01 18:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HB2M5RT6ZKFFZ5M4ERWSH/hero-image.jpg" alt="How to Tell If a Black Friday or Cyber Monday Deal Is Just Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-to-tell-black-friday-cyber-monday-2025-deal-is-actually-good?utm_medium=RSS" target="_blank">How to Tell If a Black Friday or Cyber Monday Deal Is Just Hype</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-01 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/01/come-in-clutch" target="_blank">Come In Clutch</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-01 20:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1764559640-20251201_edit.png" alt="Saturday Morning Breakfast Cereal - Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -342,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
