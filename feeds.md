@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 15:02:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-01 16:01:50 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/01/g-s1-99892/austria-nuns-convent-vatican" target="_blank">Austria&#x27;s rebel nuns refuse to give up Instagram to stay in their convent</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-01 15:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-10/241023-ozempic-vl-1233p-6ebfba.jpg" alt="WHO recommends GLP-1 drugs for obesity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,15 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgk1l4lrrdo?at_medium=RSS&at_campaign=rss" target="_blank">Heads of UK Special Forces suppressed evidence of war crimes, officer tells inquiry</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-01 11:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/1/over-1600-sudanese-civilians-flee-south-kordofan-in-single-day?traffic_source=rss" target="_blank">More than 1,600 people flee Sudan’s South Kordofan in single day</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-01 10:40</span>
             </div>
         </div>
 </div>
@@ -158,6 +161,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sbotto/how-time-machine-saved-my-life-1p34" target="_blank">How Time Machine saved my life*</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-01 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://obr.uk/docs/dlm_uploads/01122025-Investigation-into-November-2025-EFO-publication-error.pdf" target="_blank">WordPress plugin quirk resulted in UK Gov OBR Budget leak [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18778827&w=600" alt="AI Ethics in Action: How We Ensure Fairness, Bias Mitigation, and Explainability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-ethics-fairness-bias-explainability" target="_blank">AI Ethics in Action: How We Ensure Fairness, Bias Mitigation, and Explainability</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F8745%2Fb3ae281e-3062-4dd9-93f1-22e75a85484e.jpg" alt="What are your goals for the week? #155" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -182,33 +212,6 @@
                 <span class="title"><a href="https://dev.to/jxlee007/musk-x-kamath-the-source-code-for-your-20s-and-the-future-of-ai-5dge" target="_blank">🚀 Musk x Kamath: The &quot;Source Code&quot; for Your 20s (And the Future of AI)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-01 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18780012&w=600" alt="Building a Production-Ready MCP Server in Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-a-secure-observable-and-production-ready" target="_blank">Building a Production-Ready MCP Server in Python</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-01 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/empathy-psychological-safety/en/mediumimage/erin-doyle-medium-1764077653909.jpg" alt="Presentation: Empathy Driven Platforms: You Build It, Let’s Run It Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/empathy-psychological-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Empathy Driven Platforms: You Build It, Let’s Run It Together</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-01 12:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://xania.org/202512/01-xor-eax-eax" target="_blank">Why xor eax, eax?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-01 12:22</span>
             </div>
         </div>
 </div>
@@ -321,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
