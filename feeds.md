@@ -1,35 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 03:31:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-01 04:20:17 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 03:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 04:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/1/russia-ukraine-war-list-of-key-events-day-1376?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,376</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-01 02:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +105,6 @@
                 <span class="title"><a href="https://news.sky.com/story/zelenskyy-to-make-first-official-visit-to-ireland-as-productive-ukraine-us-talks-under-way-in-florida-13477690" target="_blank">Zelenskyy to make first official visit to Ireland - as &#x27;productive&#x27; Ukraine-US talks under way</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-12-01 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/30/nx-s1-5626173/rubens-painting-sells-for-2-7-million-at-auction" target="_blank">Lost for over 400 years, Rubens painting sells for $2.7 million at auction</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-30 22:00</span>
             </div>
         </div>
 </div>
@@ -164,6 +172,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/augusto_joaquinriveramu/build-your-first-remote-mcp-server-on-cloudflare-workers-2nio" target="_blank">Build Your First Remote MCP Server on Cloudflare Workers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-01 04:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/12/java-news-roundup-nov24-2025/en/headerimage/java-istock-image-01-1764535539330.jpg" alt="Java News Roundup: Spring Cloud, Quarkus, Hibernate ORM, JobRunr, LangChain4j, Java Operator SDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -206,15 +223,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Released" target="_blank">Linux 6.18 Released With Many New Features, Likely This Year&#x27;s LTS Kernel</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-11-30 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/juand01/how-i-built-an-ai-to-draw-my-architecture-diagrams-because-my-wiki-kept-dying-5dfl" target="_blank">How I Built an AI to Draw My Architecture Diagrams (Because My Wiki Kept Dying)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-30 22:57</span>
             </div>
         </div>
 </div>
@@ -304,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 03:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 04:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
