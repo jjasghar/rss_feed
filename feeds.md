@@ -1,40 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 14:01:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-01 15:02:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +99,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing" target="_blank">Why IBM CEO Arvind Krishna is still hiring humans in the AI era</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/dead-duke1-500x500.jpg" alt="Research roundup: 6 cool stories we almost missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/research-roundup-6-cool-stories-we-almost-missed/" target="_blank">Research roundup: 6 cool stories we almost missed</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-01 14:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69251bccf3fd885cd324b708/master/pass/Apple's%20Entry-Level%20iPad%20Is%20on%20Sale.png" alt="This Is a Truly Great iPad Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -145,29 +152,20 @@
                 <span class="time">2025-12-01 12:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/gilbert-500x494.jpg" alt="After 40 years of adventure games, Ron Gilbert pivots to outrunning Death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/12/after-40-years-of-adventure-games-ron-gilbert-pivots-to-outrunning-death/" target="_blank">After 40 years of adventure games, Ron Gilbert pivots to outrunning Death</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-01 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6925f4622a28299e7369f588/master/pass/MR%20012%20'Ruby'%20(1).jpg" alt="Ruby Is Not a Serious Programming Language" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ruby-is-not-a-serious-programming-language/" target="_blank">Ruby Is Not a Serious Programming Language</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-01 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F8745%2Fb3ae281e-3062-4dd9-93f1-22e75a85484e.jpg" alt="What are your goals for the week? #155" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-155-47ki" target="_blank">What are your goals for the week? #155</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-01 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhbbmqm2uieu606kdxsd6.png" alt="🧠 [Memory Leak] Why I Felt Stupid at 2 PM: Debugging My Brain&#x27;s RAM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,30 +194,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/empathy-psychological-safety/en/mediumimage/erin-doyle-medium-1764077653909.jpg" alt="Presentation: Empathy Driven Platforms: You Build It, Let’s Run It Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/empathy-psychological-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Empathy Driven Platforms: You Build It, Let’s Run It Together</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-01 12:28</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://xania.org/202512/01-xor-eax-eax" target="_blank">Why xor eax, eax?</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-01 12:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/accessibility-ariakit-react/en/headerimage/generatedHeaderImage-1764520045335.jpg" alt="Accessibility with Interactive Components at React Advanced Conf" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/accessibility-ariakit-react/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Accessibility with Interactive Components at React Advanced Conf</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-01 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shorthander/the-8020-landing-page-rule-spend-80-here-get-300-more-customers-al2" target="_blank">The 80/20 landing page rule: Spend 80% here, get 300% more customers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-01 11:47</span>
             </div>
         </div>
 </div>
@@ -241,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KATQBZ9TT9TP11JK277Z4R2Y/hero-image.png" alt="This Cyber Monday Deal Cuts the 15-Inch M2 MacBook Air to 40% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/m2-macbook-air-stacksocial-black-friday-cyber-monday-deal-2025?utm_medium=RSS" target="_blank">This Cyber Monday Deal Cuts the 15-Inch M2 MacBook Air to 40% Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-01 14:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/sonos-era-100-1280x853.jpg" alt="Sonos Quietly Offloads Era 100 for Cyber Monday, WiFi and Bluetooth Compatible Speaker at Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +284,6 @@
                 <span class="time">2025-12-01 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/david-sacks-1280x853.jpg" alt="438 Reasons to Doubt that David Sacks Should Work for the Federal Government" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/david-sacks-possible-conflicts-2000693709" target="_blank">438 Reasons to Doubt that David Sacks Should Work for the Federal Government</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-01 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
