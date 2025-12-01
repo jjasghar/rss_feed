@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 01:30:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-01 02:43:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 02:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/1/israelis-protest-in-tel-aviv-after-netanyahu-seeks-pardon-on-fraud-cases?traffic_source=rss" target="_blank">Israelis protest in Tel Aviv after Netanyahu seeks pardon on fraud cases</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-01 01:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/792e/live/dc6c9780-ce38-11f0-b0ac-d13c1508eb1d.jpg" alt="SAS war crime evidence suppressed, inquiry hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgk1l4lrrdo?at_medium=RSS&at_campaign=rss" target="_blank">SAS war crime evidence suppressed, inquiry hears</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-01 01:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/11/30/nx-s1-5626219/philippines-protest-corruption-stolen-funds" target="_blank">Thousands in Philippines protest corruption, demand return of stolen funds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-01 01:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/11/1920x1080/skynews-volodymyr-zelenskyy_7097067.jpg?20251130210458" alt="Zelenskyy to make first official visit to Ireland - as &#x27;productive&#x27; Ukraine-US talks under way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,33 +97,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/nov/30/african-leaders-push-for-recognition-of-colonial-crimes-and-reparations" target="_blank">African leaders push for recognition of colonial crimes and reparations</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-11-30 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37da/live/4fc00290-ce29-11f0-be98-75d864f0578d.jpg" alt="Ukraine talks &#x27;productive&#x27; but more work needed, Rubio says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd9z2e3exk9o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine talks &#x27;productive&#x27; but more work needed, Rubio says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-11-30 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/11/30/nx-s1-5626165/michael-jordan-nascar-court" target="_blank">Michael Jordan&#x27;s fight against NASCAR heads to court</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-11-30 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/11/30/merino-strikes-to-earn-arsenal-bruising-1-1-draw-at-10-man-chelsea?traffic_source=rss" target="_blank">Merino strikes to earn Arsenal bruising 1-1 draw against 10-man Chelsea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-11-30 18:56</span>
             </div>
         </div>
 </div>
@@ -162,6 +164,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/12/java-news-roundup-nov24-2025/en/headerimage/java-istock-image-01-1764535539330.jpg" alt="Java News Roundup: Spring Cloud, Quarkus, Hibernate ORM, JobRunr, LangChain4j, Java Operator SDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/java-news-roundup-nov24-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Spring Cloud, Quarkus, Hibernate ORM, JobRunr, LangChain4j, Java Operator SDK</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-01 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Gaudi-3-Open-Source" target="_blank">Intel Finally Posts Open-Source Gaudi 3 Driver Code For The Linux Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-01 01:28</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -197,29 +217,20 @@
                 <span class="time">2025-11-30 22:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/" target="_blank">A Love Letter to FreeBSD</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-11-30 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/blockopensource/mcps-for-developers-who-think-they-dont-need-mcps-4736" target="_blank">MCPs for Developers Who Think They Don&#x27;t Need MCPs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-11-30 21:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Maclock.-Image-Kokogol.com_.jpg?fit=1080%2C796&amp;quality=60&amp;ssl=1" alt="Maclock is a clock that looks like an original Macintosh" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/11/30/maclock-is-a-clock-that-looks-like-an-original-macintosh.html" target="_blank">Maclock is a clock that looks like an original Macintosh</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-01 01:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/airpodspro-3-1280x853.jpg" alt="Amazon Clears Out AirPods Pro 3 for Cyber Monday, Liquidates Black Friday Leftovers at Record Low Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +276,6 @@
                 <span class="time">2025-11-30 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/shutterstock_2509056937-1280x720.jpg" alt="How Solar Flares Could Have Corrupted An Airbus Plane" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-solar-flares-could-have-corrupted-an-airbus-plane-2000693690" target="_blank">How Solar Flares Could Have Corrupted An Airbus Plane</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-11-30 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 02:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
