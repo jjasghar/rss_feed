@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 22:01:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-01 23:01:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 22:01 UTC</div>
+    <div class="newspaper-date">Monday, December 01, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/12/1/what-does-netanyahus-pardon-request-mean-for-israels-future?traffic_source=rss" target="_blank">What does Netanyahu’s pardon request mean for Israel’s future?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-01 22:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251201-sept-2-boat-strike-gk-75515f.jpg" alt="White House confirms a second strike was ordered on an alleged drug boat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -61,6 +74,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/01/nx-s1-5620992/tsmc-chipmaker-expands-beyond-taiwan" target="_blank">As political winds shift, top chipmaker TSMC looks beyond Taiwan</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-01 20:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0d/live/9e1e78d0-cef2-11f0-9606-97a48f45f0d3.jpg" alt="Zelensky says Ukraine territory &#x27;most difficult&#x27; issue, as US envoy prepares to meet Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1m8nmx75evo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky says Ukraine territory &#x27;most difficult&#x27; issue, as US envoy prepares to meet Putin</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-01 20:29</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +103,29 @@
                 <span class="time">2025-12-01 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c3/live/08b81600-cee5-11f0-8c06-f5d460985095.jpg" alt="OBR head resigns over Budget day publishing error" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd74v35p77jo?at_medium=RSS&at_campaign=rss" target="_blank">OBR head resigns over Budget day publishing error</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-01 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/01/nx-s1-5626743/white-house-holiday-tours-east-wing" target="_blank">After East Wing demolition, White House tours are back just in time for the holidays</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-01 18:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/835403/cyber-monday-laptop-deals-macbook-chromebook-surface-2025" target="_blank">We found 25 great laptop deals you can still grab for Cyber Monday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-01 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/online-piracy-500x500.jpg" alt="Supreme Court hears case that could trigger big crackdown on Internet piracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/supreme-court-debates-whether-isps-must-kick-pirates-off-the-internet/" target="_blank">Supreme Court hears case that could trigger big crackdown on Internet piracy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-01 22:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/692402a28006ba74bce6f97f/master/pass/Best%20Laptop%20Deals%20for%20Black%20Friday%202025.png" alt="14 Best Cyber Monday Laptop Deals (2025): MacBooks, Gaming Laptops, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +162,20 @@
                 <span class="time">2025-12-01 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691b6877c12618cd902a14a4/master/pass/Our%20Favorite%20Compact%20Soundbar%20Is%20$100%20Off.png" alt="The Best Cyber Monday Soundbar Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cyber-monday-soundbar-deals-2025/" target="_blank">The Best Cyber Monday Soundbar Deals</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-01 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/834864/kindle-remote-page-turner-cyber-monday-deal-sale-2025" target="_blank">This $5 Kindle page-turning remote is all I’m buying for Cyber Monday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-01 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/faruukku/the-atomic-schlep-the-architecture-of-the-unstoppable-swap-186i" target="_blank">The Atomic Schlep: The Architecture of the Unstoppable Swap</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-01 22:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe31y59ibf2ddys5qrx07.png" alt="Why I Built Shamba-MedCare (And What I Learned About Solving Real Problems)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -182,6 +195,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18778891&w=600" alt="Not Just Crashes: Your Observability Stack for the Mobile App" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/observability-stack-mobile-app" target="_blank">Not Just Crashes: Your Observability Stack for the Mobile App</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-01 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -197,24 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-GCC-Managed-Memory" target="_blank">AMD GPU Managed Memory Support Merged For The GCC 16 Compiler</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-01 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jbrec.com/insights/job-growth-housing-demand-metro-analysis-2026/" target="_blank">High-income job losses are cooling housing demand</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-01 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-qualcomm-dragonwing-iq9075" target="_blank">Canonical announces general availability of Ubuntu on Qualcomm Dragonwing™ IQ-9075 platform</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-12-01 18:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/05/b9b5ea9c4292128a7951def0bb11eb39-1280x720.jpg" alt="The Helldivers Movie Just Found The Perfect Director" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/helldivers-movie-sony-director-justin-lin-fast-and-furious-star-trek-2000649269" target="_blank">The Helldivers Movie Just Found The Perfect Director</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-01 22:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/peacefullife-1280x710.jpg" alt="Extraction Shooter Player Puts Down Guns And Starts Selling Fruit Instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,30 +277,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/shutterstock_2292124989-scaled-e1753298172136.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Netflix fights password sharing by deleting convenience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/01/netflix-fights-password-sharing-by-deleting-convenience.html" target="_blank">Netflix fights password sharing by deleting convenience</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-01 19:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/jeanne.jpg?fit=1200%2C603&amp;quality=60&amp;ssl=1" alt="Why this husband commissioned a sculpture of his wife&#x27;s rotting body" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/12/01/why-this-husband-commissioned-a-sculpture-of-his-wifes-rotting-body.html" target="_blank">Why this husband commissioned a sculpture of his wife&#x27;s rotting body</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-01 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/image-10.jpg" alt="A Terrible AI Song About Charlie Kirk Is Infecting The Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/we-are-charlie-kirk-song-ai-videos-memes-kirkify-jokes-2000649211" target="_blank">A Terrible AI Song About Charlie Kirk Is Infecting The Internet</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-01 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/banana-fish-anime-mappa-1280x853.jpg" alt="Amazon’s Atrocious AI Anime Dubs Are a Dark Sign of Things to Come" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazon-anime-ai-dub-banana-fish-no-game-no-life-2000693962" target="_blank">Amazon’s Atrocious AI Anime Dubs Are a Dark Sign of Things to Come</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-01 18:45</span>
             </div>
         </div>
 </div>
@@ -345,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
