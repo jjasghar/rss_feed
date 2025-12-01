@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 16:01:50 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-01 17:03:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, December 01, 2025 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/01/g-s1-99892/austria-nuns-convent-vatican" target="_blank">Austria&#x27;s rebel nuns refuse to give up Instagram to stay in their convent</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-01 15:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/01/south-africans-court-alleged-recruitment-russia-war-ukraine" target="_blank">Five South Africans in court over alleged recruitment for Russia’s war in Ukraine</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-01 14:43</span>
             </div>
         </div>
 <div class="story">
@@ -87,20 +94,29 @@
                 <span class="time">2025-12-01 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/792e/live/dc6c9780-ce38-11f0-b0ac-d13c1508eb1d.jpg" alt="Heads of UK Special Forces suppressed evidence of war crimes, officer tells inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgk1l4lrrdo?at_medium=RSS&at_campaign=rss" target="_blank">Heads of UK Special Forces suppressed evidence of war crimes, officer tells inquiry</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-01 11:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/828746/marty-supreme-movie-review" target="_blank">The ping pong movie is very stressful</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-01 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/01/openais-investment-into-thrive-holdings-is-its-latest-circular-deal/" target="_blank">OpenAI’s investment into Thrive Holdings is its latest circular deal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-01 16:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +153,20 @@
                 <span class="time">2025-12-01 13:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/830877/app-store-age-verification-act-pinterest-endorsement" target="_blank">A nationwide internet age verification plan is sweeping Congress</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-01 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/01/koreas-coupang-says-data-breach-exposed-nearly-34m-customers-personal-information/" target="_blank">Korea’s Coupang says data breach exposed nearly 34M customers’ personal information</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-01 12:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3585818%2Fbd1ab422-577a-45e3-99cb-f838f37f72ad.png" alt="3D-Agent and Blender-MCP: Both Amazing Blender AI Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/glglgl/3d-agent-and-blender-mcp-both-amazing-blender-ai-tools-4o7n" target="_blank">3D-Agent and Blender-MCP: Both Amazing Blender AI Tools</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-01 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -170,48 +177,39 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18778848&w=600" alt="Shield Your Nonprofit: How to Tackle Ransomware Attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/shield-nonprofit-tackle-ransomware" target="_blank">Shield Your Nonprofit: How to Tackle Ransomware Attacks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-01 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Rust" target="_blank">Rust Updates For Linux 6.19, Rust Minimum Baseline To Likely Follow Debian Stable</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-01 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/01/what-s-new-at-stack-overflow-december-2025/" target="_blank">What’s new at Stack Overflow: December 2025</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-01 15:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://obr.uk/docs/dlm_uploads/01122025-Investigation-into-November-2025-EFO-publication-error.pdf" target="_blank">WordPress plugin quirk resulted in UK Gov OBR Budget leak [pdf]</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-01 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18778827&w=600" alt="AI Ethics in Action: How We Ensure Fairness, Bias Mitigation, and Explainability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-ethics-fairness-bias-explainability" target="_blank">AI Ethics in Action: How We Ensure Fairness, Bias Mitigation, and Explainability</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-01 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F8745%2Fb3ae281e-3062-4dd9-93f1-22e75a85484e.jpg" alt="What are your goals for the week? #155" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-155-47ki" target="_blank">What are your goals for the week? #155</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-01 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhbbmqm2uieu606kdxsd6.png" alt="🧠 [Memory Leak] Why I Felt Stupid at 2 PM: Debugging My Brain&#x27;s RAM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vital_access/memory-leak-why-i-felt-stupid-at-2-pm-debugging-my-brains-ram-4lah" target="_blank">🧠 [Memory Leak] Why I Felt Stupid at 2 PM: Debugging My Brain&#x27;s RAM</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-01 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jxlee007/musk-x-kamath-the-source-code-for-your-20s-and-the-future-of-ai-5dge" target="_blank">🚀 Musk x Kamath: The &quot;Source Code&quot; for Your 20s (And the Future of AI)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-01 13:01</span>
             </div>
         </div>
 </div>
@@ -310,22 +308,13 @@
                 <span class="time">2025-12-01 01:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1764385265-20251130_edit.png" alt="Saturday Morning Breakfast Cereal - Construction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/construction" target="_blank">Saturday Morning Breakfast Cereal - Construction</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-11-30 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
