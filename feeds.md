@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 17:03:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-02 18:02:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 17:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/2/honduras-election-why-has-trump-threatened-to-cut-off-aid?traffic_source=rss" target="_blank">Honduras election: Why has Trump threatened to cut off aid?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-02 17:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/02/nx-s1-5628382/trump-pardons-honduran-ex-president-juan-orlando-hernandez" target="_blank">Trump pardons Honduran ex-president who was convicted of drug crimes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-02 17:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +100,38 @@
                 <span class="time">2025-12-02 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/02/g-s1-100056/pope-leo-lebanon-middle-east-visit-beirut-port" target="_blank">Pope Leo wraps up his visit to Lebanon with prayers at the site of Beirut&#x27;s port blast</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-02 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/12/2/israel-targeted-al-shifa-hospital-the-same-way-as-military-systems?traffic_source=rss" target="_blank">Israel targeted Al Shifa Hospital “the same way” as military systems</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-02 14:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/02/netflix-launches-a-mobile-friendly-version-of-red-dead-redemption/" target="_blank">Netflix launches a mobile-friendly version of Red Dead Redemption</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-02 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2235571142-500x500-1764696875.jpg" alt="Meet CDC’s new lead vaccine advisor who thinks shots cause heart disease" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/12/meet-cdcs-new-lead-vaccine-advisor-who-thinks-shots-cause-heart-disease/" target="_blank">Meet CDC’s new lead vaccine advisor who thinks shots cause heart disease</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-02 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/836613/apple-music-replay-2025-listening-stats-launch" target="_blank">Apple Music Replay 2025 is back with new listening stats</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-02 16:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,38 +159,38 @@
                 <span class="time">2025-12-02 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/02/apple-musics-replay-2025-is-here/" target="_blank">Apple Music’s Replay 2025 is here</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-02 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/835420/sony-a7v-mirrorless-camera-partially-stacked-sensor-price-specs" target="_blank">Sony’s new A7 V uses a partially stacked sensor so you can shoot silently</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-02 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/BOOK_PAGES_FLYING-500x500.jpg" alt="Syntax hacking: Researchers discover sentence structure can bypass AI safety rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/12/syntax-hacking-researchers-discover-sentence-structure-can-bypass-ai-safety-rules/" target="_blank">Syntax hacking: Researchers discover sentence structure can bypass AI safety rules</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-02 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/" target="_blank">Introducing Stack Overflow AI Assist—a tool for the modern developer</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-02 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fob8rqh1edwpjlwu6q30d.png" alt="Evicting MCP tool calls from your Kubernetes cluster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mikhae1/evicting-mcp-tool-calls-from-your-kubernetes-cluster-428k" target="_blank">Evicting MCP tool calls from your Kubernetes cluster</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-02 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/" target="_blank">“The local-first rebellion”: How Home Assistant became the most important project in your house</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-12-02 17:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783148&w=600" alt="Beyond Buzzwords: Demystifying Agentic AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,33 +218,6 @@
                 <span class="time">2025-12-02 15:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783131&w=600" alt="A Comparative Analysis of AI Tools for Developers in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/comparative-analysis-ai-tools-developers" target="_blank">A Comparative Analysis of AI Tools for Developers in 2025</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-02 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/jep526-lazy-constants/en/headerimage/java-istock-image-01-1762720446658-1764559266943.jpg" alt="JEP 526 Simplifies Deferred Initialization Ahead of JDK 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/jep526-lazy-constants/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JEP 526 Simplifies Deferred Initialization Ahead of JDK 26</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-02 14:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Pro-For-WSL" target="_blank">Canonical Now Offering Ubuntu Pro For WSL</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-02 13:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KB0P18KE2W8QNZ33JV0YXN1T/hero-image.png" alt="Almost Every Apple Watch Is Still On Sale After Cyber Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/almost-every-apple-watch-is-on-sale-cyber-week-2025?utm_medium=RSS" target="_blank">Almost Every Apple Watch Is Still On Sale After Cyber Monday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-02 17:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/helldivers-2-Worm-1280x720.jpg" alt="Wow, Helldivers 2‘s Install Size On PC Is Now 130GB Smaller" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/helldivers-2-install-size-large-smaller-pc-update-150gb-arrowhead-2000649639" target="_blank">Wow, Helldivers 2‘s Install Size On PC Is Now 130GB Smaller</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-02 17:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/tether-1280x853.jpg" alt="Sony Wants to Launch a Stablecoin and So Does Everyone Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sony-wants-to-launch-a-stablecoin-and-so-does-everyone-else-2000694582" target="_blank">Sony Wants to Launch a Stablecoin and So Does Everyone Else</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-02 17:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Obsession-movie-teaser-1280x853.jpg" alt="Be Careful What You Wish for in the First Trailer for ‘Obsession’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,33 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/dc-comics-sweater-weather-variant-covers-batman-nightwing-superman-wonder-woman-2000694494" target="_blank">DC Comics’ Festive ‘Sweater Weather’ Covers Are a Real Winter Warmer (Exclusive)</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-02 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/forerunner-watch-1280x853.jpg" alt="Garmin Breaks Its Own Pricing Rule, Forerunner 165 Smartwatch Still at Cyber Monday Low as Leftover Stock Remains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/garmin-breaks-its-own-pricing-rule-forerunner-165-smartwatch-still-at-cyber-monday-low-as-leftover-stock-remains-2000649293" target="_blank">Garmin Breaks Its Own Pricing Rule, Forerunner 165 Smartwatch Still at Cyber Monday Low as Leftover Stock Remains</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-02 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/shutterstock_2431928561-e1747942943328.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Nancy Mace exposed taking credit for a bill she opposed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/02/nancy-mace-exposed-for-taking-credit-for-bill-she-opposed.html" target="_blank">Nancy Mace exposed taking credit for a bill she opposed</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-02 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/best-nerdy-christmas-decorations-gifts-2025-1280x853.jpg" alt="The Perfect Holiday Gifts for Your Festive Fandom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/best-nerdy-christmas-gifts-2025-decorations-clothing-2000685545" target="_blank">The Perfect Holiday Gifts for Your Festive Fandom</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-02 15:00</span>
             </div>
         </div>
 </div>
@@ -314,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
