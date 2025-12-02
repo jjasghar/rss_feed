@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 21:01:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-02 22:01:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/dec/02/trump-somali-immigrants-minnesota" target="_blank">Trump calls Somali immigrants ‘garbage’ as US reportedly targets Minnesota community</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-02 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/12/2/can-former-colonial-powers-be-held-accountable-for-past-atrocities?traffic_source=rss" target="_blank">Can former colonial powers be held accountable for past atrocities?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-02 21:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +105,38 @@
                 <span class="time">2025-12-02 19:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/2/honduras-election-why-has-trump-threatened-to-cut-off-aid?traffic_source=rss" target="_blank">Honduras election: Why has Trump threatened to cut off aid?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-02 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/02/nx-s1-5628382/trump-pardons-honduran-ex-president-juan-orlando-hernandez" target="_blank">Trump pardons Honduran ex-president who was convicted of drug crimes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-02 17:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter" target="_blank">Amazon’s bet that AI benchmarks don’t matter</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-02 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/02/the-future-of-deep-tech-will-be-explained-to-you-at-strictlyvc-palo-alto-on-dec-3/" target="_blank">The future of deep tech will be explained to you at StrictlyVC Palo Alto on Dec 3</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-02 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/692f183fe9798957f0968424/master/pass/Leave-MadMen-Alone-Culture-TCDMAME_EC028.jpg" alt="HBO Max’s ‘Mad Men’ Vomit Scene Proves ‘Remastered’ Doesn’t Mean ‘Better’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hbo-maxs-mad-men-barf-scene-proves-remastered-doesnt-mean-better/" target="_blank">HBO Max’s ‘Mad Men’ Vomit Scene Proves ‘Remastered’ Doesn’t Mean ‘Better’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-02 20:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,38 +164,29 @@
                 <span class="time">2025-12-02 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2235571142-500x500-1764696875.jpg" alt="Meet CDC’s new lead vaccine advisor who thinks shots cause heart disease" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/12/meet-cdcs-new-lead-vaccine-advisor-who-thinks-shots-cause-heart-disease/" target="_blank">Meet CDC’s new lead vaccine advisor who thinks shots cause heart disease</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-02 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/836613/apple-music-replay-2025-listening-stats-launch" target="_blank">Apple Music Replay 2025 is back with new listening stats</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-02 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/02/openai-slammed-for-app-suggestions-that-looked-like-ads/" target="_blank">OpenAI slammed for app suggestions that looked like ads</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-02 16:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aditmodi/aws-reinvent-2025-matt-garmans-keynote-a-builders-breakdown-36o3" target="_blank">AWS re:Invent 2025 – Matt Garman’s Keynote: A Builder’s Breakdown</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-02 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18784221&w=600" alt="Web App Load Testing Using Maven Plugins for Apache JMeter, and Analyzing the Results" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/running-load-test-web-app-using-maven-plugins" target="_blank">Web App Load Testing Using Maven Plugins for Apache JMeter, and Analyzing the Results</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-02 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/linux-mint-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.3 Beta Will Be Released This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +223,6 @@
                 <span class="time">2025-12-02 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/" target="_blank">Introducing Stack Overflow AI Assist—a tool for the modern developer</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-02 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fob8rqh1edwpjlwu6q30d.png" alt="Evicting MCP tool calls from your Kubernetes cluster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mikhae1/evicting-mcp-tool-calls-from-your-kubernetes-cluster-428k" target="_blank">Evicting MCP tool calls from your Kubernetes cluster</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-02 17:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/showa.jpg?fit=1200%2C752&amp;quality=60&amp;ssl=1" alt="Photographer is racing against time to capture Japan&#x27;s vanishing Shōwa-era vestiges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/02/photographer-is-racing-against-time-to-capture-japans-vanishing-showa-era-vestiges.html" target="_blank">Photographer is racing against time to capture Japan&#x27;s vanishing Shōwa-era vestiges</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-02 21:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/hands-in-sand-1280x853.jpg" alt="Humans Can Detect Buried Objects Without Touching Them, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +296,6 @@
                 <span class="time">2025-12-02 17:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/helldivers-2-Worm-1280x720.jpg" alt="Wow, Helldivers 2‘s Install Size On PC Is Now 130GB Smaller" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/helldivers-2-install-size-large-smaller-pc-update-150gb-arrowhead-2000649639" target="_blank">Wow, Helldivers 2‘s Install Size On PC Is Now 130GB Smaller</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-02 17:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
