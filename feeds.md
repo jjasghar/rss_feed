@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 15:01:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-02 16:02:18 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 13 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/2/isack-hadjar-to-replace-yuki-tsunoda-at-red-bull-for-2026-f1-season?traffic_source=rss" target="_blank">Isack Hadjar to replace Yuki Tsunoda at Red Bull for 2026 F1 season</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-02 15:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/02/nx-s1-5627515/metroid-prime-4-beyond-review" target="_blank">Metroid Prime 4: Beyond is a technical marvel and game design nightmare</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-02 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +102,29 @@
                 <span class="time">2025-12-02 13:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/2/pope-prays-at-site-of-2020-beirut-port-explosion?traffic_source=rss" target="_blank">Pope prays at site of 2020 Beirut port explosion</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-02 12:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1764678434178_tdy_news_7a_keir_us_envoy_putin_251202_1920x1080-dwknc9.jpg" alt="Trump Envoy to Meet Putin for Ukraine-Russia Peace Talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/steve-witkoff-to-meet-with-putin-for-ukraine-russia-peace-talks-253416517867" target="_blank">Trump Envoy to Meet Putin for Ukraine-Russia Peace Talks</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-02 12:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/692e13f07e056dae9d7474c9/master/pass/Amazon-Releases-New-Versions-of-Nova-Business-1244448114.jpg" alt="Amazon Has New Frontier AI Models—and a Way for Customers to Build Their Own" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-nova-forge-ai-models/" target="_blank">Amazon Has New Frontier AI Models—and a Way for Customers to Build Their Own</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-02 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/" target="_blank">Simular’s AI agent wants to run your Mac, Windows PC for you</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-02 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +161,47 @@
                 <span class="time">2025-12-02 11:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6913cb9b63f140eca2d27d23/master/pass/Big-Interview-UV-Solo-Melinda-Gates-Business-2234834239.jpg" alt="Melinda French Gates on Secrets: ‘Live a Truthful Life, Then You Don’t Have Any’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-big-interview-podcast-melinda-french-gates/" target="_blank">Melinda French Gates on Secrets: ‘Live a Truthful Life, Then You Don’t Have Any’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-02 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69261036754c5d61d3756c3f/master/pass/Pol_Doge_GettyImages-2202928401.jpg" alt="DOGE Isn’t Dead. Here’s What Its Operatives Are Doing Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-is-doge-doing-now/" target="_blank">DOGE Isn’t Dead. Here’s What Its Operatives Are Doing Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-02 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codingpanel/medium-vs-dev-vs-hashnode-vs-hackernoon-vs-coderlegion-where-should-you-publish-launch-3ikj" target="_blank">Medium vs DEV vs Hashnode vs Hackernoon vs CoderLegion — Where Should You Publish &amp; Launch? 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-02 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Adjust-Writeback-Chunk" target="_blank">Linux 6.19 To Allow File-Systems To Increase The Writeback Chunk Size</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-02 15:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783131&w=600" alt="A Comparative Analysis of AI Tools for Developers in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/comparative-analysis-ai-tools-developers" target="_blank">A Comparative Analysis of AI Tools for Developers in 2025</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/jep526-lazy-constants/en/headerimage/java-istock-image-01-1762720446658-1764559266943.jpg" alt="JEP 526 Simplifies Deferred Initialization Ahead of JDK 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/jep526-lazy-constants/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JEP 526 Simplifies Deferred Initialization Ahead of JDK 26</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-02 14:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,42 +218,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/canonical-announces-ubuntu-pro-for-wsl" target="_blank">Canonical announces Ubuntu Pro for WSL</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2025-12-02 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr87yq3bmiaxy03meh6p6.png" alt="OpenAI Language Translation: Pros &amp; Cons for Enterprises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jennamitchell/openai-language-translation-pros-cons-for-enterprises-32e8" target="_blank">OpenAI Language Translation: Pros &amp; Cons for Enterprises</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-02 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://xania.org/202512/02-adding-integers" target="_blank">Addressing the adding situation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-02 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/openSUSE-Intel-NPU-Support" target="_blank">openSUSE Begins Rolling Out Intel NPU Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-02 11:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/google-code-wiki/" target="_blank">Google&#x27;s New AI Tool Solves a Problem for Every Lazy Developer</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-12-02 11:17</span>
             </div>
         </div>
 </div>
@@ -236,6 +239,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/dc-comics-sweater-weather-nightwing-variant-1280x853.jpg" alt="DC Comics’ Festive ‘Sweater Weather’ Covers Are a Real Winter Warmer (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dc-comics-sweater-weather-variant-covers-batman-nightwing-superman-wonder-woman-2000694494" target="_blank">DC Comics’ Festive ‘Sweater Weather’ Covers Are a Real Winter Warmer (Exclusive)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-02 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/forerunner-watch-1280x853.jpg" alt="Garmin Breaks Its Own Pricing Rule, Forerunner 165 Smartwatch Still at Cyber Monday Low as Leftover Stock Remains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/garmin-breaks-its-own-pricing-rule-forerunner-165-smartwatch-still-at-cyber-monday-low-as-leftover-stock-remains-2000649293" target="_blank">Garmin Breaks Its Own Pricing Rule, Forerunner 165 Smartwatch Still at Cyber Monday Low as Leftover Stock Remains</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-02 15:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/shutterstock_2431928561-e1747942943328.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Nancy Mace exposed taking credit for a bill she opposed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/02/nancy-mace-exposed-for-taking-credit-for-bill-she-opposed.html" target="_blank">Nancy Mace exposed taking credit for a bill she opposed</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-02 15:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/best-nerdy-christmas-decorations-gifts-2025-1280x853.jpg" alt="The Perfect Holiday Gifts for Your Festive Fandom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +291,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-rizzmas-carols?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: The Horror of Rizzmas Carols</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-02 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBF34E91A2B7KQB3TJRSQJC3/hero-image.png" alt="This Eufy No-Subscription-Required Floodlight Camera Is Now $80 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/eufy-e340-floodlight-camera-sale-december-2025?utm_medium=RSS" target="_blank">This Eufy No-Subscription-Required Floodlight Camera Is Now $80 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-02 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/MatrixPills-1280x853.jpg" alt="‘The Matrix’ Co-Creator Lilly Wachowski Addresses (Again) ‘Red Pill’ Misappropriation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-matrix-co-creator-lilly-wachowski-addresses-again-red-pill-misappropriation-2000694255" target="_blank">‘The Matrix’ Co-Creator Lilly Wachowski Addresses (Again) ‘Red Pill’ Misappropriation</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-02 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/prostock-studio.jpg?fit=2222%2C1481&amp;quality=60&amp;ssl=1" alt="Netflix claims no-one used &quot;cast to TV&quot; feature, but they sure are complaining" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/02/netflix-removes-cast-to-tv-feature.html" target="_blank">Netflix claims no-one used &quot;cast to TV&quot; feature, but they sure are complaining</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-02 11:11</span>
             </div>
         </div>
 </div>
@@ -327,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
