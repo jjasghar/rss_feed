@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 09:03:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-02 10:01:47 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 33 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 09:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b6/live/a83e0e40-cf5e-11f0-8c06-f5d460985095.png" alt="Twelve more prisoners released in error, with two still missing, says Lammy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8e9py8g2yyo?at_medium=RSS&at_campaign=rss" target="_blank">Twelve more prisoners released in error, with two still missing, says Lammy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-02 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/2/fifa-world-cup-2026-draw-teams-pots-how-to-watch-and-all-to-know?traffic_source=rss" target="_blank">FIFA World Cup 2026 draw: Teams, pots, how to watch and all to know</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-02 09:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/witkoff-putin-main_1764656269666_hpMain_4x3t_384.jpg" alt="As Putin and Witkoff prepare to meet, White House is &#x27;very optimistic&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss" target="_blank">LIVE: Israeli forces continue demolition, destruction around Gaza City</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-02 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3116/live/265a4320-cf23-11f0-8bce-d702684f05d1.jpg" alt="Putin and Trump&#x27;s envoy set for key Ukraine talks in Moscow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce8ng3yjenpo?at_medium=RSS&at_campaign=rss" target="_blank">Putin and Trump&#x27;s envoy set for key Ukraine talks in Moscow</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-02 05:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/12/2/indias-sky-high-fares-crash-dreams-to-make-flying-accessible-to-all?traffic_source=rss" target="_blank">India’s sky-high fares crash dreams to make flying accessible to all</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-02 05:10</span>
             </div>
         </div>
 </div>
@@ -170,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ude0mkxsj845xdz7ems.jpg" alt="7 Things Every Beginner Should Know Before Visiting a Film Shop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/orwoshop/7-things-every-beginner-should-know-before-visiting-a-film-shop-494d" target="_blank">7 Things Every Beginner Should Know Before Visiting a Film Shop</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-02 09:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/onlyoffice-docs-9-2-release/" target="_blank">ONLYOFFICE Docs 9.2 Release Brings AI Grammar Checks to the Free Office Suite</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-12-02 09:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,24 +218,6 @@
                 <span class="time">2025-12-02 04:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://publicdomainreview.org/features/entering-the-public-domain/2026/" target="_blank">What will enter the public domain in 2026?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-02 03:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpai9gmssjr08oq39pcqs.png" alt="7 Nano Banana Pro Workflows That Actually Save You Hours As a Developer and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nitinfab/7-nano-banana-pro-workflows-that-actually-save-you-hours-as-a-developer-and-more-17bj" target="_blank">7 Nano Banana Pro Workflows That Actually Save You Hours As a Developer and More</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-02 03:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/plex-1280x852.jpg" alt="The Enshittification of Plex Is Kicking Off, Starting with Free Roku Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-enshittification-of-plex-is-kicking-off-starting-with-free-roku-users-2000694283" target="_blank">The Enshittification of Plex Is Kicking Off, Starting with Free Roku Users</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-02 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/siri-1280x854.jpg" alt="Apple Has Announced the Retirement and Apparent Replacement of the Guy Formerly in Charge of Siri" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +291,6 @@
                 <span class="time">2025-12-01 22:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/peacefullife-1280x710.jpg" alt="Extraction Shooter Player Puts Down Guns And Starts Selling Fruit Instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-trade-fruit-loot-scrappy-lemons-mushrooms-2000649233" target="_blank">Extraction Shooter Player Puts Down Guns And Starts Selling Fruit Instead</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-01 21:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
