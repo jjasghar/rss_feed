@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 03:25:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-02 04:07:27 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 03:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 04:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +107,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/833050/cyber-monday-2025-gift-ideas-deal-sale" target="_blank">These Verge-approved gifts are still available for up to 60 percent off for Cyber Monday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-02 04:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/835606/cyber-monday-hoto-electric-screwdriver-drill-tool-deals-sale-2025" target="_blank">Hoto’s slick, rechargeable tools are still over 60 percent off for Cyber Monday</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-02 02:30</span>
@@ -148,15 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/12/01/one-of-googles-biggest-ai-advantages-is-what-it-already-knows-about-you/" target="_blank">One of Google’s biggest AI advantages is what it already knows about you</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-02 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/icbmfailure1-500x433.jpg" alt="The missile meant to strike fear in Russia’s enemies fails once again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/12/the-missile-meant-to-strike-fear-in-russias-enemies-fails-once-again/" target="_blank">The missile meant to strike fear in Russia’s enemies fails once again</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-01 23:36</span>
             </div>
         </div>
 </div>
@@ -269,6 +267,15 @@ In 2025, a one-person AI company isn’t just possible. It’s practical, powerf
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/passport-photo.jpeg?fit=1200%2C1200&amp;quality=60&amp;ssl=1" alt="Russian passport photocopies look like analog horror nightmares" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/01/russian-passport-photocopies-look-like-analog-horror-nightmares.html" target="_blank">Russian passport photocopies look like analog horror nightmares</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-01 22:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/peacefullife-1280x710.jpg" alt="Extraction Shooter Player Puts Down Guns And Starts Selling Fruit Instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -284,15 +291,6 @@ In 2025, a one-person AI company isn’t just possible. It’s practical, powerf
                 <span class="title"><a href="https://gizmodo.com/even-the-guy-who-plays-vecna-didnt-know-how-stranger-things-would-end-2000694067" target="_blank">Even the Guy Who Plays Vecna Didn’t Know How ‘Stranger Things’ Would End</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-01 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBDDSEE8SENBE1NGTH0JT9AC/hero-image.jpg" alt="Netflix Is Killing Casting From Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/netflix-is-killing-casting-from-your-phone?utm_medium=RSS" target="_blank">Netflix Is Killing Casting From Your Phone</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-01 19:30</span>
             </div>
         </div>
 </div>
@@ -351,7 +349,7 @@ In 2025, a one-person AI company isn’t just possible. It’s practical, powerf
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 40 | 📸 With Images: 291 |
-        🔄 Last Updated: 03:25 UTC
+        🔄 Last Updated: 04:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
