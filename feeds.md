@@ -1,33 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 19:03:12 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-02 20:01:36 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 19:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-251202_1764694787088_hpMain_4x3t_384.jpg" alt="Trump admin updates: Hegseth says he did not see 2nd boat strike, survivors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=127993391" target="_blank">Trump admin updates: Hegseth says he did not see 2nd boat strike, survivors</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-02 19:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1764703126632_now_brk_alba_trump_hegseth_boat_cab_251202_1920x1080-pmb6hs.jpg" alt="Trump talks strikes on alleged drug boats and immigration at Cabinet meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-talks-strikes-on-alleged-drug-boats-and-immigration-at-cabinet-meeting-253450309849" target="_blank">Trump talks strikes on alleged drug boats and immigration at Cabinet meeting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-02 19:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +91,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/2/juan-orlando-hernandez-freed-after-trumps-full-and-complete-pardon?traffic_source=rss" target="_blank">Juan Orlando Hernandez freed after Trump’s ‘full and complete’ pardon</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-02 16:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff0c/live/20ca1670-cf9f-11f0-976e-4fc7ee951a33.jpg" alt="&#x27;We will never get justice&#x27; say Hillsborough families as report finds fundamental police failures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y9r863k4eo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;We will never get justice&#x27; say Hillsborough families as report finds fundamental police failures</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-02 16:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/2/isack-hadjar-to-replace-yuki-tsunoda-at-red-bull-for-2026-f1-season?traffic_source=rss" target="_blank">Isack Hadjar to replace Yuki Tsunoda at Red Bull for 2026 F1 season</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-02 15:31</span>
             </div>
         </div>
 </div>
@@ -162,6 +158,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/linux-mint-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.3 Beta Will Be Released This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/linux-mint-22-3-beta-coming-this-month" target="_blank">Linux Mint 22.3 Beta Will Be Released This Month</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-02 19:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18778003&w=600" alt="JDK 17 Memory Bloat in Containers: A Post-Mortem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -189,30 +194,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/211f1f65-bdb7-4906-9634-96fa1f814f19_1438x1078.png" alt="A pragmatic guide to LLM evals for devs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/evals" target="_blank">A pragmatic guide to LLM evals for devs</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-12-02 17:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/" target="_blank">“The local-first rebellion”: How Home Assistant became the most important project in your house</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-12-02 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783148&w=600" alt="Beyond Buzzwords: Demystifying Agentic AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/demystifying-agentic-ai" target="_blank">Beyond Buzzwords: Demystifying Agentic AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-02 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codingpanel/medium-vs-dev-vs-hashnode-vs-hackernoon-vs-coderlegion-where-should-you-publish-launch-3ikj" target="_blank">Medium vs DEV vs Hashnode vs Hackernoon vs CoderLegion — Where Should You Publish &amp; Launch? 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-02 15:49</span>
             </div>
         </div>
 </div>
@@ -325,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
