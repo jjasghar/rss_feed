@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 10:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-02 11:01:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -92,12 +95,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-mobile-phone-child_7098059.jpg?20251202064511" alt="More than 800,000 young children seeing social media content &#x27;designed to hook adults&#x27;, figures show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss" target="_blank">LIVE: Israeli forces continue demolition, destruction around Gaza City</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-02 05:46</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/more-than-800000-young-children-seeing-social-media-content-designed-to-hook-adults-figures-show-13478155" target="_blank">More than 800,000 young children seeing social media content &#x27;designed to hook adults&#x27;, figures show</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-02 06:45</span>
             </div>
         </div>
 </div>
@@ -105,6 +108,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69261036754c5d61d3756c3f/master/pass/Pol_Doge_GettyImages-2202928401.jpg" alt="DOGE Isn’t Dead. Here’s What Its Operatives Are Doing Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-is-doge-doing-now/" target="_blank">DOGE Isn’t Dead. Here’s What Its Operatives Are Doing Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-02 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" alt="Vitamix Promo Codes and Deals: $25 Off + Free Shipping" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +162,38 @@
                 <span class="time">2025-12-02 04:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/835606/cyber-monday-hoto-electric-screwdriver-drill-tool-deals-sale-2025" target="_blank">Hoto’s slick, rechargeable tools are still over 60 percent off for Cyber Monday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-02 02:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/firefox-based-browsers/" target="_blank">Not Every Browser is Built on Chrome: Explore These Firefox-based Options</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-12-02 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/woovi/copy-and-paste-on-proxmox-vm-15il" target="_blank">Copy and Paste on Proxmox VM</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-02 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Credential-Guards" target="_blank">Kernel Credential Guards Merged For Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-02 10:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ude0mkxsj845xdz7ems.jpg" alt="7 Things Every Beginner Should Know Before Visiting a Film Shop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/dailybugle33/wtf-is-distributed-data-warehousing-3o2l" target="_blank">WTF is Distributed Data Warehousing?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-02 08:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Advent of AI 2025 - Day 1: Getting Goose to Generate Daily Fortunes in CI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nickytonline/advent-of-ai-2025-day-1-getting-goose-to-generate-daily-fortunes-in-ci-3alp" target="_blank">Advent of AI 2025 - Day 1: Getting Goose to Generate Daily Fortunes in CI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-02 06:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_dj_/qwik-ad" target="_blank">Fix: Qwik makes empty sitemap.xml</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-02 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mohhddhassan/clean-code-in-etlhow-python-go-and-sql-each-teach-you-to-think-differently-55i6" target="_blank">Clean Code in ETL:How Python, Go, and SQL Each Teach You to Think Differently</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-02 04:52</span>
             </div>
         </div>
 </div>
@@ -328,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
