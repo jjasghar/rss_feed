@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 07:02:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-02 08:02:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/2/hong-kong-leader-orders-independent-investigation-into-fire-that-killed-151?traffic_source=rss" target="_blank">Hong Kong leader orders independent investigation into fire that killed 151</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-02 07:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/02/nx-s1-5628200/plea-son-drug-kingpin-el-chapo-sinaloa-capo" target="_blank">Plea deal with son of drug kingpin &#x27;El Chapo&#x27; details abduction of legendary Sinaloa capo</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-02 06:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +99,6 @@
                 <span class="time">2025-12-02 04:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/01/nx-s1-5545712/us-ski-resorts-steep-drop-international-travel-politics" target="_blank">U.S. ski resorts are bracing for a steep drop in international travel due to politics</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-02 03:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/2/luigi-mangione-appears-in-court-as-lawyers-seek-to-bar-evidence-at-trial?traffic_source=rss" target="_blank">Luigi Mangione appears in court as lawyers seek to bar evidence at trial</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-02 02:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +111,15 @@
                 <span class="title"><a href="https://www.wired.com/story/vitamix-promo-code/" target="_blank">Vitamix Promo Codes and Deals: $25 Off + Free Shipping</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-02 06:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas" target="_blank">These last-minute Cyber Monday deals will likely be gone tomorrow</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-02 06:18</span>
             </div>
         </div>
 <div class="story">
@@ -150,15 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/835606/cyber-monday-hoto-electric-screwdriver-drill-tool-deals-sale-2025" target="_blank">Hoto’s slick, rechargeable tools are still over 60 percent off for Cyber Monday</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-02 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691ebbbfaaec53d0d5d9437c/master/pass/The%20Best%20Early%20Black%20Friday%20Tech%20Deals%20From%20Best%20Buy.png" alt="22 Best Cyber Monday Deals at Best Buy (2025) on Hot Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cyber-monday-best-buy-deals/" target="_blank">22 Best Cyber Monday Deals at Best Buy (2025) on Hot Tech</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-02 01:36</span>
             </div>
         </div>
 </div>
@@ -329,22 +326,13 @@ In 2025, a one-person AI company isn’t just possible. It’s practical, powerf
                 <span class="time">2025-12-01 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/01/come-in-clutch" target="_blank">Come In Clutch</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-01 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
