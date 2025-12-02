@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 14:02:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-02 15:01:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/02/g-s1-100056/pope-leo-lebanon-middle-east-visit-beirut-port" target="_blank">Pope Leo wraps up his visit to Lebanon with prayers at the site of Beirut&#x27;s port blast</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-02 14:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/12/2/israel-targeted-al-shifa-hospital-the-same-way-as-military-systems?traffic_source=rss" target="_blank">Israel targeted Al Shifa Hospital “the same way” as military systems</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-02 14:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +99,20 @@
                 <span class="time">2025-12-02 12:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/12/2/netanyahu-requesting-pardon-is-him-getting-into-election?traffic_source=rss" target="_blank">Netanyahu requesting pardon is him “getting into election mode”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-02 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/witkoff-putin-main_1764656269666_hpMain_4x3t_384.jpg" alt="White House is &#x27;very optimistic&#x27; ahead of Russia-US meeting on ending Ukraine war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/putin-witkoff-prepare-meet-white-house-optimistic/story?id=128025858" target="_blank">White House is &#x27;very optimistic&#x27; ahead of Russia-US meeting on ending Ukraine war</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-02 11:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/02/apple-musics-replay-2025-is-here/" target="_blank">Apple Music’s Replay 2025 is here</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-02 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/what-is-doge-doing-now/" target="_blank">DOGE Isn’t Dead. Here’s What Its Operatives Are Doing Now</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-02 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" alt="Vitamix Promo Codes and Deals: $25 Off + Free Shipping" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/vitamix-promo-code/" target="_blank">Vitamix Promo Codes and Deals: $25 Off + Free Shipping</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-02 06:40</span>
             </div>
         </div>
 </div>
@@ -234,6 +237,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/best-nerdy-christmas-decorations-gifts-2025-1280x853.jpg" alt="The Perfect Holiday Gifts for Your Festive Fandom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/best-nerdy-christmas-gifts-2025-decorations-clothing-2000685545" target="_blank">The Perfect Holiday Gifts for Your Festive Fandom</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/mewtwo_thumbnail-1192w.jpg" alt="You Can Finally Get Mewtwo In Pokémon Legends: Z-A For Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-mewtwo-mega-evolution-stones-quest-2000649609" target="_blank">You Can Finally Get Mewtwo In Pokémon Legends: Z-A For Free</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-02 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBEG87ZNBRQRCW8W1X0WJYNY/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: The Horror of Rizzmas Carols" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-rizzmas-carols?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: The Horror of Rizzmas Carols</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-02 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KBF34E91A2B7KQB3TJRSQJC3/hero-image.png" alt="This Eufy No-Subscription-Required Floodlight Camera Is Now $80 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -258,33 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/02/netflix-removes-cast-to-tv-feature.html" target="_blank">Netflix claims no-one used &quot;cast to TV&quot; feature, but they sure are complaining</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-02 11:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/plex-1280x852.jpg" alt="The Enshittification of Plex Is Kicking Off, Starting with Free Roku Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-enshittification-of-plex-is-kicking-off-starting-with-free-roku-users-2000694283" target="_blank">The Enshittification of Plex Is Kicking Off, Starting with Free Roku Users</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-02 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/siri-1280x854.jpg" alt="Apple Has Announced the Retirement and Apparent Replacement of the Guy Formerly in Charge of Siri" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apple-has-announced-the-retirement-and-apparent-replacement-of-the-guy-in-charge-of-siri-2000693767" target="_blank">Apple Has Announced the Retirement and Apparent Replacement of the Guy Formerly in Charge of Siri</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-02 01:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAKJ75EP5EYMFG4RF0FND6TZ/hero-image.jpg" alt="Cyber Monday Tech Deals Live Updates 2025: The Best Discounts on Phones, Laptops, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/cyber-monday-tech-deals-12-1-2025-live-blog?utm_medium=RSS" target="_blank">Cyber Monday Tech Deals Live Updates 2025: The Best Discounts on Phones, Laptops, and More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-02 00:29</span>
             </div>
         </div>
 </div>
@@ -324,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
