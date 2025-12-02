@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 16:02:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-02 17:03:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/2/juan-orlando-hernandez-freed-after-trumps-full-and-complete-pardon?traffic_source=rss" target="_blank">Juan Orlando Hernandez freed after Trump’s ‘full and complete’ pardon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-02 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff0c/live/20ca1670-cf9f-11f0-976e-4fc7ee951a33.jpg" alt="&#x27;We will never get justice&#x27; say Hillsborough families as report finds fundamental police failures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y9r863k4eo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;We will never get justice&#x27; say Hillsborough families as report finds fundamental police failures</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-02 16:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +95,20 @@
                 <span class="time">2025-12-02 14:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/2/sudans-paramilitary-rsf-claims-control-of-key-city-of-babnusa?traffic_source=rss" target="_blank">Sudan’s paramilitary RSF claims control of key city of Babnusa</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-02 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f85/live/a2309150-cf84-11f0-a892-01d657345866.jpg" alt="Quarter of forces lack basic policies on sexual offences, report says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3r787grqp0o?at_medium=RSS&at_campaign=rss" target="_blank">Quarter of forces lack basic policies on sexual offences, report says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-02 13:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/02/openai-slammed-for-app-suggestions-that-looked-like-ads/" target="_blank">OpenAI slammed for app suggestions that looked like ads</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-02 16:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/692e13f07e056dae9d7474c9/master/pass/Amazon-Releases-New-Versions-of-Nova-Business-1244448114.jpg" alt="Amazon Has New Frontier AI Models—and a Way for Customers to Build Their Own" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +154,20 @@
                 <span class="time">2025-12-02 12:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/836212/openai-code-red-chatgpt" target="_blank">OpenAI declares ‘code red’ as Google catches up in AI race</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-02 11:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783148&w=600" alt="Beyond Buzzwords: Demystifying Agentic AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/demystifying-agentic-ai" target="_blank">Beyond Buzzwords: Demystifying Agentic AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-02 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +213,6 @@
                 <span class="time">2025-12-02 13:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-announces-ubuntu-pro-for-wsl" target="_blank">Canonical announces Ubuntu Pro for WSL</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-12-02 12:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Obsession-movie-teaser-1280x853.jpg" alt="Be Careful What You Wish for in the First Trailer for ‘Obsession’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/obsession-movie-2026-teaser-trailer-horror-wishes-2000694595" target="_blank">Be Careful What You Wish for in the First Trailer for ‘Obsession’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-02 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/samsu-1280x720.jpg" alt="After An 8 Year Wait, Metroid Prime 4: Beyond Reviews Say It’s Fine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/metroid-prime-4-reviews-is-it-good-switch-2-nintendo-2000649621" target="_blank">After An 8 Year Wait, Metroid Prime 4: Beyond Reviews Say It’s Fine</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-02 16:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/dc-comics-sweater-weather-nightwing-variant-1280x853.jpg" alt="DC Comics’ Festive ‘Sweater Weather’ Covers Are a Real Winter Warmer (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +286,6 @@
                 <span class="time">2025-12-02 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/mewtwo_thumbnail-1192w.jpg" alt="You Can Finally Get Mewtwo In Pokémon Legends: Z-A For Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-mewtwo-mega-evolution-stones-quest-2000649609" target="_blank">You Can Finally Get Mewtwo In Pokémon Legends: Z-A For Free</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-02 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBEG87ZNBRQRCW8W1X0WJYNY/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: The Horror of Rizzmas Carols" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-rizzmas-carols?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: The Horror of Rizzmas Carols</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-02 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,22 +309,13 @@
                 <span class="time">2025-12-01 20:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1764559640-20251201_edit.png" alt="Saturday Morning Breakfast Cereal - Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/out-2" target="_blank">Saturday Morning Breakfast Cereal - Out</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-01 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
