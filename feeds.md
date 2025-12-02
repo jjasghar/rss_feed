@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 00:04:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-02 01:29:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed2/live/250ca890-cee3-11f0-ad7f-93b968d03d1f.jpg" alt="Jury trial reforms set to be announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg1q62jmv0o?at_medium=RSS&at_campaign=rss" target="_blank">Jury trial reforms set to be announced</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-02 01:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/kelly-1-rt-er-251201_1764626957638_hpMain_4x3t_384.jpg" alt="Sen. Kelly slams Trump, calls for investigation into Caribbean strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +96,29 @@
                 <span class="time">2025-12-01 20:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/01/nx-s1-5620992/tsmc-chipmaker-expands-beyond-taiwan" target="_blank">As political winds shift, top chipmaker TSMC looks beyond Taiwan</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-01 20:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/692cea60b71b10e005f6cc86/master/pass/Wired%20-%20Cyber%20monday%20deals.jpg" alt="The 171 Best Cyber Monday Deals—Save Up to 57% Off Gear We Love" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cyber-monday-deals-2025/" target="_blank">The 171 Best Cyber Monday Deals—Save Up to 57% Off Gear We Love</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-02 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/01/one-of-googles-biggest-ai-advantages-is-what-it-already-knows-about-you/" target="_blank">One of Google’s biggest AI advantages is what it already knows about you</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-02 00:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +155,20 @@
                 <span class="time">2025-12-01 22:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692402a28006ba74bce6f97f/master/pass/Best%20Laptop%20Deals%20for%20Black%20Friday%202025.png" alt="14 Best Cyber Monday Laptop Deals (2025): MacBooks, Gaming Laptops, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-cyber-monday-laptop-deals-2025/" target="_blank">14 Best Cyber Monday Laptop Deals (2025): MacBooks, Gaming Laptops, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-01 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2218000971-500x500.jpg" alt="In Myanmar, illicit rare-earth mining is taking a heavy toll" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/in-myanmar-illicit-rare-earth-mining-is-taking-a-heavy-toll/" target="_blank">In Myanmar, illicit rare-earth mining is taking a heavy toll</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-01 21:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Linux-November-2025" target="_blank">Steam On Linux Use Easily Hits An All-Time High In November</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-02 01:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/onlyoffice-logo-hero.jpg?resize=406%2C232&amp;ssl=1" alt="ONLYOFFICE 9.2 Offers AI Agent to All, Adds Macro Recording" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +214,6 @@
                 <span class="time">2025-12-01 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-44-Nicer-NTSYNC" target="_blank">Fedora 44 Granted Approval For A Nicer NTSYNC Experience For Wine &amp; Steam Play</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-01 19:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/siri-1280x854.jpg" alt="Apple Has Announced the Retirement and Apparent Replacement of the Guy Formerly in Charge of Siri" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apple-has-announced-the-retirement-and-apparent-replacement-of-the-guy-in-charge-of-siri-2000693767" target="_blank">Apple Has Announced the Retirement and Apparent Replacement of the Guy Formerly in Charge of Siri</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-02 01:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/shell-trumpet-1280x853.jpg" alt="6,700-Year-Old Shell Trumpets Were Prehistoric Communication Tools, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +287,6 @@
                 <span class="time">2025-12-01 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/shutterstock_2292124989-scaled-e1753298172136.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Netflix fights password sharing by deleting convenience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/01/netflix-fights-password-sharing-by-deleting-convenience.html" target="_blank">Netflix fights password sharing by deleting convenience</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-01 19:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,22 +328,13 @@
                 <span class="time">2025-12-01 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5710.png" alt="Amber Is The Color" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5712" target="_blank">Amber Is The Color</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-12-01 01:15</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 40 | 📸 With Images: 290 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
