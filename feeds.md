@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 11:01:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-02 12:02:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/12/2/netanyahu-requesting-pardon-is-him-getting-into-election?traffic_source=rss" target="_blank">Netanyahu requesting pardon is him “getting into election mode”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-02 11:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/witkoff-putin-main_1764656269666_hpMain_4x3t_384.jpg" alt="White House is &#x27;very optimistic&#x27; ahead of Russia-US meeting on ending Ukraine war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/putin-witkoff-prepare-meet-white-house-optimistic/story?id=128025858" target="_blank">White House is &#x27;very optimistic&#x27; ahead of Russia-US meeting on ending Ukraine war</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-02 11:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b6/live/a83e0e40-cf5e-11f0-8c06-f5d460985095.png" alt="Twelve more prisoners released in error, with two still missing, says Lammy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +94,29 @@
                 <span class="time">2025-12-02 07:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/02/nx-s1-5628200/plea-son-drug-kingpin-el-chapo-sinaloa-capo" target="_blank">Plea deal with son of drug kingpin &#x27;El Chapo&#x27; details abduction of legendary Sinaloa capo</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-02 06:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-mobile-phone-child_7098059.jpg?20251202064511" alt="More than 800,000 young children seeing social media content &#x27;designed to hook adults&#x27;, figures show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/more-than-800000-young-children-seeing-social-media-content-designed-to-hook-adults-figures-show-13478155" target="_blank">More than 800,000 young children seeing social media content &#x27;designed to hook adults&#x27;, figures show</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-02 06:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/836212/openai-code-red-chatgpt" target="_blank">OpenAI declares ‘code red’ as Google catches up in AI race</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-02 11:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6913cb9b63f140eca2d27d23/master/pass/Big-Interview-UV-Solo-Melinda-Gates-Business-2234834239.jpg" alt="Melinda French Gates on Secrets: ‘Live a Truthful Life, Then You Don’t Have Any’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-big-interview-podcast-melinda-french-gates/" target="_blank">Melinda French Gates on Secrets: ‘Live a Truthful Life, Then You Don’t Have Any’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-02 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69261036754c5d61d3756c3f/master/pass/Pol_Doge_GettyImages-2202928401.jpg" alt="DOGE Isn’t Dead. Here’s What Its Operatives Are Doing Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +153,20 @@
                 <span class="time">2025-12-02 04:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/833050/cyber-monday-2025-gift-ideas-deal-sale" target="_blank">These Verge-approved gifts are still available for up to 60 percent off for Cyber Monday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-02 04:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/01/what-does-it-mean-when-uncle-sam-is-one-of-your-biggest-shareholders-chip-startup-xlight-is-about-to-find-out/" target="_blank">What does it mean when Uncle Sam is one of your biggest shareholders? Chip startup xLight is about to find out</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-02 04:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr87yq3bmiaxy03meh6p6.png" alt="OpenAI Language Translation: Pros &amp; Cons for Enterprises" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jennamitchell/openai-language-translation-pros-cons-for-enterprises-32e8" target="_blank">OpenAI Language Translation: Pros &amp; Cons for Enterprises</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-02 11:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +212,6 @@
                 <span class="time">2025-12-02 09:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dailybugle33/wtf-is-distributed-data-warehousing-3o2l" target="_blank">WTF is Distributed Data Warehousing?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-02 08:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/prostock-studio.jpg?fit=2222%2C1481&amp;quality=60&amp;ssl=1" alt="Netflix claims no-one used &quot;cast to TV&quot; feature, but they sure are complaining" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/02/netflix-removes-cast-to-tv-feature.html" target="_blank">Netflix claims no-one used &quot;cast to TV&quot; feature, but they sure are complaining</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-02 11:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/plex-1280x852.jpg" alt="The Enshittification of Plex Is Kicking Off, Starting with Free Roku Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +285,6 @@
                 <span class="time">2025-12-01 22:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/passport-photo.jpeg?fit=1200%2C1200&amp;quality=60&amp;ssl=1" alt="Russian passport photocopies look like analog horror nightmares" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/01/russian-passport-photocopies-look-like-analog-horror-nightmares.html" target="_blank">Russian passport photocopies look like analog horror nightmares</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-01 22:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
