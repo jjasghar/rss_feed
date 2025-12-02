@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 04:07:27 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-02 05:01:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 04:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/2/i-decided-id-die-indonesias-flood-victims-recount-stories-of-survival?traffic_source=rss" target="_blank">‘I decided I’d die’: Indonesia’s flood victims recount stories of survival</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-02 04:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +97,20 @@
                 <span class="time">2025-12-01 23:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/01/nx-s1-5627474/cdl-trucking-schools-dot-crackdown" target="_blank">Thousands of U.S. trucking schools could lose accreditation under DOT crackdown</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-01 23:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025" target="_blank">The best Apple deals you can still shop in Cyber Monday’s final hours</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-02 04:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +156,20 @@
                 <span class="time">2025-12-02 01:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/01/one-of-googles-biggest-ai-advantages-is-what-it-already-knows-about-you/" target="_blank">One of Google’s biggest AI advantages is what it already knows about you</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-02 00:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohhddhassan/clean-code-in-etlhow-python-go-and-sql-each-teach-you-to-think-differently-55i6" target="_blank">Clean Code in ETL:How Python, Go, and SQL Each Teach You to Think Differently</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-02 04:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpai9gmssjr08oq39pcqs.png" alt="7 Nano Banana Pro Workflows That Actually Save You Hours As a Developer and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +219,6 @@ In 2025, a one-person AI company isn’t just possible. It’s practical, powerf
                 <span class="time">2025-12-01 22:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe31y59ibf2ddys5qrx07.png" alt="Why I Built Shamba-MedCare (And What I Learned About Solving Real Problems)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nicanor_korir/why-i-built-shamba-medcare-and-what-i-learned-about-solving-real-problems-425g" target="_blank">Why I Built Shamba-MedCare (And What I Learned About Solving Real Problems)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-01 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +245,15 @@ In 2025, a one-person AI company isn’t just possible. It’s practical, powerf
                 <span class="title"><a href="https://gizmodo.com/apple-has-announced-the-retirement-and-apparent-replacement-of-the-guy-in-charge-of-siri-2000693767" target="_blank">Apple Has Announced the Retirement and Apparent Replacement of the Guy Formerly in Charge of Siri</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-02 01:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAKJ75EP5EYMFG4RF0FND6TZ/hero-image.jpg" alt="Cyber Monday Tech Deals Live Updates 2025: The Best Discounts on Phones, Laptops, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/cyber-monday-tech-deals-12-1-2025-live-blog?utm_medium=RSS" target="_blank">Cyber Monday Tech Deals Live Updates 2025: The Best Discounts on Phones, Laptops, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-02 00:29</span>
             </div>
         </div>
 <div class="story">
@@ -282,15 +290,6 @@ In 2025, a one-person AI company isn’t just possible. It’s practical, powerf
                 <span class="title"><a href="https://kotaku.com/arc-raiders-trade-fruit-loot-scrappy-lemons-mushrooms-2000649233" target="_blank">Extraction Shooter Player Puts Down Guns And Starts Selling Fruit Instead</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-01 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_WillandVecna-1280x853.jpg" alt="Even the Guy Who Plays Vecna Didn’t Know How ‘Stranger Things’ Would End" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/even-the-guy-who-plays-vecna-didnt-know-how-stranger-things-would-end-2000694067" target="_blank">Even the Guy Who Plays Vecna Didn’t Know How ‘Stranger Things’ Would End</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-01 19:49</span>
             </div>
         </div>
 </div>
@@ -334,22 +333,13 @@ In 2025, a one-person AI company isn’t just possible. It’s practical, powerf
                 <span class="time">2025-12-01 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/website_task_flowchart.png" alt="Website Task Flowchart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3175/" target="_blank">Website Task Flowchart</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-12-01 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 40 | 📸 With Images: 291 |
-        🔄 Last Updated: 04:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 40 | 📸 With Images: 291 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
