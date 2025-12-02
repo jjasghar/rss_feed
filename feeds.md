@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 06:02:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-02 07:02:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss" target="_blank">LIVE: Israeli forces continue demolition, destruction around Gaza City</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-02 05:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3116/live/265a4320-cf23-11f0-8bce-d702684f05d1.jpg" alt="Putin and Trump&#x27;s envoy set for key Ukraine talks in Moscow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8ng3yjenpo?at_medium=RSS&at_campaign=rss" target="_blank">Putin and Trump&#x27;s envoy set for key Ukraine talks in Moscow</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-02 05:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +102,20 @@
                 <span class="time">2025-12-02 02:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed2/live/250ca890-cee3-11f0-ad7f-93b968d03d1f.jpg" alt="Jury trial reforms set to be announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg1q62jmv0o?at_medium=RSS&at_campaign=rss" target="_blank">Jury trial reforms set to be announced</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-02 01:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1764634316094_nn_ggu_venezuela_strikes_20251201_1920x1080-7umz0w.jpg" alt="White House confirms second strike on alleged drug boat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/white-house-confirms-second-strike-on-alleged-drug-boat-253393477716" target="_blank">White House confirms second strike on alleged drug boat</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-02 00:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" alt="Vitamix Promo Codes and Deals: $25 Off + Free Shipping" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/vitamix-promo-code/" target="_blank">Vitamix Promo Codes and Deals: $25 Off + Free Shipping</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-02 06:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,6 +137,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/01/what-does-it-mean-when-uncle-sam-is-one-of-your-biggest-shareholders-chip-startup-xlight-is-about-to-find-out/" target="_blank">What does it mean when Uncle Sam is one of your biggest shareholders? Chip startup xLight is about to find out</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-02 04:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/835606/cyber-monday-hoto-electric-screwdriver-drill-tool-deals-sale-2025" target="_blank">Hoto’s slick, rechargeable tools are still over 60 percent off for Cyber Monday</a></span>
                 <span class="feed">The Verge</span>
@@ -142,29 +161,20 @@
                 <span class="time">2025-12-02 01:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/" target="_blank">Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-02 01:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692cea60b71b10e005f6cc86/master/pass/Wired%20-%20Cyber%20monday%20deals.jpg" alt="The 171 Best Cyber Monday Deals—Save Up to 57% Off Gear We Love" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cyber-monday-deals-2025/" target="_blank">The 171 Best Cyber Monday Deals—Save Up to 57% Off Gear We Love</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-02 01:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Advent of AI 2025 - Day 1: Getting Goose to Generate Daily Fortunes in CI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nickytonline/advent-of-ai-2025-day-1-getting-goose-to-generate-daily-fortunes-in-ci-3alp" target="_blank">Advent of AI 2025 - Day 1: Getting Goose to Generate Daily Fortunes in CI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-02 06:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,6 +191,15 @@
                 <span class="title"><a href="https://dev.to/mohhddhassan/clean-code-in-etlhow-python-go-and-sql-each-teach-you-to-think-differently-55i6" target="_blank">Clean Code in ETL:How Python, Go, and SQL Each Teach You to Think Differently</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-02 04:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://publicdomainreview.org/features/entering-the-public-domain/2026/" target="_blank">What will enter the public domain in 2026?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-02 03:23</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +222,6 @@ In 2025, a one-person AI company isn’t just possible. It’s practical, powerf
 In 2025, a one-person AI company isn’t just possible. It’s practical, powerful, and scalable.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-02 02:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Linux-November-2025" target="_blank">Steam On Linux Use Easily Hits An All-Time High In November</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-02 01:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/onlyoffice-logo-hero.jpg?resize=406%2C232&amp;ssl=1" alt="ONLYOFFICE 9.2 Offers AI Agent to All, Adds Macro Recording" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/onlyoffice-9-2-release-ai-agent" target="_blank">ONLYOFFICE 9.2 Offers AI Agent to All, Adds Macro Recording</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-01 23:14</span>
             </div>
         </div>
 </div>
@@ -342,8 +343,8 @@ In 2025, a one-person AI company isn’t just possible. It’s practical, powerf
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 289 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
