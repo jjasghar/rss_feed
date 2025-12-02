@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 22:01:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-02 23:01:28 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74ad/live/c6b78df0-cfaf-11f0-b476-4d01662cfb69.jpg" alt="Putin hosts Trump negotiators at Kremlin for &#x27;constructive&#x27; Ukraine talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyv0ex7v8ro?at_medium=RSS&at_campaign=rss" target="_blank">Putin hosts Trump negotiators at Kremlin for &#x27;constructive&#x27; Ukraine talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-02 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/2/barcelona-extend-lead-at-top-of-la-liga-with-3-1-win-over-atletico-madrid?traffic_source=rss" target="_blank">Barcelona extend lead at top of La Liga with 3-1 win over Atletico Madrid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-02 22:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +98,29 @@
                 <span class="time">2025-12-02 20:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-251202_1764694787088_hpMain_4x3t_384.jpg" alt="Trump admin updates: Hegseth says he did not see 2nd boat strike, survivors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=127993391" target="_blank">Trump admin updates: Hegseth says he did not see 2nd boat strike, survivors</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-02 19:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1764703126632_now_brk_alba_trump_hegseth_boat_cab_251202_1920x1080-pmb6hs.jpg" alt="Trump talks strikes on alleged drug boats and immigration at Cabinet meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-talks-strikes-on-alleged-drug-boats-and-immigration-at-cabinet-meeting-253450309849" target="_blank">Trump talks strikes on alleged drug boats and immigration at Cabinet meeting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-02 19:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/aaltman_crop-500x500.jpg" alt="OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/" target="_blank">OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-02 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/" target="_blank">Kalshi raises $1B at $11B valuation, doubling value in under two months</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-02 22:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,24 +157,6 @@
                 <span class="time">2025-12-02 20:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/02/android-16-adds-ai-notification-summaries-new-customization-options-and-more/" target="_blank">Android 16 adds AI notification summaries, new customization options, and more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-02 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/02/netflix-launches-a-mobile-friendly-version-of-red-dead-redemption/" target="_blank">Netflix launches a mobile-friendly version of Red Dead Redemption</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-02 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +169,15 @@
                 <span class="title"><a href="https://dev.to/aditmodi/aws-reinvent-2025-matt-garmans-keynote-a-builders-breakdown-36o3" target="_blank">AWS re:Invent 2025 – Matt Garman’s Keynote: A Builder’s Breakdown</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-02 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Zen-6-RAS-SDCI-Linux-6.19" target="_blank">AMD Zen 6 RAS Preparation, AMD SDCI Features Merged For Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-02 21:28</span>
             </div>
         </div>
 <div class="story">
@@ -214,15 +216,6 @@
                 <span class="time">2025-12-02 18:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18778003&w=600" alt="JDK 17 Memory Bloat in Containers: A Post-Mortem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/jdk-memory-bloat-containers" target="_blank">JDK 17 Memory Bloat in Containers: A Post-Mortem</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-02 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/season2skate-1280x720.jpg" alt="Skate Players Upset About New Update That Makes Everyone Look Like A Stoner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/skate-season-2-update-skin-tone-changes-tired-stoners-character-changes-2000649710" target="_blank">Skate Players Upset About New Update That Makes Everyone Look Like A Stoner</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-02 22:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/showa.jpg?fit=1200%2C752&amp;quality=60&amp;ssl=1" alt="Photographer is racing against time to capture Japan&#x27;s vanishing Shōwa-era vestiges" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +289,6 @@
                 <span class="time">2025-12-02 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KB0P18KE2W8QNZ33JV0YXN1T/hero-image.png" alt="Almost Every Apple Watch Is Still On Sale After Cyber Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/almost-every-apple-watch-is-on-sale-cyber-week-2025?utm_medium=RSS" target="_blank">Almost Every Apple Watch Is Still On Sale After Cyber Monday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-02 17:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
