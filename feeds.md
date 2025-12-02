@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 01:29:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-02 02:31:36 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: DZone -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/2/luigi-mangione-appears-in-court-as-lawyers-seek-to-bar-evidence-at-trial?traffic_source=rss" target="_blank">Luigi Mangione appears in court as lawyers seek to bar evidence at trial</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-02 02:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed2/live/250ca890-cee3-11f0-ad7f-93b968d03d1f.jpg" alt="Jury trial reforms set to be announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +99,29 @@
                 <span class="time">2025-12-01 21:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-vladimir-putin-viktor-orban_7094498.jpg?20251128132337" alt="US envoy to meet Putin in Moscow - as NATO could consider &#x27;pre-emptive strike&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-envoy-to-meet-putin-in-moscow-as-nato-could-consider-pre-emptive-strike-13478095" target="_blank">US envoy to meet Putin in Moscow - as NATO could consider &#x27;pre-emptive strike&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-01 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/835606/cyber-monday-hoto-electric-screwdriver-drill-tool-deals-sale-2025" target="_blank">Hoto’s slick, rechargeable tools are still over 60 percent off for Cyber Monday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-02 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/" target="_blank">Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-02 01:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/692cea60b71b10e005f6cc86/master/pass/Wired%20-%20Cyber%20monday%20deals.jpg" alt="The 171 Best Cyber Monday Deals—Save Up to 57% Off Gear We Love" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,29 +158,24 @@
                 <span class="time">2025-12-01 22:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/online-piracy-500x500.jpg" alt="Supreme Court hears case that could trigger big crackdown on Internet piracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/supreme-court-debates-whether-isps-must-kick-pirates-off-the-internet/" target="_blank">Supreme Court hears case that could trigger big crackdown on Internet piracy</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-01 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6923deca7b8cd84c7d271add/master/pass/The%20Best%20Kindle%20and%20Amazon%20Device%20Black%20Friday%20Deals.png" alt="The Best Amazon Device and Kindle Cyber Monday Deals (2025): Paperwhite, Scribe, Echo Dot Max" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-device-kindle-cyber-monday-deals-2025/" target="_blank">The Best Amazon Device and Kindle Cyber Monday Deals (2025): Paperwhite, Scribe, Echo Dot Max</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-01 22:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="We’re living in a rare moment in history, a moment where an individual can build what once required an entire startup team.
+
+In 2025, a one-person AI company isn’t just possible. It’s practical, powerful, and scalable." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/were-living-in-a-rare-moment-in-history-a-moment-where-an-individual-can-build-what-once-required-319c" target="_blank">We’re living in a rare moment in history, a moment where an individual can build what once required an entire startup team.
+
+In 2025, a one-person AI company isn’t just possible. It’s practical, powerful, and scalable.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-02 02:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Btrfs" target="_blank">Btrfs In Linux 6.19 Adds Experimental Features, Continues Preparations For FSCRYPT</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-01 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18778891&w=600" alt="Not Just Crashes: Your Observability Stack for the Mobile App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/observability-stack-mobile-app" target="_blank">Not Just Crashes: Your Observability Stack for the Mobile App</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-01 20:00</span>
             </div>
         </div>
 </div>
@@ -293,6 +300,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5713.png" alt="Less Than Never" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5713" target="_blank">Less Than Never</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-12-02 01:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -333,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 40 | 📸 With Images: 290 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 40 | 📸 With Images: 289 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
