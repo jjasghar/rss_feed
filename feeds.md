@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 20:01:36 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-12-02 21:01:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/2/antisemite-of-the-year-pro-israel-group-slams-kids-youtuber-ms-rachel?traffic_source=rss" target="_blank">‘Antisemite of the Year’: Pro-Israel group slams kids’ YouTuber Ms. Rachel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-02 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/02/nx-s1-5629010/northeast-winter-snow-storm" target="_blank">A major winter storm is pummeling the Northeast with ice and snow</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-02 20:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-251202_1764694787088_hpMain_4x3t_384.jpg" alt="Trump admin updates: Hegseth says he did not see 2nd boat strike, survivors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,29 +98,20 @@
                 <span class="time">2025-12-02 17:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca2/live/3919b6d0-cf82-11f0-8c06-f5d460985095.jpg" alt="Ukrainians in war-ravaged Donbas weigh prospects of peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpq47derx2vo?at_medium=RSS&at_campaign=rss" target="_blank">Ukrainians in war-ravaged Donbas weigh prospects of peace deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-02 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/2/juan-orlando-hernandez-freed-after-trumps-full-and-complete-pardon?traffic_source=rss" target="_blank">Juan Orlando Hernandez freed after Trump’s ‘full and complete’ pardon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-02 16:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/836948/helldivers-2-file-size-decrease" target="_blank">Helldivers 2&amp;#8217;s new &amp;#8216;slim&amp;#8217; version saves 131GB of space on your drive</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-02 20:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +157,6 @@
                 <span class="time">2025-12-02 16:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692e13f07e056dae9d7474c9/master/pass/Amazon-Releases-New-Versions-of-Nova-Business-1244448114.jpg" alt="Amazon Has New Frontier AI Models—and a Way for Customers to Build Their Own" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-nova-forge-ai-models/" target="_blank">Amazon Has New Frontier AI Models—and a Way for Customers to Build Their Own</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-02 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,6 +169,24 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/linux-mint-22-3-beta-coming-this-month" target="_blank">Linux Mint 22.3 Beta Will Be Released This Month</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-12-02 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783214&w=600" alt="Apache Phoenix With Variable-Length Encoded Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/apache-phoenix-variable-length-encoded-data" target="_blank">Apache Phoenix With Variable-Length Encoded Data</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-02 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bun.com/blog/bun-joins-anthropic" target="_blank">Anthropic acquires Bun</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-02 18:05</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +216,6 @@
                 <span class="time">2025-12-02 17:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/211f1f65-bdb7-4906-9634-96fa1f814f19_1438x1078.png" alt="A pragmatic guide to LLM evals for devs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/evals" target="_blank">A pragmatic guide to LLM evals for devs</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-12-02 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/" target="_blank">“The local-first rebellion”: How Home Assistant became the most important project in your house</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-12-02 17:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +235,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/hands-in-sand-1280x853.jpg" alt="Humans Can Detect Buried Objects Without Touching Them, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/humans-can-detect-buried-objects-without-touching-them-study-finds-2000684179" target="_blank">Humans Can Detect Buried Objects Without Touching Them, Study Finds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-02 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/stlego-1280x720.jpg" alt="I Have No Idea Who Would Actually Want This $300 Stranger Things Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/stranger-things-season-5-creel-house-lego-set-price-minifigs-netflix-2000649698" target="_blank">I Have No Idea Who Would Actually Want This $300 Stranger Things Set</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-02 20:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/parking.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Japan&#x27;s automated parking robots stack cars like vending machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/02/japans-automated-parking-robots-stack-cars-like-vending-machines.html" target="_blank">Japan&#x27;s automated parking robots stack cars like vending machines</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-02 19:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/marathonmain1-1280x709.jpg" alt="Artist At The Center Of Marathon’s Plagiarism Scandal Says Bungie Has Made Things Right" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,33 +289,6 @@
                 <span class="time">2025-12-02 17:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/tether-1280x853.jpg" alt="Sony Wants to Launch a Stablecoin and So Does Everyone Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sony-wants-to-launch-a-stablecoin-and-so-does-everyone-else-2000694582" target="_blank">Sony Wants to Launch a Stablecoin and So Does Everyone Else</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-02 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Obsession-movie-teaser-1280x853.jpg" alt="Be Careful What You Wish for in the First Trailer for ‘Obsession’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/obsession-movie-2026-teaser-trailer-horror-wishes-2000694595" target="_blank">Be Careful What You Wish for in the First Trailer for ‘Obsession’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-02 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/samsu-1280x720.jpg" alt="After An 8 Year Wait, Metroid Prime 4: Beyond Reviews Say It’s Fine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/metroid-prime-4-reviews-is-it-good-switch-2-nintendo-2000649621" target="_blank">After An 8 Year Wait, Metroid Prime 4: Beyond Reviews Say It’s Fine</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-02 16:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,22 +312,13 @@
                 <span class="time">2025-12-02 01:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/01/come-in-clutch" target="_blank">Come In Clutch</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-01 20:52</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
