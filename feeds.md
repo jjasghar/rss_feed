@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 05:01:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-02 06:02:19 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/12/2/indias-sky-high-fares-crash-dreams-to-make-flying-accessible-to-all?traffic_source=rss" target="_blank">India’s sky-high fares crash dreams to make flying accessible to all</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-02 05:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/white-house-confirms-second-strike-on-alleged-drug-boat-253393477716" target="_blank">White House confirms second strike on alleged drug boat</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-02 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/kelly-1-rt-er-251201_1764626957638_hpMain_4x3t_384.jpg" alt="Sen. Kelly slams Trump, calls for investigation into Caribbean strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/sen-kelly-slams-trump-calls-investigation-caribbean-strikes/story?id=128013547" target="_blank">Sen. Kelly slams Trump, calls for investigation into Caribbean strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-01 23:36</span>
             </div>
         </div>
 </div>
@@ -165,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_dj_/qwik-ad" target="_blank">Fix: Qwik makes empty sitemap.xml</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-02 05:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mohhddhassan/clean-code-in-etlhow-python-go-and-sql-each-teach-you-to-think-differently-55i6" target="_blank">Clean Code in ETL:How Python, Go, and SQL Each Teach You to Think Differently</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-02 04:52</span>
@@ -208,15 +221,6 @@ In 2025, a one-person AI company isn’t just possible. It’s practical, powerf
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/onlyoffice-9-2-release-ai-agent" target="_blank">ONLYOFFICE 9.2 Offers AI Agent to All, Adds Macro Recording</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-12-01 23:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/faruukku/the-atomic-schlep-the-architecture-of-the-unstoppable-swap-186i" target="_blank">The Atomic Schlep: The Architecture of the Unstoppable Swap</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-01 22:50</span>
             </div>
         </div>
 </div>
@@ -338,8 +342,8 @@ In 2025, a one-person AI company isn’t just possible. It’s practical, powerf
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 40 | 📸 With Images: 291 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 289 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
