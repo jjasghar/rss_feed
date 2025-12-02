@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-01 23:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-02 00:04:44 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, December 01, 2025 - 23:02 UTC</div>
+    <div class="newspaper-date">Tuesday, December 02, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/kelly-1-rt-er-251201_1764626957638_hpMain_4x3t_384.jpg" alt="Sen. Kelly slams Trump, calls for investigation into Caribbean strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/sen-kelly-slams-trump-calls-investigation-caribbean-strikes/story?id=128013547" target="_blank">Sen. Kelly slams Trump, calls for investigation into Caribbean strikes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-01 23:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/01/nx-s1-5627474/cdl-trucking-schools-dot-crackdown" target="_blank">Thousands of U.S. trucking schools could lose accreditation under DOT crackdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-01 23:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,39 +83,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/11/1920x1080/skynews-vladimir-putin-viktor-orban_7094498.jpg?20251128132337" alt="US envoy to meet Putin in Moscow - as NATO could consider &#x27;pre-emptive strike&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-envoy-to-meet-putin-in-moscow-as-nato-could-consider-pre-emptive-strike-13478095" target="_blank">US envoy to meet Putin in Moscow - as NATO could consider &#x27;pre-emptive strike&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-01 20:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/12/01/nx-s1-5620992/tsmc-chipmaker-expands-beyond-taiwan" target="_blank">As political winds shift, top chipmaker TSMC looks beyond Taiwan</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-01 20:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0d/live/9e1e78d0-cef2-11f0-9606-97a48f45f0d3.jpg" alt="Zelensky says Ukraine territory &#x27;most difficult&#x27; issue, as US envoy prepares to meet Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1m8nmx75evo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky says Ukraine territory &#x27;most difficult&#x27; issue, as US envoy prepares to meet Putin</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-01 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/12/1/aje-onl-aj_tt_ukr_futuredronewars_av_v1-011225?traffic_source=rss" target="_blank">How Ukraine turned into the world’s drone testing lab</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-01 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-main_1764586696967_hpMain_4x3t_384.jpg" alt="Trump admin live updates: WH says Adm. Bradley gave order on 2nd drug boat strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=127993391" target="_blank">Trump admin live updates: WH says Adm. Bradley gave order on 2nd drug boat strike</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-01 19:00</span>
             </div>
         </div>
 </div>
@@ -118,12 +115,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/01/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales/" target="_blank">Zillow drops climate risk scores after agents complained of lost sales</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-01 22:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/online-piracy-500x500.jpg" alt="Supreme Court hears case that could trigger big crackdown on Internet piracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/supreme-court-debates-whether-isps-must-kick-pirates-off-the-internet/" target="_blank">Supreme Court hears case that could trigger big crackdown on Internet piracy</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-12-01 22:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6923deca7b8cd84c7d271add/master/pass/The%20Best%20Kindle%20and%20Amazon%20Device%20Black%20Friday%20Deals.png" alt="The Best Amazon Device and Kindle Cyber Monday Deals (2025): Paperwhite, Scribe, Echo Dot Max" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-device-kindle-cyber-monday-deals-2025/" target="_blank">The Best Amazon Device and Kindle Cyber Monday Deals (2025): Paperwhite, Scribe, Echo Dot Max</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-01 22:07</span>
             </div>
         </div>
 <div class="story">
@@ -144,29 +159,20 @@
                 <span class="time">2025-12-01 21:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/" target="_blank">Nvidia announces new open AI models and tools for autonomous driving research</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-01 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/835100/samsung-switch-2-microsd-express-cyber-monday-deal-sale" target="_blank">You can double your Switch 2’s storage with Samsung’s $40 microSD Express card</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-01 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/10/onlyoffice-logo-hero.jpg?resize=406%2C232&amp;ssl=1" alt="ONLYOFFICE 9.2 Offers AI Agent to All, Adds Macro Recording" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/onlyoffice-9-2-release-ai-agent" target="_blank">ONLYOFFICE 9.2 Offers AI Agent to All, Adds Macro Recording</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-01 23:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +218,6 @@
                 <span class="time">2025-12-01 19:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-GCC-Managed-Memory" target="_blank">AMD GPU Managed Memory Support Merged For The GCC 16 Compiler</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-01 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/shell-trumpet-1280x853.jpg" alt="6,700-Year-Old Shell Trumpets Were Prehistoric Communication Tools, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/6700-year-old-shell-trumpets-were-prehistoric-communication-tools-study-suggests-2000692576" target="_blank">6,700-Year-Old Shell Trumpets Were Prehistoric Communication Tools, Study Suggests</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-02 00:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/05/b9b5ea9c4292128a7951def0bb11eb39-1280x720.jpg" alt="The Helldivers Movie Just Found The Perfect Director" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/01/netflix-fights-password-sharing-by-deleting-convenience.html" target="_blank">Netflix fights password sharing by deleting convenience</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-01 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/jeanne.jpg?fit=1200%2C603&amp;quality=60&amp;ssl=1" alt="Why this husband commissioned a sculpture of his wife&#x27;s rotting body" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/01/why-this-husband-commissioned-a-sculpture-of-his-wifes-rotting-body.html" target="_blank">Why this husband commissioned a sculpture of his wife&#x27;s rotting body</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-01 19:02</span>
             </div>
         </div>
 </div>
@@ -349,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
