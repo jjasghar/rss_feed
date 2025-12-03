@@ -1,28 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 15:02:47 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-03 16:02:15 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/3/us-venezuela-tensions-your-questions-answered?traffic_source=rss" target="_blank">US-Venezuela tensions: Your questions answered</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-03 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d97a/live/6fee7290-d059-11f0-8c06-f5d460985095.jpg" alt="What latest Ukraine talks reveal about Putin&#x27;s state of mind" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpq4e21nr5vo?at_medium=RSS&at_campaign=rss" target="_blank">What latest Ukraine talks reveal about Putin&#x27;s state of mind</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-03 15:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dbd/live/5cc5fce0-d047-11f0-8c06-f5d460985095.jpg" alt="Israel says Rafah crossing to open soon to let Palestinians leave Gaza via Egypt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,29 +97,20 @@
                 <span class="time">2025-12-03 12:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/dec/03/whistleblower-accuses-foreign-office-of-censoring-warning-of-sudan-genocide" target="_blank">Whistleblower accuses Foreign Office of ‘censoring’ warning of Sudan genocide</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-03 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/venezuela-ht-er-250915_1757975110091_hpMain_4x3t_384.jpg" alt="Family of fisherman killed in US boat strike files complaint alleging he was murdered" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/family-colombian-fisherman-killed-us-boat-strike-files/story?id=128056901" target="_blank">Family of fisherman killed in US boat strike files complaint alleging he was murdered</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-03 11:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/03/google-photos-2025-recap-turns-to-gemini-to-find-your-highlights/" target="_blank">Google Photos’ 2025 Recap turns to Gemini to find your highlights</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-03 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,20 +156,20 @@
                 <span class="time">2025-12-03 12:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/836762/yukai-engineering-mirumi-furry-companion-robot-preorder-available-kickstarter" target="_blank">Mirumi the furry companion robot is now available on Kickstarter</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-03 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/roxroy/how-to-add-a-securitytxt-file-to-your-website-in-5-minutes-with-a-generator-2ik7" target="_blank">How to Add a security.txt File to Your Website in 5 Minutes (With a Generator)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-03 15:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18782841&w=600" alt="Implementing Zero Trust on Google Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,20 +215,20 @@
                 <span class="time">2025-12-03 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aerabi/day-3-through-the-gate-4l9" target="_blank">Day 3 — Through the Gate</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-03 11:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Varmillo-Foot-Keyboard-1280x853.jpg" alt="The Next Gaming Trend Is… Uh, Controllers for Your Feet?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-next-gaming-trend-is-uh-controllers-for-your-feet-2000695081" target="_blank">The Next Gaming Trend Is… Uh, Controllers for Your Feet?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-03 15:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/bose-flex-soundbar-1280x853.jpg" alt="Bose Flex Bluetooth Speaker Drops to All-Time Low on Amazon, Now Cheaper Than Budget Options" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,15 +274,6 @@
                 <span class="time">2025-12-03 12:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_KarenWheeler-1280x853.jpg" alt="‘Stranger Things’ Star Cara Buono Talks About Her Wine Mom Breakout Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stranger-things-star-cara-buono-talks-about-her-wine-mom-breakout-moment-2000694887" target="_blank">‘Stranger Things’ Star Cara Buono Talks About Her Wine Mom Breakout Moment</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-03 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
