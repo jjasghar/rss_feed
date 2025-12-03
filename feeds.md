@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 19:02:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-03 20:01:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pete-hegseth-1-rt-gmh-251202_1764695219524_hpMain_4x3t_384.jpg" alt="Pentagon IG finds Hegseth could have endangered troops with Signal chat, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/pentagon-ig-concluded-hegseth-risked-exposing-classified-info/story?id=128079227" target="_blank">Pentagon IG finds Hegseth could have endangered troops with Signal chat, sources say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-03 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cb7/live/e9811420-d07f-11f0-92b0-9b1b6ce7fb6f.jpg" alt="Stop wasting the world&#x27;s time, Ukraine tells Putin after US talks in Moscow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss" target="_blank">Stop wasting the world&#x27;s time, Ukraine tells Putin after US talks in Moscow</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-03 19:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +99,20 @@
                 <span class="time">2025-12-03 15:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d97a/live/6fee7290-d059-11f0-8c06-f5d460985095.jpg" alt="What latest Ukraine talks reveal about Putin&#x27;s state of mind" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpq4e21nr5vo?at_medium=RSS&at_campaign=rss" target="_blank">What latest Ukraine talks reveal about Putin&#x27;s state of mind</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-03 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dbd/live/5cc5fce0-d047-11f0-8c06-f5d460985095.jpg" alt="Israel says Rafah crossing to open soon to let Palestinians leave Gaza via Egypt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpwk7xen544o?at_medium=RSS&at_campaign=rss" target="_blank">Israel says Rafah crossing to open soon to let Palestinians leave Gaza via Egypt</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-03 13:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/03/end-to-end-encrypted-smart-toilet-camera-is-not-actually-end-to-end-encrypted/" target="_blank">‘End-to-end encrypted’ smart toilet camera is not actually end-to-end encrypted</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-03 19:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +158,29 @@
                 <span class="time">2025-12-03 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/03/autolane-is-building-air-traffic-control-for-autonomous-vehicles/" target="_blank">Autolane is building ‘air traffic control’ for autonomous vehicles</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-03 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/getting-started-with-openshift-virtualization" target="_blank">Getting Started with OpenShift Virtualization</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-12-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783756&w=600" alt="Reproducible SadTalker Pipeline in Google Colab for Single-Image, Single-Audio Talking-Head Generation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/reproducible-sadtalker-pipeline-google-colab" target="_blank">Reproducible SadTalker Pipeline in Google Colab for Single-Image, Single-Audio Talking-Head Generation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-03 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18784257&w=600" alt="Engineering Evidence‑Grounded Review Pipelines With Hybrid RAG and LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,29 +217,38 @@
                 <span class="time">2025-12-03 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/being-a-founding-engineer-at-an-ai" target="_blank">Being a founding engineer at an AI startup</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-12-03 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-44-Approved-KMSCON" target="_blank">Fedora 44 Cleared To Replace Kernel Console With User-Space KMSCON</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-03 16:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/star-trek-TOS-the-apple-kirk-1280x853.jpg" alt="William Shatner’s View of the Prime Directive Is Pure Kirk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/william-shatner-star-trek-prime-directive-kirk-2000695209" target="_blank">William Shatner’s View of the Prime Directive Is Pure Kirk</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-03 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/58575ed81c1f9ef1df92cd95e2b49e6a-1280x720.jpg" alt="2025’s Hit SWAT Sim Gets Free Trial On PS5 And Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ready-or-not-free-trial-xbox-ps5-full-progress-carry-over-when-void-swat-2000650182" target="_blank">2025’s Hit SWAT Sim Gets Free Trial On PS5 And Xbox</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-03 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GVYHDA3G969N5YP4AAN09/hero-image.jpg" alt="Here&#x27;s When &#x27;Booty Bands&#x27; Are Actually Useful (and When They&#x27;re Not)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/are-booty-bands-actually-useful-1846775637?utm_medium=RSS" target="_blank">Here&#x27;s When &#x27;Booty Bands&#x27; Are Actually Useful (and When They&#x27;re Not)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-03 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/image-8-1280x720.jpg" alt="No Games For Genocide Wants You To Boycott Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -248,33 +274,6 @@
                 <span class="title"><a href="https://kotaku.com/mcdonalds-new-grinch-meal-shaker-shake-fries-pickle-holiday-christmas-meal-2000650144" target="_blank">McDonald’s New Grinch Meal Finally Ports Shake Shake Fries To The U.S.</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-03 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/bunny-island.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Japan&#x27;s &quot;Rabbit Island&quot; used to be a secret poison gas factory, now it&#x27;s overrun with adorable bunnies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/03/japans-rabbit-island-used-to-be-a-secret-poison-gas-factory-now-its-overrun-with-adorable-bunnies.html" target="_blank">Japan&#x27;s &quot;Rabbit Island&quot; used to be a secret poison gas factory, now it&#x27;s overrun with adorable bunnies</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-03 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBJJ2VKRQHCS8NTPXFEPW31G/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Apple Watch Series 11" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-apple-watch-series-11?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Apple Watch Series 11</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-03 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/E.-chlorotica-1280x853.jpg" alt="A Snorkeler in Nova Scotia Thought This Was a Leaf, but It Was Something Far Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-snorkeler-in-nova-scotia-thought-this-was-a-leaf-but-it-was-something-far-weirder-2000694844" target="_blank">A Snorkeler in Nova Scotia Thought This Was a Leaf, but It Was Something Far Weirder</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-03 16:45</span>
             </div>
         </div>
 </div>
@@ -323,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
