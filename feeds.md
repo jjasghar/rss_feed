@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 16:02:15 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-03 17:03:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251031-ice-agent-ch-1014-4f19cb.jpg" alt="Federal agents begin immigration operations in New Orleans and Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/federal-agents-begin-immigration-operations-new-orleans-minneapolis-rcna247143" target="_blank">Federal agents begin immigration operations in New Orleans and Minneapolis</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-03 15:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +102,20 @@
                 <span class="time">2025-12-03 12:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/3/eu-agrees-deal-to-end-russian-gas-purchases-by-2027?traffic_source=rss" target="_blank">EU agrees deal to end Russian gas purchases by 2027</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-03 12:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/03/aws-doubles-down-on-custom-llms-with-features-meant-to-simplify-model-creation/" target="_blank">AWS doubles down on custom LLMs with features meant to simplify model creation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-03 16:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +161,29 @@
                 <span class="time">2025-12-03 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1349412769-500x500.jpg" alt="Guitar amp sims have gotten astonishingly good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/12/guitar-amp-sims-have-gotten-astonishingly-good/" target="_blank">Guitar amp sims have gotten astonishingly good</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-03 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/being-a-founding-engineer-at-an-ai" target="_blank">Being a founding engineer at an AI startup</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-12-03 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-44-Approved-KMSCON" target="_blank">Fedora 44 Cleared To Replace Kernel Console With User-Space KMSCON</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-03 16:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,29 +220,29 @@
                 <span class="time">2025-12-03 13:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://xania.org/202512/03-more-adding-integers" target="_blank">You Can&#x27;t Fool the Optimizer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-03 12:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783240&w=600" alt="WebAssembly Is Eating the Cloud: Why Devs Should Care" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/webassembly-is-eating-the-cloud-why-devs-should-ca" target="_blank">WebAssembly Is Eating the Cloud: Why Devs Should Care</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-03 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/E.-chlorotica-1280x853.jpg" alt="A Snorkeler in Nova Scotia Thought This Was a Leaf, but It Was Something Far Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-snorkeler-in-nova-scotia-thought-this-was-a-leaf-but-it-was-something-far-weirder-2000694844" target="_blank">A Snorkeler in Nova Scotia Thought This Was a Leaf, but It Was Something Far Weirder</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-03 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/SanDiskCreatorProSSD-1280x853.jpg" alt="SanDisk 2TB Creator Pro SSD Falls to $0.12 Per GB and Comes With a Free Month of Adobe Creative Cloud Even After Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sandisk-2tb-ssd-012gb-adobe-cloud-deal-2000649680" target="_blank">SanDisk 2TB Creator Pro SSD Falls to $0.12 Per GB and Comes With a Free Month of Adobe Creative Cloud Even After Black Friday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-03 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Varmillo-Foot-Keyboard-1280x853.jpg" alt="The Next Gaming Trend Is… Uh, Controllers for Your Feet?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -239,6 +262,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBJ5NWQR0BXRDNFD9BQ7R1GS/hero-image.jpg" alt="I Let Android AI Summarize My Notifications for a Day, and Here&#x27;s What Happened" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/android-ai-notification-summaries?utm_medium=RSS" target="_blank">I Let Android AI Summarize My Notifications for a Day, and Here&#x27;s What Happened</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-03 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/06/7469329ecd7ccd169291df85a088773f-1280x719.jpg" alt="Mario Kart World’s New Update Does The Most Obnoxious Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -247,38 +279,20 @@
                 <span class="time">2025-12-03 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBH6BXR096A6532Q9FA52CM6/hero-image.png" alt="The Samsung Galaxy Tab S11 Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-tab-s11-sale-december-2025?utm_medium=RSS" target="_blank">The Samsung Galaxy Tab S11 Is $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-03 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/hp-laptop-1280x853.jpg" alt="HP Offloads Its 5-Star Laptop Bundle at 75% Off (32GB RAM, 1TB SSD) in aPost-Cyber Monday Rush, Far Cheaper Than Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hp-offloads-its-5-star-laptop-bundle-at-75-off-32gb-ram-1tb-ssd-in-a-post-cyber-monday-rush-far-cheaper-than-black-friday-2000650003" target="_blank">HP Offloads Its 5-Star Laptop Bundle at 75% Off (32GB RAM, 1TB SSD) in aPost-Cyber Monday Rush, Far Cheaper Than Black Friday</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-03 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/eater1-scaled.jpg?fit=2560%2C1712&amp;quality=60&amp;ssl=1" alt="Adorable Amigurumi Terraria Eater of Worlds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/03/adorable-amigurumi-terraria-eater-of-worlds.html" target="_blank">Adorable Amigurumi Terraria Eater of Worlds</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-03 12:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1764710385-20251203_edit.png" alt="Saturday Morning Breakfast Cereal - Sim" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/sim-3" target="_blank">Saturday Morning Breakfast Cereal - Sim</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-03 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -297,22 +311,13 @@
                 <span class="time">2025-12-03 02:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1764559658-20251202_edit.png" alt="Saturday Morning Breakfast Cereal - Daisy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/daisy" target="_blank">Saturday Morning Breakfast Cereal - Daisy</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-02 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
