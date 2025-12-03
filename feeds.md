@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 06:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-03 07:02:33 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/03/nx-s1-5629996/malaysia-airlines-flight-search" target="_blank">Deep-sea search for Malaysia Airlines Flight 370 to resume Dec. 30</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-03 06:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +97,29 @@
                 <span class="time">2025-12-03 02:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74ad/live/c6b78df0-cfaf-11f0-b476-4d01662cfb69.jpg" alt="Kremlin signals no breakthrough after Ukraine talks with US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyv0ex7v8ro?at_medium=RSS&at_campaign=rss" target="_blank">Kremlin signals no breakthrough after Ukraine talks with US</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-03 01:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/02/healthify-upgrades-its-ai-assistant-ria-with-real-time-conversation-capabilities/" target="_blank">Healthify upgrades its AI assistant Ria with real-time conversation capabilities</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-03 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" alt="30% VistaPrint Coupon &amp; Promo Codes | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/vistaprint-coupon-code/" target="_blank">30% VistaPrint Coupon &amp; Promo Codes | December 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-03 06:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +156,6 @@
                 <span class="time">2025-12-02 23:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/836984/polaroid-flip-cyber-week-2025-deal-sale" target="_blank">The Polaroid Flip, my favorite retro instant camera, is cheaper than ever</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-02 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/aaltman_crop-500x500.jpg" alt="OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/" target="_blank">OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-02 22:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +168,15 @@
                 <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-super-and-the-method-resolution-order-1jdg" target="_blank">The Secret Life of Python: super() and the Method Resolution Order</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-03 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000" target="_blank">Japanese game devs face font dilemma as license increases from $380 to $20k</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-03 04:03</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +215,6 @@
                 <span class="time">2025-12-03 01:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aditmodi/aws-reinvent-2025-matt-garmans-keynote-a-builders-breakdown-36o3" target="_blank">AWS re:Invent 2025 – Matt Garman’s Keynote: A Builder’s Breakdown</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-02 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/kelly.jpg?fit=968%2C1200&amp;quality=60&amp;ssl=1" alt="The White House now has an official enemies list for journalists, complete with a searchable database" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/02/the-white-house-now-has-an-official-enemies-list-for-journalists-complete-with-a-searchable-database.html" target="_blank">The White House now has an official enemies list for journalists, complete with a searchable database</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-03 01:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Headway-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get smarter in 15 minutes a day with this $39.99 Headway deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +288,6 @@
                 <span class="time">2025-12-02 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/showa.jpg?fit=1200%2C752&amp;quality=60&amp;ssl=1" alt="Photographer is racing against time to capture Japan&#x27;s vanishing Shōwa-era vestiges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/02/photographer-is-racing-against-time-to-capture-japans-vanishing-showa-era-vestiges.html" target="_blank">Photographer is racing against time to capture Japan&#x27;s vanishing Shōwa-era vestiges</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-02 21:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
