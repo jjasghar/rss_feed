@@ -1,29 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 09:03:46 UTC -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-12-03 10:01:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/3/gaza-university-resumes-in-person-classes-2?traffic_source=rss" target="_blank">Gaza university resumes in-person classes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-03 09:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/23/10/1920x1080/skynews-palestinians-egypt_6322896.jpg?20231016094008" alt="Rafah crossing to open &#x27;in coming days&#x27; to let Gazans cross into Egypt, Israel says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/3/sabrina-carpenter-condemns-evil-use-of-her-music-in-white-house-video?traffic_source=rss" target="_blank">Sabrina Carpenter condemns ‘evil’ use of her music in White House video</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-03 05:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/van-epps-victory_1764739580035_hpMain_4x3t_384.jpg" alt="Republican Matt Van Epps projected winner in Tennessee special election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/republican-matt-van-epps-projected-winner-closely-watched/story?id=128057088" target="_blank">Republican Matt Van Epps projected winner in Tennessee special election</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-03 05:37</span>
             </div>
         </div>
 </div>
@@ -161,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohantammineni/what-are-patterns-in-jdp-2p6m" target="_blank">What Are Patterns in JDP?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-03 09:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hrk_0fc6396abede8e916089c/understanding-angular-signals-the-future-of-reactivity-in-angular-20dj" target="_blank">Understanding Angular Signals — The Future of Reactivity in Angular</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-03 08:59</span>
@@ -200,15 +216,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/privatim-declares-international-cloud-unsuitable/" target="_blank">Swiss Data Protection Group Says US Cloud Giants Can&#x27;t Meet Privacy Standards</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-12-03 07:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-super-and-the-method-resolution-order-1jdg" target="_blank">The Secret Life of Python: super() and the Method Resolution Order</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-03 05:49</span>
             </div>
         </div>
 </div>
@@ -290,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/03/stranger-things" target="_blank">Stranger Things</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-03 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5714.png" alt="Sex Ed With Faye" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -312,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
