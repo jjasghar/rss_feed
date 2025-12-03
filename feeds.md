@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 20:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-03 21:01:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/03/nx-s1-5630917/cdc-childhood-vaccine-schedule" target="_blank">CDC&#x27;s vaccine advisers meet to question long-used vaccines</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-03 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/3/mbappe-shines-as-real-madrid-beat-athletic-to-close-on-barcelona?traffic_source=rss" target="_blank">Mbappe shines as Real Madrid beat Athletic to close on Barcelona</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-03 20:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/pete-hegseth-1-rt-gmh-251202_1764695219524_hpMain_4x3t_384.jpg" alt="Pentagon IG finds Hegseth could have endangered troops with Signal chat, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/3/israel-accused-of-manoeuvring-as-it-says-gaza-crossing-open-one-way-only?traffic_source=rss" target="_blank">Israel accused of ‘manoeuvring’ as it says Gaza crossing open one way only</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-03 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251031-ice-agent-ch-1014-4f19cb.jpg" alt="Federal agents begin immigration operations in New Orleans and Minneapolis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/federal-agents-begin-immigration-operations-new-orleans-minneapolis-rcna247143" target="_blank">Federal agents begin immigration operations in New Orleans and Minneapolis</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-03 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/3/us-venezuela-tensions-your-questions-answered?traffic_source=rss" target="_blank">US-Venezuela tensions: Your questions answered</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-03 15:42</span>
             </div>
         </div>
 </div>
@@ -173,12 +169,39 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg" alt="You can now use YouTube videos as your cover video on DEV Posts (Also Mux and Twitch videos)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devteam/you-can-now-use-youtube-videos-as-your-cover-video-on-dev-posts-also-mux-and-twitch-videos-360b" target="_blank">You can now use YouTube videos as your cover video on DEV Posts (Also Mux and Twitch videos)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-03 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783769&w=600" alt="Stop Writing Excel Specs: A Markdown-First Approach to Enterprise Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/stop-writing-excel-specs-markdown-first-approach" target="_blank">Stop Writing Excel Specs: A Markdown-First Approach to Enterprise Java</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-03 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783756&w=600" alt="Reproducible SadTalker Pipeline in Google Colab for Single-Image, Single-Audio Talking-Head Generation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/reproducible-sadtalker-pipeline-google-colab" target="_blank">Reproducible SadTalker Pipeline in Google Colab for Single-Image, Single-Audio Talking-Head Generation</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-03 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mitchellh.com/writing/ghostty-non-profit" target="_blank">Ghostty is now non-profit</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-03 18:40</span>
             </div>
         </div>
 <div class="story">
@@ -190,38 +213,20 @@
                 <span class="time">2025-12-03 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-b580-opengl-vulkan-eoy2025" target="_blank">Intel&#x27;s Open-Source Linux Graphics Driver Delivered Significant Improvements In 2025</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-03 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/" target="_blank">Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-12-03 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/arm-copilot-migration-tool/en/headerimage/arm-copilot-assistant-1764777775223.jpeg" alt="Arm Launches AI-Powered Copilot Assistant to Migrate Workflows to Arm Cloud Compute" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/arm-copilot-migration-tool/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Arm Launches AI-Powered Copilot Assistant to Migrate Workflows to Arm Cloud Compute</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-03 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBJWSH2Q396WMNPK4A15GW74/hero-image.png" alt="5 Little-Known Extensions That Make Safari Even Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/little-known-safari-extensions?utm_medium=RSS" target="_blank">5 Little-Known Extensions That Make Safari Even Better</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-03 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/star-trek-TOS-the-apple-kirk-1280x853.jpg" alt="William Shatner’s View of the Prime Directive Is Pure Kirk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +270,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/03/lying-to-pregnant-people-likely-to-become-constitutionally-protected-speech.html" target="_blank">Lying to pregnant people likely to become constitutionally protected speech</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-03 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/grirrnrchfries-1280x720.jpg" alt="McDonald’s New Grinch Meal Finally Ports Shake Shake Fries To The U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mcdonalds-new-grinch-meal-shaker-shake-fries-pickle-holiday-christmas-meal-2000650144" target="_blank">McDonald’s New Grinch Meal Finally Ports Shake Shake Fries To The U.S.</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-03 17:55</span>
             </div>
         </div>
 </div>
@@ -322,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
