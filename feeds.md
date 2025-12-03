@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 08:02:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-03 09:03:46 UTC -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/23/10/1920x1080/skynews-palestinians-egypt_6322896.jpg?20231016094008" alt="Rafah crossing to open &#x27;in coming days&#x27; to let Gazans cross into Egypt, Israel says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/rafah-crossing-to-open-in-coming-days-to-let-gazans-cross-into-egypt-israel-says-13478611" target="_blank">Rafah crossing to open &#x27;in coming days&#x27; to let Gazans cross into Egypt, Israel says</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-03 08:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/03/nx-s1-5630000/belarus-weather-balloons-lithuania-airport" target="_blank">Belarus weather balloons force repeated closures of Lithuania&#x27;s main airport</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-03 08:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +91,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/republican-matt-van-epps-projected-winner-closely-watched/story?id=128057088" target="_blank">Republican Matt Van Epps projected winner in Tennessee special election</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-03 05:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/3/trump-says-he-has-revoked-bidens-autopen-pardons-but-can-he-do-it?traffic_source=rss" target="_blank">Trump says he has revoked Biden’s autopen pardons: But can he do it?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-03 04:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/02/nx-s1-5629305/trump-says-he-doesnt-want-somalis-in-the-u-s-urges-them-to-go-back-to-their-homeland-and-fix-it" target="_blank">Trump says he doesn&#x27;t want Somalis in the U.S., urges them to go back to their homeland and fix it</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-03 04:05</span>
             </div>
         </div>
 </div>
@@ -167,6 +158,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hrk_0fc6396abede8e916089c/understanding-angular-signals-the-future-of-reactivity-in-angular-20dj" target="_blank">Understanding Angular Signals — The Future of Reactivity in Angular</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-03 08:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/12/nextjs-16-release/en/headerimage/generatedHeaderImage-1764618577886.jpg" alt="Vercel’s Next.js 16: Explicit Caching, Turbopack Stability, and Improved Developer Tooling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -187,6 +187,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/" target="_blank">Accepting US car standards would risk European lives</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-03 07:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/news/privatim-declares-international-cloud-unsuitable/" target="_blank">Swiss Data Protection Group Says US Cloud Giants Can&#x27;t Meet Privacy Standards</a></span>
                 <span class="feed">It's FOSS</span>
@@ -200,24 +209,6 @@
                 <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-super-and-the-method-resolution-order-1jdg" target="_blank">The Secret Life of Python: super() and the Method Resolution Order</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-03 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000" target="_blank">Japanese game devs face font dilemma as license increases from $380 to $20k</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-03 04:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frl7qe6at5zxpao7ttuxt.png" alt="Decoding the 10AS016E4F27E3SG: Powerhouse Arria 10 SoC FPGA for Edge AI and Industrial Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/xecor_company/decoding-the-10as016e4f27e3sg-powerhouse-arria-10-soc-fpga-for-edge-ai-and-industrial-automation-3o27" target="_blank">Decoding the 10AS016E4F27E3SG: Powerhouse Arria 10 SoC FPGA for Edge AI and Industrial Automation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-03 03:59</span>
             </div>
         </div>
 </div>
@@ -321,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
