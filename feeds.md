@@ -1,42 +1,25 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 13:13:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-12-03 14:01:42 UTC -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 34 feeds processed -->
+<!-- Generated 4 new posts out of 16 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +95,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/692f26fd0f3e862b29d9bb9f/master/pass/Hearing-Aid-TopArt.jpg" alt="Want a Fortell Hearing Aid? Well, Who Do You Know?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hearing-aid-startup-ai-fortell/" target="_blank">Want a Fortell Hearing Aid? Well, Who Do You Know?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-03 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/692f26fd0f3e862b29d9bb9f/master/pass/Hearing-Aid-TopArt.jpg" alt="New Hearing Aid Company, Foretell, Brings in Steve Martin and Others as Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -156,20 +148,20 @@
                 <span class="time">2025-12-03 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/02/healthify-upgrades-its-ai-assistant-ria-with-real-time-conversation-capabilities/" target="_blank">Healthify upgrades its AI assistant Ria with real-time conversation capabilities</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-03 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExenJ0MnN2aHdma3Rsd3RxZmRwcHNmd3M0ZnQyNDZkOHNmNXc1ejRpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2Fe3dDrlMiQhLXV8SQlf%2Fgiphy.gif" alt="Anthropic Just Bought Bun.js. Here&#x27;s Why." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/meteroid/anthropic-just-bought-bunjs-heres-why-6bh" target="_blank">Anthropic Just Bought Bun.js. Here&#x27;s Why.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-03 13:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,20 +207,29 @@
                 <span class="time">2025-12-03 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/apim-v2-premium-secure-vnet/en/headerimage/generatedHeaderImage-1764614554169.jpg" alt="Azure API Management Premium v2 GA: Simplified Private Networking and VNet Injection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/apim-v2-premium-secure-vnet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Azure API Management Premium v2 GA: Simplified Private Networking and VNet Injection</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-03 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/06/7469329ecd7ccd169291df85a088773f-1280x719.jpg" alt="Mario Kart World’s New Update Does The Most Obnoxious Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-kart-world-update-1-4-0-patch-notes-track-volume-2000650066" target="_blank">Mario Kart World’s New Update Does The Most Obnoxious Thing</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-03 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBH6BXR096A6532Q9FA52CM6/hero-image.png" alt="The Samsung Galaxy Tab S11 Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-tab-s11-sale-december-2025?utm_medium=RSS" target="_blank">The Samsung Galaxy Tab S11 Is $100 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-03 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/hp-laptop-1280x853.jpg" alt="HP Offloads Its 5-Star Laptop Bundle at 75% Off (32GB RAM, 1TB SSD) in aPost-Cyber Monday Rush, Far Cheaper Than Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,24 +264,6 @@
                 <span class="title"><a href="https://gizmodo.com/sigourney-weaver-ghostbusters-son-oscar-2000694879" target="_blank">Sigourney Weaver Is Also Curious About What Happened to Her ‘Ghostbusters’ Son</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-03 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/image-12-1280x720.jpg" alt="Octopath Traveler 0: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/octopath-traveler-0-the-kotaku-review-2000650015" target="_blank">Octopath Traveler 0: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-03 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/kelly.jpg?fit=968%2C1200&amp;quality=60&amp;ssl=1" alt="The White House now has an official enemies list for journalists, complete with a searchable database" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/02/the-white-house-now-has-an-official-enemies-list-for-journalists-complete-with-a-searchable-database.html" target="_blank">The White House now has an official enemies list for journalists, complete with a searchable database</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-03 01:46</span>
             </div>
         </div>
 </div>
@@ -320,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
