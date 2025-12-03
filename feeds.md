@@ -1,25 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 14:01:42 UTC -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing 54 RSS feeds at 2025-12-03 15:02:47 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 16 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -35,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dbd/live/5cc5fce0-d047-11f0-8c06-f5d460985095.jpg" alt="Israel says Rafah crossing to open soon to let Palestinians leave Gaza via Egypt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpwk7xen544o?at_medium=RSS&at_campaign=rss" target="_blank">Israel says Rafah crossing to open soon to let Palestinians leave Gaza via Egypt</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-03 13:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b93e/live/b851e450-d049-11f0-9fb5-5f3a3703a365.jpg" alt="Nursery worker admits sexually abusing children" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,20 +92,20 @@
                 <span class="time">2025-12-03 11:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/3/south-korean-president-mulls-apology-to-north?traffic_source=rss" target="_blank">South Korean president mulls apology to North</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-03 11:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/03/autolane-is-building-air-traffic-control-for-autonomous-vehicles/" target="_blank">Autolane is building ‘air traffic control’ for autonomous vehicles</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-03 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/692f26fd0f3e862b29d9bb9f/master/pass/Hearing-Aid-TopArt.jpg" alt="Want a Fortell Hearing Aid? Well, Who Do You Know?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,20 +151,29 @@
                 <span class="time">2025-12-03 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/03/uber-and-avride-launch-robotaxi-service-in-dallas/" target="_blank">Uber and Avride launch robotaxi service in Dallas</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-03 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18782841&w=600" alt="Implementing Zero Trust on Google Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/implementing-zero-trust-google-cloud" target="_blank">Implementing Zero Trust on Google Cloud</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-03 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.nber.org/papers/w34524" target="_blank">Congressional lawmakers 47% pts better at picking stocks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-03 13:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExenJ0MnN2aHdma3Rsd3RxZmRwcHNmd3M0ZnQyNDZkOHNmNXc1ejRpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2Fe3dDrlMiQhLXV8SQlf%2Fgiphy.gif" alt="Anthropic Just Bought Bun.js. Here&#x27;s Why." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,29 +210,20 @@
                 <span class="time">2025-12-03 11:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Sound-Open-Firmware-2.14" target="_blank">Sound Open Firmware 2.14 Released With Intel Wildcat Lake &amp; Nova Lake Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-03 11:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/raspberry-pi-5-1gb-worth-it/" target="_blank">Raspberry Pi 5 1GB Variant: Is It Worth $45?</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-12-03 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/bose-flex-soundbar-1280x853.jpg" alt="Bose Flex Bluetooth Speaker Drops to All-Time Low on Amazon, Now Cheaper Than Budget Options" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bose-flex-bluetooth-speaker-drops-to-all-time-low-on-amazon-now-cheaper-than-budget-options-2000650056" target="_blank">Bose Flex Bluetooth Speaker Drops to All-Time Low on Amazon, Now Cheaper Than Budget Options</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-03 14:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/06/7469329ecd7ccd169291df85a088773f-1280x719.jpg" alt="Mario Kart World’s New Update Does The Most Obnoxious Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,15 +269,6 @@
                 <span class="time">2025-12-03 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Sigourney-Weaver-interview-1-1280x853.jpg" alt="Sigourney Weaver Is Also Curious About What Happened to Her ‘Ghostbusters’ Son" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sigourney-weaver-ghostbusters-son-oscar-2000694879" target="_blank">Sigourney Weaver Is Also Curious About What Happened to Her ‘Ghostbusters’ Son</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-03 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
