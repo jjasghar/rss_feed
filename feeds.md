@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 12:02:33 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-12-03 13:13:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +53,51 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b93e/live/b851e450-d049-11f0-9fb5-5f3a3703a365.jpg" alt="Nursery worker admits sexually abusing children" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2k4qd8q97eo?at_medium=RSS&at_campaign=rss" target="_blank">Nursery worker admits sexually abusing children</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-03 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/03/g-s1-100226/south-korea-martial-law-crisis-anniversary" target="_blank">One year on from martial law crisis, South Korea celebrates its democracy&#x27;s resilience</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-03 12:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/3/eu-agrees-deal-to-end-russian-gas-purchases-by-2027?traffic_source=rss" target="_blank">EU agrees deal to end Russian gas purchases by 2027</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-03 12:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/dec/03/whistleblower-accuses-foreign-office-of-censoring-warning-of-sudan-genocide" target="_blank">Whistleblower accuses Foreign Office of ‘censoring’ warning of Sudan genocide</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-03 11:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/venezuela-ht-er-250915_1757975110091_hpMain_4x3t_384.jpg" alt="Family of fisherman killed in US boat strike files complaint alleging he was murdered" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/family-colombian-fisherman-killed-us-boat-strike-files/story?id=128056901" target="_blank">Family of fisherman killed in US boat strike files complaint alleging he was murdered</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-03 11:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -56,56 +106,38 @@
                 <span class="time">2025-12-03 11:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/03/nx-s1-5620809/palestinian-prisoner-author-israel" target="_blank">A Palestinian convicted in bombing plot is now an award-winning novelist, and free</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-03 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/3/donald-trumps-attendance-at-fifa-world-cup-2026-draw-confirmed?traffic_source=rss" target="_blank">Donald Trump’s attendance at FIFA World Cup 2026 draw confirmed</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-03 10:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d2e/live/b7ea13b0-cffa-11f0-9fb5-5f3a3703a365.jpg" alt="Trump says he does not want Somalis in US as ICE plans Minnesota operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c208x9v68w3o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he does not want Somalis in US as ICE plans Minnesota operation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-03 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/hegseth-trump-gty-jef-251202_1764690547854_hpMain_4x3t_384.jpg" alt="What Trump, Hegseth said after the Sept. 2 strike on an alleged drug-smuggling boat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-hegseth-after-sept-2-strike-alleged-drug/story?id=128045509" target="_blank">What Trump, Hegseth said after the Sept. 2 strike on an alleged drug-smuggling boat</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-03 10:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251203-baby-vaccine-rs-33875d.jpg" alt="CDC advisers could reverse newborn hepatitis B vaccine recommendations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/health/health-news/cdc-advisers-reverse-newborn-hepatitis-b-vaccine-recommendations-rcna246812" target="_blank">CDC advisers could reverse newborn hepatitis B vaccine recommendations</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-03 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/692f26fd0f3e862b29d9bb9f/master/pass/Hearing-Aid-TopArt.jpg" alt="New Hearing Aid Company, Foretell, Brings in Steve Martin and Others as Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hearing-aid-startup-ai-fortell/" target="_blank">New Hearing Aid Company, Foretell, Brings in Steve Martin and Others as Fans</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-03 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/03/spotifys-2025-wrapped-becomes-a-multiplayer-experience/" target="_blank">Spotify Wrapped 2025 adds its first multiplayer feature with ‘Wrapped Party’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-03 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1349412769-500x500.jpg" alt="Guitar amp sims have gotten astonishingly good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/12/guitar-amp-sims-have-gotten-astonishingly-good/" target="_blank">Guitar amp sims have gotten astonishingly good</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-03 12:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +165,20 @@
                 <span class="time">2025-12-03 07:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" alt="30% VistaPrint Coupon &amp; Promo Codes | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/vistaprint-coupon-code/" target="_blank">30% VistaPrint Coupon &amp; Promo Codes | December 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-03 06:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/" target="_blank">All the biggest news from AWS’ big tech show re:Invent 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-03 01:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692f65178f59b835139411b5/master/pass/sec-putin-2248122780.jpg" alt="Russia Wants This Mega Missile to Intimidate the West, but It Keeps Crashing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/russia-icbm-crash-putin/" target="_blank">Russia Wants This Mega Missile to Intimidate the West, but It Keeps Crashing</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-03 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://xania.org/202512/03-more-adding-integers" target="_blank">You Can&#x27;t Fool the Optimizer</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-03 12:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783240&w=600" alt="WebAssembly Is Eating the Cloud: Why Devs Should Care" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,34 +224,29 @@
                 <span class="time">2025-12-03 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mohantammineni/what-are-patterns-in-jdp-2p6m" target="_blank">What Are Patterns in JDP?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-03 09:59</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/like-social-media-ai-requires-difficult-choices.html" target="_blank">Like Social Media, AI Requires Difficult Choices</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-02 12:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/hp-laptop-1280x853.jpg" alt="HP Offloads Its 5-Star Laptop Bundle at 75% Off (32GB RAM, 1TB SSD) in aPost-Cyber Monday Rush, Far Cheaper Than Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hp-offloads-its-5-star-laptop-bundle-at-75-off-32gb-ram-1tb-ssd-in-a-post-cyber-monday-rush-far-cheaper-than-black-friday-2000650003" target="_blank">HP Offloads Its 5-Star Laptop Bundle at 75% Off (32GB RAM, 1TB SSD) in aPost-Cyber Monday Rush, Far Cheaper Than Black Friday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-03 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/eater1-scaled.jpg?fit=2560%2C1712&amp;quality=60&amp;ssl=1" alt="Adorable Amigurumi Terraria Eater of Worlds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/03/adorable-amigurumi-terraria-eater-of-worlds.html" target="_blank">Adorable Amigurumi Terraria Eater of Worlds</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-03 12:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_KarenWheeler-1280x853.jpg" alt="‘Stranger Things’ Star Cara Buono Talks About Her Wine Mom Breakout Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +281,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/02/the-white-house-now-has-an-official-enemies-list-for-journalists-complete-with-a-searchable-database.html" target="_blank">The White House now has an official enemies list for journalists, complete with a searchable database</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-03 01:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Headway-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get smarter in 15 minutes a day with this $39.99 Headway deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/02/get-smarter-in-15-minutes-a-day-with-this-39-99-headway-deal.html" target="_blank">Get smarter in 15 minutes a day with this $39.99 Headway deal</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-03 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/illusive-man-1280x720.jpg" alt="Surprise! Saudi Arabia Will Own 93 Percent Of EA When The Deal Is Done" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ea-saudi-arabia-ownership-trump-jared-kushner-2000649726" target="_blank">Surprise! Saudi Arabia Will Own 93 Percent Of EA When The Deal Is Done</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-02 23:39</span>
             </div>
         </div>
 </div>
@@ -329,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
