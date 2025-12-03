@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 02:31:14 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-03 03:24:24 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 03:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -119,6 +111,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/692f65178f59b835139411b5/master/pass/sec-putin-2248122780.jpg" alt="Russia Wants This Mega Missile to Intimidate the West, but It Keeps Crashing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/russia-icbm-crash-putin/" target="_blank">Russia Wants This Mega Missile to Intimidate the West, but It Keeps Crashing</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-03 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/692dcc3802475a658200d6ab/master/pass/Bryan-Johnson-Has-Discovered-Shrooms-and-We-Are-All-Worse-Off-Culture-1236026762.jpg" alt="Bryan Johnson Has Discovered Shrooms, and He Really Wants You to Know It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -154,20 +155,20 @@
                 <span class="time">2025-12-02 22:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/" target="_blank">Kalshi raises $1B at $11B valuation, doubling value in under two months</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-02 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ashish_ghadigaonkar_/why-accuracy-lies-the-metrics-that-actually-matter-part-4-23pe" target="_blank">Why Accuracy Lies — The Metrics That Actually Matter (Part 4)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-03 03:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +212,6 @@
                 <span class="title"><a href="https://dzone.com/articles/running-load-test-web-app-using-maven-plugins" target="_blank">Web App Load Testing Using Maven Plugins for Apache JMeter, and Analyzing the Results</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-02 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/linux-mint-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.3 Beta Will Be Released This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/linux-mint-22-3-beta-coming-this-month" target="_blank">Linux Mint 22.3 Beta Will Be Released This Month</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-02 19:20</span>
             </div>
         </div>
 </div>
@@ -301,6 +293,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5714.png" alt="Sex Ed With Faye" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5714" target="_blank">Sex Ed With Faye</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-12-03 02:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1764559658-20251202_edit.png" alt="Saturday Morning Breakfast Cereal - Daisy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -314,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 03:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
