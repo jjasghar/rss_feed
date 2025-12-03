@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-02 23:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-03 00:04:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, December 02, 2025 - 23:01 UTC</div>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +102,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/692dcc3802475a658200d6ab/master/pass/Bryan-Johnson-Has-Discovered-Shrooms-and-We-Are-All-Worse-Off-Culture-1236026762.jpg" alt="Bryan Johnson Has Discovered Shrooms, and He Really Wants You to Know It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bryan-johnson-shrooms-livestream-trip/" target="_blank">Bryan Johnson Has Discovered Shrooms, and He Really Wants You to Know It</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-02 23:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/02/GettyImages-496532228-500x500.jpg" alt="More FDA drama: Top drug regulator calls it quits after 3 weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/12/more-fda-drama-top-drug-regulator-calls-it-quits-after-3-weeks/" target="_blank">More FDA drama: Top drug regulator calls it quits after 3 weeks</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-02 23:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/aaltman_crop-500x500.jpg" alt="OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -137,24 +153,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/12/02/the-future-of-deep-tech-will-be-explained-to-you-at-strictlyvc-palo-alto-on-dec-3/" target="_blank">The future of deep tech will be explained to you at StrictlyVC Palo Alto on Dec 3</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-02 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692f183fe9798957f0968424/master/pass/Leave-MadMen-Alone-Culture-TCDMAME_EC028.jpg" alt="HBO Max’s ‘Mad Men’ Vomit Scene Proves ‘Remastered’ Doesn’t Mean ‘Better’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hbo-maxs-mad-men-barf-scene-proves-remastered-doesnt-mean-better/" target="_blank">HBO Max’s ‘Mad Men’ Vomit Scene Proves ‘Remastered’ Doesn’t Mean ‘Better’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-02 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/836948/helldivers-2-file-size-decrease" target="_blank">Helldivers 2&amp;#8217;s new &amp;#8216;slim&amp;#8217; version saves 131GB of space on your drive</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-02 20:32</span>
             </div>
         </div>
 </div>
@@ -236,6 +234,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/illusive-man-1280x720.jpg" alt="Surprise! Saudi Arabia Will Own 93 Percent Of EA When The Deal Is Done" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ea-saudi-arabia-ownership-trump-jared-kushner-2000649726" target="_blank">Surprise! Saudi Arabia Will Own 93 Percent Of EA When The Deal Is Done</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-02 23:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/elon-musk-nov-19-2025-1280x853.jpg" alt="Grok Would Still Choose Killing All Jews Over Destroying Elon Musk’s Brain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/grok-would-still-choose-killing-all-jews-over-destroying-elon-musks-brain-2000694802" target="_blank">Grok Would Still Choose Killing All Jews Over Destroying Elon Musk’s Brain</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-02 23:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/season2skate-1280x720.jpg" alt="Skate Players Upset About New Update That Makes Everyone Look Like A Stoner" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -271,24 +287,6 @@
                 <span class="time">2025-12-02 20:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/parking.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Japan&#x27;s automated parking robots stack cars like vending machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/02/japans-automated-parking-robots-stack-cars-like-vending-machines.html" target="_blank">Japan&#x27;s automated parking robots stack cars like vending machines</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-02 19:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/marathonmain1-1280x709.jpg" alt="Artist At The Center Of Marathon’s Plagiarism Scandal Says Bungie Has Made Things Right" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-bungie-antireal-art-plagiarism-extraction-2000649685" target="_blank">Artist At The Center Of Marathon’s Plagiarism Scandal Says Bungie Has Made Things Right</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-02 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
