@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 07:02:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-03 08:02:25 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/3/australian-social-media-ban-aims-to-save-teens-from-predatory-algorithms?traffic_source=rss" target="_blank">Australian social media ban aims to ‘save teens from predatory algorithms’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-03 07:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/van-epps-victory_1764739580035_hpMain_4x3t_384.jpg" alt="Republican Matt Van Epps projected winner in Tennessee special election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/republican-matt-van-epps-projected-winner-closely-watched/story?id=128057088" target="_blank">Republican Matt Van Epps projected winner in Tennessee special election</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-03 05:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -77,24 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/02/nx-s1-5629305/trump-says-he-doesnt-want-somalis-in-the-u-s-urges-them-to-go-back-to-their-homeland-and-fix-it" target="_blank">Trump says he doesn&#x27;t want Somalis in the U.S., urges them to go back to their homeland and fix it</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-03 04:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/3/us-defence-chief-says-he-did-not-see-survivors-before-follow-up-boat-strike?traffic_source=rss" target="_blank">US defence chief says he did not see survivors before follow-up boat strike</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-03 02:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1764729495185_now_brk_vanepps_winner_251202_1920x1080-w2uhbi.jpg" alt="Republican Van Epps projected winner in Tennessee House special election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/republican-van-epps-projected-winner-in-tennessee-house-special-election-253506117947" target="_blank">Republican Van Epps projected winner in Tennessee House special election</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-03 02:38</span>
             </div>
         </div>
 </div>
@@ -162,6 +167,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/12/nextjs-16-release/en/headerimage/generatedHeaderImage-1764618577886.jpg" alt="Vercel’s Next.js 16: Explicit Caching, Turbopack Stability, and Improved Developer Tooling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/nextjs-16-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel’s Next.js 16: Explicit Caching, Turbopack Stability, and Improved Developer Tooling</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-03 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnit8o5ytqwf5km1pltdq.png" alt="TCS CodeVita Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/harshku007/tcs-codevita-experience-40gi" target="_blank">TCS CodeVita Experience</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-03 07:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/privatim-declares-international-cloud-unsuitable/" target="_blank">Swiss Data Protection Group Says US Cloud Giants Can&#x27;t Meet Privacy Standards</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-12-03 07:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -186,33 +218,6 @@
                 <span class="title"><a href="https://dev.to/xecor_company/decoding-the-10as016e4f27e3sg-powerhouse-arria-10-soc-fpga-for-edge-ai-and-industrial-automation-3o27" target="_blank">Decoding the 10AS016E4F27E3SG: Powerhouse Arria 10 SoC FPGA for Edge AI and Industrial Automation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-03 03:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ashish_ghadigaonkar_/why-accuracy-lies-the-metrics-that-actually-matter-part-4-23pe" target="_blank">Why Accuracy Lies — The Metrics That Actually Matter (Part 4)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-03 03:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-LASS-SGX-And-More-6.19" target="_blank">Intel LASS, SGX EUPDATESVN &amp; Microcode Staging Features Land In Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-03 01:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shoroye_funmilola_38e44ce/funmilola-shoroye-364i" target="_blank">Funmilola shoroye</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-03 01:02</span>
             </div>
         </div>
 </div>
@@ -316,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
