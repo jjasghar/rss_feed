@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 17:03:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-03 18:02:23 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 17:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +110,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/brendan-carrr-scaled-500x500-1742504125.jpg" alt="FCC boss Brendan Carr claims another victory over DEI as AT&amp;T drops programs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/fcc-boss-brendan-carr-claims-another-victory-over-dei-as-att-drops-programs/" target="_blank">FCC boss Brendan Carr claims another victory over DEI as AT&amp;T drops programs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-03 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/693043999d66f181d1c769f6/master/pass/452969547" alt="Thursday&#x27;s Cold Moon Is the Last Supermoon of the Year. Here&#x27;s How and When to View It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cold-moon-supermoon-december-how-to-view/" target="_blank">Thursday&#x27;s Cold Moon Is the Last Supermoon of the Year. Here&#x27;s How and When to View It</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-03 17:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -143,29 +163,29 @@
                 <span class="time">2025-12-03 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692f26fd0f3e862b29d9bb9f/master/pass/Hearing-Aid-TopArt.jpg" alt="New Hearing Aid Company, Foretell, Brings in Steve Martin and Others as Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hearing-aid-startup-ai-fortell/" target="_blank">New Hearing Aid Company, Foretell, Brings in Steve Martin and Others as Fans</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/03/spotifys-2025-wrapped-becomes-a-multiplayer-experience/" target="_blank">Spotify Wrapped 2025 adds its first multiplayer feature with ‘Wrapped Party’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-03 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-b580-opengl-vulkan-eoy2025" target="_blank">Intel&#x27;s Open-Source Linux Graphics Driver Delivered Significant Improvements In 2025</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-03 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/" target="_blank">Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-12-03 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,29 +222,38 @@
                 <span class="time">2025-12-03 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nber.org/papers/w34524" target="_blank">Congressional lawmakers 47% pts better at picking stocks</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-03 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExenJ0MnN2aHdma3Rsd3RxZmRwcHNmd3M0ZnQyNDZkOHNmNXc1ejRpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2Fe3dDrlMiQhLXV8SQlf%2Fgiphy.gif" alt="Anthropic Just Bought Bun.js. Here&#x27;s Why." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/meteroid/anthropic-just-bought-bunjs-heres-why-6bh" target="_blank">Anthropic Just Bought Bun.js. Here&#x27;s Why.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-03 13:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/grirrnrchfries-1280x720.jpg" alt="McDonald’s New Grinch Meal Finally Ports Shake Shake Fries To The U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mcdonalds-new-grinch-meal-shaker-shake-fries-pickle-holiday-christmas-meal-2000650144" target="_blank">McDonald’s New Grinch Meal Finally Ports Shake Shake Fries To The U.S.</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-03 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/bunny-island.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Japan&#x27;s &quot;Rabbit Island&quot; used to be a secret poison gas factory, now it&#x27;s overrun with adorable bunnies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/03/japans-rabbit-island-used-to-be-a-secret-poison-gas-factory-now-its-overrun-with-adorable-bunnies.html" target="_blank">Japan&#x27;s &quot;Rabbit Island&quot; used to be a secret poison gas factory, now it&#x27;s overrun with adorable bunnies</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-03 17:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBJJ2VKRQHCS8NTPXFEPW31G/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Apple Watch Series 11" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-apple-watch-series-11?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Apple Watch Series 11</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-03 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/E.-chlorotica-1280x853.jpg" alt="A Snorkeler in Nova Scotia Thought This Was a Leaf, but It Was Something Far Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -250,33 +279,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-next-gaming-trend-is-uh-controllers-for-your-feet-2000695081" target="_blank">The Next Gaming Trend Is… Uh, Controllers for Your Feet?</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-03 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/bose-flex-soundbar-1280x853.jpg" alt="Bose Flex Bluetooth Speaker Drops to All-Time Low on Amazon, Now Cheaper Than Budget Options" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bose-flex-bluetooth-speaker-drops-to-all-time-low-on-amazon-now-cheaper-than-budget-options-2000650056" target="_blank">Bose Flex Bluetooth Speaker Drops to All-Time Low on Amazon, Now Cheaper Than Budget Options</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-03 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBJ5NWQR0BXRDNFD9BQ7R1GS/hero-image.jpg" alt="I Let Android AI Summarize My Notifications for a Day, and Here&#x27;s What Happened" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/android-ai-notification-summaries?utm_medium=RSS" target="_blank">I Let Android AI Summarize My Notifications for a Day, and Here&#x27;s What Happened</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-03 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/7469329ecd7ccd169291df85a088773f-1280x719.jpg" alt="Mario Kart World’s New Update Does The Most Obnoxious Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-kart-world-update-1-4-0-patch-notes-track-volume-2000650066" target="_blank">Mario Kart World’s New Update Does The Most Obnoxious Thing</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-03 14:00</span>
             </div>
         </div>
 </div>
@@ -316,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
