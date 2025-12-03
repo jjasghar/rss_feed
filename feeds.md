@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 03:24:24 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-03 04:06:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 03:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 04:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/3/us-defence-chief-says-he-did-not-see-survivors-before-follow-up-boat-strike?traffic_source=rss" target="_blank">US defence chief says he did not see survivors before follow-up boat strike</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-03 02:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1764729495185_now_brk_vanepps_winner_251202_1920x1080-w2uhbi.jpg" alt="Republican Van Epps projected winner in Tennessee House special election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/republican-van-epps-projected-winner-in-tennessee-house-special-election-253506117947" target="_blank">Republican Van Epps projected winner in Tennessee House special election</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-03 02:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74ad/live/c6b78df0-cfaf-11f0-b476-4d01662cfb69.jpg" alt="Kremlin signals no breakthrough after Ukraine talks with US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cwyv0ex7v8ro?at_medium=RSS&at_campaign=rss" target="_blank">Putin hosts Trump negotiators at Kremlin for &#x27;constructive&#x27; Ukraine talks</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-02 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/2/barcelona-extend-lead-at-top-of-la-liga-with-3-1-win-over-atletico-madrid?traffic_source=rss" target="_blank">Barcelona extend lead at top of La Liga with 3-1 win over Atletico Madrid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-02 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/dec/02/trump-somali-immigrants-minnesota" target="_blank">Trump calls Somali immigrants ‘garbage’ as US reportedly targets Minnesota community</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-02 21:20</span>
             </div>
         </div>
 </div>
@@ -161,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frl7qe6at5zxpao7ttuxt.png" alt="Decoding the 10AS016E4F27E3SG: Powerhouse Arria 10 SoC FPGA for Edge AI and Industrial Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/xecor_company/decoding-the-10as016e4f27e3sg-powerhouse-arria-10-soc-fpga-for-edge-ai-and-industrial-automation-3o27" target="_blank">Decoding the 10AS016E4F27E3SG: Powerhouse Arria 10 SoC FPGA for Edge AI and Industrial Automation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-03 03:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Zen-6-RAS-SDCI-Linux-6.19" target="_blank">AMD Zen 6 RAS Preparation, AMD SDCI Features Merged For Linux 6.19</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-02 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18784221&w=600" alt="Web App Load Testing Using Maven Plugins for Apache JMeter, and Analyzing the Results" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/running-load-test-web-app-using-maven-plugins" target="_blank">Web App Load Testing Using Maven Plugins for Apache JMeter, and Analyzing the Results</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-02 21:00</span>
             </div>
         </div>
 </div>
@@ -270,21 +277,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAVMV0402YKWAD5FVF04N6D3/hero-image.png" alt="The Best Tech Deals Under $25 Still Live After Cyber Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-best-last-minute-tech-deals-under-25-black-friday-cyber-monday-2025?utm_medium=RSS" target="_blank">The Best Tech Deals Under $25 Still Live After Cyber Monday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-02 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/showa.jpg?fit=1200%2C752&amp;quality=60&amp;ssl=1" alt="Photographer is racing against time to capture Japan&#x27;s vanishing Shōwa-era vestiges" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/12/02/photographer-is-racing-against-time-to-capture-japans-vanishing-showa-era-vestiges.html" target="_blank">Photographer is racing against time to capture Japan&#x27;s vanishing Shōwa-era vestiges</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-02 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/hands-in-sand-1280x853.jpg" alt="Humans Can Detect Buried Objects Without Touching Them, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/humans-can-detect-buried-objects-without-touching-them-study-finds-2000684179" target="_blank">Humans Can Detect Buried Objects Without Touching Them, Study Finds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-02 20:30</span>
             </div>
         </div>
 </div>
@@ -315,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 03:24 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 04:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
