@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 11:01:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-03 12:02:33 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/3/south-korean-president-mulls-apology-to-north?traffic_source=rss" target="_blank">South Korean president mulls apology to North</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-03 11:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/03/nx-s1-5620809/palestinian-prisoner-author-israel" target="_blank">A Palestinian convicted in bombing plot is now an award-winning novelist, and free</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-03 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +101,29 @@
                 <span class="time">2025-12-03 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/3/gaza-university-resumes-in-person-classes-2?traffic_source=rss" target="_blank">Gaza university resumes in-person classes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-03 09:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/23/10/1920x1080/skynews-palestinians-egypt_6322896.jpg?20231016094008" alt="Rafah crossing to open &#x27;in coming days&#x27; to let Gazans cross into Egypt, Israel says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/rafah-crossing-to-open-in-coming-days-to-let-gazans-cross-into-egypt-israel-says-13478611" target="_blank">Rafah crossing to open &#x27;in coming days&#x27; to let Gazans cross into Egypt, Israel says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-03 08:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/836762/yukai-engineering-mirumi-furry-companion-robot-preorder-available-kickstarter" target="_blank">Mirumi the furry companion robot is now available on Kickstarter</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-03 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/03/uber-and-avride-launch-robotaxi-service-in-dallas/" target="_blank">Uber and Avride launch robotaxi service in Dallas</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-03 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +160,38 @@
                 <span class="time">2025-12-03 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692dcc3802475a658200d6ab/master/pass/Bryan-Johnson-Has-Discovered-Shrooms-and-We-Are-All-Worse-Off-Culture-1236026762.jpg" alt="Bryan Johnson Has Discovered Shrooms, and He Really Wants You to Know It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bryan-johnson-shrooms-livestream-trip/" target="_blank">Bryan Johnson Has Discovered Shrooms, and He Really Wants You to Know It</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-02 23:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/02/GettyImages-496532228-500x500.jpg" alt="More FDA drama: Top drug regulator calls it quits after 3 weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/12/more-fda-drama-top-drug-regulator-calls-it-quits-after-3-weeks/" target="_blank">More FDA drama: Top drug regulator calls it quits after 3 weeks</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-02 23:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783240&w=600" alt="WebAssembly Is Eating the Cloud: Why Devs Should Care" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/webassembly-is-eating-the-cloud-why-devs-should-ca" target="_blank">WebAssembly Is Eating the Cloud: Why Devs Should Care</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-03 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aerabi/day-3-through-the-gate-4l9" target="_blank">Day 3 — Through the Gate</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-03 11:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Sound-Open-Firmware-2.14" target="_blank">Sound Open Firmware 2.14 Released With Intel Wildcat Lake &amp; Nova Lake Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-03 11:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,33 +219,6 @@
                 <span class="time">2025-12-03 09:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hrk_0fc6396abede8e916089c/understanding-angular-signals-the-future-of-reactivity-in-angular-20dj" target="_blank">Understanding Angular Signals — The Future of Reactivity in Angular</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-03 08:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/nextjs-16-release/en/headerimage/generatedHeaderImage-1764618577886.jpg" alt="Vercel’s Next.js 16: Explicit Caching, Turbopack Stability, and Improved Developer Tooling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/nextjs-16-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel’s Next.js 16: Explicit Caching, Turbopack Stability, and Improved Developer Tooling</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-03 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnit8o5ytqwf5km1pltdq.png" alt="TCS CodeVita Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/harshku007/tcs-codevita-experience-40gi" target="_blank">TCS CodeVita Experience</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-03 07:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_KarenWheeler-1280x853.jpg" alt="‘Stranger Things’ Star Cara Buono Talks About Her Wine Mom Breakout Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/stranger-things-star-cara-buono-talks-about-her-wine-mom-breakout-moment-2000694887" target="_blank">‘Stranger Things’ Star Cara Buono Talks About Her Wine Mom Breakout Moment</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-03 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Sigourney-Weaver-interview-1-1280x853.jpg" alt="Sigourney Weaver Is Also Curious About What Happened to Her ‘Ghostbusters’ Son" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +292,6 @@
                 <span class="time">2025-12-02 23:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/elon-musk-nov-19-2025-1280x853.jpg" alt="Grok Would Still Choose Killing All Jews Over Destroying Elon Musk’s Brain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/grok-would-still-choose-killing-all-jews-over-destroying-elon-musks-brain-2000694802" target="_blank">Grok Would Still Choose Killing All Jews Over Destroying Elon Musk’s Brain</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-02 23:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
