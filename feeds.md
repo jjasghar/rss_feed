@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 01:29:38 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-12-03 02:31:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, December 03, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74ad/live/c6b78df0-cfaf-11f0-b476-4d01662cfb69.jpg" alt="Kremlin signals no breakthrough after Ukraine talks with US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyv0ex7v8ro?at_medium=RSS&at_campaign=rss" target="_blank">Kremlin signals no breakthrough after Ukraine talks with US</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-03 01:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d46/live/23b918b0-cfa2-11f0-9fb5-5f3a3703a365.jpg" alt="Government racks up £100m bill responding to Covid inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj9yepzl1rjo?at_medium=RSS&at_campaign=rss" target="_blank">Government racks up £100m bill responding to Covid inquiry</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-03 01:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +104,20 @@
                 <span class="time">2025-12-02 21:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/12/2/can-former-colonial-powers-be-held-accountable-for-past-atrocities?traffic_source=rss" target="_blank">Can former colonial powers be held accountable for past atrocities?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-02 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/2/antisemite-of-the-year-pro-israel-group-slams-kids-youtuber-ms-rachel?traffic_source=rss" target="_blank">‘Antisemite of the Year’: Pro-Israel group slams kids’ YouTuber Ms. Rachel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-02 20:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/" target="_blank">All the biggest news from AWS’ big tech show re:Invent 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-03 01:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/692dcc3802475a658200d6ab/master/pass/Bryan-Johnson-Has-Discovered-Shrooms-and-We-Are-All-Worse-Off-Culture-1236026762.jpg" alt="Bryan Johnson Has Discovered Shrooms, and He Really Wants You to Know It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +163,20 @@
                 <span class="time">2025-12-02 22:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter" target="_blank">Amazon’s bet that AI benchmarks don’t matter</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-02 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-LASS-SGX-And-More-6.19" target="_blank">Intel LASS, SGX EUPDATESVN &amp; Microcode Staging Features Land In Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-03 01:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +220,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/linux-mint-22-3-beta-coming-this-month" target="_blank">Linux Mint 22.3 Beta Will Be Released This Month</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-12-02 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783214&w=600" alt="Apache Phoenix With Variable-Length Encoded Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/apache-phoenix-variable-length-encoded-data" target="_blank">Apache Phoenix With Variable-Length Encoded Data</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-02 19:00</span>
             </div>
         </div>
 </div>
@@ -302,22 +309,13 @@
                 <span class="time">2025-12-02 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5713.png" alt="Less Than Never" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5713" target="_blank">Less Than Never</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-12-02 01:32</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
