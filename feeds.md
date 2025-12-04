@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 09:03:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-04 10:02:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 0 new posts out of 27 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/04/nx-s1-5629168/hepatitis-b-vaccine-kids-health" target="_blank">Hepatitis B: What parents should know about the virus and the vaccine</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-04 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/4/dispute-over-israeli-plan-for-one-way-opening-of-gazas-rafah-crossing?traffic_source=rss" target="_blank">Dispute over Israeli plan for one-way opening of Gaza’s Rafah Crossing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-04 09:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61a/live/4f19c5f0-d0e6-11f0-b0cc-cf4d0e5d41e2.jpg" alt="Energy grid investment of £28bn to push up household bills" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +95,6 @@
                 <span class="title"><a href="https://www.theguardian.com/global-development/2025/dec/04/aid-cuts-africa-uganda-stops-refugee-status-eritreans-somalis-ethiopians" target="_blank">Uganda stops granting refugee status for Eritreans, Somalis and Ethiopians</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-12-04 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/4/putin-visits-india-amid-ukraine-peace-push-whats-on-the-agenda?traffic_source=rss" target="_blank">Putin visits India amid Ukraine peace push: What’s on the agenda?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-04 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-2-epa-gmh-251203_1764804118826_hpMain_4x3t_384.jpg" alt="Trump says &#x27;no problem&#x27; releasing video of 2nd strike on alleged drug boat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-problem-releasing-video-2nd-strike-alleged-drug/story?id=128088957" target="_blank">Trump says &#x27;no problem&#x27; releasing video of 2nd strike on alleged drug boat</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-04 03:24</span>
             </div>
         </div>
 </div>
@@ -165,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/scaling-cloud-distributed-applications/en/smallimage/scaling-cloud-distributed-applications-thumbnail-1764662378257.jpg" alt="Article: Scaling Cloud and Distributed Applications: Lessons and Strategies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/scaling-cloud-distributed-applications/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Scaling Cloud and Distributed Applications: Lessons and Strategies</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-04 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -207,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/tisankan/google-just-made-n8n-look-expensive-1ma1" target="_blank">Google just made n8n look expensive 💰</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-04 03:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc8erxnoll9u0i78zbbz7.png" alt="I Built a Zero-Downtime Database Migration Pipeline (PostgreSQL to Aurora)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mateenali66/i-built-a-zero-downtime-database-migration-pipeline-postgresql-to-aurora-1ohe" target="_blank">I Built a Zero-Downtime Database Migration Pipeline (PostgreSQL to Aurora)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-04 03:22</span>
             </div>
         </div>
 </div>
@@ -323,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
