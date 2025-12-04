@@ -1,39 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 01:29:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-04 02:31:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/636d/live/cdd53820-d096-11f0-8c33-11943dbd2110.jpg" alt="Ukraine and US negotiators to meet in Florida after Moscow talks, White House says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine and US negotiators to meet in Florida after Moscow talks, White House says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-04 01:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-donbas-ukraine_7100462.jpg?20251204015021" alt="&#x27;If someone took Trump&#x27;s land, how would he feel?&#x27; - Ukrainians view peace talks with suspicion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/if-someone-took-trumps-land-how-would-he-feel-ukrainians-view-peace-talks-with-suspicion-13478972" target="_blank">&#x27;If someone took Trump&#x27;s land, how would he feel?&#x27; - Ukrainians view peace talks with suspicion</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-04 01:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +108,38 @@
                 <span class="time">2025-12-03 22:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/03/nx-s1-5630389/trump-administration-rolls-back-fuel-economy-standards" target="_blank">Trump administration rolls back fuel economy standards</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-03 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/03/nx-s1-5630917/cdc-childhood-vaccine-schedule" target="_blank">CDC&#x27;s vaccine advisers meet to question long-used vaccines</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-03 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/" target="_blank">Day One Ventures’ Masha Bucher on why every founder needs to be an influencer</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-04 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/837922/antigravity-360-us-release-price-best-buy" target="_blank">Antigravity’s 360-degree drone is here to help you forget DJI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-04 00:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1403288381-500x500.jpeg" alt="12 former FDA chiefs unite to say agency memo on vaccines is deeply stupid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/12/12-former-fda-chiefs-unite-to-say-agency-memo-on-vaccines-is-deeply-stupid/" target="_blank">12 former FDA chiefs unite to say agency memo on vaccines is deeply stupid</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-04 00:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1-500x500.jpg" alt="Maximum-severity vulnerability threatens 6% of all websites" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,38 +167,20 @@
                 <span class="time">2025-12-03 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/auk-mini-herb-garden-sale-2025/" target="_blank">The Auk Mini Herb Garden Is Still Up to $30 Off (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-03 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/03/andy-jassy-says-amazons-nvidia-competitor-chip-is-already-a-multi-billion-dollar-business/" target="_blank">Andy Jassy says Amazon’s Nvidia competitor chip is already a multibillion-dollar business</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-03 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/03/andy-jassy-says-amazons-nvidia-competitor-chip-is-already-a-multi-billion-dollar-business/" target="_blank">Andy Jassy says Amazon’s Nvidia competitor chip is already a multi-billion-dollar business</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-03 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmtyr05ifwp1k5ay6qudy.png" alt="How the 5-Day Intensive Felt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/akash_santhnusundar_13c0/how-the-5-day-intensive-felt-jlh" target="_blank">How the 5-Day Intensive Felt</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-04 02:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,6 +200,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2020/03/wsl.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Pro Now Available for Windows (on WSL, Obvs)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-pro-wsl-free-personal-use" target="_blank">Ubuntu Pro Now Available for Windows (on WSL, Obvs)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-03 22:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,24 +224,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Alpine-Linux-3.23" target="_blank">Alpine Linux 3.23 Released With APK Tools v3 For Package Management</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-03 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg" alt="You can now use YouTube videos as your cover video on DEV Posts (Also Mux and Twitch videos)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devteam/you-can-now-use-youtube-videos-as-your-cover-video-on-dev-posts-also-mux-and-twitch-videos-360b" target="_blank">You can now use YouTube videos as your cover video on DEV Posts (Also Mux and Twitch videos)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-03 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783769&w=600" alt="Stop Writing Excel Specs: A Markdown-First Approach to Enterprise Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/stop-writing-excel-specs-markdown-first-approach" target="_blank">Stop Writing Excel Specs: A Markdown-First Approach to Enterprise Java</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-03 20:00</span>
             </div>
         </div>
 </div>
@@ -286,6 +291,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5715.png" alt="They&#x27;re Just Like Us" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5715" target="_blank">They&#x27;re Just Like Us</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-12-04 01:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -322,12 +336,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="http://www.questionablecontent.net/comics/5714.png" alt="Sex Ed With Faye" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/inverted_catenaries.png" alt="Inverted Catenaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5714" target="_blank">Sex Ed With Faye</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-12-03 02:03</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3176/" target="_blank">Inverted Catenaries</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-12-03 05:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
