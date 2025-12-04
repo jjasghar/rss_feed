@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 05:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-04 06:02:18 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +108,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/03/new-unicorn-brevo-raises-583m-to-challenge-crm-giants/" target="_blank">New unicorn Brevo raises $583M to challenge CRM giants</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-04 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/" target="_blank">Day One Ventures’ Masha Bucher on why every founder needs to be an influencer</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-04 01:00</span>
@@ -146,15 +158,6 @@
                 <span class="time">2025-12-03 23:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692f33fade1067318a26059a/master/pass/P90615619_highRes_the-new-bmw-ix3-50-x.jpg" alt="BMW iX3 2026 Review: Price, Specs, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/bmw-ix3-2026/" target="_blank">BMW iX3 2026 Review: Price, Specs, Availability</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-03 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,10 +166,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/04/postman-s-journey-and-unlocking-the-power-of-apis/" target="_blank">Postman’s journey and unlocking the power of APIs</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-04 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shamim_hasnain_bd/from-coder-to-co-creator-why-product-thinking-changes-everything-ban" target="_blank">From Coder to Co-Creator: Why Product Thinking Changes Everything</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-04 04:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-49/" target="_blank">FOSS Weekly #25.49: Kernel 6.18 &#x27;LTS&#x27;, Ubuntu 26.04 LTS, Linus Torvalds on BSOD, Obsidian Distro and More Linux Stuff</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-12-04 04:17</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/akash_santhnusundar_13c0/how-the-5-day-intensive-felt-jlh" target="_blank">How the 5-Day Intensive Felt</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-04 02:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Better-USB-For-ReactOS" target="_blank">ReactOS Lands Improvements For Its USB Stack - Fixing Various Blue Screens of Death</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-04 01:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/getting-started-with-openshift-virtualization" target="_blank">Getting Started with OpenShift Virtualization</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-12-04 00:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
