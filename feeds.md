@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 10:02:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-04 11:01:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -62,6 +61,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/04/us-eu-critical-minerals-project-drc-report-lobito-corridor" target="_blank">US and EU critical minerals project could displace thousands in DR Congo – report</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-04 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61a/live/4f19c5f0-d0e6-11f0-b0cc-cf4d0e5d41e2.jpg" alt="Energy grid investment of £28bn to push up household bills" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -88,15 +96,6 @@
                 <span class="time">2025-12-04 07:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/dec/04/aid-cuts-africa-uganda-stops-refugee-status-eritreans-somalis-ethiopians" target="_blank">Uganda stops granting refugee status for Eritreans, Somalis and Ethiopians</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-04 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,9 +105,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/04/nexus-isnt-going-all-in-on-ai-keeping-its-new-700m-fund-balanced-with-india-bets/" target="_blank">Nexus isn’t going all-in on AI, keeping half of its new $700M fund for India startups</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-04 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/04/gemini-was-googles-top-trending-search-term-in-2025/" target="_blank">Gemini was Google’s top trending search term in 2025</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-04 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Nomad Goods Promo Codes: 25% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nomad-discount-code/" target="_blank">Nomad Goods Promo Codes: 25% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-04 06:00</span>
             </div>
         </div>
 <div class="story">
@@ -138,29 +155,20 @@
                 <span class="time">2025-12-04 00:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1403288381-500x500.jpeg" alt="12 former FDA chiefs unite to say agency memo on vaccines is deeply stupid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/12/12-former-fda-chiefs-unite-to-say-agency-memo-on-vaccines-is-deeply-stupid/" target="_blank">12 former FDA chiefs unite to say agency memo on vaccines is deeply stupid</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-04 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1-500x500.jpg" alt="Maximum-severity vulnerability threatens 6% of all websites" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/" target="_blank">Maximum-severity vulnerability threatens 6% of all websites</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-03 23:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7wjr67f8om5q8vdrgek0.png" alt="Updating data status with API Gateway WebSocket API" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/updating-data-status-with-api-gateway-websocket-api-2al" target="_blank">Updating data status with API Gateway WebSocket API</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-04 10:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/scaling-cloud-distributed-applications/en/smallimage/scaling-cloud-distributed-applications-thumbnail-1764662378257.jpg" alt="Article: Scaling Cloud and Distributed Applications: Lessons and Strategies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,20 +214,20 @@
                 <span class="time">2025-12-04 04:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tisankan/google-just-made-n8n-look-expensive-1ma1" target="_blank">Google just made n8n look expensive 💰</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-04 03:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/dexter-sol-ansell-2-1280x853.jpg" alt="‘A Knight of the Seven Kingdoms’ Showrunner Wants Your Forgiveness if It’s a Bit Messy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-knight-of-the-seven-kingdoms-showrunner-wants-your-forgiveness-if-its-a-bit-messy-2000695417" target="_blank">‘A Knight of the Seven Kingdoms’ Showrunner Wants Your Forgiveness if It’s a Bit Messy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-04 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/froghornet-1280x720.jpg" alt="These Frogs Don’t Just Survive Venomous Murder Hornets—They Devour Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +271,6 @@
                 <span class="title"><a href="https://kotaku.com/bose-headphones-stuck-at-cyber-monday-price-amazon-never-raised-it-to-clear-stock-out-2000650104" target="_blank">Bose Headphones Stuck at Cyber Monday Price, Amazon Never Raised It to Clear Stock Out</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-04 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Stranger-Things-Peanut-Butter-1280x853.jpg" alt="‘Stranger Things 5’ Will Let Me Relive My Peanut Based Childhood Fantasies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stranger-things-5-steve-snack-peanut-butter-boppers-2000695271" target="_blank">‘Stranger Things 5’ Will Let Me Relive My Peanut Based Childhood Fantasies</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-03 23:45</span>
             </div>
         </div>
 </div>
@@ -320,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
