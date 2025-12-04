@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 00:04:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-04 01:29:41 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,10 +52,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/03/nx-s1-5631809/somali-immigrants-minnesota-twin-cities-trump-ilhan-omar" target="_blank">How Minnesota became a hub for Somali immigrants in the U.S.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-03 23:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/3/last-native-american-wwii-d-day-vet-charles-shay-dies-at-101?traffic_source=rss" target="_blank">Last Native American WWII D-Day vet Charles Shay dies at 101</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-03 23:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/boat-strike-01-ht-jt-250902_1756850543563_hpMain_4x3t_384.jpg" alt="New details emerge about 2nd strike on alleged drug boat that killed survivors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/new-details-emerge-controversial-sept-2-strike-alleged/story?id=128090044" target="_blank">New details emerge about 2nd strike on alleged drug boat that killed survivors</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-03 23:13</span>
             </div>
         </div>
 <div class="story">
@@ -79,24 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/03/nx-s1-5630917/cdc-childhood-vaccine-schedule" target="_blank">CDC&#x27;s vaccine advisers meet to question long-used vaccines</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-03 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1764793456638_now_daily_b_hegseth_report_251203_1920x1080-wtnl5x.jpg" alt="Report reveals Hegseth shared secret information in chat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/report-reveals-hegseth-shared-secret-information-in-chat-253587525987" target="_blank">Report reveals Hegseth shared secret information in chat</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-03 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/3/mbappe-shines-as-real-madrid-beat-athletic-to-close-on-barcelona?traffic_source=rss" target="_blank">Mbappe shines as Real Madrid beat Athletic to close on Barcelona</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-03 20:22</span>
             </div>
         </div>
 </div>
@@ -223,12 +227,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/hospital-and-airplane-1280x853.jpg" alt="Germaphobes, Rejoice! Airplane and Hospital Air Is Actually Pretty Clean, Study Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/germaphobes-rejoice-airplane-and-hospital-air-is-actually-pretty-clean-study-claims-2000695101" target="_blank">Germaphobes, Rejoice! Airplane and Hospital Air Is Actually Pretty Clean, Study Claims</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-04 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/bose-headphones-quietcomfort-1280x853.jpg" alt="Bose Headphones Stuck at Cyber Monday Price, Amazon Never Raised It to Clear Stock Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bose-headphones-stuck-at-cyber-monday-price-amazon-never-raised-it-to-clear-stock-out-2000650104" target="_blank">Bose Headphones Stuck at Cyber Monday Price, Amazon Never Raised It to Clear Stock Out</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-04 00:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Stranger-Things-Peanut-Butter-1280x853.jpg" alt="‘Stranger Things 5’ Will Let Me Relive My Peanut Based Childhood Fantasies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/stranger-things-5-steve-snack-peanut-butter-boppers-2000695271" target="_blank">‘Stranger Things 5’ Will Let Me Relive My Peanut Based Childhood Fantasies</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-03 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/aloSIM-Traveler.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Skip the SIM card hunt with aloSIM data for $23" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/03/skip-the-sim-card-hunt-with-alosim-data-for-23.html" target="_blank">Skip the SIM card hunt with aloSIM data for $23</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-03 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -247,33 +278,6 @@
                 <span class="title"><a href="https://gizmodo.com/bryan-fuller-reveals-the-inspirations-for-his-dark-fairytale-feature-debut-2000694843" target="_blank">Bryan Fuller Reveals the Inspirations for His Dark Fairytale Feature Debut</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-03 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBJYRR2BFD3PR5CE87QNGRP4/hero-image.jpg" alt="Google&#x27;s New &#x27;Call Reason&#x27; Feature Lets You Mark Outgoing Calls As Urgent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/try-google-call-reason-feature?utm_medium=RSS" target="_blank">Google&#x27;s New &#x27;Call Reason&#x27; Feature Lets You Mark Outgoing Calls As Urgent</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-03 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBJWSH2Q396WMNPK4A15GW74/hero-image.png" alt="5 Little-Known Extensions That Make Safari Even Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/little-known-safari-extensions?utm_medium=RSS" target="_blank">5 Little-Known Extensions That Make Safari Even Better</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-03 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/star-trek-TOS-the-apple-kirk-1280x853.jpg" alt="William Shatner’s View of the Prime Directive Is Pure Kirk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/william-shatner-star-trek-prime-directive-kirk-2000695209" target="_blank">William Shatner’s View of the Prime Directive Is Pure Kirk</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-03 19:45</span>
             </div>
         </div>
 </div>
@@ -331,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
