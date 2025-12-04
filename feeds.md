@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 16:01:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-04 17:03:44 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6525/live/1f63a980-d11c-11f0-8c06-f5d460985095.jpg" alt="Flu cases at record high for time of year as NHS warns of &#x27;unprecedented&#x27; outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c74xqn2zg1eo?at_medium=RSS&at_campaign=rss" target="_blank">Flu cases at record high for time of year as NHS warns of &#x27;unprecedented&#x27; outbreak</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-04 16:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/04/nx-s1-5626889/europe-left-mamdani-new-york" target="_blank">Europe&#x27;s left is taking notes on Mamdani&#x27;s successful campaign for New York mayor</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-04 16:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +97,29 @@
                 <span class="time">2025-12-04 13:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/4/ilhan-omar-condemns-creepy-donald-trumps-attack-on-somali-communities?traffic_source=rss" target="_blank">Ilhan Omar condemns ‘creepy’ Donald Trump’s attack on Somali communities</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-04 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/4/meet-the-uss-drug-running-friends-a-history-of-narcotics-involvement?traffic_source=rss" target="_blank">Meet the US’s drug running friends: A history of narcotics involvement</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-04 12:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/04/why-day-one-ventures-masha-bucher-thinks-vcs-and-storytelling-go-hand-in-hand/" target="_blank">Why Day One Ventures’ Masha Bucher thinks VCs and storytelling go hand-in-hand</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-04 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2065922040-500x500.jpg" alt="Welcome to “necroprinting”—3D printer nozzle made from mosquito’s proboscis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/welcome-to-necroprinting-3d-printer-nozzle-made-from-mosquitos-proboscis/" target="_blank">Welcome to “necroprinting”—3D printer nozzle made from mosquito’s proboscis</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-04 16:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +156,38 @@
                 <span class="time">2025-12-04 14:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/04/ai-finds-its-way-into-apples-top-apps-of-the-year/" target="_blank">AI finds its way into Apple’s top apps of the year</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-04 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692f4b5f236f43845657af72/master/pass/Science_Geothermal_PMC_5489.jpg" alt="A Startup Says It Has Found a Hidden Source of Geothermal Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/startup-found-hidden-source-geothermal-energy/" target="_blank">A Startup Says It Has Found a Hidden Source of Geothermal Energy</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-04 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18784891&w=600" alt="Architectural Understanding of CPUs, GPUs, and TPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/understanding-cpus-gpus-and-tpus" target="_blank">Architectural Understanding of CPUs, GPUs, and TPUs</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-04 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvugfw12dpaotdgeqoc10.jpeg" alt="Securing My Stack: Features and Experience Integrating Asgardeo, Ballerina, and Choreo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maheshadinu/securing-my-stack-features-and-experience-integrating-asgardeo-ballerina-and-choreo-43dm" target="_blank">Securing My Stack: Features and Experience Integrating Asgardeo, Ballerina, and Choreo</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-04 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wayland-On-Redox-OS" target="_blank">Rust-Written Redox OS Sees Initial Wayland Port</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-04 16:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18743047&w=600" alt="Unleashing Powerful Analytics: Technical Deep Dive into Cassandra-Spark Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,38 +215,38 @@
                 <span class="time">2025-12-04 15:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18784835&w=600" alt="Building Scalable Disaster Recovery Platforms for Microservices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-scalable-disaster-recovery-platform-for-m" target="_blank">Building Scalable Disaster Recovery Platforms for Microservices</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-04 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr9c6hfez4vqafjh4tqrz.jpg" alt="Microsoft AI Copilot News Today: Latest Updates and Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techdecodedly/microsoft-ai-copilot-news-today-latest-updates-and-features-2ph" target="_blank">Microsoft AI Copilot News Today: Latest Updates and Features</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-04 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Timers" target="_blank">Linux 6.19 Fixes A Thundering Herd Problem For Big NUMA Servers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-04 13:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/03/c585db208ebbae69dc2e430910553285-1280x720.jpg" alt="The Internet Can’t Decide If Metroid Prime 4 Is Ugly Or Not" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/metroid-prime-4-beyond-graphics-comparison-switch-2-ugly-2000650585" target="_blank">The Internet Can’t Decide If Metroid Prime 4 Is Ugly Or Not</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-04 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBKFT3C933Y5192EDH8T01MF/hero-image.png" alt="The Samsung Galaxy Buds 3 Pro Are Almost 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-buds-3-pro-sale-december-2025?utm_medium=RSS" target="_blank">The Samsung Galaxy Buds 3 Pro Are Almost 40% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-04 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/MACS-J0717-nasa-cosmic-filaments-e1764863623394-1280x853.jpg" alt="This Might Be the Biggest Thing in the Universe That Spins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-might-be-the-biggest-thing-in-the-universe-that-spins-2000695690" target="_blank">This Might Be the Biggest Thing in the Universe That Spins</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-04 16:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KBGMRRXXYYDJ5Q98FDDCEP4H/hero-image.jpg" alt="Your Ultimate Guide to Stringing Up (and Storing) Outdoor Holiday Lights" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -248,33 +274,6 @@
                 <span class="time">2025-12-04 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/PlayStationPortalRemote-1280x853.jpg" alt="Amazon Dumps PlayStation Portal Handheld Stock, Still at Black Friday Record Low for PS5 Owners Only" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-portal-remote-player-drops-past-black-friday-price-now-at-record-low-if-you-own-a-ps5-2000650490" target="_blank">Amazon Dumps PlayStation Portal Handheld Stock, Still at Black Friday Record Low for PS5 Owners Only</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-04 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/faberge_octopussy.png.webp?fit=1536%2C863&amp;quality=55&amp;ssl=1" alt="Accused thief yet to excrete $19k Faberge egg he swallowed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/04/accused-thief-yet-to-excrete-19k-faberge-egg-he-swallowed.html" target="_blank">Accused thief yet to excrete $19k Faberge egg he swallowed</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-04 12:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Ninja-Turtles-interview-2-1280x853.jpg" alt="‘Mutant Mayhem 2’ Director Confirms New Film Won’t Impact the Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/teenage-mutant-ninja-turtles-mutant-mayhem-2-update-2000694912" target="_blank">‘Mutant Mayhem 2’ Director Confirms New Film Won’t Impact the Sequel</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-04 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,31 +297,13 @@
                 <span class="time">2025-12-03 21:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/understand-me/" target="_blank">Understand Me</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-12-03 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1764710385-20251203_edit.png" alt="Saturday Morning Breakfast Cereal - Sim" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/sim-3" target="_blank">Saturday Morning Breakfast Cereal - Sim</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-03 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
