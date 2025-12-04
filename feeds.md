@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 18:02:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-04 19:02:50 UTC -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 13 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b94/live/99846e30-d12a-11f0-9d18-614b3678ebf8.jpg" alt="Putin says Russia will take Donbas by force or Ukraine&#x27;s troops will withdraw" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&at_campaign=rss" target="_blank">Putin says Russia will take Donbas by force or Ukraine&#x27;s troops will withdraw</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-04 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/04/nx-s1-5633245/hegseth-signal-yemen-venezuela-boat-strikes" target="_blank">Pentagon watchdog finds Hegseth broke policies by using Signal to discuss airstrikes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-04 18:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1764870387506_now_brk_pipe_bomb_suspect_latest_251204_1920x1080-7yztqn.jpg" alt="Officials name Brian Cole as the suspect in the D.C. pipe bomb case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/officials-name-brian-cole-as-the-suspect-in-the-d-c-pipe-bomb-case-253711429924" target="_blank">Officials name Brian Cole as the suspect in the D.C. pipe bomb case</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-04 17:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6525/live/1f63a980-d11c-11f0-8c06-f5d460985095.jpg" alt="Flu cases at record high for time of year as NHS warns of &#x27;unprecedented&#x27; outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,37 +89,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/4/why-is-belgium-opposed-to-using-russian-assets-to-support-ukraine?traffic_source=rss" target="_blank">Why is Belgium opposed to using Russian assets to support Ukraine?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-04 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/04/nx-s1-5632646/fbi-pipe-bombs-arrest" target="_blank">FBI arrests suspect in investigation into pipe bombs planted near DNC, RNC before Jan. 6  attack</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-04 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/pipe-bomb-suspect-fbi-mo-20210108_1610083324785_hpMain_4x3t_384.jpg" alt="Suspect arrested in Jan. 6 pipe bomb case: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/suspect-arrested-jan-6-pipe-bomb-case-sources/story?id=128093323" target="_blank">Suspect arrested in Jan. 6 pipe bomb case: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-04 14:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251112-fbi-pipe-bomb-suspect-gk-34a99e.jpg" alt="Suspect arrested in probe of pipe bombs placed near RNC and DNC on eve of Jan. 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/suspect-arrested-january-6-dc-pipe-bomb-case-rcna247308" target="_blank">Suspect arrested in probe of pipe bombs placed near RNC and DNC on eve of Jan. 6</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-04 13:37</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/04/us-eu-critical-minerals-project-drc-report-lobito-corridor" target="_blank">US and EU critical minerals project could displace thousands in DRC – report</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-04 16:08</span>
             </div>
         </div>
 </div>
@@ -102,6 +100,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad" target="_blank">Microsoft is quietly walking back its diversity efforts</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-04 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6931d3e2c10cb28f11a877f7/master/pass/Lisa-Su-Big-Interview-2025-1.jpg" alt="AMD CEO Lisa Su Says Concerns About an AI Bubble Are Overblown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/big-interview-event-lisa-su-amd/" target="_blank">AMD CEO Lisa Su Says Concerns About an AI Bubble Are Overblown</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-04 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/04/alltroo-co-founders-finding-founder-market-fit/" target="_blank">From the NFL to Startup Battlefield: How Alltroo built a brand that wins</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-04 18:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,33 +152,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/12/04/why-day-one-ventures-masha-bucher-thinks-vcs-and-storytelling-go-hand-in-hand/" target="_blank">Why Day One Ventures’ Masha Bucher thinks VCs and storytelling go hand-in-hand</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-04 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2065922040-500x500.jpg" alt="Welcome to “necroprinting”—3D printer nozzle made from mosquito’s proboscis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/welcome-to-necroprinting-3d-printer-nozzle-made-from-mosquitos-proboscis/" target="_blank">Welcome to “necroprinting”—3D printer nozzle made from mosquito’s proboscis</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-04 16:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry" target="_blank">AI chatbots can be wooed into crimes with poetry</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-04 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/04/spotify-says-wrapped-2025-is-its-biggest-yet-with-200m-users-in-its-first-day/" target="_blank">Spotify says Wrapped 2025 is its biggest yet, with 200M+ users in its first day</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-04 15:27</span>
             </div>
         </div>
 </div>
@@ -207,12 +205,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18743047&w=600" alt="Unleashing Powerful Analytics: Technical Deep Dive into Cassandra-Spark Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/unleashing-powerful-analytics-cassandra-spark-integration" target="_blank">Unleashing Powerful Analytics: Technical Deep Dive into Cassandra-Spark Integration</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-04 16:00</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/" target="_blank">Django 6.0 released</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-04 16:20</span>
             </div>
         </div>
 </div>
@@ -220,6 +218,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/voting_machine-1280x853.jpg" alt="Chatbots Show Promise in Swaying Voters, Researchers Find" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/chatbots-show-promise-in-swaying-voters-researchers-find-2000694151" target="_blank">Chatbots Show Promise in Swaying Voters, Researchers Find</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-04 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBMPR1K2ATMCKXMFGQ63PXWP/hero-image.jpg" alt="Android 16 Just Put Parental Controls Directly on Your Kid&#x27;s Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/android-16-new-parental-controls?utm_medium=RSS" target="_blank">Android 16 Just Put Parental Controls Directly on Your Kid&#x27;s Phone</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-04 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/shutterstock_1017460456-e1764870966743.jpg?fit=768%2C768&amp;quality=60&amp;ssl=1" alt="Kohler&#x27;s &quot;encrypted&quot; smart toilet watches you poop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/04/kohlers-encrypted-smart-toilet-watches-you-poop.html" target="_blank">Kohler&#x27;s &quot;encrypted&quot; smart toilet watches you poop</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-04 17:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/malehairloss-1280x853.jpg" alt="New Baldness Drug Boosted Hair Growth by 539% in Trials" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -245,33 +270,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/04/watch-this-tiny-hamster-burrito-for-an-instant-mood-boost.html" target="_blank">Watch this tiny hamster burrito for an instant mood boost</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-04 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/screenshot-12-1280x720.jpg" alt="Burnout Paradise Director’s Studio Faces Shutdown After 12 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/burnout-co-founder-studio-three-fields-wreckreation-closing-down-layoffs-2000650564" target="_blank">Burnout Paradise Director’s Studio Faces Shutdown After 12 Years</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-04 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/03/c585db208ebbae69dc2e430910553285-1280x720.jpg" alt="The Internet Can’t Decide If Metroid Prime 4 Is Ugly Or Not" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/metroid-prime-4-beyond-graphics-comparison-switch-2-ugly-2000650585" target="_blank">The Internet Can’t Decide If Metroid Prime 4 Is Ugly Or Not</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-04 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBKFT3C933Y5192EDH8T01MF/hero-image.png" alt="The Samsung Galaxy Buds 3 Pro Are Almost 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-buds-3-pro-sale-december-2025?utm_medium=RSS" target="_blank">The Samsung Galaxy Buds 3 Pro Are Almost 40% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-04 17:00</span>
             </div>
         </div>
 </div>
@@ -311,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
