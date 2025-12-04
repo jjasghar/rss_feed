@@ -1,34 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 12:02:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-04 13:13:07 UTC -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,10 +39,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/4/meet-the-uss-drug-running-friends-a-history-of-narcotics-involvement?traffic_source=rss" target="_blank">Meet the US’s drug running friends: A history of narcotics involvement</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-04 12:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1764852055798_tdy_news_7a_peter_boat_strike_video_251204_1920x1080-zptk8x.jpg" alt="Lawmakers Call for Video of 2nd Strike on Alleged Drug Boat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/hegseth-faces-scrutiny-for-military-plans-shared-in-signal-chat-253682245736" target="_blank">Lawmakers Call for Video of 2nd Strike on Alleged Drug Boat</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-04 12:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/04/g-s1-100591/up-first-newsletter-trump-somali-signalgate-pete-hegseth-cdc-vaccine" target="_blank">Trump attacks Somali immigrants. And, CDC to address vaccine schedule for kids</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-04 12:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/12/04/nx-s1-5630889/high-arctic-rhino-hornless-canada-land-bridge" target="_blank">This High Arctic rhino may change what we know about ancient animal migrations</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-04 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c4/live/2ca58ea0-d0b9-11f0-9fb5-5f3a3703a365.jpg" alt="Streeting orders review into mental health and ADHD diagnoses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8q26q2r75o?at_medium=RSS&at_campaign=rss" target="_blank">Streeting orders review into mental health and ADHD diagnoses</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-04 10:50</span>
             </div>
         </div>
 <div class="story">
@@ -62,47 +90,20 @@
                 <span class="time">2025-12-04 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/4/dispute-over-israeli-plan-for-one-way-opening-of-gazas-rafah-crossing?traffic_source=rss" target="_blank">Dispute over Israeli plan for one-way opening of Gaza’s Rafah Crossing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-04 09:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/04/us-eu-critical-minerals-project-drc-report-lobito-corridor" target="_blank">US and EU critical minerals project could displace thousands in DR Congo – report</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-04 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61a/live/4f19c5f0-d0e6-11f0-b0cc-cf4d0e5d41e2.jpg" alt="Energy grid investment of £28bn to push up household bills" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp84yymxpjno?at_medium=RSS&at_campaign=rss" target="_blank">Energy grid investment of £28bn to push up household bills</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-04 07:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/4/video-five-killed-in-israeli-strike-on-gaza-encampment?traffic_source=rss" target="_blank">Video: Five killed in Israeli strike on Gaza encampment</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-04 07:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/838020/meta-whatsapp-eu-antitrust-investigation-ai-tools" target="_blank">The EU is probing Meta over WhatsApp’s AI chatbot restrictions</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-04 12:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +149,20 @@
                 <span class="time">2025-12-04 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/" target="_blank">Day One Ventures’ Masha Bucher on why every founder needs to be an influencer</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-04 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="NVIDIA Dynamo Addresses Multi-Node LLM Inference Challenges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/nvidia-dynamo-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">NVIDIA Dynamo Addresses Multi-Node LLM Inference Challenges</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-04 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F513d19nmh3194j56c07f.png" alt="Building an MCP Server for AI-Native Data Discovery: Rust Crates Ecosystem: Part I" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,15 +206,6 @@
                 <span class="title"><a href="https://pglite.dev/" target="_blank">PGlite – Embeddable Postgres</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-04 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/alexander-linton-interview/" target="_blank">There is No Future for Online Safety Without Privacy and Security</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-12-04 09:29</span>
             </div>
         </div>
 </div>
@@ -321,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
