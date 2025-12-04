@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 17:03:44 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-12-04 18:02:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 17:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +105,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/838255/amazon-usps-delivery-contract-2026" target="_blank">Amazon is reportedly ready to drop its USPS deal if negotiations fall through</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-04 17:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6905149e3c393d38d11d10b2/master/pass/Phreeli-TopArt-Diptych.jpg" alt="A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/" target="_blank">A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-04 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/04/why-day-one-ventures-masha-bucher-thinks-vcs-and-storytelling-go-hand-in-hand/" target="_blank">Why Day One Ventures’ Masha Bucher thinks VCs and storytelling go hand-in-hand</a></span>
                 <span class="feed">TechCrunch</span>
@@ -138,29 +156,29 @@
                 <span class="time">2025-12-04 15:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6930e0c887fbe9c913b783a7/master/pass/InnAIO-T10-AI-Translator-Top-Art-SOURCE-Chris-Null.jpg" alt="InnAIO AI Translator T10 Review: Feature-Loaded but Needs Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/innaio-t10-ai-translator/" target="_blank">InnAIO AI Translator T10 Review: Feature-Loaded but Needs Work</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-04 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/683f7106d47feeb1456c09ce/master/pass/The%2014%20Best%20Golf%20Gifts%20for%20Every%20Kind%20of%20Golfer%20Update_.png" alt="The 19 Best Golf Gifts for Every Kind of Golfer (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-golfers/" target="_blank">The 19 Best Golf Gifts for Every Kind of Golfer (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-04 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/imtaslim/how-to-use-vcards-to-land-brand-deals-and-collaborations-5em4" target="_blank">How to Use vCards to Land Brand Deals and Collaborations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-04 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/a7441393-a25f-45b6-a4a4-b31f98907bbe_420x300.png" alt="The Pulse #155: 5-day RTO looms for those at Big Tech?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-155" target="_blank">The Pulse #155: 5-day RTO looms for those at Big Tech?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-12-04 17:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18784891&w=600" alt="Architectural Understanding of CPUs, GPUs, and TPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,29 +215,47 @@
                 <span class="time">2025-12-04 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mikula/building-my-personal-website-from-idea-to-automated-deployment-part-2-21g4" target="_blank">Building My Personal Website: From Idea to Automated Deployment (Part 2)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-04 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/linux-platform-kit/" target="_blank">Reddit Strangers Built an Open Source Linux Handheld, And They Want Your Help</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-12-04 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/malehairloss-1280x853.jpg" alt="New Baldness Drug Boosted Hair Growth by 539% in Trials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-baldness-drug-boosted-hair-growth-by-539-in-trials-2000695681" target="_blank">New Baldness Drug Boosted Hair Growth by 539% in Trials</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-04 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBK2SENEP0XTH9T90WPKGE98/hero-image.jpg" alt="This Windows Update Pop-Up Is a Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/windows-update-pop-up-clickfix-scam?utm_medium=RSS" target="_blank">This Windows Update Pop-Up Is a Scam</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-04 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/hamster.jpg?fit=1080%2C761&amp;quality=60&amp;ssl=1" alt="Watch this tiny hamster burrito for an instant mood boost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/04/watch-this-tiny-hamster-burrito-for-an-instant-mood-boost.html" target="_blank">Watch this tiny hamster burrito for an instant mood boost</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-04 17:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/screenshot-12-1280x720.jpg" alt="Burnout Paradise Director’s Studio Faces Shutdown After 12 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/burnout-co-founder-studio-three-fields-wreckreation-closing-down-layoffs-2000650564" target="_blank">Burnout Paradise Director’s Studio Faces Shutdown After 12 Years</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-04 17:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/03/c585db208ebbae69dc2e430910553285-1280x720.jpg" alt="The Internet Can’t Decide If Metroid Prime 4 Is Ugly Or Not" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -238,47 +274,20 @@
                 <span class="time">2025-12-04 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/MACS-J0717-nasa-cosmic-filaments-e1764863623394-1280x853.jpg" alt="This Might Be the Biggest Thing in the Universe That Spins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-might-be-the-biggest-thing-in-the-universe-that-spins-2000695690" target="_blank">This Might Be the Biggest Thing in the Universe That Spins</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-04 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBGMRRXXYYDJ5Q98FDDCEP4H/hero-image.jpg" alt="Your Ultimate Guide to Stringing Up (and Storing) Outdoor Holiday Lights" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/ultimate-guide-to-stringing-up-and-storing-christmas-lights?utm_medium=RSS" target="_blank">Your Ultimate Guide to Stringing Up (and Storing) Outdoor Holiday Lights</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-04 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/antigravity-a1-review-01-1280x853.jpg" alt="Antigravity A1 Review: There’s Nothing Else Like This 360 Camera Drone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/antigravity-a1-review-theres-nothing-else-like-this-360-camera-drone-2000695275" target="_blank">Antigravity A1 Review: There’s Nothing Else Like This 360 Camera Drone</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-04 14:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JE4TRRX18138P1FG63NE9FPD/hero-image.jpg" alt="The Best Gifts for Every Tech Nerd in Your Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-gifts-for-every-tech-nerd?utm_medium=RSS" target="_blank">The Best Gifts for Every Tech Nerd in Your Life</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-04 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1764710441-20251204_edit.png" alt="Saturday Morning Breakfast Cereal - On the Edge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/on-the-edge" target="_blank">Saturday Morning Breakfast Cereal - On the Edge</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-04 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5715.png" alt="They&#x27;re Just Like Us" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -302,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
