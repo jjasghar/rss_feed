@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 04:07:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-04 05:02:15 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 04:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shamim_hasnain_bd/from-coder-to-co-creator-why-product-thinking-changes-everything-ban" target="_blank">From Coder to Co-Creator: Why Product Thinking Changes Everything</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-04 04:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tisankan/google-just-made-n8n-look-expensive-1ma1" target="_blank">Google just made n8n look expensive 💰</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-04 03:58</span>
@@ -210,15 +212,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/getting-started-with-openshift-virtualization" target="_blank">Getting Started with OpenShift Virtualization</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-12-04 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-sched-ext" target="_blank">Sched_EXT With Linux 6.19 Improves Recovering For Misbehaving eBPF Schedulers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-03 22:30</span>
             </div>
         </div>
 </div>
@@ -330,22 +323,13 @@
                 <span class="time">2025-12-03 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/inverted_catenaries.png" alt="Inverted Catenaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3176/" target="_blank">Inverted Catenaries</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-12-03 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 04:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
