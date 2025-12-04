@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 19:02:50 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-12-04 20:01:52 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 22 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 19:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/04/nx-s1-5630490/prison-doj-safety-memo-changes-trans-lgbtq-inmates" target="_blank">DOJ orders prison inspectors to stop considering LGBTQ safety standards</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-04 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b94/live/99846e30-d12a-11f0-9d18-614b3678ebf8.jpg" alt="Putin says Russia will take Donbas by force or Ukraine&#x27;s troops will withdraw" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,20 +95,29 @@
                 <span class="time">2025-12-04 16:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/04/us-eu-critical-minerals-project-drc-report-lobito-corridor" target="_blank">US and EU critical minerals project could displace thousands in DRC – report</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-04 16:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/692f294256ed04538b1ea187/master/pass/Disney-Moveie-Guide-Madame-Web-Culture-MCDMAWE_CO048.jpg" alt="The 67 Best Movies on Disney+, WIRED’s Picks (December 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-movies-disney-plus/" target="_blank">The 67 Best Movies on Disney+, WIRED’s Picks (December 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-04 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/838428/metroid-prime-4-analysis-open-world-nintendo" target="_blank">Metroid Prime 4 doesn&amp;#8217;t stand up to Nintendo&amp;#8217;s best</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-04 19:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +154,20 @@
                 <span class="time">2025-12-04 17:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6905149e3c393d38d11d10b2/master/pass/Phreeli-TopArt-Diptych.jpg" alt="A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/" target="_blank">A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-04 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/04/why-day-one-ventures-masha-bucher-thinks-vcs-and-storytelling-go-hand-in-hand/" target="_blank">Why Day One Ventures’ Masha Bucher thinks VCs and storytelling go hand-in-hand</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-04 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foyg8kq8a21hntar8i0ve.png" alt="De RAG tradicional a Agentic RAG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/carly_chavez1/de-rag-tradicional-a-agentic-rag-1am5" target="_blank">De RAG tradicional a Agentic RAG</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-04 19:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,20 +213,20 @@
                 <span class="time">2025-12-04 16:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/" target="_blank">Django 6.0 released</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-04 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/leviMAIN2-1280x719.jpg" alt="One Player Turned 2025’s Hit Extraction Shooter Into A Stunning War Photography Sim" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/arc-raiders-screenshots-photo-mode-hud-binoculars-2000650620" target="_blank">One Player Turned 2025’s Hit Extraction Shooter Into A Stunning War Photography Sim</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-04 19:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/voting_machine-1280x853.jpg" alt="Chatbots Show Promise in Swaying Voters, Researchers Find" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +272,6 @@
                 <span class="time">2025-12-04 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/hamster.jpg?fit=1080%2C761&amp;quality=60&amp;ssl=1" alt="Watch this tiny hamster burrito for an instant mood boost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/04/watch-this-tiny-hamster-burrito-for-an-instant-mood-boost.html" target="_blank">Watch this tiny hamster burrito for an instant mood boost</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-04 17:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
