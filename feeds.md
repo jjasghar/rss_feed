@@ -1,26 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 13:13:07 UTC -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-12-04 14:01:39 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 18 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/4/ilhan-omar-condemns-creepy-donald-trumps-attack-on-somali-communities?traffic_source=rss" target="_blank">Ilhan Omar condemns ‘creepy’ Donald Trump’s attack on Somali communities</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-04 13:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,20 +99,29 @@
                 <span class="time">2025-12-04 10:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/04/nx-s1-5629168/hepatitis-b-vaccine-kids-health" target="_blank">Hepatitis B: What parents should know about the virus and the vaccine</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-04 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/04/ai-finds-its-way-into-apples-top-apps-of-the-year/" target="_blank">AI finds its way into Apple’s top apps of the year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-04 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/692f4b5f236f43845657af72/master/pass/Science_Geothermal_PMC_5489.jpg" alt="A Startup Says It Has Found a Hidden Source of Geothermal Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/startup-found-hidden-source-geothermal-energy/" target="_blank">A Startup Says It Has Found a Hidden Source of Geothermal Energy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-04 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,29 +158,20 @@
                 <span class="time">2025-12-04 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Nomad Goods Promo Codes: 25% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nomad-discount-code/" target="_blank">Nomad Goods Promo Codes: 25% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-04 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/03/new-unicorn-brevo-raises-583m-to-challenge-crm-giants/" target="_blank">New unicorn Brevo raises $583M to challenge CRM giants</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-04 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Timers" target="_blank">Linux 6.19 Fixes A Thundering Herd Problem For Big NUMA Servers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-04 13:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="NVIDIA Dynamo Addresses Multi-Node LLM Inference Challenges" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,20 +217,38 @@
                 <span class="time">2025-12-04 10:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pglite.dev/" target="_blank">PGlite – Embeddable Postgres</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-04 10:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JE4TRRX18138P1FG63NE9FPD/hero-image.jpg" alt="The Best Gifts for Every Tech Nerd in Your Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-gifts-for-every-tech-nerd?utm_medium=RSS" target="_blank">The Best Gifts for Every Tech Nerd in Your Life</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-04 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/PlayStationPortalRemote-1280x853.jpg" alt="Amazon Dumps PlayStation Portal Handheld Stock, Still at Black Friday Record Low for PS5 Owners Only" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-portal-remote-player-drops-past-black-friday-price-now-at-record-low-if-you-own-a-ps5-2000650490" target="_blank">Amazon Dumps PlayStation Portal Handheld Stock, Still at Black Friday Record Low for PS5 Owners Only</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-04 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/faberge_octopussy.png.webp?fit=1536%2C863&amp;quality=55&amp;ssl=1" alt="Accused thief yet to excrete $19k Faberge egg he swallowed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/04/accused-thief-yet-to-excrete-19k-faberge-egg-he-swallowed.html" target="_blank">Accused thief yet to excrete $19k Faberge egg he swallowed</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-04 12:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Ninja-Turtles-interview-2-1280x853.jpg" alt="‘Mutant Mayhem 2’ Director Confirms New Film Won’t Impact the Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -238,33 +274,6 @@
                 <span class="title"><a href="https://gizmodo.com/these-frogs-dont-just-survive-venomous-murder-hornets-they-devour-them-2000694633" target="_blank">These Frogs Don’t Just Survive Venomous Murder Hornets—They Devour Them</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-04 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/pixel-10-google-1280x853.jpg" alt="Pixel 10 Drops to Record Low Only 3 Months After Launch, Now Cheaper Than Mid-Range Android Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pixel-10-drops-to-record-low-only-3-months-after-launch-now-cheaper-than-mid-range-android-phones-2000650110" target="_blank">Pixel 10 Drops to Record Low Only 3 Months After Launch, Now Cheaper Than Mid-Range Android Phones</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-04 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/hospital-and-airplane-1280x853.jpg" alt="Germaphobes, Rejoice! Airplane and Hospital Air Is Actually Pretty Clean, Study Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/germaphobes-rejoice-airplane-and-hospital-air-is-actually-pretty-clean-study-claims-2000695101" target="_blank">Germaphobes, Rejoice! Airplane and Hospital Air Is Actually Pretty Clean, Study Claims</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-04 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Adobe-Acrobat-Pro.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Give your documents the tools they&#x27;ve been begging for, now 84% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/03/give-your-documents-the-tools-theyve-been-begging-for-now-84-off.html" target="_blank">Give your documents the tools they&#x27;ve been begging for, now 84% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-04 01:00</span>
             </div>
         </div>
 </div>
@@ -313,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
