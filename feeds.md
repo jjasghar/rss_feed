@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 03:26:14 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-04 04:07:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 03:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 04:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +50,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/4/putin-visits-india-amid-ukraine-peace-push-whats-on-the-agenda?traffic_source=rss" target="_blank">Putin visits India amid Ukraine peace push: What’s on the agenda?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-04 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-2-epa-gmh-251203_1764804118826_hpMain_4x3t_384.jpg" alt="Trump says &#x27;no problem&#x27; releasing video of 2nd strike on alleged drug boat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-problem-releasing-video-2nd-strike-alleged-drug/story?id=128088957" target="_blank">Trump says &#x27;no problem&#x27; releasing video of 2nd strike on alleged drug boat</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-04 03:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/636d/live/cdd53820-d096-11f0-8c33-11943dbd2110.jpg" alt="Ukraine and US negotiators to meet in Florida after Moscow talks, White House says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine and US negotiators to meet in Florida after Moscow talks, White House says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-04 01:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-donbas-ukraine_7100462.jpg?20251204015021" alt="&#x27;If someone took Trump&#x27;s land, how would he feel?&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/if-someone-took-trumps-land-how-would-he-feel-ukrainians-view-peace-talks-with-suspicion-13478972" target="_blank">&#x27;If someone took Trump&#x27;s land, how would he feel?&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-04 01:50</span>
             </div>
         </div>
 <div class="story">
@@ -73,33 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/03/g-s1-100557/steve-cropper-guitarist-stax-records-dead" target="_blank">Steve Cropper, guitarist and member of Stax Records&#x27; Booker T and the M.G.&#x27;s, dies</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-04 01:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/03/nx-s1-5631809/somali-immigrants-minnesota-twin-cities-trump-ilhan-omar" target="_blank">How Minnesota became a hub for Somali immigrants in the U.S.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-03 23:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/3/last-native-american-wwii-d-day-vet-charles-shay-dies-at-101?traffic_source=rss" target="_blank">Last Native American WWII D-Day vet Charles Shay dies at 101</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-03 23:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/boat-strike-01-ht-jt-250902_1756850543563_hpMain_4x3t_384.jpg" alt="New details emerge about 2nd strike on alleged drug boat that killed survivors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/new-details-emerge-controversial-sept-2-strike-alleged/story?id=128090044" target="_blank">New details emerge about 2nd strike on alleged drug boat that killed survivors</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-03 23:13</span>
             </div>
         </div>
 </div>
@@ -167,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tisankan/google-just-made-n8n-look-expensive-1ma1" target="_blank">Google just made n8n look expensive 💰</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-04 03:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc8erxnoll9u0i78zbbz7.png" alt="I Built a Zero-Downtime Database Migration Pipeline (PostgreSQL to Aurora)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +221,6 @@
                 <span class="time">2025-12-03 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/wsl-2210.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Pro is Now Available to Windows Users (on WSL, Obvs)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-pro-wsl-free-personal-use" target="_blank">Ubuntu Pro is Now Available to Windows Users (on WSL, Obvs)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-03 22:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -240,6 +241,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/germaphobes-rejoice-airplane-and-hospital-air-is-actually-pretty-clean-study-claims-2000695101" target="_blank">Germaphobes, Rejoice! Airplane and Hospital Air Is Actually Pretty Clean, Study Claims</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-04 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Adobe-Acrobat-Pro.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Give your documents the tools they&#x27;ve been begging for, now 84% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/03/give-your-documents-the-tools-theyve-been-begging-for-now-84-off.html" target="_blank">Give your documents the tools they&#x27;ve been begging for, now 84% off</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-04 01:00</span>
             </div>
         </div>
@@ -267,15 +277,6 @@
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/12/03/skip-the-sim-card-hunt-with-alosim-data-for-23.html" target="_blank">Skip the SIM card hunt with aloSIM data for $23</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-03 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in December" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/free-kindle-ebooks-december-2025?utm_medium=RSS" target="_blank">Amazon Prime Members Can Get Two Free E-Books in December</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-03 22:00</span>
             </div>
         </div>
@@ -343,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 03:26 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 04:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
