@@ -1,44 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 02:31:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-04 03:26:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 03:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,6 +70,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/03/g-s1-100557/steve-cropper-guitarist-stax-records-dead" target="_blank">Steve Cropper, guitarist and member of Stax Records&#x27; Booker T and the M.G.&#x27;s, dies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-04 01:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/12/03/nx-s1-5631809/somali-immigrants-minnesota-twin-cities-trump-ilhan-omar" target="_blank">How Minnesota became a hub for Somali immigrants in the U.S.</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-03 23:56</span>
@@ -97,15 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/new-details-emerge-controversial-sept-2-strike-alleged/story?id=128090044" target="_blank">New details emerge about 2nd strike on alleged drug boat that killed survivors</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-03 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/636d/live/cdd53820-d096-11f0-8c33-11943dbd2110.jpg" alt="Zelensky says Ukraine and US negotiators will meet after Russia visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky says Ukraine and US negotiators will meet after Russia visit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-03 22:34</span>
             </div>
         </div>
 </div>
@@ -173,12 +167,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc8erxnoll9u0i78zbbz7.png" alt="I Built a Zero-Downtime Database Migration Pipeline (PostgreSQL to Aurora)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mateenali66/i-built-a-zero-downtime-database-migration-pipeline-postgresql-to-aurora-1ohe" target="_blank">I Built a Zero-Downtime Database Migration Pipeline (PostgreSQL to Aurora)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-04 03:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmtyr05ifwp1k5ay6qudy.png" alt="How the 5-Day Intensive Felt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/akash_santhnusundar_13c0/how-the-5-day-intensive-felt-jlh" target="_blank">How the 5-Day Intensive Felt</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-04 02:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Better-USB-For-ReactOS" target="_blank">ReactOS Lands Improvements For Its USB Stack - Fixing Various Blue Screens of Death</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-04 01:31</span>
             </div>
         </div>
 <div class="story">
@@ -200,30 +212,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2020/03/wsl.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Pro Now Available for Windows (on WSL, Obvs)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/wsl-2210.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Pro is Now Available to Windows Users (on WSL, Obvs)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-pro-wsl-free-personal-use" target="_blank">Ubuntu Pro Now Available for Windows (on WSL, Obvs)</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-pro-wsl-free-personal-use" target="_blank">Ubuntu Pro is Now Available to Windows Users (on WSL, Obvs)</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-12-03 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/md_shahariarsiam_c9380d/beyond-chatbots-my-first-steps-into-the-world-of-ai-agents-2i80" target="_blank">Beyond Chatbots: My First Steps into the World of AI Agents</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-03 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Alpine-Linux-3.23" target="_blank">Alpine Linux 3.23 Released With APK Tools v3 For Package Management</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-03 20:52</span>
             </div>
         </div>
 </div>
@@ -231,6 +225,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/pixel-10-google-1280x853.jpg" alt="Pixel 10 Drops to Record Low Only 3 Months After Launch, Now Cheaper Than Mid-Range Android Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pixel-10-drops-to-record-low-only-3-months-after-launch-now-cheaper-than-mid-range-android-phones-2000650110" target="_blank">Pixel 10 Drops to Record Low Only 3 Months After Launch, Now Cheaper Than Mid-Range Android Phones</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-04 01:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/hospital-and-airplane-1280x853.jpg" alt="Germaphobes, Rejoice! Airplane and Hospital Air Is Actually Pretty Clean, Study Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +277,6 @@
                 <span class="title"><a href="https://lifehacker.com/free-kindle-ebooks-december-2025?utm_medium=RSS" target="_blank">Amazon Prime Members Can Get Two Free E-Books in December</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-03 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/DustBunnyflowers-2-1280x853.jpg" alt="Bryan Fuller Reveals the Inspirations for His Dark Fairytale Feature Debut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/bryan-fuller-reveals-the-inspirations-for-his-dark-fairytale-feature-debut-2000694843" target="_blank">Bryan Fuller Reveals the Inspirations for His Dark Fairytale Feature Debut</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-03 21:45</span>
             </div>
         </div>
 </div>
@@ -349,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 03:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
