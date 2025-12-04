@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 06:02:18 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-12-04 07:02:42 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -176,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saniya_mohammad_837c427af/my-ai-agents-intensive-learning-journey-challenge-submission-4l1e" target="_blank">⭐ My AI Agents Intensive Learning Journey – Challenge Submission</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-04 06:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shamim_hasnain_bd/from-coder-to-co-creator-why-product-thinking-changes-everything-ban" target="_blank">From Coder to Co-Creator: Why Product Thinking Changes Everything</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-04 04:54</span>
@@ -208,20 +214,20 @@
                 <span class="time">2025-12-04 03:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmtyr05ifwp1k5ay6qudy.png" alt="How the 5-Day Intensive Felt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/akash_santhnusundar_13c0/how-the-5-day-intensive-felt-jlh" target="_blank">How the 5-Day Intensive Felt</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-04 02:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/froghornet-1280x720.jpg" alt="These Frogs Don’t Just Survive Venomous Murder Hornets—They Devour Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/these-frogs-dont-just-survive-venomous-murder-hornets-they-devour-them-2000694633" target="_blank">These Frogs Don’t Just Survive Venomous Murder Hornets—They Devour Them</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-04 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/pixel-10-google-1280x853.jpg" alt="Pixel 10 Drops to Record Low Only 3 Months After Launch, Now Cheaper Than Mid-Range Android Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +271,6 @@
                 <span class="title"><a href="https://gizmodo.com/stranger-things-5-steve-snack-peanut-butter-boppers-2000695271" target="_blank">‘Stranger Things 5’ Will Let Me Relive My Peanut Based Childhood Fantasies</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-03 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/aloSIM-Traveler.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Skip the SIM card hunt with aloSIM data for $23" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/03/skip-the-sim-card-hunt-with-alosim-data-for-23.html" target="_blank">Skip the SIM card hunt with aloSIM data for $23</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-03 22:00</span>
             </div>
         </div>
 </div>
@@ -332,7 +329,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 06:02 UTC
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
