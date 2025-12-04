@@ -1,32 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 07:02:42 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-12-04 08:02:23 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +38,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61a/live/4f19c5f0-d0e6-11f0-b0cc-cf4d0e5d41e2.jpg" alt="Energy grid investment of £28bn to push up household bills" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp84yymxpjno?at_medium=RSS&at_campaign=rss" target="_blank">Energy grid investment of £28bn to push up household bills</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-04 07:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/4/video-five-killed-in-israeli-strike-on-gaza-encampment?traffic_source=rss" target="_blank">Video: Five killed in Israeli strike on Gaza encampment</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-04 07:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/04/g-s1-100572/family-colombian-man-killed-files-human-rights-challenge" target="_blank">Family of Colombian man killed in U.S. strike files human rights challenge</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-04 07:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/dec/04/aid-cuts-africa-uganda-stops-refugee-status-eritreans-somalis-ethiopians" target="_blank">Uganda stops granting refugee status for Eritreans, Somalis and Ethiopians</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-04 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -60,47 +92,20 @@
                 <span class="time">2025-12-04 03:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/636d/live/cdd53820-d096-11f0-8c33-11943dbd2110.jpg" alt="Ukraine and US negotiators to meet in Florida after Moscow talks, White House says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine and US negotiators to meet in Florida after Moscow talks, White House says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-04 01:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-donbas-ukraine_7100462.jpg?20251204015021" alt="&#x27;If someone took Trump&#x27;s land, how would he feel?&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/if-someone-took-trumps-land-how-would-he-feel-ukrainians-view-peace-talks-with-suspicion-13478972" target="_blank">&#x27;If someone took Trump&#x27;s land, how would he feel?&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-04 01:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-donbas-ukraine_7100462.jpg?20251204015021" alt="&#x27;If someone took Trump&#x27;s land, how would he feel?&#x27; - Ukrainians view peace talks with suspicion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/if-someone-took-trumps-land-how-would-he-feel-ukrainians-view-peace-talks-with-suspicion-13478972" target="_blank">&#x27;If someone took Trump&#x27;s land, how would he feel?&#x27; - Ukrainians view peace talks with suspicion</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-04 01:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/03/g-s1-100557/steve-cropper-guitarist-stax-records-dead" target="_blank">Steve Cropper, guitarist and member of Stax Records&#x27; Booker T and the M.G.&#x27;s, dies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-04 01:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/04/gemini-was-googles-top-trending-search-term-in-2025/" target="_blank">Gemini was Google’s top trending search term in 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-04 08:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +149,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/" target="_blank">Maximum-severity vulnerability threatens 6% of all websites</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-12-03 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/837394/bmw-ix3-first-drive-neue-klasse-specs-price" target="_blank">BMW iX3 first drive: a ‘New Class’ is in session</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-03 23:01</span>
             </div>
         </div>
 </div>
@@ -314,22 +310,13 @@
                 <span class="time">2025-12-03 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/03/stranger-things" target="_blank">Stranger Things</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-03 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
