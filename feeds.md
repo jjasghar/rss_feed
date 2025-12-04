@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-03 23:01:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-04 00:04:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, December 03, 2025 - 23:01 UTC</div>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/3/last-native-american-wwii-d-day-vet-charles-shay-dies-at-101?traffic_source=rss" target="_blank">Last Native American WWII D-Day vet Charles Shay dies at 101</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-03 23:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/636d/live/cdd53820-d096-11f0-8c33-11943dbd2110.jpg" alt="Zelensky says Ukraine and US negotiators will meet after Russia visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky says Ukraine and US negotiators will meet after Russia visit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-03 22:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +99,38 @@
                 <span class="time">2025-12-03 20:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/pete-hegseth-1-rt-gmh-251202_1764695219524_hpMain_4x3t_384.jpg" alt="Pentagon IG finds Hegseth could have endangered troops with Signal chat, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/pentagon-ig-concluded-hegseth-risked-exposing-classified-info/story?id=128079227" target="_blank">Pentagon IG finds Hegseth could have endangered troops with Signal chat, sources say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-03 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cb7/live/e9811420-d07f-11f0-92b0-9b1b6ce7fb6f.jpg" alt="Stop wasting the world&#x27;s time, Ukraine tells Putin after US talks in Moscow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss" target="_blank">Stop wasting the world&#x27;s time, Ukraine tells Putin after US talks in Moscow</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-03 19:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1-500x500.jpg" alt="Maximum-severity vulnerability threatens 6% of all websites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/" target="_blank">Maximum-severity vulnerability threatens 6% of all websites</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-03 23:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/837394/bmw-ix3-first-drive-neue-klasse-specs-price" target="_blank">BMW iX3 first drive: a ‘New Class’ is in session</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-03 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/692f33fade1067318a26059a/master/pass/P90615619_highRes_the-new-bmw-ix3-50-x.jpg" alt="BMW iX3 2026 Review: Price, Specs, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/bmw-ix3-2026/" target="_blank">BMW iX3 2026 Review: Price, Specs, Availability</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-03 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,33 +158,6 @@
                 <span class="time">2025-12-03 22:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/837779/anthropic-ai-bubble-warning" target="_blank">Anthropic&amp;#8217;s AI bubble &amp;#8216;YOLO&amp;#8217; warning</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-03 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2238395456-500x500.jpg" alt="Republicans drop Trump-ordered block on state AI laws from defense bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/republicans-once-again-thwart-trumps-push-to-block-state-ai-laws/" target="_blank">Republicans drop Trump-ordered block on state AI laws from defense bill</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-03 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/03/end-to-end-encrypted-smart-toilet-camera-is-not-actually-end-to-end-encrypted/" target="_blank">‘End-to-end encrypted’ smart toilet camera is not actually end-to-end encrypted</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-03 19:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +170,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/getting-started-with-openshift-virtualization" target="_blank">Getting Started with OpenShift Virtualization</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-12-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-sched-ext" target="_blank">Sched_EXT With Linux 6.19 Improves Recovering For Misbehaving eBPF Schedulers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-03 22:30</span>
             </div>
         </div>
 <div class="story">
@@ -204,20 +217,29 @@
                 <span class="time">2025-12-03 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783756&w=600" alt="Reproducible SadTalker Pipeline in Google Colab for Single-Image, Single-Audio Talking-Head Generation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/reproducible-sadtalker-pipeline-google-colab" target="_blank">Reproducible SadTalker Pipeline in Google Colab for Single-Image, Single-Audio Talking-Head Generation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-03 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Stranger-Things-Peanut-Butter-1280x853.jpg" alt="‘Stranger Things 5’ Will Let Me Relive My Peanut Based Childhood Fantasies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/stranger-things-5-steve-snack-peanut-butter-boppers-2000695271" target="_blank">‘Stranger Things 5’ Will Let Me Relive My Peanut Based Childhood Fantasies</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-03 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in December" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/free-kindle-ebooks-december-2025?utm_medium=RSS" target="_blank">Amazon Prime Members Can Get Two Free E-Books in December</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-03 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/DustBunnyflowers-2-1280x853.jpg" alt="Bryan Fuller Reveals the Inspirations for His Dark Fairytale Feature Debut" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -254,29 +276,20 @@
                 <span class="time">2025-12-03 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/58575ed81c1f9ef1df92cd95e2b49e6a-1280x720.jpg" alt="2025’s Hit SWAT Sim Gets Free Trial On PS5 And Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ready-or-not-free-trial-xbox-ps5-full-progress-carry-over-when-void-swat-2000650182" target="_blank">2025’s Hit SWAT Sim Gets Free Trial On PS5 And Xbox</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-03 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GVYHDA3G969N5YP4AAN09/hero-image.jpg" alt="Here&#x27;s When &#x27;Booty Bands&#x27; Are Actually Useful (and When They&#x27;re Not)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/are-booty-bands-actually-useful-1846775637?utm_medium=RSS" target="_blank">Here&#x27;s When &#x27;Booty Bands&#x27; Are Actually Useful (and When They&#x27;re Not)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-03 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/03/stranger-things" target="_blank">Stranger Things</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-03 21:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -318,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
