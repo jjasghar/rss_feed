@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 15:01:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-04 16:01:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/4/why-is-belgium-opposed-to-using-russian-assets-to-support-ukraine?traffic_source=rss" target="_blank">Why is Belgium opposed to using Russian assets to support Ukraine?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-04 15:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +98,38 @@
                 <span class="time">2025-12-04 12:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1764852055798_tdy_news_7a_peter_boat_strike_video_251204_1920x1080-zptk8x.jpg" alt="Lawmakers Call for Video of 2nd Strike on Alleged Drug Boat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/hegseth-faces-scrutiny-for-military-plans-shared-in-signal-chat-253682245736" target="_blank">Lawmakers Call for Video of 2nd Strike on Alleged Drug Boat</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-04 12:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry" target="_blank">AI chatbots can be wooed into crimes with poetry</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-04 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/04/spotify-says-wrapped-2025-is-its-biggest-yet-with-200m-users-in-its-first-day/" target="_blank">Spotify says Wrapped 2025 is its biggest yet, with 200M+ users in its first day</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-04 15:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6930e0c887fbe9c913b783a7/master/pass/InnAIO-T10-AI-Translator-Top-Art-SOURCE-Chris-Null.jpg" alt="InnAIO AI Translator T10 Review: Feature-Loaded but Needs Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/innaio-t10-ai-translator/" target="_blank">InnAIO AI Translator T10 Review: Feature-Loaded but Needs Work</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-04 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/683f7106d47feeb1456c09ce/master/pass/The%2014%20Best%20Golf%20Gifts%20for%20Every%20Kind%20of%20Golfer%20Update_.png" alt="The 19 Best Golf Gifts for Every Kind of Golfer (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +157,38 @@
                 <span class="time">2025-12-04 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/838020/meta-whatsapp-eu-antitrust-investigation-ai-tools" target="_blank">The EU is probing Meta over WhatsApp’s AI chatbot restrictions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-04 12:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/829964/country-music-ai" target="_blank">Get ready for an AI country music explosion</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-04 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/04/nexus-isnt-going-all-in-on-ai-keeping-its-new-700m-fund-balanced-with-india-bets/" target="_blank">Nexus isn’t going all-in on AI, keeping half of its new $700M fund for India startups</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-04 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18743047&w=600" alt="Unleashing Powerful Analytics: Technical Deep Dive into Cassandra-Spark Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/unleashing-powerful-analytics-cassandra-spark-integration" target="_blank">Unleashing Powerful Analytics: Technical Deep Dive into Cassandra-Spark Integration</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-04 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mikula/building-my-personal-website-from-idea-to-automated-deployment-part-2-21g4" target="_blank">Building My Personal Website: From Idea to Automated Deployment (Part 2)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-04 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/linux-platform-kit/" target="_blank">Reddit Strangers Built an Open Source Linux Handheld, And They Want Your Help</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-12-04 15:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18784835&w=600" alt="Building Scalable Disaster Recovery Platforms for Microservices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,38 +216,20 @@
                 <span class="time">2025-12-04 13:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="NVIDIA Dynamo Addresses Multi-Node LLM Inference Challenges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/nvidia-dynamo-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">NVIDIA Dynamo Addresses Multi-Node LLM Inference Challenges</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F513d19nmh3194j56c07f.png" alt="Building an MCP Server for AI-Native Data Discovery: Rust Crates Ecosystem: Part I" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sakesalih/building-an-mcp-server-for-ai-native-data-discovery-rust-crates-ecosystem-part-i-pi4" target="_blank">Building an MCP Server for AI-Native Data Discovery: Rust Crates Ecosystem: Part I</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-04 11:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/karrot-aws-feature-platform/en/headerimage/generatedHeaderImage-1764761905517.jpg" alt="Karrot Improves Conversion Rates by 70% with New Scalable Feature Platform on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/karrot-aws-feature-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Karrot Improves Conversion Rates by 70% with New Scalable Feature Platform on AWS</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-04 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBGMRRXXYYDJ5Q98FDDCEP4H/hero-image.jpg" alt="Your Ultimate Guide to Stringing Up (and Storing) Outdoor Holiday Lights" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/ultimate-guide-to-stringing-up-and-storing-christmas-lights?utm_medium=RSS" target="_blank">Your Ultimate Guide to Stringing Up (and Storing) Outdoor Holiday Lights</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-04 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/antigravity-a1-review-01-1280x853.jpg" alt="Antigravity A1 Review: There’s Nothing Else Like This 360 Camera Drone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +273,6 @@
                 <span class="title"><a href="https://gizmodo.com/teenage-mutant-ninja-turtles-mutant-mayhem-2-update-2000694912" target="_blank">‘Mutant Mayhem 2’ Director Confirms New Film Won’t Impact the Sequel</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-04 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/dexter-sol-ansell-2-1280x853.jpg" alt="‘A Knight of the Seven Kingdoms’ Showrunner Wants Your Forgiveness if It’s a Bit Messy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-knight-of-the-seven-kingdoms-showrunner-wants-your-forgiveness-if-its-a-bit-messy-2000695417" target="_blank">‘A Knight of the Seven Kingdoms’ Showrunner Wants Your Forgiveness if It’s a Bit Messy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-04 11:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
