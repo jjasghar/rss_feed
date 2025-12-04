@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 11:01:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing 54 RSS feeds at 2025-12-04 12:02:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/04/nx-s1-5630889/high-arctic-rhino-hornless-canada-land-bridge" target="_blank">This High Arctic rhino may change what we know about ancient animal migrations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-04 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +98,20 @@
                 <span class="time">2025-12-04 07:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/04/g-s1-100572/family-colombian-man-killed-files-human-rights-challenge" target="_blank">Family of Colombian man killed in U.S. strike files human rights challenge</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-04 07:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/829964/country-music-ai" target="_blank">Get ready for an AI country music explosion</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-04 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +157,38 @@
                 <span class="time">2025-12-04 01:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/837922/antigravity-360-us-release-price-best-buy" target="_blank">Antigravity’s 360-degree drone is here to help you forget DJI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-04 00:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F513d19nmh3194j56c07f.png" alt="Building an MCP Server for AI-Native Data Discovery: Rust Crates Ecosystem: Part I" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sakesalih/building-an-mcp-server-for-ai-native-data-discovery-rust-crates-ecosystem-part-i-pi4" target="_blank">Building an MCP Server for AI-Native Data Discovery: Rust Crates Ecosystem: Part I</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-04 11:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/karrot-aws-feature-platform/en/headerimage/generatedHeaderImage-1764761905517.jpg" alt="Karrot Improves Conversion Rates by 70% with New Scalable Feature Platform on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/karrot-aws-feature-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Karrot Improves Conversion Rates by 70% with New Scalable Feature Platform on AWS</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-04 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Zlib-rs-0.5.3" target="_blank">Zlib-rs 0.5.3 Expands AVX-512 Usage For Faster Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-04 11:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7wjr67f8om5q8vdrgek0.png" alt="Updating data status with API Gateway WebSocket API" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -170,48 +199,21 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/articles/scaling-cloud-distributed-applications/en/smallimage/scaling-cloud-distributed-applications-thumbnail-1764662378257.jpg" alt="Article: Scaling Cloud and Distributed Applications: Lessons and Strategies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/scaling-cloud-distributed-applications/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Scaling Cloud and Distributed Applications: Lessons and Strategies</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-04 09:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/04/postman-s-journey-and-unlocking-the-power-of-apis/" target="_blank">Postman’s journey and unlocking the power of APIs</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-04 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/saniya_mohammad_837c427af/my-ai-agents-intensive-learning-journey-challenge-submission-4l1e" target="_blank">⭐ My AI Agents Intensive Learning Journey – Challenge Submission</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-04 06:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shamim_hasnain_bd/from-coder-to-co-creator-why-product-thinking-changes-everything-ban" target="_blank">From Coder to Co-Creator: Why Product Thinking Changes Everything</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-04 04:54</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://pglite.dev/" target="_blank">PGlite – Embeddable Postgres</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-04 10:52</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-49/" target="_blank">FOSS Weekly #25.49: Kernel 6.18 &#x27;LTS&#x27;, Ubuntu 26.04 LTS, Linus Torvalds on BSOD, Obsidian Distro and More Linux Stuff</a></span>
+                <span class="title"><a href="https://itsfoss.com/news/alexander-linton-interview/" target="_blank">There is No Future for Online Safety Without Privacy and Security</a></span>
                 <span class="feed">It's FOSS</span>
-                <span class="time">2025-12-04 04:17</span>
+                <span class="time">2025-12-04 09:29</span>
             </div>
         </div>
 </div>
@@ -219,6 +221,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Ninja-Turtles-interview-2-1280x853.jpg" alt="‘Mutant Mayhem 2’ Director Confirms New Film Won’t Impact the Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/teenage-mutant-ninja-turtles-mutant-mayhem-2-update-2000694912" target="_blank">‘Mutant Mayhem 2’ Director Confirms New Film Won’t Impact the Sequel</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-04 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/dexter-sol-ansell-2-1280x853.jpg" alt="‘A Knight of the Seven Kingdoms’ Showrunner Wants Your Forgiveness if It’s a Bit Messy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +273,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/03/give-your-documents-the-tools-theyve-been-begging-for-now-84-off.html" target="_blank">Give your documents the tools they&#x27;ve been begging for, now 84% off</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-04 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/bose-headphones-quietcomfort-1280x853.jpg" alt="Bose Headphones Stuck at Cyber Monday Price, Amazon Never Raised It to Clear Stock Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bose-headphones-stuck-at-cyber-monday-price-amazon-never-raised-it-to-clear-stock-out-2000650104" target="_blank">Bose Headphones Stuck at Cyber Monday Price, Amazon Never Raised It to Clear Stock Out</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-04 00:35</span>
             </div>
         </div>
 </div>
@@ -319,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
