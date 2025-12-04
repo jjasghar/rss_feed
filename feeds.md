@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 14:01:39 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-04 15:01:51 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/04/nx-s1-5632646/fbi-pipe-bombs-arrest" target="_blank">FBI arrests suspect in investigation into pipe bombs planted near DNC, RNC before Jan. 6  attack</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-04 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pipe-bomb-suspect-fbi-mo-20210108_1610083324785_hpMain_4x3t_384.jpg" alt="Suspect arrested in Jan. 6 pipe bomb case: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/suspect-arrested-jan-6-pipe-bomb-case-sources/story?id=128093323" target="_blank">Suspect arrested in Jan. 6 pipe bomb case: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-04 14:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251112-fbi-pipe-bomb-suspect-gk-34a99e.jpg" alt="Suspect arrested in probe of pipe bombs placed near RNC and DNC on eve of Jan. 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/suspect-arrested-january-6-dc-pipe-bomb-case-rcna247308" target="_blank">Suspect arrested in probe of pipe bombs placed near RNC and DNC on eve of Jan. 6</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-04 13:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +99,20 @@
                 <span class="time">2025-12-04 12:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/04/g-s1-100591/up-first-newsletter-trump-somali-signalgate-pete-hegseth-cdc-vaccine" target="_blank">Trump attacks Somali immigrants. And, CDC to address vaccine schedule for kids</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-04 12:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/04/nx-s1-5630889/high-arctic-rhino-hornless-canada-land-bridge" target="_blank">This High Arctic rhino may change what we know about ancient animal migrations</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-04 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c4/live/2ca58ea0-d0b9-11f0-9fb5-5f3a3703a365.jpg" alt="Streeting orders review into mental health and ADHD diagnoses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce8q26q2r75o?at_medium=RSS&at_campaign=rss" target="_blank">Streeting orders review into mental health and ADHD diagnoses</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-04 10:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/683f7106d47feeb1456c09ce/master/pass/The%2014%20Best%20Golf%20Gifts%20for%20Every%20Kind%20of%20Golfer%20Update_.png" alt="The 19 Best Golf Gifts for Every Kind of Golfer (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-golfers/" target="_blank">The 19 Best Golf Gifts for Every Kind of Golfer (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-04 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +158,29 @@
                 <span class="time">2025-12-04 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/04/gemini-was-googles-top-trending-search-term-in-2025/" target="_blank">Gemini was Google’s top trending search term in 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-04 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18784835&w=600" alt="Building Scalable Disaster Recovery Platforms for Microservices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-scalable-disaster-recovery-platform-for-m" target="_blank">Building Scalable Disaster Recovery Platforms for Microservices</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-04 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr9c6hfez4vqafjh4tqrz.jpg" alt="Microsoft AI Copilot News Today: Latest Updates and Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/techdecodedly/microsoft-ai-copilot-news-today-latest-updates-and-features-2ph" target="_blank">Microsoft AI Copilot News Today: Latest Updates and Features</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-04 14:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,29 +217,20 @@
                 <span class="time">2025-12-04 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Zlib-rs-0.5.3" target="_blank">Zlib-rs 0.5.3 Expands AVX-512 Usage For Faster Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-04 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7wjr67f8om5q8vdrgek0.png" alt="Updating data status with API Gateway WebSocket API" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/updating-data-status-with-api-gateway-websocket-api-2al" target="_blank">Updating data status with API Gateway WebSocket API</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-04 10:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/antigravity-a1-review-01-1280x853.jpg" alt="Antigravity A1 Review: There’s Nothing Else Like This 360 Camera Drone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/antigravity-a1-review-theres-nothing-else-like-this-360-camera-drone-2000695275" target="_blank">Antigravity A1 Review: There’s Nothing Else Like This 360 Camera Drone</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-04 14:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JE4TRRX18138P1FG63NE9FPD/hero-image.jpg" alt="The Best Gifts for Every Tech Nerd in Your Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +274,6 @@
                 <span class="title"><a href="https://gizmodo.com/a-knight-of-the-seven-kingdoms-showrunner-wants-your-forgiveness-if-its-a-bit-messy-2000695417" target="_blank">‘A Knight of the Seven Kingdoms’ Showrunner Wants Your Forgiveness if It’s a Bit Messy</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-04 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/froghornet-1280x720.jpg" alt="These Frogs Don’t Just Survive Venomous Murder Hornets—They Devour Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/these-frogs-dont-just-survive-venomous-murder-hornets-they-devour-them-2000694633" target="_blank">These Frogs Don’t Just Survive Venomous Murder Hornets—They Devour Them</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-04 05:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
