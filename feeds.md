@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 20:01:52 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-04 21:01:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, December 04, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/04/nx-s1-5629199/cdc-acip-hepatitis-b-vaccine-meeting" target="_blank">CDC advisers delay planned vote on hepatitis B vaccine for infants</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-04 20:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +99,29 @@
                 <span class="time">2025-12-04 16:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/04/nx-s1-5626889/europe-left-mamdani-new-york" target="_blank">Europe&#x27;s left is taking notes on Mamdani&#x27;s successful campaign for New York mayor</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-04 16:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249270671-500x500.jpg" alt="CDC vaccine panel realizes again it has no idea what it’s doing, delays big vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/12/cdc-vaccine-panel-realizes-again-it-has-no-idea-what-its-doing-delays-big-vote/" target="_blank">CDC vaccine panel realizes again it has no idea what it’s doing, delays big vote</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-04 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/04/anthropic-ceo-weighs-in-on-ai-bubble-talk-and-risk-taking-among-competitors/" target="_blank">Anthropic CEO weighs in on AI bubble talk and risk-taking among competitors</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-04 20:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/692f294256ed04538b1ea187/master/pass/Disney-Moveie-Guide-Madame-Web-Culture-MCDMAWE_CO048.jpg" alt="The 67 Best Movies on Disney+, WIRED’s Picks (December 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,29 +158,20 @@
                 <span class="time">2025-12-04 18:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/04/alltroo-co-founders-finding-founder-market-fit/" target="_blank">From the NFL to Startup Battlefield: How Alltroo built a brand that wins</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-04 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/838255/amazon-usps-delivery-contract-2026" target="_blank">Amazon is reportedly ready to drop its USPS deal if negotiations fall through</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-04 17:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shantih_palani/client-side-vs-server-side-cors-understanding-the-real-difference-52l9" target="_blank">🚀 Client-Side vs Server-Side CORS: Understanding the Real Difference</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-04 20:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foyg8kq8a21hntar8i0ve.png" alt="De RAG tradicional a Agentic RAG" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -166,6 +179,15 @@
                 <span class="title"><a href="https://dev.to/carly_chavez1/de-rag-tradicional-a-agentic-rag-1am5" target="_blank">De RAG tradicional a Agentic RAG</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-04 19:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Reconcile-Ready" target="_blank">Bcachefs Ready With Its Reconcile Feature As Biggest Change In Two Years</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-04 18:48</span>
             </div>
         </div>
 <div class="story">
@@ -195,29 +217,29 @@
                 <span class="time">2025-12-04 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvugfw12dpaotdgeqoc10.jpeg" alt="Securing My Stack: Features and Experience Integrating Asgardeo, Ballerina, and Choreo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maheshadinu/securing-my-stack-features-and-experience-integrating-asgardeo-ballerina-and-choreo-43dm" target="_blank">Securing My Stack: Features and Experience Integrating Asgardeo, Ballerina, and Choreo</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-04 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wayland-On-Redox-OS" target="_blank">Rust-Written Redox OS Sees Initial Wayland Port</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-04 16:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Boeing-777-involved-in-MH370-disappearance--1280x853.jpg" alt="The Hunt for Missing Malaysia Flight 370 Is Back On. Here’s Why It Might Actually Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-hunt-for-missing-malaysia-flight-370-is-back-on-heres-why-it-might-actually-work-2000695861" target="_blank">The Hunt for Missing Malaysia Flight 370 Is Back On. Here’s Why It Might Actually Work</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-04 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBN5YJXM3RYZVHHBB4D420Z3/hero-image.png" alt="This New Android Feature Protects You From a Scam Call While It&#x27;s Happening" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/this-new-android-feature-protects-you-from-a-scam-call-while-its-happening?utm_medium=RSS" target="_blank">This New Android Feature Protects You From a Scam Call While It&#x27;s Happening</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-04 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/leviMAIN2-1280x719.jpg" alt="One Player Turned 2025’s Hit Extraction Shooter Into A Stunning War Photography Sim" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -252,24 +274,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/04/kohlers-encrypted-smart-toilet-watches-you-poop.html" target="_blank">Kohler&#x27;s &quot;encrypted&quot; smart toilet watches you poop</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-04 17:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/malehairloss-1280x853.jpg" alt="New Baldness Drug Boosted Hair Growth by 539% in Trials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-baldness-drug-boosted-hair-growth-by-539-in-trials-2000695681" target="_blank">New Baldness Drug Boosted Hair Growth by 539% in Trials</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-04 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBK2SENEP0XTH9T90WPKGE98/hero-image.jpg" alt="This Windows Update Pop-Up Is a Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/windows-update-pop-up-clickfix-scam?utm_medium=RSS" target="_blank">This Windows Update Pop-Up Is a Scam</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-04 17:30</span>
             </div>
         </div>
 </div>
@@ -309,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
