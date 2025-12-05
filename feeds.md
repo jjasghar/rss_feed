@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 08:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-05 10:01:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 08:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/12/5/modi-strengthens-his-own-position-with-putin-meeting?traffic_source=rss" target="_blank">Modi “strengthens his own position” with Putin meeting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-05 09:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/dec/05/rsf-massacres-sudanese-city-el-fasher-slaughterhouse-satellite-images" target="_blank">RSF massacres left Sudanese city ‘a slaughterhouse’, satellite images show</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-05 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,30 +97,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-iran-water_7101383.jpg?20251205001512" alt="Major city may have to evacuate as water is running out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/04/nx-s1-5634017/grand-jury-rejects-new-mortgage-fraud-indictment-against-new-york-attorney-general-letitia-james" target="_blank">Grand jury rejects new mortgage fraud indictment against New York Attorney General Letitia James</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-05 03:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/5/us-supreme-court-allows-texas-to-use-redrawn-district-map-for-2026-midterms?traffic_source=rss" target="_blank">US Supreme Court allows Texas to use redrawn district map for 2026 midterms</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-05 01:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/letitia-james-ap-jef-251204_1764858968764_hpMain_4x3t_384.jpg" alt="Grand jury rejects DOJ&#x27;s attempt to revive fraud case against Letitia James: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/grand-jury-rejects-dojs-attempt-revive-fraud-case/story?id=128107484" target="_blank">Grand jury rejects DOJ&#x27;s attempt to revive fraud case against Letitia James: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-05 00:47</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/the-countdown-to-day-zero-major-city-may-have-to-evacuate-as-water-supplies-run-low-13479538" target="_blank">Major city may have to evacuate as water is running out</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-05 03:37</span>
             </div>
         </div>
 </div>
@@ -103,6 +110,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode" target="_blank">Microsoft finally has a better looking Run dialog for Windows 11</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-05 09:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="Logitech Promo Code: $25 Off This Holiday Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +164,29 @@
                 <span class="time">2025-12-05 00:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/693216464dde9e188d87dc6d/master/pass/Daniel-Lurie-Big-Interview-2025-6.jpg" alt="San Francisco Mayor Daniel Lurie: Past Leaders Took the City ‘for Granted’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/big-interview-event-mayor-daniel-lurie/" target="_blank">San Francisco Mayor Daniel Lurie: Past Leaders Took the City ‘for Granted’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-04 23:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdqp13rooj2t8i640y0dc.jpeg" alt="Resurrecting the GameBoy with Kiro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/michiel_8fb6/resurrecting-the-gameboy-with-kiro-5417" target="_blank">Resurrecting the GameBoy with Kiro</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-05 09:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/hybrid-cloud-native-networking-enterprise/en/mediumimage/louis-ryan-medium-1764080811007.jpg" alt="Presentation: Hybrid Cloud-Native Networking in Enterprise - Some Assembly Required" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/hybrid-cloud-native-networking-enterprise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Hybrid Cloud-Native Networking in Enterprise - Some Assembly Required</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-05 09:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wppv2ax93yvx8ysdv6a.jpg" alt="How FSSC 22000 Documents Reduce Non-Conformities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/architrixs/terra-nova-a-cinematic-travel-app-from-scratch-with-uno-platform-244i" target="_blank">Terra Nova: A Cinematic Travel App from Scratch with Uno Platform</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-05 04:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wraith/start-with-a-gravel-road-why-mvps-beat-12-lane-highways-2mdk" target="_blank">Start with a Gravel Road: Why MVPs Beat 12‑Lane Highways</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-05 03:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Graphics-Drivers" target="_blank">Linux 6.19 GPU Driver Features: Color Pipeline API, Intel Xe3P, AMDGPU For GCN 1.0/1.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-05 01:23</span>
             </div>
         </div>
 </div>
@@ -295,6 +302,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/05/hot-ones" target="_blank">Hot Ones</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-05 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1764710441-20251204_edit.png" alt="Saturday Morning Breakfast Cereal - On the Edge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -308,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
