@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 14:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-05 15:01:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/5/aje-onl-pp-rafah-explained-051225?traffic_source=rss" target="_blank">Who controls the Rafah crossing?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-05 14:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/luigi-mangione-4-rt-gmh-251204_1764861113896_hpMain_4x3t_384.jpg" alt="Luigi Mangione back in court for 4th day of evidence suppression hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/luigi-mangione-back-court-4th-day-evidence-suppression/story?id=128123310" target="_blank">Luigi Mangione back in court for 4th day of evidence suppression hearing</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-05 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/05/nx-s1-5607173/kennedy-center-honors-trump" target="_blank">The Kennedy Center Honors are coming up. This year&#x27;s event will be different</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-05 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,38 +100,29 @@
                 <span class="time">2025-12-05 12:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/5/uninterrupted-oil-shipments-key-takeaways-from-putin-modi-talks-in-delhi?traffic_source=rss" target="_blank">‘Uninterrupted oil shipments’: Key takeaways from Putin-Modi talks in Delhi</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-05 12:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251204-warner-bros-ch-2127-c0d0fb.jpg" alt="Netflix to buy Warner Bros. and HBO Max for $83 billion in blockbuster Hollywood deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/media/netflix-to-buy-warner-bros-rcna247510" target="_blank">Netflix to buy Warner Bros. and HBO Max for $83 billion in blockbuster Hollywood deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-05 12:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/05/g-s1-100860/china-japan-feud-over-taiwan" target="_blank">China in diplomatic push to isolate Japan in feud over Taiwan issue</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-05 11:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/05/petco-confirms-security-lapse-exposed-customers-personal-data/" target="_blank">Petco confirms security lapse exposed customers’ personal data</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-05 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6931f4f88e64c4cf6b012aaa/master/pass/GoTrax%20Mustang%20Electric%20Bike%20Top%20Art%20SOURCE%20GoTrax.jpg" alt="GoTrax Mustang Electric Bike Review: Punchy and Tiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/gotrax-mustang-electric-bike/" target="_blank">GoTrax Mustang Electric Bike Review: Punchy and Tiny</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-05 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk" target="_blank">EU fines X $140 million over ‘deceptive’ blue checkmarks</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-05 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub" target="_blank">Facebook and Instagram have a new hub to help get hijacked accounts back</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-05 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode" target="_blank">Microsoft finally has a better looking Run dialog for Windows 11</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-05 09:53</span>
             </div>
         </div>
 </div>
@@ -252,6 +247,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Pluribus_Vegas-1280x853.jpg" alt="That ‘Pluribus’ Twist Wasn’t Even the Biggest Gut-Punch of the Episode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pluribus-episode-6-hdp-john-cena-cameo-2000694920" target="_blank">That ‘Pluribus’ Twist Wasn’t Even the Biggest Gut-Punch of the Episode</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-05 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/splitgate-1280x720.jpg" alt="Splitgate 2 Launched, Flopped, Unlaunched, Relaunched, And Renamed All In The Same Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/splitgate-2-arena-shooter-beta-1047-games-2000650903" target="_blank">Splitgate 2 Launched, Flopped, Unlaunched, Relaunched, And Renamed All In The Same Year</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-05 14:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Rock-Em-Sock-Em-Robots-1280x853.jpg" alt="The Vin Diesel ‘Rock ‘Em, Sock ‘Em Robots’ Movie Has a New Writer: Vin Diesel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -287,24 +300,6 @@
                 <span class="time">2025-12-05 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/DEC2025_Lightspeed_io9-1280x853.jpg" alt="A Radical Cure for Internet Addiction Brings Chilling Consequences in This Dystopian Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-radical-cure-for-internet-addiction-brings-chilling-consequences-in-this-dystopian-story-2000695945" target="_blank">A Radical Cure for Internet Addiction Brings Chilling Consequences in This Dystopian Story</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-05 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/s10-plus-galaxy-1280x853.jpg" alt="Samsung Never Turned Off Black Friday Deal on Galaxy Tab S10+, Still Selling at All-Time Low Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-never-turned-off-black-friday-deal-on-galaxy-tab-s10-still-selling-at-all-time-low-price-2000650535" target="_blank">Samsung Never Turned Off Black Friday Deal on Galaxy Tab S10+, Still Selling at All-Time Low Price</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-04 23:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
