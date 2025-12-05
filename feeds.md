@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 16:02:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-05 17:02:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting" target="_blank">CDC advisers vote to overturn decades-long policy on hepatitis B vaccine for infants</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-05 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/wh-3-ap-gmh-251205_1764949469049_hpMain_4x3t_384.jpg" alt="Millions gripped by subzero temperatures as Arctic blast hits Midwest, Northeast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/coldest-temperatures-season-hits-midwest-northeast/story?id=128135150" target="_blank">Millions gripped by subzero temperatures as Arctic blast hits Midwest, Northeast</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-05 16:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/wh-3-ap-gmh-251205_1764949469049_hpMain_4x3t_384.jpg" alt="Coldest temperatures of the season hit Midwest, Northeast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,6 +89,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251205-cdc-panel-mn-1040-46d24b.jpg" alt="CDC advisory panel rolls back universal hepatitis B vaccine recommendation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482" target="_blank">CDC advisory panel rolls back universal hepatitis B vaccine recommendation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-05 14:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -75,38 +106,20 @@
                 <span class="time">2025-12-05 14:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/luigi-mangione-4-rt-gmh-251204_1764861113896_hpMain_4x3t_384.jpg" alt="Luigi Mangione back in court for 4th day of evidence suppression hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/luigi-mangione-back-court-4th-day-evidence-suppression/story?id=128123310" target="_blank">Luigi Mangione back in court for 4th day of evidence suppression hearing</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-05 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/05/nx-s1-5607173/kennedy-center-honors-trump" target="_blank">The Kennedy Center Honors are coming up. This year&#x27;s event will be different</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-05 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/5/who-was-yasser-abu-shabab-the-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss" target="_blank">Who was Yasser Abu Shabab, the Israel-backed militia leader killed in Gaza?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-05 13:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/692de340fbb01f28f4e39193/master/pass/Backchannel-The-Extreme-Challenge-of-Building-Great-Apps-with-AI-Business.jpg" alt="Here’s What You Should Know About Launching an AI Startup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/" target="_blank">Here’s What You Should Know About Launching an AI Startup</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-05 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +165,20 @@
                 <span class="time">2025-12-05 13:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/IMG_0073-2048x1366-1-500x500.jpg" alt="New report warns of critical climate risks in Arab region" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/new-report-warns-of-critical-climate-risks-in-arab-region/" target="_blank">New report warns of critical climate risks in Arab region</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-05 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F20edk6iq0iee35z6uu86.webp" alt="Universal &amp; Deep Links: 2026 Complete Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marko_boras_64fe51f7833a6/universal-deep-links-2026-complete-guide-36c4" target="_blank">Universal &amp; Deep Links: 2026 Complete Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-05 16:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fie4bxlodm0sraw8lx1vy.png" alt="AI-Powered Development Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +224,6 @@
                 <span class="time">2025-12-05 11:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/transforming-life-sciences/en/smallimage/engineering-culture-podcast-thumbnail-1764594584285.jpg" alt="Podcast: Transforming Life Sciences: AI, Vibe Coding, and Drug Development Acceleration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/transforming-life-sciences/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Transforming Life Sciences: AI, Vibe Coding, and Drug Development Acceleration</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-05 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +252,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/morning-checkpoint-1280x720.jpg" alt="Fans Can’t Believe How Much Microsoft Is Selling Used Xbox Consoles For" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fans-cant-believe-how-much-microsoft-is-selling-used-xbox-consoles-for-2000650923" target="_blank">Fans Can’t Believe How Much Microsoft Is Selling Used Xbox Consoles For</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-05 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBQ8D38WE9KMWM831Z3SPYX0/hero-image.png" alt="The Meta Ray-Ban Smart Glasses Are at Their All-Time Lowest Price Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ray-ban-meta-smart-glasses-sale-december-2025?utm_medium=RSS" target="_blank">The Meta Ray-Ban Smart Glasses Are at Their All-Time Lowest Price Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-05 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/jbl-clip-5-1280x853.jpg" alt="JBL Clip 5 Takes Another Price Drop After Black Friday to Clear Out Its Bluetooth Speaker Inventory" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,29 +306,20 @@
                 <span class="time">2025-12-05 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/splitgate-1280x720.jpg" alt="Splitgate 2 Launched, Flopped, Unlaunched, Relaunched, And Renamed All In The Same Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/splitgate-2-arena-shooter-beta-1047-games-2000650903" target="_blank">Splitgate 2 Launched, Flopped, Unlaunched, Relaunched, And Renamed All In The Same Year</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-05 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Rock-Em-Sock-Em-Robots-1280x853.jpg" alt="The Vin Diesel ‘Rock ‘Em, Sock ‘Em Robots’ Movie Has a New Writer: Vin Diesel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/vin-diesel-rock-em-sock-em-robot-movie-2000695990" target="_blank">The Vin Diesel ‘Rock ‘Em, Sock ‘Em Robots’ Movie Has a New Writer: Vin Diesel</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-05 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1764710487-20251205_edit.png" alt="Saturday Morning Breakfast Cereal - Hundred" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/hundred" target="_blank">Saturday Morning Breakfast Cereal - Hundred</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-05 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -316,22 +329,13 @@
                 <span class="time">2025-12-05 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1764710441-20251204_edit.png" alt="Saturday Morning Breakfast Cereal - On the Edge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/on-the-edge" target="_blank">Saturday Morning Breakfast Cereal - On the Edge</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-04 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
