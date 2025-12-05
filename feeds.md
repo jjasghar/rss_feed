@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 18:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-05 19:01:20 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/05/g-s1-100881/child-mortality-aid-cuts" target="_blank">For the first time this century, child deaths under age 5 will likely rise. Why?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-05 18:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/12/5/what-are-the-implications-of-trumps-somali-garbage-comments?traffic_source=rss" target="_blank">What are the implications of Trump’s Somali ‘garbage’ comments?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-05 17:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1764955303160_now_daily_a_hepb_cdc_251205_1920x1080-f4ty4q.jpg" alt="CDC advisory panel rolls back universal hepatitis B vaccine recommendation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +101,47 @@
                 <span class="time">2025-12-05 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/wh-3-ap-gmh-251205_1764949469049_hpMain_4x3t_384.jpg" alt="Millions gripped by subzero temperatures as Arctic blast hits Midwest, Northeast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/coldest-temperatures-season-hits-midwest-northeast/story?id=128135150" target="_blank">Millions gripped by subzero temperatures as Arctic blast hits Midwest, Northeast</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-05 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/wh-3-ap-gmh-251205_1764949469049_hpMain_4x3t_384.jpg" alt="Coldest temperatures of the season hit Midwest, Northeast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/coldest-temperatures-season-hits-midwest-northeast/story?id=128135150" target="_blank">Coldest temperatures of the season hit Midwest, Northeast</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-05 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/839164/horses-interview-santa-ragione-steam-ban-censorship" target="_blank">Horses is a hit, but its studio might still be in trouble</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-05 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69331e55be928ef56cd3434b/master/pass/The%20Best%20Silk%20&%20Snow%20Deals%20on%20WIRED-Approved%20Gear%20Top%20Art%20SOURCE%20Silk%20And%20Snow.jpg" alt="The Best Deals From the Silk &amp; Snow Cyber Week Sale (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/silk-snow-deals-2025/" target="_blank">The Best Deals From the Silk &amp; Snow Cyber Week Sale (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-05 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249474258-500x500.jpg" alt="Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/" target="_blank">Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-05 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/05/aws-reinvent-was-an-all-in-pitch-for-ai-customers-might-not-be-ready/" target="_blank">AWS re:Invent was an all-in pitch for AI. Customers might not be ready.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-05 18:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/plagueTOP-500x500.jpg" alt="Rare set of varied factors triggered Black Death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -120,47 +160,20 @@
                 <span class="time">2025-12-05 17:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/839007/netflix-warner-acquisition" target="_blank">Netflix is buying Warner Bros Discovery: All of the latest updates</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-05 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/692de340fbb01f28f4e39193/master/pass/Backchannel-The-Extreme-Challenge-of-Building-Great-Apps-with-AI-Business.jpg" alt="Here’s What You Should Know About Launching an AI Startup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/" target="_blank">Here’s What You Should Know About Launching an AI Startup</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-05 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/05/meta-signs-commercial-ai-data-agreements-with-publishers-to-offer-real-time-news-on-meta-ai/" target="_blank">Meta signs commercial AI data agreements with publishers to offer real-time news on Meta AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-05 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6843a7150c45eb1fc229d2ab/master/pass/Best%20Lubes%20Update.png" alt="9 Best Lubes (2025): Water-Based, Silicone, Natural Oils" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-lubes/" target="_blank">9 Best Lubes (2025): Water-Based, Silicone, Natural Oils</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-05 15:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kolkov/gogpu-a-pure-go-graphics-library-for-gpu-programming-2j5d" target="_blank">GoGPU: A Pure Go Graphics Library for GPU Programming</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-05 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl63cqqoaoldmsk1ueize.jpg" alt="AWS re:Invent 2025 - Deep Dive: ECS Managed Instances &amp; Blue/Green for Resilient Services (CNS416)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +219,6 @@
                 <span class="time">2025-12-05 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fie4bxlodm0sraw8lx1vy.png" alt="AI-Powered Development Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bhupeshchandrajoshi/ai-powered-development-platform-20jn" target="_blank">AI-Powered Development Platform</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-05 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/07/ed70760a47bcc0689184c4e5367e7e3d.jpg" alt="Mortal Kombat, Hogwarts Legacy, And Batman: Arkham Are Going To A Company That Closed Its Only AAA Game Studio" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/netflix-wb-batman-arkham-hogwarts-legacy-mortal-kombat-2000650918" target="_blank">Mortal Kombat, Hogwarts Legacy, And Batman: Arkham Are Going To A Company That Closed Its Only AAA Game Studio</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-05 18:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KBQPFP3W8PGKNEPR7SS7GJQ7/hero-image.jpg" alt="No, Meta Is Not Scraping Your DMs to Train Its AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +301,6 @@
                 <span class="time">2025-12-05 15:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/iss-12-01-25-1280x853.jpg" alt="The ISS Is Out of Parking Spots for the First Time Ever. Here’s Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-iss-is-out-of-parking-spots-for-the-first-time-ever-heres-why-2000696175" target="_blank">The ISS Is Out of Parking Spots for the First Time Ever. Here’s Why</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-05 15:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
