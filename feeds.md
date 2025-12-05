@@ -1,36 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 21:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-05 22:02:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/05/nx-s1-5632602/trumps-garbage-comment-met-with-disappointment-in-somalia" target="_blank">Trump&#x27;s &#x27;garbage&#x27; comment met with disappointment in Somalia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-05 21:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +108,20 @@
                 <span class="time">2025-12-05 18:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/12/5/what-are-the-implications-of-trumps-somali-garbage-comments?traffic_source=rss" target="_blank">What are the implications of Trump’s Somali ‘garbage’ comments?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-05 17:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/" target="_blank">AWS needs you to believe in AI agents</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-05 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +167,20 @@
                 <span class="time">2025-12-05 18:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249474258-500x500.jpg" alt="Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/" target="_blank">Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-05 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/proton-sheets.jpg?resize=406%2C232&amp;ssl=1" alt="Proton Launches Encrypted Spreadsheets (Browser-Based)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/proton-sheets-encrypted-online-spreadsheet" target="_blank">Proton Launches Encrypted Spreadsheets (Browser-Based)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-05 21:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18787529&w=600" alt="Discover Hidden Patterns with Intelligent K-Means Clustering" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +226,6 @@
                 <span class="time">2025-12-05 17:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/numba/sealir" target="_blank">S-Expression Array for Lightweight Immutable Representation (SealIR)</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-05 17:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +254,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/netflix.jpg" alt="Netflix Says It’s Not Destroying Hollywood: ‘We’re Saving’ It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/netflix-warner-bros-acquisition-batman-hbo-2000651036" target="_blank">Netflix Says It’s Not Destroying Hollywood: ‘We’re Saving’ It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-05 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-05 21:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KBQT32MVCHGMC1BT7C0WBR01/hero-image.jpg" alt="This Surprisingly Convincing Phishing Scam Imitates Apple Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,29 +308,20 @@
                 <span class="time">2025-12-05 18:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBQJPQHYPYGTB940P5MVTRAY/hero-image.png" alt="What the Netflix/Warner Bros. Merger Could Mean for Streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-the-netflix-warner-bros-discovery-merger-could-mean-for-streaming?utm_medium=RSS" target="_blank">What the Netflix/Warner Bros. Merger Could Mean for Streaming</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-05 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBQPFP3W8PGKNEPR7SS7GJQ7/hero-image.jpg" alt="No, Meta Is Not Scraping Your DMs to Train Its AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/meta-is-not-scraping-dms-to-train-its-ai?utm_medium=RSS" target="_blank">No, Meta Is Not Scraping Your DMs to Train Its AI</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-05 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/05/hot-ones" target="_blank">Hot Ones</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-05 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1764710487-20251205_edit.png" alt="Saturday Morning Breakfast Cereal - Hundred" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -328,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
