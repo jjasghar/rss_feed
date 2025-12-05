@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 11:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-05 12:02:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/05/g-s1-100860/china-japan-feud-over-taiwan" target="_blank">China in diplomatic push to isolate Japan in feud over Taiwan issue</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-05 11:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +104,20 @@
                 <span class="time">2025-12-05 05:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/05/us-sanctions-sudan-army-rsf-ceasefire" target="_blank">US considers wider sanctions on Sudanese army and RSF as ceasefire efforts falter</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-05 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub" target="_blank">Facebook and Instagram have a new hub to help get hijacked accounts back</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-05 11:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +163,20 @@
                 <span class="time">2025-12-05 00:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/693229638e64c4cf6b012ad9/master/pass/Save-Silicon-Valley-from-Itself-Big-Interview-2025-1.jpg" alt="It&#x27;s Time to Save Silicon Valley From Itself" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/big-interview-event-techdirt-mike-masnick-common-tools-alex-komoroske/" target="_blank">It&#x27;s Time to Save Silicon Valley From Itself</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-05 00:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/podcasts/transforming-life-sciences/en/smallimage/engineering-culture-podcast-thumbnail-1764594584285.jpg" alt="Podcast: Transforming Life Sciences: AI, Vibe Coding, and Drug Development Acceleration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/transforming-life-sciences/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Transforming Life Sciences: AI, Vibe Coding, and Drug Development Acceleration</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-05 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,6 +184,15 @@
                 <span class="title"><a href="https://dev.to/diana05/standardizing-expressjs-error-handling-with-one-library-1ohn" target="_blank">Standardizing Express.js Error Handling with One Library</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-05 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/valve-shows-a-better-way-to-fund-open-source/" target="_blank">Valve&#x27;s FEX-Emu Support Shows a Better Way to Fund Open Source</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-12-05 10:01</span>
             </div>
         </div>
 <div class="story">
@@ -204,29 +222,20 @@
                 <span class="time">2025-12-05 09:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wppv2ax93yvx8ysdv6a.jpg" alt="How FSSC 22000 Documents Reduce Non-Conformities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/joy1/how-fssc-22000-documents-reduce-non-conformities-2o0f" target="_blank">How FSSC 22000 Documents Reduce Non-Conformities</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-05 06:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/mental-math/" target="_blank">This Open Source Android App Fights Brainrot With Basic Math Problems</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-12-05 06:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html" target="_blank">New Anonymous Phone Service</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-05 08:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -241,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Rock-Em-Sock-Em-Robots-1280x853.jpg" alt="The Vin Diesel ‘Rock ‘Em, Sock ‘Em Robots’ Movie Has a New Writer: Vin Diesel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/vin-diesel-rock-em-sock-em-robot-movie-2000695990" target="_blank">The Vin Diesel ‘Rock ‘Em, Sock ‘Em Robots’ Movie Has a New Writer: Vin Diesel</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-05 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/warner-bros-netflix-deal-1280x853.jpg" alt="Netflix Is One Step Closer to Buying Warner Bros." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +304,6 @@
                 <span class="time">2025-12-04 23:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Short-Round-Indiana-Jones-Ke-Huy-Quan-1280x853.jpg" alt="Short Round Returns as Ke Huy Quan Takes the ‘Indiana Jones’ Ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/short-round-returns-ke-huy-quan-indiana-jones-ride-2000695789" target="_blank">Short Round Returns as Ke Huy Quan Takes the ‘Indiana Jones’ Ride</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-04 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
