@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 10:01:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-05 11:01:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/05/g-s1-100622/trump-franklin-nuns-youtube-hegseth-spotify-news-quiz" target="_blank">Who sued Defense Secretary Pete Hegseth this week? Find out in the quiz</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-05 10:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +102,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/dec/05/us-sanctions-sudan-army-rsf-ceasefire" target="_blank">US considers wider sanctions on Sudanese army and RSF as ceasefire efforts falter</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-12-05 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-iran-water_7101383.jpg?20251205001512" alt="Major city may have to evacuate as water is running out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/the-countdown-to-day-zero-major-city-may-have-to-evacuate-as-water-supplies-run-low-13479538" target="_blank">Major city may have to evacuate as water is running out</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-05 03:37</span>
             </div>
         </div>
 </div>
@@ -170,6 +169,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/diana05/standardizing-expressjs-error-handling-with-one-library-1ohn" target="_blank">Standardizing Express.js Error Handling with One Library</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-05 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/" target="_blank">The US polluters that are rewriting the EU&#x27;s human rights and climate law</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-05 09:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdqp13rooj2t8i640y0dc.jpeg" alt="Resurrecting the GameBoy with Kiro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,24 +222,6 @@
                 <span class="time">2025-12-05 06:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg93hwh75kaxg34wxwt9r.png" alt="🧱 Lecture 9B : Product Management (Angular)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/farrukh_rehman/lecture-9b-product-management-angular-2e2g" target="_blank">🧱 Lecture 9B : Product Management (Angular)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-05 05:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F39jiqetqa3vx2umgkttb.gif" alt="Terra Nova: A Cinematic Travel App from Scratch with Uno Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/architrixs/terra-nova-a-cinematic-travel-app-from-scratch-with-uno-platform-244i" target="_blank">Terra Nova: A Cinematic Travel App from Scratch with Uno Platform</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-05 04:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/warner-bros-netflix-deal-1280x853.jpg" alt="Netflix Is One Step Closer to Buying Warner Bros." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/netflix-warner-bros-deal-streaming-movies-2000696031" target="_blank">Netflix Is One Step Closer to Buying Warner Bros.</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-05 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/govee-backlight-tv-1280x853.jpg" alt="Govee Liquidates TV Backlight for More Immersive Movies, Now Selling at Record Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +295,6 @@
                 <span class="time">2025-12-04 23:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JQCAPJDD6EGT7647YW6A0XMQ/hero-image.jpg" alt="Here&#x27;s Everything You Get With a Garmin Connect+ Subscription" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/everything-you-get-with-garmin-connect-plus?utm_medium=RSS" target="_blank">Here&#x27;s Everything You Get With a Garmin Connect+ Subscription</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-04 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
