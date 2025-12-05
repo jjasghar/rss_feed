@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 13:11:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-05 14:01:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
+<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/5/who-was-yasser-abu-shabab-the-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss" target="_blank">Who was Yasser Abu Shabab, the Israel-backed militia leader killed in Gaza?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-05 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/05/g-s1-100428/gaza-israel-hamas-war-ceasefire-peace-compassion" target="_blank">Has hope survived the war? We asked Israelis and Palestinians we spoke to in 2023</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-05 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c5c/live/b75f4f30-d1c3-11f0-a892-01d657345866.jpg" alt="Putin says Russia ready to supply &#x27;uninterrupted&#x27; fuel to India" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,6 +88,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251204-warner-bros-ch-2127-c0d0fb.jpg" alt="Netflix to buy Warner Bros. and HBO Max for $83 billion in blockbuster Hollywood deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/media/netflix-to-buy-warner-bros-rcna247510" target="_blank">Netflix to buy Warner Bros. and HBO Max for $83 billion in blockbuster Hollywood deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-05 12:12</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -76,38 +105,29 @@
                 <span class="time">2025-12-05 11:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-warner-bros-logo-film_7101743.jpg?20251205122842" alt="Netflix agrees blockbuster $72bn deal for Warner Bros studios" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/netflix-agrees-blockbuster-72bn-deal-for-warner-bros-studios-13479683" target="_blank">Netflix agrees blockbuster $72bn deal for Warner Bros studios</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-05 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/05/g-s1-100622/trump-franklin-nuns-youtube-hegseth-spotify-news-quiz" target="_blank">Who sued Defense Secretary Pete Hegseth this week? Find out in the quiz</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-05 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/12/5/modi-strengthens-his-own-position-with-putin-meeting?traffic_source=rss" target="_blank">Modi “strengthens his own position” with Putin meeting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-05 09:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/838879/waymo-school-buses-probe" target="_blank">Waymo faces federal probe for dodgy driving around school buses</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-05 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/IMG_0073-2048x1366-1-500x500.jpg" alt="New report warns of critical climate risks in Arab region" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/new-report-warns-of-critical-climate-risks-in-arab-region/" target="_blank">New report warns of critical climate risks in Arab region</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-05 12:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68788f6b44c0ac84f6db4794/master/pass/The%20Best%20Total%20Meal%20Replacement%20Shakes.png" alt="The Best Meal Replacement Shakes for Total Life Optimization (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +162,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode" target="_blank">Microsoft finally has a better looking Run dialog for Windows 11</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-05 09:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="Logitech Promo Code: $25 Off This Holiday Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/logitech-promo-code/" target="_blank">Logitech Promo Code: $25 Off This Holiday Season</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-05 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6930e9a92155e1ded8dec0a9/master/pass/Watch-Highlights-From-WIRED-Big-Interview-Event-Business.jpg" alt="Check Out Highlights From WIRED’s 2025 Big Interview Event" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-big-interview-2025-recap/" target="_blank">Check Out Highlights From WIRED’s 2025 Big Interview Event</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-05 01:52</span>
             </div>
         </div>
 </div>
@@ -331,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
