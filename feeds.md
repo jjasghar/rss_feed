@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 01:29:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-05 02:31:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 02:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +50,15 @@
                 <span class="title"><a href="https://abcnews.go.com/US/grand-jury-rejects-dojs-attempt-revive-fraud-case/story?id=128107484" target="_blank">Grand jury rejects DOJ&#x27;s attempt to revive fraud case against Letitia James: Sources</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-05 00:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251118-Greg-Abbott-ew-338p-cdd610.jpg" alt="Supreme Court allows Texas to use new congressional district map drawn to favor Republicans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-texas-use-new-congressional-district-map-drawn-fa-rcna244696" target="_blank">Supreme Court allows Texas to use new congressional district map drawn to favor Republicans</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-04 23:04</span>
             </div>
         </div>
 <div class="story">
@@ -90,15 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/04/nx-s1-5633347/libraries-museums-federal-funding-imls-trump-cuts" target="_blank">Libraries and museums get federal funding back after Trump cuts</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-04 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/04/nx-s1-5629199/cdc-acip-hepatitis-b-vaccine-meeting" target="_blank">CDC advisers delay planned vote on hepatitis B vaccine for infants</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-04 20:05</span>
             </div>
         </div>
 </div>
@@ -178,6 +174,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80" target="_blank">AV1: A Modern, Open Codec</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-05 00:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80" target="_blank">AV1 – Now Powering 30% of Netflix Streaming</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-05 00:09</span>
@@ -210,15 +215,6 @@
                 <span class="time">2025-12-04 23:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mkbs_alaa/the-difference-between-forof-and-forin-loops-in-javascript-dh5" target="_blank">The difference between for...of and for...in loops in JavaScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-04 22:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/govee-backlight-tv-1280x853.jpg" alt="Govee Liquidates TV Backlight for More Immersive Movies, Now Selling at Record Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/govee-liquidates-tv-backlight-for-more-immersive-movies-now-selling-at-record-low-on-amazon-2000650582" target="_blank">Govee Liquidates TV Backlight for More Immersive Movies, Now Selling at Record Low on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-05 01:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/s10-plus-galaxy-1280x853.jpg" alt="Samsung Never Turned Off Black Friday Deal on Galaxy Tab S10+, Still Selling at All-Time Low Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,21 +280,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/shingles-1280x853.jpg" alt="Shingles Vaccine Doesn’t Just Lower Dementia Risk, It Could Also Help Treat It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/shingles-vaccine-doesnt-just-lower-dementia-risk-it-could-also-help-treat-it-2000695823" target="_blank">Shingles Vaccine Doesn’t Just Lower Dementia Risk, It Could Also Help Treat It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-04 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/rewiringdemocracy.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="How AI could save democracy instead of destroying it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ChatPlayground-AI.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Finally, a way to stop wrangling five different AIs at once" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/04/how-ai-could-save-democracy-instead-of-destroying-it.html" target="_blank">How AI could save democracy instead of destroying it</a></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/04/finally-a-way-to-stop-wrangling-five-different-ais-at-once.html" target="_blank">Finally, a way to stop wrangling five different AIs at once</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-04 21:19</span>
+                <span class="time">2025-12-04 22:00</span>
             </div>
         </div>
 </div>
@@ -306,22 +302,13 @@
                 <span class="time">2025-12-04 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5715.png" alt="They&#x27;re Just Like Us" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5715" target="_blank">They&#x27;re Just Like Us</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-12-04 01:53</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 02:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
