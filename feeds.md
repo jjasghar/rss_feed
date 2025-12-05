@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 20:01:51 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-12-05 21:01:40 UTC -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +49,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/5/five-key-takeaways-from-trumps-national-security?traffic_source=rss" target="_blank">Five key takeaways from Trump’s National Security Strategy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-05 20:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jeffrey-epstein-gty-gmh-251205_1764962604442_hpMain_4x3t_384.jpg" alt="Florida judge grants DOJ motion to unseal Epstein grand jury transcripts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/florida-judge-grants-doj-motion-unseal-epstein-grand/story?id=128153706" target="_blank">Florida judge grants DOJ motion to unseal Epstein grand jury transcripts</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-05 20:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19f2/live/58bc11d0-d212-11f0-bd15-e5c6de83b2f6.jpg" alt="England start World Cup against Croatia, Scotland to face Brazil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/sport/football/articles/c7vmr1mmve3o?at_medium=RSS&at_campaign=rss" target="_blank">England start World Cup against Croatia, Scotland to face Brazil</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-05 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250627-supreme-court-birthright-citizenship-mn-0930-c15a59.jpg" alt="Supreme Court to decide if Trump can limit constitutional right to citizenship at birth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-decide-trump-can-limit-constitutional-right-citizenship-rcna244701" target="_blank">Supreme Court to decide if Trump can limit constitutional right to citizenship at birth</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-05 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/05/g-s1-100881/child-mortality-aid-cuts" target="_blank">For the first time this century, child deaths under age 5 will likely rise. Why?</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -70,47 +100,29 @@
                 <span class="time">2025-12-05 17:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1764955303160_now_daily_a_hepb_cdc_251205_1920x1080-f4ty4q.jpg" alt="CDC advisory panel rolls back universal hepatitis B vaccine recommendation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/cdc-advisory-panel-rolls-back-universal-hepatitis-b-vaccine-recommendation-253814853803" target="_blank">CDC advisory panel rolls back universal hepatitis B vaccine recommendation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-05 17:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b2e/live/36049cb0-d1f5-11f0-9fb5-5f3a3703a365.jpg" alt="Doctor charged with sex assaults of 38 patients" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdd5z3qdjv4o?at_medium=RSS&at_campaign=rss" target="_blank">Doctor charged with sex assaults of 38 patients</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-05 17:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/05/g-s1-100893/trump-national-security-strategy-foreign-policy" target="_blank">Trump&#x27;s security strategy slams European allies and asserts U.S. power in the Americas</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-05 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting" target="_blank">CDC advisers vote to overturn decades-long policy on hepatitis B vaccine for infants</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-05 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-blocks-aftermarket-controllers" target="_blank">Chamberlain blocks smart home integrations with its garage door openers — again</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-05 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6933401547ff0788f21a9d07/master/pass/HORSES_Church.png" alt="Horses, the Most Controversial Game of the Year, Doesn’t Live Up to the Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/horses-the-most-controversial-game-of-the-year-doesnt-live-up-to-the-hype/" target="_blank">Horses, the Most Controversial Game of the Year, Doesn’t Live Up to the Hype</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-05 20:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,29 +159,20 @@
                 <span class="time">2025-12-05 18:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/05/aws-reinvent-was-an-all-in-pitch-for-ai-customers-might-not-be-ready/" target="_blank">AWS re:Invent was an all-in pitch for AI. Customers might not be ready.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-05 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/plagueTOP-500x500.jpg" alt="Rare set of varied factors triggered Black Death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/how-volcanoes-helped-spark-the-black-death/" target="_blank">Rare set of varied factors triggered Black Death</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-05 17:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18787529&w=600" alt="Discover Hidden Patterns with Intelligent K-Means Clustering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/discover-hidden-patterns-intelligent-kmeans-cluster" target="_blank">Discover Hidden Patterns with Intelligent K-Means Clustering</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-05 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,15 +218,6 @@
                 <span class="time">2025-12-05 17:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18785999&w=600" alt="From Containers to WebAssembly: The Next Evolution in Cloud-Native Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/from-containers-to-webassembly-the-next-evolution" target="_blank">From Containers to WebAssembly: The Next Evolution in Cloud-Native Architecture</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-05 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBQT32MVCHGMC1BT7C0WBR01/hero-image.jpg" alt="This Surprisingly Convincing Phishing Scam Imitates Apple Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-support-ticket-imitation-scam?utm_medium=RSS" target="_blank">This Surprisingly Convincing Phishing Scam Imitates Apple Support</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-05 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/geoff-statue2-1280x720.jpg" alt="No Matter What The Game Awards Hell Statue Is For, Geoff Keighley Wins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +300,6 @@
                 <span class="time">2025-12-05 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-mark-gusev-Shutterstock.jpg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="Sinéad O&#x27;Connor dismantles the myth of the Irish &quot;famine&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/05/sinead-oconnor-dismantles-the-myth-of-the-irish-famine.html" target="_blank">Sinéad O&#x27;Connor dismantles the myth of the Irish &quot;famine&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-05 17:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
