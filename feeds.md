@@ -1,44 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 22:02:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-05 23:01:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 35 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/05/people-flee-dr-congo-fighting-one-day-after-peace-deal-signed-in-washington" target="_blank">People flee DR Congo fighting one day after peace deal signed in Washington</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-05 22:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -99,20 +101,38 @@
                 <span class="time">2025-12-05 18:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/05/g-s1-100881/child-mortality-aid-cuts" target="_blank">For the first time this century, child deaths under age 5 will likely rise. Why?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-05 18:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2022926730-500x500-1764972753.jpg" alt="Fubo lowers its prices by up to 15% after losing NBCUniversal channels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/" target="_blank">Fubo lowers its prices by up to 15% after losing NBCUniversal channels</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-05 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69333f0402bd8e9fe7b724ff/master/pass/Uncanny-Valley-WIRED-Roundup-DOGE-Isnt-Dead-Politics-2249462067.jpg" alt="WIRED Roundup: DOGE Isn’t Dead, Facebook Dating Is Real, and Amazon’s AI Ambitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-doge-facebook-dating-amazon-artificial-intelligence/" target="_blank">WIRED Roundup: DOGE Isn’t Dead, Facebook Dating Is Real, and Amazon’s AI Ambitions</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-05 22:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs" target="_blank">Welcome to the big leagues, Netflix</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-05 22:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,38 +160,29 @@
                 <span class="time">2025-12-05 20:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/design/839364/pantones-cloud-dancer-color-of-the-year-party" target="_blank">Pantone’s ‘Cloud Dancer’ color party is a recession indicator</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-05 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/839164/horses-interview-santa-ragione-steam-ban-censorship" target="_blank">Horses is a hit, but its studio might still be in trouble</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-05 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69331e55be928ef56cd3434b/master/pass/The%20Best%20Silk%20&%20Snow%20Deals%20on%20WIRED-Approved%20Gear%20Top%20Art%20SOURCE%20Silk%20And%20Snow.jpg" alt="The Best Deals From the Silk &amp; Snow Cyber Week Sale (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/silk-snow-deals-2025/" target="_blank">The Best Deals From the Silk &amp; Snow Cyber Week Sale (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-05 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y2p22z9gno" target="_blank">Frank Gehry has died</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-05 21:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-rc1-Released" target="_blank">Wine 11.0-rc1 Released With TWAINDSM 64-bit Module For Scanners</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-05 21:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/proton-sheets.jpg?resize=406%2C232&amp;ssl=1" alt="Proton Launches Encrypted Spreadsheets (Browser-Based)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,24 +219,6 @@
                 <span class="time">2025-12-05 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-IO-uring-Block" target="_blank">NVIDIA Improves Block Layer Peer-To-Peer DMA In Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-05 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl63cqqoaoldmsk1ueize.jpg" alt="AWS re:Invent 2025 - Deep Dive: ECS Managed Instances &amp; Blue/Green for Resilient Services (CNS416)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kazuya_dev/aws-reinvent-2025-deep-dive-ecs-managed-instances-bluegreen-for-resilient-services-cns416-49g8" target="_blank">AWS re:Invent 2025 - Deep Dive: ECS Managed Instances &amp; Blue/Green for Resilient Services (CNS416)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-05 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -255,11 +248,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/metroid-vaginaas-1280x720.jpg" alt="Metroid Prime 4 Players Are Discovering The Game Is Filled With Vagina Doors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/metroid-prime-4-players-discovering-vagina-vulva-doors-2000651050" target="_blank">Metroid Prime 4 Players Are Discovering The Game Is Filled With Vagina Doors</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-05 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2021/09/a45d96107ed1ff2c64e55e3625f585c9-1024x576.jpg" alt="Salesforce CEO Mulls Changing Name to AI-Flavored ‘Agentforce’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/salesforce-ceo-mulls-changing-name-to-ai-flavored-agentforce-2000696360" target="_blank">Salesforce CEO Mulls Changing Name to AI-Flavored ‘Agentforce’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-05 22:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/netflix.jpg" alt="Netflix Says It’s Not Destroying Hollywood: ‘We’re Saving’ It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/netflix-warner-bros-acquisition-batman-hbo-2000651036" target="_blank">Netflix Says It’s Not Destroying Hollywood: ‘We’re Saving’ It</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2025-12-05 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Microsoft-Office-Pro-2021-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Double or nothing — get a Dell with MS Office for 73%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/05/double-or-nothing-get-a-dell-with-ms-office-for-73.html" target="_blank">Double or nothing — get a Dell with MS Office for 73%</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-05 22:00</span>
             </div>
         </div>
@@ -279,33 +299,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/apple-support-ticket-imitation-scam?utm_medium=RSS" target="_blank">This Surprisingly Convincing Phishing Scam Imitates Apple Support</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-05 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/geoff-statue2-1280x720.jpg" alt="No Matter What The Game Awards Hell Statue Is For, Geoff Keighley Wins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/game-awards-statue-elder-scrolls-6-geoff-keighley-2000651010" target="_blank">No Matter What The Game Awards Hell Statue Is For, Geoff Keighley Wins</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-05 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/image-11.png?fit=1080%2C1031&amp;quality=55&amp;ssl=1" alt="Kristi Noem spends birthday mocking Mexicans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/05/kristi-noem-spends-birthday-mocking-mexicans.html" target="_blank">Kristi Noem spends birthday mocking Mexicans</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-05 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/07/ed70760a47bcc0689184c4e5367e7e3d.jpg" alt="Mortal Kombat, Hogwarts Legacy, And Batman: Arkham Are Going To A Company That Closed Its Only AAA Game Studio" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/netflix-wb-batman-arkham-hogwarts-legacy-mortal-kombat-2000650918" target="_blank">Mortal Kombat, Hogwarts Legacy, And Batman: Arkham Are Going To A Company That Closed Its Only AAA Game Studio</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-05 18:51</span>
             </div>
         </div>
 </div>
@@ -345,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
