@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 15:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-05 16:02:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/wh-3-ap-gmh-251205_1764949469049_hpMain_4x3t_384.jpg" alt="Coldest temperatures of the season hit Midwest, Northeast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/coldest-temperatures-season-hits-midwest-northeast/story?id=128135150" target="_blank">Coldest temperatures of the season hit Midwest, Northeast</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-05 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/5/british-soldiers-accused-of-more-abuses-in-kenya-what-we-know?traffic_source=rss" target="_blank">British soldiers accused of more abuses in Kenya: What we know</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-05 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +102,29 @@
                 <span class="time">2025-12-05 13:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/05/g-s1-100428/gaza-israel-hamas-war-ceasefire-peace-compassion" target="_blank">Has hope survived the war? We asked Israelis and Palestinians we spoke to in 2023</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-05 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c5c/live/b75f4f30-d1c3-11f0-a892-01d657345866.jpg" alt="Putin says Russia ready to supply &#x27;uninterrupted&#x27; fuel to India" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g482m3yyzo?at_medium=RSS&at_campaign=rss" target="_blank">Putin says Russia ready to supply &#x27;uninterrupted&#x27; fuel to India</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-05 12:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/05/meta-signs-commercial-ai-data-agreements-with-publishers-to-offer-real-time-news-on-meta-ai/" target="_blank">Meta signs commercial AI data agreements with publishers to offer real-time news on Meta AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-05 15:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6843a7150c45eb1fc229d2ab/master/pass/Best%20Lubes%20Update.png" alt="9 Best Lubes (2025): Water-Based, Silicone, Natural Oils" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-lubes/" target="_blank">9 Best Lubes (2025): Water-Based, Silicone, Natural Oils</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-05 15:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +161,38 @@
                 <span class="time">2025-12-05 12:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68788f6b44c0ac84f6db4794/master/pass/The%20Best%20Total%20Meal%20Replacement%20Shakes.png" alt="The Best Meal Replacement Shakes for Total Life Optimization (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-liquid-meal-replacements/" target="_blank">The Best Meal Replacement Shakes for Total Life Optimization (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-05 12:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk" target="_blank">EU fines X $140 million over ‘deceptive’ blue checkmarks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-05 12:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fie4bxlodm0sraw8lx1vy.png" alt="AI-Powered Development Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bhupeshchandrajoshi/ai-powered-development-platform-20jn" target="_blank">AI-Powered Development Platform</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-05 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.cloudflare.com/5-december-2025-outage/" target="_blank">Cloudflare outage on December 5, 2025</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-05 15:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18787385&w=600" alt="The RAG Illusion: Why “Grafting” Memory Is No Longer Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/rag-illusion-grafting-memory-limitations" target="_blank">The RAG Illusion: Why “Grafting” Memory Is No Longer Enough</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-05 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +218,6 @@
                 <span class="title"><a href="https://www.infoq.com/podcasts/transforming-life-sciences/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Transforming Life Sciences: AI, Vibe Coding, and Drug Development Acceleration</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-12-05 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/diana05/standardizing-expressjs-error-handling-with-one-library-1ohn" target="_blank">Standardizing Express.js Error Handling with One Library</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-05 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/valve-shows-a-better-way-to-fund-open-source/" target="_blank">Valve&#x27;s FEX-Emu Support Shows a Better Way to Fund Open Source</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-12-05 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/" target="_blank">The US polluters that are rewriting the EU&#x27;s human rights and climate law</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-05 09:58</span>
             </div>
         </div>
 </div>
@@ -247,11 +249,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/jbl-clip-5-1280x853.jpg" alt="JBL Clip 5 Takes Another Price Drop After Black Friday to Clear Out Its Bluetooth Speaker Inventory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/jbl-clip-5-takes-another-price-drop-after-black-friday-to-clear-out-its-bluetooth-speaker-inventory-2000650863" target="_blank">JBL Clip 5 Takes Another Price Drop After Black Friday to Clear Out Its Bluetooth Speaker Inventory</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-05 15:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/iss-12-01-25-1280x853.jpg" alt="The ISS Is Out of Parking Spots for the First Time Ever. Here’s Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-iss-is-out-of-parking-spots-for-the-first-time-ever-heres-why-2000696175" target="_blank">The ISS Is Out of Parking Spots for the First Time Ever. Here’s Why</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-05 15:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Pluribus_Vegas-1280x853.jpg" alt="That ‘Pluribus’ Twist Wasn’t Even the Biggest Gut-Punch of the Episode" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/pluribus-episode-6-hdp-john-cena-cameo-2000694920" target="_blank">That ‘Pluribus’ Twist Wasn’t Even the Biggest Gut-Punch of the Episode</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-05 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBPE7SG1RBRAGBTM6VCTGQVS/hero-image.png" alt="This Bose Portable Speaker Is Nearly 20% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/bose-soundlink-home-speaker-sale-december-2025?utm_medium=RSS" target="_blank">This Bose Portable Speaker Is Nearly 20% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-05 15:00</span>
             </div>
         </div>
@@ -271,33 +300,6 @@
                 <span class="title"><a href="https://gizmodo.com/vin-diesel-rock-em-sock-em-robot-movie-2000695990" target="_blank">The Vin Diesel ‘Rock ‘Em, Sock ‘Em Robots’ Movie Has a New Writer: Vin Diesel</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-05 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/warner-bros-netflix-deal-1280x853.jpg" alt="Netflix Is One Step Closer to Buying Warner Bros." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/netflix-warner-bros-deal-streaming-movies-2000696031" target="_blank">Netflix Is One Step Closer to Buying Warner Bros.</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-05 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/govee-backlight-tv-1280x853.jpg" alt="Govee Liquidates TV Backlight for More Immersive Movies, Now Selling at Record Low on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/govee-liquidates-tv-backlight-for-more-immersive-movies-now-selling-at-record-low-on-amazon-2000650582" target="_blank">Govee Liquidates TV Backlight for More Immersive Movies, Now Selling at Record Low on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-05 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/NanoPhone.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This ridiculously tiny smartphone is at its best price ever — get it for under $85" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/04/this-ridiculously-tiny-smartphone-is-at-its-best-price-ever-get-it-for-under-85.html" target="_blank">This ridiculously tiny smartphone is at its best price ever — get it for under $85</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-05 01:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
