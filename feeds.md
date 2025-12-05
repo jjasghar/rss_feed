@@ -1,27 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 06:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-05 07:02:30 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -156,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wppv2ax93yvx8ysdv6a.jpg" alt="How FSSC 22000 Documents Reduce Non-Conformities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/joy1/how-fssc-22000-documents-reduce-non-conformities-2o0f" target="_blank">How FSSC 22000 Documents Reduce Non-Conformities</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-05 06:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/mental-math/" target="_blank">This Open Source Android App Fights Brainrot With Basic Math Problems</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-12-05 06:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg93hwh75kaxg34wxwt9r.png" alt="🧱 Lecture 9B : Product Management (Angular)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -191,24 +221,6 @@
                 <span class="time">2025-12-05 01:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/azeezah_onifade_a66d69f2c/the-use-of-excel-in-automating-repetitive-business-processes-j57" target="_blank">The Use of Excel in Automating Repetitive Business Processes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-05 01:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80" target="_blank">AV1: A Modern, Open Codec</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-05 00:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +247,15 @@
                 <span class="title"><a href="https://kotaku.com/govee-liquidates-tv-backlight-for-more-immersive-movies-now-selling-at-record-low-on-amazon-2000650582" target="_blank">Govee Liquidates TV Backlight for More Immersive Movies, Now Selling at Record Low on Amazon</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-05 01:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/NanoPhone.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This ridiculously tiny smartphone is at its best price ever — get it for under $85" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/04/this-ridiculously-tiny-smartphone-is-at-its-best-price-ever-get-it-for-under-85.html" target="_blank">This ridiculously tiny smartphone is at its best price ever — get it for under $85</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-05 01:00</span>
             </div>
         </div>
 <div class="story">
@@ -273,15 +294,6 @@
                 <span class="time">2025-12-04 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/forerunner-165-garmin-1280x853.jpg" alt="Garmin Plays Zero Profit With Forerunner 165, Now Selling OLED Watch at New Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/garmin-plays-zero-profit-with-forerunner-165-now-selling-oled-watch-at-new-record-low-2000650527" target="_blank">Garmin Plays Zero Profit With Forerunner 165, Now Selling OLED Watch at New Record Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-04 22:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
