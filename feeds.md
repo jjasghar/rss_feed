@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 02:31:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-05 03:25:37 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 02:32 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 03:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/5/us-supreme-court-allows-texas-to-use-redrawn-district-map-for-2026-midterms?traffic_source=rss" target="_blank">US Supreme Court allows Texas to use redrawn district map for 2026 midterms</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-05 01:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/letitia-james-ap-jef-251204_1764858968764_hpMain_4x3t_384.jpg" alt="Grand jury rejects DOJ&#x27;s attempt to revive fraud case against Letitia James: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,30 +87,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7754/live/ba714c90-d133-11f0-a0cc-673bf7abfc30.jpg" alt="We&#x27;ll end children living in B&amp;Bs, government says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0l9nrkd4z6o?at_medium=RSS&at_campaign=rss" target="_blank">We&#x27;ll end children living in B&amp;Bs, government says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-04 22:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/4/real-betis-vs-barcelona-la-liga-teams-start-lineups?traffic_source=rss" target="_blank">Real Betis vs Barcelona: La Liga preview – teams, start, lineups</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-04 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/4/putin-challenges-us-pressure-on-india-over-russian-oil-during-state-visit?traffic_source=rss" target="_blank">Putin challenges US pressure on India over Russian oil during state visit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-04 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/04/nx-s1-5633347/libraries-museums-federal-funding-imls-trump-cuts" target="_blank">Libraries and museums get federal funding back after Trump cuts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-04 21:13</span>
             </div>
         </div>
 </div>
@@ -165,6 +172,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wraith/start-with-a-gravel-road-why-mvps-beat-12-lane-highways-2mdk" target="_blank">Start with a Gravel Road: Why MVPs Beat 12‑Lane Highways</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-05 03:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Graphics-Drivers" target="_blank">Linux 6.19 GPU Driver Features: Color Pipeline API, Intel Xe3P, AMDGPU For GCN 1.0/1.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-05 01:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/azeezah_onifade_a66d69f2c/the-use-of-excel-in-automating-repetitive-business-processes-j57" target="_blank">The Use of Excel in Automating Repetitive Business Processes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-05 01:12</span>
@@ -189,30 +214,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Grab Adds Real-Time Data Quality Monitoring to Its Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/grab-kafka-data-quality/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grab Adds Real-Time Data Quality Monitoring to Its Platform</a></span>
-                <span class="feed">InfoQ</span>
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-december-5-2025-red-hat" target="_blank">Friday Five — December 5, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-12-05 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/saranya-nandakumar/from-particle-physics-to-ai-agents-my-week-of-discovery-2bbe" target="_blank">From Particle Physics to AI Agents: My Week of Discovery</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-04 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://docs.djangoproject.com/en/6.0/releases/6.0/" target="_blank">Django 6.0 release notes</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-04 23:05</span>
             </div>
         </div>
 </div>
@@ -244,6 +251,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/DEC2025_Lightspeed_io9-1280x853.jpg" alt="A Radical Cure for Internet Addiction Brings Chilling Consequences in This Dystopian Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-radical-cure-for-internet-addiction-brings-chilling-consequences-in-this-dystopian-story-2000695945" target="_blank">A Radical Cure for Internet Addiction Brings Chilling Consequences in This Dystopian Story</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-05 00:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/s10-plus-galaxy-1280x853.jpg" alt="Samsung Never Turned Off Black Friday Deal on Galaxy Tab S10+, Still Selling at All-Time Low Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -262,30 +278,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JQCAPJDD6EGT7647YW6A0XMQ/hero-image.jpg" alt="Here&#x27;s Everything You Get With a Garmin Connect+ Subscription" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/everything-you-get-with-garmin-connect-plus?utm_medium=RSS" target="_blank">Here&#x27;s Everything You Get With a Garmin Connect+ Subscription</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-04 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/forerunner-165-garmin-1280x853.jpg" alt="Garmin Plays Zero Profit With Forerunner 165, Now Selling OLED Watch at New Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/garmin-plays-zero-profit-with-forerunner-165-now-selling-oled-watch-at-new-record-low-2000650527" target="_blank">Garmin Plays Zero Profit With Forerunner 165, Now Selling OLED Watch at New Record Low</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-04 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Sinners-Li-Jun-Li-io9-template-circle-light-dark-1280x853.jpg" alt="This ‘Sinners’ Star Knew You’d Have Feelings About That Grace Scene" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sinners-ryan-coogler-li-jun-li-grace-scene-2000695716" target="_blank">This ‘Sinners’ Star Knew You’d Have Feelings About That Grace Scene</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-04 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ChatPlayground-AI.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Finally, a way to stop wrangling five different AIs at once" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/04/finally-a-way-to-stop-wrangling-five-different-ais-at-once.html" target="_blank">Finally, a way to stop wrangling five different AIs at once</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-04 22:00</span>
             </div>
         </div>
 </div>
@@ -307,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 02:32 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 03:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
