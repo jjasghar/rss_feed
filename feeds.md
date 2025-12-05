@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 19:01:20 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-05 20:01:51 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +115,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/design/839364/pantones-cloud-dancer-color-of-the-year-party" target="_blank">Pantone’s ‘Cloud Dancer’ color party is a recession indicator</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-05 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/839164/horses-interview-santa-ragione-steam-ban-censorship" target="_blank">Horses is a hit, but its studio might still be in trouble</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-05 19:00</span>
@@ -151,15 +165,6 @@
                 <span class="time">2025-12-05 17:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/05/esim-adoption-is-on-the-rise-thanks-to-travel-and-device-compatibility/" target="_blank">eSIM adoption is on the rise thanks to travel and device compatibility</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-05 17:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,9 +174,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mashrulhaque/dotnet-run-in-net-10-single-file-c-is-finally-here-1gdi" target="_blank">dotnet run in .NET 10: Single-File C# Is Finally Here</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-05 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kolkov/gogpu-a-pure-go-graphics-library-for-gpu-programming-2j5d" target="_blank">GoGPU: A Pure Go Graphics Library for GPU Programming</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-05 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-IO-uring-Block" target="_blank">NVIDIA Improves Block Layer Peer-To-Peer DMA In Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-05 18:26</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +222,6 @@
                 <span class="title"><a href="https://dzone.com/articles/from-containers-to-webassembly-the-next-evolution" target="_blank">From Containers to WebAssembly: The Next Evolution in Cloud-Native Architecture</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-05 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F20edk6iq0iee35z6uu86.webp" alt="Universal &amp; Deep Links: 2026 Complete Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marko_boras_64fe51f7833a6/universal-deep-links-2026-complete-guide-36c4" target="_blank">Universal &amp; Deep Links: 2026 Complete Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-05 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/mysql-declining-development/en/headerimage/generatedHeaderImage-1764596202565.jpg" alt="MySQL Repository Analysis Reveals Declining Development and Shrinking Contributor Base" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/mysql-declining-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MySQL Repository Analysis Reveals Declining Development and Shrinking Contributor Base</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-05 16:20</span>
             </div>
         </div>
 </div>
@@ -248,12 +253,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/geoff-statue2-1280x720.jpg" alt="No Matter What The Game Awards Hell Statue Is For, Geoff Keighley Wins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/game-awards-statue-elder-scrolls-6-geoff-keighley-2000651010" target="_blank">No Matter What The Game Awards Hell Statue Is For, Geoff Keighley Wins</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-05 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/image-11.png?fit=1080%2C1031&amp;quality=55&amp;ssl=1" alt="Kristi Noem spends birthday mocking Mexicans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/05/kristi-noem-spends-birthday-mocking-mexicans.html" target="_blank">Kristi Noem spends birthday mocking Mexicans</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-05 19:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2024/07/ed70760a47bcc0689184c4e5367e7e3d.jpg" alt="Mortal Kombat, Hogwarts Legacy, And Batman: Arkham Are Going To A Company That Closed Its Only AAA Game Studio" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/netflix-wb-batman-arkham-hogwarts-legacy-mortal-kombat-2000650918" target="_blank">Mortal Kombat, Hogwarts Legacy, And Batman: Arkham Are Going To A Company That Closed Its Only AAA Game Studio</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-05 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBQJPQHYPYGTB940P5MVTRAY/hero-image.png" alt="What the Netflix/Warner Bros. Merger Could Mean for Streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-the-netflix-warner-bros-discovery-merger-could-mean-for-streaming?utm_medium=RSS" target="_blank">What the Netflix/Warner Bros. Merger Could Mean for Streaming</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-05 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -272,33 +304,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/05/sinead-oconnor-dismantles-the-myth-of-the-irish-famine.html" target="_blank">Sinéad O&#x27;Connor dismantles the myth of the Irish &quot;famine&quot;</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-05 17:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/morning-checkpoint-1280x720.jpg" alt="Fans Can’t Believe How Much Microsoft Is Selling Used Xbox Consoles For" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fans-cant-believe-how-much-microsoft-is-selling-used-xbox-consoles-for-2000650923" target="_blank">Fans Can’t Believe How Much Microsoft Is Selling Used Xbox Consoles For</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-05 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBQ8D38WE9KMWM831Z3SPYX0/hero-image.png" alt="The Meta Ray-Ban Smart Glasses Are at Their All-Time Lowest Price Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ray-ban-meta-smart-glasses-sale-december-2025?utm_medium=RSS" target="_blank">The Meta Ray-Ban Smart Glasses Are at Their All-Time Lowest Price Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-05 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/jbl-clip-5-1280x853.jpg" alt="JBL Clip 5 Takes Another Price Drop After Black Friday to Clear Out Its Bluetooth Speaker Inventory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jbl-clip-5-takes-another-price-drop-after-black-friday-to-clear-out-its-bluetooth-speaker-inventory-2000650863" target="_blank">JBL Clip 5 Takes Another Price Drop After Black Friday to Clear Out Its Bluetooth Speaker Inventory</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-05 15:35</span>
             </div>
         </div>
 </div>
@@ -329,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
