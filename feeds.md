@@ -1,35 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 05:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-05 06:02:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +37,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/5/russia-continues-tech-crackdown-by-blocking-snapchat-facetime-access?traffic_source=rss" target="_blank">Russia continues tech crackdown by blocking Snapchat, FaceTime access</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-05 05:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/05/us-sanctions-sudan-army-rsf-ceasefire" target="_blank">US considers wider sanctions on Sudanese army and RSF as ceasefire efforts falter</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-05 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +89,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-texas-use-new-congressional-district-map-drawn-fa-rcna244696" target="_blank">Supreme Court allows Texas to use new congressional district map drawn to favor Republicans</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-04 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/04/nx-s1-5619692/supreme-court-texas-redistricting-map" target="_blank">Supreme Court lets Texas use gerrymandered map that could give GOP 5 more House seats</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-04 23:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7754/live/ba714c90-d133-11f0-a0cc-673bf7abfc30.jpg" alt="We&#x27;ll end children living in B&amp;Bs, government says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0l9nrkd4z6o?at_medium=RSS&at_campaign=rss" target="_blank">We&#x27;ll end children living in B&amp;Bs, government says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-04 22:32</span>
             </div>
         </div>
 </div>
@@ -164,6 +156,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg93hwh75kaxg34wxwt9r.png" alt="🧱 Lecture 9B : Product Management (Angular)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/farrukh_rehman/lecture-9b-product-management-angular-2e2g" target="_blank">🧱 Lecture 9B : Product Management (Angular)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-05 05:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F39jiqetqa3vx2umgkttb.gif" alt="Terra Nova: A Cinematic Travel App from Scratch with Uno Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +205,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80" target="_blank">AV1: A Modern, Open Codec</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-05 00:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80" target="_blank">AV1 – Now Powering 30% of Netflix Streaming</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-05 00:09</span>
             </div>
@@ -309,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
