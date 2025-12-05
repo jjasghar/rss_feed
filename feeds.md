@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-04 23:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-05 00:04:48 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, December 04, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +100,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/693216464dde9e188d87dc6d/master/pass/Daniel-Lurie-Big-Interview-2025-6.jpg" alt="San Francisco Mayor Daniel Lurie: Past Leaders Took the City ‘for Granted’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/big-interview-event-mayor-daniel-lurie/" target="_blank">San Francisco Mayor Daniel Lurie: Past Leaders Took the City ‘for Granted’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-04 23:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2207557317-500x500.jpg" alt="Congress warned that NASA’s current plan for Artemis “cannot work”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/12/congress-told-there-needs-to-be-consequences-for-nasa-delays-amid-chinas-rise/" target="_blank">Congress warned that NASA’s current plan for Artemis “cannot work”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-04 22:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2207557317-500x500.jpg" alt="Congress told there needs to be “consequences” for NASA delays amid China’s rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -144,29 +153,38 @@
                 <span class="time">2025-12-04 22:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6931e6e45b3962396deeff1a/master/pass/Daniela-Amodei-Big-Interview-2025-2.jpg" alt="Anthropic’s Daniela Amodei Believes the Market Will Reward Safe AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/big-interview-event-daniela-amodei-anthropic/" target="_blank">Anthropic’s Daniela Amodei Believes the Market Will Reward Safe AI</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-04 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249270671-500x500.jpg" alt="CDC vaccine panel realizes again it has no idea what it’s doing, delays big vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/12/cdc-vaccine-panel-realizes-again-it-has-no-idea-what-its-doing-delays-big-vote/" target="_blank">CDC vaccine panel realizes again it has no idea what it’s doing, delays big vote</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-04 20:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Grab Adds Real-Time Data Quality Monitoring to Its Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/grab-kafka-data-quality/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grab Adds Real-Time Data Quality Monitoring to Its Platform</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-05 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saranya-nandakumar/from-particle-physics-to-ai-agents-my-week-of-discovery-2bbe" target="_blank">From Particle Physics to AI Agents: My Week of Discovery</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-04 23:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://docs.djangoproject.com/en/6.0/releases/6.0/" target="_blank">Django 6.0 release notes</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-04 23:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,38 +212,29 @@
                 <span class="time">2025-12-04 20:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/" target="_blank">How to use GitHub Copilot Spaces to debug issues faster</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-12-04 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18786477&w=600" alt="Why Traditional QA Fails for Generative AI in Tech Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/genai-tech-support-qa-failures" target="_blank">Why Traditional QA Fails for Generative AI in Tech Support</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-04 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foyg8kq8a21hntar8i0ve.png" alt="De RAG tradicional a Agentic RAG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/carly_chavez1/de-rag-tradicional-a-agentic-rag-1am5" target="_blank">De RAG tradicional a Agentic RAG</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-04 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/s10-plus-galaxy-1280x853.jpg" alt="Samsung Never Turned Off Black Friday Deal on Galaxy Tab S10+, Still Selling at All-Time Low Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-never-turned-off-black-friday-deal-on-galaxy-tab-s10-still-selling-at-all-time-low-price-2000650535" target="_blank">Samsung Never Turned Off Black Friday Deal on Galaxy Tab S10+, Still Selling at All-Time Low Price</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-04 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Short-Round-Indiana-Jones-Ke-Huy-Quan-1280x853.jpg" alt="Short Round Returns as Ke Huy Quan Takes the ‘Indiana Jones’ Ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/short-round-returns-ke-huy-quan-indiana-jones-ride-2000695789" target="_blank">Short Round Returns as Ke Huy Quan Takes the ‘Indiana Jones’ Ride</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-04 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/forerunner-165-garmin-1280x853.jpg" alt="Garmin Plays Zero Profit With Forerunner 165, Now Selling OLED Watch at New Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -254,30 +263,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Boeing-777-involved-in-MH370-disappearance--1280x853.jpg" alt="The Hunt for Missing Malaysia Flight 370 Is Back On. Here’s Why It Might Actually Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/rewiringdemocracy.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="How AI could save democracy instead of destroying it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-hunt-for-missing-malaysia-flight-370-is-back-on-heres-why-it-might-actually-work-2000695861" target="_blank">The Hunt for Missing Malaysia Flight 370 Is Back On. Here’s Why It Might Actually Work</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-04 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBN5YJXM3RYZVHHBB4D420Z3/hero-image.png" alt="This New Android Feature Protects You From a Scam Call While It&#x27;s Happening" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/this-new-android-feature-protects-you-from-a-scam-call-while-its-happening?utm_medium=RSS" target="_blank">This New Android Feature Protects You From a Scam Call While It&#x27;s Happening</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-04 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/leviMAIN2-1280x719.jpg" alt="One Player Turned 2025’s Hit Extraction Shooter Into A Stunning War Photography Sim" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/arc-raiders-screenshots-photo-mode-hud-binoculars-2000650620" target="_blank">One Player Turned 2025’s Hit Extraction Shooter Into A Stunning War Photography Sim</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-04 19:37</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/04/how-ai-could-save-democracy-instead-of-destroying-it.html" target="_blank">How AI could save democracy instead of destroying it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-04 21:19</span>
             </div>
         </div>
 </div>
@@ -308,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
