@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 12:02:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-05 13:11:16 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, December 05, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +50,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c5c/live/b75f4f30-d1c3-11f0-a892-01d657345866.jpg" alt="Putin says Russia ready to supply &#x27;uninterrupted&#x27; fuel to India" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g482m3yyzo?at_medium=RSS&at_campaign=rss" target="_blank">Putin says Russia ready to supply &#x27;uninterrupted&#x27; fuel to India</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-05 12:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/5/uninterrupted-oil-shipments-key-takeaways-from-putin-modi-talks-in-delhi?traffic_source=rss" target="_blank">‘Uninterrupted oil shipments’: Key takeaways from Putin-Modi talks in Delhi</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-05 12:36</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/12/05/g-s1-100860/china-japan-feud-over-taiwan" target="_blank">China in diplomatic push to isolate Japan in feud over Taiwan issue</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-05 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-warner-bros-logo-film_7101743.jpg?20251205122842" alt="Netflix agrees blockbuster $72bn deal for Warner Bros studios" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/netflix-agrees-blockbuster-72bn-deal-for-warner-bros-studios-13479683" target="_blank">Netflix agrees blockbuster $72bn deal for Warner Bros studios</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-05 11:09</span>
             </div>
         </div>
 <div class="story">
@@ -77,38 +103,29 @@
                 <span class="time">2025-12-05 09:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/dec/05/rsf-massacres-sudanese-city-el-fasher-slaughterhouse-satellite-images" target="_blank">RSF massacres left Sudanese city ‘a slaughterhouse’, satellite images show</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-05 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe" target="_blank">60,000 African penguins starve to death after sardine numbers collapse – study</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-05 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/5/russia-continues-tech-crackdown-by-blocking-snapchat-facetime-access?traffic_source=rss" target="_blank">Russia continues tech crackdown by blocking Snapchat, FaceTime access</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-05 05:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68788f6b44c0ac84f6db4794/master/pass/The%20Best%20Total%20Meal%20Replacement%20Shakes.png" alt="The Best Meal Replacement Shakes for Total Life Optimization (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-liquid-meal-replacements/" target="_blank">The Best Meal Replacement Shakes for Total Life Optimization (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-05 12:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk" target="_blank">EU fines X $140 million over ‘deceptive’ blue checkmarks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-05 12:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +162,29 @@
                 <span class="time">2025-12-05 01:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/04/chicago-tribune-sues-perplexity/" target="_blank">Chicago Tribune sues Perplexity</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-05 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21345733/best-noise-canceling-headphones" target="_blank">The best noise-canceling headphones to buy right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-05 00:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://about.netflix.com/en/news/netflix-to-acquire-warner-bros" target="_blank">Netflix to Acquire Warner Bros</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-05 12:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-NTFS3" target="_blank">Linux NTFS3 Driver Will Now Support Timestamps Prior To 1970</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-05 11:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/podcasts/transforming-life-sciences/en/smallimage/engineering-culture-podcast-thumbnail-1764594584285.jpg" alt="Podcast: Transforming Life Sciences: AI, Vibe Coding, and Drug Development Acceleration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +219,6 @@
                 <span class="title"><a href="https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/" target="_blank">The US polluters that are rewriting the EU&#x27;s human rights and climate law</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-05 09:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdqp13rooj2t8i640y0dc.jpeg" alt="Resurrecting the GameBoy with Kiro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/michiel_8fb6/resurrecting-the-gameboy-with-kiro-5417" target="_blank">Resurrecting the GameBoy with Kiro</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-05 09:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/hybrid-cloud-native-networking-enterprise/en/mediumimage/louis-ryan-medium-1764080811007.jpg" alt="Presentation: Hybrid Cloud-Native Networking in Enterprise - Some Assembly Required" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/hybrid-cloud-native-networking-enterprise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Hybrid Cloud-Native Networking in Enterprise - Some Assembly Required</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-05 09:17</span>
             </div>
         </div>
 </div>
@@ -332,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
