@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-06 14:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-06 15:01:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, December 06, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, December 06, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Ukraine-fire-DB-251206_1765012648315_hpMain_4x3t_384.jpg" alt="US-Ukraine talks on security &#x27;framework&#x27; to continue Saturday, State Department says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/us-ukraine-talks-security-framework-continue-saturday-state/story?id=128167820" target="_blank">US-Ukraine talks on security &#x27;framework&#x27; to continue Saturday, State Department says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-06 14:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/06/g-s1-101066/sudanese-paramilitary-drone-attack-kills-50" target="_blank">Sudanese paramilitary drone attack kills 50, including 33 children, doctor group says</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-06 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c2e/live/3bd47820-d242-11f0-a892-01d657345866.jpg" alt="Trans women will not be allowed to attend main Labour Women&#x27;s Conference events" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c773vm4n3n0o?at_medium=RSS&at_campaign=rss" target="_blank">Trans women will not be allowed to attend main Labour Women&#x27;s Conference events</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-06 10:40</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kamaldeep_kakkar_8a1a740e/channels-in-kotlin-coroutines-a-complete-qa-guide-for-android-apps-4ppc" target="_blank">Channels in Kotlin Coroutines: A Complete Q&amp;A Guide for Android Apps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-06 14:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-SoCs" target="_blank">Tenstorrent Blackhole Support &amp; Other New RISC-V + ARM64 Hardware In Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-06 13:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/linux-gui-search-tools/" target="_blank">9 GUI Search Tools for Desktop Linux Users Who Don&#x27;t Want to Use Find, Grep and Xargs Commands</a></span>
                 <span class="feed">It's FOSS</span>
@@ -194,24 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/FEX-Emu-2512-Released" target="_blank">FEX 2512 Released With More Improvements For Gaming On ARM64 Linux</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-06 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Portfolio - Interactive Bento Grid Experience 🎨✨" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/varshithvhegde/portfolio-interactive-bento-grid-experience-4nfc" target="_blank">Portfolio - Interactive Bento Grid Experience 🎨✨</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-06 11:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shahrouzlogs/day-56-python-fibonacci-nth-term-blazing-fast-on-iterative-solution-with-o1-space-no-4d02" target="_blank">Day 56: Python Fibonacci nth Term – Blazing Fast O(n) Iterative Solution with O(1) Space (No Recursion!)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-06 09:50</span>
             </div>
         </div>
 </div>
@@ -315,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
