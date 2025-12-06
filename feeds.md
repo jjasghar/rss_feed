@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-05 23:01:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-12-06 00:04:38 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, December 05, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, December 06, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/pipe-bomb-suspect-fbi-mo-20210108_1610083324785_hpMain_4x3t_384.jpg" alt="Pipe bomb suspect was &#x27;disappointed&#x27; in 2020 election results, US attorney says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/pipe-bomb-suspect-disappointed-2020-election-results-us/story?id=128157568" target="_blank">Pipe bomb suspect was &#x27;disappointed&#x27; in 2020 election results, US attorney says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-05 22:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/world/2025/dec/05/people-flee-dr-congo-fighting-one-day-after-peace-deal-signed-in-washington" target="_blank">People flee DR Congo fighting one day after peace deal signed in Washington</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-12-05 22:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/5/us-supreme-court-to-consider-trumps-bid-to-end-birthright-citizenship?traffic_source=rss" target="_blank">US Supreme Court to consider Trump’s bid to end birthright citizenship</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-05 21:48</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +102,29 @@
                 <span class="time">2025-12-05 20:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19f2/live/58bc11d0-d212-11f0-bd15-e5c6de83b2f6.jpg" alt="England start World Cup against Croatia, Scotland to face Brazil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/sport/football/articles/c7vmr1mmve3o?at_medium=RSS&at_campaign=rss" target="_blank">England start World Cup against Croatia, Scotland to face Brazil</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-05 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250627-supreme-court-birthright-citizenship-mn-0930-c15a59.jpg" alt="Supreme Court to decide if Trump can limit constitutional right to citizenship at birth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-decide-trump-can-limit-constitutional-right-citizenship-rcna244701" target="_blank">Supreme Court to decide if Trump can limit constitutional right to citizenship at birth</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-05 18:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/" target="_blank">Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-05 23:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2022926730-500x500-1764972753.jpg" alt="Streaming service makes rare decision to lower its monthly fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/" target="_blank">Streaming service makes rare decision to lower its monthly fees</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-05 22:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2022926730-500x500-1764972753.jpg" alt="Fubo lowers its prices by up to 15% after losing NBCUniversal channels" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +159,6 @@
                 <span class="title"><a href="https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/" target="_blank">AWS needs you to believe in AI agents</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-05 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-blocks-aftermarket-controllers" target="_blank">Chamberlain blocks smart home integrations with its garage door openers — again</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-05 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6933401547ff0788f21a9d07/master/pass/HORSES_Church.png" alt="Horses, the Most Controversial Game of the Year, Doesn’t Live Up to the Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/horses-the-most-controversial-game-of-the-year-doesnt-live-up-to-the-hype/" target="_blank">Horses, the Most Controversial Game of the Year, Doesn’t Live Up to the Hype</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-05 20:45</span>
             </div>
         </div>
 </div>
@@ -233,20 +234,20 @@
                 <span class="time">2025-12-05 08:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/" target="_blank">SMS Phishers Pivot to Points, Taxes, Fake Retailers</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-12-04 23:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Bluey-Quest-for-Gold-Pen-Halfbrick--1280x853.jpg" alt="The Beloved Episodes That Inspired Creator Joe Brumm’s Last ‘Bluey’ Hurrah" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/bluey-gold-pen-game-inspiration-joe-brumm-2000696293" target="_blank">The Beloved Episodes That Inspired Creator Joe Brumm’s Last ‘Bluey’ Hurrah</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-05 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/metroid-vaginaas-1280x720.jpg" alt="Metroid Prime 4 Players Are Discovering The Game Is Filled With Vagina Doors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +293,6 @@
                 <span class="time">2025-12-05 21:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBQT32MVCHGMC1BT7C0WBR01/hero-image.jpg" alt="This Surprisingly Convincing Phishing Scam Imitates Apple Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-support-ticket-imitation-scam?utm_medium=RSS" target="_blank">This Surprisingly Convincing Phishing Scam Imitates Apple Support</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-05 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
