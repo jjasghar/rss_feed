@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-12-06 15:01:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-06 16:02:03 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, December 06, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, December 06, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +40,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/6/south-africa-shooting-leaves-12-dead-including-young-child-police?traffic_source=rss" target="_blank">South Africa shooting leaves 12 dead, including young child: Police</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-06 15:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Ukraine-fire-DB-251206_1765012648315_hpMain_4x3t_384.jpg" alt="US-Ukraine talks on security &#x27;framework&#x27; to continue Saturday, State Department says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/International/us-ukraine-talks-security-framework-continue-saturday-state/story?id=128167820" target="_blank">US-Ukraine talks on security &#x27;framework&#x27; to continue Saturday, State Department says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-06 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-babanusa-sudan_7098253.jpg?20251206144226" alt="At least 33 children killed in paramilitary drone attack on nursery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/paramilitary-drone-attack-in-southern-sudan-kills-at-least-50-people-including-33-children-13480056" target="_blank">At least 33 children killed in paramilitary drone attack on nursery</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-06 14:02</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +93,20 @@
                 <span class="time">2025-12-06 11:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/06/gunmen-kill-pretoria-south-african-hostel" target="_blank">Gunmen kill at least 11 people including three-year-old in South African hostel</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-06 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/06/g-s1-101066/sudanese-paramilitary-drone-attack-kills-50" target="_blank">Sudanese paramilitary drone attack kills 50, including 33 children, doctor group says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-06 10:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google" target="_blank">The tech world is sleeping on the most exciting Bluetooth feature in years</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-06 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +152,6 @@
                 <span class="time">2025-12-06 00:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/809421/holiday-gift-guide-2025" target="_blank">The Verge’s 2025 holiday gift guide</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-06 00:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +164,15 @@
                 <span class="title"><a href="https://dev.to/kamaldeep_kakkar_8a1a740e/channels-in-kotlin-coroutines-a-complete-qa-guide-for-android-apps-4ppc" target="_blank">Channels in Kotlin Coroutines: A Complete Q&amp;A Guide for Android Apps</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-06 14:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://www.tinycorelinux.net/" target="_blank">Tiny Core Linux: a 23 MB Linux distro with graphical desktop</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-06 14:18</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +211,6 @@
                 <span class="time">2025-12-06 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FEX-Emu-2512-Released" target="_blank">FEX 2512 Released With More Improvements For Gaming On ARM64 Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-06 11:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,12 +231,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/ev-charger-1280x853.jpg" alt="RIP, EV: These Electric Vehicles Won’t Make it to 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rip-ev-these-electric-vehicles-wont-make-it-to-2026-2000694324" target="_blank">RIP, EV: These Electric Vehicles Won’t Make it to 2026</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-06 15:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/chamelo-music-shield-03-1280x853.jpg" alt="Chamelo Music Shield Review: These Sporty Speaker Glasses Have One Thing Meta Needs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/chamelo-music-shield-review-these-sporty-speaker-glasses-have-one-thing-meta-needs-2000696268" target="_blank">Chamelo Music Shield Review: These Sporty Speaker Glasses Have One Thing Meta Needs</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-06 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Apple-Watch-Charger-with-Built-In-2000mAh-Power-Bank.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This Apple Watch charger keeps your day moving — and is under $20" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/05/this-apple-watch-charger-keeps-your-day-moving-and-is-under-20.html" target="_blank">This Apple Watch charger keeps your day moving — and is under $20</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-06 01:00</span>
             </div>
         </div>
 <div class="story">
@@ -267,24 +282,6 @@
                 <span class="title"><a href="https://gizmodo.com/salesforce-ceo-mulls-changing-name-to-ai-flavored-agentforce-2000696360" target="_blank">Salesforce CEO Mulls Changing Name to AI-Flavored ‘Agentforce’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-05 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/06/image-53-e1742577034253.png?fit=1080%2C591&amp;quality=55&amp;ssl=1" alt="Grandpa Puddin&#x27; Brains does the hand job dance to a famous gay anthem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/05/grandpa-puddin-brains-does-the-hand-job-dance-to-a-famous-gay-anthem.html" target="_blank">Grandpa Puddin&#x27; Brains does the hand job dance to a famous gay anthem</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-05 22:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/netflix.jpg" alt="Netflix Says It’s Not Destroying Hollywood: ‘We’re Saving’ It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/netflix-warner-bros-acquisition-batman-hbo-2000651036" target="_blank">Netflix Says It’s Not Destroying Hollywood: ‘We’re Saving’ It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-05 22:00</span>
             </div>
         </div>
 </div>
@@ -315,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
