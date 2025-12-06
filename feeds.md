@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-06 12:02:19 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-06 13:07:58 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, December 06, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, December 06, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +52,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/06/gunmen-kill-pretoria-south-african-hostel" target="_blank">Gunmen kill at least 11 people including three-year-old in hostel in South Africa</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-06 12:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/014f/live/554cde70-d290-11f0-ad8c-41f43adb6496.jpg" alt="Russia bombards Ukraine as US says progress made in talks with Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -60,6 +76,15 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/dec/06/gunmen-kill-pretoria-south-african-hostel" target="_blank">Gunmen kill at least 11 people including three-year-old in South African hostel</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-12-06 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c2e/live/3bd47820-d242-11f0-a892-01d657345866.jpg" alt="Trans women will not be allowed to attend main Labour Women&#x27;s Conference events" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c773vm4n3n0o?at_medium=RSS&at_campaign=rss" target="_blank">Trans women will not be allowed to attend main Labour Women&#x27;s Conference events</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-06 10:40</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +105,29 @@
                 <span class="time">2025-12-06 09:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/6/iaea-flags-damage-to-chornobyl-nuclear-plants-protective-shield?traffic_source=rss" target="_blank">IAEA flags damage to Chornobyl nuclear plant’s protective shield in Ukraine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-06 07:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/847f/live/1b5454c0-d27a-11f0-af1a-a13b3bc97819.jpg" alt="US says progress made at talks with Ukraine on plan to end war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss" target="_blank">US says progress made at talks with Ukraine on plan to end war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-06 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69334ab57375f733c4c9a823/master/pass/Lenovo%20Legion%20Go%20Gen%202%20Top%20Art%20SOURCE%20Best%20Buy.jpg" alt="Lenovo Legion Go Gen 2 Review: A High-End Gaming Handheld" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/lenovo-legion-go-gen-2/" target="_blank">Lenovo Legion Go Gen 2 Review: A High-End Gaming Handheld</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-06 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2182963624-500x500.jpg" alt="A massive, Chinese-backed port could push the Amazon Rainforest over the edge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/a-massive-chinese-backed-port-could-push-the-amazon-rainforest-over-the-edge/" target="_blank">A massive, Chinese-backed port could push the Amazon Rainforest over the edge</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-06 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Vimeo Promo Codes and Deals: Save Up to 40%" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +164,38 @@
                 <span class="time">2025-12-05 23:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2022926730-500x500-1764972753.jpg" alt="Streaming service makes rare decision to lower its monthly fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/" target="_blank">Streaming service makes rare decision to lower its monthly fees</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-05 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2022926730-500x500-1764972753.jpg" alt="Fubo lowers its prices by up to 15% after losing NBCUniversal channels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/" target="_blank">Fubo lowers its prices by up to 15% after losing NBCUniversal channels</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-05 22:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/linux-gui-search-tools/" target="_blank">9 GUI Search Tools for Desktop Linux Users Who Don&#x27;t Want to Use Find, Grep and Xargs Commands</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-12-06 12:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68ronn20vjzl2xipxzg8.jpg" alt="AWS re:Invent 2025 - Code completion to agents: The evolution of development (DVT405)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kazuya_dev/aws-reinvent-2025-code-completion-to-agents-the-evolution-of-development-dvt405-m2b" target="_blank">AWS re:Invent 2025 - Code completion to agents: The evolution of development (DVT405)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-06 12:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/jfrog-shadow-ai-detection/en/headerimage/generatedHeaderImage-1764830824747.jpg" alt="JFrog Unveils “Shadow AI Detection” to Tackle Hidden AI Risks in Enterprise Software Supply Chains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/jfrog-shadow-ai-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JFrog Unveils “Shadow AI Detection” to Tackle Hidden AI Risks in Enterprise Software Supply Chains</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-06 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +223,6 @@
                 <span class="time">2025-12-06 09:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aerabi/day-6-the-audit-2ak2" target="_blank">Day 6 — The Audit</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-06 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/" target="_blank">Wolfram Compute Services</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-06 07:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-moralzarzal-k70" target="_blank">Arreglar pinchazos cerca de mi en Moralzarzal</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-06 06:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/chamelo-music-shield-03-1280x853.jpg" alt="Chamelo Music Shield Review: These Sporty Speaker Glasses Have One Thing Meta Needs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/chamelo-music-shield-review-these-sporty-speaker-glasses-have-one-thing-meta-needs-2000696268" target="_blank">Chamelo Music Shield Review: These Sporty Speaker Glasses Have One Thing Meta Needs</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-06 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Bluey-Quest-for-Gold-Pen-Halfbrick--1280x853.jpg" alt="The Beloved Episodes That Inspired Creator Joe Brumm’s Last ‘Bluey’ Hurrah" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +296,6 @@
                 <span class="time">2025-12-05 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Microsoft-Office-Pro-2021-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Double or nothing — get a Dell with MS Office for 73%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/05/double-or-nothing-get-a-dell-with-ms-office-for-73.html" target="_blank">Double or nothing — get a Dell with MS Office for 73%</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-05 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
