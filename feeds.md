@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-06 06:02:00 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-06 07:01:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, December 06, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, December 06, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +48,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/6/arab-muslim-nations-reject-israels-exit-only-plan-for-rafah-crossing?traffic_source=rss" target="_blank">Arab, Muslim nations reject Israeli exit-only plan for Gaza Rafah crossing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-06 06:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/6/palestinian-groups-express-grave-concerns-over-marwan-barghoutis-safety?traffic_source=rss" target="_blank">Palestinian groups express ‘grave concerns’ over Marwan Barghouti’s safety</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-06 05:31</span>
@@ -67,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/120525NNNetflixWB-gqdcak.jpg" alt="Netflix announces deal to buy Warner Bros., HBO Max" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/netflix-announces-deal-to-buy-warner-bros-hbo-max-253858885591" target="_blank">Netflix announces deal to buy Warner Bros., HBO Max</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-06 00:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -76,30 +90,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/pipe-bomb-suspect-fbi-mo-20210108_1610083324785_hpMain_4x3t_384.jpg" alt="Pipe bomb suspect was &#x27;disappointed&#x27; in 2020 election results, US attorney says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-maryam-gaza_7102330.jpg?20251205235417" alt="12-year-old girl from Gaza receives vital brain operation after Israeli bombing near her home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/pipe-bomb-suspect-disappointed-2020-election-results-us/story?id=128157568" target="_blank">Pipe bomb suspect was &#x27;disappointed&#x27; in 2020 election results, US attorney says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-05 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/05/people-flee-dr-congo-fighting-one-day-after-peace-deal-signed-in-washington" target="_blank">People flee DR Congo fighting one day after peace deal signed in Washington</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-05 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/5/us-supreme-court-to-consider-trumps-bid-to-end-birthright-citizenship?traffic_source=rss" target="_blank">US Supreme Court to consider Trump’s bid to end birthright citizenship</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-05 21:48</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/12-year-old-girl-from-gaza-receives-vital-brain-operation-after-israeli-bombing-near-her-home-13479925" target="_blank">12-year-old girl from Gaza receives vital brain operation after Israeli bombing near her home</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-05 23:22</span>
             </div>
         </div>
 </div>
@@ -170,6 +166,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-moralzarzal-k70" target="_blank">Arreglar pinchazos cerca de mi en Moralzarzal</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-06 06:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/proton-sheets/" target="_blank">With This New Feature, Proton Has Made it Even Easier to Move Away from Gmail and Google Docs</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-12-06 06:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pomerium/migrating-from-ingress-nginx-to-pomerium-ingress-controller-47m6" target="_blank">Migrating from Ingress NGINX to Pomerium Ingress Controller</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-06 01:57</span>
@@ -200,24 +214,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y2p22z9gno" target="_blank">Frank Gehry has died</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-05 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-rc1-Released" target="_blank">Wine 11.0-rc1 Released With TWAINDSM 64-bit Module For Scanners</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-05 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/proton-sheets.jpg?resize=406%2C232&amp;ssl=1" alt="Proton Launches Encrypted Spreadsheets (Browser-Based)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/proton-sheets-encrypted-online-spreadsheet" target="_blank">Proton Launches Encrypted Spreadsheets (Browser-Based)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-05 21:11</span>
             </div>
         </div>
 </div>
@@ -339,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
