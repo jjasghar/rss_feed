@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-06 18:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-06 19:01:25 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, December 06, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, December 06, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-qatar-forum_7103052.jpg?20251206175756" alt="Gaza ceasefire negotiations at &#x27;critical moment&#x27;, says Qatar PM as seven more killed in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/gaza-ceasefire-negotiations-at-critical-moment-says-qatar-pm-13480180" target="_blank">Gaza ceasefire negotiations at &#x27;critical moment&#x27;, says Qatar PM as seven more killed in Gaza</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-06 16:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11fb/live/f776d7c0-d2c0-11f0-9a50-7beb4a0b24cf.jpg" alt="Russia hits Ukraine as US reports progress in talks with Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -94,20 +99,20 @@
                 <span class="time">2025-12-06 14:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-babanusa-sudan_7098253.jpg?20251206144226" alt="At least 33 children killed in paramilitary drone attack on nursery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/paramilitary-drone-attack-in-southern-sudan-kills-at-least-50-people-including-33-children-13480056" target="_blank">At least 33 children killed in paramilitary drone attack on nursery</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-06 14:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale" target="_blank">The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-06 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +158,20 @@
                 <span class="time">2025-12-06 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Vimeo Promo Codes and Deals: Save Up to 40%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/vimeo-promo-code/" target="_blank">Vimeo Promo Codes and Deals: Save Up to 40%</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-06 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hkarimi/hello-dev-community-im-new-here-ln2" target="_blank">👋 Hello Dev Community — I’m New Here!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-06 18:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/kazuya_dev/aws-reinvent-2025-code-completion-to-agents-the-evolution-of-development-dvt405-m2b" target="_blank">AWS re:Invent 2025 - Code completion to agents: The evolution of development (DVT405)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-06 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/jfrog-shadow-ai-detection/en/headerimage/generatedHeaderImage-1764830824747.jpg" alt="JFrog Unveils “Shadow AI Detection” to Tackle Hidden AI Risks in Enterprise Software Supply Chains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/jfrog-shadow-ai-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JFrog Unveils “Shadow AI Detection” to Tackle Hidden AI Risks in Enterprise Software Supply Chains</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-06 12:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
