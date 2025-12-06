@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-06 16:02:03 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-06 17:01:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, December 06, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, December 06, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss" target="_blank">Syria’s al-Sharaa promises peace and unity in face of Israeli aggression</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-06 16:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11fb/live/f776d7c0-d2c0-11f0-9a50-7beb4a0b24cf.jpg" alt="Russia hits Ukraine as US reports progress in talks with Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss" target="_blank">Russia hits Ukraine as US reports progress in talks with Kyiv</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-06 16:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +102,6 @@
                 <span class="time">2025-12-06 13:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/06/gunmen-kill-pretoria-south-african-hostel" target="_blank">Gunmen kill at least 11 people including three-year-old in hostel in South Africa</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-06 12:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/014f/live/554cde70-d290-11f0-ad8c-41f43adb6496.jpg" alt="Russia bombards Ukraine as US says progress made in talks with Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss" target="_blank">Russia bombards Ukraine as US says progress made in talks with Kyiv</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-06 11:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -105,6 +114,15 @@
                 <span class="title"><a href="https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google" target="_blank">The tech world is sleeping on the most exciting Bluetooth feature in years</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-06 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/693363e48cd59e298478dedb/master/pass/Netflix-Movie-Guide-Troll2-Culture-MCDTRTW_ZX015.jpg" alt="The 46 Best Movies on Netflix, WIRED’s Picks (December 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/netflix-best-movies-this-week/" target="_blank">The 46 Best Movies on Netflix, WIRED’s Picks (December 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-06 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -141,15 +159,6 @@
                 <span class="title"><a href="https://www.wired.com/story/vimeo-promo-code/" target="_blank">Vimeo Promo Codes and Deals: Save Up to 40%</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-06 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/05/digital-artist-beeple-put-his-face-on-a-100k-robot-dog-next-to-elon-musk-and-picasso-it-sold-first/" target="_blank">Digital artist Beeple put his face on a $100K robot dog next to Elon Musk and Picasso – it sold first</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-06 00:35</span>
             </div>
         </div>
 </div>
@@ -219,6 +228,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/" target="_blank">Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-12-06 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-vampire-squid-genome.html" target="_blank">Friday Squid Blogging: Vampire Squid Genome</a></span>
                 <span class="feed">Schneier on Security</span>
@@ -231,12 +249,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/trump-gives-himself-peace-prize-1280x853.jpg" alt="Trump’s FIFA ‘Peace Prize’ Ceremony Is the New Touching the Orb Meme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trumps-fifa-peace-prize-ceremony-is-the-new-touching-the-orb-meme-2000696409" target="_blank">Trump’s FIFA ‘Peace Prize’ Ceremony Is the New Touching the Orb Meme</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-06 16:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/ev-charger-1280x853.jpg" alt="RIP, EV: These Electric Vehicles Won’t Make it to 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/rip-ev-these-electric-vehicles-wont-make-it-to-2026-2000694324" target="_blank">RIP, EV: These Electric Vehicles Won’t Make it to 2026</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-06 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/amazon-echo-dot-2022-1280x853.jpg" alt="Echo Dot Goes for Peanuts, Amazon Sells Alexa Speakers Cheap Enough for Every Home to Own One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/echo-dot-goes-for-peanuts-amazon-sells-alexa-speakers-cheap-enough-for-every-home-to-own-one-2000651143" target="_blank">Echo Dot Goes for Peanuts, Amazon Sells Alexa Speakers Cheap Enough for Every Home to Own One</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-06 14:55</span>
             </div>
         </div>
 <div class="story">
@@ -266,29 +302,20 @@
                 <span class="time">2025-12-05 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/metroid-vaginaas-1280x720.jpg" alt="Metroid Prime 4 Players Are Discovering The Game Is Filled With Vagina Doors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/metroid-prime-4-players-discovering-vagina-vulva-doors-2000651050" target="_blank">Metroid Prime 4 Players Are Discovering The Game Is Filled With Vagina Doors</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-05 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2021/09/a45d96107ed1ff2c64e55e3625f585c9-1024x576.jpg" alt="Salesforce CEO Mulls Changing Name to AI-Flavored ‘Agentforce’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/salesforce-ceo-mulls-changing-name-to-ai-flavored-agentforce-2000696360" target="_blank">Salesforce CEO Mulls Changing Name to AI-Flavored ‘Agentforce’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-05 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1764990140-20251206_edit.png" alt="Saturday Morning Breakfast Cereal - Steinbach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/steinbach" target="_blank">Saturday Morning Breakfast Cereal - Steinbach</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-06 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -298,22 +325,13 @@
                 <span class="time">2025-12-05 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1764710487-20251205_edit.png" alt="Saturday Morning Breakfast Cereal - Hundred" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/hundred" target="_blank">Saturday Morning Breakfast Cereal - Hundred</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-05 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
