@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-06 11:01:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-06 12:02:19 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, December 06, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, December 06, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/014f/live/554cde70-d290-11f0-ad8c-41f43adb6496.jpg" alt="Russia bombards Ukraine as US says progress made in talks with Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss" target="_blank">Russia bombards Ukraine as US says progress made in talks with Kyiv</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-06 11:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/06/gunmen-kill-pretoria-south-african-hostel" target="_blank">Gunmen kill at least 11 people including three-year-old in South African hostel</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-06 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251202-donald-trump-vl-434p-5694bb.jpg" alt="Republicans worry they&#x27;re not doing enough to address affordability concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/republicans-worry-not-enough-affordability-strategy-trump-hoax-rcna247578" target="_blank">Republicans worry they&#x27;re not doing enough to address affordability concerns</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-06 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Kyiv-DB-251206_1765013408495_hpMain_4x3t_384.jpg" alt="NATO fighters scrambled in Poland as Russia bombards Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,33 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss" target="_blank">US says progress made at talks with Ukraine on plan to end war</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-06 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/6/arab-muslim-nations-reject-israels-exit-only-plan-for-rafah-crossing?traffic_source=rss" target="_blank">Arab, Muslim nations reject Israeli exit-only plan for Gaza Rafah crossing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-06 06:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/6/palestinian-groups-express-grave-concerns-over-marwan-barghoutis-safety?traffic_source=rss" target="_blank">Palestinian groups express ‘grave concerns’ over Marwan Barghouti’s safety</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-06 05:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/6/afghan-pakistani-forces-exchange-heavy-fire-as-tensions-flare?traffic_source=rss" target="_blank">Afghan, Pakistani forces exchange heavy fire as tensions flare</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-06 02:25</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FEX-Emu-2512-Released" target="_blank">FEX 2512 Released With More Improvements For Gaming On ARM64 Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-06 11:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Portfolio - Interactive Bento Grid Experience 🎨✨" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/varshithvhegde/portfolio-interactive-bento-grid-experience-4nfc" target="_blank">Portfolio - Interactive Bento Grid Experience 🎨✨</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-06 11:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shahrouzlogs/day-56-python-fibonacci-nth-term-blazing-fast-on-iterative-solution-with-o1-space-no-4d02" target="_blank">Day 56: Python Fibonacci nth Term – Blazing Fast O(n) Iterative Solution with O(1) Space (No Recursion!)</a></span>
                 <span class="feed">DEV Community</span>
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-moralzarzal-k70" target="_blank">Arreglar pinchazos cerca de mi en Moralzarzal</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-06 06:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/proton-sheets/" target="_blank">With This New Feature, Proton Has Made it Even Easier to Move Away from Gmail and Google Docs</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-12-06 06:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pomerium/migrating-from-ingress-nginx-to-pomerium-ingress-controller-47m6" target="_blank">Migrating from Ingress NGINX to Pomerium Ingress Controller</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-06 01:57</span>
             </div>
         </div>
 </div>
@@ -318,7 +318,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 11:01 UTC
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
