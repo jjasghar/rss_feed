@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-06 10:01:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing 54 RSS feeds at 2025-12-06 11:01:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, December 06, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, December 06, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Kyiv-DB-251206_1765013408495_hpMain_4x3t_384.jpg" alt="NATO fighters scrambled in Poland as Russia bombards Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/nato-fighters-scrambled-poland-russia-bombards-ukraine/story?id=128167479" target="_blank">NATO fighters scrambled in Poland as Russia bombards Ukraine</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-06 09:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/6/afghan-pakistani-forces-exchange-heavy-fire-as-tensions-flare?traffic_source=rss" target="_blank">Afghan, Pakistani forces exchange heavy fire as tensions flare</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-06 02:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/120525NNNetflixWB-gqdcak.jpg" alt="Netflix announces deal to buy Warner Bros., HBO Max" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/netflix-announces-deal-to-buy-warner-bros-hbo-max-253858885591" target="_blank">Netflix announces deal to buy Warner Bros., HBO Max</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-06 00:18</span>
             </div>
         </div>
 </div>
@@ -185,6 +183,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/" target="_blank">Wolfram Compute Services</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-06 07:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-moralzarzal-k70" target="_blank">Arreglar pinchazos cerca de mi en Moralzarzal</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/pomerium/migrating-from-ingress-nginx-to-pomerium-ingress-controller-47m6" target="_blank">Migrating from Ingress NGINX to Pomerium Ingress Controller</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-06 01:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Brendan-Gregg-Leaves-Intel" target="_blank">An Intel Fellow &amp; Prominent Linux Performance Engineer Resigns From Intel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-06 01:25</span>
             </div>
         </div>
 </div>
@@ -319,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
