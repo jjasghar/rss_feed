@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-06 21:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-06 22:01:20 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, December 06, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, December 06, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +109,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/06/meta-reportedly-delays-mixed-reality-glasses-until-2027/" target="_blank">Meta reportedly delays mixed reality glasses until 2027</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-06 21:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/06/is-it-time-to-refound-your-startup/" target="_blank">Is it time to ‘refound’ your startup?</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-06 19:44</span>
@@ -150,20 +159,20 @@
                 <span class="time">2025-12-06 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69334ab57375f733c4c9a823/master/pass/Lenovo%20Legion%20Go%20Gen%202%20Top%20Art%20SOURCE%20Best%20Buy.jpg" alt="Lenovo Legion Go Gen 2 Review: A High-End Gaming Handheld" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/lenovo-legion-go-gen-2/" target="_blank">Lenovo Legion Go Gen 2 Review: A High-End Gaming Handheld</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-06 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RAMDAX-NVDIMM-Merged-Linux-6.19" target="_blank">Microsoft&#x27;s RAMDAX Driver Merged For Linux 6.19 To Carve Out RAM As NVDIMM Devices</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-06 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3064224%2F51ff6fb7-5f5b-4ee3-80be-52b8264243b3.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +218,6 @@
                 <span class="time">2025-12-06 14:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://www.tinycorelinux.net/" target="_blank">Tiny Core Linux: a 23 MB Linux distro with graphical desktop</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-06 14:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/lord-of-the-rings-1280x853.jpg" alt="The Extended ‘Lord of the Rings’ Trilogy Comes Back to Theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-extended-lord-of-the-rings-trilogy-comes-back-to-theaters-2000696414" target="_blank">The Extended ‘Lord of the Rings’ Trilogy Comes Back to Theaters</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-06 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/tim-cook-1280x872.jpg" alt="Apple Is Hemorrhaging Vice Presidents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +300,6 @@
                 <span class="time">2025-12-06 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/ev-charger-1280x853.jpg" alt="RIP, EV: These Electric Vehicles Won’t Make it to 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/rip-ev-these-electric-vehicles-wont-make-it-to-2026-2000694324" target="_blank">RIP, EV: These Electric Vehicles Won’t Make it to 2026</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-06 15:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,22 +314,13 @@
                 <span class="time">2025-12-06 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/05/hot-ones" target="_blank">Hot Ones</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-05 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
