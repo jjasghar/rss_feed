@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-06 08:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-06 09:01:59 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, December 06, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, December 06, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/6/iaea-flags-damage-to-chornobyl-nuclear-plants-protective-shield?traffic_source=rss" target="_blank">IAEA flags damage to Chornobyl nuclear plant’s protective shield in Ukraine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-06 07:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/05/nx-s1-5634897/trump-census-race-categories-ethnicity-middle-east-north-africa" target="_blank">Trump official signals potential rollback of changes to census racial categories</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-05 23:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-maryam-gaza_7102330.jpg?20251205235417" alt="12-year-old girl from Gaza receives vital brain operation after Israeli bombing near her home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/12-year-old-girl-from-gaza-receives-vital-brain-operation-after-israeli-bombing-near-her-home-13479925" target="_blank">12-year-old girl from Gaza receives vital brain operation after Israeli bombing near her home</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-05 23:22</span>
             </div>
         </div>
 </div>
@@ -167,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aerabi/day-6-the-audit-2ak2" target="_blank">Day 6 — The Audit</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-06 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-moralzarzal-k70" target="_blank">Arreglar pinchazos cerca de mi en Moralzarzal</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-06 06:51</span>
@@ -208,15 +217,6 @@
                 <span class="time">2025-12-06 01:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y2p22z9gno" target="_blank">Frank Gehry has died</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-05 21:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,15 +229,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-vampire-squid-genome.html" target="_blank">Friday Squid Blogging: Vampire Squid Genome</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-12-05 22:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html" target="_blank">New Anonymous Phone Service</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-05 08:08</span>
             </div>
         </div>
 </div>
@@ -327,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
