@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-06 19:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-06 20:02:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, December 06, 2025 - 19:01 UTC</div>
+    <div class="newspaper-date">Saturday, December 06, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/06/nx-s1-5635614/waymo-school-buses-recall" target="_blank">Waymo will recall software after its self-driving cars passed stopped school buses</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-06 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/06/gunmen-kill-pretoria-south-african-hostel" target="_blank">Gunmen kill at least 12 people including three-year-old in hostel in South Africa</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-06 19:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +101,20 @@
                 <span class="time">2025-12-06 16:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/6/south-africa-shooting-leaves-12-dead-including-young-child-police?traffic_source=rss" target="_blank">South Africa shooting leaves 12 dead, including young child: Police</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-06 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Ukraine-fire-DB-251206_1765012648315_hpMain_4x3t_384.jpg" alt="US-Ukraine talks on security &#x27;framework&#x27; to continue Saturday, State Department says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/us-ukraine-talks-security-framework-continue-saturday-state/story?id=128167820" target="_blank">US-Ukraine talks on security &#x27;framework&#x27; to continue Saturday, State Department says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-06 14:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/06/is-it-time-to-refound-your-startup/" target="_blank">Is it time to ‘refound’ your startup?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-06 19:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +160,29 @@
                 <span class="time">2025-12-06 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2182963624-500x500.jpg" alt="A massive, Chinese-backed port could push the Amazon Rainforest over the edge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/a-massive-chinese-backed-port-could-push-the-amazon-rainforest-over-the-edge/" target="_blank">A massive, Chinese-backed port could push the Amazon Rainforest over the edge</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-06 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://hypirion.com/musings/use-python-for-scripting" target="_blank">Use Python for Scripting</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-06 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GCC-Patch-AMD-Zen-6-znver6" target="_blank">AMD Starts Enabling Zen 6 &quot;znver6&quot; Compiler Support In GCC</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-06 19:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +219,6 @@
                 <span class="time">2025-12-06 13:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/linux-gui-search-tools/" target="_blank">9 GUI Search Tools for Desktop Linux Users Who Don&#x27;t Want to Use Find, Grep and Xargs Commands</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-12-06 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68ronn20vjzl2xipxzg8.jpg" alt="AWS re:Invent 2025 - Code completion to agents: The evolution of development (DVT405)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kazuya_dev/aws-reinvent-2025-code-completion-to-agents-the-evolution-of-development-dvt405-m2b" target="_blank">AWS re:Invent 2025 - Code completion to agents: The evolution of development (DVT405)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-06 12:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,12 +248,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/trigun-stargaze-hed-1280x853.jpg" alt="The New ‘Trigun Stargaze’ Trailer Gets the Band Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-new-trigun-stargaze-trailer-gets-the-band-together-2000696484" target="_blank">The New ‘Trigun Stargaze’ Trailer Gets the Band Together</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-06 19:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/trump-gives-himself-peace-prize-1280x853.jpg" alt="Trump’s FIFA ‘Peace Prize’ Ceremony Is the New Touching the Orb Meme" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/trumps-fifa-peace-prize-ceremony-is-the-new-touching-the-orb-meme-2000696409" target="_blank">Trump’s FIFA ‘Peace Prize’ Ceremony Is the New Touching the Orb Meme</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-06 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Pansophy-Private-Personal-AI-Desktop-Assistant.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="How to get a personal AI assistant for only $79" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/06/how-to-get-a-personal-ai-assistant-for-only-79.html" target="_blank">How to get a personal AI assistant for only $79</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-06 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -279,24 +299,6 @@
                 <span class="title"><a href="https://gizmodo.com/chamelo-music-shield-review-these-sporty-speaker-glasses-have-one-thing-meta-needs-2000696268" target="_blank">Chamelo Music Shield Review: These Sporty Speaker Glasses Have One Thing Meta Needs</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-06 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Apple-Watch-Charger-with-Built-In-2000mAh-Power-Bank.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This Apple Watch charger keeps your day moving — and is under $20" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/05/this-apple-watch-charger-keeps-your-day-moving-and-is-under-20.html" target="_blank">This Apple Watch charger keeps your day moving — and is under $20</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-06 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Bluey-Quest-for-Gold-Pen-Halfbrick--1280x853.jpg" alt="The Beloved Episodes That Inspired Creator Joe Brumm’s Last ‘Bluey’ Hurrah" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/bluey-gold-pen-game-inspiration-joe-brumm-2000696293" target="_blank">The Beloved Episodes That Inspired Creator Joe Brumm’s Last ‘Bluey’ Hurrah</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-05 23:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
