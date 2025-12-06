@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-06 09:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-06 10:01:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, December 06, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, December 06, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/6/iaea-flags-damage-to-chornobyl-nuclear-plants-protective-shield?traffic_source=rss" target="_blank">IAEA flags damage to Chornobyl nuclear plant’s protective shield in Ukraine</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-06 07:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/847f/live/1b5454c0-d27a-11f0-af1a-a13b3bc97819.jpg" alt="US says progress made at talks with Ukraine on plan to end war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss" target="_blank">US says progress made at talks with Ukraine on plan to end war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-06 07:00</span>
             </div>
         </div>
 <div class="story">
@@ -88,15 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/netflix-announces-deal-to-buy-warner-bros-hbo-max-253858885591" target="_blank">Netflix announces deal to buy Warner Bros., HBO Max</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-06 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/05/nx-s1-5634897/trump-census-race-categories-ethnicity-middle-east-north-africa" target="_blank">Trump official signals potential rollback of changes to census racial categories</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-05 23:51</span>
             </div>
         </div>
 </div>
@@ -167,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shahrouzlogs/day-56-python-fibonacci-nth-term-blazing-fast-on-iterative-solution-with-o1-space-no-4d02" target="_blank">Day 56: Python Fibonacci nth Term – Blazing Fast O(n) Iterative Solution with O(1) Space (No Recursion!)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-06 09:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aerabi/day-6-the-audit-2ak2" target="_blank">Day 6 — The Audit</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-06 09:00</span>
@@ -206,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Brendan-Gregg-Leaves-Intel" target="_blank">An Intel Fellow &amp; Prominent Linux Performance Engineer Resigns From Intel</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-06 01:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/renzo_fernandoloyolavil/secure-your-python-app-using-bandit-as-a-sast-tool-1ofm" target="_blank">Secure Your Python App Using Bandit as a SAST Tool</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-06 01:18</span>
             </div>
         </div>
 </div>
@@ -318,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
