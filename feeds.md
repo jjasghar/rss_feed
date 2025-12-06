@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-06 20:02:10 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-06 21:01:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, December 06, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, December 06, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1230/live/b8babfd0-d2dc-11f0-a892-01d657345866.jpg" alt="Zelensky signals progress in talks with US on peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky signals progress in talks with US on peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-06 20:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +98,6 @@
                 <span class="title"><a href="https://news.sky.com/story/gaza-ceasefire-negotiations-at-critical-moment-says-qatar-pm-13480180" target="_blank">Gaza ceasefire negotiations at &#x27;critical moment&#x27;, says Qatar PM as seven more killed in Gaza</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-12-06 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11fb/live/f776d7c0-d2c0-11f0-9a50-7beb4a0b24cf.jpg" alt="Russia hits Ukraine as US reports progress in talks with Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss" target="_blank">Russia hits Ukraine as US reports progress in talks with Kyiv</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-06 16:03</span>
             </div>
         </div>
 </div>
@@ -166,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3064224%2F51ff6fb7-5f5b-4ee3-80be-52b8264243b3.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jvcaballero1976/-3nb" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-06 20:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
@@ -210,15 +218,6 @@
                 <span class="time">2025-12-06 14:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-SoCs" target="_blank">Tenstorrent Blackhole Support &amp; Other New RISC-V + ARM64 Hardware In Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-06 13:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/tim-cook-1280x872.jpg" alt="Apple Is Hemorrhaging Vice Presidents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apple-is-hemorrhaging-vice-presidents-2000696487" target="_blank">Apple Is Hemorrhaging Vice Presidents</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-06 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/trump-ear.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Trump finally gets a peace prize from the one organization corrupt enough to invent one for him" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/06/trump-finally-gets-a-peace-prize-from-the-one-organization-corrupt-enough-to-invent-one-for-him.html" target="_blank">Trump finally gets a peace prize from the one organization corrupt enough to invent one for him</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-06 20:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/trigun-stargaze-hed-1280x853.jpg" alt="The New ‘Trigun Stargaze’ Trailer Gets the Band Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +300,6 @@
                 <span class="time">2025-12-06 15:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/amazon-echo-dot-2022-1280x853.jpg" alt="Echo Dot Goes for Peanuts, Amazon Sells Alexa Speakers Cheap Enough for Every Home to Own One" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/echo-dot-goes-for-peanuts-amazon-sells-alexa-speakers-cheap-enough-for-every-home-to-own-one-2000651143" target="_blank">Echo Dot Goes for Peanuts, Amazon Sells Alexa Speakers Cheap Enough for Every Home to Own One</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-06 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/chamelo-music-shield-03-1280x853.jpg" alt="Chamelo Music Shield Review: These Sporty Speaker Glasses Have One Thing Meta Needs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/chamelo-music-shield-review-these-sporty-speaker-glasses-have-one-thing-meta-needs-2000696268" target="_blank">Chamelo Music Shield Review: These Sporty Speaker Glasses Have One Thing Meta Needs</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-06 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
