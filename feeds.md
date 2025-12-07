@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-07 08:01:46 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-07 09:01:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, December 07, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, December 07, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -170,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/siliconcatalyst/discover-officeforge-enhance-microsoft-office-with-open-source-automation-2cci" target="_blank">Discover OfficeForge: Enhance Microsoft Office with Open-Source Automation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-07 08:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/marcosomma/binary-weighted-evaluationshow-to-1a1p" target="_blank">Binary weighted evaluations...how to</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-07 07:44</span>
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://rfd.shared.oxide.computer/rfd/0576" target="_blank">Using LLMs at Oxide</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-07 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhqib6fubjhee1xqe31zy.png" alt="🚀 Best Free &amp; Open Source Flutter Admin Dashboard Template for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/teranes_ranjith_10/the-ultimate-open-source-flutter-toolkit-for-data-heavy-admin-dashboards-4h4o" target="_blank">🚀 Best Free &amp; Open Source Flutter Admin Dashboard Template for 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-06 22:42</span>
             </div>
         </div>
 </div>
@@ -312,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
