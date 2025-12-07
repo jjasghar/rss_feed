@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-07 09:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-07 10:01:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, December 07, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, December 07, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/07/nx-s1-5636558/soldiers-announce-apparent-military-coup-in-benin" target="_blank">Soldiers announce apparent military coup in Benin</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-07 09:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/7/mohamed-salah-claims-he-has-been-thrown-under-the-bus-by-liverpool?traffic_source=rss" target="_blank">Mohamed Salah claims he has been ‘thrown under the bus’ by Liverpool</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-07 09:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c5/live/41f760e0-d324-11f0-a892-01d657345866.jpg" alt="Staff and tourists among 25 killed in Goa nightclub fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss" target="_blank">Staff and tourists among 25 killed in Goa nightclub fire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-07 08:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,33 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss" target="_blank">LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-07 05:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1230/live/b8babfd0-d2dc-11f0-a892-01d657345866.jpg" alt="Ukrainian city hit by &#x27;massive&#x27; strike as peace talks in US conclude" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss" target="_blank">Ukrainian city hit by &#x27;massive&#x27; strike as peace talks in US conclude</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-07 05:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/7/seventeen-people-found-dead-in-boat-off-of-greeces-crete?traffic_source=rss" target="_blank">Bodies of 17 people found in boat off of Greece’s Crete</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-07 02:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/06/g-s1-101092/migrants-shipwreck-crete-greece" target="_blank">At least 18 migrants die after boat sinks near Greek island of Crete</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-07 02:02</span>
             </div>
         </div>
 </div>
@@ -170,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/icolomina/from-blockchain-to-database-synchronizing-soroban-with-php-454k" target="_blank">From Blockchain to Database: Synchronizing Soroban with PHP</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-07 09:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/siliconcatalyst/discover-officeforge-enhance-microsoft-office-with-open-source-automation-2cci" target="_blank">Discover OfficeForge: Enhance Microsoft Office with Open-Source Automation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-07 08:39</span>
@@ -211,15 +216,6 @@
                 <span class="time">2025-12-07 01:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://rfd.shared.oxide.computer/rfd/0576" target="_blank">Using LLMs at Oxide</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-07 01:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/digital-mouth-1280x853.jpg" alt="Evidence That Humans Now Speak in a Chatbot-Influenced Dialect Is Getting Stronger" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/chatbot-dialect-2000696509" target="_blank">Evidence That Humans Now Speak in a Chatbot-Influenced Dialect Is Getting Stronger</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-07 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Koofr-Cloud-Storage.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Pay once for 1TB of cloud storage for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +289,6 @@
                 <span class="time">2025-12-06 20:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/trigun-stargaze-hed-1280x853.jpg" alt="The New ‘Trigun Stargaze’ Trailer Gets the Band Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-new-trigun-stargaze-trailer-gets-the-band-together-2000696484" target="_blank">The New ‘Trigun Stargaze’ Trailer Gets the Band Together</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-06 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
