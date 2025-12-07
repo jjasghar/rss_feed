@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-07 12:02:13 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-07 13:07:18 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, December 07, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, December 07, 2025 - 13:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/12/7/child-mortality-rates-affected-by-cuts-to-aid?traffic_source=rss" target="_blank">Child mortality rates affected by “cuts to aid budgets”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-07 12:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d097/live/da61c930-d363-11f0-a892-01d657345866.png" alt="Young people to lose benefits if they turn down work, says minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqlke33rzplo?at_medium=RSS&at_campaign=rss" target="_blank">Young people to lose benefits if they turn down work, says minister</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-07 12:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/ukraine-main_1765107166906_hpMain_4x3t_384.jpg" alt="2 killed as Russian overnight attack hits infrastructure in Ukraine, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +102,20 @@
                 <span class="time">2025-12-07 10:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/07/nx-s1-5636558/soldiers-announce-apparent-military-coup-in-benin" target="_blank">Soldiers announce apparent military coup in Benin</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-07 09:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/7/mohamed-salah-claims-he-has-been-thrown-under-the-bus-by-liverpool?traffic_source=rss" target="_blank">Mohamed Salah claims he has been ‘thrown under the bus’ by Liverpool</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-07 09:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1498905251-500x500.jpg" alt="Why is my dog like this? Current DNA tests won’t explain it to you." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/why-is-my-dog-like-this-current-dna-tests-wont-explain-it-to-you/" target="_blank">Why is my dog like this? Current DNA tests won’t explain it to you.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-07 12:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6933586091c1fe7567fc95b5/master/pass/What%20Are%20Gravel%20Running%20Shoes%20122025%20Top%20Art%20SOURCE%20REI_Hoka.jpg" alt="What Are Gravel Running Shoes? (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,15 +161,6 @@
                 <span class="time">2025-12-06 21:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave" target="_blank">Apple’s chip chief might be the next exec to leave</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-06 19:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +173,15 @@
                 <span class="title"><a href="https://dev.to/drift_42_3e6b9ee4b81a41d3/the-invisible-bonds-understanding-hatreds-deep-roots-bjg" target="_blank">The Invisible Bonds: Understanding Hatred’s Deep Roots</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-07 11:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html" target="_blank">Java Hello World, LLVM Edition</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-07 11:51</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/icolomina/from-blockchain-to-database-synchronizing-soroban-with-php-454k" target="_blank">From Blockchain to Database: Synchronizing Soroban with PHP</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-07 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/siliconcatalyst/discover-officeforge-enhance-microsoft-office-with-open-source-automation-2cci" target="_blank">Discover OfficeForge: Enhance Microsoft Office with Open-Source Automation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-07 08:39</span>
             </div>
         </div>
 </div>
@@ -312,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 13:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
