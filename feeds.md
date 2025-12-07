@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-07 07:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-07 08:01:46 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, December 07, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, December 07, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/07/nx-s1-5636547/a-fire-at-a-popular-nightclub-in-indias-goa-state-kills-at-least-25-officials-say" target="_blank">A fire at a popular nightclub in India&#x27;s Goa state kills at least 25, officials say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-07 07:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/7/wfp-warns-of-massive-humanitarian-aid-crisis-in-sudan-as-war-rages?traffic_source=rss" target="_blank">WFP warns of ‘massive’ humanitarian aid crisis in Sudan as war rages</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-07 07:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/06/g-s1-101092/migrants-shipwreck-crete-greece" target="_blank">At least 18 migrants die after boat sinks near Greek island of Crete</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-07 02:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/2248584558_1765063886964_hpMain_4x3t_384.jpg" alt="$11M Southwest Airlines fine waived by DOT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/11m-southwest-airlines-fine-waived-dot/story?id=128178481" target="_blank">$11M Southwest Airlines fine waived by DOT</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-07 01:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765064509154_wnn_jts_hegsethvowsmoreboatstrikesinCaribbean_251206_1920x1080-l3ujr1.jpg" alt="Hegseth vows more U.S. boat strikes as Pentagon faces growing scrutiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/hegseth-vows-more-u-s-boat-strikes-as-pentagon-faces-growing-scrutiny-253903941911" target="_blank">Hegseth vows more U.S. boat strikes as Pentagon faces growing scrutiny</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-06 23:41</span>
             </div>
         </div>
 </div>
@@ -166,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marcosomma/binary-weighted-evaluationshow-to-1a1p" target="_blank">Binary weighted evaluations...how to</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-07 07:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/potheesh_15a42ffee19e/winning-ai-challenge-for-cross-platform-apps-with-aromahave-5cci" target="_blank">Winning AI Challenge for Cross-Platform Apps with Aroma_Have</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-07 03:43</span>
@@ -205,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/teranes_ranjith_10/the-ultimate-open-source-flutter-toolkit-for-data-heavy-admin-dashboards-4h4o" target="_blank">🚀 Best Free &amp; Open Source Flutter Admin Dashboard Template for 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-06 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RAMDAX-NVDIMM-Merged-Linux-6.19" target="_blank">Microsoft&#x27;s RAMDAX Driver Merged For Linux 6.19 To Carve Out RAM As NVDIMM Devices</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-06 21:00</span>
             </div>
         </div>
 </div>
@@ -308,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
