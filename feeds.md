@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-07 18:02:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-07 19:01:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, December 07, 2025 - 18:02 UTC</div>
+    <div class="newspaper-date">Sunday, December 07, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/7/acclaimed-british-photographer-martin-parr-dies-aged-73?traffic_source=rss" target="_blank">Acclaimed British photographer Martin Parr dies aged 73</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-07 18:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/ThisWeek/adam_smith_this-week-abc-bh-251207_1765121978186_hpMain_4x3t_384.jpg" alt="Top Armed Services Dem says Sept. 2 strike video would show GOP’s description ‘false’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/sport/formula1/articles/czrk61y2nyjo?at_medium=RSS&at_campaign=rss" target="_blank">Briton Norris wins his first F1 title in Abu Dhabi</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-07 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/7/the-fragile-fight-for-justice-in-a-post-assad-syria?traffic_source=rss" target="_blank">The fragile fight for justice in a post-Assad Syria</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-07 14:45</span>
             </div>
         </div>
 </div>
@@ -172,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/" target="_blank">I Tried and Failed to Rebuild the 1996 Space Jam Website with Claude</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-07 17:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/saidmounaim/building-a-headless-store-with-nextjs-16-and-shopify-api-4725" target="_blank">Building a Headless Store with Next.js 16 and Shopify API</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +215,6 @@
                 <span class="time">2025-12-07 11:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html" target="_blank">Java Hello World, LLVM Edition</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-07 11:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -226,6 +227,15 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/07/masked-agents-chased-the-wrong-woman-and-dhs-says-the-system-worked.html" target="_blank">Masked agents chased the wrong woman and DHS says the system worked</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-07 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/starfleet-academy-giamatti-1280x853.jpg" alt="A New ‘Starfleet Academy’ Clip Lets Paul Giamatti Go Wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-new-starfleet-academy-clip-lets-paul-giamatti-go-wild-2000696525" target="_blank">A New ‘Starfleet Academy’ Clip Lets Paul Giamatti Go Wild</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-07 17:25</span>
             </div>
         </div>
 <div class="story">
@@ -264,15 +274,6 @@
                 <span class="time">2025-12-07 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Plantum.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Become a genius at plants for $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/06/become-a-genius-at-plants-for-15.html" target="_blank">Become a genius at plants for $15</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-06 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
