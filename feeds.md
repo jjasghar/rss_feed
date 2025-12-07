@@ -1,21 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-07 15:01:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-12-07 16:01:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
@@ -24,10 +37,11 @@
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 38 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, December 07, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, December 07, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +57,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/188a/live/be3986b0-d379-11f0-a07d-73b3b022f974.png" alt="New US security strategy aligns with Russia&#x27;s vision, Moscow says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpvd01g2kwwo?at_medium=RSS&at_campaign=rss" target="_blank">New US security strategy aligns with Russia&#x27;s vision, Moscow says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-07 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/07/nx-s1-5636627/mclaren-lando-norris-wins-first-formula-1-title-at-abu-dhabi" target="_blank">McLaren&#x27;s Lando Norris wins first F1 title at season-ending Abu Dhabi Grand Prix</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-07 15:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +111,38 @@
                 <span class="time">2025-12-07 12:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d097/live/da61c930-d363-11f0-a892-01d657345866.png" alt="Young people to lose benefits if they turn down work, says minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqlke33rzplo?at_medium=RSS&at_campaign=rss" target="_blank">Young people to lose benefits if they turn down work, says minister</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-07 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/ukraine-main_1765107166906_hpMain_4x3t_384.jpg" alt="2 killed as Russian overnight attack hits infrastructure in Ukraine, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/2-killed-russian-overnight-attack-hits-infrastructure-ukraine/story?id=128183253" target="_blank">2 killed as Russian overnight attack hits infrastructure in Ukraine, officials say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-07 11:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/07/coinbase-starts-onboarding-users-again-in-india-plans-for-fiat-on-ramp-for-next-year/" target="_blank">Coinbase starts onboarding users again in India, plans for fiat on-ramp next year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-07 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast" target="_blank">A very human vision for going all-in on AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-07 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685f5f45da7e3e9cf68b1427/master/pass/Best%20Printers_.png" alt="The Best Printers for Home and Office: Brother, HP, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-printers/" target="_blank">The Best Printers for Home and Office: Brother, HP, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-07 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1498905251-500x500.jpg" alt="Why is my dog like this? Current DNA tests won’t explain it to you." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,38 +170,38 @@
                 <span class="time">2025-12-07 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/06/pat-gelsinger-wants-to-save-moores-law-with-a-little-help-from-the-feds/" target="_blank">Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-07 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69316737bae73f21e0de4542/master/pass/AIIntuitsPhysics-crKristinaArmitage-Lede-scaled.jpeg" alt="This AI Model Can Intuit How the Physical World Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/" target="_blank">This AI Model Can Intuit How the Physical World Works</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-07 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/06/meta-reportedly-delays-mixed-reality-glasses-until-2027/" target="_blank">Meta reportedly delays mixed reality glasses until 2027</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-06 21:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saidmounaim/building-a-headless-store-with-nextjs-16-and-shopify-api-4725" target="_blank">Building a Headless Store with Next.js 16 and Shopify API</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-07 15:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://tech.stonecharioteer.com/posts/2025/kollector/" target="_blank">KOllector - Publishing KOReader Highlights</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-07 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gptzero.me/news/iclr-2026/" target="_blank">At least 50 hallucinated citations found in ICLR 2026 submissions</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-07 13:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,33 +227,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-USB3-Apple-M1" target="_blank">Linux 6.19 Delivers Working USB3 Support For Apple Silicon Devices</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-07 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/aws-codecommit-ga/en/headerimage/generatedHeaderImage-1764562743488.jpg" alt="AWS CodeCommit Returns to General Availability After Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/aws-codecommit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS CodeCommit Returns to General Availability After Backlash</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-07 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arunkrish11/sync-any-linux-folder-to-google-drive-using-rclone-systemd-8d2" target="_blank">Sync any Linux folder to Google drive using Rclone + systemd.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-07 10:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/icolomina/from-blockchain-to-database-synchronizing-soroban-with-php-454k" target="_blank">From Blockchain to Database: Synchronizing Soroban with PHP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-07 09:49</span>
             </div>
         </div>
 </div>
@@ -293,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
