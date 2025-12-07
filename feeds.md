@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-07 14:01:40 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-07 15:01:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, December 07, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, December 07, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/7/the-fragile-fight-for-justice-in-a-post-assad-syria?traffic_source=rss" target="_blank">The fragile fight for justice in a post-Assad Syria</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-07 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/439c/live/570e08d0-d374-11f0-81cd-9d4cefdadbf4.jpg" alt="Rayner will make return to cabinet, says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7vmlmm9343o?at_medium=RSS&at_campaign=rss" target="_blank">Rayner will make return to cabinet, says Starmer</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-07 14:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/2-killed-russian-overnight-attack-hits-infrastructure-ukraine/story?id=128183253" target="_blank">2 killed as Russian overnight attack hits infrastructure in Ukraine, officials say</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-07 11:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/7/drone-strike-on-sudan-preschool-by-rsf-and-ally-kills-dozens-of-children?traffic_source=rss" target="_blank">Drone strike on Sudan preschool by RSF and ally kills dozens of children</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-07 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/07/nx-s1-5619794/maps-globes-maine-library" target="_blank">From 400-year-old globes to cosmic shrouds: A Maine library brings maps to life</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-07 11:00</span>
             </div>
         </div>
 </div>
@@ -224,20 +217,6 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/" target="_blank">Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-12-06 14:45</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
@@ -314,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
