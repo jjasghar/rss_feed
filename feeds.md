@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-07 19:01:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-07 20:01:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, December 07, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, December 07, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/07/nx-s1-5636662/hegseth-venezuela-boat-strike-video" target="_blank">Defense Department is reviewing boat strike video for possible release, Hegseth says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-07 19:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/07/nx-s1-5636627/mclaren-lando-norris-wins-first-formula-1-title-at-abu-dhabi" target="_blank">McLaren&#x27;s Lando Norris wins first F1 title at season-ending Abu Dhabi Grand Prix</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-07 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b55/live/c7644c90-d37c-11f0-8662-d7149f9b6abf.jpg" alt="Briton Norris wins his first F1 title in Abu Dhabi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/sport/formula1/articles/czrk61y2nyjo?at_medium=RSS&at_campaign=rss" target="_blank">Briton Norris wins his first F1 title in Abu Dhabi</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-07 15:07</span>
             </div>
         </div>
 </div>
@@ -165,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GPIB-De-Staged-Linux-6.19" target="_blank">Linux GPIB Drivers Declared Stable - 53 Years After HP Introduced The Bus</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-07 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-PCIe-Link-Encrypt" target="_blank">Linux 6.19 Introduces PCIe Link Encryption &amp; Device Authentication, AMD SEV-TIO Enabling</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-07 17:26</span>
@@ -206,20 +218,20 @@
                 <span class="time">2025-12-07 13:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/drift_42_3e6b9ee4b81a41d3/the-invisible-bonds-understanding-hatreds-deep-roots-bjg" target="_blank">The Invisible Bonds: Understanding Hatred’s Deep Roots</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-07 11:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/scream-billy-1280x853.jpg" alt="Skeet Ulrich Reveals the ‘Scream’ Reboots’ Original Endgame" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/skeet-ulrich-reveals-the-scream-reboots-original-endgame-2000696549" target="_blank">Skeet Ulrich Reveals the ‘Scream’ Reboots’ Original Endgame</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-07 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/noem-1.jpg?fit=1200%2C799&amp;quality=60&amp;ssl=1" alt="Masked agents chased the wrong woman and DHS says the system worked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +277,6 @@
                 <span class="time">2025-12-07 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Koofr-Cloud-Storage.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Pay once for 1TB of cloud storage for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/06/pay-once-for-1tb-of-cloud-storage-for-life.html" target="_blank">Pay once for 1TB of cloud storage for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-07 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
