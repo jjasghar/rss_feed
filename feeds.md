@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-07 00:05:45 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-12-07 01:29:51 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, December 07, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, December 07, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/2248584558_1765063886964_hpMain_4x3t_384.jpg" alt="$11M Southwest Airlines fine waived by DOT" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/11m-southwest-airlines-fine-waived-dot/story?id=128178481" target="_blank">$11M Southwest Airlines fine waived by DOT</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-07 01:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765064509154_wnn_jts_hegsethvowsmoreboatstrikesinCaribbean_251206_1920x1080-l3ujr1.jpg" alt="Hegseth vows more U.S. boat strikes as Pentagon faces growing scrutiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/hegseth-vows-more-u-s-boat-strikes-as-pentagon-faces-growing-scrutiny-253903941911" target="_blank">Hegseth vows more U.S. boat strikes as Pentagon faces growing scrutiny</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-06 23:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/06/g-s1-101090/national-parks-fee-free-calendar-mlk-juneteenth" target="_blank">National parks fee-free calendar drops MLK Day, Juneteenth and adds Trump&#x27;s birthday</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-06 22:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1230/live/b8babfd0-d2dc-11f0-a892-01d657345866.jpg" alt="Zelensky signals progress in talks with US on peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,38 +102,20 @@
                 <span class="time">2025-12-06 19:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/6/jaiswal-ton-kohlis-form-help-india-beat-south-africa-in-odi-series?traffic_source=rss" target="_blank">Jaiswal ton, Kohli’s form help India beat South Africa in ODI series</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-06 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss" target="_blank">Syria’s al-Sharaa promises peace and unity in face of Israeli aggression</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-06 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-qatar-forum_7103052.jpg?20251206175756" alt="Gaza ceasefire negotiations at &#x27;critical moment&#x27;, says Qatar PM as seven more killed in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/gaza-ceasefire-negotiations-at-critical-moment-says-qatar-pm-13480180" target="_blank">Gaza ceasefire negotiations at &#x27;critical moment&#x27;, says Qatar PM as seven more killed in Gaza</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-06 16:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/06/pat-gelsinger-wants-to-save-moores-law-with-a-little-help-from-the-feds/" target="_blank">Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-07 00:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69316737bae73f21e0de4542/master/pass/AIIntuitsPhysics-crKristinaArmitage-Lede-scaled.jpeg" alt="This AI Model Can Intuit How the Physical World Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +161,20 @@
                 <span class="time">2025-12-06 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google" target="_blank">The tech world is sleeping on the most exciting Bluetooth feature in years</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-06 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Terminus-10x18-Console-Linux" target="_blank">Linux 6.19 Adds New Console Font To Better Handle Modern Laptops With HiDPI Displays</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-07 01:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhqib6fubjhee1xqe31zy.png" alt="🚀 Best Free &amp; Open Source Flutter Admin Dashboard Template for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,15 +220,6 @@
                 <span class="time">2025-12-06 19:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hkarimi/hello-dev-community-im-new-here-ln2" target="_blank">👋 Hello Dev Community — I’m New Here!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-06 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Plantum.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Become a genius at plants for $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/06/become-a-genius-at-plants-for-15.html" target="_blank">Become a genius at plants for $15</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-06 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/lord-of-the-rings-1280x853.jpg" alt="The Extended ‘Lord of the Rings’ Trilogy Comes Back to Theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +293,6 @@
                 <span class="time">2025-12-06 16:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Pansophy-Private-Personal-AI-Desktop-Assistant.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="How to get a personal AI assistant for only $79" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/06/how-to-get-a-personal-ai-assistant-for-only-79.html" target="_blank">How to get a personal AI assistant for only $79</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-06 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
