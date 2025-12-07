@@ -1,39 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-12-07 22:01:24 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-12-07 23:01:47 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, December 07, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, December 07, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/07/nx-s1-5636130/satellite-reflected-light-telescope-images-hubble-starlink" target="_blank">Light from satellites will ruin majority of some space telescope images, study says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-07 22:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/07/release-secured-of-100-kidnapped-nigerian-schoolchildren-but-many-still-being-held" target="_blank">Nigerian state secures release of 100 out of 265 kidnapped schoolchildren</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-07 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +90,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/7/acclaimed-british-photographer-martin-parr-dies-aged-73?traffic_source=rss" target="_blank">Acclaimed British photographer Martin Parr dies aged 73</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-07 18:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/ThisWeek/adam_smith_this-week-abc-bh-251207_1765121978186_hpMain_4x3t_384.jpg" alt="Top Armed Services Dem says Sept. 2 strike video would show GOP’s description ‘false’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/top-armed-services-dem-sept-2-strike-video/story?id=128185897" target="_blank">Top Armed Services Dem says Sept. 2 strike video would show GOP’s description ‘false’</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-07 16:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/featured-documentaries/2025/12/7/the-road-to-damascus-2?traffic_source=rss" target="_blank">The Road to Damascus</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-07 16:30</span>
             </div>
         </div>
 </div>
@@ -227,6 +216,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/dead-space-hed2-1280x853.jpg" alt="RIP, ‘Dead Space’….Again (2008-2023)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rip-dead-space-again-2000696495" target="_blank">RIP, ‘Dead Space’….Again (2008-2023)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-07 21:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/samus.jpg?fit=1080%2C635&amp;quality=60&amp;ssl=1" alt="Metroid Prime 4&#x27;s silent world requires expensive amiibo to fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -271,15 +269,6 @@
                 <span class="time">2025-12-07 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/samsung-odyssey-g7-09-1280x853.jpg" alt="Samsung’s 40-Inch Odyssey G7 Monitor Is Big on Immersion and Trade-offs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/samsung-odyssey-g7-review-40-inch-gaming-monitor-big-immersion-tradeoffs-2000696302" target="_blank">Samsung’s 40-Inch Odyssey G7 Monitor Is Big on Immersion and Trade-offs</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-07 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
