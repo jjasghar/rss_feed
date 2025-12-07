@@ -1,47 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-07 16:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-07 17:01:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 38 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, December 07, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, December 07, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/ThisWeek/adam_smith_this-week-abc-bh-251207_1765121978186_hpMain_4x3t_384.jpg" alt="Top Armed Services Dem says Sept. 2 strike video would show GOP’s description ‘false’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/top-armed-services-dem-sept-2-strike-video/story?id=128185897" target="_blank">Top Armed Services Dem says Sept. 2 strike video would show GOP’s description ‘false’</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-07 16:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/featured-documentaries/2025/12/7/the-road-to-damascus-2?traffic_source=rss" target="_blank">The Road to Damascus</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-07 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/188a/live/be3986b0-d379-11f0-a07d-73b3b022f974.png" alt="New US security strategy aligns with Russia&#x27;s vision, Moscow says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b55/live/c7644c90-d37c-11f0-8662-d7149f9b6abf.jpg" alt="Briton Norris wins his first F1 title in Abu Dhabi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/sport/formula1/articles/czrk61y2nyjo?at_medium=RSS&at_campaign=rss" target="_blank">Briton Norris wins his first F1 title in Abu Dhabi</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-07 15:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -84,38 +95,20 @@
                 <span class="time">2025-12-07 14:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/439c/live/570e08d0-d374-11f0-81cd-9d4cefdadbf4.jpg" alt="Rayner will make return to cabinet, says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7vmlmm9343o?at_medium=RSS&at_campaign=rss" target="_blank">Rayner will make return to cabinet, says Starmer</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-07 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/07/g-s1-100390/pigeons-mumbai-india-public-health-jains" target="_blank">A ban on feeding pigeons ruffles lots of feathers in Mumbai</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-07 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/12/7/child-mortality-rates-affected-by-cuts-to-aid?traffic_source=rss" target="_blank">Child mortality rates affected by “cuts to aid budgets”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-07 12:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/07/the-accelerator-is-on-the-floor-for-autonomous-vehicles/" target="_blank">The accelerator is on the floor for autonomous vehicles</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-07 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -159,15 +152,6 @@
                 <span class="title"><a href="https://www.wired.com/story/what-are-gravel-running-shoes/" target="_blank">What Are Gravel Running Shoes? (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-07 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6932f837b3d2a50803f6fea1/master/pass/apple-highlights-from-wwdc2019-john-ternus-introduces-new-mac-pro-06031.jpg" alt="As Key Talent Abandons Apple, Meet the New Generation of Leaders Taking On the Old Guard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/can-hardware-guy-john-ternus-revive-apple-with-this-new-gen-of-design-and-ai-chiefs/" target="_blank">As Key Talent Abandons Apple, Meet the New Generation of Leaders Taking On the Old Guard</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-07 10:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +219,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/the-boys-homelander-1280x853.jpg" alt="‘The Boys’ Will Supe It Up One Last Time in April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-boys-will-supe-it-up-one-last-time-in-april-2026-2000696511" target="_blank">‘The Boys’ Will Supe It Up One Last Time in April 2026</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-07 15:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/samsung-odyssey-g7-09-1280x853.jpg" alt="Samsung’s 40-Inch Odyssey G7 Monitor Is Big on Immersion and Trade-offs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -279,27 +272,18 @@
                 <span class="time">2025-12-06 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/tim-cook-1280x872.jpg" alt="Apple Is Hemorrhaging Vice Presidents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apple-is-hemorrhaging-vice-presidents-2000696487" target="_blank">Apple Is Hemorrhaging Vice Presidents</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-06 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1764990140-20251206_edit.png" alt="Saturday Morning Breakfast Cereal - Steinbach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1764990791-20251207_edit.png" alt="Saturday Morning Breakfast Cereal - Dunno" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/steinbach" target="_blank">Saturday Morning Breakfast Cereal - Steinbach</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/dunno-2" target="_blank">Saturday Morning Breakfast Cereal - Dunno</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-06 16:20</span>
+                <span class="time">2025-12-07 16:20</span>
             </div>
         </div>
 </div>
@@ -307,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
