@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-07 21:01:22 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-07 22:01:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, December 07, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, December 07, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/07/nx-s1-5633344/the-hepatitis-b-foundation-warns-new-guidance-could-undo-decades-of-progress" target="_blank">The Hepatitis B Foundation warns new guidance could undo decades of progress</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-07 21:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/featured-documentaries/2025/12/7/the-road-to-damascus-2?traffic_source=rss" target="_blank">The Road to Damascus</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-07 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/188a/live/be3986b0-d379-11f0-a07d-73b3b022f974.png" alt="New US security strategy aligns with Russia&#x27;s vision, Moscow says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpvd01g2kwwo?at_medium=RSS&at_campaign=rss" target="_blank">New US security strategy aligns with Russia&#x27;s vision, Moscow says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-07 15:55</span>
             </div>
         </div>
 </div>
@@ -169,6 +170,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/halakabir234hub/what-exactly-is-a-function-in-python-and-why-devs-love-them-3dc6" target="_blank">What *Exactly* Is a Function in Python? (And Why Devs Love Them!)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-07 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.stroustrup.com/JSF-AV-rules.pdf" target="_blank">F-35 Fighter Jet&#x27;s C++ Coding Standards [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-07 21:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GPIB-De-Staged-Linux-6.19" target="_blank">Linux GPIB Drivers Declared Stable - 53 Years After HP Introduced The Bus</a></span>
                 <span class="feed">Phoronix</span>
@@ -200,24 +219,6 @@
                 <span class="title"><a href="https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/" target="_blank">I Tried and Failed to Rebuild the 1996 Space Jam Website with Claude</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-07 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/saidmounaim/building-a-headless-store-with-nextjs-16-and-shopify-api-4725" target="_blank">Building a Headless Store with Next.js 16 and Shopify API</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-07 15:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://tech.stonecharioteer.com/posts/2025/kollector/" target="_blank">KOllector - Publishing KOReader Highlights</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-07 15:02</span>
             </div>
         </div>
 </div>
@@ -298,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
