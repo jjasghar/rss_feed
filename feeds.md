@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-07 20:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-07 21:01:22 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, December 07, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, December 07, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/7/gritty-palestine-enter-arab-cup-quarters-as-favourites-qatar-crash-out?traffic_source=rss" target="_blank">Gritty Palestine enter Arab Cup quarters as favourites Qatar crash out</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-07 20:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +102,29 @@
                 <span class="time">2025-12-07 15:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/07/nx-s1-5636627/mclaren-lando-norris-wins-first-formula-1-title-at-abu-dhabi" target="_blank">McLaren&#x27;s Lando Norris wins first F1 title at season-ending Abu Dhabi Grand Prix</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-07 15:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/839742/x-cuts-off-the-european-commissions-ad-account" target="_blank">X cuts off the European Commission’s ad account after being fined €120 million</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-07 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/07/netflix-co-ceo-reportedly-discussed-warner-bros-deal-with-trump/" target="_blank">Netflix co-CEO reportedly discussed Warner Bros. deal with Trump</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-07 20:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +161,6 @@
                 <span class="time">2025-12-07 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1498905251-500x500.jpg" alt="Why is my dog like this? Current DNA tests won’t explain it to you." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/why-is-my-dog-like-this-current-dna-tests-wont-explain-it-to-you/" target="_blank">Why is my dog like this? Current DNA tests won’t explain it to you.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-07 12:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6933586091c1fe7567fc95b5/master/pass/What%20Are%20Gravel%20Running%20Shoes%20122025%20Top%20Art%20SOURCE%20REI_Hoka.jpg" alt="What Are Gravel Running Shoes? (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-are-gravel-running-shoes/" target="_blank">What Are Gravel Running Shoes? (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-07 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +173,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GPIB-De-Staged-Linux-6.19" target="_blank">Linux GPIB Drivers Declared Stable - 53 Years After HP Introduced The Bus</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-07 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://thorsell.io/2025/12/07/estimates.html" target="_blank">Estimates are difficult for developers and product owners</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-07 19:17</span>
             </div>
         </div>
 <div class="story">
@@ -209,20 +220,20 @@
                 <span class="time">2025-12-07 15:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gptzero.me/news/iclr-2026/" target="_blank">At least 50 hallucinated citations found in ICLR 2026 submissions</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-07 13:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/samus.jpg?fit=1080%2C635&amp;quality=60&amp;ssl=1" alt="Metroid Prime 4&#x27;s silent world requires expensive amiibo to fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/07/metroid-prime-4s-silent-world-requires-expensive-amiibo-to-fix.html" target="_blank">Metroid Prime 4&#x27;s silent world requires expensive amiibo to fix</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-07 19:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/scream-billy-1280x853.jpg" alt="Skeet Ulrich Reveals the ‘Scream’ Reboots’ Original Endgame" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +279,6 @@
                 <span class="time">2025-12-07 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/digital-mouth-1280x853.jpg" alt="Evidence That Humans Now Speak in a Chatbot-Influenced Dialect Is Getting Stronger" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/chatbot-dialect-2000696509" target="_blank">Evidence That Humans Now Speak in a Chatbot-Influenced Dialect Is Getting Stronger</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-07 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
