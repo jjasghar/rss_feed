@@ -1,33 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-12-06 23:01:59 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-12-07 00:05:45 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, December 06, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, December 07, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,12 +99,30 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69316737bae73f21e0de4542/master/pass/AIIntuitsPhysics-crKristinaArmitage-Lede-scaled.jpeg" alt="This AI Model Can Intuit How the Physical World Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/" target="_blank">This AI Model Can Intuit How the Physical World Works</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-07 00:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/06/meta-reportedly-delays-mixed-reality-glasses-until-2027/" target="_blank">Meta reportedly delays mixed reality glasses until 2027</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-06 21:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave" target="_blank">Apple’s chip chief might be the next exec to leave</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-06 19:55</span>
             </div>
         </div>
 <div class="story">
@@ -136,24 +150,6 @@
                 <span class="title"><a href="https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google" target="_blank">The tech world is sleeping on the most exciting Bluetooth feature in years</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-06 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/693363e48cd59e298478dedb/master/pass/Netflix-Movie-Guide-Troll2-Culture-MCDTRTW_ZX015.jpg" alt="The 46 Best Movies on Netflix, WIRED’s Picks (December 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/netflix-best-movies-this-week/" target="_blank">The 46 Best Movies on Netflix, WIRED’s Picks (December 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-06 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/06/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/" target="_blank">After you check out your Spotify Wrapped 2025, explore these copycats</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-06 14:00</span>
             </div>
         </div>
 </div>
@@ -307,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
