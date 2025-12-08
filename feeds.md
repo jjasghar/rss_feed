@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 22:01:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-08 23:01:27 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, December 08, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +107,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21280354/best-ipad-deals-apple" target="_blank">The best iPad deals you can get right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-08 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2235825531-500x500.jpg" alt="ICEBlock lawsuit: Trump admin bragged about demanding App Store removal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/iceblock-lawsuit-trump-admin-bragged-about-demanding-app-store-removal/" target="_blank">ICEBlock lawsuit: Trump admin bragged about demanding App Store removal</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-08 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/840161/apple-watch-series-11-holiday-deal-sale-2025" target="_blank">The Apple Watch Series 11 just got a big $100 discount ahead of the holidays</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-08 19:17</span>
@@ -140,24 +157,6 @@
                 <span class="time">2025-12-08 18:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/08/google-details-security-measures-for-chromes-agentic-features/" target="_blank">Google details security measures for Chrome’s agentic features</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-08 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/839392/project-aura-android-xr-software-headsets-ai-glasses" target="_blank">A first look at Google’s Project Aura glasses built with Xreal</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-08 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,9 +166,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/adzhydra/major-update-v12-1dpf" target="_blank">Major Update v1.2</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-08 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/layerops/the-cloud-lock-in-trap-and-the-loss-of-strategic-control-50dd" target="_blank">The cloud lock-in trap and the loss of strategic control</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-08 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries" target="_blank">Deprecations via warnings don’t work for Python libraries</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-08 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18790110&w=600" alt="Streamlining Incident Management with IBM Cloud Logs, Event Notifications, and PagerDuty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/streamlining-incident-management-ibm-cloud-logs" target="_blank">Streamlining Incident Management with IBM Cloud Logs, Event Notifications, and PagerDuty</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-08 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +214,6 @@
                 <span class="title"><a href="https://jepsen.io/analyses/nats-2.12.1" target="_blank">Jepsen: NATS 2.12.1</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-08 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/3zzy/running-immich-on-proxmox-with-a-synology-nas-a-battle-tested-setup-1e42" target="_blank">Running Immich on Proxmox With a Synology NAS: A Battle‑Tested Setup</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-08 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/" target="_blank">The new identity of a developer: What changes and what doesn’t in the AI era</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-12-08 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18788617&w=600" alt="Mastering Fluent Bit: Top 3 Telemetry Pipeline Processors for Developers (Part 9)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/top-telemetry-pipeline-processors" target="_blank">Mastering Fluent Bit: Top 3 Telemetry Pipeline Processors for Developers (Part 9)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-08 18:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Analogue3ds.jpg" alt="The Battle Of The Translucent N64s Has Arrived" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/analogue-3d-color-n64-modretro-palmer-luckey-2000651467" target="_blank">The Battle Of The Translucent N64s Has Arrived</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-08 22:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/shutterstock_2397039605-1.jpg?fit=805%2C585&amp;quality=60&amp;ssl=1" alt="Assault charge for man who blew snow on victim with snow blower" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/08/the-submarine-that-died-and-came-back-uss-squaluss-terrifyingly-true-tale.html" target="_blank">The submarine that died and came back: USS Squalus&#x27;s terrifyingly true tale</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-08 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/shutterstock_1309283281-scaled.jpg?fit=2560%2C1763&amp;quality=60&amp;ssl=1" alt="Uber is selling your ride and food ordering data to advertisers for marketing insights" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/08/uber-is-selling-your-ride-and-food-ordering-data-to-advertisers-for-marketing-insights.html" target="_blank">Uber is selling your ride and food ordering data to advertisers for marketing insights</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-08 18:30</span>
             </div>
         </div>
 </div>
@@ -345,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 43 | 📸 With Images: 257 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 43 | 📸 With Images: 257 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
