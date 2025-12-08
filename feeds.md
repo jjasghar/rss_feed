@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 05:02:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-08 06:02:22 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, December 08, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/08/g-s1-101136/tributes-not-politics-play-center-stage-as-president-trump-hosts-the-kennedy-center-honors-ceremony" target="_blank">Tributes, not politics, play center stage as President Trump hosts the Kennedy Center honors ceremony</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-08 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/8/live-syria-marks-one-year-since-fall-of-bashar-al-assad?traffic_source=rss" target="_blank">LIVE: Syria marks one year since fall of Bashar al-Assad</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-08 05:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e1/live/554da6a0-d3e1-11f0-b81e-6bde304fddf1.jpg" alt="Zelensky due at Downing Street for high-level Ukraine talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,30 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251118-marjorie-taylor-greene-zz-057ccf.jpg" alt="&#x27;I am America First&#x27;: Marjorie Taylor Greene knocks Trump for not focusing on domestic issues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-thailand-cambodia_7104314.jpg?20251208040219" alt="Thailand launches airstrikes against Cambodia as border clashes reignite" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/-america-first-marjorie-taylor-greene-knocks-trump-not-focusing-domest-rcna247869" target="_blank">&#x27;I am America First&#x27;: Marjorie Taylor Greene knocks Trump for not focusing on domestic issues</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-08 02:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/8/thailand-launches-air-raids-along-border-with-cambodia-after-deadly-clashes?traffic_source=rss" target="_blank">Thailand launches air raids along Cambodia border after deadly clashes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-08 02:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/07/nx-s1-5636704/rafael-ithier-salsa-music-puerto-rico-gran-combo" target="_blank">Rafael Ithier, a legend of salsa music, dies at 99</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-08 01:49</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/thailand-launches-airstrikes-against-cambodia-as-border-clashes-reignite-13480794" target="_blank">Thailand launches airstrikes against Cambodia as border clashes reignite</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-08 03:11</span>
             </div>
         </div>
 </div>
@@ -161,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8xm46w5sa6oowrrrsw7.webp" alt="React vs Vue vs Svelte — Which One Should You Learn in 2025?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/roshaan_tahir/react-vs-vue-vs-svelte-which-one-should-you-learn-in-2025-4o8l" target="_blank">React vs Vue vs Svelte — Which One Should You Learn in 2025?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-08 05:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyx4pn9qiolgly31ygist.png" alt="Day 13.Create AMI from EC2 Instance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/jerrettdavis/you-dont-hate-abstractions-3gl8" target="_blank">You Don&#x27;t Hate Abstractions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-08 01:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.science.org/doi/10.1126/sciadv.adw6833" target="_blank">Mechanical power generation using Earth&#x27;s ambient radiation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-07 21:55</span>
             </div>
         </div>
 </div>
@@ -279,6 +284,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5717.png" alt="QC RERUN TIME 2025: The Beginning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5716" target="_blank">QC RERUN TIME 2025: The Beginning</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-12-08 02:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1764990791-20251207_edit.png" alt="Saturday Morning Breakfast Cereal - Dunno" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -292,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
