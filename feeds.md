@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 20:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-08 21:01:29 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, December 08, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/8/celebrations-military-parade-mark-one-year-since-fall-of-assad?traffic_source=rss" target="_blank">Celebrations, military parade mark one year since fall of Assad</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-08 20:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39ac/live/3c7c7cc0-d457-11f0-8c06-f5d460985095.jpg" alt="Critical moment to ramp up support for Ukraine, European allies say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/paramount-makes-hostile-bid-for-warner-bros-discovery-253967941819" target="_blank">Paramount makes hostile bid for Warner Bros. Discovery</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-08 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7159/live/3c278db0-d451-11f0-8c06-f5d460985095.jpg" alt="European leaders walk tightrope between backing Ukraine and keeping US on board" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS&at_campaign=rss" target="_blank">European leaders walk tightrope between backing Ukraine and keeping US on board</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-08 17:01</span>
             </div>
         </div>
 </div>
@@ -167,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/layerops/the-cloud-lock-in-trap-and-the-loss-of-strategic-control-50dd" target="_blank">The cloud lock-in trap and the loss of strategic control</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-08 20:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18763642&w=600" alt="Disaster Recovery Testing for DevOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -211,15 +215,6 @@
                 <span class="time">2025-12-08 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Firefox-146-Released" target="_blank">Firefox 146 Now Available With Native Fractional Scaling On Wayland</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-08 16:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K981BZQ7WSYSCQ86F4K0T568/hero-image.png" alt="The Google Pixel 10 Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-10-deal?utm_medium=RSS" target="_blank">The Google Pixel 10 Is $200 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-08 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/Metroid-Prime-4-1-1-1280x720.jpg" alt="7 Things To Know Before Playing Metroid Prime 4: Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,20 +288,20 @@
                 <span class="time">2025-12-08 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/New-Project-8.jpg" alt="Watch Pokémon And Yu-Gi-Oh’s Heroes Duke It Out In A Pure ’90s Nostalgia Bomb" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/death-battle-ash-ketchum-pokemon-yugi-moto-yugioh-video-2000651417" target="_blank">Watch Pokémon And Yu-Gi-Oh’s Heroes Duke It Out In A Pure ’90s Nostalgia Bomb</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-08 17:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/08/must-watch-video" target="_blank">Must Watch Video!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-08 18:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -321,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 43 | 📸 With Images: 257 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 43 | 📸 With Images: 258 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
