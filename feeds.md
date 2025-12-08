@@ -1,32 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 11:01:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-08 12:02:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 11:01 UTC</div>
+    <div class="newspaper-date">Monday, December 08, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,10 +57,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/12/8/inside-syrias-fight-to-identify-the?traffic_source=rss" target="_blank">Inside Syria’s fight to identify the disappeared</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-08 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/08/nx-s1-5634585/redistricting-2026midterm-election-trump-congress" target="_blank">After Texas ruling, Trump and Republicans head to 2026 with a redistricting edge</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-08 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/12/08/nx-s1-5615257/china-us-renewable-wind-solar-climate" target="_blank">How China, not the U.S., became the main climate solution story in 2025</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-08 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251204-Rebecca-Slaughter-gk-5b84f9.jpg" alt="Trump&#x27;s battle with independent agencies is back at the Supreme Court" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/trumps-battle-independent-agencies-back-supreme-court-rcna247407" target="_blank">Trump&#x27;s battle with independent agencies is back at the Supreme Court</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-08 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -67,33 +106,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/8/syrians-gather-to-mark-one-year-since-the-fall-of-the-assad-regime?traffic_source=rss" target="_blank">Syrians gather to mark one year since the fall of the Assad regime</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-08 09:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/mtg-muvkm7.jpg" alt="Marjorie Taylor Greene speaks out about rift with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/marjorie-taylor-greene-speaks-out-about-rift-with-trump-253948997721" target="_blank">Marjorie Taylor Greene speaks out about rift with Trump</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-08 09:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/08/ancient-egyptian-pleasure-boat-found-archaeologists-alexandria-coast" target="_blank">Ancient Egyptian pleasure boat found by archaeologists off Alexandria coast</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-08 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/8/sudan-group-accuses-rsf-of-raping-19-women-who-fled-el-fasher?traffic_source=rss" target="_blank">Sudan group accuses RSF of raping 19 women who fled el-Fasher</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-08 08:08</span>
             </div>
         </div>
 </div>
@@ -163,6 +175,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ranga_tech/profitable-pair-correlation-divergence-scanner-v6-4gnm" target="_blank">Profitable Pair Correlation Divergence Scanner v6</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-08 11:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-HID" target="_blank">Several Logitech Devices Seeing New/Improved Support With Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-08 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/minibooks/architecture-lenses-2025/en/smallimage/thumb-image-architecture-through-different-lenses-2025-1764683218739.jpg" alt="Mini book: Architecture Through Different Lenses 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/minibooks/architecture-lenses-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mini book: Architecture Through Different Lenses 2025</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-08 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/german-state-ditch-microsoft/" target="_blank">Hurray! This German State Decides to Save €15 Million Each Year By Kicking Out Microsoft for Open Source</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-12-08 11:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://12days.cmdchallenge.com" target="_blank">12 Days of Shell</a></span>
                 <span class="feed">Hacker News</span>
@@ -176,42 +224,6 @@
                 <span class="title"><a href="https://dev.to/hidai25/my-ai-agent-cost-me-400-overnight-so-i-built-pytest-for-agents-and-open-sourced-it-492c" target="_blank">My AI agent cost me $400 overnight, so I built pytest for agents and open-sourced it</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-08 09:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/bellsoft-hardened-images/en/headerimage/header-1764972034767.jpeg" alt="BellSoft Unveils Hardened Java Images" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/bellsoft-hardened-images/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">BellSoft Unveils Hardened Java Images</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-08 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nicchan.me/blog/the-f-off-contact-page/" target="_blank">The f*** off contact page</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-08 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8xm46w5sa6oowrrrsw7.webp" alt="React vs Vue vs Svelte — Which One Should You Learn in 2025?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/roshaan_tahir/react-vs-vue-vs-svelte-which-one-should-you-learn-in-2025-4o8l" target="_blank">React vs Vue vs Svelte — Which One Should You Learn in 2025?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-08 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyx4pn9qiolgly31ygist.png" alt="Day 13.Create AMI from EC2 Instance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thukhakyawe_cloud/day-13create-ami-from-ec2-instance-44e6" target="_blank">Day 13.Create AMI from EC2 Instance</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-08 03:39</span>
             </div>
         </div>
 </div>
@@ -310,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
