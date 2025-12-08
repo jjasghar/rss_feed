@@ -1,44 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 10:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-08 11:01:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 35 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, December 08, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/08/nx-s1-5615257/china-us-renewable-wind-solar-climate" target="_blank">How China, not the U.S., became the main climate solution story in 2025</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-08 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/8/sudan-group-accuses-rsf-of-raping-19-women-who-fled-el-fasher?traffic_source=rss" target="_blank">Sudan group accuses RSF of raping 19 women who fled el-Fasher</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-08 08:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/08/g-s1-101136/tributes-not-politics-play-center-stage-as-president-trump-hosts-the-kennedy-center-honors-ceremony" target="_blank">Tributes, not politics, play center stage as Trump hosts the Kennedy Center Honors</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-08 05:49</span>
             </div>
         </div>
 </div>
@@ -175,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://12days.cmdchallenge.com" target="_blank">12 Days of Shell</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-08 10:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hidai25/my-ai-agent-cost-me-400-overnight-so-i-built-pytest-for-agents-and-open-sourced-it-492c" target="_blank">My AI agent cost me $400 overnight, so I built pytest for agents and open-sourced it</a></span>
                 <span class="feed">DEV Community</span>
@@ -217,20 +214,20 @@
                 <span class="time">2025-12-08 03:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/gnome-extensions-blue.jpg?resize=406%2C232&amp;ssl=1" alt="A Simple Way to Fake Blurred Windows on GNOME" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/2-wallpapers-gnome-extension" target="_blank">A Simple Way to Fake Blurred Windows on GNOME</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-08 02:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Alien-Earth-Episode-3-3-1280x853.jpg" alt="A Predator in ‘Alien: Earth’? Yeahhhhhhh, No, Says Noah Hawley" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-predator-in-alien-earth-yeah-no-says-noah-hawley-2000696584" target="_blank">A Predator in ‘Alien: Earth’? Yeahhhhhhh, No, Says Noah Hawley</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Internxt-Cloud-Storage-Lifetime-Subscription.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Store, share, and collaborate across devices with 20TB of cloud storage for $390" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +273,6 @@
                 <span class="time">2025-12-07 19:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/scream-billy-1280x853.jpg" alt="Skeet Ulrich Reveals the ‘Scream’ Reboots’ Original Endgame" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/skeet-ulrich-reveals-the-scream-reboots-original-endgame-2000696549" target="_blank">Skeet Ulrich Reveals the ‘Scream’ Reboots’ Original Endgame</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-07 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
