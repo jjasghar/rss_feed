@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 19:01:50 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-08 20:02:11 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, December 08, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39ac/live/3c7c7cc0-d457-11f0-8c06-f5d460985095.jpg" alt="Critical moment to ramp up support for Ukraine, European allies say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&at_campaign=rss" target="_blank">Critical moment to ramp up support for Ukraine, European allies say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-08 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-annoucement-1-rt-jef-251203_1764794105849_hpMain_4x3t_384.jpg" alt="Trump to announce $12 billion bailout plan for farmers, White House official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-announce-12-billion-bailout-plan-farmers-white/story?id=128214384" target="_blank">Trump to announce $12 billion bailout plan for farmers, White House official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-08 19:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/08/nx-s1-5637476/trump-administration-announcing-12-billion-in-one-time-payments-to-farmers" target="_blank">Trump administration announcing $12 billion in one-time payments to farmers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-08 19:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,33 +102,6 @@
                 <span class="time">2025-12-08 17:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/08/white-supremacist-notions-threaten-sovereignty-of-south-africa-ramaphosa" target="_blank">False claims Afrikaners are persecuted threaten South Africa’s sovereignty, says president</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-08 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix" target="_blank">Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-08 16:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-keir-starmer-volodymyr-zelenskyy_7104777.jpg?20251208132914" alt="Starmer holds crisis talks with Zelenskyy in search for &#x27;decent peace for Ukraine&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/starmer-holds-crisis-talks-with-zelenskyy-in-search-for-decent-peace-for-ukraine-13481054" target="_blank">Starmer holds crisis talks with Zelenskyy in search for &#x27;decent peace for Ukraine&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-08 15:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,9 +111,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/840161/apple-watch-series-11-holiday-deal-sale-2025" target="_blank">The Apple Watch Series 11 just got a big $100 discount ahead of the holidays</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-08 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/839817/anthropic-claude-code-slack-integration" target="_blank">Anthropic is bringing Claude Code to Slack</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-08 19:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6936f402f531b8d4d032a16f/master/pass/GettyImages-2182084501.jpg" alt="For the First Time, Mutations in a Single Gene Have Been Linked to Mental Illness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mutations-in-a-single-gene-have-been-linked-to-mental-illness/" target="_blank">For the First Time, Mutations in a Single Gene Have Been Linked to Mental Illness</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-08 18:54</span>
             </div>
         </div>
 <div class="story">
@@ -138,29 +161,20 @@
                 <span class="time">2025-12-08 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2250341495-500x500.jpg" alt="F1 in Abu Dhabi: And that’s the championship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/12/f1-in-abu-dhabi-and-thats-the-championship/" target="_blank">F1 in Abu Dhabi: And that’s the championship</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-08 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/08/petcos-security-lapse-affected-customers-ssns-drivers-licenses-and-more/" target="_blank">Petco’s security lapse affected customers’ SSNs, drivers’ licenses and more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-08 16:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18763642&w=600" alt="Disaster Recovery Testing for DevOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/disaster-recovery-testing-for-devops" target="_blank">Disaster Recovery Testing for DevOps</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-08 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -168,6 +182,15 @@
                 <span class="title"><a href="https://dev.to/3zzy/running-immich-on-proxmox-with-a-synology-nas-a-battle-tested-setup-1e42" target="_blank">Running Immich on Proxmox With a Synology NAS: A Battle‑Tested Setup</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-08 18:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/" target="_blank">The new identity of a developer: What changes and what doesn’t in the AI era</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-12-08 18:15</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +220,6 @@
                 <span class="time">2025-12-08 16:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lhwa_land_e39fc318a86776c/the-ultimate-guide-to-iptv-benefits-why-modern-viewers-are-making-the-switch-odk" target="_blank">The Ultimate Guide to IPTV Benefits: Why Modern Viewers Are Making the Switch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-08 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/llama-cpp-vulkan-eoy2025" target="_blank">Intel Arc B580 vs. AMD Radeon RX 9000 vs. NVIDIA RTX 50 Series For Llama.cpp Vulkan Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-08 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,12 +240,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/Metroid-Prime-4-1-1-1280x720.jpg" alt="7 Things To Know Before Playing Metroid Prime 4: Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/seven-things-to-know-before-playing-metroid-prime-4-beyond-switch-2-guide-2000651384" target="_blank">7 Things To Know Before Playing Metroid Prime 4: Beyond</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-08 19:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/01/Apple-CEO-Tim-Cook-giving-a-thumbs-up-1-1280x853.jpg" alt="ICEBlock Sues White House Over Pressuring Apple for App Store Removal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/iceblock-sues-white-house-over-pressuring-apple-for-app-store-removal-2000696820" target="_blank">ICEBlock Sues White House Over Pressuring Apple for App Store Removal</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-08 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Squalus.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="The submarine that died and came back: USS Squalus&#x27;s terrifyingly true tale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/08/the-submarine-that-died-and-came-back-uss-squaluss-terrifyingly-true-tale.html" target="_blank">The submarine that died and came back: USS Squalus&#x27;s terrifyingly true tale</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-08 18:44</span>
             </div>
         </div>
 <div class="story">
@@ -268,24 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/death-battle-ash-ketchum-pokemon-yugi-moto-yugioh-video-2000651417" target="_blank">Watch Pokémon And Yu-Gi-Oh’s Heroes Duke It Out In A Pure ’90s Nostalgia Bomb</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-08 17:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/noem-horse.jpg?fit=1080%2C683&amp;quality=60&amp;ssl=1" alt="App that tracks ICE agents disappears after government &quot;demands&quot; Apple remove it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/08/app-that-tracks-ice-agents-disappears-after-government-demands-apple-remove-it.html" target="_blank">App that tracks ICE agents disappears after government &quot;demands&quot; Apple remove it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-08 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Meta-Quest-3S-XBOX-1-1280x853.jpg" alt="A New Meta Quest Probably Won’t Happen in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/meta-quest-4-release-date-not-coming-2026-2000696696" target="_blank">A New Meta Quest Probably Won’t Happen in 2026</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-08 17:00</span>
             </div>
         </div>
 </div>
@@ -316,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 43 | 📸 With Images: 257 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
