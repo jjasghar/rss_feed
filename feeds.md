@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 16:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-08 17:03:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, December 08, 2025 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/08/white-supremacist-notions-threaten-sovereignty-of-south-africa-ramaphosa" target="_blank">False claims Afrikaners are persecuted threaten South Africa’s sovereignty, says president</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-08 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix" target="_blank">Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-08 16:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/8/syrian-youth-embrace-political-freedoms-after-fall-of-assad?traffic_source=rss" target="_blank">Syrian youth embrace political freedoms after fall of Assad</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-08 15:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +100,38 @@
                 <span class="time">2025-12-08 14:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/876e/live/35990840-d427-11f0-a892-01d657345866.jpg" alt="Prince Harry&#x27;s security in UK under review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx25nk0kx58o?at_medium=RSS&at_campaign=rss" target="_blank">Prince Harry&#x27;s security in UK under review</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-08 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/witness/2025/12/8/syrias-prison-of-secrets-the-search-for-sednayas-missing?traffic_source=rss" target="_blank">Syria’s Prison of Secrets: The Search for Sednaya’s Missing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-08 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/08/g-s1-101146/up-first-newsletter-supreme-court-rebecca-slaughter-aca-extensions-ukraine-russia" target="_blank">SCOTUS case could expand presidential powers. And, Dems pitch plan for ACA subsidies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-08 12:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2250341495-500x500.jpg" alt="F1 in Abu Dhabi: And that’s the championship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/12/f1-in-abu-dhabi-and-thats-the-championship/" target="_blank">F1 in Abu Dhabi: And that’s the championship</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-08 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/08/petcos-security-lapse-affected-customers-ssns-drivers-licenses-and-more/" target="_blank">Petco’s security lapse affected customers’ SSNs, drivers’ licenses and more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-08 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69266f0385902b21de6d45ab/master/pass/The%2049%20Best%20Black%20Friday%20Outdoor%20Deals.png" alt="The 47 Best REI Cyber Week Outdoor Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2025/" target="_blank">The 47 Best REI Cyber Week Outdoor Deals (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-08 16:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/IMG_1802-500x500.jpeg" alt="Lectric XPress 750: A full-size bike for the budget-minded" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,33 +159,6 @@
                 <span class="time">2025-12-08 14:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/839169/segway-myon-ebike-teaser-ces-radar" target="_blank">Segway’s new Myon e-bike will straddle past and future</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-08 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/08/adobe-launches-content-creation-hub-in-premiere-mobile-for-youtube-shorts-creators/" target="_blank">Adobe launches content creation hub in Premiere mobile for YouTube Shorts creators</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-08 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/08/hinges-new-ai-feature-helps-daters-start-better-convos-moving-beyond-boring-small-talk/" target="_blank">Hinge’s new AI feature helps daters move beyond boring small talk</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-08 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +171,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/12/08/the-shift-in-enterprise-ai-what-we-learned-on-the-floor-at-microsoft-ignite/" target="_blank">The shift in enterprise AI—what we learned on the floor at Microsoft Ignite</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-12-08 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Firefox-146-Released" target="_blank">Firefox 146 Now Available With Native Fractional Scaling On Wayland</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-08 16:24</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +218,6 @@
                 <span class="time">2025-12-08 14:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/ai-causes-ram-prices-skyrocket/" target="_blank">AI Craze Just Made Your New PC Build Way More Expensive</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-08 14:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Meta-Quest-3S-XBOX-1-1280x853.jpg" alt="A New Meta Quest Probably Won’t Happen in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/meta-quest-4-release-date-not-coming-2026-2000696696" target="_blank">A New Meta Quest Probably Won’t Happen in 2026</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-08 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/geforce-5060-1280x853.jpg" alt="ASUS Offloads TUF Gaming Graphics Card Even Further After Black Friday as the GeForce RTX 5060 GPU Hits an All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/asus-offloads-tuf-gaming-graphics-card-even-further-after-black-friday-as-the-geforce-rtx-5060-gpu-hits-an-all-time-low-2000651222" target="_blank">ASUS Offloads TUF Gaming Graphics Card Even Further After Black Friday as the GeForce RTX 5060 GPU Hits an All-Time Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-08 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBZ8XK9WHPT7MZD5TPKDJ0RX/hero-image.jpg" alt="Samsung&#x27;s One UI 8.5 Beta Is Now Officially Available" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-one-ui-85-beta?utm_medium=RSS" target="_blank">Samsung&#x27;s One UI 8.5 Beta Is Now Officially Available</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-08 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/image-44-1280x720.jpg" alt="Stranger Things Fans Blame Netflix For The Bad Dialogue In Season 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +291,6 @@
                 <span class="time">2025-12-08 14:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBXCY3SNDWTKDSFJFA4PAZA2/hero-image.jpg" alt="How to Spot a ‘Sleeper’ Browser Extension That’s Actually Malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/spot-sleeper-browser-malware-extensions?utm_medium=RSS" target="_blank">How to Spot a ‘Sleeper’ Browser Extension That’s Actually Malware</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-08 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Adobe-1280x851.jpeg" alt="Adobe Rolls Out Free Generative AI for Creative Cloud Pro Users as a Limited-Time Bonus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/adobe-rolls-out-free-generative-ai-for-creative-cloud-pro-users-as-a-limited-time-bonus-2000696575" target="_blank">Adobe Rolls Out Free Generative AI for Creative Cloud Pro Users as a Limited-Time Bonus</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-08 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J336QQAET3RS8QW5PARXXZ4J/hero-image.png" alt="Use the &#x27;MIT Method&#x27; to Keep Your Big-Picture Goals in Mind During Everyday Tasks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/work/how-to-use-the-mit-productivity-method?utm_medium=RSS" target="_blank">Use the &#x27;MIT Method&#x27; to Keep Your Big-Picture Goals in Mind During Everyday Tasks</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-08 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,22 +314,13 @@
                 <span class="time">2025-12-08 02:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1764990791-20251207_edit.png" alt="Saturday Morning Breakfast Cereal - Dunno" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/dunno-2" target="_blank">Saturday Morning Breakfast Cereal - Dunno</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-07 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 43 | 📸 With Images: 256 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
