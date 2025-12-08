@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 18:01:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-08 19:01:50 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 18:01 UTC</div>
+    <div class="newspaper-date">Monday, December 08, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/08/g-s1-100970/fbi-agents-kneel-protest-lawsuit" target="_blank">FBI agents sue after being fired for kneeling during racial justice protest</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-08 17:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765214696618_now_daily_a_paramount_hostilebid_251209_1920x1080-7mfvtc.jpg" alt="Paramount makes hostile bid for Warner Bros. Discovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +97,38 @@
                 <span class="time">2025-12-08 15:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/8/syrian-youth-embrace-political-freedoms-after-fall-of-assad?traffic_source=rss" target="_blank">Syrian youth embrace political freedoms after fall of Assad</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-08 15:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/839817/anthropic-claude-code-slack-integration" target="_blank">Anthropic is bringing Claude Code to Slack</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-08 19:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2250240969-500x500.jpg" alt="Paramount tries to swipe Warner Bros. from Netflix with a hostile takeover" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/paramount-says-it-could-get-antitrust-approval-for-wbd-before-netflix/" target="_blank">Paramount tries to swipe Warner Bros. from Netflix with a hostile takeover</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-08 18:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/08/google-details-security-measures-for-chromes-agentic-features/" target="_blank">Google details security measures for Chrome’s agentic features</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-08 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,38 +156,29 @@
                 <span class="time">2025-12-08 16:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69266f0385902b21de6d45ab/master/pass/The%2049%20Best%20Black%20Friday%20Outdoor%20Deals.png" alt="The 47 Best REI Cyber Week Outdoor Deals (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2025/" target="_blank">The 47 Best REI Cyber Week Outdoor Deals (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-08 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/IMG_1802-500x500.jpeg" alt="Lectric XPress 750: A full-size bike for the budget-minded" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/12/lectric-xpress-750-a-full-sized-bike-for-the-budget-minded/" target="_blank">Lectric XPress 750: A full-size bike for the budget-minded</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-08 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1359152239-500x500.jpg" alt="Meta offers EU users ad-light option in push to end investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2025/12/meta-offers-eu-users-ad-light-option-in-push-to-end-investigation/" target="_blank">Meta offers EU users ad-light option in push to end investigation</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-08 14:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/3zzy/running-immich-on-proxmox-with-a-synology-nas-a-battle-tested-setup-1e42" target="_blank">Running Immich on Proxmox With a Synology NAS: A Battle‑Tested Setup</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-08 18:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18788617&w=600" alt="Mastering Fluent Bit: Top 3 Telemetry Pipeline Processors for Developers (Part 9)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/top-telemetry-pipeline-processors" target="_blank">Mastering Fluent Bit: Top 3 Telemetry Pipeline Processors for Developers (Part 9)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-08 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +215,6 @@
                 <span class="time">2025-12-08 15:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453" target="_blank">Tsunami warning issued after 7.6-magnitude earthquake strikes Japan</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-08 15:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Early-Benchmarks" target="_blank">Early Benchmarks Of Linux 6.19 Git Raising Some Concerns</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-08 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +235,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/01/Apple-CEO-Tim-Cook-giving-a-thumbs-up-1-1280x853.jpg" alt="ICEBlock Sues White House Over Pressuring Apple for App Store Removal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/iceblock-sues-white-house-over-pressuring-apple-for-app-store-removal-2000696820" target="_blank">ICEBlock Sues White House Over Pressuring Apple for App Store Removal</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-08 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/shutterstock_1309283281-scaled.jpg?fit=2560%2C1763&amp;quality=60&amp;ssl=1" alt="Uber is selling your ride and food ordering data to advertisers for marketing insights" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/08/uber-is-selling-your-ride-and-food-ordering-data-to-advertisers-for-marketing-insights.html" target="_blank">Uber is selling your ride and food ordering data to advertisers for marketing insights</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-08 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBZCPBRWJBWVGPYT1VPCVB8B/hero-image.png" alt="The 20 Most Essential Podcasts of 2025 (and Two Episodes You Can&#x27;t Miss)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/essential-podcasts-of-2025?utm_medium=RSS" target="_blank">The 20 Most Essential Podcasts of 2025 (and Two Episodes You Can&#x27;t Miss)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-08 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/New-Project-8.jpg" alt="Watch Pokémon And Yu-Gi-Oh’s Heroes Duke It Out In A Pure ’90s Nostalgia Bomb" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/death-battle-ash-ketchum-pokemon-yugi-moto-yugioh-video-2000651417" target="_blank">Watch Pokémon And Yu-Gi-Oh’s Heroes Duke It Out In A Pure ’90s Nostalgia Bomb</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-08 17:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/noem-horse.jpg?fit=1080%2C683&amp;quality=60&amp;ssl=1" alt="App that tracks ICE agents disappears after government &quot;demands&quot; Apple remove it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -250,42 +286,6 @@
                 <span class="title"><a href="https://gizmodo.com/meta-quest-4-release-date-not-coming-2026-2000696696" target="_blank">A New Meta Quest Probably Won’t Happen in 2026</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-08 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/geforce-5060-1280x853.jpg" alt="ASUS Offloads TUF Gaming Graphics Card Even Further After Black Friday as the GeForce RTX 5060 GPU Hits an All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/asus-offloads-tuf-gaming-graphics-card-even-further-after-black-friday-as-the-geforce-rtx-5060-gpu-hits-an-all-time-low-2000651222" target="_blank">ASUS Offloads TUF Gaming Graphics Card Even Further After Black Friday as the GeForce RTX 5060 GPU Hits an All-Time Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-08 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBZ8XK9WHPT7MZD5TPKDJ0RX/hero-image.jpg" alt="Samsung&#x27;s One UI 8.5 Beta Is Now Officially Available" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-one-ui-85-beta?utm_medium=RSS" target="_blank">Samsung&#x27;s One UI 8.5 Beta Is Now Officially Available</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-08 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/image-44-1280x720.jpg" alt="Stranger Things Fans Blame Netflix For The Bad Dialogue In Season 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/stranger-things-5-bad-dialogue-clips-video-will-mike-2000651378" target="_blank">Stranger Things Fans Blame Netflix For The Bad Dialogue In Season 5</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-08 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/robocop2.jpg?fit=1500%2C792&amp;quality=60&amp;ssl=1" alt="Tesla robot repeats human operator removing headset, then falls over" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/08/tesla-robot-repeats-human-operator-removing-headset-then-falls-over.html" target="_blank">Tesla robot repeats human operator removing headset, then falls over</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-08 14:37</span>
             </div>
         </div>
 </div>
@@ -316,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
