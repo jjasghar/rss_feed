@@ -1,44 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 12:02:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-08 13:12:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 35 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, December 08, 2025 - 13:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/witness/2025/12/8/syrias-prison-of-secrets-the-search-for-sednayas-missing?traffic_source=rss" target="_blank">Syria’s Prison of Secrets: The Search for Sednaya’s Missing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-08 13:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/supreme-court-gty-jef-251203_1764787014905_hpMain_4x3t_384.jpg" alt="Supreme Court to rule on Trump&#x27;s bid to control independent agencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/landmark-case-supreme-court-rule-trumps-bid-control/story?id=128073464" target="_blank">Supreme Court to rule on Trump&#x27;s bid to control independent agencies</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-08 10:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251204-Rebecca-Slaughter-gk-5b84f9.jpg" alt="Trump&#x27;s battle with independent agencies is back at the Supreme Court" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -90,29 +98,20 @@
                 <span class="time">2025-12-08 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/08/nx-s1-5626876/supreme-court-trump-ftc-unitary-executive" target="_blank">Supreme Court to hear case that could vastly expand presidential powers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-08 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/8/syrians-gather-to-mark-one-year-since-the-fall-of-the-assad-regime?traffic_source=rss" target="_blank">Syrians gather to mark one year since the fall of the Assad regime</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-08 09:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/08/hinges-new-ai-feature-helps-daters-start-better-convos-moving-beyond-boring-small-talk/" target="_blank">Hinge’s new AI feature helps daters move beyond boring small talk</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-08 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="30% Off Samsung Promo Code | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -158,20 +157,38 @@
                 <span class="time">2025-12-07 20:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/07/the-accelerator-is-on-the-floor-for-autonomous-vehicles/" target="_blank">The accelerator is on the floor for autonomous vehicles</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-07 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nextblockcms/designing-a-type-safe-plugin-system-for-nextjs-why-zod-is-our-secret-weapon-1il7" target="_blank">Designing a Type-Safe Plugin System for Next.js: Why Zod is Our Secret Weapon</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-08 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/how-telco-companies-can-reduce-5g-infrastructure-costs-with-modern-open-source-cloud-native-technologies" target="_blank">How telco companies can reduce 5G infrastructure costs with modern open source cloud-native technologies</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-12-08 12:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/jolla-phone-returns/" target="_blank">This Could Be The Linux Phone We All Have Been Waiting For</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-12-08 12:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,38 +216,20 @@
                 <span class="time">2025-12-08 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/german-state-ditch-microsoft/" target="_blank">Hurray! This German State Decides to Save €15 Million Each Year By Kicking Out Microsoft for Open Source</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-12-08 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://12days.cmdchallenge.com" target="_blank">12 Days of Shell</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-08 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hidai25/my-ai-agent-cost-me-400-overnight-so-i-built-pytest-for-agents-and-open-sourced-it-492c" target="_blank">My AI agent cost me $400 overnight, so I built pytest for agents and open-sourced it</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-08 09:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/slim3-1280x853.jpg" alt="Lenovo Ryzen 5 Gaming Laptop Drops 65% to a Budget-Tablet Low After Holding Its Price All Season Long" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lenovo-ryzen-5-gaming-laptop-drops-65-to-a-budget-tablet-low-after-holding-its-price-all-season-long-2000651210" target="_blank">Lenovo Ryzen 5 Gaming Laptop Drops 65% to a Budget-Tablet Low After Holding Its Price All Season Long</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-08 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Alien-Earth-Episode-3-3-1280x853.jpg" alt="A Predator in ‘Alien: Earth’? Yeahhhhhhh, No, Says Noah Hawley" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +275,6 @@
                 <span class="time">2025-12-07 20:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/samus.jpg?fit=1080%2C635&amp;quality=60&amp;ssl=1" alt="Metroid Prime 4&#x27;s silent world requires expensive amiibo to fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/07/metroid-prime-4s-silent-world-requires-expensive-amiibo-to-fix.html" target="_blank">Metroid Prime 4&#x27;s silent world requires expensive amiibo to fix</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-07 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 13:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
