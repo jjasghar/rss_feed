@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 00:05:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-08 01:29:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 00:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, December 08, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +161,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Iced-0.14-Rust-GUI-LIbrary" target="_blank">Iced 0.14 Released For Popular Rust Cross-Platform GUI Library</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-08 01:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jerrettdavis/you-dont-hate-abstractions-3gl8" target="_blank">You Don&#x27;t Hate Abstractions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-08 01:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.science.org/doi/10.1126/sciadv.adw6833" target="_blank">Mechanical power generation using Earth&#x27;s ambient radiation</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-07 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/halakabir234hub/what-exactly-is-a-function-in-python-and-why-devs-love-them-3dc6" target="_blank">What *Exactly* Is a Function in Python? (And Why Devs Love Them!)</a></span>
                 <span class="feed">DEV Community</span>
@@ -189,33 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GPIB-De-Staged-Linux-6.19" target="_blank">Linux GPIB Drivers Declared Stable - 53 Years After HP Introduced The Bus</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-07 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://thorsell.io/2025/12/07/estimates.html" target="_blank">Estimates are difficult for developers and product owners</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-07 19:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-PCIe-Link-Encrypt" target="_blank">Linux 6.19 Introduces PCIe Link Encryption &amp; Device Authentication, AMD SEV-TIO Enabling</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-07 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/" target="_blank">I Tried and Failed to Rebuild the 1996 Space Jam Website with Claude</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-07 17:18</span>
             </div>
         </div>
 </div>
@@ -296,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
