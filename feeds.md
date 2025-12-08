@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 15:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-08 16:01:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, December 08, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/8/condemnation-as-israel-raids-unrwa-hq-in-east-jerusalem-removes-un-flag?traffic_source=rss" target="_blank">Condemnation as Israel raids UNRWA HQ in East Jerusalem, removes UN flag</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-08 15:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/lv_ny3_scotus_ftc-9v48mt.jpg" alt="Supreme Court hears oral arguments in the FTC firing case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/listen-live-supreme-court-hears-oral-arguments-in-ftc-firing-case-253958213539" target="_blank">Supreme Court hears oral arguments in the FTC firing case</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-08 14:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250904-paramount-studios-ew-315p-532e5d.jpg" alt="Paramount launches hostile bid for Warner Bros. Discovery despite Netflix deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +98,20 @@
                 <span class="time">2025-12-08 12:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/12/8/inside-syrias-fight-to-identify-the?traffic_source=rss" target="_blank">Inside Syria’s fight to identify the disappeared</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-08 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/08/nx-s1-5634585/redistricting-2026midterm-election-trump-congress" target="_blank">After Texas ruling, Trump and Republicans head to 2026 with a redistricting edge</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-08 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/IMG_1802-500x500.jpeg" alt="Lectric XPress 750: A full-size bike for the budget-minded" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/12/lectric-xpress-750-a-full-sized-bike-for-the-budget-minded/" target="_blank">Lectric XPress 750: A full-size bike for the budget-minded</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-08 15:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1359152239-500x500.jpg" alt="Meta offers EU users ad-light option in push to end investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +157,6 @@
                 <span class="time">2025-12-08 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/hades2_dec22_01-500x500.jpg" alt="Please send help. I can’t stop playing these roguelikes." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/12/please-send-help-i-cant-stop-playing-these-roguelikes/" target="_blank">Please send help. I can’t stop playing these roguelikes.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-08 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +174,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lhwa_land_e39fc318a86776c/the-ultimate-guide-to-iptv-benefits-why-modern-viewers-are-making-the-switch-odk" target="_blank">The Ultimate Guide to IPTV Benefits: Why Modern Viewers Are Making the Switch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-08 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/llama-cpp-vulkan-eoy2025" target="_blank">Intel Arc B580 vs. AMD Radeon RX 9000 vs. NVIDIA RTX 50 Series For Llama.cpp Vulkan Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-08 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453" target="_blank">Tsunami warning issued after 7.6-magnitude earthquake strikes Japan</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-08 15:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Early-Benchmarks" target="_blank">Early Benchmarks Of Linux 6.19 Git Raising Some Concerns</a></span>
                 <span class="feed">Phoronix</span>
@@ -180,39 +208,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/presentations/maturity-architecture-cloud/en/mediumimage/george-mao-medium-1764845691312.jpeg" alt="Presentation: Architecting Planet Scale, Modern Apps in the Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/maturity-architecture-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Architecting Planet Scale, Modern Apps in the Cloud</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-08 13:50</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vahidusefzadeh/mandatory-profile-in-oracle-database-36hg" target="_blank">Mandatory Profile in Oracle Database</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-08 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/" target="_blank">Microsoft Increases Office 365 and Microsoft 365 License Prices</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-08 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.confluent.io/blog/ibm-to-acquire-confluent/" target="_blank">IBM to Acquire Confluent</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-08 13:43</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/ai-causes-ram-prices-skyrocket/" target="_blank">AI Craze Just Made Your New PC Build Way More Expensive</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-08 14:22</span>
             </div>
         </div>
 </div>
@@ -235,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/image-44-1280x720.jpg" alt="Stranger Things Fans Blame Netflix For The Bad Dialogue In Season 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/stranger-things-5-bad-dialogue-clips-video-will-mike-2000651378" target="_blank">Stranger Things Fans Blame Netflix For The Bad Dialogue In Season 5</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-08 15:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/robocop2.jpg?fit=1500%2C792&amp;quality=60&amp;ssl=1" alt="Tesla robot repeats human operator removing headset, then falls over" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -253,6 +263,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBXCY3SNDWTKDSFJFA4PAZA2/hero-image.jpg" alt="How to Spot a ‘Sleeper’ Browser Extension That’s Actually Malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/spot-sleeper-browser-malware-extensions?utm_medium=RSS" target="_blank">How to Spot a ‘Sleeper’ Browser Extension That’s Actually Malware</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-08 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Adobe-1280x851.jpeg" alt="Adobe Rolls Out Free Generative AI for Creative Cloud Pro Users as a Limited-Time Bonus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -268,24 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/work/how-to-use-the-mit-productivity-method?utm_medium=RSS" target="_blank">Use the &#x27;MIT Method&#x27; to Keep Your Big-Picture Goals in Mind During Everyday Tasks</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-08 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/slim3-1280x853.jpg" alt="Lenovo Ryzen 5 Gaming Laptop Drops 65% to a Budget-Tablet Low After Holding Its Price All Season Long" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lenovo-ryzen-5-gaming-laptop-drops-65-to-a-budget-tablet-low-after-holding-its-price-all-season-long-2000651210" target="_blank">Lenovo Ryzen 5 Gaming Laptop Drops 65% to a Budget-Tablet Low After Holding Its Price All Season Long</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-08 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Alien-Earth-Episode-3-3-1280x853.jpg" alt="A Predator in ‘Alien: Earth’? Yeahhhhhhh, No, Says Noah Hawley" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-predator-in-alien-earth-yeah-no-says-noah-hawley-2000696584" target="_blank">A Predator in ‘Alien: Earth’? Yeahhhhhhh, No, Says Noah Hawley</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-08 11:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
