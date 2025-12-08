@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 21:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-08 22:01:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, December 08, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/8/acting-us-attorney-alina-habba-resigns-new-jersey-post-amid-controversy?traffic_source=rss" target="_blank">Acting US Attorney Alina Habba resigns New Jersey post amid controversy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-08 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/08/g-s1-101202/syria-anniversary-assad-deposed" target="_blank">Syria marks a year since Assad fled, but struggles to heal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-08 21:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/08/nx-s1-5637476/trump-administration-announcing-12-billion-in-one-time-payments-to-farmers" target="_blank">Trump administration announcing $12 billion in one-time payments to farmers</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-08 19:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/08/g-s1-100970/fbi-agents-kneel-protest-lawsuit" target="_blank">FBI agents sue after being fired for kneeling during racial justice protest</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-08 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765214696618_now_daily_a_paramount_hostilebid_251209_1920x1080-7mfvtc.jpg" alt="Paramount makes hostile bid for Warner Bros. Discovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/paramount-makes-hostile-bid-for-warner-bros-discovery-253967941819" target="_blank">Paramount makes hostile bid for Warner Bros. Discovery</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-08 17:25</span>
             </div>
         </div>
 </div>
@@ -182,6 +184,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jepsen.io/analyses/nats-2.12.1" target="_blank">Jepsen: NATS 2.12.1</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-08 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/3zzy/running-immich-on-proxmox-with-a-synology-nas-a-battle-tested-setup-1e42" target="_blank">Running Immich on Proxmox With a Synology NAS: A Battle‑Tested Setup</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +217,6 @@
                 <span class="time">2025-12-08 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/08/the-shift-in-enterprise-ai-what-we-learned-on-the-floor-at-microsoft-ignite/" target="_blank">The shift in enterprise AI—what we learned on the floor at Microsoft Ignite</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-08 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/shutterstock_2397039605-1.jpg?fit=805%2C585&amp;quality=60&amp;ssl=1" alt="Assault charge for man who blew snow on victim with snow blower" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/08/assault-charge-for-man-who-blew-snow-on-victim-with-snow-blower.html" target="_blank">Assault charge for man who blew snow on victim with snow blower</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-08 21:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K981BZQ7WSYSCQ86F4K0T568/hero-image.png" alt="The Google Pixel 10 Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +290,6 @@
                 <span class="time">2025-12-08 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBZCPBRWJBWVGPYT1VPCVB8B/hero-image.png" alt="The 20 Most Essential Podcasts of 2025 (and Two Episodes You Can&#x27;t Miss)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/essential-podcasts-of-2025?utm_medium=RSS" target="_blank">The 20 Most Essential Podcasts of 2025 (and Two Episodes You Can&#x27;t Miss)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-08 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,9 +299,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/08/wrapper-s-delight" target="_blank">Wrapper&#x27;s Delight</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-08 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/08/must-watch-video" target="_blank">Must Watch Video!</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-12-08 18:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1765164480-20251208_edit.png" alt="Saturday Morning Breakfast Cereal - Capital" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/capital-3" target="_blank">Saturday Morning Breakfast Cereal - Capital</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-08 16:20</span>
             </div>
         </div>
 <div class="story">
@@ -325,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 43 | 📸 With Images: 258 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 43 | 📸 With Images: 257 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
