@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 02:31:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-08 03:27:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 02:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, December 08, 2025 - 03:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +52,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/8/us-lawmakers-urge-release-of-video-of-double-tap-boat-strike-in-caribbean?traffic_source=rss" target="_blank">US lawmakers urge release of video of double-tap boat strike in Caribbean</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-08 03:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251118-marjorie-taylor-greene-zz-057ccf.jpg" alt="&#x27;I am America First&#x27;: Marjorie Taylor Greene knocks Trump for not focusing on domestic issues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/-america-first-marjorie-taylor-greene-knocks-trump-not-focusing-domest-rcna247869" target="_blank">&#x27;I am America First&#x27;: Marjorie Taylor Greene knocks Trump for not focusing on domestic issues</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-08 02:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/8/thailand-launches-air-raids-along-border-with-cambodia-after-deadly-clashes?traffic_source=rss" target="_blank">Thailand launches air raids along Cambodia border after deadly clashes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-08 02:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/07/nx-s1-5636704/rafael-ithier-salsa-music-puerto-rico-gran-combo" target="_blank">Rafael Ithier, a legend of salsa music, dies at 99</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-08 01:49</span>
             </div>
         </div>
 <div class="story">
@@ -71,38 +102,20 @@
                 <span class="time">2025-12-07 22:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/07/release-secured-of-100-kidnapped-nigerian-schoolchildren-but-many-still-being-held" target="_blank">Nigerian state secures release of 100 out of 265 kidnapped schoolchildren</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-07 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/07/nx-s1-5633344/the-hepatitis-b-foundation-warns-new-guidance-could-undo-decades-of-progress" target="_blank">The Hepatitis B Foundation warns new guidance could undo decades of progress</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-07 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/7/gritty-palestine-enter-arab-cup-quarters-as-favourites-qatar-crash-out?traffic_source=rss" target="_blank">Gritty Palestine enter Arab Cup quarters as favourites Qatar crash out</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-07 20:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/839753/watch-modern-horror-masterpiece-his-house" target="_blank">You need to watch the modern horror masterpiece, His House</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-08 01:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +161,29 @@
                 <span class="time">2025-12-07 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f5f45da7e3e9cf68b1427/master/pass/Best%20Printers_.png" alt="The Best Printers for Home and Office: Brother, HP, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-printers/" target="_blank">The Best Printers for Home and Office: Brother, HP, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-07 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/gnome-extensions-blue.jpg?resize=406%2C232&amp;ssl=1" alt="A Simple Way to Fake Blurred Windows on GNOME" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/2-wallpapers-gnome-extension" target="_blank">A Simple Way to Fake Blurred Windows on GNOME</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-08 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/java-news-roundup-dec01-2025/en/headerimage/java-istock-image-01-1765142909541.jpg" alt="Java News Roundup: JDK 26 in Rampdown, JDK 27 Expert Group, GlassFish, TornadoVM, Spring gRPC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/java-news-roundup-dec01-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 26 in Rampdown, JDK 27 Expert Group, GlassFish, TornadoVM, Spring gRPC</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-08 02:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/halakabir234hub/what-exactly-is-a-function-in-python-and-why-devs-love-them-3dc6" target="_blank">What *Exactly* Is a Function in Python? (And Why Devs Love Them!)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-07 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.stroustrup.com/JSF-AV-rules.pdf" target="_blank">F-35 Fighter Jet&#x27;s C++ Coding Standards [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-07 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GPIB-De-Staged-Linux-6.19" target="_blank">Linux GPIB Drivers Declared Stable - 53 Years After HP Introduced The Bus</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-07 19:47</span>
             </div>
         </div>
 </div>
@@ -294,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 02:32 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 03:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
