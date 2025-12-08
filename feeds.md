@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 17:03:01 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-08 18:01:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 17:03 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, December 08, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765214696618_now_daily_a_paramount_hostilebid_251209_1920x1080-7mfvtc.jpg" alt="Paramount makes hostile bid for Warner Bros. Discovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/paramount-makes-hostile-bid-for-warner-bros-discovery-253967941819" target="_blank">Paramount makes hostile bid for Warner Bros. Discovery</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-08 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7159/live/3c278db0-d451-11f0-8c06-f5d460985095.jpg" alt="European leaders walk tightrope between backing Ukraine and keeping US on board" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS&at_campaign=rss" target="_blank">European leaders walk tightrope between backing Ukraine and keeping US on board</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-08 17:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-keir-starmer-volodymyr-zelenskyy_7104777.jpg?20251208132914" alt="Starmer holds crisis talks with Zelenskyy in search for &#x27;decent peace for Ukraine&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/starmer-holds-crisis-talks-with-zelenskyy-in-search-for-decent-peace-for-ukraine-13481054" target="_blank">Starmer holds crisis talks with Zelenskyy in search for &#x27;decent peace for Ukraine&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-08 15:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -73,38 +97,20 @@
                 <span class="time">2025-12-08 15:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/8/condemnation-as-israel-raids-unrwa-hq-in-east-jerusalem-removes-un-flag?traffic_source=rss" target="_blank">Condemnation as Israel raids UNRWA HQ in East Jerusalem, removes UN flag</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-08 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/lv_ny3_scotus_ftc-9v48mt.jpg" alt="Supreme Court hears oral arguments in the FTC firing case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/listen-live-supreme-court-hears-oral-arguments-in-ftc-firing-case-253958213539" target="_blank">Supreme Court hears oral arguments in the FTC firing case</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-08 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250904-paramount-studios-ew-315p-532e5d.jpg" alt="Paramount launches hostile bid for Warner Bros. Discovery despite Netflix deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/media/paramount-hostile-bid-warner-bros-discovery-rcna247993" target="_blank">Paramount launches hostile bid for Warner Bros. Discovery despite Netflix deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-08 14:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/839392/project-aura-android-xr-software-headsets-ai-glasses" target="_blank">A first look at Google’s Project Aura glasses built with Xreal</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-08 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2250341495-500x500.jpg" alt="F1 in Abu Dhabi: And that’s the championship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/information-technology/2025/12/meta-offers-eu-users-ad-light-option-in-push-to-end-investigation/" target="_blank">Meta offers EU users ad-light option in push to end investigation</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-12-08 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/08/ibm-to-acquire-confluent-for-11b-as-it-seeks-to-bolster-its-data-offerings/" target="_blank">IBM to acquire Confluent for $11B as it seeks to bolster its data offerings</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-08 14:56</span>
             </div>
         </div>
 </div>
@@ -238,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/noem-horse.jpg?fit=1080%2C683&amp;quality=60&amp;ssl=1" alt="App that tracks ICE agents disappears after government &quot;demands&quot; Apple remove it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/08/app-that-tracks-ice-agents-disappears-after-government-demands-apple-remove-it.html" target="_blank">App that tracks ICE agents disappears after government &quot;demands&quot; Apple remove it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-08 17:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Meta-Quest-3S-XBOX-1-1280x853.jpg" alt="A New Meta Quest Probably Won’t Happen in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -282,15 +288,6 @@
                 <span class="time">2025-12-08 14:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/bose-speaker-1280x853.jpg" alt="Bose Extends Its Clearance Push From Headphones to Home Speakers, Leaving Zero Margin Behind" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bose-extends-its-clearance-push-from-headphones-to-home-speakers-leaving-zero-margin-behind-2000651213" target="_blank">Bose Extends Its Clearance Push From Headphones to Home Speakers, Leaving Zero Margin Behind</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-08 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 43 | 📸 With Images: 256 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
