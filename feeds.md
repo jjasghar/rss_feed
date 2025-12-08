@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 01:29:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-08 02:31:54 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, December 08, 2025 - 02:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/8/thailand-launches-air-raids-along-border-with-cambodia-after-deadly-clashes?traffic_source=rss" target="_blank">Thailand launches air raids along Cambodia border after deadly clashes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-08 02:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/7/gritty-palestine-enter-arab-cup-quarters-as-favourites-qatar-crash-out?traffic_source=rss" target="_blank">Gritty Palestine enter Arab Cup quarters as favourites Qatar crash out</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-07 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/07/nx-s1-5636662/hegseth-venezuela-boat-strike-video" target="_blank">Defense Department is reviewing boat strike video for possible release, Hegseth says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-07 19:31</span>
             </div>
         </div>
 </div>
@@ -218,6 +222,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Cheerble-Ball.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Keep cats entertained for only $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/07/keep-cats-entertained-for-only-15.html" target="_blank">Keep cats entertained for only $15</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-07 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/dead-space-hed2-1280x853.jpg" alt="RIP, ‘Dead Space’….Again (2008-2023)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -262,15 +275,6 @@
                 <span class="time">2025-12-07 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/starfleet-academy-giamatti-1280x853.jpg" alt="A New ‘Starfleet Academy’ Clip Lets Paul Giamatti Go Wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-new-starfleet-academy-clip-lets-paul-giamatti-go-wild-2000696525" target="_blank">A New ‘Starfleet Academy’ Clip Lets Paul Giamatti Go Wild</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-07 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,7 +295,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 01:29 UTC
+        🔄 Last Updated: 02:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
