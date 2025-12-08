@@ -1,47 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 14:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-08 15:01:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 39 feeds processed -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, December 08, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250904-paramount-studios-ew-315p-532e5d.jpg" alt="Paramount launches hostile bid for Warner Bros. Discovery despite Netflix deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/media/paramount-hostile-bid-warner-bros-discovery-rcna247993" target="_blank">Paramount launches hostile bid for Warner Bros. Discovery despite Netflix deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-08 14:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/876e/live/35990840-d427-11f0-a892-01d657345866.jpg" alt="Prince Harry&#x27;s security in UK under review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,6 +73,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/08/g-s1-101146/up-first-newsletter-supreme-court-rebecca-slaughter-aca-extensions-ukraine-russia" target="_blank">SCOTUS case could expand presidential powers. And, Dems pitch plan for ACA subsidies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-08 12:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/features/2025/12/8/inside-syrias-fight-to-identify-the?traffic_source=rss" target="_blank">Inside Syria’s fight to identify the disappeared</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -93,29 +97,29 @@
                 <span class="time">2025-12-08 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/08/nx-s1-5615257/china-us-renewable-wind-solar-climate" target="_blank">How China, not the U.S., became the main climate solution story in 2025</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-08 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/supreme-court-gty-jef-251203_1764787014905_hpMain_4x3t_384.jpg" alt="Supreme Court to rule on Trump&#x27;s bid to control independent agencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/landmark-case-supreme-court-rule-trumps-bid-control/story?id=128073464" target="_blank">Supreme Court to rule on Trump&#x27;s bid to control independent agencies</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-08 10:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1359152239-500x500.jpg" alt="Meta offers EU users ad-light option in push to end investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2025/12/meta-offers-eu-users-ad-light-option-in-push-to-end-investigation/" target="_blank">Meta offers EU users ad-light option in push to end investigation</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-08 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/08/ibm-to-acquire-confluent-for-11b-as-it-seeks-to-bolster-its-data-offerings/" target="_blank">IBM to acquire Confluent for $11B as it seeks to bolster its data offerings</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-08 14:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,29 +156,29 @@
                 <span class="time">2025-12-08 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69335f1e299aea503bd181ae/master/pass/JBL%20Grip%20Bluetooth%20Speaker%20122025%20Top%20Art%20SOURCE%20Amazon.jpg" alt="JBL Grip Review: A Bluetooth Speaker With Lava Lamp Vibes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/jbl-grip/" target="_blank">JBL Grip Review: A Bluetooth Speaker With Lava Lamp Vibes</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-08 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="30% Off Samsung Promo Code | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/samsung-promo-codes/" target="_blank">30% Off Samsung Promo Code | December 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-08 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/08/the-shift-in-enterprise-ai-what-we-learned-on-the-floor-at-microsoft-ignite/" target="_blank">The shift in enterprise AI—what we learned on the floor at Microsoft Ignite</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-08 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Early-Benchmarks" target="_blank">Early Benchmarks Of Linux 6.19 Git Raising Some Concerns</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-08 14:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/maturity-architecture-cloud/en/mediumimage/george-mao-medium-1764845691312.jpeg" alt="Presentation: Architecting Planet Scale, Modern Apps in the Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,28 +209,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nextblockcms/designing-a-type-safe-plugin-system-for-nextjs-why-zod-is-our-secret-weapon-1il7" target="_blank">Designing a Type-Safe Plugin System for Next.js: Why Zod is Our Secret Weapon</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-08 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/how-telco-companies-can-reduce-5g-infrastructure-costs-with-modern-open-source-cloud-native-technologies" target="_blank">How telco companies can reduce 5G infrastructure costs with modern open source cloud-native technologies</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-12-08 12:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/jolla-phone-returns/" target="_blank">This Could Be The Linux Phone We All Have Been Waiting For</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-12-08 12:19</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.confluent.io/blog/ibm-to-acquire-confluent/" target="_blank">IBM to Acquire Confluent</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-08 13:43</span>
             </div>
         </div>
 </div>
@@ -248,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/robocop2.jpg?fit=1500%2C792&amp;quality=60&amp;ssl=1" alt="Tesla robot repeats human operator removing headset, then falls over" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/08/tesla-robot-repeats-human-operator-removing-headset-then-falls-over.html" target="_blank">Tesla robot repeats human operator removing headset, then falls over</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-08 14:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/bose-speaker-1280x853.jpg" alt="Bose Extends Its Clearance Push From Headphones to Home Speakers, Leaving Zero Margin Behind" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bose-extends-its-clearance-push-from-headphones-to-home-speakers-leaving-zero-margin-behind-2000651213" target="_blank">Bose Extends Its Clearance Push From Headphones to Home Speakers, Leaving Zero Margin Behind</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-08 14:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Adobe-1280x851.jpeg" alt="Adobe Rolls Out Free Generative AI for Creative Cloud Pro Users as a Limited-Time Bonus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,24 +286,6 @@
                 <span class="title"><a href="https://gizmodo.com/a-predator-in-alien-earth-yeah-no-says-noah-hawley-2000696584" target="_blank">A Predator in ‘Alien: Earth’? Yeahhhhhhh, No, Says Noah Hawley</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-08 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Internxt-Cloud-Storage-Lifetime-Subscription.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Store, share, and collaborate across devices with 20TB of cloud storage for $390" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/07/store-share-and-collaborate-across-devices-with-20tb-of-cloud-storage-for-390.html" target="_blank">Store, share, and collaborate across devices with 20TB of cloud storage for $390</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-08 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Cheerble-Ball.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Keep cats entertained for only $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/07/keep-cats-entertained-for-only-15.html" target="_blank">Keep cats entertained for only $15</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-07 22:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
