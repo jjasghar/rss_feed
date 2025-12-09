@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 08:02:24 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-12-09 09:03:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88a/live/9b2cb330-d49c-11f0-b551-c948c3e8b5a0.jpg" alt="Hungry mothers and dirty wards - maternity care &#x27;much worse&#x27; than anticipated, review chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g45ev3gkdo?at_medium=RSS&at_campaign=rss" target="_blank">Hungry mothers and dirty wards - maternity care &#x27;much worse&#x27; than anticipated, review chief says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-09 08:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/9/al-jazeera-reports-from-aceh-tamiang-as-flood-survivors-face-new-dangers?traffic_source=rss" target="_blank">Al Jazeera reports from Aceh Tamiang as flood survivors face new dangers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-09 08:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -59,6 +79,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/09/g-s1-101277/honduras-seeks-arrest-hernandez-trump-pardon" target="_blank">Honduras seeks arrest of ex-President Hernández after Trump pardon</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-09 06:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/12/1920x1080/skynews-zelenskyy-stermer-macron_7105234.jpg?20251209045553" alt="Zelenskyy to share updated peace plan with US at &#x27;critical moment&#x27; for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -67,38 +96,20 @@
                 <span class="time">2025-12-09 04:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss" target="_blank">Trump clears way for sale of powerful Nvidia H200 chips to China</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-09 03:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/9/agent-tracking-app-iceblock-sues-trump-administration-in-free-speech-fight?traffic_source=rss" target="_blank">Agent-tracking app ICEBlock sues Trump administration in free speech fight</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-09 01:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88a/live/9b2cb330-d49c-11f0-b551-c948c3e8b5a0.jpg" alt="Maternity care failings &#x27;much worse&#x27; than anticipated, says head of national review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g45ev3gkdo?at_medium=RSS&at_campaign=rss" target="_blank">Maternity care failings &#x27;much worse&#x27; than anticipated, says head of national review</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-09 00:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/839481/fairphone-xl-wireless-headphones-repairable-modular" target="_blank">You can put the best part of Fairphone&amp;#8217;s new headphones into the older model</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-09 08:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="50% Off Chewy Promo Code | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +155,38 @@
                 <span class="time">2025-12-08 21:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/840161/apple-watch-series-11-holiday-deal-sale-2025" target="_blank">The Apple Watch Series 11 just got a big $100 discount ahead of the holidays</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-08 19:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/overload-protection-platform-engineering/en/headerimage/overload-protection-platform-engineering-header-1764921362184.jpg" alt="Article: Overload Protection: The Missing Pillar of Platform Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/overload-protection-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Overload Protection: The Missing Pillar of Platform Engineering</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-09 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://nbviewer.org/url/norvig.com/ipython/xkcd1313.ipynb" target="_blank">xkcd 1313: Regex Golf (2014)</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-09 08:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/linux-power-user-signs/" target="_blank">5 Signs You Have Become a Linux Power User</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-09 06:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,33 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/gst-thumbnailers-1.0-alpha" target="_blank">Rust-Based Project Aims To Provide Modern Thumbnails For Audio/Video Files On GNOME</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-09 01:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://andyljones.com/posts/horses.html" target="_blank">Horses: AI progress is steady. Human equivalence is sudden</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-09 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/firefox-146-1.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 146 Brings Full Fractional Scaling Support on Wayland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/firefox-146-release-linux-fractional-scaling-support" target="_blank">Firefox 146 Brings Full Fractional Scaling Support on Wayland</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-08 23:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/firefox-146.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 146 Released with Fractional Scaling Support on Linux," class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/firefox-146-release-linux-fractional-scaling-support" target="_blank">Firefox 146 Released with Fractional Scaling Support on Linux,</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-08 23:59</span>
             </div>
         </div>
 </div>
@@ -322,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 43 | 📸 With Images: 259 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 43 | 📸 With Images: 258 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
