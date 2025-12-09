@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 02:31:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-09 03:25:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 03:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/9/agent-tracking-app-iceblock-sues-trump-administration-in-free-speech-fight?traffic_source=rss" target="_blank">Agent-tracking app ICEBlock sues Trump administration in free speech fight</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-09 01:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/el-salvador-gty-er-251208_1765232921957_hpMain_4x3t_384.jpg" alt="Judge orders top DOJ attorney to testify about Alien Enemies Act deportations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cj38ymeyg4mo?at_medium=RSS&at_campaign=rss" target="_blank">Pioneering new treatment reverses incurable blood cancer in some patients</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-08 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/08/g-s1-101202/syria-anniversary-assad-deposed" target="_blank">Syria marks a year since Assad fled, but struggles to heal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-08 21:21</span>
             </div>
         </div>
 </div>
@@ -162,6 +166,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/pomponchik/metacode" target="_blank">Metacode: The new standard for machine-readable comments for Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-09 03:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/gst-thumbnailers-1.0-alpha" target="_blank">Rust-Based Project Aims To Provide Modern Thumbnails For Audio/Video Files On GNOME</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-09 01:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://andyljones.com/posts/horses.html" target="_blank">Horses: AI progress is steady. Human equivalence is sudden</a></span>
                 <span class="feed">Hacker News</span>
@@ -195,24 +217,6 @@
                 <span class="time">2025-12-08 22:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/layerops/the-cloud-lock-in-trap-and-the-loss-of-strategic-control-50dd" target="_blank">The cloud lock-in trap and the loss of strategic control</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-08 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries" target="_blank">Deprecations via warnings don’t work for Python libraries</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-08 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/trump-nvidia-jensen-huang-1280x853.jpg" alt="Trump Says Nvidia Can Sell the H200 Chip to China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-says-nvidia-can-sell-the-h200-chip-to-china-2000697013" target="_blank">Trump Says Nvidia Can Sell the H200 Chip to China</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-08 23:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Screenshot-McDonalds.jpg?fit=1080%2C644&amp;quality=60&amp;ssl=1" alt="Unpleasant AI-generated McDonald&#x27;s ad depicts Christmas misery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/seven-things-to-know-before-playing-metroid-prime-4-beyond-switch-2-guide-2000651384" target="_blank">7 Things To Know Before Playing Metroid Prime 4: Beyond</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-08 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/Apple-CEO-Tim-Cook-giving-a-thumbs-up-1-1280x853.jpg" alt="ICEBlock Sues White House Over Pressuring Apple for App Store Removal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/iceblock-sues-white-house-over-pressuring-apple-for-app-store-removal-2000696820" target="_blank">ICEBlock Sues White House Over Pressuring Apple for App Store Removal</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-08 19:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 43 | 📸 With Images: 258 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 43 | 📸 With Images: 257 |
+        🔄 Last Updated: 03:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
