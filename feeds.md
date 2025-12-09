@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 21:01:40 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-09 22:01:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +101,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg" alt="50% Off Verizon Promo Codes | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/verizon-promo-code/" target="_blank">50% Off Verizon Promo Codes | December 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-09 21:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/09/spacex-reportedly-planning-2026-ipo-with-1-5t-valuation-target/" target="_blank">SpaceX reportedly planning 2026 IPO with $1.5T valuation target</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-09 21:27</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -140,29 +154,20 @@
                 <span class="time">2025-12-09 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-500x500-1732556402.jpg" alt="Supreme Court appears likely to approve Trump’s firing of FTC Democrat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/supreme-court-appears-likely-to-approve-trumps-firing-of-ftc-democrat/" target="_blank">Supreme Court appears likely to approve Trump’s firing of FTC Democrat</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-09 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/693859e8da23a81834d81ac9/master/pass/OpenAI-Hires-Slack-CEO-Denise-Dresser-as-Chief-Revenue-Officer-Business-2181104969.jpg" alt="OpenAI Hires Slack CEO as New Chief Revenue Officer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/" target="_blank">OpenAI Hires Slack CEO as New Chief Revenue Officer</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-09 18:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/" target="_blank">MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-12-09 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18790121&w=600" alt="AI-Driven Alpha: Building Equity Models That Survive Emerging Markets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +213,6 @@
                 <span class="time">2025-12-09 18:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-Ubuntu-26.04-LTS" target="_blank">Canonical To Distribute AMD ROCm Libraries With Ubuntu 26.04 LTS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-09 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/magic-the-gathering-marvel-super-heroes-horn-of-greed-1280x853.jpg" alt="Doctor Doom Will Toot in the Next Marvel ‘Magic: The Gathering’ Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/magic-the-gathering-marvel-super-heroes-spoilers-doctor-doom-horn-of-greed-2000697495" target="_blank">Doctor Doom Will Toot in the Next Marvel ‘Magic: The Gathering’ Set</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-09 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/maxresdefault-8.jpg" alt="Gooner Gacha Game Abandons Steam Launch After Refusing To Make Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/browndust2-nsfw-gacha-game-steam-release-cancel-policy-2000651817" target="_blank">Gooner Gacha Game Abandons Steam Launch After Refusing To Make Changes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-09 21:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KB5T7BM47A5TMTBGPRBM8A2J/hero-image.jpg" alt="10 Hacks Every Homeowner Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +286,6 @@
                 <span class="time">2025-12-09 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBNBQGX6AE1DJEGPMS0JKN4E/hero-image.png" alt="The AirPods 4 With (and Without) ANC Are Under $100 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anc-airpods-4-sale?utm_medium=RSS" target="_blank">The AirPods 4 With (and Without) ANC Are Under $100 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-09 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/12/59a743f042b3f7ed67bdc0d6d0f8f4c9-1280x720.jpg" alt="Geoff Keighley Talks Game Awards: ‘Lots Of Games Get Sold’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/geoff-keighley-game-awards-sales-balatro-clair-obscur-2000651728" target="_blank">Geoff Keighley Talks Game Awards: ‘Lots Of Games Get Sold’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-09 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 131 | 📡 Total Sources: 43 | 📸 With Images: 259 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 131 | 📡 Total Sources: 43 | 📸 With Images: 258 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
