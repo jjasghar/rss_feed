@@ -1,35 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 05:01:50 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-12-09 06:02:55 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 2 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 06:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-zelenskyy-stermer-macron_7105234.jpg?20251209045553" alt="Zelenskyy to share updated peace plan with US at &#x27;critical moment&#x27; for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/zelenskyy-to-share-updated-peace-plan-with-us-at-critical-moment-for-ukraine-war-13481191" target="_blank">Zelenskyy to share updated peace plan with US at &#x27;critical moment&#x27; for Ukraine</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-09 04:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,6 +67,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88a/live/9b2cb330-d49c-11f0-b551-c948c3e8b5a0.jpg" alt="Maternity care failings &#x27;much worse&#x27; than anticipated, says head of national review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g45ev3gkdo?at_medium=RSS&at_campaign=rss" target="_blank">Maternity care failings &#x27;much worse&#x27; than anticipated, says head of national review</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-09 00:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/el-salvador-gty-er-251208_1765232921957_hpMain_4x3t_384.jpg" alt="Judge orders top DOJ attorney to testify about Alien Enemies Act deportations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -79,24 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/08/nx-s1-5633222/when-christmas-is-a-little-too-bright-look-to-krampus" target="_blank">When Christmas is a little too bright ... look to Krampus</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-08 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250725-Jensen-Huang-donald-trump-ew-221p-ef6523.jpg" alt="Trump says he will allow Nvidia to sell some AI chips in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/corporations/trump-nvidia-h200-chips-ai-china-rcna248107" target="_blank">Trump says he will allow Nvidia to sell some AI chips in China</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-08 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/8/acting-us-attorney-alina-habba-resigns-new-jersey-post-amid-controversy?traffic_source=rss" target="_blank">Acting US Attorney Alina Habba resigns New Jersey post amid controversy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-08 21:44</span>
             </div>
         </div>
 </div>
@@ -336,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 43 | 📸 With Images: 258 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 43 | 📸 With Images: 259 |
+        🔄 Last Updated: 06:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
