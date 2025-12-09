@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 12:02:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-09 13:13:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/9/new-cambodia-thailand-clash-whats-up-with-the-other-wars-trump?traffic_source=rss" target="_blank">New Cambodia-Thailand clash: What’s up with the other wars Trump ‘ended’?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-09 12:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +99,29 @@
                 <span class="time">2025-12-09 10:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251203-royal-rangers-tease-art-lr-4bfbbd.jpg" alt="Dozens of boys say they were abused in a Christian scouting program that vowed to raise godly men" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/royal-rangers-scouting-program-sex-abuse-christian-rcna247409" target="_blank">Dozens of boys say they were abused in a Christian scouting program that vowed to raise godly men</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-09 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6937328898f1bbdc06e79d2e/master/pass/Update%20How%20to%20Shop%20for%20a%20Mechanical%20Keyboard%20top%20art%20122025.jpg" alt="How to Shop for a Mechanical Keyboard (2025): Switches, Materials, and Layouts Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-shop-for-a-mechanical-keyboard/" target="_blank">How to Shop for a Mechanical Keyboard (2025): Switches, Materials, and Layouts Explained</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-09 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/840570/ifixit-app-android-ios-fixbot-ai" target="_blank">iFixit’s FixBot helps with repairs ‘the way a master technician would’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-09 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +158,20 @@
                 <span class="time">2025-12-09 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="50% Off Chewy Promo Code | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chewy-promo-code/" target="_blank">50% Off Chewy Promo Code | December 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-09 06:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21289209/best-apple-watch-deals" target="_blank">Here are the best Apple Watch deals available right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-08 23:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18788716&w=600" alt="Top 5 Tips to Shrink and Secure Docker Images" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/shrink-secure-docker-images-top-tips" target="_blank">Top 5 Tips to Shrink and Secure Docker Images</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-09 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The Kids Aren&#x27;t Alright" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,30 +200,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/12/replit-ai-integrations/en/headerimage/generatedHeaderImage-1765206386613.jpg" alt="Replit Introduces New AI Integrations for Multi-Model Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/replit-ai-integrations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Replit Introduces New AI Integrations for Multi-Model Development</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-09 10:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aerabi/day-9-runtime-threat-detection-the-shadow-with-red-eyes-5ca4" target="_blank">Day 9 — Runtime Threat Detection (The Shadow with Red Eyes)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-09 09:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/overload-protection-platform-engineering/en/headerimage/overload-protection-platform-engineering-header-1764921362184.jpg" alt="Article: Overload Protection: The Missing Pillar of Platform Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/overload-protection-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Overload Protection: The Missing Pillar of Platform Engineering</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-09 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://nbviewer.org/url/norvig.com/ipython/xkcd1313.ipynb" target="_blank">xkcd 1313: Regex Golf (2014)</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-09 08:41</span>
             </div>
         </div>
 </div>
@@ -222,9 +226,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/substitution-cipher-based-on-the-voynich-manuscript.html" target="_blank">Substitution Cipher Based on The Voynich Manuscript</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/ai-vs-human-drivers.html" target="_blank">AI vs. Human Drivers</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-08 12:04</span>
+                <span class="time">2025-12-09 12:07</span>
             </div>
         </div>
 </div>
@@ -232,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Eureka_2-1280x853.jpg" alt="Amazon Offloads Eureka’s Robot Vacuum and Mop Combo at an All-Time Low for Holiday Clearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazon-offloads-eurekas-robot-vacuum-and-mop-combo-at-an-all-time-low-for-holiday-clearance-2000697113" target="_blank">Amazon Offloads Eureka’s Robot Vacuum and Mop Combo at an All-Time Low for Holiday Clearance</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-09 12:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/andor-season-2-ending-bix-1280x853.jpg" alt="Tony Gilroy Is Still Letting ‘Andor’ Theorists Down Gently" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +290,6 @@
                 <span class="time">2025-12-08 21:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K981BZQ7WSYSCQ86F4K0T568/hero-image.png" alt="The Google Pixel 10 Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-10-deal?utm_medium=RSS" target="_blank">The Google Pixel 10 Is $200 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-08 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 43 | 📸 With Images: 259 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 43 | 📸 With Images: 259 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
