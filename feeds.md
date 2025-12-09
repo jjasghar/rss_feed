@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 07:02:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-09 08:02:24 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/9/israels-ex-pm-ehud-barak-and-jeffrey-epstein-had-close-relationship-emails-reveal?traffic_source=rss" target="_blank">Israel’s ex-PM Ehud Barak and Epstein had close relationship, emails reveal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-09 07:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1544/live/b712fe50-d4c0-11f0-a892-01d657345866.jpg" alt="Ukraine prepares new peace plan as Zelensky rules out giving up land" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +94,20 @@
                 <span class="time">2025-12-09 00:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/el-salvador-gty-er-251208_1765232921957_hpMain_4x3t_384.jpg" alt="Judge orders top DOJ attorney to testify about Alien Enemies Act deportations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/judge-orders-top-doj-attorney-testify-alien-enemies/story?id=128222048" target="_blank">Judge orders top DOJ attorney to testify about Alien Enemies Act deportations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-08 23:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="50% Off Chewy Promo Code | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chewy-promo-code/" target="_blank">50% Off Chewy Promo Code | December 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-09 06:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +151,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/840161/apple-watch-series-11-holiday-deal-sale-2025" target="_blank">The Apple Watch Series 11 just got a big $100 discount ahead of the holidays</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-08 19:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/839817/anthropic-claude-code-slack-integration" target="_blank">Anthropic is bringing Claude Code to Slack</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-08 19:01</span>
             </div>
         </div>
 </div>
@@ -324,22 +317,13 @@
                 <span class="time">2025-12-08 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/08/wrapper-s-delight" target="_blank">Wrapper&#x27;s Delight</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-08 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 43 | 📸 With Images: 259 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 43 | 📸 With Images: 259 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
