@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 19:01:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-09 20:01:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/09/drc-fighting-forces-200000-to-flee-just-days-after-washington-peace-deal" target="_blank">DRC fighting forces 200,000 to flee just days after Washington peace deal</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-09 19:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,21 +97,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e2a/live/c36324a0-d506-11f0-a892-01d657345866.jpg" alt="Ex-children&#x27;s boss to lead grooming gang inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-espen-barth-eide-norway_7105718.jpg?20251209153436" alt="&#x27;Cheap ceasefire&#x27; between Ukraine and Russia would create &#x27;expensive peace&#x27; for Europe, Norway&#x27;s foreign minister warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgk2pj2ygko?at_medium=RSS&at_campaign=rss" target="_blank">Ex-children&#x27;s boss to lead grooming gang inquiry</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-09 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df8a/live/623e1270-d515-11f0-9fb5-5f3a3703a365.jpg" alt="Trump criticises &#x27;weak&#x27; European leaders over Ukraine and immigration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss" target="_blank">Trump criticises &#x27;weak&#x27; European leaders over Ukraine and immigration</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-09 15:30</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/cheap-ceasefire-between-ukraine-and-russia-would-create-expensive-peace-for-europe-norways-foreign-minister-warns-13481353" target="_blank">&#x27;Cheap ceasefire&#x27; between Ukraine and Russia would create &#x27;expensive peace&#x27; for Europe, Norway&#x27;s foreign minister warns</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-09 16:42</span>
             </div>
         </div>
 </div>
@@ -102,6 +110,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale" target="_blank">The AirPods Pro 3 are back to their lowest price ahead of the holidays</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-09 19:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -118,6 +135,15 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/supreme-court-appears-likely-to-approve-trumps-firing-of-ftc-democrat/" target="_blank">Supreme Court appears likely to approve Trump’s firing of FTC Democrat</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-12-09 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/693859e8da23a81834d81ac9/master/pass/OpenAI-Hires-Slack-CEO-Denise-Dresser-as-Chief-Revenue-Officer-Business-2181104969.jpg" alt="OpenAI Hires Slack CEO as New Chief Revenue Officer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/" target="_blank">OpenAI Hires Slack CEO as New Chief Revenue Officer</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-09 18:35</span>
             </div>
         </div>
 <div class="story">
@@ -138,24 +164,6 @@
                 <span class="time">2025-12-09 17:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Pixel-watch-4-1-500x500.jpg" alt="Google is reviving wearable gesture controls, but only for the Pixel Watch 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/google-is-reviving-wearable-gesture-controls-but-only-for-the-pixel-watch-4/" target="_blank">Google is reviving wearable gesture controls, but only for the Pixel Watch 4</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-09 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/09/facebook-redesign-focuses-on-friends-photos-marketplace-and-more/" target="_blank">Facebook redesign focuses on friends, photos, Marketplace and more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-09 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,9 +173,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cloudwiseteam/i-built-an-ai-powered-aws-waste-detector-and-found-4200-in-my-own-account-2cc4" target="_blank">I Built an AI-Powered AWS Waste Detector (and Found $4,200 in My Own Account)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-09 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18788847&w=600" alt="Designing Java Web Services That Recover From Failure Instead of Breaking Under Load" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/design-java-web-services-that-recover-from-failure" target="_blank">Designing Java Web Services That Recover From Failure Instead of Breaking Under Load</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-09 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sandeepk27/day-10-partitioning-vs-bucketing-the-spark-optimization-guide-every-data-engineer-needs-mlj" target="_blank">Day 10: Partitioning vs Bucketing - The Spark Optimization Guide Every Data Engineer Needs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-09 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-Ubuntu-26.04-LTS" target="_blank">Canonical To Distribute AMD ROCm Libraries With Ubuntu 26.04 LTS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-09 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +221,6 @@
                 <span class="title"><a href="https://dev.to/nife_nitola/excel-for-project-management-tracking-timelines-and-deliverables-293n" target="_blank">Excel for Project Management: Tracking Timelines and Deliverables</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-09 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Foundation-Agentic-AI" target="_blank">Linux Foundation&#x27;s Newest Endeavor: The Agentic AI Foundation</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-09 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18775172&w=600" alt="How to Achieve and Maintain Cloud Compliance With System Initiative" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/achieve-maintain-cloud-compliance-with-system-initiative" target="_blank">How to Achieve and Maintain Cloud Compliance With System Initiative</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-09 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/" target="_blank">Speed is nothing without control: How to keep quality high in the AI era</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-12-09 17:00</span>
             </div>
         </div>
 </div>
@@ -235,11 +243,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/croydon-facelift.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="The &quot;Croydon Facelift&quot; is a hairstyle with a class war built in" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/09/the-croydon-facelift-is-a-hairstyle-with-a-class-war-built-in.html" target="_blank">The &quot;Croydon Facelift&quot; is a hairstyle with a class war built in</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-09 19:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Avatar-Interview-4-1280x853.jpg" alt="‘Avatar: Fire and Ash’ Isn’t About Spectacle, It’s About Family" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/avatar-fire-and-ash-isnt-about-spectacle-its-about-family-2000696851" target="_blank">‘Avatar: Fire and Ash’ Isn’t About Spectacle, It’s About Family</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-09 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBNBQGX6AE1DJEGPMS0JKN4E/hero-image.png" alt="The AirPods 4 With (and Without) ANC Are Under $100 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anc-airpods-4-sale?utm_medium=RSS" target="_blank">The AirPods 4 With (and Without) ANC Are Under $100 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-09 19:00</span>
             </div>
         </div>
@@ -270,24 +296,6 @@
                 <span class="time">2025-12-09 18:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/89777955-82bc-4c35-ab5e-7f9c990b962a_1186x1082.webp?fit=1186%2C1082&amp;quality=55&amp;ssl=1" alt="US downgraded from democracy to banana republic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/09/us-downgraded-from-democracy-to-banana-republic.html" target="_blank">US downgraded from democracy to banana republic</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-09 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1BJEZWYT03RNASEAPBARJNN/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Samsung Galaxy Watch 8" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-samsung-galaxy-watch-8?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Samsung Galaxy Watch 8</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-09 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,22 +310,13 @@
                 <span class="time">2025-12-09 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/08/wrapper-s-delight" target="_blank">Wrapper&#x27;s Delight</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-08 20:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 43 | 📸 With Images: 258 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 126 | 📡 Total Sources: 43 | 📸 With Images: 258 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
