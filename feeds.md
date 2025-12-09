@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 10:01:45 UTC -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-12-09 11:01:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/newsom_1765247387030_hpMain_4x3t_384.jpg" alt="Democratic governors present as leaders against Trump ahead of midterms, 2028" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/democratic-governors-position-national-leaders-trump-ahead-midterms/story?id=128227672" target="_blank">Democratic governors present as leaders against Trump ahead of midterms, 2028</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-09 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/9/florida-lists-muslim-rights-group-cair-a-terror?traffic_source=rss" target="_blank">Florida lists Muslim rights group CAIR a ‘terror organisation’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-09 10:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/09/nigeria-troops-held-burkina-faso-emergency-landing" target="_blank">Nigerian troops held in Burkina Faso after ‘unfriendly’ emergency landing</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-09 10:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251203-royal-rangers-tease-art-lr-4bfbbd.jpg" alt="Dozens of boys say they were abused in a Christian scouting program that vowed to raise godly men" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/royal-rangers-scouting-program-sex-abuse-christian-rcna247409" target="_blank">Dozens of boys say they were abused in a Christian scouting program that vowed to raise godly men</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-09 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88a/live/9b2cb330-d49c-11f0-b551-c948c3e8b5a0.jpg" alt="Hungry mothers and dirty wards - maternity care &#x27;much worse&#x27; than anticipated, review chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -58,47 +100,20 @@
                 <span class="time">2025-12-09 08:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/9/israels-ex-pm-ehud-barak-and-jeffrey-epstein-had-close-relationship-emails-reveal?traffic_source=rss" target="_blank">Israel’s ex-PM Ehud Barak and Epstein had close relationship, emails reveal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-09 07:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1544/live/b712fe50-d4c0-11f0-a892-01d657345866.jpg" alt="Ukraine prepares new peace plan as Zelensky rules out giving up land" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine prepares new peace plan as Zelensky rules out giving up land</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-09 06:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/09/g-s1-101277/honduras-seeks-arrest-hernandez-trump-pardon" target="_blank">Honduras seeks arrest of ex-President Hernández after Trump pardon</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-09 06:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-zelenskyy-stermer-macron_7105234.jpg?20251209045553" alt="Zelenskyy to share updated peace plan with US at &#x27;critical moment&#x27; for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/zelenskyy-to-share-updated-peace-plan-with-us-at-critical-moment-for-ukraine-war-13481191" target="_blank">Zelenskyy to share updated peace plan with US at &#x27;critical moment&#x27; for Ukraine</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-09 04:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69374ba6ceb33c37ef2a4913/master/pass/biz-ai-bitcoin-mining-1007877006.jpg" alt="America’s Biggest Bitcoin Miners Are Pivoting to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/" target="_blank">America’s Biggest Bitcoin Miners Are Pivoting to AI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-09 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +159,29 @@
                 <span class="time">2025-12-08 22:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2235825531-500x500.jpg" alt="ICEBlock lawsuit: Trump admin bragged about demanding App Store removal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/iceblock-lawsuit-trump-admin-bragged-about-demanding-app-store-removal/" target="_blank">ICEBlock lawsuit: Trump admin bragged about demanding App Store removal</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-08 21:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F366059%2F44d4a869-bb26-4b8e-aa73-6e596b4b4b8a.jpg" alt="Refactoring 037 - Testing Private Methods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mcsee/refactoring-037-testing-private-methods-5d68" target="_blank">Refactoring 037 - Testing Private Methods</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-09 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-F2FS" target="_blank">F2FS Brings More Performance Optimizations To Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-09 10:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +218,6 @@
                 <span class="time">2025-12-09 06:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/canberkvarli/fullcircle-where-spiritual-practice-meets-meaningful-connection-52ab" target="_blank">fullcircle • Mindful Dating App</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-09 04:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/pomponchik/metacode" target="_blank">Metacode: The new standard for machine-readable comments for Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-09 03:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/andor-season-2-ending-bix-1280x853.jpg" alt="Tony Gilroy Is Still Letting ‘Andor’ Theorists Down Gently" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tony-gilroy-andor-season-2-ending-bix-cassian-death-star-wars-rogue-one-2000697016" target="_blank">Tony Gilroy Is Still Letting ‘Andor’ Theorists Down Gently</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-09 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/trump-nvidia-jensen-huang-1280x853.jpg" alt="Trump Says Nvidia Can Sell the H200 Chip to China" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +291,6 @@
                 <span class="time">2025-12-08 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/Metroid-Prime-4-1-1-1280x720.jpg" alt="7 Things To Know Before Playing Metroid Prime 4: Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/seven-things-to-know-before-playing-metroid-prime-4-beyond-switch-2-guide-2000651384" target="_blank">7 Things To Know Before Playing Metroid Prime 4: Beyond</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-08 19:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 43 | 📸 With Images: 258 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 43 | 📸 With Images: 258 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
