@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 18:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-09 19:01:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/09/colombian-mercenaries-sudan-sanctions" target="_blank">US puts sanctions on network said to funnel Colombian mercenaries to Sudan</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-09 18:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/09/nx-s1-5634506/taxes-the-price-of-democracy" target="_blank">Believe it or not, this book makes taxes fascinating</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-09 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b544/live/0f3f2940-d521-11f0-8c06-f5d460985095.jpg" alt="Storm Bram brings flooding and travel disruption to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c23e7z9dek8o?at_medium=RSS&at_campaign=rss" target="_blank">Storm Bram brings flooding and travel disruption to UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-09 17:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +97,29 @@
                 <span class="time">2025-12-09 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/digidocs/2025/12/9/aje-onl-digidocs_iloveyoumore-091225?traffic_source=rss" target="_blank">I Love You More: The Search for a Father in Syria’s Lost Memories</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-09 14:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/scotus_build-y12ete.jpg" alt="Supreme Court hears arguments for case on campaign finance restrictions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-supreme-court-hears-arguments-for-case-on-campaign-finance-restrictions-254032965743" target="_blank">Supreme Court hears arguments for case on campaign finance restrictions</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-09 14:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/09/nx-s1-5634738/russia-ukraine-war-donetsk-region" target="_blank">Ukraine&#x27;s last eastern strongholds hang on as Russia fights to take Donbas</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-09 13:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/780847/best-dad-gift-ideas" target="_blank">The best gifts for dads that have everything (but deserve more)</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-09 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-500x500-1732556402.jpg" alt="Supreme Court appears likely to approve Trump’s firing of FTC Democrat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/supreme-court-appears-likely-to-approve-trumps-firing-of-ftc-democrat/" target="_blank">Supreme Court appears likely to approve Trump’s firing of FTC Democrat</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-09 18:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +156,20 @@
                 <span class="time">2025-12-09 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/concrete1-500x500.jpg" alt="Study confirms Romans used “hot mixing“ to make concrete" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/study-confirms-romans-used-hot-mixing-to-make-concrete/" target="_blank">Study confirms Romans used “hot mixing“ to make concrete</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/840308/spotify-music-videos-beta-us-canada" target="_blank">Spotify’s music videos feature arrives in the US and Canada</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-09 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sandeepk27/day-10-partitioning-vs-bucketing-the-spark-optimization-guide-every-data-engineer-needs-mlj" target="_blank">Day 10: Partitioning vs Bucketing - The Spark Optimization Guide Every Data Engineer Needs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-09 18:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/12/agentic-postgres-fast-forking/en/headerimage/agentic-prostgres-forking-1765301344662.jpeg" alt="Agentic Postgres: Postgres for Agentic Apps with Fast Forking and AI-Ready Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +215,6 @@
                 <span class="time">2025-12-09 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/a6d395a2-edb6-4bb7-b8e4-ffb982935b52_1594x1106.png" alt="Building MCP servers in the real world" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/mcp-deepdive" target="_blank">Building MCP servers in the real world</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-12-09 16:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +234,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Avatar-Interview-4-1280x853.jpg" alt="‘Avatar: Fire and Ash’ Isn’t About Spectacle, It’s About Family" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/avatar-fire-and-ash-isnt-about-spectacle-its-about-family-2000696851" target="_blank">‘Avatar: Fire and Ash’ Isn’t About Spectacle, It’s About Family</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-09 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/12/59a743f042b3f7ed67bdc0d6d0f8f4c9-1280x720.jpg" alt="Geoff Keighley Talks Game Awards: ‘Lots Of Games Get Sold’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/geoff-keighley-game-awards-sales-balatro-clair-obscur-2000651728" target="_blank">Geoff Keighley Talks Game Awards: ‘Lots Of Games Get Sold’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-09 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KB4W4TKHXTNC6N1PACDZC71W/hero-image.jpg" alt="10 Hacks Every iPhone User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hacks-every-iphone-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every iPhone User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-09 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/yir-twins-1280x853.jpg" alt="From ‘Sinners’ to ‘Frankenstein,’ 2025 Put Twins All Over the Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,33 +288,6 @@
                 <span class="time">2025-12-09 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/batman3-1280x720.jpg" alt="Netflix Considers Warner Bros. Games To Be Pretty Much Worthless" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/netflix-warner-bros-games-batman-harry-potter-deal-2000651695" target="_blank">Netflix Considers Warner Bros. Games To Be Pretty Much Worthless</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-09 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/construction-materials-pompeii-1280x853.jpg" alt="Ancient Construction Site at Pompeii Sheds Light on Rome’s Miraculous Self-Healing Cement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ancient-construction-site-at-pompeii-sheds-light-on-romes-miraculous-self-healing-cement-2000697080" target="_blank">Ancient Construction Site at Pompeii Sheds Light on Rome’s Miraculous Self-Healing Cement</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/kennedy-.jpg" alt="PlayStation Store Leak Finally Confirms Leon Is In Resident Evil Requiem After Endless Speculation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/leon-kennedy-resident-evil-requiem-9-playable-leak-2000651669" target="_blank">PlayStation Store Leak Finally Confirms Leon Is In Resident Evil Requiem After Endless Speculation</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-09 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,22 +311,13 @@
                 <span class="time">2025-12-08 20:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/08/must-watch-video" target="_blank">Must Watch Video!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-08 18:39</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 43 | 📸 With Images: 258 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 43 | 📸 With Images: 258 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
