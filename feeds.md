@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 13:13:14 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-12-09 14:01:34 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/09/nx-s1-5634738/russia-ukraine-war-donetsk-region" target="_blank">Ukraine&#x27;s last eastern strongholds hang on as Russia fights to take Donbas</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-09 13:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +94,29 @@
                 <span class="time">2025-12-09 10:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/09/nigeria-troops-held-burkina-faso-emergency-landing" target="_blank">Nigerian troops held in Burkina Faso after ‘unfriendly’ emergency landing</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-09 10:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/840142/aura-text-to-frame-digital-picture-frame-share-photos" target="_blank">You can now text photos directly to Aura&amp;#8217;s digital picture frames</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-09 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/09/empromptu-raises-2m-pre-seed-to-help-enterprises-build-ai-apps/" target="_blank">Empromptu raises $2M pre-seed to help enterprises build AI apps</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-09 13:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6937328898f1bbdc06e79d2e/master/pass/Update%20How%20to%20Shop%20for%20a%20Mechanical%20Keyboard%20top%20art%20122025.jpg" alt="How to Shop for a Mechanical Keyboard (2025): Switches, Materials, and Layouts Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +153,29 @@
                 <span class="time">2025-12-09 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69374ba6ceb33c37ef2a4913/master/pass/biz-ai-bitcoin-mining-1007877006.jpg" alt="America’s Biggest Bitcoin Miners Are Pivoting to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/" target="_blank">America’s Biggest Bitcoin Miners Are Pivoting to AI</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-09 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/839481/fairphone-xl-wireless-headphones-repairable-modular" target="_blank">You can put the best part of Fairphone&amp;#8217;s new headphones into the older model</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-09 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/openai-gpt-51/en/headerimage/generatedHeaderImage-1765114067009.jpg" alt="OpenAI&#x27;s New GPT-5.1 Models Are Faster and More Conversational" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/openai-gpt-51/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI&#x27;s New GPT-5.1 Models Are Faster and More Conversational</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-09 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/adarsh_gupta_c5fecf658fd7/terraform-data-source-aws-49hd" target="_blank">Terraform Data Source (AWS)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-09 13:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18788716&w=600" alt="Top 5 Tips to Shrink and Secure Docker Images" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +212,6 @@
                 <span class="time">2025-12-09 10:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/replit-ai-integrations/en/headerimage/generatedHeaderImage-1765206386613.jpg" alt="Replit Introduces New AI Integrations for Multi-Model Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/replit-ai-integrations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Replit Introduces New AI Integrations for Multi-Model Development</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-09 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aerabi/day-9-runtime-threat-detection-the-shadow-with-red-eyes-5ca4" target="_blank">Day 9 — Runtime Threat Detection (The Shadow with Red Eyes)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-09 09:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HV76FDNB90JPQDF282S348ZD/hero-image.png" alt="My Favorite Productivity Advice From Books (so You Don’t Have to Read Them All)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/work/best-productivity-advice-from-books?utm_medium=RSS" target="_blank">My Favorite Productivity Advice From Books (so You Don’t Have to Read Them All)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-09 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Eureka_2-1280x853.jpg" alt="Amazon Offloads Eureka’s Robot Vacuum and Mop Combo at an All-Time Low for Holiday Clearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +285,6 @@
                 <span class="time">2025-12-08 22:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/shutterstock_2397039605-1.jpg?fit=805%2C585&amp;quality=60&amp;ssl=1" alt="Assault charge for man who blew snow on victim with snow blower" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/08/assault-charge-for-man-who-blew-snow-on-victim-with-snow-blower.html" target="_blank">Assault charge for man who blew snow on victim with snow blower</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-08 21:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 43 | 📸 With Images: 259 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 43 | 📸 With Images: 259 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
