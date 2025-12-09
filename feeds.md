@@ -1,40 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 15:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-09 16:02:24 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 12 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +52,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df8a/live/623e1270-d515-11f0-9fb5-5f3a3703a365.jpg" alt="Trump criticises &#x27;weak&#x27; European leaders over Ukraine and immigration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss" target="_blank">Trump criticises &#x27;weak&#x27; European leaders over Ukraine and immigration</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-09 15:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/digidocs/2025/12/9/aje-onl-digidocs_iloveyoumore-091225?traffic_source=rss" target="_blank">I Love You More: The Search for a Father in Syria’s Lost Memories</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-09 14:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/scotus_build-y12ete.jpg" alt="Supreme Court hears arguments for case on campaign finance restrictions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-supreme-court-hears-arguments-for-case-on-campaign-finance-restrictions-254032965743" target="_blank">Supreme Court hears arguments for case on campaign finance restrictions</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-09 14:07</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +105,20 @@
                 <span class="time">2025-12-09 11:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/africa-now/2025/12/9/detty-december?traffic_source=rss" target="_blank">Detty December</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-09 11:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/newsom_1765247387030_hpMain_4x3t_384.jpg" alt="Democratic governors present as leaders against Trump ahead of midterms, 2028" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/democratic-governors-position-national-leaders-trump-ahead-midterms/story?id=128227672" target="_blank">Democratic governors present as leaders against Trump ahead of midterms, 2028</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-09 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/concrete1-500x500.jpg" alt="Study confirms Romans used “hot mixing“ to make concrete" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/study-confirms-romans-used-hot-mixing-to-make-concrete/" target="_blank">Study confirms Romans used “hot mixing“ to make concrete</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-09 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -116,6 +126,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/840308/spotify-music-videos-beta-us-canada" target="_blank">Spotify’s music videos feature arrives in the US and Canada</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-09 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/693736203470dde182fcfaa3/master/pass/Pebble%20Index%20top%20art%20SOURCE%20Pebble.jpg" alt="Pebble Index: Everything You Need to Know About the $75 Smart Ring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/pebble-index-ring/" target="_blank">Pebble Index: Everything You Need to Know About the $75 Smart Ring</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-09 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -145,29 +164,29 @@
                 <span class="time">2025-12-09 13:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6937328898f1bbdc06e79d2e/master/pass/Update%20How%20to%20Shop%20for%20a%20Mechanical%20Keyboard%20top%20art%20122025.jpg" alt="How to Shop for a Mechanical Keyboard (2025): Switches, Materials, and Layouts Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-shop-for-a-mechanical-keyboard/" target="_blank">How to Shop for a Mechanical Keyboard (2025): Switches, Materials, and Layouts Explained</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/840570/ifixit-app-android-ios-fixbot-ai" target="_blank">iFixit’s FixBot helps with repairs ‘the way a master technician would’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-09 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792537&w=600" alt="Agile Is Dead, Long Live Agility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agile-is-dead-long-live-agility" target="_blank">Agile Is Dead, Long Live Agility</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-09 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-embedded-2005" target="_blank">AMD EPYC Embedded 2005 Series Announced For BGA Zen 5 CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-09 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3636120%2F18efae8e-614d-4660-8441-b5bd31b214f3.png" alt="YT video : https://www.youtube.com/watch?v=1mbIf1pEP0Y" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,24 +223,6 @@
                 <span class="time">2025-12-09 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/openai-gpt-51/en/headerimage/generatedHeaderImage-1765114067009.jpg" alt="OpenAI&#x27;s New GPT-5.1 Models Are Faster and More Conversational" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/openai-gpt-51/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI&#x27;s New GPT-5.1 Models Are Faster and More Conversational</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-09 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/adarsh_gupta_c5fecf658fd7/terraform-data-source-aws-49hd" target="_blank">Terraform Data Source (AWS)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-09 13:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +242,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/construction-materials-pompeii-1280x853.jpg" alt="Ancient Construction Site at Pompeii Sheds Light on Rome’s Miraculous Self-Healing Cement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ancient-construction-site-at-pompeii-sheds-light-on-romes-miraculous-self-healing-cement-2000697080" target="_blank">Ancient Construction Site at Pompeii Sheds Light on Rome’s Miraculous Self-Healing Cement</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-09 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/kennedy-.jpg" alt="PlayStation Store Leak Finally Confirms Leon Is In Resident Evil Requiem After Endless Speculation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/leon-kennedy-resident-evil-requiem-9-playable-leak-2000651669" target="_blank">PlayStation Store Leak Finally Confirms Leon Is In Resident Evil Requiem After Endless Speculation</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-09 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KC1HZPG712EAKM1NVA9T5DGC/hero-image.png" alt="Apple’s New iPhone Update Will Make Sure You’ll Never Miss a Reminder Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/iphone-alarm-for-reminders?utm_medium=RSS" target="_blank">Apple’s New iPhone Update Will Make Sure You’ll Never Miss a Reminder Again</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-09 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HV76FDNB90JPQDF282S348ZD/hero-image.png" alt="My Favorite Productivity Advice From Books (so You Don’t Have to Read Them All)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,33 +294,6 @@
                 <span class="title"><a href="https://gizmodo.com/tony-gilroy-andor-season-2-ending-bix-cassian-death-star-wars-rogue-one-2000697016" target="_blank">Tony Gilroy Is Still Letting ‘Andor’ Theorists Down Gently</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-09 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/trump-nvidia-jensen-huang-1280x853.jpg" alt="Trump Says Nvidia Can Sell the H200 Chip to China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-says-nvidia-can-sell-the-h200-chip-to-china-2000697013" target="_blank">Trump Says Nvidia Can Sell the H200 Chip to China</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-08 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Screenshot-McDonalds.jpg?fit=1080%2C644&amp;quality=60&amp;ssl=1" alt="Unpleasant AI-generated McDonald&#x27;s ad depicts Christmas misery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/08/few-likes-for-uncanny-mcdonalds-ai-ad-depicting-christmas-mishaps.html" target="_blank">Unpleasant AI-generated McDonald&#x27;s ad depicts Christmas misery</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-08 23:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Analogue3ds.jpg" alt="The Battle Of The Translucent N64s Has Arrived" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/analogue-3d-color-n64-modretro-palmer-luckey-2000651467" target="_blank">The Battle Of The Translucent N64s Has Arrived</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-08 22:36</span>
             </div>
         </div>
 </div>
@@ -332,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
