@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-08 23:01:27 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-09 00:04:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, December 08, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +52,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/el-salvador-gty-er-251208_1765232921957_hpMain_4x3t_384.jpg" alt="Judge orders top DOJ attorney to testify about Alien Enemies Act deportations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/judge-orders-top-doj-attorney-testify-alien-enemies/story?id=128222048" target="_blank">Judge orders top DOJ attorney to testify about Alien Enemies Act deportations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-08 23:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/08/nx-s1-5633222/when-christmas-is-a-little-too-bright-look-to-krampus" target="_blank">When Christmas is a little too bright ... look to Krampus</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-08 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250725-Jensen-Huang-donald-trump-ew-221p-ef6523.jpg" alt="Trump says he will allow Nvidia to sell some AI chips in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/corporations/trump-nvidia-h200-chips-ai-china-rcna248107" target="_blank">Trump says he will allow Nvidia to sell some AI chips in China</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-08 22:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/8/acting-us-attorney-alina-habba-resigns-new-jersey-post-amid-controversy?traffic_source=rss" target="_blank">Acting US Attorney Alina Habba resigns New Jersey post amid controversy</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-08 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ae/live/c20e07e0-d435-11f0-8642-e5058b210012.jpg" alt="Pioneering new treatment reverses incurable blood cancer in some patients" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj38ymeyg4mo?at_medium=RSS&at_campaign=rss" target="_blank">Pioneering new treatment reverses incurable blood cancer in some patients</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-08 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -62,47 +105,29 @@
                 <span class="time">2025-12-08 21:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/8/celebrations-military-parade-mark-one-year-since-fall-of-assad?traffic_source=rss" target="_blank">Celebrations, military parade mark one year since fall of Assad</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-08 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39ac/live/3c7c7cc0-d457-11f0-8c06-f5d460985095.jpg" alt="Critical moment to ramp up support for Ukraine, European allies say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&at_campaign=rss" target="_blank">Critical moment to ramp up support for Ukraine, European allies say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-08 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-annoucement-1-rt-jef-251203_1764794105849_hpMain_4x3t_384.jpg" alt="Trump to announce $12 billion bailout plan for farmers, White House official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-announce-12-billion-bailout-plan-farmers-white/story?id=128214384" target="_blank">Trump to announce $12 billion bailout plan for farmers, White House official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-08 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/08/nx-s1-5637476/trump-administration-announcing-12-billion-in-one-time-payments-to-farmers" target="_blank">Trump administration announcing $12 billion in one-time payments to farmers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-08 19:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21289209/best-apple-watch-deals" target="_blank">Here are the best Apple Watch deals available right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-08 23:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/08/ftc-upholds-ban-on-stalkerware-founder-scott-zuckerman/" target="_blank">FTC upholds ban on stalkerware founder Scott Zuckerman</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-08 22:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +164,29 @@
                 <span class="time">2025-12-08 19:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6936f402f531b8d4d032a16f/master/pass/GettyImages-2182084501.jpg" alt="For the First Time, Mutations in a Single Gene Have Been Linked to Mental Illness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mutations-in-a-single-gene-have-been-linked-to-mental-illness/" target="_blank">For the First Time, Mutations in a Single Gene Have Been Linked to Mental Illness</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-08 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2250240969-500x500.jpg" alt="Paramount tries to swipe Warner Bros. from Netflix with a hostile takeover" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/paramount-says-it-could-get-antitrust-approval-for-wbd-before-netflix/" target="_blank">Paramount tries to swipe Warner Bros. from Netflix with a hostile takeover</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-08 18:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/firefox-146.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 146 Released with Fractional Scaling Support on Linux," class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/firefox-146-release-linux-fractional-scaling-support" target="_blank">Firefox 146 Released with Fractional Scaling Support on Linux,</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-08 23:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fpollinations.ai%2Fp%2FRetro-futuristic%2520synthwave%2520minimalist%2520abstract%2520global%2520economy%2520symbol.%2520Deep%2520blues%252C%2520electric%2520purples%252C%2520neon%2520pinks%252C%2520cyan%2520lines.%2520text%2520%2522ECONOMY%2522%2520in%2520retro%2520pixel%2520font%2520at%2520bottom.%252C%2520retro-futuristic%2520vector%2520art%252C%2520synthwave%2520style%252C%2520neon%2520gradient%2520colors%252C%2520dark%2520background%252C%2520high%2520quality%252C%25208k%252C%2520dribbble%2520style%3Fwidth%3D1280%26height%3D720%26seed%3D179241%26model%3Dflux%26nologo%3Dtrue" alt="The Invisible Hand You&#x27;re Ignoring: Macroeconomics Decoded" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thinkaddict/the-invisible-hand-youre-ignoring-macroeconomics-decoded-23ip" target="_blank">The Invisible Hand You&#x27;re Ignoring: Macroeconomics Decoded</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-08 23:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +221,6 @@
                 <span class="title"><a href="https://dzone.com/articles/streamlining-incident-management-ibm-cloud-logs" target="_blank">Streamlining Incident Management with IBM Cloud Logs, Event Notifications, and PagerDuty</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-08 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18763642&w=600" alt="Disaster Recovery Testing for DevOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/disaster-recovery-testing-for-devops" target="_blank">Disaster Recovery Testing for DevOps</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-08 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jepsen.io/analyses/nats-2.12.1" target="_blank">Jepsen: NATS 2.12.1</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-08 18:51</span>
             </div>
         </div>
 </div>
@@ -344,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 43 | 📸 With Images: 257 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 43 | 📸 With Images: 258 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
