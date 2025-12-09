@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 09:03:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-09 10:01:45 UTC -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -161,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aerabi/day-9-runtime-threat-detection-the-shadow-with-red-eyes-5ca4" target="_blank">Day 9 — Runtime Threat Detection (The Shadow with Red Eyes)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-09 09:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/overload-protection-platform-engineering/en/headerimage/overload-protection-platform-engineering-header-1764921362184.jpg" alt="Article: Overload Protection: The Missing Pillar of Platform Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -203,15 +210,6 @@
                 <span class="title"><a href="https://github.com/pomponchik/metacode" target="_blank">Metacode: The new standard for machine-readable comments for Python</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-12-09 03:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/gst-thumbnailers-1.0-alpha" target="_blank">Rust-Based Project Aims To Provide Modern Thumbnails For Audio/Video Files On GNOME</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-09 01:42</span>
             </div>
         </div>
 </div>
@@ -324,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 43 | 📸 With Images: 258 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 43 | 📸 With Images: 258 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
