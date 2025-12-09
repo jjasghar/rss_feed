@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 11:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-09 12:02:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/09/g-s1-101285/up-first-newsletter-trump-affordability-problem-scotus-rebecca-slaughter-indiana-redistricting" target="_blank">Trump to address affordability. And, the significance of Indiana&#x27;s redistricting fight</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-09 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/africa-now/2025/12/9/detty-december?traffic_source=rss" target="_blank">Detty December</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-09 11:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/newsom_1765247387030_hpMain_4x3t_384.jpg" alt="Democratic governors present as leaders against Trump ahead of midterms, 2028" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +95,29 @@
                 <span class="time">2025-12-09 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88a/live/9b2cb330-d49c-11f0-b551-c948c3e8b5a0.jpg" alt="Hungry mothers and dirty wards - maternity care &#x27;much worse&#x27; than anticipated, review chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g45ev3gkdo?at_medium=RSS&at_campaign=rss" target="_blank">Hungry mothers and dirty wards - maternity care &#x27;much worse&#x27; than anticipated, review chief says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-09 08:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/9/al-jazeera-reports-from-aceh-tamiang-as-flood-survivors-face-new-dangers?traffic_source=rss" target="_blank">Al Jazeera reports from Aceh Tamiang as flood survivors face new dangers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-09 08:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/features/839853/disinformation-wars-censorship-right-wing" target="_blank">The war on disinformation is a losing battle</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-09 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6937505d192b516b3fac87f9/master/pass/Big-Interview-UV-Solo-Daniel-Lurie-Politics-2210816021.jpg" alt="San Francisco Mayor Daniel Lurie: ‘We Are a City on the Rise’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-big-interview-podcast-san-francisco-mayor-daniel-lurie/" target="_blank">San Francisco Mayor Daniel Lurie: ‘We Are a City on the Rise’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-09 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69374ba6ceb33c37ef2a4913/master/pass/biz-ai-bitcoin-mining-1007877006.jpg" alt="America’s Biggest Bitcoin Miners Are Pivoting to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +154,20 @@
                 <span class="time">2025-12-08 23:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/08/ftc-upholds-ban-on-stalkerware-founder-scott-zuckerman/" target="_blank">FTC upholds ban on stalkerware founder Scott Zuckerman</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-08 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21280354/best-ipad-deals-apple" target="_blank">The best iPad deals you can get right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-08 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The Kids Aren&#x27;t Alright" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/the-kids-arent-alright-3kh7" target="_blank">The Kids Aren&#x27;t Alright</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-09 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F366059%2F44d4a869-bb26-4b8e-aa73-6e596b4b4b8a.jpg" alt="Refactoring 037 - Testing Private Methods" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +211,6 @@
                 <span class="title"><a href="https://nbviewer.org/url/norvig.com/ipython/xkcd1313.ipynb" target="_blank">xkcd 1313: Regex Golf (2014)</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-12-09 08:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/linux-power-user-signs/" target="_blank">5 Signs You Have Become a Linux Power User</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-09 06:51</span>
             </div>
         </div>
 </div>
@@ -328,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 43 | 📸 With Images: 258 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 43 | 📸 With Images: 259 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
