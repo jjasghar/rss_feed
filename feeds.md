@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 17:03:01 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-09 18:01:36 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 17:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +108,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/840690/google-photos-video-editing-highlight-reel-updates" target="_blank">Google Photos&amp;#8217; new video editor makes it more like Capcut</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-09 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2235990625-500x500.jpg" alt="Court: “Because Trump said to” may not be a legally valid defense" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/trumps-order-blocking-wind-development-thrown-out-by-court/" target="_blank">Court: “Because Trump said to” may not be a legally valid defense</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-09 17:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Pixel-watch-4-1-500x500.jpg" alt="Google is reviving wearable gesture controls, but only for the Pixel Watch 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -142,29 +161,47 @@
                 <span class="time">2025-12-09 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/693736203470dde182fcfaa3/master/pass/Pebble%20Index%20top%20art%20SOURCE%20Pebble.jpg" alt="Pebble Index: Everything You Need to Know About the $75 Smart Ring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pebble-index-ring/" target="_blank">Pebble Index: Everything You Need to Know About the $75 Smart Ring</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-09 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/09/pebbles-founder-introduces-a-75-ai-smart-ring-for-recording-brief-notes-with-a-press-of-a-button/" target="_blank">Pebble’s founder introduces a $75 AI smart ring for recording brief notes with a press of a button</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-09 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/agentic-postgres-fast-forking/en/headerimage/agentic-prostgres-forking-1765301344662.jpeg" alt="Agentic Postgres: Postgres for Agentic Apps with Fast Forking and AI-Ready Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/agentic-postgres-fast-forking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Agentic Postgres: Postgres for Agentic Apps with Fast Forking and AI-Ready Features</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-09 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nife_nitola/excel-for-project-management-tracking-timelines-and-deliverables-293n" target="_blank">Excel for Project Management: Tracking Timelines and Deliverables</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-09 17:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Foundation-Agentic-AI" target="_blank">Linux Foundation&#x27;s Newest Endeavor: The Agentic AI Foundation</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-09 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18775172&w=600" alt="How to Achieve and Maintain Cloud Compliance With System Initiative" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/achieve-maintain-cloud-compliance-with-system-initiative" target="_blank">How to Achieve and Maintain Cloud Compliance With System Initiative</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-09 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,42 +218,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/mcp-deepdive" target="_blank">Building MCP servers in the real world</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-12-09 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-619-sched-regress" target="_blank">Scheduler Woes: Bisecting Early Performance Regressions Found In Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792537&w=600" alt="Agile Is Dead, Long Live Agility" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agile-is-dead-long-live-agility" target="_blank">Agile Is Dead, Long Live Agility</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-09 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-embedded-2005" target="_blank">AMD EPYC Embedded 2005 Series Announced For BGA Zen 5 CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-09 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3636120%2F18efae8e-614d-4660-8441-b5bd31b214f3.png" alt="YT video : https://www.youtube.com/watch?v=1mbIf1pEP0Y" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/benjamin_leperf_2e526840/yt-video-httpswwwyoutubecomwatchv1mbif1pep0y-1hee" target="_blank">YT video : https://www.youtube.com/watch?v=1mbIf1pEP0Y</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-09 14:49</span>
             </div>
         </div>
 </div>
@@ -239,6 +240,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/yir-twins-1280x853.jpg" alt="From ‘Sinners’ to ‘Frankenstein,’ 2025 Put Twins All Over the Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/2025-sinners-frankenstein-twin-acting-2000696730" target="_blank">From ‘Sinners’ to ‘Frankenstein,’ 2025 Put Twins All Over the Movies</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-09 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/89777955-82bc-4c35-ab5e-7f9c990b962a_1186x1082.webp?fit=1186%2C1082&amp;quality=55&amp;ssl=1" alt="US downgraded from democracy to banana republic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/09/us-downgraded-from-democracy-to-banana-republic.html" target="_blank">US downgraded from democracy to banana republic</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-09 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1BJEZWYT03RNASEAPBARJNN/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Samsung Galaxy Watch 8" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-samsung-galaxy-watch-8?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Samsung Galaxy Watch 8</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-09 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/batman3-1280x720.jpg" alt="Netflix Considers Warner Bros. Games To Be Pretty Much Worthless" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/netflix-warner-bros-games-batman-harry-potter-deal-2000651695" target="_blank">Netflix Considers Warner Bros. Games To Be Pretty Much Worthless</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-09 17:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/construction-materials-pompeii-1280x853.jpg" alt="Ancient Construction Site at Pompeii Sheds Light on Rome’s Miraculous Self-Healing Cement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -254,42 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/leon-kennedy-resident-evil-requiem-9-playable-leak-2000651669" target="_blank">PlayStation Store Leak Finally Confirms Leon Is In Resident Evil Requiem After Endless Speculation</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-09 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KC1HZPG712EAKM1NVA9T5DGC/hero-image.png" alt="Apple’s New iPhone Update Will Make Sure You’ll Never Miss a Reminder Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/iphone-alarm-for-reminders?utm_medium=RSS" target="_blank">Apple’s New iPhone Update Will Make Sure You’ll Never Miss a Reminder Again</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-09 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HV76FDNB90JPQDF282S348ZD/hero-image.png" alt="My Favorite Productivity Advice From Books (so You Don’t Have to Read Them All)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/work/best-productivity-advice-from-books?utm_medium=RSS" target="_blank">My Favorite Productivity Advice From Books (so You Don’t Have to Read Them All)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-09 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Eureka_2-1280x853.jpg" alt="Amazon Offloads Eureka’s Robot Vacuum and Mop Combo at an All-Time Low for Holiday Clearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazon-offloads-eurekas-robot-vacuum-and-mop-combo-at-an-all-time-low-for-holiday-clearance-2000697113" target="_blank">Amazon Offloads Eureka’s Robot Vacuum and Mop Combo at an All-Time Low for Holiday Clearance</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-09 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/andor-season-2-ending-bix-1280x853.jpg" alt="Tony Gilroy Is Still Letting ‘Andor’ Theorists Down Gently" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tony-gilroy-andor-season-2-ending-bix-cassian-death-star-wars-rogue-one-2000697016" target="_blank">Tony Gilroy Is Still Letting ‘Andor’ Theorists Down Gently</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-09 11:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 43 | 📸 With Images: 261 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 43 | 📸 With Images: 258 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
