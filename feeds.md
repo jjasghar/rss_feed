@@ -1,30 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 14:01:34 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-12-09 15:01:40 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/digidocs/2025/12/9/aje-onl-digidocs_iloveyoumore-091225?traffic_source=rss" target="_blank">I Love You More: The Search for a Father in Syria’s Lost Memories</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-09 14:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +104,29 @@
                 <span class="time">2025-12-09 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/9/florida-lists-muslim-rights-group-cair-a-terror?traffic_source=rss" target="_blank">Florida lists Muslim rights group CAIR a ‘terror organisation’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-09 10:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/840308/spotify-music-videos-beta-us-canada" target="_blank">Spotify’s music videos feature arrives in the US and Canada</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-09 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/09/pebbles-founder-introduces-a-75-ai-smart-ring-for-recording-brief-notes-with-a-press-of-a-button/" target="_blank">Pebble’s founder introduces a $75 AI smart ring for recording brief notes with a press of a button</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-09 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,29 +163,47 @@
                 <span class="time">2025-12-09 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/features/839853/disinformation-wars-censorship-right-wing" target="_blank">The war on disinformation is a losing battle</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-09 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6937505d192b516b3fac87f9/master/pass/Big-Interview-UV-Solo-Daniel-Lurie-Politics-2210816021.jpg" alt="San Francisco Mayor Daniel Lurie: ‘We Are a City on the Rise’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-big-interview-podcast-san-francisco-mayor-daniel-lurie/" target="_blank">San Francisco Mayor Daniel Lurie: ‘We Are a City on the Rise’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-09 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3636120%2F18efae8e-614d-4660-8441-b5bd31b214f3.png" alt="YT video : https://www.youtube.com/watch?v=1mbIf1pEP0Y" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/benjamin_leperf_2e526840/yt-video-httpswwwyoutubecomwatchv1mbif1pep0y-1hee" target="_blank">YT video : https://www.youtube.com/watch?v=1mbIf1pEP0Y</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-09 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Improves-Hyper-V" target="_blank">Microsoft Has Many Hyper-V Virtualization Improvements For Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-09 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/calibre-lm-studio-support/" target="_blank">Calibre Now Lets You Chat About Your E-Books Using Local AI</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-09 14:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792636&w=600" alt="An Analysis of Modern Distributed SQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/analysis-of-modern-distributed-sql" target="_blank">An Analysis of Modern Distributed SQL</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-09 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/12/openai-gpt-51/en/headerimage/generatedHeaderImage-1765114067009.jpg" alt="OpenAI&#x27;s New GPT-5.1 Models Are Faster and More Conversational" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,42 +220,6 @@
                 <span class="title"><a href="https://dev.to/adarsh_gupta_c5fecf658fd7/terraform-data-source-aws-49hd" target="_blank">Terraform Data Source (AWS)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-09 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18788716&w=600" alt="Top 5 Tips to Shrink and Secure Docker Images" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/shrink-secure-docker-images-top-tips" target="_blank">Top 5 Tips to Shrink and Secure Docker Images</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The Kids Aren&#x27;t Alright" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/the-kids-arent-alright-3kh7" target="_blank">The Kids Aren&#x27;t Alright</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-09 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F366059%2F44d4a869-bb26-4b8e-aa73-6e596b4b4b8a.jpg" alt="Refactoring 037 - Testing Private Methods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mcsee/refactoring-037-testing-private-methods-5d68" target="_blank">Refactoring 037 - Testing Private Methods</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-09 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-F2FS" target="_blank">F2FS Brings More Performance Optimizations To Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-09 10:42</span>
             </div>
         </div>
 </div>
@@ -322,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 43 | 📸 With Images: 259 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
