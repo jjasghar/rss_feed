@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 04:06:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-09 05:01:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 04:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/canberkvarli/fullcircle-where-spiritual-practice-meets-meaningful-connection-52ab" target="_blank">fullcircle • Mindful Dating App</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-09 04:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://github.com/pomponchik/metacode" target="_blank">Metacode: The new standard for machine-readable comments for Python</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -209,15 +215,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/firefox-146-release-linux-fractional-scaling-support" target="_blank">Firefox 146 Released with Fractional Scaling Support on Linux,</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-12-08 23:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fpollinations.ai%2Fp%2FRetro-futuristic%2520synthwave%2520minimalist%2520abstract%2520global%2520economy%2520symbol.%2520Deep%2520blues%252C%2520electric%2520purples%252C%2520neon%2520pinks%252C%2520cyan%2520lines.%2520text%2520%2522ECONOMY%2522%2520in%2520retro%2520pixel%2520font%2520at%2520bottom.%252C%2520retro-futuristic%2520vector%2520art%252C%2520synthwave%2520style%252C%2520neon%2520gradient%2520colors%252C%2520dark%2520background%252C%2520high%2520quality%252C%25208k%252C%2520dribbble%2520style%3Fwidth%3D1280%26height%3D720%26seed%3D179241%26model%3Dflux%26nologo%3Dtrue" alt="The Invisible Hand You&#x27;re Ignoring: Macroeconomics Decoded" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thinkaddict/the-invisible-hand-youre-ignoring-macroeconomics-decoded-23ip" target="_blank">The Invisible Hand You&#x27;re Ignoring: Macroeconomics Decoded</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-08 23:44</span>
             </div>
         </div>
 </div>
@@ -334,22 +331,13 @@
                 <span class="time">2025-12-08 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/hyperacute_interdynamics.png" alt="Hyperacute Interdynamics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3178/" target="_blank">Hyperacute Interdynamics</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-12-08 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 43 | 📸 With Images: 259 |
-        🔄 Last Updated: 04:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 43 | 📸 With Images: 258 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
