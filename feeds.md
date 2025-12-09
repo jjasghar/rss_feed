@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 01:29:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-09 02:31:36 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://andyljones.com/posts/horses.html" target="_blank">Horses: AI progress is steady. Human equivalence is sudden</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-09 00:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/firefox-146.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 146 Released with Fractional Scaling Support on Linux," class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -209,15 +211,6 @@
                 <span class="title"><a href="https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries" target="_blank">Deprecations via warnings don’t work for Python libraries</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-12-08 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18790110&w=600" alt="Streamlining Incident Management with IBM Cloud Logs, Event Notifications, and PagerDuty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/streamlining-incident-management-ibm-cloud-logs" target="_blank">Streamlining Incident Management with IBM Cloud Logs, Event Notifications, and PagerDuty</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-08 20:00</span>
             </div>
         </div>
 </div>
@@ -335,12 +328,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="http://www.questionablecontent.net/comics/5717.png" alt="QC RERUN TIME 2025: The Beginning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/hyperacute_interdynamics.png" alt="Hyperacute Interdynamics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5716" target="_blank">QC RERUN TIME 2025: The Beginning</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-12-08 02:02</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3178/" target="_blank">Hyperacute Interdynamics</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-12-08 05:00</span>
             </div>
         </div>
 </div>
@@ -348,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 43 | 📸 With Images: 258 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 43 | 📸 With Images: 258 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
