@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 06:02:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-09 07:02:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 1 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 06:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1544/live/b712fe50-d4c0-11f0-a892-01d657345866.jpg" alt="Ukraine prepares new peace plan as Zelensky rules out giving up land" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine prepares new peace plan as Zelensky rules out giving up land</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-09 06:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/12/1920x1080/skynews-zelenskyy-stermer-macron_7105234.jpg?20251209045553" alt="Zelenskyy to share updated peace plan with US at &#x27;critical moment&#x27; for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,15 +99,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/judge-orders-top-doj-attorney-testify-alien-enemies/story?id=128222048" target="_blank">Judge orders top DOJ attorney to testify about Alien Enemies Act deportations</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-08 23:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/08/nx-s1-5633222/when-christmas-is-a-little-too-bright-look-to-krampus" target="_blank">When Christmas is a little too bright ... look to Krampus</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-08 22:43</span>
             </div>
         </div>
 </div>
@@ -330,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 43 | 📸 With Images: 259 |
-        🔄 Last Updated: 06:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 43 | 📸 With Images: 259 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
