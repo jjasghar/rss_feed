@@ -1,31 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 22:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-09 23:01:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss" target="_blank">Trump criticises &#x27;decaying&#x27; European countries and &#x27;weak&#x27; leaders</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-09 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/09/nx-s1-5638567/save-plan-student-loan-settlement" target="_blank">Millions of borrowers in Biden&#x27;s SAVE plan would start paying under new settlement</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-09 20:14</span>
             </div>
         </div>
 <div class="story">
@@ -86,20 +93,20 @@
                 <span class="time">2025-12-09 17:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/12/9/live-inter-milan-vs-liverpool-uefa-champions-league?traffic_source=rss" target="_blank">LIVE: Inter Milan vs Liverpool – UEFA Champions League</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-09 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-500x500.jpg" alt="Over 250 people quarantined in South Carolina as measles outbreak rages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/12/over-250-people-quarantined-in-south-carolina-as-measles-outbreak-rages/" target="_blank">Over 250 people quarantined in South Carolina as measles outbreak rages</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-09 22:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg" alt="50% Off Verizon Promo Codes | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,15 +150,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale" target="_blank">The AirPods Pro 3 are back to their lowest price ahead of the holidays</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-09 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/780847/best-dad-gift-ideas" target="_blank">The best gifts for dads that have everything (but deserve more)</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-09 19:00</span>
             </div>
         </div>
 </div>
@@ -233,6 +231,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/anker-solix-c1000-v2-1280x853.jpg" alt="Anker Solix 2000W Power Station Goes Super Low on Amazon, Winter Blackout Season Just Got Less Scary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/anker-solix-2000w-power-station-goes-super-low-on-amazon-winter-blackout-season-just-got-less-scary-2000651723" target="_blank">Anker Solix 2000W Power Station Goes Super Low on Amazon, Winter Blackout Season Just Got Less Scary</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-09 22:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/magic-the-gathering-marvel-super-heroes-horn-of-greed-1280x853.jpg" alt="Doctor Doom Will Toot in the Next Marvel ‘Magic: The Gathering’ Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -277,15 +284,6 @@
                 <span class="time">2025-12-09 19:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Avatar-Interview-4-1280x853.jpg" alt="‘Avatar: Fire and Ash’ Isn’t About Spectacle, It’s About Family" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/avatar-fire-and-ash-isnt-about-spectacle-its-about-family-2000696851" target="_blank">‘Avatar: Fire and Ash’ Isn’t About Spectacle, It’s About Family</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-09 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 131 | 📡 Total Sources: 43 | 📸 With Images: 258 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 43 | 📸 With Images: 260 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
