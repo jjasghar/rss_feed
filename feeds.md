@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 16:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-09 17:03:01 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, December 09, 2025 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/12/9/live-inter-milan-vs-liverpool-uefa-champions-league?traffic_source=rss" target="_blank">LIVE: Inter Milan vs Liverpool – UEFA Champions League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-09 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e2a/live/c36324a0-d506-11f0-a892-01d657345866.jpg" alt="Ex-children&#x27;s boss to lead grooming gang inquiry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgk2pj2ygko?at_medium=RSS&at_campaign=rss" target="_blank">Ex-children&#x27;s boss to lead grooming gang inquiry</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-09 16:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df8a/live/623e1270-d515-11f0-9fb5-5f3a3703a365.jpg" alt="Trump criticises &#x27;weak&#x27; European leaders over Ukraine and immigration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,29 +101,29 @@
                 <span class="time">2025-12-09 13:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/9/new-cambodia-thailand-clash-whats-up-with-the-other-wars-trump?traffic_source=rss" target="_blank">New Cambodia-Thailand clash: What’s up with the other wars Trump ‘ended’?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-09 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/09/g-s1-101285/up-first-newsletter-trump-affordability-problem-scotus-rebecca-slaughter-indiana-redistricting" target="_blank">Trump to address affordability. And, the significance of Indiana&#x27;s redistricting fight</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-09 11:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Pixel-watch-4-1-500x500.jpg" alt="Google is reviving wearable gesture controls, but only for the Pixel Watch 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/google-is-reviving-wearable-gesture-controls-but-only-for-the-pixel-watch-4/" target="_blank">Google is reviving wearable gesture controls, but only for the Pixel Watch 4</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-09 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/09/facebook-redesign-focuses-on-friends-photos-marketplace-and-more/" target="_blank">Facebook redesign focuses on friends, photos, Marketplace and more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-09 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/concrete1-500x500.jpg" alt="Study confirms Romans used “hot mixing“ to make concrete" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,29 +160,38 @@
                 <span class="time">2025-12-09 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/840142/aura-text-to-frame-digital-picture-frame-share-photos" target="_blank">You can now text photos directly to Aura&amp;#8217;s digital picture frames</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-09 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/09/empromptu-raises-2m-pre-seed-to-help-enterprises-build-ai-apps/" target="_blank">Empromptu raises $2M pre-seed to help enterprises build AI apps</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-09 13:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/" target="_blank">Speed is nothing without control: How to keep quality high in the AI era</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-12-09 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/a6d395a2-edb6-4bb7-b8e4-ffb982935b52_1594x1106.png" alt="Building MCP servers in the real world" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/mcp-deepdive" target="_blank">Building MCP servers in the real world</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-12-09 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-619-sched-regress" target="_blank">Scheduler Woes: Bisecting Early Performance Regressions Found In Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-09 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792537&w=600" alt="Agile Is Dead, Long Live Agility" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/benjamin_leperf_2e526840/yt-video-httpswwwyoutubecomwatchv1mbif1pep0y-1hee" target="_blank">YT video : https://www.youtube.com/watch?v=1mbIf1pEP0Y</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-09 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Improves-Hyper-V" target="_blank">Microsoft Has Many Hyper-V Virtualization Improvements For Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-09 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/calibre-lm-studio-support/" target="_blank">Calibre Now Lets You Chat About Your E-Books Using Local AI</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-09 14:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792636&w=600" alt="An Analysis of Modern Distributed SQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/analysis-of-modern-distributed-sql" target="_blank">An Analysis of Modern Distributed SQL</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-09 14:00</span>
             </div>
         </div>
 </div>
@@ -302,6 +298,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1765164584-20251209_edit.png" alt="Saturday Morning Breakfast Cereal - All" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/all-2" target="_blank">Saturday Morning Breakfast Cereal - All</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-09 16:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -319,22 +324,13 @@
                 <span class="time">2025-12-08 18:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1765164480-20251208_edit.png" alt="Saturday Morning Breakfast Cereal - Capital" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/capital-3" target="_blank">Saturday Morning Breakfast Cereal - Capital</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-08 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 43 | 📸 With Images: 261 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
