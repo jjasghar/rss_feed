@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 17:03:53 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-12-10 18:02:01 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 17:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss" target="_blank">US federal judge halts Trump’s National Guard operations in California</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-10 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/linda-mcmahon-2-rt-gmh-251120_1763664298860_hpMain_4x3t_384.jpg" alt="Trump admin moves to end major student loan forgiveness plan: &#x27;We won&#x27;t tolerate it&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-administration-moves-end-major-student-loan-forgiveness/story?id=128268281" target="_blank">Trump admin moves to end major student loan forgiveness plan: &#x27;We won&#x27;t tolerate it&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-10 17:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db84/live/472b9460-d5e9-11f0-a892-01d657345866.jpg" alt="US could ask foreign tourists for five-year social media history before entry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,29 +96,20 @@
                 <span class="time">2025-12-10 13:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/10/g-s1-101411/neglected-tropical-diseases-usaid-cuts" target="_blank">The fight to beat neglected tropical diseases was going well. 2025 could change that</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-10 13:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/12/10/how-al-assads-syria-broke-its-own-people-in-sednaya-prison?traffic_source=rss" target="_blank">How al-Assad’s Syria broke its own people in Sednaya prison</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-10 13:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/2025-Subaru-Forester-Hybrid-1-of-14-500x500.jpg" alt="Ugly infotainment mars the 2025 Subaru Forester Hybrid experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/12/ugly-infotainment-mars-the-2025-subaru-forester-hybrid-experience/" target="_blank">Ugly infotainment mars the 2025 Subaru Forester Hybrid experience</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-10 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +155,6 @@
                 <span class="time">2025-12-10 15:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/10/chatgpt-is-apples-most-downloaded-app-of-2025-in-the-us/" target="_blank">ChatGPT is Apple’s most downloaded app of 2025 in the US</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-10 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +167,15 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/frictionless-why-great-developer" target="_blank">Frictionless: why great developer experience can help teams win in the ‘AI age’</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-12-10 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/Ubuntu-Flavors.jpg?resize=406%2C232&amp;ssl=1" alt="Two Ubuntu Flavours Won’t Be LTS Releases Next Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-unity-mate-26-04-lts-status" target="_blank">Two Ubuntu Flavours Won’t Be LTS Releases Next Year</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-10 16:18</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +214,6 @@
                 <span class="time">2025-12-10 15:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/10/tell-us-what-you-really-really-do-not-want-to-spend-time-working-on/" target="_blank">Tell us what you really, really… do not want to spend time working on</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-10 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/shroud-2-1280x853.jpg" alt="20 Sci-Fi, Fantasy, and Horror Authors Pick Their Favorite Sci-Fi, Fantasy, and Horror Books of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sci-fi-horror-fantasy-authors-best-books-of-2025-2000694713" target="_blank">20 Sci-Fi, Fantasy, and Horror Authors Pick Their Favorite Sci-Fi, Fantasy, and Horror Books of 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-10 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Untitled.jpg?fit=768%2C821&amp;quality=60&amp;ssl=1" alt="Donnie Two-Pencils rides again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/10/donnie-two-pencils-rides-again.html" target="_blank">Donnie Two-Pencils rides again</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-10 17:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/christmas-genre-movies-ranked-grinch-nightmare-before-elf-1-1280x853.jpg" alt="Our 16 Favorite Holiday Genre Movies, Ranked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +296,6 @@
                 <span class="time">2025-12-10 16:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/kyy-portable-monitor-15-6-1280x853.jpg" alt="This 15″ Portable Monitor Goes Zero Margin on Amazon, Now Cheaper Than No-Name Generic Fixed Screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-15-portable-monitor-goes-zero-margin-on-amazon-now-cheaper-than-no-name-generic-fixed-screen-2000652145" target="_blank">This 15″ Portable Monitor Goes Zero Margin on Amazon, Now Cheaper Than No-Name Generic Fixed Screen</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-10 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KC31JP0ZFMA3YS8M9P9KA627/hero-image.png" alt="What People Are Getting Wrong This Week: The Real History of Santa Claus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-santa-claus-history?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: The Real History of Santa Claus</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-10 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
