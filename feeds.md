@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 16:02:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-10 17:03:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db84/live/472b9460-d5e9-11f0-a892-01d657345866.jpg" alt="US could ask foreign tourists for five-year social media history before entry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS&at_campaign=rss" target="_blank">US could ask foreign tourists for five-year social media history before entry</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-10 16:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250709-epstein-ch-1250-e35033.jpg" alt="New York judge orders release of Jeffrey Epstein grand jury records from 2019 case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +96,38 @@
                 <span class="time">2025-12-10 13:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/10/burkina-faso-releases-nigerian-troops-unauthorised-emergency-landing" target="_blank">Burkina Faso releases 11 Nigerian troops after ‘unauthorised’ plane landing</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-10 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/841503/android-emergency-live-video" target="_blank">Android users can now share a live video on 911 calls</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-10 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69337def6a7147754f546d77/master/pass/security_chinese_hackers_cisco.jpg" alt="2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/" target="_blank">2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-10 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/10/google-is-testing-ai-powered-article-overviews-on-select-publications-google-news-pages/" target="_blank">Google is testing AI-powered article overviews on select publications’ Google News pages</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-10 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,38 +155,29 @@
                 <span class="time">2025-12-10 15:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2188660602-1-500x500.jpg" alt="Dr. Oz tells his federal employees to eat less during the holidays" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/12/dr-oz-tells-his-federal-employees-to-eat-less-during-the-holidays/" target="_blank">Dr. Oz tells his federal employees to eat less during the holidays</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-10 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-3.43.56-PM-500x500-1765313259.jpeg" alt="AMD’s “FSR Redstone” upscaling claims to close the gap with Nvidia’s DLSS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/amds-fsr-redstone-upscaling-claims-to-close-the-gap-with-nvidias-dlss/" target="_blank">AMD’s “FSR Redstone” upscaling claims to close the gap with Nvidia’s DLSS</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-10 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/841067/aurora-autonomous-truck-chris-urmson-interview" target="_blank">Aurora will have ‘hundreds’ of driverless trucks on the road by the end of 2026, CEO says</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-10 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!NYjO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F833e5a4f-29ac-4c27-8a3a-e4a82bdf03ea_1600x1200.jpeg" alt="Frictionless: why great developer experience can help teams win in the ‘AI age’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/frictionless-why-great-developer" target="_blank">Frictionless: why great developer experience can help teams win in the ‘AI age’</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-12-10 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://neal.fun/size-of-life/" target="_blank">Size of Life</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-10 16:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjaxs3euha3wqj23adm4f.webp" alt="Networking for Cybersecurity (Part 4): Packets, Sniffing &amp; Traffic Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +214,6 @@
                 <span class="time">2025-12-10 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8tos6g0810rcyfwaas4c.png" alt="🚀 Secure Your Microservices: API Gateway + Docker Private Networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shani_gotlib_f5e51aed8363/secure-your-microservices-api-gateway-docker-private-networks-dnb" target="_blank">🚀 Secure Your Microservices: API Gateway + Docker Private Networks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-10 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-FSR-SDK-2.1" target="_blank">AMD FSR SDK 2.1 Released With FSR Redstone - Windows-Only For Now</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-10 14:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +243,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/christmas-genre-movies-ranked-grinch-nightmare-before-elf-1-1280x853.jpg" alt="Our 16 Favorite Holiday Genre Movies, Ranked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/holiday-movies-ranked-horror-scifi-fantasy-2000696724" target="_blank">Our 16 Favorite Holiday Genre Movies, Ranked</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-10 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/lenovo-laptop-8gb-1280x853.jpg" alt="This Lenovo 15″ Laptop With Good Everyday Specs Drops 75% Off, But Only on Amazon Not Official Site" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-lenovo-15-laptop-with-good-everyday-specs-drops-75-off-but-only-on-amazon-not-official-site-2000652164" target="_blank">This Lenovo 15″ Laptop With Good Everyday Specs Drops 75% Off, But Only on Amazon Not Official Site</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-10 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KC2DE7N6Z5BP8WS17SW0SCVW/hero-image.jpg" alt="Instagram Is Adding AI-Generated Headlines to Some Posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/instagram-adding-ai-headlines-posts?utm_medium=RSS" target="_blank">Instagram Is Adding AI-Generated Headlines to Some Posts</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-10 16:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Avatar-Spider-interview-1280x853.jpg" alt="Jack Champion Has Already Filmed ‘More Than a Little’ of ‘Avatar 4’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -275,33 +296,6 @@
                 <span class="time">2025-12-10 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/samsung-g5-odyssey-1280x853.jpg" alt="Samsung’s 32-Inch Odyssey Curved Monitor Hits Record Low, Amazon Goes Zero Profit for Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsungs-32-inch-odyssey-curved-monitor-hits-record-low-amazon-goes-zero-profit-for-gamers-2000652124" target="_blank">Samsung’s 32-Inch Odyssey Curved Monitor Hits Record Low, Amazon Goes Zero Profit for Gamers</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-10 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/seagate-drive-1280x853.jpg" alt="Seagate’s 8TB External Hard Drive at Under $0.02 per GB Is Practically the Cheapest Data Storage Available" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/seagates-8tb-external-hard-drive-at-under-0-02-per-gb-is-practically-the-cheapest-data-storage-available-2000651777" target="_blank">Seagate’s 8TB External Hard Drive at Under $0.02 per GB Is Practically the Cheapest Data Storage Available</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-10 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/NicCageCarpentersSon-1280x853.jpg" alt="Just in Time for Christmas, Nic Cage’s Jesus Horror Movie Comes Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/just-in-time-for-christmas-nic-cages-jesus-horror-movie-comes-home-2000697616" target="_blank">Just in Time for Christmas, Nic Cage’s Jesus Horror Movie Comes Home</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-10 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,22 +319,13 @@
                 <span class="time">2025-12-10 01:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1765164584-20251209_edit.png" alt="Saturday Morning Breakfast Cereal - All" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/all-2" target="_blank">Saturday Morning Breakfast Cereal - All</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-09 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
