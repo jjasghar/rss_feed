@@ -1,36 +1,21 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 13:13:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-10 14:02:10 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 13 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +31,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/10/g-s1-101411/neglected-tropical-diseases-usaid-cuts" target="_blank">The fight to beat neglected tropical diseases was going well. 2025 could change that</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-10 13:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/12/10/how-al-assads-syria-broke-its-own-people-in-sednaya-prison?traffic_source=rss" target="_blank">How al-Assad’s Syria broke its own people in Sednaya prison</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-10 13:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +85,29 @@
                 <span class="time">2025-12-10 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/10/g-s1-101471/border-patrol-left-charlotte-the-damage-stayed-behind" target="_blank">Border Patrol left Charlotte. The damage stayed behind.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-10 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss" target="_blank">Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-10 09:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-3.43.56-PM-500x500-1765313259.jpeg" alt="AMD’s “FSR Redstone” upscaling claims to close the gap with Nvidia’s DLSS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/amds-fsr-redstone-upscaling-claims-to-close-the-gap-with-nvidias-dlss/" target="_blank">AMD’s “FSR Redstone” upscaling claims to close the gap with Nvidia’s DLSS</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-10 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/841067/aurora-autonomous-truck-chris-urmson-interview" target="_blank">Aurora will have ‘hundreds’ of driverless trucks on the road by the end of 2026, CEO says</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-10 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/690d7a1514132eea7ca698e4/master/pass/The%20Best%20Base%20Layers%20for%20Every%20Adventure.png" alt="Best Base Layers (2025): Ibex, Smartwool, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +144,20 @@
                 <span class="time">2025-12-10 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" alt="Surfshark Promo Codes: 87% Off | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/surfshark-coupon/" target="_blank">Surfshark Promo Codes: 87% Off | December 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-10 06:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/841207/ai-neurips-2025" target="_blank">The AI industry’s biggest week: Google’s rise, RL mania, and a party boat</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-10 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ucmind_39e5584942f7802b7/why-does-ai-still-feel-so-useless-kgc" target="_blank">Why does AI still feel so “useless”?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-10 13:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,20 +203,20 @@
                 <span class="time">2025-12-10 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/keerthigap/what-is-html-28jh" target="_blank">what is html?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-10 04:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html" target="_blank">FBI Warns of Fake Video Scams</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-10 12:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -328,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 43 | 📸 With Images: 264 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 43 | 📸 With Images: 261 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
