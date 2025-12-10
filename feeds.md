@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 07:03:23 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-10 08:02:21 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -61,6 +61,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906d/live/ff8d66c0-d4ed-11f0-8c06-f5d460985095.jpg" alt="Sperm from donor with cancer-causing gene was used to conceive almost 200 children" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&at_campaign=rss" target="_blank">Sperm from donor with cancer-causing gene was used to conceive almost 200 children</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-10 05:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765343321329_now_staytuned_trump_economy_pennsylvania_251209_1920x1080-nov155.jpg" alt="Trump touts economic policies as recent polls show disapproval" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -87,15 +96,6 @@
                 <span class="time">2025-12-10 01:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/josh-shapiro-gty-jt-251209_1765314923784_hpMain_4x3t_384.jpg" alt="Gov. Shapiro faces subpoena over private home security upgrades after firebombing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/pennsylvania-gov-josh-shapiro-faces-subpoena-private-home/story?id=128255380" target="_blank">Gov. Shapiro faces subpoena over private home security upgrades after firebombing</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-10 00:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,6 +108,15 @@
                 <span class="title"><a href="https://www.wired.com/story/surfshark-coupon/" target="_blank">Surfshark Promo Codes: 87% Off | December 2025</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-10 06:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/841207/ai-neurips-2025" target="_blank">The AI industry’s biggest week: Google’s rise, RL mania, and a party boat</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-10 02:00</span>
             </div>
         </div>
 <div class="story">
@@ -146,15 +155,6 @@
                 <span class="time">2025-12-10 00:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6938b5de14a7bceeac57a1c5/master/pass/Henson%20AL13%20Safety%20Razor%20Shave%20Set%20(2%20Year)%20top%20art%201%20SOURCE%20Walmart.jpg" alt="This Is the Best Razor I&#x27;ve Ever Used—Save Big With This Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-best-razor-ive-ever-used-is-on-sale/" target="_blank">This Is the Best Razor I&#x27;ve Ever Used—Save Big With This Sale</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-10 00:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,6 +182,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lwn.net/Articles/1049831/" target="_blank">Rust in the kernel is no longer experimental</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-10 03:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://lwn.net/Articles/1049831/" target="_blank">The end of the kernel Rust experiment</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-10 03:15</span>
@@ -203,15 +212,6 @@
                 <span class="title"><a href="https://lobste.rs/s/qhznjj/looking_for_guidance_on_improving" target="_blank">Looking for guidance on improving an offline security tool I built</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-12-10 02:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4hz7n8f6j61tf3eivl5s.png" alt="How to Get Paid in USDC: A Complete Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/justqueue/how-to-get-paid-in-usdc-a-complete-guide-4igp" target="_blank">How to Get Paid in USDC: A Complete Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-10 02:22</span>
             </div>
         </div>
 </div>
@@ -324,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 43 | 📸 With Images: 265 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 43 | 📸 With Images: 264 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
