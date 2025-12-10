@@ -1,28 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 06:02:27 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-10 07:03:23 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 20 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/10/g-s1-101506/trumps-speech-grievances-about-immigrants" target="_blank">Trump&#x27;s speech on combating inflation turns to grievances about immigrants</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-10 06:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/10/thailand-cambodia-border-clashes-enter-third-day-as-500000-flee-fighting?traffic_source=rss" target="_blank">Thailand-Cambodia border clashes enter third day as 500,000 flee fighting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-10 06:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765343321329_now_staytuned_trump_economy_pennsylvania_251209_1920x1080-nov155.jpg" alt="Trump touts economic policies as recent polls show disapproval" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-touts-economic-policies-as-recent-polls-show-disapproval-254096453698" target="_blank">Trump touts economic policies as recent polls show disapproval</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-10 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,38 +96,20 @@
                 <span class="time">2025-12-10 00:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251208-baby-newborn-stock-vl-1216p-159413.jpg" alt="Confusion over CDC panel&#x27;s hepatitis B guidance could disrupt care for babies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/health/health-news/hepatitis-b-cdc-panel-guidance-babies-doctors-confusion-rcna247999" target="_blank">Confusion over CDC panel&#x27;s hepatitis B guidance could disrupt care for babies</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-09 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/trump_thumb-4o2u66.jpg" alt="Trump delivers remarks on economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-president-trump-delivers-remarks-on-economy-254063173907" target="_blank">Trump delivers remarks on economy</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-09 22:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d31b/live/06db0460-d542-11f0-80ee-a746c83f913a.jpg" alt="Major talks on changes to ECHR migration rules set to start" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2g03gv2z6o?at_medium=RSS&at_campaign=rss" target="_blank">Major talks on changes to ECHR migration rules set to start</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-09 22:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" alt="Surfshark Promo Codes: 87% Off | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/surfshark-coupon/" target="_blank">Surfshark Promo Codes: 87% Off | December 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-10 06:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69385e56904c15561e765f53/master/pass/Sam-Altman-on-Fallon-and-Silicon-Valleys-Hard-Sell-Era-Culture-2250190946.jpg" alt="Silicon Valley Is All About the Hard Sell These Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,15 +155,6 @@
                 <span class="time">2025-12-10 00:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/09/hinge-ceo-steps-down-to-launch-overtone-an-ai-dating-app/" target="_blank">Hinge CEO steps down to launch Overtone, an AI dating app</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-10 00:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/ishikha_rao/web-application-testing-a-complete-guide-2jm8" target="_blank">Web Application Testing - A Complete Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-10 03:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lwn.net/Articles/1049831/" target="_blank">The end of the kernel Rust experiment</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-10 03:15</span>
             </div>
         </div>
 <div class="story">
@@ -199,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/justqueue/how-to-get-paid-in-usdc-a-complete-guide-4igp" target="_blank">How to Get Paid in USDC: A Complete Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-10 02:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Cloud-Btrfs-Boot" target="_blank">Fedora Cloud Will Switch To /boot As A Btrfs Subvolume</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-10 01:34</span>
             </div>
         </div>
 </div>
@@ -320,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 43 | 📸 With Images: 263 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 43 | 📸 With Images: 265 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
