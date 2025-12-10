@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 10:01:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-10 11:01:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251209-jerome-powell-ew-651p-8a3be3.jpg" alt="Federal Reserve prepares to cut interest rates for a third time this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/economy/fed-prepares-cut-rates-third-time-year-rcna248226" target="_blank">Federal Reserve prepares to cut interest rates for a third time this year</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-10 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/10/g-s1-101471/border-patrol-left-charlotte-the-damage-stayed-behind" target="_blank">Border Patrol left Charlotte. The damage stayed behind.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-10 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/czdgje5p3qdo?at_medium=RSS&at_campaign=rss" target="_blank">Madeleine McCann&#x27;s father calls for greater scrutiny of press</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-10 08:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/10/g-s1-101511/democrat-wins-miami-mayor-race" target="_blank">Democrat wins Miami mayor&#x27;s race for the first time in nearly 30 years</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-10 07:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/10/g-s1-101506/trumps-speech-grievances-about-immigrants" target="_blank">Trump&#x27;s speech on combating inflation turns to grievances about immigrants</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-10 06:40</span>
             </div>
         </div>
 </div>
@@ -246,6 +246,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/NicCageCarpentersSon-1280x853.jpg" alt="Just in Time for Christmas, Nic Cage’s Jesus Horror Movie Comes Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/just-in-time-for-christmas-nic-cages-jesus-horror-movie-comes-home-2000697616" target="_blank">Just in Time for Christmas, Nic Cage’s Jesus Horror Movie Comes Home</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-10 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/call-center-shutterstock-1280x853.jpg" alt="How Scammers Poison AI Results With Fake Customer Support Numbers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -290,15 +299,6 @@
                 <span class="time">2025-12-09 23:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/anker-solix-c1000-v2-1280x853.jpg" alt="Anker Solix 2000W Power Station Goes Super Low on Amazon, Winter Blackout Season Just Got Less Scary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/anker-solix-2000w-power-station-goes-super-low-on-amazon-winter-blackout-season-just-got-less-scary-2000651723" target="_blank">Anker Solix 2000W Power Station Goes Super Low on Amazon, Winter Blackout Season Just Got Less Scary</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-09 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 43 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 43 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
