@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 20:02:28 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-10 21:01:52 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +45,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/10/rwanda-backed-m23-militia-storms-drc-city-displacing-200000?traffic_source=rss" target="_blank">Rwanda-backed M23 militia storms DRC city, displacing 200,000</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-10 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year?traffic_source=rss" target="_blank">US Federal Reserve cuts interest rates in final decision of the year</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-10 19:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/10/nx-s1-5639958/egypt-iran-seattle-pride-match-fifa-world-cup" target="_blank">Egypt and Iran object to playing in a Seattle &#x27;Pride&#x27; match in next year&#x27;s World Cup</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-10 19:01</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +93,6 @@
                 <span class="title"><a href="https://news.sky.com/story/exceptional-british-soldier-killed-in-ukraine-accident-pictured-13481870" target="_blank">&#x27;Exceptional&#x27; British soldier killed in Ukraine accident pictured</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-12-10 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss" target="_blank">US federal judge halts Trump’s National Guard operations in California</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-10 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/linda-mcmahon-2-rt-gmh-251120_1763664298860_hpMain_4x3t_384.jpg" alt="Trump admin moves to end major student loan forgiveness plan: &#x27;We won&#x27;t tolerate it&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-administration-moves-end-major-student-loan-forgiveness/story?id=128268281" target="_blank">Trump admin moves to end major student loan forgiveness plan: &#x27;We won&#x27;t tolerate it&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-10 17:32</span>
             </div>
         </div>
 </div>
@@ -164,6 +162,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Glibc-malloc-2MB-THP-AArch64" target="_blank">Glibc Now Enabling 2MB THP On AArch64 By Default For Better Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-10 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18793623&w=600" alt="Securing Cloud Workloads in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/securing-cloud-workloads-age-of-ai" target="_blank">Securing Cloud Workloads in the Age of AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-10 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/snackoverflowwithasad/why-numpy-and-pandas-are-essential-a-beginners-realization-in-aiml-959" target="_blank">Why NumPy and Pandas Are Essential: A Beginner’s Realization in AI/ML</a></span>
                 <span class="feed">DEV Community</span>
@@ -189,30 +205,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!NYjO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F833e5a4f-29ac-4c27-8a3a-e4a82bdf03ea_1600x1200.jpeg" alt="Frictionless: why great developer experience can help teams win in the ‘AI age’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/frictionless-why-great-developer" target="_blank">Frictionless: why great developer experience can help teams win in the ‘AI age’</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-12-10 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/Ubuntu-Flavors.jpg?resize=406%2C232&amp;ssl=1" alt="Two Ubuntu Flavours Won’t Be LTS Releases Next Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-unity-mate-26-04-lts-status" target="_blank">Two Ubuntu Flavours Won’t Be LTS Releases Next Year</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-10 16:18</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://neal.fun/size-of-life/" target="_blank">Size of Life</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-10 16:02</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/open-source-nas-os/" target="_blank">Here are Your Choices for an Open Source NAS Operating System</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-10 17:15</span>
             </div>
         </div>
 </div>
@@ -243,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/bafkreiesnnrbm6qknbh72mtv6qq55tu-1280x720.jpg" alt="Mega Raichu Flies Around Like Superman, And It Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-mega-dimension-evolution-raichu-x-2000652246" target="_blank">Mega Raichu Flies Around Like Superman, And It Rules</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-10 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-10 20:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Grinch-Dr.-Seuss-1280x853.jpg" alt="How the Grinch Stole Modern Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,29 +295,20 @@
                 <span class="time">2025-12-10 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-Sugiura-Shinji-CC-BY.jpg?fit=1080%2C598&amp;quality=60&amp;ssl=1" alt="This frog eats murder hornets for breakfast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/10/this-frog-eats-murder-hornets-for-breakfast.html" target="_blank">This frog eats murder hornets for breakfast</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-10 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/skunk-e1765390547535.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Death by rabid kidney: A very American transplant story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/10/death-by-rabid-kidney-a-very-american-transplant-story.html" target="_blank">Death by rabid kidney: A very American transplant story</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-10 18:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/10/how-i-make-comics" target="_blank">How I Make Comics</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-10 17:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1765282098-20251210_edit.png" alt="Saturday Morning Breakfast Cereal - Real" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -334,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 43 | 📸 With Images: 270 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 43 | 📸 With Images: 270 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
