@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 08:02:21 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-12-10 09:03:07 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/12/10/possible-rise-in-maternal-deaths-how-usaid-cuts-strand-malawis-mothers?traffic_source=rss" target="_blank">‘Possible rise in maternal deaths’: How USAID cuts strand Malawi’s mothers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-10 08:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec98/live/6de0a860-d513-11f0-bf05-2725f8fc0dac.jpg" alt="Madeleine McCann&#x27;s father calls for greater scrutiny of press" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czdgje5p3qdo?at_medium=RSS&at_campaign=rss" target="_blank">Madeleine McCann&#x27;s father calls for greater scrutiny of press</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-10 08:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/10/g-s1-101511/democrat-wins-miami-mayor-race" target="_blank">Democrat wins Miami mayor&#x27;s race for the first time in nearly 30 years</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-10 07:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,33 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&at_campaign=rss" target="_blank">Sperm from donor with cancer-causing gene was used to conceive almost 200 children</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-10 05:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765343321329_now_staytuned_trump_economy_pennsylvania_251209_1920x1080-nov155.jpg" alt="Trump touts economic policies as recent polls show disapproval" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-touts-economic-policies-as-recent-polls-show-disapproval-254096453698" target="_blank">Trump touts economic policies as recent polls show disapproval</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-10 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/10/s-korea-japan-scramble-warplanes-in-response-to-russia-china-air-patrol?traffic_source=rss" target="_blank">S Korea, Japan scramble warplanes in response to Russia, China air patrol</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-10 03:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/09/g-s1-101503/kentucky-state-university-shooting-frankfort" target="_blank">1 student dead, 1 critically injured in shooting at Kentucky State University</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-10 01:14</span>
             </div>
         </div>
 </div>
@@ -161,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcfwrk14ackhvym91l7g8.png" alt="AdonisJS Tutorial: The Ultimate Guide (2023)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/masteringbackend/adonisjs-tutorial-the-ultimate-guide-2023-1nof" target="_blank">AdonisJS Tutorial: The Ultimate Guide (2023)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-10 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +217,6 @@
                 <span class="title"><a href="https://itsfoss.com/helium-browser/" target="_blank">Is Helium the Browser Brave Was Meant to Be?</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2025-12-10 02:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://lobste.rs/s/qhznjj/looking_for_guidance_on_improving" target="_blank">Looking for guidance on improving an offline security tool I built</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-10 02:56</span>
             </div>
         </div>
 </div>
@@ -302,6 +307,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/10/the-keighlioth" target="_blank">The Keighlioth</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-10 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5718.png" alt="QC Rerun Time 2025 #3" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -324,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 43 | 📸 With Images: 264 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 43 | 📸 With Images: 263 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
