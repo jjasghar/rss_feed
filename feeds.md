@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 01:29:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-10 02:32:27 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 33 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 02:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251208-baby-newborn-stock-vl-1216p-159413.jpg" alt="Confusion over CDC panel&#x27;s hepatitis B guidance could disrupt care for babies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/health/health-news/hepatitis-b-cdc-panel-guidance-babies-doctors-confusion-rcna247999" target="_blank">Confusion over CDC panel&#x27;s hepatitis B guidance could disrupt care for babies</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-09 22:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/trump_thumb-4o2u66.jpg" alt="Trump delivers remarks on economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,15 +97,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/dec/09/drc-fighting-forces-200000-to-flee-just-days-after-washington-peace-deal" target="_blank">DRC fighting forces 200,000 to flee just days after Washington peace deal</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-12-09 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/09/colombian-mercenaries-sudan-sanctions" target="_blank">US puts sanctions on network said to funnel Colombian mercenaries to Sudan</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-09 18:20</span>
             </div>
         </div>
 </div>
@@ -171,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4hz7n8f6j61tf3eivl5s.png" alt="How to Get Paid in USDC: A Complete Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/justqueue/how-to-get-paid-in-usdc-a-complete-guide-4igp" target="_blank">How to Get Paid in USDC: A Complete Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-10 02:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -215,15 +217,6 @@
                 <span class="time">2025-12-09 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cloudwiseteam/i-built-an-ai-powered-aws-waste-detector-and-found-4200-in-my-own-account-2cc4" target="_blank">I Built an AI-Powered AWS Waste Detector (and Found $4,200 in My Own Account)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-09 19:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Screenshot-2025-12-09-at-5.39.36-PM-1280x711.jpg" alt="Everyone Hated the McDonald’s AI Christmas Ad So Much It Got Taken Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/everyone-hated-the-mcdonalds-ai-christmas-ad-so-much-it-got-taken-down-2000697045" target="_blank">Everyone Hated the McDonald’s AI Christmas Ad So Much It Got Taken Down</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-10 02:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/lenovo-gaming-laptop-15-inch-1280x853.jpg" alt="Lenovo Gaming Laptop With Solid Specs (40GB DDR5, 1TB SSD) Drops 70% Off, Amazon Goes Zero Profit to Dump Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +290,6 @@
                 <span class="time">2025-12-09 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/bat.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Watch: Baby bats cuddle together during wildlife rehabilitation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/09/watch-baby-bats-cuddle-together-during-wildlife-rehabilitation.html" target="_blank">Watch: Baby bats cuddle together during wildlife rehabilitation</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-09 21:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 43 | 📸 With Images: 262 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 43 | 📸 With Images: 263 |
+        🔄 Last Updated: 02:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
