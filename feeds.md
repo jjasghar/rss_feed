@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 22:01:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-10 23:01:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -93,12 +87,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765394066221_now_daily_b_fed_rate_cut_251210_1920x1080-dafifb.jpg" alt="Federal Reserve votes to cut interest rates for third time in a row" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/10/nx-s1-5639958/egypt-iran-seattle-pride-match-fifa-world-cup" target="_blank">Egypt and Iran object to playing in a Seattle &#x27;Pride&#x27; match in next year&#x27;s World Cup</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-10 19:01</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/federal-reserve-votes-to-cut-interest-rates-for-third-time-in-a-row-254163013716" target="_blank">Federal Reserve votes to cut interest rates for third time in a row</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-10 19:14</span>
             </div>
         </div>
 </div>
@@ -122,6 +116,15 @@
                 <span class="title"><a href="https://www.wired.com/story/true-classic-tees-flash-deals-december-2025/" target="_blank">True Classic Tees Deals for the 2025 Holidays: 25 Percent Off Crew Necks</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-10 21:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Sesame-Street-500x500-1752686474.jpg" alt="After NPR and PBS defunding, FCC receives call to take away station licenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/conservative-attacks-on-npr-and-pbs-continue-with-call-to-take-fcc-licenses/" target="_blank">After NPR and PBS defunding, FCC receives call to take away station licenses</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-10 21:05</span>
             </div>
         </div>
 <div class="story">
@@ -151,20 +154,20 @@
                 <span class="time">2025-12-10 18:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/2025-Subaru-Forester-Hybrid-1-of-14-500x500.jpg" alt="Ugly infotainment mars the 2025 Subaru Forester Hybrid experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/12/ugly-infotainment-mars-the-2025-subaru-forester-hybrid-experience/" target="_blank">Ugly infotainment mars the 2025 Subaru Forester Hybrid experience</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-10 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/johnonline35/return-facts-not-interpretations-why-llm-tools-should-be-dumber-than-you-think-2g0n" target="_blank">Return Facts, Not Interpretations: Why LLM Tools Should Be Dumber Than You Think</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-10 22:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +211,6 @@
                 <span class="title"><a href="https://dzone.com/articles/architecting-intelligence-llm-powered-pipeline" target="_blank">Architecting Intelligence: A Complete LLM-Powered Pipeline for Unstructured Document Analytics</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-10 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/open-source-nas-os/" target="_blank">Here are Your Choices for an Open Source NAS Operating System</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-10 17:15</span>
             </div>
         </div>
 </div>
@@ -347,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
