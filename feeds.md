@@ -1,29 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-09 23:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-10 00:04:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, December 09, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -99,6 +101,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/09/hinge-ceo-steps-down-to-launch-overtone-an-ai-dating-app/" target="_blank">Hinge CEO steps down to launch Overtone, an AI dating app</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-10 00:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-500x500.jpg" alt="Over 250 people quarantined in South Carolina as measles outbreak rages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -143,20 +154,20 @@
                 <span class="time">2025-12-09 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale" target="_blank">The AirPods Pro 3 are back to their lowest price ahead of the holidays</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-09 19:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/yaru-square.jpg?resize=406%2C232&amp;ssl=1" alt="In 26.04, Ubuntu Will Look More Like Vanilla GNOME" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-26-04-yaru-theme-gnome-shell-changes" target="_blank">In 26.04, Ubuntu Will Look More Like Vanilla GNOME</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-09 23:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +213,6 @@
                 <span class="time">2025-12-09 18:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sandeepk27/day-10-partitioning-vs-bucketing-the-spark-optimization-guide-every-data-engineer-needs-mlj" target="_blank">Day 10: Partitioning vs Bucketing - The Spark Optimization Guide Every Data Engineer Needs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-09 18:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +233,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/dji-mini-5-pro-bundle-1280x853.jpg" alt="Ignore the Mini 4 Pro, New DJI Mini 5 Pro Bundle With 3 Batteries Drops to New All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ignore-the-mini-4-pro-new-dji-mini-5-pro-bundle-with-3-batteries-drops-to-new-all-time-low-2000651747" target="_blank">Ignore the Mini 4 Pro, New DJI Mini 5 Pro Bundle With 3 Batteries Drops to New All-Time Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-09 23:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/anker-solix-c1000-v2-1280x853.jpg" alt="Anker Solix 2000W Power Station Goes Super Low on Amazon, Winter Blackout Season Just Got Less Scary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -245,6 +256,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/magic-the-gathering-marvel-super-heroes-spoilers-doctor-doom-horn-of-greed-2000697495" target="_blank">Doctor Doom Will Toot in the Next Marvel ‘Magic: The Gathering’ Set</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-09 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KC2DE7N6Z5BP8WS17SW0SCVW/hero-image.jpg" alt="Instagram May Be Quietly Adding AI-Generated Headlines to Your Posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/instagram-may-be-quietly-adding-ai-generated-headlines-to-your-posts?utm_medium=RSS" target="_blank">Instagram May Be Quietly Adding AI-Generated Headlines to Your Posts</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-09 22:00</span>
             </div>
         </div>
@@ -266,24 +286,6 @@
                 <span class="time">2025-12-09 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/Boys-e1765309138762.jpg?fit=768%2C433&amp;quality=60&amp;ssl=1" alt="&quot;The Boys&quot; is getting its first video game adaptation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/09/the-boys-is-getting-its-first-video-game-adaptation.html" target="_blank">&quot;The Boys&quot; is getting its first video game adaptation</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-09 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/croydon-facelift.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="The &quot;Croydon Facelift&quot; is a hairstyle with a class war built in" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/09/the-croydon-facelift-is-a-hairstyle-with-a-class-war-built-in.html" target="_blank">The &quot;Croydon Facelift&quot; is a hairstyle with a class war built in</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-09 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 43 | 📸 With Images: 260 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 124 | 📡 Total Sources: 43 | 📸 With Images: 260 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
