@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 21:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-10 22:01:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-12-rt-gmh-251210_1765398207523_hpMain_4x3t_384.jpg" alt="US seizes tanker off coast of Venezuela, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/us-seizes-tanker-off-coast-venezuela-trump/story?id=128290987" target="_blank">US seizes tanker off coast of Venezuela, Trump says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-10 21:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/10/us-congressman-randy-fine-suggests-palestinians-should-be-destroyed-first?traffic_source=rss" target="_blank">US Congressman Randy Fine suggests Palestinians should ‘be destroyed first’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-10 21:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/10/rwanda-backed-m23-militia-storms-drc-city-displacing-200000?traffic_source=rss" target="_blank">Rwanda-backed M23 militia storms DRC city, displacing 200,000</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-10 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ed6/live/8a256820-d5f0-11f0-9fb5-5f3a3703a365.jpg" alt="British paratrooper killed in Ukraine &#x27;lived life of courage&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gpkr83p73o?at_medium=RSS&at_campaign=rss" target="_blank">British paratrooper killed in Ukraine &#x27;lived life of courage&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-10 19:53</span>
             </div>
         </div>
 <div class="story">
@@ -68,38 +101,29 @@
                 <span class="time">2025-12-10 19:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-8-gty-gmh-251210_1765374869717_hpMain_4x3t_384.jpg" alt="Trump ramps up anti-immigrant rhetoric, embraces phrase &#x27;s---hole countries&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-ramps-anti-immigrant-rhetoric-embraces-phrase-hole/story?id=128279166" target="_blank">Trump ramps up anti-immigrant rhetoric, embraces phrase &#x27;s---hole countries&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-10 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/10/nx-s1-5639822/national-guard-la-court-judge-trump" target="_blank">Judge blocks Trump&#x27;s National Guard deployment in LA with sharp rebuke</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-10 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-ukraine-russia-george-hooley_7106718.jpg?20251210170832" alt="&#x27;Exceptional&#x27; British soldier killed in Ukraine accident pictured" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/exceptional-british-soldier-killed-in-ukraine-accident-pictured-13481870" target="_blank">&#x27;Exceptional&#x27; British soldier killed in Ukraine accident pictured</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-10 17:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition" target="_blank">Operation Bluebird wants to reclaim Twitter’s ‘abandoned’ trademarks for a new social network</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-10 21:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6939e2bb275228a327c52abc/master/pass/Deals_True%20Classic%20Tees%20SOURCE%20True%20Classic.jpg" alt="True Classic Tees Deals for the 2025 Holidays: 25 Percent Off Crew Necks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/true-classic-tees-flash-deals-december-2025/" target="_blank">True Classic Tees Deals for the 2025 Holidays: 25 Percent Off Crew Necks</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-10 21:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,24 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/cars/2025/12/ugly-infotainment-mars-the-2025-subaru-forester-hybrid-experience/" target="_blank">Ugly infotainment mars the 2025 Subaru Forester Hybrid experience</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-12-10 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/841503/android-emergency-live-video" target="_blank">Android users can now share a live video on 911 calls</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-10 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69337def6a7147754f546d77/master/pass/security_chinese_hackers_cisco.jpg" alt="2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/" target="_blank">2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-10 17:00</span>
             </div>
         </div>
 </div>
@@ -242,6 +248,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Megacrania_batesii-mating-DEM-scaled.jpg?fit=1920%2C2560&amp;quality=60&amp;ssl=1" alt="Peppermint-stick insect: the mint-spraying rainforest bug" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/10/peppermint-stick-insect-the-mint-spraying-rainforest-bug.html" target="_blank">Peppermint-stick insect: the mint-spraying rainforest bug</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-10 21:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/mighty-nein-beau-caleb-1280x925.jpg" alt="This Week’s ‘Mighty Nein’ Inherits the Beef Between Its 2 Best Characters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-weeks-mighty-nein-inherits-the-beef-between-its-2-best-characters-2000694310" target="_blank">This Week’s ‘Mighty Nein’ Inherits the Beef Between Its 2 Best Characters</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-10 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/bafkreiesnnrbm6qknbh72mtv6qq55tu-1280x720.jpg" alt="Mega Raichu Flies Around Like Superman, And It Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -275,24 +299,6 @@
                 <span class="title"><a href="https://kotaku.com/light-up-the-town-cozy-christmas-holiday-lights-simulator-steam-demo-review-2000652213" target="_blank">Light Up The Town Is The Perfect Cozy Christmas Lights Simulator</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-10 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/MAVEN-1280x853.jpg" alt="A Vital NASA Mars Orbiter Has Gone Dark" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-vital-nasa-mars-orbiter-has-gone-dark-2000697867" target="_blank">A Vital NASA Mars Orbiter Has Gone Dark</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-10 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KB5TSHGD2RNF8N8Y056KS1NJ/hero-image.jpg" alt="10 Hacks Every Chromebook Power User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-hacks-for-chromebook-power-users?utm_medium=RSS" target="_blank">10 Hacks Every Chromebook Power User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-10 18:30</span>
             </div>
         </div>
 </div>
@@ -341,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 43 | 📸 With Images: 270 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
