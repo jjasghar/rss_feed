@@ -1,31 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 00:04:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-10 01:29:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 12 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/trump_thumb-4o2u66.jpg" alt="Trump delivers remarks on economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-president-trump-delivers-remarks-on-economy-254063173907" target="_blank">Trump delivers remarks on economy</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-09 22:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d31b/live/06db0460-d542-11f0-80ee-a746c83f913a.jpg" alt="Major talks on changes to ECHR migration rules set to start" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2g03gv2z6o?at_medium=RSS&at_campaign=rss" target="_blank">Major talks on changes to ECHR migration rules set to start</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-09 22:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df8a/live/623e1270-d515-11f0-9fb5-5f3a3703a365.jpg" alt="Trump criticises &#x27;decaying&#x27; European countries and &#x27;weak&#x27; leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +106,38 @@
                 <span class="time">2025-12-09 18:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/09/nx-s1-5634506/taxes-the-price-of-democracy" target="_blank">Believe it or not, this book makes taxes fascinating</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-09 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b544/live/0f3f2940-d521-11f0-8c06-f5d460985095.jpg" alt="Storm Bram brings flooding and travel disruption to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c23e7z9dek8o?at_medium=RSS&at_campaign=rss" target="_blank">Storm Bram brings flooding and travel disruption to UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-09 17:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/" target="_blank">Coreweave CEO defends AI circular deals as ‘working together’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-10 00:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back" target="_blank">Call of Duty won’t release Modern Warfare or Black Ops back to back anymore</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-10 00:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6938b5de14a7bceeac57a1c5/master/pass/Henson%20AL13%20Safety%20Razor%20Shave%20Set%20(2%20Year)%20top%20art%201%20SOURCE%20Walmart.jpg" alt="This Is the Best Razor I&#x27;ve Ever Used—Save Big With This Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-best-razor-ive-ever-used-is-on-sale/" target="_blank">This Is the Best Razor I&#x27;ve Ever Used—Save Big With This Sale</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-10 00:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,38 +165,29 @@
                 <span class="time">2025-12-09 21:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/09/spacex-reportedly-planning-2026-ipo-with-1-5t-valuation-target/" target="_blank">SpaceX reportedly planning 2026 IPO with $1.5T valuation target</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-09 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025" target="_blank">Some of our favorite gifts will cost you less than $25</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-09 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/693862c9904c15561e765f55/master/pass/Hulu-Show-Guide-Culure-ChrisHemsworthARoadTripToRemember_11.jpg" alt="The 51 Best Shows on Hulu, WIRED’s Picks (December 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-tv-shows-hulu-this-week/" target="_blank">The 51 Best Shows on Hulu, WIRED’s Picks (December 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-09 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ahmetly_/optwin-11-release-announcement-optimize-windows-48dc" target="_blank">OptWin 1.1 release announcement - Optimize Windows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-10 01:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/yaru-square.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Will Look More Like Vanilla GNOME" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-26-04-yaru-theme-gnome-shell-changes" target="_blank">Ubuntu 26.04 Will Look More Like Vanilla GNOME</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-09 23:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/yaru-square.jpg?resize=406%2C232&amp;ssl=1" alt="In 26.04, Ubuntu Will Look More Like Vanilla GNOME" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +224,6 @@
                 <span class="time">2025-12-09 19:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18788847&w=600" alt="Designing Java Web Services That Recover From Failure Instead of Breaking Under Load" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/design-java-web-services-that-recover-from-failure" target="_blank">Designing Java Web Services That Recover From Failure Instead of Breaking Under Load</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-09 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://letsencrypt.org/2025/12/09/10-years" target="_blank">10 Years of Let&#x27;s Encrypt</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-09 18:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/lenovo-gaming-laptop-15-inch-1280x853.jpg" alt="Lenovo Gaming Laptop With Solid Specs (40GB DDR5, 1TB SSD) Drops 70% Off, Amazon Goes Zero Profit to Dump Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lenovo-gaming-laptop-with-solid-specs-40gb-ddr5-1tb-ssd-drops-70-off-amazon-goes-zero-profit-to-dump-stock-2000651754" target="_blank">Lenovo Gaming Laptop With Solid Specs (40GB DDR5, 1TB SSD) Drops 70% Off, Amazon Goes Zero Profit to Dump Stock</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-10 00:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/dji-mini-5-pro-bundle-1280x853.jpg" alt="Ignore the Mini 4 Pro, New DJI Mini 5 Pro Bundle With 3 Batteries Drops to New All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,21 +289,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/maxresdefault-8.jpg" alt="Gooner Gacha Game Abandons Steam Launch After Refusing To Make Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/bat.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Watch: Baby bats cuddle together during wildlife rehabilitation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/browndust2-nsfw-gacha-game-steam-release-cancel-policy-2000651817" target="_blank">Gooner Gacha Game Abandons Steam Launch After Refusing To Make Changes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-09 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KB5T7BM47A5TMTBGPRBM8A2J/hero-image.jpg" alt="10 Hacks Every Homeowner Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/hacks-every-homeowner-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Homeowner Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-09 20:00</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/09/watch-baby-bats-cuddle-together-during-wildlife-rehabilitation.html" target="_blank">Watch: Baby bats cuddle together during wildlife rehabilitation</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-09 21:43</span>
             </div>
         </div>
 </div>
@@ -291,6 +302,15 @@
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5718.png" alt="QC Rerun Time 2025 #3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5719" target="_blank">QC Rerun Time 2025 #3</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-12-10 01:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1765164584-20251209_edit.png" alt="Saturday Morning Breakfast Cereal - All" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -305,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 124 | 📡 Total Sources: 43 | 📸 With Images: 260 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 43 | 📸 With Images: 262 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
