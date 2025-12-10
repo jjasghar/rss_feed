@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 09:03:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-10 10:01:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss" target="_blank">Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-10 09:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec98/live/6de0a860-d513-11f0-bf05-2725f8fc0dac.jpg" alt="Madeleine McCann&#x27;s father tells BBC how his family was hounded by press" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czdgje5p3qdo?at_medium=RSS&at_campaign=rss" target="_blank">Madeleine McCann&#x27;s father tells BBC how his family was hounded by press</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-10 09:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/10/g-s1-101506/trumps-speech-grievances-about-immigrants" target="_blank">Trump&#x27;s speech on combating inflation turns to grievances about immigrants</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-10 06:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/10/thailand-cambodia-border-clashes-enter-third-day-as-500000-flee-fighting?traffic_source=rss" target="_blank">Thailand-Cambodia border clashes enter third day as 500,000 flee fighting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-10 06:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906d/live/ff8d66c0-d4ed-11f0-8c06-f5d460985095.jpg" alt="Sperm from donor with cancer-causing gene was used to conceive almost 200 children" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&at_campaign=rss" target="_blank">Sperm from donor with cancer-causing gene was used to conceive almost 200 children</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-10 05:06</span>
             </div>
         </div>
 </div>
@@ -166,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/icybergenome_34/the-self-checkout-trap-why-retailers-keep-betting-on-technology-that-costs-them-billions-2akj" target="_blank">The Self-Checkout Trap: Why Retailers Keep Betting on Technology That Costs Them Billions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-10 09:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcfwrk14ackhvym91l7g8.png" alt="AdonisJS Tutorial: The Ultimate Guide (2023)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +217,6 @@
                 <span class="time">2025-12-10 03:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/helium-browser/" target="_blank">Is Helium the Browser Brave Was Meant to Be?</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-10 02:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/call-center-shutterstock-1280x853.jpg" alt="How Scammers Poison AI Results With Fake Customer Support Numbers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ai-scam-phone-numbers-2000697589" target="_blank">How Scammers Poison AI Results With Fake Customer Support Numbers</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-10 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/customs-1280x855.jpg" alt="CBP Announces Plan to Look at Foreign Tourists’ Social Media Activity Prior to U.S. Entry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +299,6 @@
                 <span class="time">2025-12-09 22:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/magic-the-gathering-marvel-super-heroes-horn-of-greed-1280x853.jpg" alt="Doctor Doom Will Toot in the Next Marvel ‘Magic: The Gathering’ Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/magic-the-gathering-marvel-super-heroes-spoilers-doctor-doom-horn-of-greed-2000697495" target="_blank">Doctor Doom Will Toot in the Next Marvel ‘Magic: The Gathering’ Set</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-09 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 43 | 📸 With Images: 263 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 43 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
