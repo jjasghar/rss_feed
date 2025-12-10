@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 18:02:01 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-12-10 19:02:01 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-8-gty-gmh-251210_1765374869717_hpMain_4x3t_384.jpg" alt="Trump ramps up anti-immigrant rhetoric, embraces phrase &#x27;s---hole countries&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-ramps-anti-immigrant-rhetoric-embraces-phrase-hole/story?id=128279166" target="_blank">Trump ramps up anti-immigrant rhetoric, embraces phrase &#x27;s---hole countries&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-10 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/10/nx-s1-5639822/national-guard-la-court-judge-trump" target="_blank">Judge blocks Trump&#x27;s National Guard deployment in LA with sharp rebuke</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-10 18:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ed6/live/8a256820-d5f0-11f0-9fb5-5f3a3703a365.jpg" alt="British paratrooper killed in Ukraine named" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gpkr83p73o?at_medium=RSS&at_campaign=rss" target="_blank">British paratrooper killed in Ukraine named</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-10 17:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db84/live/472b9460-d5e9-11f0-a892-01d657345866.jpg" alt="US could ask foreign tourists for five-year social media history before entry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -69,38 +99,20 @@
                 <span class="time">2025-12-10 16:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250709-epstein-ch-1250-e35033.jpg" alt="New York judge orders release of Jeffrey Epstein grand jury records from 2019 case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/new-york-judge-orders-release-jeffrey-epstein-grand-jury-records-rcna248393" target="_blank">New York judge orders release of Jeffrey Epstein grand jury records from 2019 case</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-10 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c9c/live/0899efd0-d5ad-11f0-aaf9-cfb9de77e0db.jpg" alt="Nobel Peace Prize winner&#x27;s daughter accepts award on her behalf" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS&at_campaign=rss" target="_blank">Nobel Peace Prize winner&#x27;s daughter accepts award on her behalf</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-10 14:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48c6/live/3d46d720-cb8f-11f0-8b24-8191145688b1.jpg" alt="Man guilty of murdering woman and children in fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7vm7dm589do?at_medium=RSS&at_campaign=rss" target="_blank">Man guilty of murdering woman and children in fire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-10 13:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/download-500x500-1765390046.jpeg" alt="Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/kindle-scribe-colorsoft-brings-color-e-ink-to-amazons-11-inch-e-reader/" target="_blank">Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-10 18:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/2025-Subaru-Forester-Hybrid-1-of-14-500x500.jpg" alt="Ugly infotainment mars the 2025 Subaru Forester Hybrid experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +158,20 @@
                 <span class="time">2025-12-10 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6936ecb4cb60e53aa311a81c/master/pass/Gifts%20For%20Mom%20Top%20Art%20122025.jpg" alt="18 Best Gifts for Mom (2025): LED Masks, E-Readers, Blow-Dry Brushes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-moms-2025/" target="_blank">18 Best Gifts for Mom (2025): LED Masks, E-Readers, Blow-Dry Brushes</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-10 15:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18793524&w=600" alt="Architecting Intelligence: A Complete LLM-Powered Pipeline for Unstructured Document Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/architecting-intelligence-llm-powered-pipeline" target="_blank">Architecting Intelligence: A Complete LLM-Powered Pipeline for Unstructured Document Analytics</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-10 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://substackcdn.com/image/fetch/$s_!NYjO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F833e5a4f-29ac-4c27-8a3a-e4a82bdf03ea_1600x1200.jpeg" alt="Frictionless: why great developer experience can help teams win in the ‘AI age’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,15 +217,6 @@
                 <span class="time">2025-12-10 15:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.newyorker.com/magazine/2025/12/15/how-to-leave-the-usa" target="_blank">How to Leave the USA</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-10 15:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +246,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/xmassimx-1280x720.jpg" alt="Light Up The Town Is The Perfect Cozy Christmas Lights Simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/light-up-the-town-cozy-christmas-holiday-lights-simulator-steam-demo-review-2000652213" target="_blank">Light Up The Town Is The Perfect Cozy Christmas Lights Simulator</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-10 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/MAVEN-1280x853.jpg" alt="A Vital NASA Mars Orbiter Has Gone Dark" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-vital-nasa-mars-orbiter-has-gone-dark-2000697867" target="_blank">A Vital NASA Mars Orbiter Has Gone Dark</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-10 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KB5TSHGD2RNF8N8Y056KS1NJ/hero-image.jpg" alt="10 Hacks Every Chromebook Power User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-hacks-for-chromebook-power-users?utm_medium=RSS" target="_blank">10 Hacks Every Chromebook Power User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-10 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/skunk-e1765390547535.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Death by rabid kidney: A very American transplant story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/10/death-by-rabid-kidney-a-very-american-transplant-story.html" target="_blank">Death by rabid kidney: A very American transplant story</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-10 18:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/shroud-2-1280x853.jpg" alt="20 Sci-Fi, Fantasy, and Horror Authors Pick Their Favorite Sci-Fi, Fantasy, and Horror Books of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -260,47 +299,20 @@
                 <span class="time">2025-12-10 17:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/christmas-genre-movies-ranked-grinch-nightmare-before-elf-1-1280x853.jpg" alt="Our 16 Favorite Holiday Genre Movies, Ranked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/holiday-movies-ranked-horror-scifi-fantasy-2000696724" target="_blank">Our 16 Favorite Holiday Genre Movies, Ranked</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-10 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/lenovo-laptop-8gb-1280x853.jpg" alt="This Lenovo 15″ Laptop With Good Everyday Specs Drops 75% Off, But Only on Amazon Not Official Site" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-lenovo-15-laptop-with-good-everyday-specs-drops-75-off-but-only-on-amazon-not-official-site-2000652164" target="_blank">This Lenovo 15″ Laptop With Good Everyday Specs Drops 75% Off, But Only on Amazon Not Official Site</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-10 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KC2DE7N6Z5BP8WS17SW0SCVW/hero-image.jpg" alt="Instagram Is Adding AI-Generated Headlines to Some Posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/instagram-adding-ai-headlines-posts?utm_medium=RSS" target="_blank">Instagram Is Adding AI-Generated Headlines to Some Posts</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-10 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Avatar-Spider-interview-1280x853.jpg" alt="Jack Champion Has Already Filmed ‘More Than a Little’ of ‘Avatar 4’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jack-champion-avatar-4-scenes-spider-2000697806" target="_blank">Jack Champion Has Already Filmed ‘More Than a Little’ of ‘Avatar 4’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-10 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1765282098-20251210_edit.png" alt="Saturday Morning Breakfast Cereal - Real" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/real-5" target="_blank">Saturday Morning Breakfast Cereal - Real</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-10 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -324,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
