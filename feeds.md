@@ -1,35 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 02:32:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-10 03:27:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Slashdot -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 02:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/10/s-korea-japan-scramble-warplanes-in-response-to-russia-china-air-patrol?traffic_source=rss" target="_blank">S Korea, Japan scramble warplanes in response to Russia, China air patrol</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-10 03:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251208-baby-newborn-stock-vl-1216p-159413.jpg" alt="Confusion over CDC panel&#x27;s hepatitis B guidance could disrupt care for babies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +89,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/09/nx-s1-5638567/save-plan-student-loan-settlement" target="_blank">Millions of borrowers in Biden&#x27;s SAVE plan would start paying under new settlement</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-09 20:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/09/drc-fighting-forces-200000-to-flee-just-days-after-washington-peace-deal" target="_blank">DRC fighting forces 200,000 to flee just days after Washington peace deal</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-09 19:28</span>
             </div>
         </div>
 </div>
@@ -164,6 +156,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://lobste.rs/s/qhznjj/looking_for_guidance_on_improving" target="_blank">Looking for guidance on improving an offline security tool I built</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-10 02:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4hz7n8f6j61tf3eivl5s.png" alt="How to Get Paid in USDC: A Complete Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +207,6 @@
                 <span class="title"><a href="https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/" target="_blank">MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-12-09 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18790121&w=600" alt="AI-Driven Alpha: Building Equity Models That Survive Emerging Markets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-driven-alpha-building-equity-models-survive-markets" target="_blank">AI-Driven Alpha: Building Equity Models That Survive Emerging Markets</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-09 20:00</span>
             </div>
         </div>
 </div>
@@ -319,7 +311,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 43 | 📸 With Images: 263 |
-        🔄 Last Updated: 02:32 UTC
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
