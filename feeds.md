@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 15:02:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-10 16:02:03 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250709-epstein-ch-1250-e35033.jpg" alt="New York judge orders release of Jeffrey Epstein grand jury records from 2019 case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/new-york-judge-orders-release-jeffrey-epstein-grand-jury-records-rcna248393" target="_blank">New York judge orders release of Jeffrey Epstein grand jury records from 2019 case</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-10 15:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c9c/live/0899efd0-d5ad-11f0-aaf9-cfb9de77e0db.jpg" alt="Nobel Peace Prize winner&#x27;s daughter accepts award on her behalf" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +102,38 @@
                 <span class="time">2025-12-10 12:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/10/israeli-troops-used-this-palestinian-woman-as-a-human-shield?traffic_source=rss" target="_blank">Israeli troops used this Palestinian woman as a human shield</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-10 12:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/841536/smart-glasses-ai-glasses-xr-ar-headsets-terminology-wearables" target="_blank">No one knows what to call these things</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-10 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6936ecb4cb60e53aa311a81c/master/pass/Gifts%20For%20Mom%20Top%20Art%20122025.jpg" alt="18 Best Gifts for Mom (2025): LED Masks, E-Readers, Blow-Dry Brushes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/gifts-for-moms-2025/" target="_blank">18 Best Gifts for Mom (2025): LED Masks, E-Readers, Blow-Dry Brushes</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-10 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/10/chatgpt-is-apples-most-downloaded-app-of-2025-in-the-us/" target="_blank">ChatGPT is Apple’s most downloaded app of 2025 in the US</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-10 15:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2188660602-1-500x500.jpg" alt="Dr. Oz tells his federal employees to eat less during the holidays" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +161,47 @@
                 <span class="time">2025-12-10 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/690d7a1514132eea7ca698e4/master/pass/The%20Best%20Base%20Layers%20for%20Every%20Adventure.png" alt="Best Base Layers (2025): Ibex, Smartwool, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-base-layers/" target="_blank">Best Base Layers (2025): Ibex, Smartwool, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-10 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-twitter-logo-500x500-1765369744.jpg" alt="Operation Bluebird wants to relaunch “Twitter,” says Musk abandoned the name and logo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2025/12/can-twitter-fly-again-startup-wants-to-pry-iconic-trademark-from-musks-x/" target="_blank">Operation Bluebird wants to relaunch “Twitter,” says Musk abandoned the name and logo</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-10 12:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/10/amazon-to-invest-additional-35b-in-india-by-2030-taking-total-planned-spending-to-75b/" target="_blank">Amazon to invest additional $35B in India by 2030, taking total planned spending to $75B</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-10 12:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjaxs3euha3wqj23adm4f.webp" alt="Networking for Cybersecurity (Part 4): Packets, Sniffing &amp; Traffic Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alvinseyidov/networking-for-cybersecurity-part-4-packets-sniffing-traffic-analysis-31f9" target="_blank">Networking for Cybersecurity (Part 4): Packets, Sniffing &amp; Traffic Analysis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-10 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/harnessing-the-potential-of-5g-with-kubernetes-a-cloud-native-telco-transformation-perspective" target="_blank">Harnessing the potential of 5G with Kubernetes: a cloud-native telco transformation perspective</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-12-10 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.newyorker.com/magazine/2025/12/15/how-to-leave-the-usa" target="_blank">How to Leave the USA</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-10 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/10/tell-us-what-you-really-really-do-not-want-to-spend-time-working-on/" target="_blank">Tell us what you really, really… do not want to spend time working on</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-10 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8tos6g0810rcyfwaas4c.png" alt="🚀 Secure Your Microservices: API Gateway + Docker Private Networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -179,42 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-FSR-SDK-2.1" target="_blank">AMD FSR SDK 2.1 Released With FSR Redstone - Windows-Only For Now</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-10 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/divine-d-project/" target="_blank">A Linux-Powered Smartphone That Has Features You Won&amp;#x27;t Find on Most Phones</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-10 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792328&w=600" alt="When Dell&#x27;s 49 Million Records Walked Out the Door: Why Zero Trust Is No Longer Optional" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/when-dells-49-million-records-walked-out-the-door" target="_blank">When Dell&#x27;s 49 Million Records Walked Out the Door: Why Zero Trust Is No Longer Optional</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-10 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ucmind_39e5584942f7802b7/why-does-ai-still-feel-so-useless-kgc" target="_blank">Why does AI still feel so “useless”?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-10 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/the-rhythm-of-reliability" target="_blank">The rhythm of reliability: inside Canonical’s operational cadence</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-12-10 12:22</span>
             </div>
         </div>
 </div>
@@ -246,6 +249,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Avatar-Spider-interview-1280x853.jpg" alt="Jack Champion Has Already Filmed ‘More Than a Little’ of ‘Avatar 4’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jack-champion-avatar-4-scenes-spider-2000697806" target="_blank">Jack Champion Has Already Filmed ‘More Than a Little’ of ‘Avatar 4’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-10 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/kyy-portable-monitor-15-6-1280x853.jpg" alt="This 15″ Portable Monitor Goes Zero Margin on Amazon, Now Cheaper Than No-Name Generic Fixed Screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-15-portable-monitor-goes-zero-margin-on-amazon-now-cheaper-than-no-name-generic-fixed-screen-2000652145" target="_blank">This 15″ Portable Monitor Goes Zero Margin on Amazon, Now Cheaper Than No-Name Generic Fixed Screen</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-10 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KC31JP0ZFMA3YS8M9P9KA627/hero-image.png" alt="What People Are Getting Wrong This Week: The Real History of Santa Claus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-santa-claus-history?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: The Real History of Santa Claus</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-10 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/samsung-g5-odyssey-1280x853.jpg" alt="Samsung’s 32-Inch Odyssey Curved Monitor Hits Record Low, Amazon Goes Zero Profit for Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -270,33 +300,6 @@
                 <span class="title"><a href="https://gizmodo.com/just-in-time-for-christmas-nic-cages-jesus-horror-movie-comes-home-2000697616" target="_blank">Just in Time for Christmas, Nic Cage’s Jesus Horror Movie Comes Home</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-10 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/call-center-shutterstock-1280x853.jpg" alt="How Scammers Poison AI Results With Fake Customer Support Numbers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ai-scam-phone-numbers-2000697589" target="_blank">How Scammers Poison AI Results With Fake Customer Support Numbers</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-10 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/customs-1280x855.jpg" alt="CBP Announces Plan to Look at Foreign Tourists’ Social Media Activity Prior to U.S. Entry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cbp-announces-plan-to-look-at-foreign-tourists-social-media-activity-prior-to-u-s-entry-2000697654" target="_blank">CBP Announces Plan to Look at Foreign Tourists’ Social Media Activity Prior to U.S. Entry</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-10 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Screenshot-2025-12-09-at-5.39.36-PM-1280x711.jpg" alt="Everyone Hated the McDonald’s AI Christmas Ad So Much It Got Taken Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/everyone-hated-the-mcdonalds-ai-christmas-ad-so-much-it-got-taken-down-2000697045" target="_blank">Everyone Hated the McDonald’s AI Christmas Ad So Much It Got Taken Down</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-10 02:31</span>
             </div>
         </div>
 </div>
@@ -336,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 43 | 📸 With Images: 263 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
