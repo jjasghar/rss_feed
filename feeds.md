@@ -1,27 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 03:27:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-10 04:09:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 19 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 03:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 04:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/10/s-korea-japan-scramble-warplanes-in-response-to-russia-china-air-patrol?traffic_source=rss" target="_blank">S Korea, Japan scramble warplanes in response to Russia, China air patrol</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-10 03:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/josh-shapiro-gty-jt-251209_1765314923784_hpMain_4x3t_384.jpg" alt="Gov. Shapiro faces subpoena over private home security upgrades after firebombing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/pennsylvania-gov-josh-shapiro-faces-subpoena-private-home/story?id=128255380" target="_blank">Gov. Shapiro faces subpoena over private home security upgrades after firebombing</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-10 00:23</span>
             </div>
         </div>
 <div class="story">
@@ -82,20 +95,20 @@
                 <span class="time">2025-12-09 20:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/09/nx-s1-5638567/save-plan-student-loan-settlement" target="_blank">Millions of borrowers in Biden&#x27;s SAVE plan would start paying under new settlement</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-09 20:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69385e56904c15561e765f53/master/pass/Sam-Altman-on-Fallon-and-Silicon-Valleys-Hard-Sell-Era-Culture-2250190946.jpg" alt="Silicon Valley Is All About the Hard Sell These Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sam-altman-jimmy-fallon-silicon-valley-hard-sell/" target="_blank">Silicon Valley Is All About the Hard Sell These Days</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-10 01:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,20 +154,20 @@
                 <span class="time">2025-12-09 22:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg" alt="50% Off Verizon Promo Codes | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/verizon-promo-code/" target="_blank">50% Off Verizon Promo Codes | December 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-09 21:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ishikha_rao/web-application-testing-a-complete-guide-2jm8" target="_blank">Web Application Testing - A Complete Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-10 03:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -176,6 +189,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Cloud-Btrfs-Boot" target="_blank">Fedora Cloud Will Switch To /boot As A Btrfs Subvolume</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-10 01:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ahmetly_/optwin-11-release-announcement-optimize-windows-48dc" target="_blank">OptWin 1.1 release announcement - Optimize Windows</a></span>
                 <span class="feed">DEV Community</span>
@@ -183,30 +205,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/yaru-square.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Will Look More Like Vanilla GNOME" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://res.infoq.com/news/2025/12/CVE-2025-55182-react-server-func/en/headerimage/generatedHeaderImage-1765326801787.jpg" alt="Patch Urgently - Critical Vulnerability CVE-2025-55182 in React Server Functions Actively Exploited" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-26-04-yaru-theme-gnome-shell-changes" target="_blank">Ubuntu 26.04 Will Look More Like Vanilla GNOME</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-09 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/yaru-square.jpg?resize=406%2C232&amp;ssl=1" alt="In 26.04, Ubuntu Will Look More Like Vanilla GNOME" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-26-04-yaru-theme-gnome-shell-changes" target="_blank">In 26.04, Ubuntu Will Look More Like Vanilla GNOME</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-09 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/" target="_blank">MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-12-09 21:00</span>
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/CVE-2025-55182-react-server-func/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Patch Urgently - Critical Vulnerability CVE-2025-55182 in React Server Functions Actively Exploited</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-10 00:49</span>
             </div>
         </div>
 </div>
@@ -310,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 43 | 📸 With Images: 263 |
-        🔄 Last Updated: 03:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 43 | 📸 With Images: 264 |
+        🔄 Last Updated: 04:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
