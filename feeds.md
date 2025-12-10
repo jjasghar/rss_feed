@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 04:09:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-10 05:02:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 04:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/10/s-korea-japan-scramble-warplanes-in-response-to-russia-china-air-patrol?traffic_source=rss" target="_blank">S Korea, Japan scramble warplanes in response to Russia, China air patrol</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-10 03:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/09/g-s1-101503/kentucky-state-university-shooting-frankfort" target="_blank">1 student dead, 1 critically injured in shooting at Kentucky State University</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-10 01:14</span>
             </div>
         </div>
 <div class="story">
@@ -86,15 +97,6 @@
                 <span class="time">2025-12-09 22:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df8a/live/623e1270-d515-11f0-9fb5-5f3a3703a365.jpg" alt="Trump criticises &#x27;decaying&#x27; European countries and &#x27;weak&#x27; leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss" target="_blank">Trump criticises &#x27;decaying&#x27; European countries and &#x27;weak&#x27; leaders</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-09 20:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,6 +109,15 @@
                 <span class="title"><a href="https://www.wired.com/story/sam-altman-jimmy-fallon-silicon-valley-hard-sell/" target="_blank">Silicon Valley Is All About the Hard Sell These Days</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-10 01:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/" target="_blank">CoreWeave CEO defends AI circular deals as ‘working together’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-10 00:49</span>
             </div>
         </div>
 <div class="story">
@@ -145,15 +156,6 @@
                 <span class="time">2025-12-10 00:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-500x500.jpg" alt="Over 250 people quarantined in South Carolina as measles outbreak rages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/12/over-250-people-quarantined-in-south-carolina-as-measles-outbreak-rages/" target="_blank">Over 250 people quarantined in South Carolina as measles outbreak rages</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-09 22:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,9 +165,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/keerthigap/what-is-html-28jh" target="_blank">what is html?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-10 04:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ishikha_rao/web-application-testing-a-complete-guide-2jm8" target="_blank">Web Application Testing - A Complete Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-10 03:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/helium-browser/" target="_blank">Is Helium the Browser Brave Was Meant to Be?</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-10 02:57</span>
             </div>
         </div>
 <div class="story">
@@ -195,29 +215,20 @@
                 <span class="time">2025-12-10 01:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ahmetly_/optwin-11-release-announcement-optimize-windows-48dc" target="_blank">OptWin 1.1 release announcement - Optimize Windows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-10 01:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/CVE-2025-55182-react-server-func/en/headerimage/generatedHeaderImage-1765326801787.jpg" alt="Patch Urgently - Critical Vulnerability CVE-2025-55182 in React Server Functions Actively Exploited" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/CVE-2025-55182-react-server-func/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Patch Urgently - Critical Vulnerability CVE-2025-55182 in React Server Functions Actively Exploited</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-10 00:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/" target="_blank">Microsoft Patch Tuesday, December 2025 Edition</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-12-09 23:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -232,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/customs-1280x855.jpg" alt="CBP Announces Plan to Look at Foreign Tourists’ Social Media Activity Prior to U.S. Entry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cbp-announces-plan-to-look-at-foreign-tourists-social-media-activity-prior-to-u-s-entry-2000697654" target="_blank">CBP Announces Plan to Look at Foreign Tourists’ Social Media Activity Prior to U.S. Entry</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-10 03:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Screenshot-2025-12-09-at-5.39.36-PM-1280x711.jpg" alt="Everyone Hated the McDonald’s AI Christmas Ad So Much It Got Taken Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +297,6 @@
                 <span class="time">2025-12-09 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KC2DE7N6Z5BP8WS17SW0SCVW/hero-image.jpg" alt="Instagram May Be Quietly Adding AI-Generated Headlines to Your Posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/instagram-may-be-quietly-adding-ai-generated-headlines-to-your-posts?utm_medium=RSS" target="_blank">Instagram May Be Quietly Adding AI-Generated Headlines to Your Posts</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-09 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 43 | 📸 With Images: 264 |
-        🔄 Last Updated: 04:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 43 | 📸 With Images: 263 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
