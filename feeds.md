@@ -1,21 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 14:02:10 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-12-10 15:02:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 13 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, December 10, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -31,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c9c/live/0899efd0-d5ad-11f0-aaf9-cfb9de77e0db.jpg" alt="Nobel Peace Prize winner&#x27;s daughter accepts award on her behalf" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS&at_campaign=rss" target="_blank">Nobel Peace Prize winner&#x27;s daughter accepts award on her behalf</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-10 14:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48c6/live/3d46d720-cb8f-11f0-8b24-8191145688b1.jpg" alt="Man guilty of murdering woman and children in fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7vm7dm589do?at_medium=RSS&at_campaign=rss" target="_blank">Man guilty of murdering woman and children in fire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-10 13:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,29 +99,20 @@
                 <span class="time">2025-12-10 12:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Kyiv-blackout-DB-251209_1765267338886_hpMain_4x3t_384.jpg" alt="In the dark and under fire, Ukraine strains to keep the lights on" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/dark-fire-ukraine-strains-lights/story?id=128231958" target="_blank">In the dark and under fire, Ukraine strains to keep the lights on</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-10 10:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251209-jerome-powell-ew-651p-8a3be3.jpg" alt="Federal Reserve prepares to cut interest rates for a third time this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/fed-prepares-cut-rates-third-time-year-rcna248226" target="_blank">Federal Reserve prepares to cut interest rates for a third time this year</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-10 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2188660602-1-500x500.jpg" alt="Dr. Oz tells his federal employees to eat less during the holidays" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/12/dr-oz-tells-his-federal-employees-to-eat-less-during-the-holidays/" target="_blank">Dr. Oz tells his federal employees to eat less during the holidays</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-10 14:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-3.43.56-PM-500x500-1765313259.jpeg" alt="AMD’s “FSR Redstone” upscaling claims to close the gap with Nvidia’s DLSS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,20 +158,47 @@
                 <span class="time">2025-12-10 12:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/10/fertility-startup-inito-wants-to-use-ai-designed-antibodies-to-expand-at-home-health-tests/" target="_blank">Fertility startup Inito wants to use AI-designed antibodies to expand at-home health tests</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-10 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8tos6g0810rcyfwaas4c.png" alt="🚀 Secure Your Microservices: API Gateway + Docker Private Networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shani_gotlib_f5e51aed8363/secure-your-microservices-api-gateway-docker-private-networks-dnb" target="_blank">🚀 Secure Your Microservices: API Gateway + Docker Private Networks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-10 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-FSR-SDK-2.1" target="_blank">AMD FSR SDK 2.1 Released With FSR Redstone - Windows-Only For Now</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-10 14:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/divine-d-project/" target="_blank">A Linux-Powered Smartphone That Has Features You Won&amp;#x27;t Find on Most Phones</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-10 14:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792328&w=600" alt="When Dell&#x27;s 49 Million Records Walked Out the Door: Why Zero Trust Is No Longer Optional" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/when-dells-49-million-records-walked-out-the-door" target="_blank">When Dell&#x27;s 49 Million Records Walked Out the Door: Why Zero Trust Is No Longer Optional</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-10 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -165,42 +215,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/the-rhythm-of-reliability" target="_blank">The rhythm of reliability: inside Canonical’s operational cadence</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2025-12-10 12:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/gke-130000-node-cluster/en/headerimage/generatedHeaderImage-1764943665377.jpg" alt="Google Cloud Demonstrates Massive Kubernetes Scale with 130,000-Node GKE Cluster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/gke-130000-node-cluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Demonstrates Massive Kubernetes Scale with 130,000-Node GKE Cluster</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/ubuntu-rocm-support/" target="_blank">Ubuntu Will Soon Make AMD GPUs Much Easier to Use for AI Workloads</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-10 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/icybergenome_34/the-self-checkout-trap-why-retailers-keep-betting-on-technology-that-costs-them-billions-2akj" target="_blank">The Self-Checkout Trap: Why Retailers Keep Betting on Technology That Costs Them Billions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-10 09:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcfwrk14ackhvym91l7g8.png" alt="AdonisJS Tutorial: The Ultimate Guide (2023)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/masteringbackend/adonisjs-tutorial-the-ultimate-guide-2023-1nof" target="_blank">AdonisJS Tutorial: The Ultimate Guide (2023)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-10 09:00</span>
             </div>
         </div>
 </div>
@@ -231,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/samsung-g5-odyssey-1280x853.jpg" alt="Samsung’s 32-Inch Odyssey Curved Monitor Hits Record Low, Amazon Goes Zero Profit for Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsungs-32-inch-odyssey-curved-monitor-hits-record-low-amazon-goes-zero-profit-for-gamers-2000652124" target="_blank">Samsung’s 32-Inch Odyssey Curved Monitor Hits Record Low, Amazon Goes Zero Profit for Gamers</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-10 14:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/seagate-drive-1280x853.jpg" alt="Seagate’s 8TB External Hard Drive at Under $0.02 per GB Is Practically the Cheapest Data Storage Available" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +299,6 @@
                 <span class="time">2025-12-10 02:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/lenovo-gaming-laptop-15-inch-1280x853.jpg" alt="Lenovo Gaming Laptop With Solid Specs (40GB DDR5, 1TB SSD) Drops 70% Off, Amazon Goes Zero Profit to Dump Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lenovo-gaming-laptop-with-solid-specs-40gb-ddr5-1tb-ssd-drops-70-off-amazon-goes-zero-profit-to-dump-stock-2000651754" target="_blank">Lenovo Gaming Laptop With Solid Specs (40GB DDR5, 1TB SSD) Drops 70% Off, Amazon Goes Zero Profit to Dump Stock</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-10 00:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 43 | 📸 With Images: 261 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 43 | 📸 With Images: 263 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
