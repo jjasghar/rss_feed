@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 05:03:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-11 06:02:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 05:03 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +113,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/10/baby-delivered-in-waymo-continues-proud-tradition-of-not-making-it-to-the-hospital/" target="_blank">Baby delivered in Waymo continues proud tradition of not making it to the hospital</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-11 04:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/" target="_blank">Google’s answer to the AI arms race — promote the guy behind its data center tech</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-11 01:10</span>
@@ -150,20 +163,20 @@
                 <span class="time">2025-12-10 21:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Sesame-Street-500x500-1752686474.jpg" alt="After NPR and PBS defunding, FCC receives call to take away station licenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/conservative-attacks-on-npr-and-pbs-continue-with-call-to-take-fcc-licenses/" target="_blank">After NPR and PBS defunding, FCC receives call to take away station licenses</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-10 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aiwithapex/this-new-ai-agent-can-literally-use-a-computer-for-you-141f" target="_blank">This New AI Agent Can Literally Use a Computer for You</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-11 05:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/12/five-ai-myths-devsummit-munich/en/headerimage/generatedHeaderImage-1765409502841.jpg" alt="Five AI Security Myths Debunked at InfoQ Dev Summit Munich" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -183,6 +196,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-50/" target="_blank">FOSS Weekly #25.50: Linux Power Users, Helium Browser, Two New Linux Phones, Ubuntu Starter and More</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-11 04:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fix4ski6f6olbzjbd01u8.png" alt="Why your AI assistant lies to you (and how to fix it)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/callstacktech/how-to-implement-voice-ai-with-twilio-and-vapi-a-step-by-step-guide-32j4" target="_blank">How to Implement Voice AI with Twilio and VAPI: A Step-by-Step Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-11 02:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Networking" target="_blank">Linux 6.19 Networking Delivers 4x Improvement For Heavy Transfer Workloads, New Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-11 01:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stelixx-insider/better-auth-a-flexible-typescript-authentication-framework-2be8" target="_blank">Better Auth: A Flexible TypeScript Authentication Framework</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-11 01:17</span>
             </div>
         </div>
 </div>
@@ -237,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/letitia-james-1280x853.jpg" alt="OpenAI, Anthropic, Others Receive Warning Letter from Dozens of State Attorneys General" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/openai-anthropic-others-receive-warning-letter-from-dozens-of-state-attorneys-general-2000698248" target="_blank">OpenAI, Anthropic, Others Receive Warning Letter from Dozens of State Attorneys General</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-11 04:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/spo-1280x765.jpg" alt="A Spotify Beta Feature Lets Users Make Custom Playlists by Writing AI Prompts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/ram-prices-going-up?utm_medium=RSS" target="_blank">Why RAM Prices Are Going Way, Way Up (and Why You Should Care)</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-10 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Screenshot-2025-12-10-at-2.52.26-PM.png?fit=954%2C1120&amp;quality=55&amp;ssl=1" alt="Broccoli sprouts are seriously nutritious, and you can easily grow them at home!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/10/broccoli-sprouts-are-seriously-nutritious-and-you-can-easily-grow-them-at-home.html" target="_blank">Broccoli sprouts are seriously nutritious, and you can easily grow them at home!</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-10 22:43</span>
             </div>
         </div>
 </div>
@@ -337,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 43 | 📸 With Images: 278 |
-        🔄 Last Updated: 05:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 43 | 📸 With Images: 278 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
