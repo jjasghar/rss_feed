@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 09:03:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-11 10:01:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/11/nx-s1-5638608/elizabeth-warren-says-both-bids-to-buy-warner-bros-discovery-are-bad-for-consumers" target="_blank">Elizabeth Warren says both bids to buy Warner Bros. Discovery are bad for consumers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-11 09:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/11/video-celebrations-in-syria-as-us-advances-bill-to-lift-sanctions?traffic_source=rss" target="_blank">Video: Celebrations in Syria as US advances bill to lift sanctions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-11 09:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/cross-border-fighting-between-thailand-cambodia-enters-fourth-day?traffic_source=rss" target="_blank">Cross-border fighting between Thailand, Cambodia enters fourth day</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-11 05:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/11/nx-s1-5639965/high-school-students-learn-trade-skills-building-affordable-housing-in-colorado" target="_blank">High school students learn trade skills building affordable housing in Colorado</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-11 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ExtremeWeatherWashingtonFlooding1_1765426961687_hpMain_4x3t_384.jpg" alt="Evacuations ordered in parts of Washington amid threat of &#x27;catastrophic&#x27; flooding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/record-flooding-pacific-northwest-storms-atmospheric-river/story?id=128273281" target="_blank">Evacuations ordered in parts of Washington amid threat of &#x27;catastrophic&#x27; flooding</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-11 04:55</span>
             </div>
         </div>
 </div>
@@ -327,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 43 | 📸 With Images: 281 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 43 | 📸 With Images: 281 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
