@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 07:03:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-11 08:02:18 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +49,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/11/nobel-peace-prize-winner-machado-greets-supporters-in-oslo?traffic_source=rss" target="_blank">Nobel Peace Prize winner Machado greets supporters in Oslo</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-11 07:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/11/nx-s1-5640625/botulism-outbreak-expands-byheart" target="_blank">Botulism outbreak sickens more than 50 babies and expands to all ByHeart products</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-11 06:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/cross-border-fighting-between-thailand-cambodia-enters-fourth-day?traffic_source=rss" target="_blank">Cross-border fighting between Thailand, Cambodia enters fourth day</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-11 05:47</span>
@@ -68,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/ExtremeWeatherWashingtonFlooding1_1765426961687_hpMain_4x3t_384.jpg" alt="Evacuations ordered in parts of Washington amid threat of &#x27;catastrophic&#x27; flooding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/record-flooding-pacific-northwest-storms-atmospheric-river/story?id=128273281" target="_blank">Evacuations ordered in parts of Washington amid threat of &#x27;catastrophic&#x27; flooding</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-11 04:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -76,38 +99,20 @@
                 <span class="time">2025-12-11 03:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4167/live/ce0e8d00-d63b-11f0-a892-01d657345866.jpg" alt="Venezuelan opposition leader makes first public appearance after months in hiding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss" target="_blank">Venezuelan opposition leader makes first public appearance after months in hiding</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-11 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/hell-be-next-donald-trump-threatens-colombian-president-gustavo-petro?traffic_source=rss" target="_blank">‘He’ll be next’: Donald Trump threatens Colombian President Gustavo Petro</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-11 02:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/flooding-1-rt-er-251210_1765410547612_hpMain_4x3t_384.jpg" alt="&#x27;Historic flooding&#x27; in Washington state could force 100,000 people to evacuate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/record-flooding-pacific-northwest-storms-atmospheric-river/story?id=128273281" target="_blank">&#x27;Historic flooding&#x27; in Washington state could force 100,000 people to evacuate</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-11 01:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6933637ad3c80898699e6bcc/master/pass/1_RT_Ernir.jpg" alt="How the Next Big Thing in Carbon Removal Sunk Without a Trace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-the-next-big-thing-in-carbon-removal-sunk-without-a-trace/" target="_blank">How the Next Big Thing in Carbon Removal Sunk Without a Trace</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-11 07:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" alt="AirDoctor Coupon Codes: 40% Off | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +158,22 @@
                 <span class="time">2025-12-10 23:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/02/GettyImages-1238367289-500x500.jpg" alt="After years of resisting it, SpaceX now plans to go public. Why?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/" target="_blank">After years of resisting it, SpaceX now plans to go public. Why?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-10 23:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3581035%2F7a4e3e11-052c-4b61-9f45-e3f421e69147.png" alt="Let me tell you about a Tuesday that changed everything.
+.I was three hours into what should have been a 30-minute bug fix. My terminal had 47 tabs open. I&#x27;d restarted my local server six times.............. Read More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thebitforge/let-me-tell-you-about-a-tuesday-that-changed-everything-i-was-three-hours-into-what-should-have-4385" target="_blank">Let me tell you about a Tuesday that changed everything.
+.I was three hours into what should have been a 30-minute bug fix. My terminal had 47 tabs open. I&#x27;d restarted my local server six times.............. Read More</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-11 07:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/sandeep_salwan/why-your-ai-assistant-lies-to-you-and-how-to-fix-it-322a" target="_blank">Why your AI assistant lies to you (and how to fix it)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-11 03:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/callstacktech/how-to-implement-voice-ai-with-twilio-and-vapi-a-step-by-step-guide-32j4" target="_blank">How to Implement Voice AI with Twilio and VAPI: A Step-by-Step Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-11 02:19</span>
             </div>
         </div>
 </div>
@@ -326,22 +324,13 @@
                 <span class="time">2025-12-10 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/10/the-keighlioth" target="_blank">The Keighlioth</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-10 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 43 | 📸 With Images: 279 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 43 | 📸 With Images: 281 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
