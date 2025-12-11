@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 10:01:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-11 11:02:12 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/israel-prepares-for-storm-byron-but-not-all-citizens-will-get-help?traffic_source=rss" target="_blank">Israel prepares for Storm Byron, but not all citizens will get help</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-11 10:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +102,20 @@
                 <span class="time">2025-12-11 06:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/cross-border-fighting-between-thailand-cambodia-enters-fourth-day?traffic_source=rss" target="_blank">Cross-border fighting between Thailand, Cambodia enters fourth day</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-11 05:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/842243/ayaneo-pocket-play-gaming-phone-android-sony-xperia-play" target="_blank">Ayaneo’s first Android phone looks like a return of the Xperia Play</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-11 09:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6933637ad3c80898699e6bcc/master/pass/1_RT_Ernir.jpg" alt="How the Next Big Thing in Carbon Removal Sunk Without a Trace" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +161,29 @@
                 <span class="time">2025-12-11 00:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/842087/trump-does-not-understand-6g-5g" target="_blank">Donald Trump reminds the entire world he has no idea what 6G means</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-10 23:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gounthar/buildkit-for-risc-v64-when-your-package-works-but-your-container-doesnt-i18" target="_blank">BuildKit for RISC-V64: When Your Package Works But Your Container Doesn&#x27;t</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-11 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Device-Mapper" target="_blank">DM Changes Merged For Linux 6.19 - Much Better Performance For &quot;Verity&quot; Integrity</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-11 10:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/java-trends-report-2025/en/headerimage/infoq-Java-trends-report-2025-graph-image-1764845008270.jpg" alt="Article: InfoQ Java Trends Report 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/aiwithapex/this-new-ai-agent-can-literally-use-a-computer-for-you-141f" target="_blank">This New AI Agent Can Literally Use a Computer for You</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-11 05:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/five-ai-myths-devsummit-munich/en/headerimage/generatedHeaderImage-1765409502841.jpg" alt="Five AI Security Myths Debunked at InfoQ Dev Summit Munich" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/five-ai-myths-devsummit-munich/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Five AI Security Myths Debunked at InfoQ Dev Summit Munich</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-11 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/markmark/the-mystery-of-a-missing-greeting-3ebf" target="_blank">The Mystery of a Missing Greeting</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-11 04:51</span>
             </div>
         </div>
 </div>
@@ -324,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 43 | 📸 With Images: 281 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 43 | 📸 With Images: 280 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
