@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 16:02:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-11 17:05:06 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 12 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 17:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/us-judge-orders-release-of-kilmar-abrego-garcia-from-immigration-detention?traffic_source=rss" target="_blank">US judge orders release of Kilmar Abrego Garcia from immigration detention</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-11 16:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/ExtremeWeatherWashingtonFlooding1_1765426961687_hpMain_4x3t_384.jpg" alt="Evacuations ordered amid threat of &#x27;catastrophic&#x27; flooding in Washington state" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +97,47 @@
                 <span class="time">2025-12-11 12:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c1e/live/346013e0-d668-11f0-a892-01d657345866.jpg" alt="Venezuelan Nobel winner tells BBC she knows &#x27;risks&#x27; of Oslo trip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss" target="_blank">Venezuelan Nobel winner tells BBC she knows &#x27;risks&#x27; of Oslo trip</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-11 12:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/neutrinos-500x500-1765462963.jpg" alt="MicroBooNE results rule out sterile neutrinos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/microboone-results-rule-out-sterile-neutrinos/" target="_blank">MicroBooNE results rule out sterile neutrinos</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-11 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/842573/disney-google-copyright-infringement-cease-and-desist" target="_blank">Disney accuses Google of ‘massive’ copyright infringement following deal with OpenAI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-11 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/693af48d5782fd7cc5c6f5a2/master/pass/biz-disney-sora-2239565403.jpg" alt="The Disney-OpenAI Deal Redefines the AI Copyright War" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/" target="_blank">The Disney-OpenAI Deal Redefines the AI Copyright War</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-11 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/11/ford-and-sk-on-are-ending-their-u-s-battery-joint-venture/" target="_blank">Ford and SK On are ending their U.S. battery joint venture</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-11 16:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -115,42 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/att-connected-life-platform-launches-nationwide/" target="_blank">AT&amp;T’s Connected Life Platform Is a Second Try in the Smart-Home Space</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/842307/att-connected-life-smart-home-security-google-price" target="_blank">AT&amp;#038;T’s new home security system is powered by Google Home and Abode</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-500x500.jpg" alt="Oracle shares slide on $15B increase in data center spending" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2025/12/oracle-shares-slide-on-15b-increase-in-data-center-spending/" target="_blank">Oracle shares slide on $15B increase in data center spending</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-11 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6939de130421b9bd81f7a068/master/pass/The%20Best%20Costco%20TV%20Deals%20on%20Screens%20We%E2%80%99ve%20Tried%20122025%20top%20art%20SOURCE%20Amazon.jpg" alt="6 Best Costco TVs That We’ve Tried and Recommend (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-costco-tvs/" target="_blank">6 Best Costco TVs That We’ve Tried and Recommend (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-11 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/841710/the-game-awards-2025-preview-geoff-keighley" target="_blank">The Game Awards are losing their luster</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-11 13:00</span>
             </div>
         </div>
 </div>
@@ -218,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/supergirl-trailer-DC-Studios-1280x853.jpg" alt="The First Trailer for ‘Supergirl’ Welcomes Superman’s Mighty Mess of a Cousin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-first-trailer-for-supergirl-welcomes-supermans-mighty-mess-of-a-cousin-2000696001" target="_blank">The First Trailer for ‘Supergirl’ Welcomes Superman’s Mighty Mess of a Cousin</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-11 16:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/05/959e0358984d63d0866818260291bbd3-1280x720.jpg" alt="Disney Is Feeding Your Favorite Characters To The OpenAI Woodchipper For $1 Billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -262,15 +274,6 @@
                 <span class="time">2025-12-11 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/SteamDeckDockUGREEN-1280x853.jpg" alt="UGREEN’s 6-in-1 Steam Deck Dock Falls to Record Low, Works With ROG Ally X, Legion Go, MacBook, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ugreens-6-in-1-steam-deck-dock-falls-to-record-low-works-with-rog-ally-x-legion-go-macbook-and-more-2000652271" target="_blank">UGREEN’s 6-in-1 Steam Deck Dock Falls to Record Low, Works With ROG Ally X, Legion Go, MacBook, and More</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-11 13:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,22 +297,13 @@
                 <span class="time">2025-12-10 17:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1765282098-20251210_edit.png" alt="Saturday Morning Breakfast Cereal - Real" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/real-5" target="_blank">Saturday Morning Breakfast Cereal - Real</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-10 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 43 | 📸 With Images: 287 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 17:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
