@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 02:33:33 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-11 03:28:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 02:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4167/live/ce0e8d00-d63b-11f0-a892-01d657345866.jpg" alt="Venezuelan opposition leader makes first public appearance after months in hiding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss" target="_blank">Venezuelan opposition leader makes first public appearance after months in hiding</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-11 02:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,6 +79,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765410471432_nn_haake_venezuelatrump_251210_1920x1080-j779kp.jpg" alt="U.S. seizes oil tanker off Venezuela coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/u-s-seizes-oil-tanker-off-venezuela-coast-254185029791" target="_blank">U.S. seizes oil tanker off Venezuela coast</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-10 23:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -81,24 +103,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/us-seizes-tanker-off-coast-venezuela-trump/story?id=128290987" target="_blank">US seizes tanker off coast of Venezuela, Trump says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-10 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/10/us-congressman-randy-fine-suggests-palestinians-should-be-destroyed-first?traffic_source=rss" target="_blank">US Congressman Randy Fine suggests Palestinians should ‘be destroyed first’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-10 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/10/rwanda-backed-m23-militia-storms-drc-city-displacing-200000?traffic_source=rss" target="_blank">Rwanda-backed M23 militia storms DRC city, displacing 200,000</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-10 20:26</span>
             </div>
         </div>
 </div>
@@ -166,12 +170,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fix4ski6f6olbzjbd01u8.png" alt="Why your AI assistant lies to you (and how to fix it)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sandeep_salwan/why-your-ai-assistant-lies-to-you-and-how-to-fix-it-322a" target="_blank">Why your AI assistant lies to you (and how to fix it)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-11 03:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/callstacktech/how-to-implement-voice-ai-with-twilio-and-vapi-a-step-by-step-guide-32j4" target="_blank">How to Implement Voice AI with Twilio and VAPI: A Step-by-Step Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-11 02:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Networking" target="_blank">Linux 6.19 Networking Delivers 4x Improvement For Heavy Transfer Workloads, New Hardware</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-11 01:50</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +223,6 @@
                 <span class="time">2025-12-10 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18793623&w=600" alt="Securing Cloud Workloads in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/securing-cloud-workloads-age-of-ai" target="_blank">Securing Cloud Workloads in the Age of AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-10 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/snackoverflowwithasad/why-numpy-and-pandas-are-essential-a-beginners-realization-in-aiml-959" target="_blank">Why NumPy and Pandas Are Essential: A Beginner’s Realization in AI/ML</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-10 19:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,12 +243,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/spo-1280x765.jpg" alt="A Spotify Beta Feature Lets Users Make Custom Playlists by Writing AI Prompts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-spotify-beta-feature-lets-users-make-custom-playlists-by-writing-ai-prompts-2000698243" target="_blank">A Spotify Beta Feature Lets Users Make Custom Playlists by Writing AI Prompts</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-11 03:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/jensen-huang-july-23-2025-1280x853.jpg" alt="Nvidia: Reports of an Elaborate Chinese GPU Smuggling Operation Are ‘Far-fetched’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/nvidia-reports-of-an-elaborate-chinese-gpu-smuggling-operation-are-far-fetched-2000697678" target="_blank">Nvidia: Reports of an Elaborate Chinese GPU Smuggling Operation Are ‘Far-fetched’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-11 02:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/netflixavatar.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Avatar: The Last Airbender live-action is inexplicably getting a second season" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/10/avatar-the-last-airbender-live-action-is-inexplicably-getting-a-second-season.html" target="_blank">Avatar: The Last Airbender live-action is inexplicably getting a second season</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-11 01:22</span>
             </div>
         </div>
 <div class="story">
@@ -272,24 +294,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/10/broccoli-sprouts-are-seriously-nutritious-and-you-can-easily-grow-them-at-home.html" target="_blank">Broccoli sprouts are seriously nutritious, and you can easily grow them at home!</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-10 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/singapore.jpg?fit=1500%2C794&amp;quality=60&amp;ssl=1" alt="From viruses to ecosystems: explore life&#x27;s incredible size range" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/10/from-viruses-to-ecosystems-explore-lifes-incredible-size-range.html" target="_blank">From viruses to ecosystems: explore life&#x27;s incredible size range</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-10 22:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Megacrania_batesii-mating-DEM-scaled.jpg?fit=1920%2C2560&amp;quality=60&amp;ssl=1" alt="Peppermint-stick insect: the mint-spraying rainforest bug" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/10/peppermint-stick-insect-the-mint-spraying-rainforest-bug.html" target="_blank">Peppermint-stick insect: the mint-spraying rainforest bug</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-10 21:32</span>
             </div>
         </div>
 </div>
@@ -324,13 +328,22 @@
                 <span class="time">2025-12-10 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/fishing.png" alt="Fishing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3179/" target="_blank">Fishing</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-12-10 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 02:33 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
