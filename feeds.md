@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 12:02:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-11 13:14:00 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 13:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/11/olympic-ski-champion-michelle-gisin-airlifted-after-downhill-crash?traffic_source=rss" target="_blank">Olympic ski champion Michelle Gisin airlifted after Swiss crash</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-11 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c1e/live/346013e0-d668-11f0-a892-01d657345866.jpg" alt="Venezuelan Nobel winner tells BBC she knows &#x27;risks&#x27; of Oslo trip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss" target="_blank">Venezuelan Nobel winner tells BBC she knows &#x27;risks&#x27; of Oslo trip</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-11 12:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765455364526_tdy_news_7a_peter_venezuelan_tanker_251211_1920x1080-8gpzfy.jpg" alt="US Seizes Oil Tanker Off Venezuela Coast in Major Escalation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/us-seizes-oil-tanker-off-venezuela-coast-in-major-escalation-254213701781" target="_blank">US Seizes Oil Tanker Off Venezuela Coast in Major Escalation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-11 12:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/11/g-s1-101694/up-first-newsletter-aca-vote-federal-reserve-interest-rates-venezuela" target="_blank">Senate to vote on 2 health care proposals. And, the latest U.S. move against Venezuela</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-11 12:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/israel-prepares-for-storm-byron-but-not-all-citizens-will-get-help?traffic_source=rss" target="_blank">Israel prepares for Storm Byron, but not all citizens will get help</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-11 10:33</span>
@@ -61,47 +98,29 @@
                 <span class="time">2025-12-11 09:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e1f/live/26f94ed0-d661-11f0-869a-21e461214d85.jpg" alt="New Archbishop of Canterbury faces complaint about abuse case handling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd6x7p761v0o?at_medium=RSS&at_campaign=rss" target="_blank">New Archbishop of Canterbury faces complaint about abuse case handling</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-11 09:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/11/video-celebrations-in-syria-as-us-advances-bill-to-lift-sanctions?traffic_source=rss" target="_blank">Video: Celebrations in Syria as US advances bill to lift sanctions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-11 09:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/11/us-says-it-seized-oil-tanker-off-venezuela-coast?traffic_source=rss" target="_blank">US says it seized oil tanker off Venezuela coast</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-11 08:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/11/nobel-peace-prize-winner-machado-greets-supporters-in-oslo?traffic_source=rss" target="_blank">Nobel Peace Prize winner Machado greets supporters in Oslo</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-11 07:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6939de130421b9bd81f7a068/master/pass/The%20Best%20Costco%20TV%20Deals%20on%20Screens%20We%E2%80%99ve%20Tried%20122025%20top%20art%20SOURCE%20Amazon.jpg" alt="6 Best Costco TVs That We’ve Tried and Recommend (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-costco-tvs/" target="_blank">6 Best Costco TVs That We’ve Tried and Recommend (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-11 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/841710/the-game-awards-2025-preview-geoff-keighley" target="_blank">The Game Awards are losing their luster</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-11 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,24 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/airdoctor-coupon-code/" target="_blank">AirDoctor Coupon Codes: 40% Off | December 2025</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-11 06:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/10/baby-delivered-in-waymo-continues-proud-tradition-of-not-making-it-to-the-hospital/" target="_blank">Baby delivered in Waymo continues proud tradition of not making it to the hospital</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-11 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/" target="_blank">Google’s answer to the AI arms race — promote the guy behind its data center tech</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-11 01:10</span>
             </div>
         </div>
 </div>
@@ -217,23 +218,18 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html" target="_blank">FBI Warns of Fake Video Scams</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-10 12:05</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/vapes-e1765408442574-1280x852.jpg" alt="From Hack to Hijack: Thieves Hit the Vape Truck, Steal $1 Million Worth of E-Cigs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/from-hack-to-hijack-thieves-hit-the-vape-truck-steal-1-million-worth-of-e-cigs-2000698051" target="_blank">From Hack to Hijack: Thieves Hit the Vape Truck, Steal $1 Million Worth of E-Cigs</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-11 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Hugh-Jackman-Wolverine-1280x853.jpg" alt="Hugh Jackman Says ‘It Doesn’t Feel Like the End’ for Wolverine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +275,6 @@
                 <span class="time">2025-12-11 01:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_1101247694-e1765398401668-1280x854.jpg" alt="64% of Teens Say They Use AI Chatbots as Mental Health Concerns Mount" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/64-of-teens-say-they-use-ai-chatbots-as-mental-health-concerns-mount-2000697981" target="_blank">64% of Teens Say They Use AI Chatbots as Mental Health Concerns Mount</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-11 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 43 | 📸 With Images: 280 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 43 | 📸 With Images: 281 |
+        🔄 Last Updated: 13:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
