@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 13:14:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-11 14:02:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 13:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +164,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flco2ydh7bjsvfeykp9el.jpg" alt="Angular - Standalone Component" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/milan_karajovic_45443e6d6/angular-standalone-component-1lmh" target="_blank">Angular - Standalone Component</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-11 13:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LibreOffice-26.2-Beta-1" target="_blank">LibreOffice 26.2 Beta 1 Now Available For This Free Software Office Suite</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-11 13:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -198,29 +217,38 @@
                 <span class="time">2025-12-11 10:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/java-trends-report-2025/en/headerimage/infoq-Java-trends-report-2025-graph-image-1764845008270.jpg" alt="Article: InfoQ Java Trends Report 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/java-trends-report-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: InfoQ Java Trends Report 2025</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-11 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rosgluk/deploy-hugo-site-to-aws-s3-with-aws-cli-1bmm" target="_blank">Deploy Hugo Site to AWS S3 with AWS CLI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-11 08:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KC658TKY8N7VPV97DGBT0EBK/hero-image.png" alt="This Samsung Galaxy Smartwatch Is Nearly 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-smartwatch-sale-december-2025?utm_medium=RSS" target="_blank">This Samsung Galaxy Smartwatch Is Nearly 50% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-11 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/SteamDeckDockUGREEN-1280x853.jpg" alt="UGREEN’s 6-in-1 Steam Deck Dock Falls to Record Low, Works With ROG Ally X, Legion Go, MacBook, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ugreens-6-in-1-steam-deck-dock-falls-to-record-low-works-with-rog-ally-x-legion-go-macbook-and-more-2000652271" target="_blank">UGREEN’s 6-in-1 Steam Deck Dock Falls to Record Low, Works With ROG Ally X, Legion Go, MacBook, and More</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-11 13:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/jonathan-allen-b-ribbon-worm-on-hand-1280x853.jpg" alt="This Worm Was Chilling in a Lab for Years. Turns Out It’s a Record-Breaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-worm-was-chilling-in-a-lab-for-years-turns-out-its-a-record-breaker-2000698043" target="_blank">This Worm Was Chilling in a Lab for Years. Turns Out It’s a Record-Breaker</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-11 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/vapes-e1765408442574-1280x852.jpg" alt="From Hack to Hijack: Thieves Hit the Vape Truck, Steal $1 Million Worth of E-Cigs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -246,33 +274,6 @@
                 <span class="title"><a href="https://gizmodo.com/openai-anthropic-others-receive-warning-letter-from-dozens-of-state-attorneys-general-2000698248" target="_blank">OpenAI, Anthropic, Others Receive Warning Letter from Dozens of State Attorneys General</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-11 04:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/spo-1280x765.jpg" alt="A Spotify Beta Feature Lets Users Make Custom Playlists by Writing AI Prompts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-spotify-beta-feature-lets-users-make-custom-playlists-by-writing-ai-prompts-2000698243" target="_blank">A Spotify Beta Feature Lets Users Make Custom Playlists by Writing AI Prompts</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-11 03:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/jensen-huang-july-23-2025-1280x853.jpg" alt="Nvidia: Reports of an Elaborate Chinese GPU Smuggling Operation Are ‘Far-fetched’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nvidia-reports-of-an-elaborate-chinese-gpu-smuggling-operation-are-far-fetched-2000697678" target="_blank">Nvidia: Reports of an Elaborate Chinese GPU Smuggling Operation Are ‘Far-fetched’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-11 02:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/netflixavatar.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Avatar: The Last Airbender live-action is inexplicably getting a second season" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/10/avatar-the-last-airbender-live-action-is-inexplicably-getting-a-second-season.html" target="_blank">Avatar: The Last Airbender live-action is inexplicably getting a second season</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-11 01:22</span>
             </div>
         </div>
 </div>
@@ -312,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 43 | 📸 With Images: 281 |
-        🔄 Last Updated: 13:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 43 | 📸 With Images: 282 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
