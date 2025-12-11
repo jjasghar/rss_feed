@@ -1,41 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 22:01:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-11 23:01:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +55,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/12/11/could-an-end-to-the-ukraine-war-be-near?traffic_source=rss" target="_blank">Could an end to the Ukraine war be near?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-11 22:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/11/nx-s1-5637488/midterm-elections-trump-redistricting-indiana" target="_blank">In a setback for Trump, Indiana lawmakers defeat redistricting plan</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-11 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/11/paramounts-warner-bros-discovery-bid-faces-conflict-of-interest-concerns?traffic_source=rss" target="_blank">Paramount’s Warner Bros Discovery bid faces conflict of interest concerns</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-11 21:36</span>
@@ -70,6 +88,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-venezuela-oil-tanker_7106952.png?20251210225500" alt="US won&#x27;t &#x27;stand by and watch sanctioned vessels&#x27;, warns White House after tanker seized off Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-wont-stand-by-and-watch-sanctioned-vessels-warns-white-house-after-tanker-seized-off-venezuela-13482352" target="_blank">US won&#x27;t &#x27;stand by and watch sanctioned vessels&#x27;, warns White House after tanker seized off Venezuela</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-11 20:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -78,38 +105,20 @@
                 <span class="time">2025-12-11 19:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/thune-schumer-1-epa-gmh-251210_1765406556162_hpMain_4x3t_384.jpg" alt="Competing Democrat, Republican health care proposals both fail in the Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/senate-poised-cast-votes-competing-health-care-proposals/story?id=128290170" target="_blank">Competing Democrat, Republican health care proposals both fail in the Senate</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-11 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b3/live/6a3686d0-d6ad-11f0-9566-091746611f5e.jpg" alt="&#x27;Super flu&#x27; wave hits hospitals in England with no peak yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8r30787e76o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Super flu&#x27; wave hits hospitals in England with no peak yet</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-11 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/11/fate-of-11-nigerian-troops-unclear-after-unauthorised-plane-landing-in-burkina-faso" target="_blank">Fate of 11 Nigerian troops unclear after ‘unauthorised’ plane landing in Burkina Faso</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-11 18:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/" target="_blank">1X struck a deal to send its ‘home’ humanoids to factories and warehouses</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-11 22:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/supergirl2-500x500.jpg" alt="Supergirl teaser gives us a likably imperfect Kara Zor-El" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +164,20 @@
                 <span class="time">2025-12-11 19:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/693b1308ff04bd4218084b00/master/pass/Deals%20Post%20Coffee%20Sub%20Holiday%20Deals%20Update.jpg" alt="Best Holiday Coffee Subscription Deals (2025): Atlas, Trade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-holiday-coffee-subscription-deals-2025/" target="_blank">Best Holiday Coffee Subscription Deals (2025): Atlas, Trade</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-11 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/firecracker-virtualization-overview-1hif" target="_blank">Firecracker Virtualization Overview</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-11 22:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +223,6 @@
                 <span class="time">2025-12-11 18:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/introducing-gpt-5-2/" target="_blank">GPT-5.2</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-11 18:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +242,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/doctor-who-2025-retrospective-1280x853.jpg" alt="‘Doctor Who’ and the Disintegration of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/doctor-who-2025-retrospective-disney-bbc-2000698641" target="_blank">‘Doctor Who’ and the Disintegration of 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-11 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/noem.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Noem says she hasn&#x27;t deported veterans. Then a deported veteran joins the hearing on Zoom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/11/noem-says-she-hasnt-deported-veterans-then-a-deported-veteran-joins-the-hearing-on-zoom.html" target="_blank">Noem says she hasn&#x27;t deported veterans. Then a deported veteran joins the hearing on Zoom</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-11 22:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KC7MXWH4N3KCDYTMB9DBREC0/hero-image.jpg" alt="Google Will Now Let You Virtually Try on Clothes With Just a Selfie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-virtually-try-on-clothes-with-selfie?utm_medium=RSS" target="_blank">Google Will Now Let You Virtually Try on Clothes With Just a Selfie</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-11 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/hat.jpg?fit=1200%2C899&amp;quality=60&amp;ssl=1" alt="The Wicked Witch&#x27;s flying hat just sold for $575,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,33 +294,6 @@
                 <span class="title"><a href="https://kotaku.com/supergirl-trailer-jason-momoa-lobo-argo-city-2000652693" target="_blank">The First Supergirl Trailer Has A Great Line About What Makes Her Different From Superman</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-11 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GVTRVNJ2K7WTVVQAQH5Y8/hero-image.png" alt="The Surprising Origins of Hanukkah (and Why It Moves Around Every Year)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/why-does-hanukkah-move-around-every-year-1849891312?utm_medium=RSS" target="_blank">The Surprising Origins of Hanukkah (and Why It Moves Around Every Year)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-11 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/fallouttt.jpg" alt="Amazon’s Fallout Season 1 Recap Is Inaccurate AI Bullshit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazons-fallout-season-1-recap-is-inaccurate-ai-wrong-slop-2000652678" target="_blank">Amazon’s Fallout Season 1 Recap Is Inaccurate AI Bullshit</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-11 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KC7EHPGQ2G4FWBQABYH2TCJD/hero-image.jpg" alt="How OpenAI&#x27;s Latest Model Will Impact ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-openais-latest-model-will-impact-chatgpt?utm_medium=RSS" target="_blank">How OpenAI&#x27;s Latest Model Will Impact ChatGPT</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-11 20:30</span>
             </div>
         </div>
 </div>
@@ -324,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
