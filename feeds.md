@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 00:04:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-11 01:29:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/" target="_blank">Google’s answer to the AI arms race — promote the guy behind its data center tech</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-11 01:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/02/GettyImages-1238367289-500x500.jpg" alt="After years of resisting it, SpaceX now plans to go public. Why?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -149,20 +159,20 @@
                 <span class="time">2025-12-10 19:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6931ffdeef6dcb7c049fbbfc/master/pass/science_ACIP_GettyImages-2249265775.jpg" alt="Many States Say They’ll Defy RFK Jr.’s Changes to Hepatitis B Vaccination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/many-states-say-theyll-defy-rfk-jrs-changes-to-hepatitis-b-vaccination/" target="_blank">Many States Say They’ll Defy RFK Jr.’s Changes to Hepatitis B Vaccination</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-10 19:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stelixx-insider/better-auth-a-flexible-typescript-authentication-framework-2be8" target="_blank">Better Auth: A Flexible TypeScript Authentication Framework</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-11 01:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +218,6 @@
                 <span class="time">2025-12-10 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18793524&w=600" alt="Architecting Intelligence: A Complete LLM-Powered Pipeline for Unstructured Document Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/architecting-intelligence-llm-powered-pipeline" target="_blank">Architecting Intelligence: A Complete LLM-Powered Pipeline for Unstructured Document Analytics</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-10 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +247,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KC4K819RM0KD9ECT3KTPNGQS/hero-image.png" alt="Why RAM Prices Are Going Way, Way Up (and Why You Should Care)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ram-prices-going-up?utm_medium=RSS" target="_blank">Why RAM Prices Are Going Way, Way Up (and Why You Should Care)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-10 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Screenshot-2025-12-10-at-2.52.26-PM.png?fit=954%2C1120&amp;quality=55&amp;ssl=1" alt="Broccoli sprouts are seriously nutritious, and you can easily grow them at home!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/10/broccoli-sprouts-are-seriously-nutritious-and-you-can-easily-grow-them-at-home.html" target="_blank">Broccoli sprouts are seriously nutritious, and you can easily grow them at home!</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-10 22:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/singapore.jpg?fit=1500%2C794&amp;quality=60&amp;ssl=1" alt="From viruses to ecosystems: explore life&#x27;s incredible size range" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -270,24 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/this-weeks-mighty-nein-inherits-the-beef-between-its-2-best-characters-2000694310" target="_blank">This Week’s ‘Mighty Nein’ Inherits the Beef Between Its 2 Best Characters</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-10 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/bafkreiesnnrbm6qknbh72mtv6qq55tu-1280x720.jpg" alt="Mega Raichu Flies Around Like Superman, And It Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-mega-dimension-evolution-raichu-x-2000652246" target="_blank">Mega Raichu Flies Around Like Superman, And It Rules</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-10 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-10 20:54</span>
             </div>
         </div>
 </div>
@@ -322,22 +323,13 @@
                 <span class="time">2025-12-10 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5718.png" alt="QC Rerun Time 2025 #3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5719" target="_blank">QC Rerun Time 2025 #3</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-12-10 01:21</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
