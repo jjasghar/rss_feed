@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 14:02:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-11 15:01:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/venezuelas-machado-taunts-maduro-government-after-dramatic-exit-to-oslo?traffic_source=rss" target="_blank">Venezuela’s Machado taunts Maduro government after dramatic exit to Oslo</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-11 14:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +100,38 @@
                 <span class="time">2025-12-11 10:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/11/nx-s1-5638608/elizabeth-warren-says-both-bids-to-buy-warner-bros-discovery-are-bad-for-consumers" target="_blank">Elizabeth Warren says both bids to buy Warner Bros. Discovery are bad for consumers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-11 09:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6939df335f32ec1d61f54f2a/master/pass/At&T%20Connected%20Life%20Google%20Home%20Advanced%20Kit%20SOURCE%20AT&T.jpg" alt="AT&amp;T’s Connected Life Platform Is a Second Try in the Smart-Home Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/att-connected-life-platform-launches-nationwide/" target="_blank">AT&amp;T’s Connected Life Platform Is a Second Try in the Smart-Home Space</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-11 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/842307/att-connected-life-smart-home-security-google-price" target="_blank">AT&amp;#038;T’s new home security system is powered by Google Home and Abode</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-11 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-500x500.jpg" alt="Oracle shares slide on $15B increase in data center spending" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2025/12/oracle-shares-slide-on-15b-increase-in-data-center-spending/" target="_blank">Oracle shares slide on $15B increase in data center spending</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-11 14:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6939de130421b9bd81f7a068/master/pass/The%20Best%20Costco%20TV%20Deals%20on%20Screens%20We%E2%80%99ve%20Tried%20122025%20top%20art%20SOURCE%20Amazon.jpg" alt="6 Best Costco TVs That We’ve Tried and Recommend (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +159,29 @@
                 <span class="time">2025-12-11 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/842243/ayaneo-pocket-play-gaming-phone-android-sony-xperia-play" target="_blank">Ayaneo’s first Android phone looks like a return of the Xperia Play</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-11 09:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6933637ad3c80898699e6bcc/master/pass/1_RT_Ernir.jpg" alt="How the Next Big Thing in Carbon Removal Sunk Without a Trace" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-the-next-big-thing-in-carbon-removal-sunk-without-a-trace/" target="_blank">How the Next Big Thing in Carbon Removal Sunk Without a Trace</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-11 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" alt="AirDoctor Coupon Codes: 40% Off | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/airdoctor-coupon-code/" target="_blank">AirDoctor Coupon Codes: 40% Off | December 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-11 06:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/11/simulating-lousy-conversations-q-and-a-with-silvio-savarese-chief-scientist-and-head-of-ai-research-at-salesforce/" target="_blank">Simulating lousy conversations: Q&amp;A with Silvio Savarese, Chief Scientist &amp; Head of AI Research at Salesforce</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-11 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc00hfde29z6zn1x7dzaa.png" alt="Supabase with PowerBI Dashboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nash9/supabase-with-powerbi-dashboard-p44" target="_blank">Supabase with PowerBI Dashboard</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-11 14:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flco2ydh7bjsvfeykp9el.jpg" alt="Angular - Standalone Component" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,29 +218,38 @@
                 <span class="time">2025-12-11 11:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gounthar/buildkit-for-risc-v64-when-your-package-works-but-your-container-doesnt-i18" target="_blank">BuildKit for RISC-V64: When Your Package Works But Your Container Doesn&#x27;t</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-11 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-Device-Mapper" target="_blank">DM Changes Merged For Linux 6.19 - Much Better Performance For &quot;Verity&quot; Integrity</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-11 10:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/toy-story-emperor-zurg-1280x853.jpg" alt="Disney’s AI Slop Era Is Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/disney-openai-sora-deal-slop-2000698409" target="_blank">Disney’s AI Slop Era Is Here</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-11 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Ray-Ban-Meta-Gen-1-1280x852.jpg" alt="Meta Ray-Ban (Gen 1) Gets Cleared Out for Less Than Regular Sunglasses, Even Though They’re Smart AI Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/meta-ray-ban-gen-1-gets-cleared-out-for-less-than-regular-sunglasses-even-though-theyre-smart-ai-glasses-2000652301" target="_blank">Meta Ray-Ban (Gen 1) Gets Cleared Out for Less Than Regular Sunglasses, Even Though They’re Smart AI Glasses</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-11 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KC6DVWW8SYF0AP0H0T4J6WFG/hero-image.jpg" alt="I Tried Photoshop in ChatGPT, and It Went Better Than I Expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/adobe-photoshop-in-chatgpt?utm_medium=RSS" target="_blank">I Tried Photoshop in ChatGPT, and It Went Better Than I Expected</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-11 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KC658TKY8N7VPV97DGBT0EBK/hero-image.png" alt="This Samsung Galaxy Smartwatch Is Nearly 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -247,33 +275,6 @@
                 <span class="title"><a href="https://gizmodo.com/this-worm-was-chilling-in-a-lab-for-years-turns-out-its-a-record-breaker-2000698043" target="_blank">This Worm Was Chilling in a Lab for Years. Turns Out It’s a Record-Breaker</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-11 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/vapes-e1765408442574-1280x852.jpg" alt="From Hack to Hijack: Thieves Hit the Vape Truck, Steal $1 Million Worth of E-Cigs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/from-hack-to-hijack-thieves-hit-the-vape-truck-steal-1-million-worth-of-e-cigs-2000698051" target="_blank">From Hack to Hijack: Thieves Hit the Vape Truck, Steal $1 Million Worth of E-Cigs</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-11 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Hugh-Jackman-Wolverine-1280x853.jpg" alt="Hugh Jackman Says ‘It Doesn’t Feel Like the End’ for Wolverine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hugh-jackman-wolverine-return-avengers-2000698127" target="_blank">Hugh Jackman Says ‘It Doesn’t Feel Like the End’ for Wolverine</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-11 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/letitia-james-1280x853.jpg" alt="OpenAI, Anthropic, Others Receive Warning Letter from Dozens of State Attorneys General" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/openai-anthropic-others-receive-warning-letter-from-dozens-of-state-attorneys-general-2000698248" target="_blank">OpenAI, Anthropic, Others Receive Warning Letter from Dozens of State Attorneys General</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-11 04:36</span>
             </div>
         </div>
 </div>
@@ -313,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 43 | 📸 With Images: 282 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 43 | 📸 With Images: 284 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
