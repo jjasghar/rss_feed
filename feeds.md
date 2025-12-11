@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 21:01:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-11 22:01:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/11/paramounts-warner-bros-discovery-bid-faces-conflict-of-interest-concerns?traffic_source=rss" target="_blank">Paramount’s Warner Bros Discovery bid faces conflict of interest concerns</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-11 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/letitia-james-gty-jef-251210_1765381874722_hpMain_4x3t_384.jpg" alt="2nd grand jury refuses to indict New York AG Letitia James: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/2nd-time-grand-jury-refuses-indict-new-york/story?id=128279779" target="_blank">2nd grand jury refuses to indict New York AG Letitia James: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-11 21:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +105,6 @@
                 <span class="time">2025-12-11 18:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251210-us-capitol-gk-4ba6fe.jpg" alt="Senate rejects ACA funding and a Republican alternative with premiums set to spike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/senate-rejects-aca-funding-republican-alternative-premiums-set-spike-rcna248497" target="_blank">Senate rejects ACA funding and a Republican alternative with premiums set to spike</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-11 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/austrian-lawmakers-pass-headscarf-ban-for-under-14s-in?traffic_source=rss" target="_blank">Austrian lawmakers pass headscarf ban for under-14s in schools</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-11 17:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -130,6 +138,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6938b66215e62a4322ce19f0/master/pass/Hulu-Movie-Guide-Culture-HomeAlone_2.jpg" alt="The 45 Best Movies on Hulu, WIRED&#x27;s Picks (December 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-movies-hulu-right-now/" target="_blank">The 45 Best Movies on Hulu, WIRED&#x27;s Picks (December 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-11 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/01/I-Cant-Believe-Its-Not-Mickey-500x500.jpg" alt="Disney says Google AI infringes copyright “on a massive scale”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -147,20 +164,29 @@
                 <span class="time">2025-12-11 19:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2231820155-500x500.jpg" alt="Ars Live: 3 former CDC leaders detail impacts of RFK Jr.’s anti-science agenda" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/12/ars-live-3-former-cdc-leaders-detail-impacts-of-rfk-jr-s-anti-science-agenda/" target="_blank">Ars Live: 3 former CDC leaders detail impacts of RFK Jr.’s anti-science agenda</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-11 18:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pomidoroshev/the-pitfalls-of-reading-user-input-in-c-a-story-about-scanf-and-stdin-2mj8" target="_blank">The Pitfalls of Reading User Input in C: a Story About scanf and Stdin</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-11 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-Acquires-Ventana" target="_blank">Qualcomm Acquires RISC-V Specialists At Ventana Microsystems</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-11 21:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18796154&w=600" alt="Taming Gen AI Video: An Architectural Approach to Addressing Identity Drift and Hallucination" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +223,6 @@
                 <span class="time">2025-12-11 18:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18796124&w=600" alt="How GPU Power Is Shaping the Next Wave of Generative AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-gpu-power-is-shaping-the-next-wave-of-generati" target="_blank">How GPU Power Is Shaping the Next Wave of Generative AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-11 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/product-news/lets-talk-about-github-actions/" target="_blank">Let’s talk about GitHub Actions</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-12-11 17:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +243,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/hat.jpg?fit=1200%2C899&amp;quality=60&amp;ssl=1" alt="The Wicked Witch&#x27;s flying hat just sold for $575,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/11/the-wicked-witchs-flying-hat-just-sold-for-575000.html" target="_blank">The Wicked Witch&#x27;s flying hat just sold for $575,000</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-11 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/doug-burgum-1280x853.jpg" alt="Software Mogul/Secretary of (*checks notes) the Interior Says AI Will Cure Cancer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/software-mogul-secretary-of-checks-notes-the-interior-says-ai-will-cure-cancer-2000698612" target="_blank">Software Mogul/Secretary of (*checks notes) the Interior Says AI Will Cure Cancer</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-11 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Supergirl.jpg" alt="The First Supergirl Trailer Has A Great Line About What Makes Her Different From Superman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/supergirl-trailer-jason-momoa-lobo-argo-city-2000652693" target="_blank">The First Supergirl Trailer Has A Great Line About What Makes Her Different From Superman</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-11 21:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GVTRVNJ2K7WTVVQAQH5Y8/hero-image.png" alt="The Surprising Origins of Hanukkah (and Why It Moves Around Every Year)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/why-does-hanukkah-move-around-every-year-1849891312?utm_medium=RSS" target="_blank">The Surprising Origins of Hanukkah (and Why It Moves Around Every Year)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-11 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/fallouttt.jpg" alt="Amazon’s Fallout Season 1 Recap Is Inaccurate AI Bullshit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -250,42 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/how-openais-latest-model-will-impact-chatgpt?utm_medium=RSS" target="_blank">How OpenAI&#x27;s Latest Model Will Impact ChatGPT</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-11 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KC79T7EZ0JE5RC65SS3S81HB/hero-image.png" alt="This Roborock Vacuum/Mop Combo Is Just $220 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/roborock-q7-m5-plus-robot-vacuum-mop-sale?utm_medium=RSS" target="_blank">This Roborock Vacuum/Mop Combo Is Just $220 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-11 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/The-End-of-Evangelion-Gainax-Khara-Anime-2-1280x853.jpg" alt="Hideaki Anno Bids a Final Farewell to Original ‘Evangelion’ Studio Gainax" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hideaki-anno-gainax-bankruptcy-neon-genesis-evangelion-studio-khara-2000698488" target="_blank">Hideaki Anno Bids a Final Farewell to Original ‘Evangelion’ Studio Gainax</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-11 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/angrybettors-1280x720.jpg" alt="Prediction Market Gamblers Can’t Believe They Just Lost A $20 Million Bet On A Technicality" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/time-person-of-the-year-ai-musk-altman-kalshi-bet-lost-millions-angry-2000652622" target="_blank">Prediction Market Gamblers Can’t Believe They Just Lost A $20 Million Bet On A Technicality</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-11 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KC72R3XE3XTEEXZRCBF450S8/hero-image.jpg" alt="Disney Will Now Let You Make AI Slop of Its Characters on Sora" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/disney-and-openai-are-partnering-on-ai-slop?utm_medium=RSS" target="_blank">Disney Will Now Let You Make AI Slop of Its Characters on Sora</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-11 17:30</span>
             </div>
         </div>
 </div>
@@ -316,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
