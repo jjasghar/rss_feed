@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 11:02:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-11 12:02:43 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +62,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e1f/live/26f94ed0-d661-11f0-869a-21e461214d85.jpg" alt="New Archbishop of Canterbury faces complaint about abuse case handling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd6x7p761v0o?at_medium=RSS&at_campaign=rss" target="_blank">New Archbishop of Canterbury faces complaint about abuse case handling</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-11 09:42</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -93,20 +97,20 @@
                 <span class="time">2025-12-11 07:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/11/nx-s1-5640625/botulism-outbreak-expands-byheart" target="_blank">Botulism outbreak sickens more than 50 babies and expands to all ByHeart products</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-11 06:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/11/port-raises-100m-at-800m-valuation-to-take-on-spotifys-backstage/" target="_blank">Port raises $100M at $800M valuation to take on Spotify’s Backstage</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-11 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +156,29 @@
                 <span class="time">2025-12-11 01:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GSFC_20171208_Archive_e000206orig-500x500.jpg" alt="NASA just lost contact with a Mars orbiter, and will soon lose another one" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/12/nasa-just-lost-contact-with-a-mars-orbiter-and-will-soon-lose-another-one/" target="_blank">NASA just lost contact with a Mars orbiter, and will soon lose another one</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-11 00:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Gear-25.12" target="_blank">KDE Gear 25.12 Released For Shipping The Latest KDE Applications</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-11 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/machine-learning-engineers/en/headerimage/header-1765266786125.jpg" alt="Learnings from Cultivating Machine Learning Engineers as a Team Manager" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/machine-learning-engineers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Learnings from Cultivating Machine Learning Engineers as a Team Manager</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-11 11:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,26 +215,6 @@
                 <span class="time">2025-12-11 08:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3581035%2F7a4e3e11-052c-4b61-9f45-e3f421e69147.png" alt="Let me tell you about a Tuesday that changed everything.
-.I was three hours into what should have been a 30-minute bug fix. My terminal had 47 tabs open. I&#x27;d restarted my local server six times.............. Read More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thebitforge/let-me-tell-you-about-a-tuesday-that-changed-everything-i-was-three-hours-into-what-should-have-4385" target="_blank">Let me tell you about a Tuesday that changed everything.
-.I was three hours into what should have been a 30-minute bug fix. My terminal had 47 tabs open. I&#x27;d restarted my local server six times.............. Read More</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-11 07:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aiwithapex/this-new-ai-agent-can-literally-use-a-computer-for-you-141f" target="_blank">This New AI Agent Can Literally Use a Computer for You</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-11 05:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Hugh-Jackman-Wolverine-1280x853.jpg" alt="Hugh Jackman Says ‘It Doesn’t Feel Like the End’ for Wolverine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hugh-jackman-wolverine-return-avengers-2000698127" target="_blank">Hugh Jackman Says ‘It Doesn’t Feel Like the End’ for Wolverine</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-11 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/letitia-james-1280x853.jpg" alt="OpenAI, Anthropic, Others Receive Warning Letter from Dozens of State Attorneys General" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +288,6 @@
                 <span class="time">2025-12-11 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KC4K819RM0KD9ECT3KTPNGQS/hero-image.png" alt="Why RAM Prices Are Going Way, Way Up (and Why You Should Care)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ram-prices-going-up?utm_medium=RSS" target="_blank">Why RAM Prices Are Going Way, Way Up (and Why You Should Care)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-10 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 43 | 📸 With Images: 280 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 43 | 📸 With Images: 280 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
