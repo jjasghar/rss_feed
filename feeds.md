@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 15:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-11 16:02:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 12 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +41,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/ExtremeWeatherWashingtonFlooding1_1765426961687_hpMain_4x3t_384.jpg" alt="Evacuations ordered amid threat of &#x27;catastrophic&#x27; flooding in Washington state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/record-flooding-pacific-northwest-storms-atmospheric-river/story?id=128273281" target="_blank">Evacuations ordered amid threat of &#x27;catastrophic&#x27; flooding in Washington state</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-11 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/bulgarian-government-resigns-after-mass-protests?traffic_source=rss" target="_blank">Bulgarian government resigns after mass protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-11 15:31</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/venezuelas-machado-taunts-maduro-government-after-dramatic-exit-to-oslo?traffic_source=rss" target="_blank">Venezuela’s Machado taunts Maduro government after dramatic exit to Oslo</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-11 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/989a/live/bee1c040-d67c-11f0-8c06-f5d460985095.png" alt="&#x27;Anger&#x27; as illegal waste dumps appear near homes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c74x9gqynp9o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Anger&#x27; as illegal waste dumps appear near homes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-11 13:19</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +94,20 @@
                 <span class="time">2025-12-11 12:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765455364526_tdy_news_7a_peter_venezuelan_tanker_251211_1920x1080-8gpzfy.jpg" alt="US Seizes Oil Tanker Off Venezuela Coast in Major Escalation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/us-seizes-oil-tanker-off-venezuela-coast-in-major-escalation-254213701781" target="_blank">US Seizes Oil Tanker Off Venezuela Coast in Major Escalation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-11 12:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/11/g-s1-101694/up-first-newsletter-aca-vote-federal-reserve-interest-rates-venezuela" target="_blank">Senate to vote on 2 health care proposals. And, the latest U.S. move against Venezuela</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-11 12:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/israel-prepares-for-storm-byron-but-not-all-citizens-will-get-help?traffic_source=rss" target="_blank">Israel prepares for Storm Byron, but not all citizens will get help</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-11 10:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/11/disney-signs-deal-with-openai-to-allow-sora-to-generate-ai-videos-featuring-its-characters/" target="_blank">Disney signs deal with OpenAI to allow Sora to generate AI videos featuring its characters</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-11 15:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6939df335f32ec1d61f54f2a/master/pass/At&T%20Connected%20Life%20Google%20Home%20Advanced%20Kit%20SOURCE%20AT&T.jpg" alt="AT&amp;T’s Connected Life Platform Is a Second Try in the Smart-Home Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +153,38 @@
                 <span class="time">2025-12-11 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/11/port-raises-100m-at-800m-valuation-to-take-on-spotifys-backstage/" target="_blank">Port raises $100M at $800M valuation to take on Spotify’s Backstage</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-11 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/Ubuntu-hardware.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s New Telemetry Tool ‘Phones Home’ Monthly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-insights-telemetry-26-04-lts" target="_blank">Ubuntu’s New Telemetry Tool ‘Phones Home’ Monthly</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-11 15:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.dash0.com/guides/logging-in-python" target="_blank">Application Logging in Python: Recipes for Observability</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-11 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2512.09643" target="_blank">An Orbital House of Cards: Frequent Megaconstellation Close Conjunctions</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-11 15:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,39 +204,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flco2ydh7bjsvfeykp9el.jpg" alt="Angular - Standalone Component" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/milan_karajovic_45443e6d6/angular-standalone-component-1lmh" target="_blank">Angular - Standalone Component</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-11 13:47</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LibreOffice-26.2-Beta-1" target="_blank">LibreOffice 26.2 Beta 1 Now Available For This Free Software Office Suite</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-11 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Gear-25.12" target="_blank">KDE Gear 25.12 Released For Shipping The Latest KDE Applications</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-11 11:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/machine-learning-engineers/en/headerimage/header-1765266786125.jpg" alt="Learnings from Cultivating Machine Learning Engineers as a Team Manager" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/machine-learning-engineers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Learnings from Cultivating Machine Learning Engineers as a Team Manager</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-11 11:31</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/java-25-now-available-on-google-cloud-serverless" target="_blank">Java 25 now available on Google Cloud Serverless</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-12-11 14:38</span>
             </div>
         </div>
 </div>
@@ -223,6 +217,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/05/959e0358984d63d0866818260291bbd3-1280x720.jpg" alt="Disney Is Feeding Your Favorite Characters To The OpenAI Woodchipper For $1 Billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/disney-open-ai-sora-deal-star-wars-frozen-2000652583" target="_blank">Disney Is Feeding Your Favorite Characters To The OpenAI Woodchipper For $1 Billion</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-11 15:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/toy-story-emperor-zurg-1280x853.jpg" alt="Disney’s AI Slop Era Is Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +271,6 @@
                 <span class="time">2025-12-11 13:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/jonathan-allen-b-ribbon-worm-on-hand-1280x853.jpg" alt="This Worm Was Chilling in a Lab for Years. Turns Out It’s a Record-Breaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-worm-was-chilling-in-a-lab-for-years-turns-out-its-a-record-breaker-2000698043" target="_blank">This Worm Was Chilling in a Lab for Years. Turns Out It’s a Record-Breaker</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-11 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 43 | 📸 With Images: 284 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 43 | 📸 With Images: 287 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
