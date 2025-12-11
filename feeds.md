@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 17:05:06 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-11 18:01:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 17:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/austrian-lawmakers-pass-headscarf-ban-for-under-14s-in?traffic_source=rss" target="_blank">Austrian lawmakers pass headscarf ban for under-14s in schools</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-11 17:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +102,38 @@
                 <span class="time">2025-12-11 13:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/11/olympic-ski-champion-michelle-gisin-airlifted-after-downhill-crash?traffic_source=rss" target="_blank">Olympic ski champion Michelle Gisin airlifted after Swiss crash</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-11 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6939fd17eaa4088bd3b69c9f/master/pass/GettyImages-2249343616.jpg" alt="OpenAI Launches GPT-5.2 as It Navigates ‘Code Red’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-gpt-launch-gemini-code-red/" target="_blank">OpenAI Launches GPT-5.2 as It Navigates ‘Code Red’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-11 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/11/google-debuts-disco-a-gemini-powered-tool-for-making-web-apps-from-browser-tabs/" target="_blank">Google debuts ‘Disco,’ a Gemini-powered tool for making web apps from browser tabs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-11 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Blue-Oval-City-1-500x500.jpg" alt="Fewer EVs need fewer batteries: Ford and SK On end their joint venture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/12/fewer-evs-need-fewer-batteries-ford-and-sk-on-end-their-joint-venture/" target="_blank">Fewer EVs need fewer batteries: Ford and SK On end their joint venture</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-11 17:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/neutrinos-500x500-1765462963.jpg" alt="MicroBooNE results rule out sterile neutrinos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,38 +161,29 @@
                 <span class="time">2025-12-11 16:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/11/ford-and-sk-on-are-ending-their-u-s-battery-joint-venture/" target="_blank">Ford and SK On are ending their U.S. battery joint venture</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-11 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/11/disney-signs-deal-with-openai-to-allow-sora-to-generate-ai-videos-featuring-its-characters/" target="_blank">Disney signs deal with OpenAI to allow Sora to generate AI videos featuring its characters</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-11 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6939df335f32ec1d61f54f2a/master/pass/At&T%20Connected%20Life%20Google%20Home%20Advanced%20Kit%20SOURCE%20AT&T.jpg" alt="AT&amp;T’s Connected Life Platform Is a Second Try in the Smart-Home Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/att-connected-life-platform-launches-nationwide/" target="_blank">AT&amp;T’s Connected Life Platform Is a Second Try in the Smart-Home Space</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-11 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github-incidents.pages.dev/" target="_blank">Days since last GitHub incident</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-11 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/Ubuntu-hardware.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s New Telemetry Tool to ‘Phone Home’ Monthly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-insights-telemetry-26-04-lts" target="_blank">Ubuntu’s New Telemetry Tool to ‘Phone Home’ Monthly</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-11 15:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/Ubuntu-hardware.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s New Telemetry Tool ‘Phones Home’ Monthly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,22 +220,18 @@
                 <span class="time">2025-12-11 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc00hfde29z6zn1x7dzaa.png" alt="Supabase with PowerBI Dashboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nash9/supabase-with-powerbi-dashboard-p44" target="_blank">Supabase with PowerBI Dashboard</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-11 14:54</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/java-25-now-available-on-google-cloud-serverless" target="_blank">Java 25 now available on Google Cloud Serverless</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-12-11 14:38</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/ais-exploiting-smart-contracts.html" target="_blank">AIs Exploiting Smart Contracts</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-11 17:06</span>
             </div>
         </div>
 </div>
@@ -220,6 +239,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/The-End-of-Evangelion-Gainax-Khara-Anime-2-1280x853.jpg" alt="Hideaki Anno Bids a Final Farewell to Original ‘Evangelion’ Studio Gainax" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hideaki-anno-gainax-bankruptcy-neon-genesis-evangelion-studio-khara-2000698488" target="_blank">Hideaki Anno Bids a Final Farewell to Original ‘Evangelion’ Studio Gainax</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-11 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/angrybettors-1280x720.jpg" alt="Prediction Market Gamblers Can’t Believe They Just Lost A $20 Million Bet On A Technicality" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/time-person-of-the-year-ai-musk-altman-kalshi-bet-lost-millions-angry-2000652622" target="_blank">Prediction Market Gamblers Can’t Believe They Just Lost A $20 Million Bet On A Technicality</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-11 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KC72R3XE3XTEEXZRCBF450S8/hero-image.jpg" alt="Disney Will Now Let You Make AI Slop of Its Characters on Sora" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/disney-and-openai-are-partnering-on-ai-slop?utm_medium=RSS" target="_blank">Disney Will Now Let You Make AI Slop of Its Characters on Sora</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-11 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/supergirl-trailer-DC-Studios-1280x853.jpg" alt="The First Trailer for ‘Supergirl’ Welcomes Superman’s Mighty Mess of a Cousin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -247,33 +293,6 @@
                 <span class="time">2025-12-11 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Ray-Ban-Meta-Gen-1-1280x852.jpg" alt="Meta Ray-Ban (Gen 1) Gets Cleared Out for Less Than Regular Sunglasses, Even Though They’re Smart AI Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/meta-ray-ban-gen-1-gets-cleared-out-for-less-than-regular-sunglasses-even-though-theyre-smart-ai-glasses-2000652301" target="_blank">Meta Ray-Ban (Gen 1) Gets Cleared Out for Less Than Regular Sunglasses, Even Though They’re Smart AI Glasses</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-11 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KC6DVWW8SYF0AP0H0T4J6WFG/hero-image.jpg" alt="I Tried Photoshop in ChatGPT, and It Went Better Than I Expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/adobe-photoshop-in-chatgpt?utm_medium=RSS" target="_blank">I Tried Photoshop in ChatGPT, and It Went Better Than I Expected</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-11 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KC658TKY8N7VPV97DGBT0EBK/hero-image.png" alt="This Samsung Galaxy Smartwatch Is Nearly 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-smartwatch-sale-december-2025?utm_medium=RSS" target="_blank">This Samsung Galaxy Smartwatch Is Nearly 50% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-11 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -288,22 +307,13 @@
                 <span class="time">2025-12-11 01:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/10/how-i-make-comics" target="_blank">How I Make Comics</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-10 17:48</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 17:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
