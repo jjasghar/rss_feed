@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 04:11:20 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-12-11 05:03:07 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 04:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 05:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/11/nx-s1-5639965/high-school-students-learn-trade-skills-building-affordable-housing-in-colorado" target="_blank">High school students learn trade skills building affordable housing in Colorado</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-11 05:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/despite-opposition-us-house-passes-record-901bn-defence-spending-bill?traffic_source=rss" target="_blank">Despite opposition, US House passes record $901bn defence spending bill</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-11 03:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4167/live/ce0e8d00-d63b-11f0-a892-01d657345866.jpg" alt="Venezuelan opposition leader makes first public appearance after months in hiding" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/u-s-seizes-oil-tanker-off-venezuela-coast-254185029791" target="_blank">U.S. seizes oil tanker off Venezuela coast</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-10 23:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/10/nx-s1-5640050/ntsb-defense-bill-safety-concerns" target="_blank">NTSB warns that defense bill could undermine aviation safety changes after DCA crash</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-10 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-12-rt-gmh-251210_1765398207523_hpMain_4x3t_384.jpg" alt="US seizes tanker off coast of Venezuela, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/us-seizes-tanker-off-coast-venezuela-trump/story?id=128290987" target="_blank">US seizes tanker off coast of Venezuela, Trump says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-10 21:43</span>
             </div>
         </div>
 </div>
@@ -161,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/12/five-ai-myths-devsummit-munich/en/headerimage/generatedHeaderImage-1765409502841.jpg" alt="Five AI Security Myths Debunked at InfoQ Dev Summit Munich" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/five-ai-myths-devsummit-munich/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Five AI Security Myths Debunked at InfoQ Dev Summit Munich</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-11 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/markmark/the-mystery-of-a-missing-greeting-3ebf" target="_blank">The Mystery of a Missing Greeting</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-11 04:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fix4ski6f6olbzjbd01u8.png" alt="Why your AI assistant lies to you (and how to fix it)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/stelixx-insider/better-auth-a-flexible-typescript-authentication-framework-2be8" target="_blank">Better Auth: A Flexible TypeScript Authentication Framework</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-11 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/johnonline35/return-facts-not-interpretations-why-llm-tools-should-be-dumber-than-you-think-2g0n" target="_blank">Return Facts, Not Interpretations: Why LLM Tools Should Be Dumber Than You Think</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-10 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Glibc-malloc-2MB-THP-AArch64" target="_blank">Glibc Now Enabling 2MB THP On AArch64 By Default For Better Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-10 20:45</span>
             </div>
         </div>
 </div>
@@ -328,22 +332,13 @@
                 <span class="time">2025-12-10 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/fishing.png" alt="Fishing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3179/" target="_blank">Fishing</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-12-10 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 43 | 📸 With Images: 278 |
-        🔄 Last Updated: 04:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 43 | 📸 With Images: 278 |
+        🔄 Last Updated: 05:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
