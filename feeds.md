@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 19:03:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-11 20:02:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 19:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2025/12/11/can-india-balance-its-ties-between-russia-and-the-us?traffic_source=rss" target="_blank">Can India balance its ties between Russia and the US?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-11 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/thune-schumer-1-epa-gmh-251210_1765406556162_hpMain_4x3t_384.jpg" alt="Competing Democrat, Republican health care proposals both fail in the Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/senate-poised-cast-votes-competing-health-care-proposals/story?id=128290170" target="_blank">Competing Democrat, Republican health care proposals both fail in the Senate</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-11 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b3/live/6a3686d0-d6ad-11f0-9566-091746611f5e.jpg" alt="&#x27;Super flu&#x27; wave hits hospitals in England with no peak yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8r30787e76o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Super flu&#x27; wave hits hospitals in England with no peak yet</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-11 18:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +100,38 @@
                 <span class="time">2025-12-11 17:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/us-judge-orders-release-of-kilmar-abrego-garcia-from-immigration-detention?traffic_source=rss" target="_blank">US judge orders release of Kilmar Abrego Garcia from immigration detention</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-11 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ExtremeWeatherWashingtonFlooding1_1765426961687_hpMain_4x3t_384.jpg" alt="Evacuations ordered amid threat of &#x27;catastrophic&#x27; flooding in Washington state" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/record-flooding-pacific-northwest-storms-atmospheric-river/story?id=128273281" target="_blank">Evacuations ordered amid threat of &#x27;catastrophic&#x27; flooding in Washington state</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-11 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/bulgarian-government-resigns-after-mass-protests?traffic_source=rss" target="_blank">Bulgarian government resigns after mass protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-11 15:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/842855/fortnite-android-google-play" target="_blank">Fortnite is back in Google&amp;#8217;s Android app store</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-11 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/01/I-Cant-Believe-Its-Not-Mickey-500x500.jpg" alt="Disney says Google AI infringes copyright “on a massive scale”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/12/disney-says-google-ai-infringes-copyright-on-a-massive-scale/" target="_blank">Disney says Google AI infringes copyright “on a massive scale”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-11 19:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/693b1308ff04bd4218084b00/master/pass/Deals%20Post%20Coffee%20Sub%20Holiday%20Deals%20Update.jpg" alt="Best Holiday Coffee Subscription Deals (2025): Atlas, Trade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-holiday-coffee-subscription-deals-2025/" target="_blank">Best Holiday Coffee Subscription Deals (2025): Atlas, Trade</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-11 19:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2231820155-500x500.jpg" alt="Ars Live: 3 former CDC leaders detail impacts of RFK Jr.’s anti-science agenda" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +159,20 @@
                 <span class="time">2025-12-11 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Blue-Oval-City-1-500x500.jpg" alt="Fewer EVs need fewer batteries: Ford and SK On end their joint venture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/12/fewer-evs-need-fewer-batteries-ford-and-sk-on-end-their-joint-venture/" target="_blank">Fewer EVs need fewer batteries: Ford and SK On end their joint venture</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-11 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/neutrinos-500x500-1765462963.jpg" alt="MicroBooNE results rule out sterile neutrinos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/microboone-results-rule-out-sterile-neutrinos/" target="_blank">MicroBooNE results rule out sterile neutrinos</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-11 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/842573/disney-google-copyright-infringement-cease-and-desist" target="_blank">Disney accuses Google of ‘massive’ copyright infringement following deal with OpenAI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-11 17:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/04/pop_os.jpg?resize=406%2C232&amp;ssl=1" alt="Pop!_OS 24.04 LTS Released with New COSMIC Desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/pop_os-24-04-lts-stable-release" target="_blank">Pop!_OS 24.04 LTS Released with New COSMIC Desktop</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-11 18:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/thunderbid-146.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 146 Update Migrates Logins to AES + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -169,6 +180,15 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/thunderbird-146-login-migration" target="_blank">Thunderbird 146 Update Migrates Logins to AES + More</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-12-11 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/introducing-gpt-5-2/" target="_blank">GPT-5.2</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-11 18:04</span>
             </div>
         </div>
 <div class="story">
@@ -181,39 +201,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/product-news/lets-talk-about-github-actions/" target="_blank">Let’s talk about GitHub Actions</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-12-11 17:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://substack-post-media.s3.amazonaws.com/public/images/551155c7-a431-4519-9798-6543509ab210_420x300.png" alt="The Pulse #156: Beware of global configuration changes in large systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-wrench"></span>
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-156" target="_blank">The Pulse #156: Beware of global configuration changes in large systems</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-12-11 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github-incidents.pages.dev/" target="_blank">Days since last GitHub incident</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-11 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/Ubuntu-hardware.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s New Telemetry Tool to ‘Phone Home’ Monthly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-insights-telemetry-26-04-lts" target="_blank">Ubuntu’s New Telemetry Tool to ‘Phone Home’ Monthly</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-11 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/Ubuntu-hardware.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s New Telemetry Tool ‘Phones Home’ Monthly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-insights-telemetry-26-04-lts" target="_blank">Ubuntu’s New Telemetry Tool ‘Phones Home’ Monthly</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-11 15:54</span>
             </div>
         </div>
 </div>
@@ -295,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1765282195-20251211_edit.png" alt="Saturday Morning Breakfast Cereal - Poetry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/poetry-3" target="_blank">Saturday Morning Breakfast Cereal - Poetry</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-11 16:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5720.png" alt="QC Rerun Time 2025 #44" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -308,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
