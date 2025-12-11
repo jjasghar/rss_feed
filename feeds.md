@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-10 23:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-11 00:04:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, December 10, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/10/nx-s1-5640050/ntsb-defense-bill-safety-concerns" target="_blank">NTSB warns that defense bill could undermine aviation safety changes after DCA crash</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-10 23:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-12-rt-gmh-251210_1765398207523_hpMain_4x3t_384.jpg" alt="US seizes tanker off coast of Venezuela, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,20 +99,20 @@
                 <span class="time">2025-12-10 19:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765394066221_now_daily_b_fed_rate_cut_251210_1920x1080-dafifb.jpg" alt="Federal Reserve votes to cut interest rates for third time in a row" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/federal-reserve-votes-to-cut-interest-rates-for-third-time-in-a-row-254163013716" target="_blank">Federal Reserve votes to cut interest rates for third time in a row</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-10 19:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/02/GettyImages-1238367289-500x500.jpg" alt="After years of resisting it, SpaceX now plans to go public. Why?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/" target="_blank">After years of resisting it, SpaceX now plans to go public. Why?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-10 23:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/many-states-say-theyll-defy-rfk-jrs-changes-to-hepatitis-b-vaccination/" target="_blank">Many States Say They’ll Defy RFK Jr.’s Changes to Hepatitis B Vaccination</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-10 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/download-500x500-1765390046.jpeg" alt="Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/kindle-scribe-colorsoft-brings-color-e-ink-to-amazons-11-inch-e-reader/" target="_blank">Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-10 18:40</span>
             </div>
         </div>
 </div>
@@ -227,20 +231,29 @@
                 <span class="time">2025-12-10 12:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/" target="_blank">Microsoft Patch Tuesday, December 2025 Edition</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-12-09 23:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_1101247694-e1765398401668-1280x854.jpg" alt="64% of Teens Say They Use AI Chatbots as Mental Health Concerns Mount" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/64-of-teens-say-they-use-ai-chatbots-as-mental-health-concerns-mount-2000697981" target="_blank">64% of Teens Say They Use AI Chatbots as Mental Health Concerns Mount</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-11 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/singapore.jpg?fit=1500%2C794&amp;quality=60&amp;ssl=1" alt="From viruses to ecosystems: explore life&#x27;s incredible size range" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/10/from-viruses-to-ecosystems-explore-lifes-incredible-size-range.html" target="_blank">From viruses to ecosystems: explore life&#x27;s incredible size range</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-10 22:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Megacrania_batesii-mating-DEM-scaled.jpg?fit=1920%2C2560&amp;quality=60&amp;ssl=1" alt="Peppermint-stick insect: the mint-spraying rainforest bug" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-10 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Grinch-Dr.-Seuss-1280x853.jpg" alt="How the Grinch Stole Modern Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-the-grinch-stole-modern-christmas-2000697520" target="_blank">How the Grinch Stole Modern Christmas</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-10 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/xmassimx-1280x720.jpg" alt="Light Up The Town Is The Perfect Cozy Christmas Lights Simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/light-up-the-town-cozy-christmas-holiday-lights-simulator-steam-demo-review-2000652213" target="_blank">Light Up The Town Is The Perfect Cozy Christmas Lights Simulator</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-10 18:56</span>
             </div>
         </div>
 </div>
@@ -341,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
