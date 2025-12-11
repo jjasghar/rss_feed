@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 20:02:12 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-11 21:01:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +103,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/supergirl2-500x500.jpg" alt="Supergirl teaser gives us a likably imperfect Kara Zor-El" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/12/milly-alcock-is-out-for-revenge-in-supergirl-teaser/" target="_blank">Supergirl teaser gives us a likably imperfect Kara Zor-El</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-11 20:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/11/the-market-has-switched-and-founders-have-the-power-now-vcs-say/" target="_blank">The market has ‘switched’ and founders have the power now, VCs say</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-11 20:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -141,29 +156,20 @@
                 <span class="time">2025-12-11 18:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6939fd17eaa4088bd3b69c9f/master/pass/GettyImages-2249343616.jpg" alt="OpenAI Launches GPT-5.2 as It Navigates ‘Code Red’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-gpt-launch-gemini-code-red/" target="_blank">OpenAI Launches GPT-5.2 as It Navigates ‘Code Red’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-11 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/11/google-debuts-disco-a-gemini-powered-tool-for-making-web-apps-from-browser-tabs/" target="_blank">Google debuts ‘Disco,’ a Gemini-powered tool for making web apps from browser tabs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-11 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18796154&w=600" alt="Taming Gen AI Video: An Architectural Approach to Addressing Identity Drift and Hallucination" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/gen-ai-video-approach-to-identity-drift-and-hallucination" target="_blank">Taming Gen AI Video: An Architectural Approach to Addressing Identity Drift and Hallucination</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-11 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/04/pop_os.jpg?resize=406%2C232&amp;ssl=1" alt="Pop!_OS 24.04 LTS Released with New COSMIC Desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +215,6 @@
                 <span class="time">2025-12-11 17:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/551155c7-a431-4519-9798-6543509ab210_420x300.png" alt="The Pulse #156: Beware of global configuration changes in large systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-156" target="_blank">The Pulse #156: Beware of global configuration changes in large systems</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-12-11 17:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/fallouttt.jpg" alt="Amazon’s Fallout Season 1 Recap Is Inaccurate AI Bullshit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazons-fallout-season-1-recap-is-inaccurate-ai-wrong-slop-2000652678" target="_blank">Amazon’s Fallout Season 1 Recap Is Inaccurate AI Bullshit</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-11 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KC7EHPGQ2G4FWBQABYH2TCJD/hero-image.jpg" alt="How OpenAI&#x27;s Latest Model Will Impact ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-openais-latest-model-will-impact-chatgpt?utm_medium=RSS" target="_blank">How OpenAI&#x27;s Latest Model Will Impact ChatGPT</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-11 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KC79T7EZ0JE5RC65SS3S81HB/hero-image.png" alt="This Roborock Vacuum/Mop Combo Is Just $220 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +288,6 @@
                 <span class="time">2025-12-11 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/supergirl-trailer-DC-Studios-1280x853.jpg" alt="The First Trailer for ‘Supergirl’ Welcomes Superman’s Mighty Mess of a Cousin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-first-trailer-for-supergirl-welcomes-supermans-mighty-mess-of-a-cousin-2000696001" target="_blank">The First Trailer for ‘Supergirl’ Welcomes Superman’s Mighty Mess of a Cousin</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-11 16:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/05/959e0358984d63d0866818260291bbd3-1280x720.jpg" alt="Disney Is Feeding Your Favorite Characters To The OpenAI Woodchipper For $1 Billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/disney-open-ai-sora-deal-star-wars-frozen-2000652583" target="_blank">Disney Is Feeding Your Favorite Characters To The OpenAI Woodchipper For $1 Billion</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-11 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
