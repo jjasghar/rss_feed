@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 01:29:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-11 02:33:33 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 02:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/hell-be-next-donald-trump-threatens-colombian-president-gustavo-petro?traffic_source=rss" target="_blank">‘He’ll be next’: Donald Trump threatens Colombian President Gustavo Petro</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-11 02:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/flooding-1-rt-er-251210_1765410547612_hpMain_4x3t_384.jpg" alt="&#x27;Historic flooding&#x27; in Washington state could force 100,000 people to evacuate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/record-flooding-pacific-northwest-storms-atmospheric-river/story?id=128273281" target="_blank">&#x27;Historic flooding&#x27; in Washington state could force 100,000 people to evacuate</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-11 01:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +101,6 @@
                 <span class="time">2025-12-10 20:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ed6/live/8a256820-d5f0-11f0-9fb5-5f3a3703a365.jpg" alt="British paratrooper killed in Ukraine &#x27;lived life of courage&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gpkr83p73o?at_medium=RSS&at_campaign=rss" target="_blank">British paratrooper killed in Ukraine &#x27;lived life of courage&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-10 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/10/us-federal-reserve-cuts-interest-rates-in-final-decision-of-the-year?traffic_source=rss" target="_blank">US Federal Reserve cuts interest rates in final decision of the year</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-10 19:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +113,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/" target="_blank">Google’s answer to the AI arms race — promote the guy behind its data center tech</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-11 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/842087/trump-does-not-understand-6g-5g" target="_blank">Donald Trump reminds the entire world he has no idea what 6G means</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-10 23:37</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +160,20 @@
                 <span class="time">2025-12-10 21:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/841252/ifixit-fixbot-hands-on-ai-chatbot" target="_blank">I couldn&amp;#8217;t fix it with iFixit’s AI FixBot</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-10 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/callstacktech/how-to-implement-voice-ai-with-twilio-and-vapi-a-step-by-step-guide-32j4" target="_blank">How to Implement Voice AI with Twilio and VAPI: A Step-by-Step Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-11 02:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +219,6 @@
                 <span class="time">2025-12-10 19:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18784255&w=600" alt="How Migrating to Hardened Container Images Strengthens the Secure Software Development Lifecycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-migration-to-hardened-container-images-promote" target="_blank">How Migrating to Hardened Container Images Strengthens the Secure Software Development Lifecycle</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-10 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/jensen-huang-july-23-2025-1280x853.jpg" alt="Nvidia: Reports of an Elaborate Chinese GPU Smuggling Operation Are ‘Far-fetched’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nvidia-reports-of-an-elaborate-chinese-gpu-smuggling-operation-are-far-fetched-2000697678" target="_blank">Nvidia: Reports of an Elaborate Chinese GPU Smuggling Operation Are ‘Far-fetched’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-11 02:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_1101247694-e1765398401668-1280x854.jpg" alt="64% of Teens Say They Use AI Chatbots as Mental Health Concerns Mount" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +292,6 @@
                 <span class="time">2025-12-10 21:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/mighty-nein-beau-caleb-1280x925.jpg" alt="This Week’s ‘Mighty Nein’ Inherits the Beef Between Its 2 Best Characters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-weeks-mighty-nein-inherits-the-beef-between-its-2-best-characters-2000694310" target="_blank">This Week’s ‘Mighty Nein’ Inherits the Beef Between Its 2 Best Characters</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-10 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 02:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
