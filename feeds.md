@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-11 08:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-11 09:03:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, December 11, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, December 11, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/11/us-says-it-seized-oil-tanker-off-venezuela-coast?traffic_source=rss" target="_blank">US says it seized oil tanker off Venezuela coast</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-11 08:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/record-flooding-pacific-northwest-storms-atmospheric-river/story?id=128273281" target="_blank">Evacuations ordered in parts of Washington amid threat of &#x27;catastrophic&#x27; flooding</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-11 04:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/11/despite-opposition-us-house-passes-record-901bn-defence-spending-bill?traffic_source=rss" target="_blank">Despite opposition, US House passes record $901bn defence spending bill</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-11 03:36</span>
             </div>
         </div>
 </div>
@@ -164,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/java-trends-report-2025/en/headerimage/infoq-Java-trends-report-2025-graph-image-1764845008270.jpg" alt="Article: InfoQ Java Trends Report 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/java-trends-report-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: InfoQ Java Trends Report 2025</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-11 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rosgluk/deploy-hugo-site-to-aws-s3-with-aws-cli-1bmm" target="_blank">Deploy Hugo Site to AWS S3 with AWS CLI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-11 08:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3581035%2F7a4e3e11-052c-4b61-9f45-e3f421e69147.png" alt="Let me tell you about a Tuesday that changed everything.
 .I was three hours into what should have been a 30-minute bug fix. My terminal had 47 tabs open. I&#x27;d restarted my local server six times.............. Read More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/markmark/the-mystery-of-a-missing-greeting-3ebf" target="_blank">The Mystery of a Missing Greeting</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-11 04:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-50/" target="_blank">FOSS Weekly #25.50: Linux Power Users, Helium Browser, Two New Linux Phones, Ubuntu Starter and More</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-11 04:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fix4ski6f6olbzjbd01u8.png" alt="Why your AI assistant lies to you (and how to fix it)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sandeep_salwan/why-your-ai-assistant-lies-to-you-and-how-to-fix-it-322a" target="_blank">Why your AI assistant lies to you (and how to fix it)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-11 03:16</span>
             </div>
         </div>
 </div>
@@ -330,7 +328,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 43 | 📸 With Images: 281 |
-        🔄 Last Updated: 08:02 UTC
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
