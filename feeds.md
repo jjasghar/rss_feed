@@ -1,32 +1,45 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 20:01:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-12 21:01:26 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 13 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,10 +58,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/12/nx-s1-5642967/syria-us-sanctions-anniversary-assad-overthrow" target="_blank">A momentous week as Syria celebrates lifting U.S. sanctions and a year without Assad</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-12 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/12/kilmar-abrego-garcia-relieved-to-not-be-arrested-after-us-court-hearing?traffic_source=rss" target="_blank">Kilmar Abrego Garcia relieved to not be arrested after US court hearing</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-12 19:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c2/live/208d5190-d760-11f0-b252-db9838d38426.jpg" alt="EU backs indefinite freeze on Russia&#x27;s frozen cash ahead of loan plan for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss" target="_blank">EU backs indefinite freeze on Russia&#x27;s frozen cash ahead of loan plan for Ukraine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-12 19:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251202-donald-trump-vl-427p-be3295.jpg" alt="&#x27;We can&#x27;t be bullied&#x27;: How Trump and the GOP&#x27;s redistricting push in Indiana backfired" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/elections/trump-gop-redistricting-push-indiana-backfired-rcna247832" target="_blank">&#x27;We can&#x27;t be bullied&#x27;: How Trump and the GOP&#x27;s redistricting push in Indiana backfired</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-12 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -69,38 +109,38 @@
                 <span class="time">2025-12-12 18:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/dec/12/trump-ends-temporary-legal-status-ethiopia" target="_blank">US ends temporary legal status for Ethiopians amid Trump crackdown</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-12 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/epstein-trump-clinton-ht-gmh-251212_1765558523990_hpMain_4x3t_384.jpg" alt="Newly released photos from Epstein estate include images of Trump, Clinton" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/newly-released-photos-epstein-estate-include-images-trump/story?id=128345597" target="_blank">Newly released photos from Epstein estate include images of Trump, Clinton</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-12 17:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251212-donald-trump-jeffrey-w-credit-epstein-mn-0948-eea63c.jpg" alt="Democrats release photos of Trump, Clinton, Bannon and more from Epstein&#x27;s estate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/new-epstein-photos-show-trump-clinton-bill-gates-woody-allen-steve-ban-rcna248819" target="_blank">Democrats release photos of Trump, Clinton, Bannon and more from Epstein&#x27;s estate</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-12 15:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/843079/best-stocking-stuffers-christmas-ideas-2025" target="_blank">We found 70 stocking stuffers under $100 that are actually useful</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-12 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Translate-app-500x500-1765571081.jpg" alt="Google Translate expands live translation to all earbuds on Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/12/google-translate-learns-slang-and-idioms-expands-live-translation-beyond-pixel-buds/" target="_blank">Google Translate expands live translation to all earbuds on Android</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-12 20:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/693a07b2584a0ef96634d76e/master/pass/business_uncanny_valley_lisa_su.jpg" alt="AMD CEO Lisa Su Isn’t Afraid of the Competition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-amd-ceo-lisa-su-isnt-afraid-of-the-competition/" target="_blank">AMD CEO Lisa Su Isn’t Afraid of the Competition</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-12 20:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2161674727-500x500.jpg" alt="Ukrainians sue US chip firms for powering Russian drones, missiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,38 +168,47 @@
                 <span class="time">2025-12-12 17:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1025255964-500x500.jpg" alt="Man shocks doctors with extreme blood pressure, stroke from energy drinks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/12/man-shocks-doctors-with-extreme-blood-pressure-stroke-from-energy-drinks/" target="_blank">Man shocks doctors with extreme blood pressure, stroke from energy drinks</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-12 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/693c3dc3c79c48e177af64bb/master/pass/GettyImages-1183921760.jpg" alt="This Group Pays Bounties to Repair Broken Devices—Even If the Fix Breaks the Law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/fulu-repair-bounties-nest-molekule/" target="_blank">This Group Pays Bounties to Repair Broken Devices—Even If the Fix Breaks the Law</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-12 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/" target="_blank">Google Translate now lets you hear real-time translations in your headphones</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-12 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/magika-rust-file-type-detector/en/headerimage/magika-file-type-detector-1765571220970.jpeg" alt="Magika 1.0: Smarter, Faster File Detection with Rust and AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/magika-rust-file-type-detector/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Magika 1.0: Smarter, Faster File Detection with Rust and AI</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-12 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/" target="_blank">The future of AI-powered software optimization (and how it can help your team)</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-12-12 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://invoice.secvuln.info/" target="_blank">Security issues with electronic invoices</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-12 20:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18793646&w=600" alt="Zero Trust in CI/CD Pipelines: A Practical DevSecOps Implementation Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/zero-trust-in-cicd-pipelines-implementation-guide" target="_blank">Zero Trust in CI/CD Pipelines: A Practical DevSecOps Implementation Guide</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-12 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzjfsexrfh5f1ut9shw5m.jpg" alt="US AI Policy News Today: Key Updates &amp; Government Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -176,42 +225,6 @@
                 <span class="title"><a href="https://dzone.com/articles/itbench-part-3-it-compliance-automation-with-genai" target="_blank">ITBench, Part 3: IT Compliance Automation with GenAI CISO Assessment Agent</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-12 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://chrisamico.com/blog/2025-12-07/uv-new-python-setup/" target="_blank">My Python setup, December 2025</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-12 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797346&w=600" alt="Secrets in Code: Understanding Secret Detection and Its Blind Spots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/secrets-in-code-detection-and-its-blind-spots" target="_blank">Secrets in Code: Understanding Secret Detection and Its Blind Spots</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-12 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/12/how-stack-overflow-s-mcp-server-is-helping-hp-modernize-the-software-development-lifecycle/" target="_blank">How Stack Overflow’s MCP Server is helping HP modernize the software development lifecycle</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-12 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-char-misc" target="_blank">Linux 6.19 Improves User-Space I/O &quot;UIO&quot; With Shared Virtual Addressing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-12 17:20</span>
             </div>
         </div>
 </div>
@@ -233,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/10/A-person-looking-at-Reddit-on-their-phone-1024x683.jpg" alt="Reddit Sues Australia Over Teen Social Media Ban as Other Nations Consider Similar Laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/reddit-sues-australia-over-teen-social-media-ban-as-other-nations-consider-similar-laws-2000699275" target="_blank">Reddit Sues Australia Over Teen Social Media Ban as Other Nations Consider Similar Laws</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-12 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/image-16.jpg" alt="The Okami Account Just Murdered Someone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +300,6 @@
                 <span class="time">2025-12-12 16:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Letitia-James.-_3Ca-href_3D_22WBLS-1st-Black-Person-.jpg?fit=1080%2C763&amp;quality=60&amp;ssl=1" alt="Second grand jury refuses to indict Letitia James" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/12/second-grand-jury-refuses-to-indict-letitia-james.html" target="_blank">Second grand jury refuses to indict Letitia James</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-12 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 299 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 303 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
