@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 18:02:20 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-12 19:02:02 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/12/nx-s1-5642610/doj-voter-data-lawsuits-colorado-hawaii-massachusetts-nevada" target="_blank">The Justice Department has now sued 18 states in an effort to access voter data</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-12 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/12/eurovision-winner-nemo-returns-trophy-in-protest-over-israels?traffic_source=rss" target="_blank">Eurovision winner Nemo returns trophy in protest over Israel’s inclusion</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-12 18:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +101,20 @@
                 <span class="time">2025-12-12 14:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9023/live/e3bec6b0-d758-11f0-845f-035d2c9c25f7.jpg" alt="Germany accuses Russia of air traffic control cyber-attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS&at_campaign=rss" target="_blank">Germany accuses Russia of air traffic control cyber-attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-12 14:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/12/nx-s1-5604684/if-the-holidays-are-stressing-you-out-remember-everything-is-optional" target="_blank">If the holidays are stressing you out, remember: everything is optional</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-12 14:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/wakeup1-500x500-1765558341.jpg" alt="A study in contrasts: The cinematography of Wake Up Dead Man" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/12/a-study-in-contrasts-the-cinematography-of-wake-up-dead-man/" target="_blank">A study in contrasts: The cinematography of Wake Up Dead Man</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-12 18:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +160,29 @@
                 <span class="time">2025-12-12 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/843459/game-awards-playstation-nintendo-pc-games-deal-sale" target="_blank">Many games from The Game Awards are now on sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-12 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://chrisamico.com/blog/2025-12-07/uv-new-python-setup/" target="_blank">My Python setup, December 2025</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-12 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797346&w=600" alt="Secrets in Code: Understanding Secret Detection and Its Blind Spots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/secrets-in-code-detection-and-its-blind-spots" target="_blank">Secrets in Code: Understanding Secret Detection and Its Blind Spots</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-12 18:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +219,6 @@
                 <span class="time">2025-12-12 16:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18771372&w=600" alt="Blockchain Use Cases in Test Automation You’ll See Everywhere in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/blockchain-use-cases-in-test-automation-youll-see" target="_blank">Blockchain Use Cases in Test Automation You’ll See Everywhere in 2026</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-12 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-xeon-6-cache-sched" target="_blank">Cache Aware Scheduling Raises Performance For Intel Xeon 6 Granite Rapids</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-12 15:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBJP9KA535XFW3A1TA20WPVE/hero-image.jpg" alt="10 Hacks for Moving Day That Everyone Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/essential-moving-day-hacks?utm_medium=RSS" target="_blank">10 Hacks for Moving Day That Everyone Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-12 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/mosquito.jpeg?fit=1500%2C994&amp;quality=60&amp;ssl=1" alt="CDC warns travelers of uncurable mosquito-borne virus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/12/cdc-warns-travelers-of-uncurable-mosquito-borne-virus.html" target="_blank">CDC warns travelers of uncurable mosquito-borne virus</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-12 18:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/05/365deef373b5ac9df6d3bb00d0339d17-1024x630.jpg" alt="Sam Altman’s Eyeball-Scanning Startup Launches ‘Super App’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/philips-hue-smart-camera-surprisingly-useful?utm_medium=RSS" target="_blank">Philips Hue’s New Security Camera Is Surprisingly Useful</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-12 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Divinity.png?fit=1403%2C590&amp;quality=55&amp;ssl=1" alt="The mystery behind that spooky desert statue has finally been solved" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/12/the-mystery-behind-that-spooky-desert-statue-has-finally-been-solved.html" target="_blank">The mystery behind that spooky desert statue has finally been solved</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-12 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/vampire-bat-1280x854.jpg" alt="Is the Dracula Land Theme Park for Real?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/is-the-dracula-land-theme-park-for-real-2000698557" target="_blank">Is the Dracula Land Theme Park for Real?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-12 15:30</span>
             </div>
         </div>
 </div>
@@ -325,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 300 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 301 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
