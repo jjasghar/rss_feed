@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 03:28:38 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-12 04:10:27 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 03:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 04:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/11/nx-s1-5641086/tourists-social-media-screening-changes" target="_blank">What&#x27;s on your TikTok page? U.S. looks to scour tourists&#x27; online profiles</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-12 02:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/seized-tanker-ht-jef-251211_1765472162116_hpMain_4x3t_384.jpg" alt="Satellite images suggest seized tanker manipulated its location data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/11/nx-s1-5637488/midterm-elections-trump-redistricting-indiana" target="_blank">In a setback for Trump, Indiana lawmakers defeat redistricting plan</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-11 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/11/paramounts-warner-bros-discovery-bid-faces-conflict-of-interest-concerns?traffic_source=rss" target="_blank">Paramount’s Warner Bros Discovery bid faces conflict of interest concerns</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-11 21:36</span>
             </div>
         </div>
 </div>
@@ -207,10 +207,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/firecracker-virtualization-overview-1hif" target="_blank">Firecracker Virtualization Overview</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-11 22:52</span>
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-december-12-2025-red-hat" target="_blank">Friday Five — December 12, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-12-12 00:00</span>
             </div>
         </div>
 </div>
@@ -305,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 03:28 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 04:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
