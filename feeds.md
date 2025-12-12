@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 01:29:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-12 02:33:20 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 02:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/seized-tanker-ht-jef-251211_1765472162116_hpMain_4x3t_384.jpg" alt="Satellite images suggest seized tanker manipulated its location data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/satellite-imagessuggestseized-tanker-deliberately-manipulated-location-data/story?id=128313185" target="_blank">Satellite images suggest seized tanker manipulated its location data</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-12 00:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/12/11/nx-s1-5640769/trump-charlie-brown-golden-globes-social-media-news-quiz" target="_blank">You know what&#x27;s definitely not a &#x27;hoax&#x27;? Our news quiz. Give it a go</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-11 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d76/live/87d45910-d6e9-11f0-a892-01d657345866.jpg" alt="US sanctions six more ships after seizing oil tanker off Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss" target="_blank">US sanctions six more ships after seizing oil tanker off Venezuela</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-11 23:40</span>
             </div>
         </div>
 <div class="story">
@@ -75,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/11/paramounts-warner-bros-discovery-bid-faces-conflict-of-interest-concerns?traffic_source=rss" target="_blank">Paramount’s Warner Bros Discovery bid faces conflict of interest concerns</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-11 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/letitia-james-gty-jef-251210_1765381874722_hpMain_4x3t_384.jpg" alt="2nd grand jury refuses to indict New York AG Letitia James: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/2nd-time-grand-jury-refuses-indict-new-york/story?id=128279779" target="_blank">2nd grand jury refuses to indict New York AG Letitia James: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-11 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-venezuela-oil-tanker_7106952.png?20251210225500" alt="US won&#x27;t &#x27;stand by and watch sanctioned vessels&#x27;, warns White House after tanker seized off Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-wont-stand-by-and-watch-sanctioned-vessels-warns-white-house-after-tanker-seized-off-venezuela-13482352" target="_blank">US won&#x27;t &#x27;stand by and watch sanctioned vessels&#x27;, warns White House after tanker seized off Venezuela</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-11 20:01</span>
             </div>
         </div>
 </div>
@@ -163,6 +164,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alex_hunter_44f4c9ed6671e/how-to-practice-graph-problems-on-leetcode-for-beginners-a-structured-roadmap-kk4" target="_blank">How to Practice Graph Problems on LeetCode for Beginners: A Structured Roadmap</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-12 02:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-WSL-2.7.0" target="_blank">Windows WSL 2.7.0 Released With Newer Linux 6.6 LTS Point Release, Many Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-12 01:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/emanoelcarvalho/guia-pratico-introducao-ao-git-como-subir-seu-codigo-no-github-10jl" target="_blank">📘Guia Prático: Introdução ao Git + Como Subir Seu Código no GitHub</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-12 01:18</span>
@@ -195,24 +214,6 @@
                 <span class="time">2025-12-11 21:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18796154&w=600" alt="Taming Gen AI Video: An Architectural Approach to Addressing Identity Drift and Hallucination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/gen-ai-video-approach-to-identity-drift-and-hallucination" target="_blank">Taming Gen AI Video: An Architectural Approach to Addressing Identity Drift and Hallucination</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-11 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/04/pop_os.jpg?resize=406%2C232&amp;ssl=1" alt="Pop!_OS 24.04 LTS Released with New COSMIC Desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/pop_os-24-04-lts-stable-release" target="_blank">Pop!_OS 24.04 LTS Released with New COSMIC Desktop</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-11 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Street-Fighter.jpg" alt="The Street Fighter Movie Looks Surprisingly Good In Its First Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/street-fighter-movie-trailer-cast-release-date-2000652775" target="_blank">The Street Fighter Movie Looks Surprisingly Good In Its First Trailer</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-12 02:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/star-wars-fate-of-the-old-republic-1280x853.jpg" alt="The Old Republic Returns to ‘Star Wars’ Video Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +287,6 @@
                 <span class="time">2025-12-11 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/hat.jpg?fit=1200%2C899&amp;quality=60&amp;ssl=1" alt="The Wicked Witch&#x27;s flying hat just sold for $575,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/11/the-wicked-witchs-flying-hat-just-sold-for-575000.html" target="_blank">The Wicked Witch&#x27;s flying hat just sold for $575,000</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-11 21:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 02:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
