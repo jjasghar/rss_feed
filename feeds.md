@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 00:05:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-12 01:29:42 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +101,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/841817/trump-signs-ai-executive-order-pushing-to-ban-state-laws" target="_blank">Trump signs AI executive order pushing to ban state laws</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-12 01:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6938a0fca494c5f527a31bee/master/pass/Pol_Trump_AI_GettyImages-2250178700.jpg" alt="Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/" target="_blank">Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-12 00:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Runway-GWM-Worlds-500x500.jpg" alt="Runway claims its GWM-1 “world models” can stay coherent for minutes at a time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -137,29 +154,20 @@
                 <span class="time">2025-12-11 20:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/842855/fortnite-android-google-play" target="_blank">Fortnite is back in Google&amp;#8217;s Android app store</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-11 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6938b66215e62a4322ce19f0/master/pass/Hulu-Movie-Guide-Culture-HomeAlone_2.jpg" alt="The 45 Best Movies on Hulu, WIRED&#x27;s Picks (December 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-movies-hulu-right-now/" target="_blank">The 45 Best Movies on Hulu, WIRED&#x27;s Picks (December 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-11 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/emanoelcarvalho/guia-pratico-introducao-ao-git-como-subir-seu-codigo-no-github-10jl" target="_blank">📘Guia Prático: Introdução ao Git + Como Subir Seu Código no GitHub</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-12 01:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +213,6 @@
                 <span class="time">2025-12-11 18:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/thunderbid-146.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 146 Update Migrates Logins to AES + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/thunderbird-146-login-migration" target="_blank">Thunderbird 146 Update Migrates Logins to AES + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-11 18:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/star-wars-fate-of-the-old-republic-1280x853.jpg" alt="The Old Republic Returns to ‘Star Wars’ Video Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-fate-of-the-old-republic-announcement-trailer-game-awards-2000698818" target="_blank">The Old Republic Returns to ‘Star Wars’ Video Games</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-12 01:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-EKATERINA-MESILOVA-Shutterstock.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Apple Watch survives a year and a half in a Finnish lake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/11/apple-watch-survives-a-year-and-a-half-in-a-finnish-lake.html" target="_blank">Apple Watch survives a year and a half in a Finnish lake</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-11 22:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/doctor-who-2025-retrospective-1280x853.jpg" alt="‘Doctor Who’ and the Disintegration of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +286,6 @@
                 <span class="time">2025-12-11 21:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/doug-burgum-1280x853.jpg" alt="Software Mogul/Secretary of (*checks notes) the Interior Says AI Will Cure Cancer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/software-mogul-secretary-of-checks-notes-the-interior-says-ai-will-cure-cancer-2000698612" target="_blank">Software Mogul/Secretary of (*checks notes) the Interior Says AI Will Cure Cancer</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-11 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Supergirl.jpg" alt="The First Supergirl Trailer Has A Great Line About What Makes Her Different From Superman" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/supergirl-trailer-jason-momoa-lobo-argo-city-2000652693" target="_blank">The First Supergirl Trailer Has A Great Line About What Makes Her Different From Superman</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-11 21:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,22 +300,13 @@
                 <span class="time">2025-12-11 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5720.png" alt="QC Rerun Time 2025 #44" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5720" target="_blank">QC Rerun Time 2025 #44</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-12-11 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
