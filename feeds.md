@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 16:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-12 17:01:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/" target="_blank">Google Translate now lets you hear real-time translations in your headphones</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-12 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2171810471-500x500.jpg" alt="Epic celebrates “the end of the Apple Tax” after appeals court win in iOS payments case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -146,20 +160,47 @@
                 <span class="time">2025-12-12 13:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6849a9a444df484ec5ac4f7b/master/pass/Best%20Merino%20Wool%20Shirts.png" alt="Best Merino Wool T-Shirts (2025), Tried On and Tested" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-merino-wool-t-shirts/" target="_blank">Best Merino Wool T-Shirts (2025), Tried On and Tested</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-12 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rq6ctnje9owg27ja8pl.png" alt="Security by Design: Lessons from API Days Paris 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/soumia_g_9dc322fc4404cecd/security-by-design-lessons-from-api-days-paris-2025-1gg2" target="_blank">Security by Design: Lessons from API Days Paris 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-12 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18771372&w=600" alt="Blockchain Use Cases in Test Automation You’ll See Everywhere in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/blockchain-use-cases-in-test-automation-youll-see" target="_blank">Blockchain Use Cases in Test Automation You’ll See Everywhere in 2026</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-12 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-xeon-6-cache-sched" target="_blank">Cache Aware Scheduling Raises Performance For Intel Xeon 6 Granite Rapids</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-12 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/netflix-upper-uda-architecture/en/headerimage/generatedHeaderImage-1765074496910.jpg" alt="Breaking Silos: Netflix Introduces Upper Metamodel to Bring Consistency Across Content Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/netflix-upper-uda-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Breaking Silos: Netflix Introduces Upper Metamodel to Bring Consistency Across Content Engineering</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-12 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -176,42 +217,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/pop-os-24-04-review/" target="_blank">Pop!_OS 24.04 LTS Review: Is This the Linux Distro of the Year 2025?</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2025-12-12 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/nuqs-react-advanced/en/headerimage/generatedHeaderImage-1765317144977.jpg" alt="React Advanced 2025: Type Safe URL State Management Takes Center Stage with Nuqs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/nuqs-react-advanced/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">React Advanced 2025: Type Safe URL State Management Takes Center Stage with Nuqs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792627&w=600" alt="Modern Blueprint for Privacy-First AI/ML Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/modern-blueprint-for-privacy-first-aiml-systems" target="_blank">Modern Blueprint for Privacy-First AI/ML Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Framework-50p-DDR5-Memory" target="_blank">Framework Raises DDR5 Memory Prices By 50% For DIY Laptops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-12 11:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway" target="_blank">After 27 years within budget Austria open 6thlongest railway tunnel in the world</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-12 10:50</span>
             </div>
         </div>
 </div>
@@ -243,6 +248,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/hp-laptop-2-1280x853.jpg" alt="HP Adds Another 80% Off Laptop as Holiday Clearance Deals Continue on Amazon, Not Listed on Official Site" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hp-adds-another-80-off-laptop-as-holiday-clearance-deals-continue-on-amazon-not-listed-on-official-site-2000651632" target="_blank">HP Adds Another 80% Off Laptop as Holiday Clearance Deals Continue on Amazon, Not Listed on Official Site</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-12 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Letitia-James.-_3Ca-href_3D_22WBLS-1st-Black-Person-.jpg?fit=1080%2C763&amp;quality=60&amp;ssl=1" alt="Second grand jury refuses to indict Letitia James" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/12/second-grand-jury-refuses-to-indict-letitia-james.html" target="_blank">Second grand jury refuses to indict Letitia James</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-12 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KC9K3P6NAY7JEZQ9F25E9KRT/hero-image.jpg" alt="Philips Hue’s New Security Camera Is Surprisingly Useful" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/philips-hue-smart-camera-surprisingly-useful?utm_medium=RSS" target="_blank">Philips Hue’s New Security Camera Is Surprisingly Useful</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-12 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Divinity.png?fit=1403%2C590&amp;quality=55&amp;ssl=1" alt="The mystery behind that spooky desert statue has finally been solved" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -269,38 +301,20 @@
                 <span class="time">2025-12-12 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/shutterstock_2424733147.jpg?fit=1592%2C1037&amp;quality=60&amp;ssl=1" alt="Florida school locked down after AI weapon detector mistakes clarinet for gun" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/12/florida-school-locked-down-after-ai-weapon-detector-identifies-clarinet-as-gun.html" target="_blank">Florida school locked down after AI weapon detector mistakes clarinet for gun</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-12 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_1019880574-1280x811.jpg" alt="You Have a Week to Claim Up to $7,500 From AT&amp;T Data Breach Settlements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/you-have-a-week-to-claim-up-to-7500-from-att-data-breach-settlements-2000698631" target="_blank">You Have a Week to Claim Up to $7,500 From AT&amp;T Data Breach Settlements</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-12 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Samsung-Galaxy-Watch-8-Classic-2025-1280x853.jpg" alt="Galaxy Watch 8 Classic Returns to All-Time Low as Samsung Rolls Out Another Surprise Clearance on Its Smartwatch Before Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/galaxy-watch-8-classic-returns-to-all-time-low-as-samsung-rolls-out-another-surprise-clearance-on-its-smartwatch-before-christmas-2000652757" target="_blank">Galaxy Watch 8 Classic Returns to All-Time Low as Samsung Rolls Out Another Surprise Clearance on Its Smartwatch Before Christmas</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-12 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1765427032-20251212_edit.png" alt="Saturday Morning Breakfast Cereal - Turkin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/turkin" target="_blank">Saturday Morning Breakfast Cereal - Turkin</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-12 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -319,22 +333,13 @@
                 <span class="time">2025-12-12 03:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1765282195-20251211_edit.png" alt="Saturday Morning Breakfast Cereal - Poetry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/poetry-3" target="_blank">Saturday Morning Breakfast Cereal - Poetry</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-11 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
