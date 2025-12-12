@@ -1,45 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 21:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-12 22:04:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 36 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 22:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -115,6 +103,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/charitydrive2025-500x500.jpg" alt="Reminder: Donate to win swag in our annual Charity Drive sweepstakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-17/" target="_blank">Reminder: Donate to win swag in our annual Charity Drive sweepstakes</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-12 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/800440/best-gifts-under-100-2025" target="_blank">The Verge’s favorite holiday gifts under $100</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-12 21:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -148,24 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/ukrainians-sue-us-chip-firms-for-powering-russian-drones-missiles/" target="_blank">Ukrainians sue US chip firms for powering Russian drones, missiles</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-12-12 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/wakeup1-500x500-1765558341.jpg" alt="A study in contrasts: The cinematography of Wake Up Dead Man" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/12/a-study-in-contrasts-the-cinematography-of-wake-up-dead-man/" target="_blank">A study in contrasts: The cinematography of Wake Up Dead Man</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-12 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/" target="_blank">Data breach at credit check giant 700Credit affects at least 5.6 million</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-12 17:35</span>
             </div>
         </div>
 </div>
@@ -337,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 303 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 302 |
+        🔄 Last Updated: 22:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
