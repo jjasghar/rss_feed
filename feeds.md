@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 04:10:27 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-12 05:02:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 04:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-2n9c" target="_blank">Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-12 04:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-closures-40if" target="_blank">The Secret Life of JavaScript: Understanding Closures</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-12 03:15</span>
@@ -204,15 +215,6 @@
                 <span class="time">2025-12-12 01:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-december-12-2025-red-hat" target="_blank">Friday Five — December 12, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-12-12 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/star-wars-galactic-racer-sebulba-1280x853.jpg" alt="‘Star Wars: Galactic Racer’ Is Speeding Into Our Hearts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-galactic-racer-announcement-trailer-game-awards-2026-2000698847" target="_blank">‘Star Wars: Galactic Racer’ Is Speeding Into Our Hearts</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-12 03:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/Street-Fighter.jpg" alt="The Street Fighter Movie Looks Surprisingly Good In Its First Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,20 +288,20 @@
                 <span class="time">2025-12-11 22:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KC7MXWH4N3KCDYTMB9DBREC0/hero-image.jpg" alt="Google Will Now Let You Virtually Try on Clothes With Just a Selfie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-virtually-try-on-clothes-with-selfie?utm_medium=RSS" target="_blank">Google Will Now Let You Virtually Try on Clothes With Just a Selfie</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-11 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5721.png" alt="QC Rerun Time 2025 #5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5721" target="_blank">QC Rerun Time 2025 #5</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-12-12 03:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1765282195-20251211_edit.png" alt="Saturday Morning Breakfast Cereal - Poetry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -305,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 04:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
