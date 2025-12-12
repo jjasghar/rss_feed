@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 19:02:02 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-12 20:01:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/12/kilmar-abrego-garcia-relieved-to-not-be-arrested-after-us-court-hearing?traffic_source=rss" target="_blank">Kilmar Abrego Garcia relieved to not be arrested after US court hearing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-12 19:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +96,20 @@
                 <span class="time">2025-12-12 15:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abrego-garcia-1-gty-gmh-251212_1765546628924_hpMain_4x3t_384.jpg" alt="Federal judge blocks government from detaining Kilmar Abrego Garcia after release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/federal-judge-blocks-government-detaining-kilmar-abrego-garcia/story?id=128339058" target="_blank">Federal judge blocks government from detaining Kilmar Abrego Garcia after release</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-12 14:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2161674727-500x500.jpg" alt="Ukrainians sue US chip firms for powering Russian drones, missiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/ukrainians-sue-us-chip-firms-for-powering-russian-drones-missiles/" target="_blank">Ukrainians sue US chip firms for powering Russian drones, missiles</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-12 19:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/wakeup1-500x500-1765558341.jpg" alt="A study in contrasts: The cinematography of Wake Up Dead Man" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +155,29 @@
                 <span class="time">2025-12-12 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2171810471-500x500.jpg" alt="Epic celebrates “the end of the Apple Tax” after appeals court win in iOS payments case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/" target="_blank">Epic celebrates “the end of the Apple Tax” after appeals court win in iOS payments case</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-12 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzjfsexrfh5f1ut9shw5m.jpg" alt="US AI Policy News Today: Key Updates &amp; Government Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/techdecodedly/us-ai-policy-news-today-key-updates-government-actions-1kjp" target="_blank">US AI Policy News Today: Key Updates &amp; Government Actions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-12 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18795835&w=600" alt="ITBench, Part 3: IT Compliance Automation with GenAI CISO Assessment Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/itbench-part-3-it-compliance-automation-with-genai" target="_blank">ITBench, Part 3: IT Compliance Automation with GenAI CISO Assessment Agent</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-12 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,37 +199,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/12/how-stack-overflow-s-mcp-server-is-helping-hp-modernize-the-software-development-lifecycle/" target="_blank">How Stack Overflow’s MCP Server is helping HP modernize the software development lifecycle</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-12 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-char-misc" target="_blank">Linux 6.19 Improves User-Space I/O &quot;UIO&quot; With Shared Virtual Addressing</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-12 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18779338&w=600" alt="Synergizing Intelligence and Orchestration: Transforming Cloud Deployments with AI and Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cloud-deployments-ai-and-kubernetes" target="_blank">Synergizing Intelligence and Orchestration: Transforming Cloud Deployments with AI and Kubernetes</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-12 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rq6ctnje9owg27ja8pl.png" alt="Security by Design: Lessons from API Days Paris 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/soumia_g_9dc322fc4404cecd/security-by-design-lessons-from-api-days-paris-2025-1gg2" target="_blank">Security by Design: Lessons from API Days Paris 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-12 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/03/plucky-download-now.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 Snapshot 2 Available to Download" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/ubuntu-26-04-snapshot-2-released" target="_blank">Ubuntu 26.04 Snapshot 2 Available to Download</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-12 16:47</span>
             </div>
         </div>
 </div>
@@ -238,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/image-16.jpg" alt="The Okami Account Just Murdered Someone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/okami-game-awards-fable-street-fighter-evangelion-2000653066" target="_blank">The Okami Account Just Murdered Someone</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-12 19:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KBJP9KA535XFW3A1TA20WPVE/hero-image.jpg" alt="10 Hacks for Moving Day That Everyone Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +287,6 @@
                 <span class="time">2025-12-12 16:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KC9K3P6NAY7JEZQ9F25E9KRT/hero-image.jpg" alt="Philips Hue’s New Security Camera Is Surprisingly Useful" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/philips-hue-smart-camera-surprisingly-useful?utm_medium=RSS" target="_blank">Philips Hue’s New Security Camera Is Surprisingly Useful</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-12 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 301 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 299 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
