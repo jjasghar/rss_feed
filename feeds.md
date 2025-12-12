@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 06:02:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-12 07:03:18 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48cf/live/9b017dc0-d6bb-11f0-9d57-f5bf64d847f4.jpg" alt="Flood misery for Gazans awaiting next stage of peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss" target="_blank">Flood misery for Gazans awaiting next stage of peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-12 05:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48dd/live/9d82e1c0-d719-11f0-aa87-6bb0a76c2b74.jpg" alt="Flu surge a challenge for NHS &#x27;unlike any&#x27; since pandemic, Streeting says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8r30787e76o?at_medium=RSS&at_campaign=rss" target="_blank">Flu surge a challenge for NHS &#x27;unlike any&#x27; since pandemic, Streeting says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-12 05:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +100,6 @@
                 <span class="time">2025-12-11 23:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/12/11/could-an-end-to-the-ukraine-war-be-near?traffic_source=rss" target="_blank">Could an end to the Ukraine war be near?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-11 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/11/nx-s1-5637488/midterm-elections-trump-redistricting-indiana" target="_blank">In a setback for Trump, Indiana lawmakers defeat redistricting plan</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-11 21:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +112,15 @@
                 <span class="title"><a href="https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis" target="_blank">Tomb Raider announces two new games</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-12 03:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/SWFOTOR-An-unknown-crew-searches-for-answers-on-a-rainy-planet-copy-500x500.jpg" alt="Star Wars: Fate of the Old Republic announced as a KOTOR spiritual successor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/12/star-wars-fate-of-the-old-republic-announced-as-a-kotor-spiritual-successor/" target="_blank">Star Wars: Fate of the Old Republic announced as a KOTOR spiritual successor</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-12 02:51</span>
             </div>
         </div>
 <div class="story">
@@ -148,15 +159,6 @@
                 <span class="time">2025-12-11 23:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/" target="_blank">1X struck a deal to send its ‘home’ humanoids to factories and warehouses</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-11 22:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +171,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/12/12/interface-is-everything-and-everything-is-an-interface/" target="_blank">Interface is everything, and everything is an interface</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-12-12 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/joente/schema-first-approach-with-thingsdb-407p" target="_blank">Schema-First Approach with ThingsDB</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-12 06:45</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/alex_hunter_44f4c9ed6671e/how-to-practice-graph-problems-on-leetcode-for-beginners-a-structured-roadmap-kk4" target="_blank">How to Practice Graph Problems on LeetCode for Beginners: A Structured Roadmap</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-12 02:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/ripple-front-end-framework-open/en/headerimage/generatedHeaderImage-1765419412970.jpg" alt="New Front-End Framework Ripple Blends React and Svelte Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/ripple-front-end-framework-open/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Front-End Framework Ripple Blends React and Svelte Together</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-12 02:06</span>
             </div>
         </div>
 </div>
@@ -317,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
