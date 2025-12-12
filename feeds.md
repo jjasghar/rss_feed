@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 05:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-12 06:02:19 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +165,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/12/interface-is-everything-and-everything-is-an-interface/" target="_blank">Interface is everything, and everything is an interface</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-12 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkns9ei0fndvl8sus6n7.png" alt="Dec 12, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alibaba_tongyi_lab_25ad9f/dec-12-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-375c" target="_blank">Dec 12, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-12 05:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-2n9c" target="_blank">Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community</a></span>
                 <span class="feed">DEV Community</span>
@@ -195,24 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/12/ripple-front-end-framework-open/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Front-End Framework Ripple Blends React and Svelte Together</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-12-12 02:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-WSL-2.7.0" target="_blank">Windows WSL 2.7.0 Released With Newer Linux 6.6 LTS Point Release, Many Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-12 01:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/emanoelcarvalho/guia-pratico-introducao-ao-git-como-subir-seu-codigo-no-github-10jl" target="_blank">📘Guia Prático: Introdução ao Git + Como Subir Seu Código no GitHub</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-12 01:18</span>
             </div>
         </div>
 </div>
@@ -316,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
