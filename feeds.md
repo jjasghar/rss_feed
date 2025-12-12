@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 02:33:20 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-12 03:28:38 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 02:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +104,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis" target="_blank">Tomb Raider announces two new games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-12 03:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/11/world-launches-its-super-app-including-crypto-pay-and-encrypted-chat-features/" target="_blank">World launches its ‘super app,’ including crypto pay and encrypted chat features</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-12 01:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/841817/trump-signs-ai-executive-order-pushing-to-ban-state-laws" target="_blank">Trump signs AI executive order pushing to ban state laws</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-12 01:18</span>
@@ -137,24 +154,6 @@
                 <span class="time">2025-12-11 22:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/supergirl2-500x500.jpg" alt="Supergirl teaser gives us a likably imperfect Kara Zor-El" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/12/milly-alcock-is-out-for-revenge-in-supergirl-teaser/" target="_blank">Supergirl teaser gives us a likably imperfect Kara Zor-El</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-11 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/11/the-market-has-switched-and-founders-have-the-power-now-vcs-say/" target="_blank">The market has ‘switched’ and founders have the power now, VCs say</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-11 20:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,9 +163,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-closures-40if" target="_blank">The Secret Life of JavaScript: Understanding Closures</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-12 03:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alex_hunter_44f4c9ed6671e/how-to-practice-graph-problems-on-leetcode-for-beginners-a-structured-roadmap-kk4" target="_blank">How to Practice Graph Problems on LeetCode for Beginners: A Structured Roadmap</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-12 02:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/ripple-front-end-framework-open/en/headerimage/generatedHeaderImage-1765419412970.jpg" alt="New Front-End Framework Ripple Blends React and Svelte Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/ripple-front-end-framework-open/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Front-End Framework Ripple Blends React and Svelte Together</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-12 02:06</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/aws-builders/firecracker-virtualization-overview-1hif" target="_blank">Firecracker Virtualization Overview</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-11 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pomidoroshev/the-pitfalls-of-reading-user-input-in-c-a-story-about-scanf-and-stdin-2mj8" target="_blank">The Pitfalls of Reading User Input in C: a Story About scanf and Stdin</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-11 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-Acquires-Ventana" target="_blank">Qualcomm Acquires RISC-V Specialists At Ventana Microsystems</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-11 21:13</span>
             </div>
         </div>
 </div>
@@ -306,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 02:33 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
