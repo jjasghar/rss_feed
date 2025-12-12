@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 07:03:18 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-12 08:02:22 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/12/verdict-in-hong-kong-media-tycoon-jimmy-lais-trial-due-next-week?traffic_source=rss" target="_blank">Verdict in Hong Kong media tycoon Jimmy Lai’s trial due next week</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-12 07:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48cf/live/9b017dc0-d6bb-11f0-9d57-f5bf64d847f4.jpg" alt="Flood misery for Gazans awaiting next stage of peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/11/nx-s1-5640769/trump-charlie-brown-golden-globes-social-media-news-quiz" target="_blank">You know what&#x27;s definitely not a &#x27;hoax&#x27;? Our news quiz. Give it a go</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-11 23:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d76/live/87d45910-d6e9-11f0-a892-01d657345866.jpg" alt="US sanctions six more ships after seizing oil tanker off Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss" target="_blank">US sanctions six more ships after seizing oil tanker off Venezuela</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-11 23:40</span>
             </div>
         </div>
 </div>
@@ -176,6 +171,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/cinnamon-6-6/" target="_blank">Cinnamon 6.6 Release Sets the Tone for the Next Linux Mint Release</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-12 07:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lucassifoni.info/blog/miniscope-tiny-telescope/" target="_blank">The tiniest yet real telescope I&#x27;ve built</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-12 07:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/joente/schema-first-approach-with-thingsdb-407p" target="_blank">Schema-First Approach with ThingsDB</a></span>
                 <span class="feed">DEV Community</span>
@@ -200,24 +213,6 @@
                 <span class="time">2025-12-12 04:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-closures-40if" target="_blank">The Secret Life of JavaScript: Understanding Closures</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-12 03:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alex_hunter_44f4c9ed6671e/how-to-practice-graph-problems-on-leetcode-for-beginners-a-structured-roadmap-kk4" target="_blank">How to Practice Graph Problems on LeetCode for Beginners: A Structured Roadmap</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-12 02:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/image-27.jpg" alt="Everything We Saw At The 2025 Game Awards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/everything-we-saw-at-the-2025-game-awards-2000652719" target="_blank">Everything We Saw At The 2025 Game Awards</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-12 04:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/star-wars-galactic-racer-sebulba-1280x853.jpg" alt="‘Star Wars: Galactic Racer’ Is Speeding Into Our Hearts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +286,6 @@
                 <span class="time">2025-12-11 22:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/noem.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Noem says she hasn&#x27;t deported veterans. Then a deported veteran joins the hearing on Zoom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/11/noem-says-she-hasnt-deported-veterans-then-a-deported-veteran-joins-the-hearing-on-zoom.html" target="_blank">Noem says she hasn&#x27;t deported veterans. Then a deported veteran joins the hearing on Zoom</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-11 22:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
