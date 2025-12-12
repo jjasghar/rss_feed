@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 12:02:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-12 13:12:25 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 13:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/12/uk-sanctions-four-rsf-commanders-heinous-violence-against-sudan-civilians" target="_blank">UK puts sanctions on four RSF commanders for ‘heinous’ violence against Sudan civilians</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-12 13:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +102,20 @@
                 <span class="time">2025-12-12 07:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/kristi-noem-gty-jt-251211_1765490485389_hpMain_4x3t_384.jpg" alt="Noem confronted about veteran in contentious hearing over deportations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/dhs-secretary-kristi-noem-confronted-veteran-contentious-hearing/story?id=128325824" target="_blank">Noem confronted about veteran in contentious hearing over deportations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-12 07:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/693b20cc729addfb3b34b879/master/pass/Baseus%20Inspire%20XH1%20ANC%20Headphones%20top%20art%20122025%20SOURCE%20Amazon.jpg" alt="Baseus Inspire XH1 Headphones Review: Affordable Excellence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/baseus-inspire-xh1/" target="_blank">Baseus Inspire XH1 Headphones Review: Affordable Excellence</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Neutron-Hungry-Hippo-500x500.jpg" alt="Rocket Report: Neutron’s Hungry Hippo is deemed ready, Whither Orbex?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +161,20 @@
                 <span class="time">2025-12-12 06:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis" target="_blank">Tomb Raider announces two new games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-12 03:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792627&w=600" alt="Modern Blueprint for Privacy-First AI/ML Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/modern-blueprint-for-privacy-first-aiml-systems" target="_blank">Modern Blueprint for Privacy-First AI/ML Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,20 +220,20 @@
                 <span class="time">2025-12-12 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aniruddhaadak/smart-task-management-api-ai-driven-productivity-backend-with-xano-4ioi" target="_blank">Smart Task Management API: AI-Driven Productivity Backend with Xano</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-12 08:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/building-trustworthy-ai-agents.html" target="_blank">Building Trustworthy AI Agents</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-12 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -233,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Samsung-Galaxy-Watch-8-Classic-2025-1280x853.jpg" alt="Galaxy Watch 8 Classic Returns to All-Time Low as Samsung Rolls Out Another Surprise Clearance on Its Smartwatch Before Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/galaxy-watch-8-classic-returns-to-all-time-low-as-samsung-rolls-out-another-surprise-clearance-on-its-smartwatch-before-christmas-2000652757" target="_blank">Galaxy Watch 8 Classic Returns to All-Time Low as Samsung Rolls Out Another Surprise Clearance on Its Smartwatch Before Christmas</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-12 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/jlab-epic-pods-anc-5-1280x853.jpg" alt="JLab Epic Pods ANC Review: A Battery Beast if There Ever Was One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jlab-epic-pods-anc-review-wireless-earbuds-if-you-want-long-battery-life-2000697961" target="_blank">JLab Epic Pods ANC Review: A Battery Beast if There Ever Was One</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/image-27.jpg" alt="Everything We Saw At The 2025 Game Awards" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +300,6 @@
                 <span class="title"><a href="https://gizmodo.com/star-wars-fate-of-the-old-republic-announcement-trailer-game-awards-2000698818" target="_blank">The Old Republic Returns to ‘Star Wars’ Video Games</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-12 01:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-EKATERINA-MESILOVA-Shutterstock.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Apple Watch survives a year and a half in a Finnish lake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/11/apple-watch-survives-a-year-and-a-half-in-a-finnish-lake.html" target="_blank">Apple Watch survives a year and a half in a Finnish lake</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-11 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/doctor-who-2025-retrospective-1280x853.jpg" alt="‘Doctor Who’ and the Disintegration of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/doctor-who-2025-retrospective-disney-bbc-2000698641" target="_blank">‘Doctor Who’ and the Disintegration of 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-11 22:45</span>
             </div>
         </div>
 </div>
@@ -324,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 13:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
