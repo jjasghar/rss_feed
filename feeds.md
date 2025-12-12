@@ -1,31 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 08:02:22 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-12 09:03:21 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,9 +58,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/12/kilmar-abrego-garcia-freed-from-us-immigration-detention-returns-home?traffic_source=rss" target="_blank">Kilmar Abrego Garcia freed from US immigration detention, returns home</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-12 08:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/12/verdict-in-hong-kong-media-tycoon-jimmy-lais-trial-due-next-week?traffic_source=rss" target="_blank">Verdict in Hong Kong media tycoon Jimmy Lai’s trial due next week</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-12 07:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/kristi-noem-gty-jt-251211_1765490485389_hpMain_4x3t_384.jpg" alt="Noem confronted about veteran in contentious hearing over deportations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/dhs-secretary-kristi-noem-confronted-veteran-contentious-hearing/story?id=128325824" target="_blank">Noem confronted about veteran in contentious hearing over deportations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-12 07:13</span>
             </div>
         </div>
 <div class="story">
@@ -77,29 +108,20 @@
                 <span class="time">2025-12-12 02:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/seized-tanker-ht-jef-251211_1765472162116_hpMain_4x3t_384.jpg" alt="Satellite images suggest seized tanker manipulated its location data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/satellite-imagessuggestseized-tanker-deliberately-manipulated-location-data/story?id=128313185" target="_blank">Satellite images suggest seized tanker manipulated its location data</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-12 00:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/11/nx-s1-5640769/trump-charlie-brown-golden-globes-social-media-news-quiz" target="_blank">You know what&#x27;s definitely not a &#x27;hoax&#x27;? Our news quiz. Give it a go</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-11 23:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="B&amp;H Photo Promo Codes and Deals for December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bh-photo-coupon/" target="_blank">B&amp;H Photo Promo Codes and Deals for December 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-12 06:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +167,29 @@
                 <span class="time">2025-12-12 00:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Runway-GWM-Worlds-500x500.jpg" alt="Runway claims its GWM-1 “world models” can stay coherent for minutes at a time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/12/with-gwm-1-family-of-world-models-runway-shows-ambitions-beyond-hollywood/" target="_blank">Runway claims its GWM-1 “world models” can stay coherent for minutes at a time</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-11 23:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/podcasts/humane-engineering-organizations/en/smallimage/engineering-culture-podcast-thumbnail-1765198755942.jpg" alt="Podcast: Leading from Any Position: Richard Bown on Humane Engineering Organizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/humane-engineering-organizations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Leading from Any Position: Richard Bown on Humane Engineering Organizations</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-12 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aniruddhaadak/smart-task-management-api-ai-driven-productivity-backend-with-xano-4ioi" target="_blank">Smart Task Management API: AI-Driven Productivity Backend with Xano</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-12 08:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +224,6 @@
                 <span class="title"><a href="https://dev.to/joente/schema-first-approach-with-thingsdb-407p" target="_blank">Schema-First Approach with ThingsDB</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-12 06:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkns9ei0fndvl8sus6n7.png" alt="Dec 12, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alibaba_tongyi_lab_25ad9f/dec-12-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-375c" target="_blank">Dec 12, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-12 05:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-2n9c" target="_blank">Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-12 04:53</span>
             </div>
         </div>
 </div>
@@ -292,6 +305,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/12/i-m-hatin-it" target="_blank">I&#x27;m Hatin&#x27; It!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-12 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5721.png" alt="QC Rerun Time 2025 #5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -314,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
