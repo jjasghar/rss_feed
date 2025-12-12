@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 14:02:24 UTC -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-12-12 15:01:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abrego-garcia-1-gty-gmh-251212_1765546628924_hpMain_4x3t_384.jpg" alt="Federal judge blocks government from detaining Kilmar Abrego Garcia after release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/federal-judge-blocks-government-detaining-kilmar-abrego-garcia/story?id=128339058" target="_blank">Federal judge blocks government from detaining Kilmar Abrego Garcia after release</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-12 14:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/12/nx-s1-5604684/if-the-holidays-are-stressing-you-out-remember-everything-is-optional" target="_blank">If the holidays are stressing you out, remember: everything is optional</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-12 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/12/refugees-describe-neighbours-killed-as-m23-cements-control-of-key-drc-city?traffic_source=rss" target="_blank">Refugees describe neighbours killed as M23 cements control of key DRC city</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-12 14:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9a/live/a36511e0-d754-11f0-9fb5-5f3a3703a365.png" alt="Man guilty of wife&#x27;s murder after child reveals plot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +100,29 @@
                 <span class="time">2025-12-12 13:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9023/live/e3bec6b0-d758-11f0-845f-035d2c9c25f7.jpg" alt="Germany accuses Russia of 2024 cyber-attack and disinformation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS&at_campaign=rss" target="_blank">Germany accuses Russia of 2024 cyber-attack and disinformation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-12 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/12/uk-sanctions-four-rsf-commanders-heinous-violence-against-sudan-civilians" target="_blank">UK puts sanctions on four RSF commanders for ‘heinous’ violence against Sudan civilians</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-12 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/12/israel-bombards-areas-across-southern-lebanon-in-latest-truce-violation?traffic_source=rss" target="_blank">Israel bombards areas across southern Lebanon in latest truce violation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-12 11:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/843420/optimizer-fitness-ai-coaching-plans-quitting-runna-peloton-iq-fitbit-ai" target="_blank">I quit all my AI fitness plans, and I feel free</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/12/zevo-wants-to-add-robotaxis-to-its-car-share-fleet-starting-with-newcomer-tensor/" target="_blank">Zevo wants to add robotaxis to its car-share fleet, starting with newcomer Tensor</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-12 14:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +159,20 @@
                 <span class="time">2025-12-12 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Neutron-Hungry-Hippo-500x500.jpg" alt="Rocket Report: Neutron’s Hungry Hippo is deemed ready, Whither Orbex?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/12/rocket-report-neutrons-hungry-hippo-is-deemed-ready-whither-orbex/" target="_blank">Rocket Report: Neutron’s Hungry Hippo is deemed ready, Whither Orbex?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-12 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter" target="_blank">My defense of a $40 cable paperweight – I’m sorry</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-12 11:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ribhavmodi/blockchain-for-non-technical-people-breaking-down-the-basics-585d" target="_blank">Blockchain for Non-Technical People: Breaking Down the Basics</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-12 14:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/12/nuqs-react-advanced/en/headerimage/generatedHeaderImage-1765317144977.jpg" alt="React Advanced 2025: Type Safe URL State Management Takes Center Stage with Nuqs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +218,6 @@
                 <span class="time">2025-12-12 10:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyari6u1amgx6tv7ay15.png" alt="Embed HTML into Word Documents with docx.js the Easy Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jsstampede/embed-html-into-word-documents-with-docxjs-the-easy-way-2n6a" target="_blank">Embed HTML into Word Documents with docx.js the Easy Way</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-12 09:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/shutterstock_2424733147.jpg?fit=1592%2C1037&amp;quality=60&amp;ssl=1" alt="Florida school locked down after AI weapon detector mistakes clarinet for gun" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/12/florida-school-locked-down-after-ai-weapon-detector-identifies-clarinet-as-gun.html" target="_blank">Florida school locked down after AI weapon detector mistakes clarinet for gun</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-12 14:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_1019880574-1280x811.jpg" alt="You Have a Week to Claim Up to $7,500 From AT&amp;T Data Breach Settlements" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +300,6 @@
                 <span class="time">2025-12-12 03:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Street-Fighter.jpg" alt="The Street Fighter Movie Looks Surprisingly Good In Its First Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/street-fighter-movie-trailer-cast-release-date-2000652775" target="_blank">The Street Fighter Movie Looks Surprisingly Good In Its First Trailer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-12 02:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
