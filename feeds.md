@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 10:01:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-12 11:01:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/12/benin-settles-after-failed-coup-attempt-regional-concerns-remain?traffic_source=rss" target="_blank">Benin settles after failed coup attempt, but regional concerns remain</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-12 10:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/12/nx-s1-5642491/thailand-parliament-dissolved-new-elections-2026" target="_blank">Thailand&#x27;s Parliament is dissolved for new elections early next year</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-12 10:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +96,20 @@
                 <span class="time">2025-12-12 05:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48dd/live/9d82e1c0-d719-11f0-aa87-6bb0a76c2b74.jpg" alt="Flu surge a challenge for NHS &#x27;unlike any&#x27; since pandemic, Streeting says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8r30787e76o?at_medium=RSS&at_campaign=rss" target="_blank">Flu surge a challenge for NHS &#x27;unlike any&#x27; since pandemic, Streeting says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-12 05:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/11/nx-s1-5641086/tourists-social-media-screening-changes" target="_blank">What&#x27;s on your TikTok page? U.S. looks to scour tourists&#x27; online profiles</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-12 02:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/674705ece62bfbd1626a1416/master/pass/GettyImages-1293014500.jpg" alt="The Best Meteor Shower of the Year Is Coming—Here’s How to Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-watch-the-geminids-meteor-shower/" target="_blank">The Best Meteor Shower of the Year Is Coming—Here’s How to Watch</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-12 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/693b0b4edc916f073e939337/master/pass/Evolved%20Novelties%20Pleasure%20Puff%20Rabbit%20Vibrator%20top%20art%201222025%20SOURCE%20Lovers.jpg" alt="Evolved Novelties Pleasure Puff Inflatable Rabbit Review: A-Spot Stimulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +155,20 @@
                 <span class="time">2025-12-12 01:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/841817/trump-signs-ai-executive-order-pushing-to-ban-state-laws" target="_blank">Trump signs AI executive order pushing to ban state laws</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-12 01:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhcbvc22t3veyj87l4vqc.png" alt="NFTs Explained Simply – What’s Actually Happening in 2025?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ribhavmodi/nfts-explained-simply-whats-actually-happening-in-2025-k8c" target="_blank">NFTs Explained Simply – What’s Actually Happening in 2025?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-12 10:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyari6u1amgx6tv7ay15.png" alt="Embed HTML into Word Documents with docx.js the Easy Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,15 +212,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/cinnamon-6-6/" target="_blank">Cinnamon 6.6 Release Sets the Tone for the Next Linux Mint Release</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2025-12-12 07:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lucassifoni.info/blog/miniscope-tiny-telescope/" target="_blank">The tiniest yet real telescope I&#x27;ve built</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-12 07:35</span>
             </div>
         </div>
 </div>
@@ -322,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
