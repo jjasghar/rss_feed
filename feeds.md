@@ -1,44 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 09:03:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-12 10:01:45 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 35 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, December 12, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +100,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/693b0b4edc916f073e939337/master/pass/Evolved%20Novelties%20Pleasure%20Puff%20Rabbit%20Vibrator%20top%20art%201222025%20SOURCE%20Lovers.jpg" alt="Evolved Novelties Pleasure Puff Inflatable Rabbit Review: A-Spot Stimulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/evolved-novelties-pleasure-puff-inflatable-rabbit/" target="_blank">Evolved Novelties Pleasure Puff Inflatable Rabbit Review: A-Spot Stimulation</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-12 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="B&amp;H Photo Promo Codes and Deals for December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -158,20 +153,20 @@
                 <span class="time">2025-12-12 01:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6938a0fca494c5f527a31bee/master/pass/Pol_Trump_AI_GettyImages-2250178700.jpg" alt="Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/" target="_blank">Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-12 00:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyari6u1amgx6tv7ay15.png" alt="Embed HTML into Word Documents with docx.js the Easy Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jsstampede/embed-html-into-word-documents-with-docxjs-the-easy-way-2n6a" target="_blank">Embed HTML into Word Documents with docx.js the Easy Way</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-12 09:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/podcasts/humane-engineering-organizations/en/smallimage/engineering-culture-podcast-thumbnail-1765198755942.jpg" alt="Podcast: Leading from Any Position: Richard Bown on Humane Engineering Organizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -215,15 +210,6 @@
                 <span class="title"><a href="https://lucassifoni.info/blog/miniscope-tiny-telescope/" target="_blank">The tiniest yet real telescope I&#x27;ve built</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-12 07:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/joente/schema-first-approach-with-thingsdb-407p" target="_blank">Schema-First Approach with ThingsDB</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-12 06:45</span>
             </div>
         </div>
 </div>
@@ -336,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
