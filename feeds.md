@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 13:08:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-13 14:01:25 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 13:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/13/g-s1-101742/poverty-loan-borrow-refugees-uganda" target="_blank">To &#x27;graduate&#x27; from poverty, they can borrow to build a business. So why aren&#x27;t they?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-13 13:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc2/live/e4293590-d78a-11f0-b0ee-a9375724f730.jpg" alt="Cambodia shuts border crossings with Thailand as fighting continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +104,20 @@
                 <span class="time">2025-12-13 08:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/13/myanmar-military-says-armed-groups-used-hospital-it-bombed-killing-dozens?traffic_source=rss" target="_blank">Myanmar military says armed groups used hospital it bombed, killing dozens</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-13 07:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/840324/sektori-review-pc-ps5-xbox-series-x-s" target="_blank">Sektori is psychedelic, tough as nails, and worth the pain</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6851d8bd6646f689754b80f5/master/pass/Which%20Motorola%20Phone%20Should%20You%20Buy_.png" alt="The Best Motorola Phones (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -108,6 +125,15 @@
                 <span class="title"><a href="https://www.wired.com/story/best-motorola-phones/" target="_blank">The Best Motorola Phones (2025), Tested and Reviewed</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-13 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2227923861-500x500.jpg" alt="Sharks and rays gain landmark protections as nations move to curb international trade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/sharks-and-rays-gain-landmark-protections-as-nations-move-to-curb-international-trade/" target="_blank">Sharks and rays gain landmark protections as nations move to curb international trade</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-13 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -137,29 +163,20 @@
                 <span class="time">2025-12-13 00:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak" target="_blank">The best instant cameras you can buy right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-12 23:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-500x500.jpg" alt="OpenAI built an AI coding agent and uses it to improve the agent itself" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/" target="_blank">OpenAI built an AI coding agent and uses it to improve the agent itself</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-12 22:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fujxt7osj5efk82k6wzcv.png" alt="⚛ MCP Explained: A Simple Guide 📜 to AI 🤖 Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hemant_007/mcp-explained-a-simple-guide-to-ai-agents-3b2l" target="_blank">⚛ MCP Explained: A Simple Guide 📜 to AI 🤖 Agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-13 13:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Yelp Publishes Blueprint for Managing S3 Server-Access Logs at Massive Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -181,6 +198,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Extensions-Block-AI" target="_blank">New Rule Forbids GNOME Shell Extensions Made Using AI Generated Code</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-13 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/yogananda-muthaiah/SAP-CPQ/tree/main/Integrations/CAD-2d-3d" target="_blank">Bookmark for CAD/2d/3D Useful links</a></span>
                 <span class="feed">Hacker News</span>
@@ -194,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/kaustubhyerkade/chaos-engineering-breaking-production-on-purpose-so-it-never-breaks-again-401j" target="_blank">Chaos Engineering: Breaking Production on Purpose (So It Never Breaks Again)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-13 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9znbsvzi3du481dpx916.png" alt="How to build Modern Web Apps: Laravel 12 + InertiaJS + ReactJS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dineshstack/how-to-build-modern-web-apps-laravel-12-inertiajs-reactjs-1c5m" target="_blank">How to build Modern Web Apps: Laravel 12 + InertiaJS + ReactJS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-13 07:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dataformathub/mastering-table-beautification-a-guide-to-clearer-data-presentation-42al" target="_blank">Mastering Table Beautification: A Guide to Clearer Data Presentation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-13 05:54</span>
             </div>
         </div>
 </div>
@@ -233,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/steven-spielberg-disclosure-1280x853.jpg" alt="The Next Steven Spielberg Movie Has a Poster to Disclose" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-next-steven-spielberg-movie-has-something-to-disclose-2000699389" target="_blank">The Next Steven Spielberg Movie Has a Poster to Disclose</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KCA6S1V1VQWR1PS8RBFGTY52/hero-image.jpg" alt="I Tried the New Sunscreen Ingredient the FDA Is Finally Approving After Over 20 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +295,6 @@
                 <span class="time">2025-12-12 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/image-16.jpg" alt="The Okami Account Just Murdered Someone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/okami-game-awards-fable-street-fighter-evangelion-2000653066" target="_blank">The Okami Account Just Murdered Someone</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-12 19:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 13:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
