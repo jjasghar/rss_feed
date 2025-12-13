@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 17:01:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-13 18:02:09 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  U.S. soldiers, interpreter killed during ambush in Syria: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  U.S. soldiers, interpreter killed during ambush in Syria: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-13 17:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/13/g-s1-101742/poverty-loan-borrow-refugees-uganda" target="_blank">To &#x27;graduate&#x27; from poverty, they can borrow to build a business. So why aren&#x27;t they?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-13 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc2/live/e4293590-d78a-11f0-b0ee-a9375724f730.jpg" alt="Cambodia shuts border crossings with Thailand as fighting continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss" target="_blank">Cambodia shuts border crossings with Thailand as fighting continues</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-13 12:48</span>
             </div>
         </div>
 </div>
@@ -166,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yordiverkroost/advent-of-code-2025-waking-up-with-puzzles-flm" target="_blank">Advent of Code 2025: Waking Up With Puzzles</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-13 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.tymscar.com/posts/gleamaoc2025/" target="_blank">I tried Gleam for Advent of Code</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-13 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjifzxi3bb7m8nwt7x0wa.png" alt="Your Office Chair Is Ruining Your Focus (Fix It in 5 Minutes)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,24 +215,6 @@
                 <span class="time">2025-12-13 14:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fujxt7osj5efk82k6wzcv.png" alt="⚛ MCP Explained: A Simple Guide 📜 to AI 🤖 Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hemant_007/mcp-explained-a-simple-guide-to-ai-agents-3b2l" target="_blank">⚛ MCP Explained: A Simple Guide 📜 to AI 🤖 Agents</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-13 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://fractalbits.com/blog/why-we-built-another-object-storage/" target="_blank">We built another object storage</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-13 12:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/cyberpunk-2077-hed-1280x853.jpg" alt="‘Cyberpunk 2077’ Proved a Game Can Change Itself, But Not Its History" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cyberpunk-2077-proved-a-game-can-change-itself-but-not-its-history-2000689506" target="_blank">‘Cyberpunk 2077’ Proved a Game Can Change Itself, But Not Its History</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-13 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/avengers-doomsday-rdj-1280x853.jpg" alt="Our First Look at ‘Avengers: Doomsday’ Might Be Split Into Four Parts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +288,6 @@
                 <span class="time">2025-12-12 23:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Trailer-Screenshots_07-e1765577070162-1280x744.jpg" alt="Everything We Know About Divinity, Larian’s Most Ambitious RPG Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/divinity-larian-trailer-turn-based-rpg-release-date-2000653105" target="_blank">Everything We Know About Divinity, Larian’s Most Ambitious RPG Yet</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-12 22:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
