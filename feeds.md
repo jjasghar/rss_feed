@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 18:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-13 19:01:24 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -80,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-maria-kolesnikova-belarus_7109115.png?20251213173807" alt="Belarus pardons key opposition activist, among 123 prisoners, in exchange for US sanction relief" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/belarus-pardons-key-opposition-figure-among-123-prisoners-in-exchange-for-us-sanction-relief-13482891" target="_blank">Belarus pardons key opposition activist, among 123 prisoners, in exchange for US sanction relief</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-13 14:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -88,20 +99,20 @@
                 <span class="time">2025-12-13 14:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/13/g-s1-101742/poverty-loan-borrow-refugees-uganda" target="_blank">To &#x27;graduate&#x27; from poverty, they can borrow to build a business. So why aren&#x27;t they?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-13 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox" target="_blank">A Kinect for kids is outselling Xbox to become the hot console this holiday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-13 18:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68f2d7b6a36c32fc3730334f/master/pass/16%20Gifts%20for%20People%20Who%20Are%20Perpetually%20Cold.png" alt="18 Gifts for People Who Are Perpetually Cold (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +158,6 @@
                 <span class="time">2025-12-13 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/12/tech-layoffs-2025-list/" target="_blank">A comprehensive list of 2025 tech layoffs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-13 00:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +170,15 @@
                 <span class="title"><a href="https://dev.to/yordiverkroost/advent-of-code-2025-waking-up-with-puzzles-flm" target="_blank">Advent of Code 2025: Waking Up With Puzzles</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-13 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Oracle-bpftune-0.4-1" target="_blank">Oracles Releases Updated &quot;bpftune&quot; For BPF-Based Auto-Tuning Of Linux Systems</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-13 17:27</span>
             </div>
         </div>
 <div class="story">
@@ -204,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-NFS" target="_blank">NFS Lands Initial Support For Directory Delegations In Linux 6.19</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-13 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/inboryn_99399f96579fcd705/aws-lambda-is-dead-for-production-ai-agents-why-2026-demands-kubernetes-4fjm" target="_blank">AWS Lambda Is Dead for Production AI Agents (Why 2026 Demands Kubernetes)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-13 14:47</span>
             </div>
         </div>
 </div>
@@ -307,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 293 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
