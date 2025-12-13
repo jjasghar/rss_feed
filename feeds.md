@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 22:01:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-13 23:01:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 22:01 UTC</div>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/13/nx-s1-5643588/brown-university-shooting" target="_blank">Police respond to active shooting at Brown University, campus officials say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-13 22:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/13/hungary-protesters-demand-pm-viktor-orban-quits-over-child-abuse-cases?traffic_source=rss" target="_blank">Hungarian protesters demand PM Viktor Orban quits over child abuse scandals</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-13 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  U.S. soldiers, interpreter killed during ambush in Syria: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  U.S. soldiers, interpreter killed during ambush in Syria: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-13 17:45</span>
             </div>
         </div>
 </div>
@@ -166,6 +164,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-x86-Platform-Drivers" target="_blank">Exciting Laptop &amp; Gaming Handheld Device Improvements Merged For Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-13 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices" target="_blank">Why Twilio Segment moved from microservices back to a monolith</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-13 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yordiverkroost/advent-of-code-2025-waking-up-with-puzzles-flm" target="_blank">Advent of Code 2025: Waking Up With Puzzles</a></span>
                 <span class="feed">DEV Community</span>
@@ -199,29 +215,20 @@
                 <span class="time">2025-12-13 16:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kinkora.fun/" target="_blank">Show HN: Kinkora – A creative playground for experimenting with video models</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-13 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-NFS" target="_blank">NFS Lands Initial Support For Directory Delegations In Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-13 15:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Street-Fighter-50-Cent-Balrog-1280x854.jpg" alt="The ‘Mortal Kombat’/’Street Fighter’ Pissing Contest Now Includes Their Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-mortal-kombat-street-fighter-pissing-contest-now-includes-their-movies-2000699407" target="_blank">The ‘Mortal Kombat’/’Street Fighter’ Pissing Contest Now Includes Their Movies</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-13 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/11/cyberpunk-2077-hed-1280x853.jpg" alt="‘Cyberpunk 2077’ Proved a Game Can Change Itself, But Not Its History" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,20 +274,20 @@
                 <span class="time">2025-12-12 23:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Universal-Pictures-Grinch-1280x853.jpg" alt="Jim Carrey Wanted to Become the Grinch at All Costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jim-carrey-wanted-to-become-the-grinch-at-all-costs-2000699247" target="_blank">Jim Carrey Wanted to Become the Grinch at All Costs</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-12 23:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1765427186-20251213_edit.png" alt="Saturday Morning Breakfast Cereal - Wolf" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/wolf-4" target="_blank">Saturday Morning Breakfast Cereal - Wolf</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-13 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -295,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
