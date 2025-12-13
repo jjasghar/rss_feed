@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-12 23:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-13 00:04:35 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, December 12, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/12/nx-s1-5642538/machados-escape-from-venezuela" target="_blank">&#x27;She&#x27;s awesome&#x27;: How U.S. veterans helped Venezuela&#x27;s Machado escape</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-12 22:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +104,20 @@
                 <span class="time">2025-12-12 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/12/nx-s1-5642610/doj-voter-data-lawsuits-colorado-hawaii-massachusetts-nevada" target="_blank">The Justice Department has now sued 18 states in an effort to access voter data</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-12 18:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak" target="_blank">The best instant cameras you can buy right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-12 23:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-500x500.jpg" alt="OpenAI built an AI coding agent and uses it to improve the agent itself" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +163,20 @@
                 <span class="time">2025-12-12 20:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Translate-app-500x500-1765571081.jpg" alt="Google Translate expands live translation to all earbuds on Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2025/12/google-translate-learns-slang-and-idioms-expands-live-translation-beyond-pixel-buds/" target="_blank">Google Translate expands live translation to all earbuds on Android</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-12 20:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-rc2" target="_blank">Wine 11.0-rc2 Released With 28 Known Bug Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-12 23:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/12/magika-rust-file-type-detector/en/headerimage/magika-file-type-detector-1765571220970.jpeg" alt="Magika 1.0: Smarter, Faster File Detection with Rust and AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,27 +208,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt" target="_blank">macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-12 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://invoice.secvuln.info/" target="_blank">Security issues with electronic invoices</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-12 20:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18793646&w=600" alt="Zero Trust in CI/CD Pipelines: A Practical DevSecOps Implementation Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/zero-trust-in-cicd-pipelines-implementation-guide" target="_blank">Zero Trust in CI/CD Pipelines: A Practical DevSecOps Implementation Guide</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-12 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzjfsexrfh5f1ut9shw5m.jpg" alt="US AI Policy News Today: Key Updates &amp; Government Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techdecodedly/us-ai-policy-news-today-key-updates-government-actions-1kjp" target="_blank">US AI Policy News Today: Key Updates &amp; Government Actions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-12 19:52</span>
             </div>
         </div>
 </div>
@@ -221,6 +227,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html" target="_blank">Friday Squid Blogging: Giant Squid Eating a Diamondback Squid</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-12 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -235,6 +250,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Universal-Pictures-Grinch-1280x853.jpg" alt="Jim Carrey Wanted to Become the Grinch at All Costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jim-carrey-wanted-to-become-the-grinch-at-all-costs-2000699247" target="_blank">Jim Carrey Wanted to Become the Grinch at All Costs</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-12 23:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Trailer-Screenshots_07-e1765577070162-1280x744.jpg" alt="Everything We Know About Divinity, Larian’s Most Ambitious RPG Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/divinity-larian-trailer-turn-based-rpg-release-date-2000653105" target="_blank">Everything We Know About Divinity, Larian’s Most Ambitious RPG Yet</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-12 22:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/10/A-person-looking-at-Reddit-on-their-phone-1024x683.jpg" alt="Reddit Sues Australia Over Teen Social Media Ban as Other Nations Consider Similar Laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +304,6 @@
                 <span class="time">2025-12-12 18:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/05/365deef373b5ac9df6d3bb00d0339d17-1024x630.jpg" alt="Sam Altman’s Eyeball-Scanning Startup Launches ‘Super App’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sam-altmans-eyeball-scanning-startup-launches-super-app-2000699091" target="_blank">Sam Altman’s Eyeball-Scanning Startup Launches ‘Super App’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-12 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/hp-laptop-2-1280x853.jpg" alt="HP Adds Another 80% Off Laptop as Holiday Clearance Deals Continue on Amazon, Not Listed on Official Site" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hp-adds-another-80-off-laptop-as-holiday-clearance-deals-continue-on-amazon-not-listed-on-official-site-2000651632" target="_blank">HP Adds Another 80% Off Laptop as Holiday Clearance Deals Continue on Amazon, Not Listed on Official Site</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-12 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,6 +328,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/apples.png" alt="Apples" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3180/" target="_blank">Apples</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-12-12 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5721.png" alt="QC Rerun Time 2025 #5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -326,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 299 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 298 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
