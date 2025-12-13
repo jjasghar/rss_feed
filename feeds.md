@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 15:01:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-12-13 16:02:02 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/13/nx-s1-5643532/church-nativity-scenes-protest-ice-immigration-raids" target="_blank">Church Nativity scenes add zip ties and gas masks to protest immigration raids</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-13 15:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a302/live/f9c5f240-d82e-11f0-918f-3dfa4c9e4701.jpg" alt="Belarus frees 123 prisoners as US lifts sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,20 +99,20 @@
                 <span class="time">2025-12-13 11:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb45/live/52898b60-d804-11f0-b67b-690eb873de1b.jpg" alt="King praised for &#x27;powerful&#x27; early cancer detection message" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crl99y91jn0o?at_medium=RSS&at_campaign=rss" target="_blank">King praised for &#x27;powerful&#x27; early cancer detection message</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-13 10:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68f2d7b6a36c32fc3730334f/master/pass/16%20Gifts%20for%20People%20Who%20Are%20Perpetually%20Cold.png" alt="18 Gifts for People Who Are Perpetually Cold (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold-2025/" target="_blank">18 Gifts for People Who Are Perpetually Cold (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-13 14:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +158,6 @@
                 <span class="time">2025-12-13 00:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/809421/holiday-gift-guide-2025" target="_blank">The Verge’s 2025 holiday gift guide</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-13 00:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +179,15 @@
                 <span class="title"><a href="https://dev.to/hemant_007/mcp-explained-a-simple-guide-to-ai-agents-3b2l" target="_blank">⚛ MCP Explained: A Simple Guide 📜 to AI 🤖 Agents</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-13 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://fractalbits.com/blog/why-we-built-another-object-storage/" target="_blank">We built another object storage</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-13 12:29</span>
             </div>
         </div>
 <div class="story">
@@ -204,15 +217,6 @@
                 <span class="time">2025-12-13 11:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/yogananda-muthaiah/SAP-CPQ/tree/main/Integrations/CAD-2d-3d" target="_blank">Bookmark for CAD/2d/3D Useful links</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-13 11:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/avengers-doomsday-rdj-1280x853.jpg" alt="Our First Look at ‘Avengers: Doomsday’ Might Be Split Into Four Parts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/our-first-look-at-avengers-doomsday-might-be-split-into-four-parts-2000699272" target="_blank">Our First Look at ‘Avengers: Doomsday’ Might Be Split Into Four Parts</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-13 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/AI_generated_image_of_Loab_character.jpg?fit=1200%2C1200&amp;quality=60&amp;ssl=1" alt="The AI-generated creature that won&#x27;t go away" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/13/the-ai-generated-creature-that-wont-go-away.html" target="_blank">The AI-generated creature that won&#x27;t go away</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-13 14:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/steven-spielberg-disclosure-1280x853.jpg" alt="The Next Steven Spielberg Movie Has a Poster to Disclose" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +290,6 @@
                 <span class="time">2025-12-12 22:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Why overpay? Get MS Office 2021 for just $40" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/12/why-overpay-get-ms-office-2021-for-just-40.html" target="_blank">Why overpay? Get MS Office 2021 for just $40</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-12 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/10/A-person-looking-at-Reddit-on-their-phone-1024x683.jpg" alt="Reddit Sues Australia Over Teen Social Media Ban as Other Nations Consider Similar Laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/reddit-sues-australia-over-teen-social-media-ban-as-other-nations-consider-similar-laws-2000699275" target="_blank">Reddit Sues Australia Over Teen Social Media Ban as Other Nations Consider Similar Laws</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-12 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
