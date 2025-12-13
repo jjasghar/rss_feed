@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 00:04:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-13 01:29:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +52,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/12/nx-s1-5642538/machados-escape-from-venezuela" target="_blank">&#x27;She&#x27;s awesome&#x27;: How U.S. veterans helped Venezuela&#x27;s Machado escape</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-12 22:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765577529530_now_mtp_clip_ainsley_251212_1920x1080-0uneix.jpg" alt="Noem &amp; Lewandowski ‘pointing fingers’ amid pressure to ramp up immigration enforcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/noem-lewandowski-pointing-fingers-amid-pressure-to-ramp-up-immigration-enforcement-254334021660" target="_blank">Noem &amp; Lewandowski ‘pointing fingers’ amid pressure to ramp up immigration enforcement</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-12 22:12</span>
             </div>
         </div>
 <div class="story">
@@ -93,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss" target="_blank">EU backs indefinite freeze on Russia&#x27;s frozen cash ahead of loan plan for Ukraine</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-12 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251202-donald-trump-vl-427p-be3295.jpg" alt="&#x27;We can&#x27;t be bullied&#x27;: How Trump and the GOP&#x27;s redistricting push in Indiana backfired" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/elections/trump-gop-redistricting-push-indiana-backfired-rcna247832" target="_blank">&#x27;We can&#x27;t be bullied&#x27;: How Trump and the GOP&#x27;s redistricting push in Indiana backfired</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-12 19:00</span>
             </div>
         </div>
 </div>
@@ -171,6 +166,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aniefon_umanah_ac5f21311c/feature-gating-how-we-built-a-freemium-saas-without-duplicating-components-1lo6" target="_blank">Feature Gating: How We Built a Freemium SaaS Without Duplicating Components</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-13 01:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/retire-azure-consumption-commitment-macc-ubuntu-pro" target="_blank">Why you should retire your Microsoft Azure Consumption Commitment (MACC) with Ubuntu Pro</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-12-13 00:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-rc2" target="_blank">Wine 11.0-rc2 Released With 28 Known Bug Fixes</a></span>
                 <span class="feed">Phoronix</span>
@@ -204,24 +217,6 @@
                 <span class="time">2025-12-12 20:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt" target="_blank">macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-12 20:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://invoice.secvuln.info/" target="_blank">Security issues with electronic invoices</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-12 20:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCA6S1V1VQWR1PS8RBFGTY52/hero-image.jpg" alt="I Tried the New Sunscreen Ingredient the FDA Is Finally Approving After Over 20 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/new-sunscreen-ingredient-fda-approved?utm_medium=RSS" target="_blank">I Tried the New Sunscreen Ingredient the FDA Is Finally Approving After Over 20 Years</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-12 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Universal-Pictures-Grinch-1280x853.jpg" alt="Jim Carrey Wanted to Become the Grinch at All Costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +297,6 @@
                 <span class="title"><a href="https://lifehacker.com/home/essential-moving-day-hacks?utm_medium=RSS" target="_blank">10 Hacks for Moving Day That Everyone Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-12 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/mosquito.jpeg?fit=1500%2C994&amp;quality=60&amp;ssl=1" alt="CDC warns travelers of uncurable mosquito-borne virus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/12/cdc-warns-travelers-of-uncurable-mosquito-borne-virus.html" target="_blank">CDC warns travelers of uncurable mosquito-borne virus</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-12 18:13</span>
             </div>
         </div>
 </div>
@@ -350,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 298 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 298 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
