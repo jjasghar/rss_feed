@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 10:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-13 11:01:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb45/live/52898b60-d804-11f0-b67b-690eb873de1b.jpg" alt="King praised for &#x27;powerful&#x27; early cancer detection message" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crl99y91jn0o?at_medium=RSS&at_campaign=rss" target="_blank">King praised for &#x27;powerful&#x27; early cancer detection message</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-13 10:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +100,20 @@
                 <span class="time">2025-12-13 03:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-2-epa-gmh-251212_1765560324178_hpMain_4x3t_384.jpg" alt="Justice Department sues Fulton County for 2020 election records" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/justice-department-sues-fulton-county-2020-election-records/story?id=128361467" target="_blank">Justice Department sues Fulton County for 2020 election records</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-13 03:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/693c709a4c2ccaca15bdaca1/master/pass/How%20to%20Use%20Smart%20Lighting%20Around%20the%20Home%20Reviewer%20Recommendations%20top%20art%20122025%20SOURCE%20Philips%20Hue.jpg" alt="How to Use Smart Lighting Around the Home: Reviewer Recommendations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-use-smart-lighting/" target="_blank">How to Use Smart Lighting Around the Home: Reviewer Recommendations</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-13 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/12/12/riding-onboard-with-rivians-race-to-autonomy/" target="_blank">Riding onboard with Rivian’s race to autonomy</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-12 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/charitydrive2025-500x500.jpg" alt="Reminder: Donate to win swag in our annual Charity Drive sweepstakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-17/" target="_blank">Reminder: Donate to win swag in our annual Charity Drive sweepstakes</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-12 21:35</span>
             </div>
         </div>
 </div>
@@ -330,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
