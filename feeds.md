@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 20:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-13 21:01:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/us-troops-syria-01-gty-jt-251213_1765647583953_hpMain_4x3t_384.jpg" alt="US soldiers, interpreter killed during ambush in Syria: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/us-soldiers-civilian-interpreter-killed-ambush-syria-apparent/story?id=128376036" target="_blank">US soldiers, interpreter killed during ambush in Syria: Officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-13 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/13/alaves-vs-real-madrid-la-liga-team-news-start-time-lineups?traffic_source=rss" target="_blank">Alaves vs Real Madrid: La Liga – team news, start time, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-13 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0168/live/f5f649a0-d84f-11f0-85ce-bd7c5a2bb1fc.jpg" alt="Three Americans killed by IS gunman in Syria, US military says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss" target="_blank">Three Americans killed by IS gunman in Syria, US military says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-13 19:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,39 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7509/live/73cd8aa0-d832-11f0-918f-3dfa4c9e4701.jpg" alt="Andrew will not face police action over bodyguard claim" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss" target="_blank">Israeli claims to have killed senior Hamas commander, Raed Saad, in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-13 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/13/nx-s1-5643532/church-nativity-scenes-protest-ice-immigration-raids" target="_blank">Church Nativity scenes add zip ties and gas masks to protest immigration raids</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-13 15:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a302/live/f9c5f240-d82e-11f0-918f-3dfa4c9e4701.jpg" alt="Belarus frees 123 prisoners as US lifts sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gpwlkklyxo?at_medium=RSS&at_campaign=rss" target="_blank">Belarus frees 123 prisoners as US lifts sanctions</a></span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgr1djewxko?at_medium=RSS&at_campaign=rss" target="_blank">Andrew will not face police action over bodyguard claim</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-12-13 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-maria-kolesnikova-belarus_7109115.png?20251213173807" alt="Belarus pardons key opposition activist, among 123 prisoners, in exchange for US sanction relief" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/belarus-pardons-key-opposition-figure-among-123-prisoners-in-exchange-for-us-sanction-relief-13482891" target="_blank">Belarus pardons key opposition activist, among 123 prisoners, in exchange for US sanction relief</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-13 14:32</span>
+                <span class="time">2025-12-13 15:59</span>
             </div>
         </div>
 </div>
@@ -307,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
