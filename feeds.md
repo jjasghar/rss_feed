@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 14:01:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-13 15:01:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a302/live/f9c5f240-d82e-11f0-918f-3dfa4c9e4701.jpg" alt="Belarus frees 123 prisoners as US lifts sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gpwlkklyxo?at_medium=RSS&at_campaign=rss" target="_blank">Belarus frees 123 prisoners as US lifts sanctions</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-13 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/13/nx-s1-5643517/michigan-football-coach-sherrone-moore-charged-stalking" target="_blank">Fired Michigan football coach charged with home invasion and stalking</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-13 14:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/crl99y91jn0o?at_medium=RSS&at_campaign=rss" target="_blank">King praised for &#x27;powerful&#x27; early cancer detection message</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-13 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250913-kirk-memorial-ch-1600-af820e.jpg" alt="DOJ weighs novel federal hate crime case against suspect in Charlie Kirk&#x27;s assassination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/doj-weighs-novel-federal-hate-crimes-case-charlie-kirks-alleged-killer-rcna248549" target="_blank">DOJ weighs novel federal hate crime case against suspect in Charlie Kirk&#x27;s assassination</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-13 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/13/colombias-eln-rebels-prepare-for-battle-amid-trump-intervention-threat?traffic_source=rss" target="_blank">Colombia’s ELN rebels prepare for battle amid Trump ‘intervention’ threat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-13 08:31</span>
             </div>
         </div>
 </div>
@@ -169,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/inboryn_99399f96579fcd705/aws-lambda-is-dead-for-production-ai-agents-why-2026-demands-kubernetes-4fjm" target="_blank">AWS Lambda Is Dead for Production AI Agents (Why 2026 Demands Kubernetes)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-13 14:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fujxt7osj5efk82k6wzcv.png" alt="⚛ MCP Explained: A Simple Guide 📜 to AI 🤖 Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +211,6 @@
                 <span class="title"><a href="https://github.com/yogananda-muthaiah/SAP-CPQ/tree/main/Integrations/CAD-2d-3d" target="_blank">Bookmark for CAD/2d/3D Useful links</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-13 11:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mqh8621t4nahvq3ku5x.png" alt="Chaos Engineering: Breaking Production on Purpose (So It Never Breaks Again)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kaustubhyerkade/chaos-engineering-breaking-production-on-purpose-so-it-never-breaks-again-401j" target="_blank">Chaos Engineering: Breaking Production on Purpose (So It Never Breaks Again)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-13 10:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
