@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 01:29:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-13 02:30:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bff7/live/2d105240-d7a7-11f0-a8dc-93c15fe68710.jpg" alt="Doctor strike during flu outbreak would be &#x27;beyond belief&#x27;, says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg114jd3gdo?at_medium=RSS&at_campaign=rss" target="_blank">Doctor strike during flu outbreak would be &#x27;beyond belief&#x27;, says Starmer</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-13 02:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +96,29 @@
                 <span class="time">2025-12-12 19:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c2/live/208d5190-d760-11f0-b252-db9838d38426.jpg" alt="EU backs indefinite freeze on Russia&#x27;s frozen cash ahead of loan plan for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss" target="_blank">EU backs indefinite freeze on Russia&#x27;s frozen cash ahead of loan plan for Ukraine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-12 19:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/12/tech-layoffs-2025-list/" target="_blank">A comprehensive list of 2025 tech layoffs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-13 00:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/809421/holiday-gift-guide-2025" target="_blank">The Verge’s 2025 holiday gift guide</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-13 00:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +155,20 @@
                 <span class="time">2025-12-12 21:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/800440/best-gifts-under-100-2025" target="_blank">The Verge’s favorite holiday gifts under $100</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-12 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/843079/best-stocking-stuffers-christmas-ideas-2025" target="_blank">We found 70 stocking stuffers under $100 that are actually useful</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-12 20:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/badmonster0/this-week-in-rust-trending-storage-ai-agents-and-real-world-infra-2af0" target="_blank">This Week in Rust Trending: Storage, AI Agents, and Real‑World Infra</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-13 02:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +212,6 @@
                 <span class="title"><a href="https://unifoundry.com/unifont/index.html" target="_blank">GNU Unifont</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-12 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/" target="_blank">The future of AI-powered software optimization (and how it can help your team)</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-12-12 20:43</span>
             </div>
         </div>
 </div>
@@ -345,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 298 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 297 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
