@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 12:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-13 13:08:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc2/live/e4293590-d78a-11f0-b0ee-a9375724f730.jpg" alt="Cambodia shuts border crossings with Thailand as fighting continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss" target="_blank">Cambodia shuts border crossings with Thailand as fighting continues</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-13 12:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -60,6 +67,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/crl99y91jn0o?at_medium=RSS&at_campaign=rss" target="_blank">King praised for &#x27;powerful&#x27; early cancer detection message</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-13 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250913-kirk-memorial-ch-1600-af820e.jpg" alt="DOJ weighs novel federal hate crime case against suspect in Charlie Kirk&#x27;s assassination" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/doj-weighs-novel-federal-hate-crimes-case-charlie-kirks-alleged-killer-rcna248549" target="_blank">DOJ weighs novel federal hate crime case against suspect in Charlie Kirk&#x27;s assassination</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-13 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +96,20 @@
                 <span class="time">2025-12-13 07:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc2/live/e4293590-d78a-11f0-b0ee-a9375724f730.jpg" alt="Thailand-Cambodia fighting continues after Trump says countries agree to ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss" target="_blank">Thailand-Cambodia fighting continues after Trump says countries agree to ceasefire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-13 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/13/venezuela-oil-exports-fall-steeply-after-us-forces-seize-tanker-off-coast?traffic_source=rss" target="_blank">Venezuela oil exports fall steeply after US forces seize tanker off coast</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-13 05:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6851d8bd6646f689754b80f5/master/pass/Which%20Motorola%20Phone%20Should%20You%20Buy_.png" alt="The Best Motorola Phones (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-motorola-phones/" target="_blank">The Best Motorola Phones (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-13 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/693c709a4c2ccaca15bdaca1/master/pass/How%20to%20Use%20Smart%20Lighting%20Around%20the%20Home%20Reviewer%20Recommendations%20top%20art%20122025%20SOURCE%20Philips%20Hue.jpg" alt="How to Use Smart Lighting Around the Home: Reviewer Recommendations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +153,6 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/" target="_blank">OpenAI built an AI coding agent and uses it to improve the agent itself</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-12-12 22:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/12/riding-onboard-with-rivians-race-to-autonomy/" target="_blank">Riding onboard with Rivian’s race to autonomy</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-12 21:44</span>
             </div>
         </div>
 </div>
@@ -317,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
