@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 03:23:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-12-13 04:04:57 UTC -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 03:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 04:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +167,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/ntfsplus/" target="_blank">What is NTFSPlus and Why Does It Matter for Linux Users?</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-13 03:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rubixvi/custom-auth-in-payload-29ck" target="_blank">Custom auth in Payload</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-13 03:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxncebnkbrdy02pu05w.jpg" alt="Stealth Inline Hook Detection via LR Return Address" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,24 +218,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/retire-azure-consumption-commitment-macc-ubuntu-pro" target="_blank">Why you should retire your Microsoft Azure Consumption Commitment (MACC) with Ubuntu Pro</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2025-12-13 00:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://simonwillison.net/2025/Dec/12/openai-skills/" target="_blank">OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-12 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-rc2" target="_blank">Wine 11.0-rc2 Released With 28 Known Bug Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-12 23:05</span>
             </div>
         </div>
 </div>
@@ -277,6 +276,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Why overpay? Get MS Office 2021 for just $40" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/12/why-overpay-get-ms-office-2021-for-just-40.html" target="_blank">Why overpay? Get MS Office 2021 for just $40</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-12 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/10/A-person-looking-at-Reddit-on-their-phone-1024x683.jpg" alt="Reddit Sues Australia Over Teen Social Media Ban as Other Nations Consider Similar Laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -292,15 +300,6 @@
                 <span class="title"><a href="https://kotaku.com/okami-game-awards-fable-street-fighter-evangelion-2000653066" target="_blank">The Okami Account Just Murdered Someone</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-12 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBJP9KA535XFW3A1TA20WPVE/hero-image.jpg" alt="10 Hacks for Moving Day That Everyone Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/essential-moving-day-hacks?utm_medium=RSS" target="_blank">10 Hacks for Moving Day That Everyone Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-12 18:30</span>
             </div>
         </div>
 </div>
@@ -340,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 297 |
-        🔄 Last Updated: 03:23 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 296 |
+        🔄 Last Updated: 04:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
