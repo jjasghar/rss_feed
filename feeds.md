@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 16:02:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-13 17:01:20 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/13/israel-says-it-hit-key-hamas-member-in-gaza-city?traffic_source=rss" target="_blank">Israeli claims to have killed senior Hamas commander, Raed Saad, in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-13 15:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss" target="_blank">Cambodia shuts border crossings with Thailand as fighting continues</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-13 12:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast" target="_blank">Is The Washington Post&#x27;s new AI podcast a hallmark of the future?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-13 11:01</span>
             </div>
         </div>
 </div>
@@ -164,6 +166,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjifzxi3bb7m8nwt7x0wa.png" alt="Your Office Chair Is Ruining Your Focus (Fix It in 5 Minutes)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jens_r_4ac124fba483a5d950/your-office-chair-is-ruining-your-focus-fix-it-in-5-minutes-4m5" target="_blank">Your Office Chair Is Ruining Your Focus (Fix It in 5 Minutes)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-13 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://kinkora.fun/" target="_blank">Show HN: Kinkora – A creative playground for experimenting with video models</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-13 16:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-NFS" target="_blank">NFS Lands Initial Support For Directory Delegations In Linux 6.19</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-13 15:13</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -188,33 +217,6 @@
                 <span class="title"><a href="https://fractalbits.com/blog/why-we-built-another-object-storage/" target="_blank">We built another object storage</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-13 12:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Yelp Publishes Blueprint for Managing S3 Server-Access Logs at Massive Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/yelp-s3-server-access-logs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Yelp Publishes Blueprint for Managing S3 Server-Access Logs at Massive Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-13 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nitinnair89/fixing-unwanted-re-renders-in-a-nested-component-tree-using-react-context-528g" target="_blank">Fixing Unwanted Re-renders in a Nested Component Tree Using React Context</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-13 11:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Extensions-Block-AI" target="_blank">New Rule Forbids GNOME Shell Extensions Made Using AI Generated Code</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-13 11:41</span>
             </div>
         </div>
 </div>
@@ -304,22 +306,13 @@
                 <span class="time">2025-12-13 05:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1765427032-20251212_edit.png" alt="Saturday Morning Breakfast Cereal - Turkin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/turkin" target="_blank">Saturday Morning Breakfast Cereal - Turkin</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-12 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
