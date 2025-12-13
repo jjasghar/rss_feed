@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 07:02:10 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-13 08:02:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/13/myanmar-military-says-armed-groups-used-hospital-it-bombed-killing-dozens?traffic_source=rss" target="_blank">Myanmar military says armed groups used hospital it bombed, killing dozens</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-13 07:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc2/live/e4293590-d78a-11f0-b0ee-a9375724f730.jpg" alt="Thailand-Cambodia fighting continues after Trump says countries agree to ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss" target="_blank">Thailand-Cambodia fighting continues after Trump says countries agree to ceasefire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-13 07:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +99,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/dec/13/us-accuses-rwanda-of-violating-peace-deal" target="_blank">US scolds Rwanda for breaking peace deal as M23 rebels seize key Congo city</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-12-13 02:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bff7/live/2d105240-d7a7-11f0-a8dc-93c15fe68710.jpg" alt="Doctor strike during flu outbreak would be &#x27;reckless&#x27;, says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg114jd3gdo?at_medium=RSS&at_campaign=rss" target="_blank">Doctor strike during flu outbreak would be &#x27;reckless&#x27;, says Starmer</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-13 02:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bff7/live/2d105240-d7a7-11f0-a8dc-93c15fe68710.jpg" alt="Doctor strike during flu outbreak would be &#x27;beyond belief&#x27;, says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg114jd3gdo?at_medium=RSS&at_campaign=rss" target="_blank">Doctor strike during flu outbreak would be &#x27;beyond belief&#x27;, says Starmer</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-13 02:20</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9znbsvzi3du481dpx916.png" alt="How to build Modern Web Apps: Laravel 12 + InertiaJS + ReactJS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dineshstack/how-to-build-modern-web-apps-laravel-12-inertiajs-reactjs-1c5m" target="_blank">How to build Modern Web Apps: Laravel 12 + InertiaJS + ReactJS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-13 07:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/jack_sparrow_2386c07e8b94/stealth-inline-hook-detection-via-lr-return-address-52c5" target="_blank">Stealth Inline Hook Detection via LR Return Address</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-13 03:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/badmonster0/this-week-in-rust-trending-storage-ai-agents-and-real-world-infra-2af0" target="_blank">This Week in Rust Trending: Storage, AI Agents, and Real‑World Infra</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-13 02:13</span>
             </div>
         </div>
 </div>
@@ -308,6 +307,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/13/i-m-hatin-it" target="_blank">I&#x27;m Hatin&#x27; It</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-13 05:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1765427032-20251212_edit.png" alt="Saturday Morning Breakfast Cereal - Turkin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -316,22 +324,13 @@
                 <span class="time">2025-12-12 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/12/i-m-hatin-it" target="_blank">I&#x27;m Hatin&#x27; It!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-12 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
