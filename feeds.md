@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 04:04:57 UTC -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-12-13 05:01:43 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 04:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/13/russia-damages-turkish-owned-vessels-in-attack-on-ukrainian-ports?traffic_source=rss" target="_blank">Russia damages Turkish-owned vessels in attack on Ukrainian ports</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-13 03:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-2-epa-gmh-251212_1765560324178_hpMain_4x3t_384.jpg" alt="Justice Department sues Fulton County for 2020 election records" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bff7/live/2d105240-d7a7-11f0-a8dc-93c15fe68710.jpg" alt="Doctor strike during flu outbreak would be &#x27;reckless&#x27;, says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg114jd3gdo?at_medium=RSS&at_campaign=rss" target="_blank">Doctor strike during flu outbreak would be &#x27;reckless&#x27;, says Starmer</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-13 02:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bff7/live/2d105240-d7a7-11f0-a8dc-93c15fe68710.jpg" alt="Doctor strike during flu outbreak would be &#x27;beyond belief&#x27;, says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -82,24 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/12/nx-s1-5642538/machados-escape-from-venezuela" target="_blank">&#x27;She&#x27;s awesome&#x27;: How U.S. veterans helped Venezuela&#x27;s Machado escape</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-12 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765577529530_now_mtp_clip_ainsley_251212_1920x1080-0uneix.jpg" alt="Noem &amp; Lewandowski ‘pointing fingers’ amid pressure to ramp up immigration enforcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/noem-lewandowski-pointing-fingers-amid-pressure-to-ramp-up-immigration-enforcement-254334021660" target="_blank">Noem &amp; Lewandowski ‘pointing fingers’ amid pressure to ramp up immigration enforcement</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-12 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/12/mexicos-aerospace-sector-is-growing-will-it-be-undercut-in-usmca-review?traffic_source=rss" target="_blank">Mexico’s aerospace sector is growing. Will it be undercut in USMCA review?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-12 21:12</span>
             </div>
         </div>
 </div>
@@ -167,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Folsrhuh636thk4ihyt3w.jpg" alt="Google Cloud Options for Storing Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sachindra149/google-cloud-options-for-storing-data-1bh0" target="_blank">Google Cloud Options for Storing Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-13 04:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -209,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/aniefon_umanah_ac5f21311c/feature-gating-how-we-built-a-freemium-saas-without-duplicating-components-1lo6" target="_blank">Feature Gating: How We Built a Freemium SaaS Without Duplicating Components</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-13 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/retire-azure-consumption-commitment-macc-ubuntu-pro" target="_blank">Why you should retire your Microsoft Azure Consumption Commitment (MACC) with Ubuntu Pro</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-12-13 00:07</span>
             </div>
         </div>
 </div>
@@ -325,22 +319,13 @@
                 <span class="time">2025-12-12 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/apples.png" alt="Apples" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3180/" target="_blank">Apples</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-12-12 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 296 |
-        🔄 Last Updated: 04:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
