@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 11:01:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-13 12:02:26 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, December 13, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast" target="_blank">Is The Washington Post&#x27;s new AI podcast a hallmark of the future?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-13 11:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb45/live/52898b60-d804-11f0-b67b-690eb873de1b.jpg" alt="King praised for &#x27;powerful&#x27; early cancer detection message" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/13/venezuela-oil-exports-fall-steeply-after-us-forces-seize-tanker-off-coast?traffic_source=rss" target="_blank">Venezuela oil exports fall steeply after US forces seize tanker off coast</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-13 05:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/13/russia-damages-turkish-owned-vessels-in-attack-on-ukrainian-ports?traffic_source=rss" target="_blank">Russia damages Turkish-owned vessels in attack on Ukrainian ports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-13 03:34</span>
             </div>
         </div>
 </div>
@@ -165,6 +163,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Yelp Publishes Blueprint for Managing S3 Server-Access Logs at Massive Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/yelp-s3-server-access-logs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Yelp Publishes Blueprint for Managing S3 Server-Access Logs at Massive Scale</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nitinnair89/fixing-unwanted-re-renders-in-a-nested-component-tree-using-react-context-528g" target="_blank">Fixing Unwanted Re-renders in a Nested Component Tree Using React Context</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-13 11:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/yogananda-muthaiah/SAP-CPQ/tree/main/Integrations/CAD-2d-3d" target="_blank">Bookmark for CAD/2d/3D Useful links</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-13 11:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mqh8621t4nahvq3ku5x.png" alt="Chaos Engineering: Breaking Production on Purpose (So It Never Breaks Again)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -191,33 +216,6 @@
                 <span class="time">2025-12-13 05:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Folsrhuh636thk4ihyt3w.jpg" alt="Google Cloud Options for Storing Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sachindra149/google-cloud-options-for-storing-data-1bh0" target="_blank">Google Cloud Options for Storing Data</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-13 04:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/ntfsplus/" target="_blank">What is NTFSPlus and Why Does It Matter for Linux Users?</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-13 03:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rubixvi/custom-auth-in-payload-29ck" target="_blank">Custom auth in Payload</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-13 03:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,15 +228,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html" target="_blank">Friday Squid Blogging: Giant Squid Eating a Diamondback Squid</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-12-12 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/building-trustworthy-ai-agents.html" target="_blank">Building Trustworthy AI Agents</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-12 12:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
