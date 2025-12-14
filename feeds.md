@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 04:13:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-14 05:02:08 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 04:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/providence-suspect_1765685078752_hpMain_4x3t_384.jpg" alt="Brown University shooting: Police release video of &#x27;person of interest&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/brown-university-active-shooter-reported-campus/story?id=128379676" target="_blank">Brown University shooting: Police release video of &#x27;person of interest&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-14 04:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/13/brown-university-in-us-reports-active-shooter-situation-on-campus?traffic_source=rss" target="_blank">Brown University reports two dead, eight injured in US school shooting</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-13 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/13/nx-s1-5643588/brown-university-shooting" target="_blank">2 killed and 8 injured in Brown University shooting, no suspect in custody</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-13 22:41</span>
             </div>
         </div>
 </div>
@@ -162,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/crisiscoresystems/start-here-paintracker-crisiscore-build-log-privacy-first-offline-first-no-surveillance-3h0k" target="_blank">Start Here: PainTracker + CrisisCore Build Log (Privacy-First, Offline-First, No Surveillance)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-14 04:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-list-comprehensions-and-their-hidden-complexity-1h5c" target="_blank">Python by Structure: List Comprehensions and Their Hidden Complexity</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-14 04:07</span>
@@ -201,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-x86-Platform-Drivers" target="_blank">Exciting Laptop &amp; Gaming Handheld Device Improvements Merged For Linux 6.19</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-13 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices" target="_blank">Why Twilio Segment moved from microservices back to a monolith</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-13 20:30</span>
             </div>
         </div>
 </div>
@@ -290,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 04:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
