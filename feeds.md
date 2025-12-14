@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-13 23:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-14 00:05:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, December 13, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  At least 2 dead, 8 injured in Brown University shooting, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  At least 2 dead, 8 injured in Brown University shooting, officials say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-13 23:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +92,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss" target="_blank">Three Americans killed by IS gunman in Syria, US military says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-13 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/13/hungary-protesters-demand-pm-viktor-orban-quits-over-child-abuse-cases?traffic_source=rss" target="_blank">Hungarian protesters demand PM Viktor Orban quits over child abuse scandals</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-13 19:19</span>
             </div>
         </div>
 </div>
@@ -164,6 +161,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://fil-c.org/seccomp" target="_blank">Linux Sandboxes and Fil-C</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-13 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-x86-Platform-Drivers" target="_blank">Exciting Laptop &amp; Gaming Handheld Device Improvements Merged For Linux 6.19</a></span>
                 <span class="feed">Phoronix</span>
@@ -204,15 +210,6 @@
                 <span class="title"><a href="https://blog.tymscar.com/posts/gleamaoc2025/" target="_blank">I tried Gleam for Advent of Code</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-13 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjifzxi3bb7m8nwt7x0wa.png" alt="Your Office Chair Is Ruining Your Focus (Fix It in 5 Minutes)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jens_r_4ac124fba483a5d950/your-office-chair-is-ruining-your-focus-fix-it-in-5-minutes-4m5" target="_blank">Your Office Chair Is Ruining Your Focus (Fix It in 5 Minutes)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-13 16:42</span>
             </div>
         </div>
 </div>
@@ -265,15 +262,6 @@
                 <span class="time">2025-12-13 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCA6S1V1VQWR1PS8RBFGTY52/hero-image.jpg" alt="I Tried the New Sunscreen Ingredient the FDA Is Finally Approving After Over 20 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/new-sunscreen-ingredient-fda-approved?utm_medium=RSS" target="_blank">I Tried the New Sunscreen Ingredient the FDA Is Finally Approving After Over 20 Years</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-12 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
