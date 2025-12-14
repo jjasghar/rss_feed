@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 21:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-14 22:01:52 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +46,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/14/france-calls-to-delay-vote-on-eu-mercosur-trade-deal?traffic_source=rss" target="_blank">France calls to delay vote on EU-Mercosur trade deal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-14 21:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/suspect-main_1765714270978_hpMain_4x3t_384.jpg" alt="Person of interest detained after fatal Brown University shooting, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/person-interest-custody-after-brown-university-shooting-official/story?id=128388923" target="_blank">Person of interest detained after fatal Brown University shooting, official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-14 21:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ad/live/05ca48a0-d91c-11f0-9ed5-012fa69819f6.jpg" alt="UK events remember Bondi victims as police step up security in Jewish communities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c8e95gkl5r3o?at_medium=RSS&at_campaign=rss" target="_blank">UK events remember Bondi victims as police step up security in Jewish communities</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-14 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765739142406_f_mo_policechief_suspect_confident_251214_1920x1080-m86q0s.jpg" alt="Officials hope to bring forth charges in Brown University shooting soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/officials-hope-to-bring-forth-charges-in-brown-university-shooting-soon-254400069693" target="_blank">Officials hope to bring forth charges in Brown University shooting soon</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-14 19:05</span>
             </div>
         </div>
 <div class="story">
@@ -65,33 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/upfront/2025/12/14/why-the-us-is-targeting-venezuela?traffic_source=rss" target="_blank">Why the US is targeting Venezuela</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-14 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/education/2025/dec/14/ghana-students-uk-universities-face-deportion-funding-crisis" target="_blank">Ghanaian students at UK universities face deportation amid funding crisis</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-14 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8619/live/67c5ed10-d8ff-11f0-a913-a51839a280a3.jpg" alt="King &#x27;appalled and saddened&#x27; by Bondi attack on Jewish community" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8e95gkl5r3o?at_medium=RSS&at_campaign=rss" target="_blank">King &#x27;appalled and saddened&#x27; by Bondi attack on Jewish community</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-14 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-nicole-johnston-bondi_7110017.jpg?20251214155147" alt="Photographer &#x27;locked eyes&#x27; with gunman, as witness describes Bondi &#x27;warzone&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/photographer-locked-eyes-with-gunman-as-witness-describes-bondi-warzone-13483330" target="_blank">Photographer &#x27;locked eyes&#x27; with gunman, as witness describes Bondi &#x27;warzone&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-14 15:34</span>
             </div>
         </div>
 </div>
@@ -232,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/ParanormalActivity-1280x853.jpg" alt="The New ‘Paranormal Activity’ May Have Already Found Its Director" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-new-paranormal-activity-may-have-already-found-its-director-2000699521" target="_blank">The New ‘Paranormal Activity’ May Have Already Found Its Director</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-14 21:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/PixelFold.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Pixel 10 Pro Fold replaces laptop for digital nomad productivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -276,15 +290,6 @@
                 <span class="time">2025-12-14 16:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Scarlett-Johansson-Black-Widow-1280x853.jpg" alt="‘The Batman Part II’ May Have Scarlett Johansson For a Killer Role" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-batman-part-ii-may-have-scarlett-johansson-for-a-killer-role-2000699523" target="_blank">‘The Batman Part II’ May Have Scarlett Johansson For a Killer Role</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-14 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 286 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 286 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
