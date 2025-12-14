@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 17:01:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-14 18:02:17 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -63,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-nicole-johnston-bondi_7110017.jpg?20251214155147" alt="Photographer &#x27;locked eyes&#x27; with gunman, as witness describes Bondi &#x27;warzone&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/photographer-locked-eyes-with-gunman-as-witness-describes-bondi-warzone-13483330" target="_blank">Photographer &#x27;locked eyes&#x27; with gunman, as witness describes Bondi &#x27;warzone&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-14 15:34</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -89,20 +104,20 @@
                 <span class="time">2025-12-14 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765717804782_nbc_spec_bondi_shooter_disarmed_251214_1920x1080-px86lh.jpg" alt="Video appears to show moment Bondi Beach shooter is disarmed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/video-appears-to-show-moment-bondi-beach-shooter-is-disarmed-254384709819" target="_blank">Video appears to show moment Bondi Beach shooter is disarmed</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-14 13:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/14/making-sense-of-the-risky-netflix-warner-bros-deal/" target="_blank">Making sense of the risky Netflix-Warner Bros. deal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-14 17:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +163,29 @@
                 <span class="time">2025-12-14 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/843883/ai-image-generators-better-worse" target="_blank">AI image generators are getting better by getting worse</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-14 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgzx2d0dizkzrftajnsvy.png" alt="A story on Frontend Architectures - Everyone deserves a BFF!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/purnez/a-story-on-frontend-architectures-everyone-deserves-a-bff-k27" target="_blank">A story on Frontend Architectures - Everyone deserves a BFF!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-14 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://borretti.me/article/hashcards-plain-text-spaced-repetition" target="_blank">Hashcards: A Plain-Text Spaced Repetition System</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-14 16:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,29 +222,20 @@
                 <span class="time">2025-12-14 11:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arrebol/combining-python-and-surveying-engineering-lji" target="_blank">Combining Python and Surveying Engineering</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-14 07:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/crisiscoresystems/start-here-paintracker-crisiscore-build-log-privacy-first-offline-first-no-surveillance-3h0k" target="_blank">Start Here: PainTracker + CrisisCore Build Log (Privacy-First, Offline-First, No Surveillance)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-14 04:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/it-welcome-to-derry_fire-1280x853.jpg" alt="The Two ‘It’ Movies May Finally Get Their Extended Cut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-two-it-movies-may-finally-get-their-extended-cut-2000699293" target="_blank">The Two ‘It’ Movies May Finally Get Their Extended Cut</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-14 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/Xbox-Series-X-1280x853.jpg" alt="Xbox Series X Enters Holiday Clearance Mode After Skipping Black Friday Discounts, Includes a Wireless Controller" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +281,6 @@
                 <span class="time">2025-12-14 00:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Street-Fighter-50-Cent-Balrog-1280x854.jpg" alt="The ‘Mortal Kombat’/’Street Fighter’ Pissing Contest Now Includes Their Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-mortal-kombat-street-fighter-pissing-contest-now-includes-their-movies-2000699407" target="_blank">The ‘Mortal Kombat’/’Street Fighter’ Pissing Contest Now Includes Their Movies</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-13 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
