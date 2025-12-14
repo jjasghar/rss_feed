@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 20:01:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-14 21:01:29 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ad/live/05ca48a0-d91c-11f0-9ed5-012fa69819f6.jpg" alt="UK events remember Bondi victims as police step up security in Jewish communities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8e95gkl5r3o?at_medium=RSS&at_campaign=rss" target="_blank">UK events remember Bondi victims as police step up security in Jewish communities</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-14 20:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ad/live/05ca48a0-d91c-11f0-9ed5-012fa69819f6.jpg" alt="Vigil remembers Bondi victims as police step up security in Jewish communities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +92,6 @@
                 <span class="title"><a href="https://news.sky.com/story/photographer-locked-eyes-with-gunman-as-witness-describes-bondi-warzone-13483330" target="_blank">Photographer &#x27;locked eyes&#x27; with gunman, as witness describes Bondi &#x27;warzone&#x27;</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-12-14 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/14/person-of-interest-held-in-hunt-for-gunman-who-killed-2-at-brown-university?traffic_source=rss" target="_blank">Person of interest held in hunt for gunman who killed 2 at Brown University</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-14 15:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +232,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/PixelFold.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Pixel 10 Pro Fold replaces laptop for digital nomad productivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/14/pixel-10-pro-fold-replaces-laptop-for-digital-nomad-productivity.html" target="_blank">Pixel 10 Pro Fold replaces laptop for digital nomad productivity</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-14 20:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/star-wars-fate-of-the-old-republic-jedi-1280x853.jpg" alt="‘Fate of the Republic’ Will (Probably?) Be Out Before Decade’s End" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -281,15 +285,6 @@
                 <span class="time">2025-12-14 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/DJIFly-1280x853.jpg" alt="DJI Pushes a Final Clear Out on Mini Drones, the Mini 5 Pro Fly More Combo Plus With RC 2 Hits an All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dji-pushes-a-final-clear-out-on-mini-drones-the-mini-5-pro-fly-more-combo-plus-with-rc-2-hits-an-all-time-low-2000651839" target="_blank">DJI Pushes a Final Clear Out on Mini Drones, the Mini 5 Pro Fly More Combo Plus With RC 2 Hits an All-Time Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-14 14:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 286 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
