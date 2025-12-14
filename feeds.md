@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 10:01:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-14 11:01:51 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,10 +47,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/14/g-s1-102218/us-envoys-arrive-in-berlin-for-more-ukraine-peace-talks" target="_blank">US envoys arrive in Berlin for latest round of Ukraine peace talks with Zelenskyy</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-14 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/14/hamas-confirms-killing-of-senior-commander-in-israeli-strike-in-gaza?traffic_source=rss" target="_blank">Hamas confirms killing of senior commander in Israeli strike in Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-14 08:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-bondi-beach-shooting_7109653.jpg?20251214103140" alt="Nine people killed in shooting at Bondi Beach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/police-responding-to-developing-incident-at-bondi-beach-after-reports-of-multiple-shots-13483172" target="_blank">Nine people killed in shooting at Bondi Beach</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-14 08:09</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +98,20 @@
                 <span class="time">2025-12-14 05:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765689962245_now_brk_video_released_person_of_interest_251213_1920x1080-htc8t1.jpg" alt="Police release video of possible Brown University shooter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/police-release-video-of-possible-brown-university-shooter-254378565872" target="_blank">Police release video of possible Brown University shooter</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-14 05:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/providence-suspect_1765685078752_hpMain_4x3t_384.jpg" alt="Brown University shooting: Police release video of &#x27;person of interest&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/brown-university-active-shooter-reported-campus/story?id=128379676" target="_blank">Brown University shooting: Police release video of &#x27;person of interest&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-14 04:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/693c7420d9838445ae310cf3/master/pass/How-Can-We-Find-Exoplanets-Science-1237974418.jpg" alt="How Do Astronomers Find Planets in Other Solar Systems?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-do-astronomers-find-planets-in-other-solar-systems/" target="_blank">How Do Astronomers Find Planets in Other Solar Systems?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-14 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6939c5d226aba4e587cd6108/master/pass/Alpine_A390GT-BleuAlpineVision%C2%A9ThomasCortesi-CetadiProd-6.jpg" alt="Alpine A390 Review: Price, Specs, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/840324/sektori-review-pc-ps5-xbox-series-x-s" target="_blank">Sektori is psychedelic, tough as nails, and worth the pain</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6851d8bd6646f689754b80f5/master/pass/Which%20Motorola%20Phone%20Should%20You%20Buy_.png" alt="The Best Motorola Phones (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-motorola-phones/" target="_blank">The Best Motorola Phones (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-13 13:00</span>
             </div>
         </div>
 </div>
@@ -294,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
