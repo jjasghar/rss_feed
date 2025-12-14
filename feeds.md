@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 16:02:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-14 17:01:45 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/education/2025/dec/14/ghana-students-uk-universities-face-deportion-funding-crisis" target="_blank">Ghanaian students at UK universities face deportation amid funding crisis</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-14 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8619/live/67c5ed10-d8ff-11f0-a913-a51839a280a3.jpg" alt="King &#x27;appalled and saddened&#x27; by Bondi attack on Jewish community" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,21 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/14/nx-s1-5640107/the-cookies-that-fueled-votes-for-women" target="_blank">The cookies that fueled votes for women</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-14 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765717000351_nbc_spec_full_brown_custody_251214_1920x1080-dmdofg.jpg" alt="Special Report: Officials confirm suspect in custody in Brown University shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765717804782_nbc_spec_bondi_shooter_disarmed_251214_1920x1080-px86lh.jpg" alt="Video appears to show moment Bondi Beach shooter is disarmed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/special-report-officials-confirm-suspect-in-custody-in-brown-university-shooting-254384709748" target="_blank">Special Report: Officials confirm suspect in custody in Brown University shooting</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/video-appears-to-show-moment-bondi-beach-shooter-is-disarmed-254384709819" target="_blank">Video appears to show moment Bondi Beach shooter is disarmed</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-14 12:53</span>
+                <span class="time">2025-12-14 13:10</span>
             </div>
         </div>
 </div>
@@ -222,6 +222,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Xbox-Series-X-1280x853.jpg" alt="Xbox Series X Enters Holiday Clearance Mode After Skipping Black Friday Discounts, Includes a Wireless Controller" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-series-x-enters-holiday-clearance-mode-after-skipping-black-friday-discounts-includes-a-wireless-controller-2000653061" target="_blank">Xbox Series X Enters Holiday Clearance Mode After Skipping Black Friday Discounts, Includes a Wireless Controller</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-14 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Scarlett-Johansson-Black-Widow-1280x853.jpg" alt="‘The Batman Part II’ May Have Scarlett Johansson For a Killer Role" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-batman-part-ii-may-have-scarlett-johansson-for-a-killer-role-2000699523" target="_blank">‘The Batman Part II’ May Have Scarlett Johansson For a Killer Role</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-14 15:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/DJIFly-1280x853.jpg" alt="DJI Pushes a Final Clear Out on Mini Drones, the Mini 5 Pro Fly More Combo Plus With RC 2 Hits an All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -257,27 +275,18 @@
                 <span class="time">2025-12-13 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/cyberpunk-2077-hed-1280x853.jpg" alt="‘Cyberpunk 2077’ Proved a Game Can Change Itself, But Not Its History" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cyberpunk-2077-proved-a-game-can-change-itself-but-not-its-history-2000689506" target="_blank">‘Cyberpunk 2077’ Proved a Game Can Change Itself, But Not Its History</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-13 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1765427186-20251213_edit.png" alt="Saturday Morning Breakfast Cereal - Wolf" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1765695165-20251214_edit.png" alt="Saturday Morning Breakfast Cereal - Tolkien" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/wolf-4" target="_blank">Saturday Morning Breakfast Cereal - Wolf</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/tolkien-2" target="_blank">Saturday Morning Breakfast Cereal - Tolkien</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-13 16:20</span>
+                <span class="time">2025-12-14 16:20</span>
             </div>
         </div>
 </div>
@@ -285,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
