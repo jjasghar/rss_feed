@@ -1,28 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 02:37:41 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-12-14 03:29:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 02:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/14/russia-ukraine-war-list-of-key-events-day-1389?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,389</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-14 01:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765674927891_nbc_spec_brown_university_suspect_251213_1920x1080-j6jpx8.jpg" alt="Police say shooter at Brown University was &#x27;dressed in all black&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/police-say-shooter-at-brown-university-was-dressed-in-all-black-254374981543" target="_blank">Police say shooter at Brown University was &#x27;dressed in all black&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-14 01:15</span>
             </div>
         </div>
 <div class="story">
@@ -81,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/13/nx-s1-5643588/brown-university-shooting" target="_blank">Police respond to active shooting at Brown University, campus officials say</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-13 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead" target="_blank">Drone strike on UN facility in war-torn Sudan leaves six peacekeepers dead</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-13 21:35</span>
             </div>
         </div>
 </div>
@@ -168,6 +172,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/TrixiePup64-11.2" target="_blank">TrixiePup64 11.2 Released For Debian-Based Puppy Linux With Wayland &amp; X11 Options</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-14 01:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://fil-c.org/seccomp" target="_blank">Linux Sandboxes and Fil-C</a></span>
                 <span class="feed">Hacker News</span>
@@ -199,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/yordiverkroost/advent-of-code-2025-waking-up-with-puzzles-flm" target="_blank">Advent of Code 2025: Waking Up With Puzzles</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-13 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Oracle-bpftune-0.4-1" target="_blank">Oracles Releases Updated &quot;bpftune&quot; For BPF-Based Auto-Tuning Of Linux Systems</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-13 17:27</span>
             </div>
         </div>
 </div>
@@ -288,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 02:37 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
