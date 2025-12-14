@@ -1,42 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 07:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-14 08:02:20 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +55,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/14/thailand-live?traffic_source=rss" target="_blank">Thailand-Cambodia live: Renewed border clashes as fighting enters 2nd week</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-14 05:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31b6/live/c2982ca0-d8ad-11f0-b67b-690eb873de1b.jpg" alt="Manhunt continues after two killed in shooting at Brown University" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss" target="_blank">Manhunt continues after two killed in shooting at Brown University</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-14 05:34</span>
             </div>
         </div>
 <div class="story">
@@ -97,20 +102,20 @@
                 <span class="time">2025-12-14 03:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/14/russia-ukraine-war-list-of-key-events-day-1389?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,389</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-14 01:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6939c5d226aba4e587cd6108/master/pass/Alpine_A390GT-BleuAlpineVision%C2%A9ThomasCortesi-CetadiProd-6.jpg" alt="Alpine A390 Review: Price, Specs, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/review-alpine-a390/" target="_blank">Alpine A390 Review: Price, Specs, Availability</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-14 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,20 +161,20 @@
                 <span class="time">2025-12-13 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2227923861-500x500.jpg" alt="Sharks and rays gain landmark protections as nations move to curb international trade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/sharks-and-rays-gain-landmark-protections-as-nations-move-to-curb-international-trade/" target="_blank">Sharks and rays gain landmark protections as nations move to curb international trade</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-13 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arrebol/combining-python-and-surveying-engineering-lji" target="_blank">Combining Python and Surveying Engineering</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-14 07:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/TrixiePup64-11.2" target="_blank">TrixiePup64 11.2 Released For Debian-Based Puppy Linux With Wayland &amp; X11 Options</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-14 01:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://fil-c.org/seccomp" target="_blank">Linux Sandboxes and Fil-C</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-13 22:58</span>
             </div>
         </div>
 </div>
@@ -302,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
