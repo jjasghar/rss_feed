@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 13:08:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-14 14:01:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 13:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765717000351_nbc_spec_full_brown_custody_251214_1920x1080-dmdofg.jpg" alt="Special Report: Officials confirm suspect in custody in Brown University shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/special-report-officials-confirm-suspect-in-custody-in-brown-university-shooting-254384709748" target="_blank">Special Report: Officials confirm suspect in custody in Brown University shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-14 12:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,21 +96,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/367a/live/fbdf04a0-d8e6-11f0-a8dc-93c15fe68710.jpg" alt="Eyewitness captures moment man tackles and disarms Bondi shooter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/14/g-s1-102220/gunmen-kill-people-at-bondi-beach" target="_blank">Gunmen kill at least 11 people at a Jewish event at Sydney&#x27;s Bondi Beach</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-14 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/14/g-s1-102218/us-envoys-arrive-in-berlin-for-more-ukraine-peace-talks" target="_blank">US envoys arrive in Berlin for latest round of Ukraine peace talks with Zelenskyy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-14 10:48</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/videos/c62l00q1v88o?at_medium=RSS&at_campaign=rss" target="_blank">Eyewitness captures moment man tackles and disarms Bondi shooter</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-14 11:24</span>
             </div>
         </div>
 </div>
@@ -104,6 +109,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later" target="_blank">I&amp;#8217;m finally beginning to trust Microsoft&amp;#8217;s handheld Xbox</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-14 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/693cb26bb63d46bdde86ae8f/master/pass/The%20Best%20Bike%20Gear%20for%20Your%20Brisk%20Wintry%20Commute%20122025%20top%20art%20SOURCE%20Amazon_Chrome%20Industries.jpg" alt="The Best Bike Gear for Your Brisk, Wintry Commute (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +161,6 @@
                 <span class="title"><a href="https://www.wired.com/review/review-alpine-a390/" target="_blank">Alpine A390 Review: Price, Specs, Availability</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-14 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/13/indias-spinny-lines-up-160m-funding-to-acquire-gomechanic-sources-say/" target="_blank">India’s Spinny lines up $160M funding to acquire GoMechanic, sources say</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-14 04:30</span>
             </div>
         </div>
 </div>
@@ -296,7 +301,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 13:08 UTC
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
