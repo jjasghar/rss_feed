@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 12:02:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-14 13:08:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/14/deadly-mass-shooting-at-sydneys-bondi-beach-stuns-australia?traffic_source=rss" target="_blank">Deadly mass shooting at Sydney’s Bondi Beach stuns Australia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-14 12:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765713708722_nbc_spec_brown_suspect_found_6a251214_1920x1080-558ewx.jpg" alt="One suspect in custody in Brown University shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/one-suspect-in-custody-in-brown-university-shooting-254386757878" target="_blank">One suspect in custody in Brown University shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-14 12:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Brown-U-shooting-DB-251214_1765712850563_hpMain_4x3t_384.jpg" alt="Person of interest in custody after Brown University shooting, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +99,29 @@
                 <span class="time">2025-12-14 10:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/14/hamas-confirms-killing-of-senior-commander-in-israeli-strike-in-gaza?traffic_source=rss" target="_blank">Hamas confirms killing of senior commander in Israeli strike in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-14 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-bondi-beach-shooting_7109653.jpg?20251214103140" alt="Nine people killed in shooting at Bondi Beach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/police-responding-to-developing-incident-at-bondi-beach-after-reports-of-multiple-shots-13483172" target="_blank">Nine people killed in shooting at Bondi Beach</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-14 08:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/693cb26bb63d46bdde86ae8f/master/pass/The%20Best%20Bike%20Gear%20for%20Your%20Brisk%20Wintry%20Commute%20122025%20top%20art%20SOURCE%20Amazon_Chrome%20Industries.jpg" alt="The Best Bike Gear for Your Brisk, Wintry Commute (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/bike-gear-winter-commute/" target="_blank">The Best Bike Gear for Your Brisk, Wintry Commute (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-14 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/843883/ai-image-generators-better-worse" target="_blank">AI image generators are getting better by getting worse</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-14 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/693cbbcaec462baa4968b164/master/pass/Review%20Samsung%20Galaxy%20XR%20top%20art%20122025%20SOURCE%20Samsung.jpg" alt="Samsung Galaxy XR Review: Needs More Polish" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +158,20 @@
                 <span class="time">2025-12-14 04:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox" target="_blank">A Kinect for kids is outselling Xbox to become the hot console this holiday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-13 18:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f2d7b6a36c32fc3730334f/master/pass/16%20Gifts%20for%20People%20Who%20Are%20Perpetually%20Cold.png" alt="18 Gifts for People Who Are Perpetually Cold (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold-2025/" target="_blank">18 Gifts for People Who Are Perpetually Cold (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-13 14:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-Merges-JPEG-XS" target="_blank">FFmpeg Lands Initial Support For JPEG-XS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-14 11:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,20 +217,20 @@
                 <span class="time">2025-12-14 02:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/TrixiePup64-11.2" target="_blank">TrixiePup64 11.2 Released For Debian-Based Puppy Linux With Wayland &amp; X11 Options</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-14 01:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Switch-2-Xbox-Ally-Legion-Go-2-1280x853.jpg" alt="Six Months Later, the Switch 2 Proves It Has Staying Power" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/six-months-later-the-switch-2-proves-it-has-staying-power-2000699204" target="_blank">Six Months Later, the Switch 2 Proves It Has Staying Power</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-14 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Japan_Bookstore.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="Why do bookstores make some people urgently need the bathroom?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +276,6 @@
                 <span class="time">2025-12-13 14:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/steven-spielberg-disclosure-1280x853.jpg" alt="The Next Steven Spielberg Movie Has a Poster to Disclose" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-next-steven-spielberg-movie-has-something-to-disclose-2000699389" target="_blank">The Next Steven Spielberg Movie Has a Poster to Disclose</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-13 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
