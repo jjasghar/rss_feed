@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 09:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-14 10:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 1 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/14/hamas-confirms-killing-of-senior-commander-in-israeli-strike-in-gaza?traffic_source=rss" target="_blank">Hamas confirms killing of senior commander in Israeli strike in Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-14 08:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-bondi-beach-australia_7109626.jpg?20251214092052" alt="Nine people including child killed in shooting at Bondi Beach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/police-responding-to-developing-incident-at-bondi-beach-after-reports-of-multiple-shots-13483172" target="_blank">Nine people including child killed in shooting at Bondi Beach</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-14 08:09</span>
             </div>
         </div>
 <div class="story">
@@ -85,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/brown-university-active-shooter-reported-campus/story?id=128379676" target="_blank">Brown University shooting: Police release video of &#x27;person of interest&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-14 04:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/14/philippines-says-fishermen-hurt-boat-damaged-in-china-coastguard-skirmish?traffic_source=rss" target="_blank">Philippines says fishermen hurt, boat damaged in China coastguard skirmish</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-14 04:53</span>
             </div>
         </div>
 </div>
@@ -292,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
