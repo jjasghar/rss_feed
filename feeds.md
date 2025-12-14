@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 19:01:22 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-14 20:01:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 19:01 UTC</div>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +107,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno" target="_blank">Absynth is back and weirder than ever after 16 years</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-14 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/14/making-sense-of-the-risky-netflix-warner-bros-deal/" target="_blank">Making sense of the risky Netflix-Warner Bros. deal</a></span>
                 <span class="feed">TechCrunch</span>
@@ -150,20 +158,20 @@
                 <span class="time">2025-12-14 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/693cb26bb63d46bdde86ae8f/master/pass/The%20Best%20Bike%20Gear%20for%20Your%20Brisk%20Wintry%20Commute%20122025%20top%20art%20SOURCE%20Amazon_Chrome%20Industries.jpg" alt="The Best Bike Gear for Your Brisk, Wintry Commute (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/bike-gear-winter-commute/" target="_blank">The Best Bike Gear for Your Brisk, Wintry Commute (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-14 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CentOS-Kmods-SIG-NVIDIA" target="_blank">CentOS Kmods SIG Providing NVIDIA Linux Open GPU Kernel Modules For RHEL/CentOS Users</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-14 19:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgzx2d0dizkzrftajnsvy.png" alt="A story on Frontend Architectures - Everyone deserves a BFF!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,13 +217,18 @@
                 <span class="time">2025-12-14 13:19</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-Merges-JPEG-XS" target="_blank">FFmpeg Lands Initial Support For JPEG-XS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-14 11:49</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/upcoming-speaking-engagements-51.html" target="_blank">Upcoming Speaking Engagements</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-14 17:10</span>
             </div>
         </div>
 </div>
@@ -223,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/star-wars-fate-of-the-old-republic-jedi-1280x853.jpg" alt="‘Fate of the Republic’ Will (Probably?) Be Out Before Decade’s End" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/fate-of-the-republic-will-probably-be-out-before-decades-end-2000699519" target="_blank">‘Fate of the Republic’ Will (Probably?) Be Out Before Decade’s End</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-14 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/it-welcome-to-derry_fire-1280x853.jpg" alt="The Two ‘It’ Movies May Finally Get Their Extended Cut" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +290,6 @@
                 <span class="time">2025-12-14 14:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Switch-2-Xbox-Ally-Legion-Go-2-1280x853.jpg" alt="Six Months Later, the Switch 2 Proves It Has Staying Power" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/six-months-later-the-switch-2-proves-it-has-staying-power-2000699204" target="_blank">Six Months Later, the Switch 2 Proves It Has Staying Power</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-14 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
