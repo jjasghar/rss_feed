@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 05:02:08 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-14 06:02:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +52,15 @@
                 <span class="title"><a href="https://abcnews.go.com/US/brown-university-active-shooter-reported-campus/story?id=128379676" target="_blank">Brown University shooting: Police release video of &#x27;person of interest&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-14 04:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/14/philippines-says-fishermen-hurt-boat-damaged-in-china-coastguard-skirmish?traffic_source=rss" target="_blank">Philippines says fishermen hurt, boat damaged in China coastguard skirmish</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-14 04:53</span>
             </div>
         </div>
 <div class="story">
@@ -88,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  At least 2 dead, 8 injured in Brown University shooting, officials say</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-13 23:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/13/brown-university-in-us-reports-active-shooter-situation-on-campus?traffic_source=rss" target="_blank">Brown University reports two dead, eight injured in US school shooting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-13 23:00</span>
             </div>
         </div>
 </div>
@@ -184,6 +184,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/youtubes-ai-mod-enshittification/" target="_blank">YouTube’s AI is Breaking the Creator Ecosystem</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-14 03:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/frontendtoolstech/webp-to-png-converter-for-design-compatibility-53ge" target="_blank">WebP to PNG Converter for Design &amp; Compatibility</a></span>
                 <span class="feed">DEV Community</span>
@@ -208,20 +217,20 @@
                 <span class="time">2025-12-13 22:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-x86-Platform-Drivers" target="_blank">Exciting Laptop &amp; Gaming Handheld Device Improvements Merged For Linux 6.19</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-13 20:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Japan_Bookstore.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="Why do bookstores make some people urgently need the bathroom?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/13/why-bookstores-make-some-people-urgently-need-the-bathroom.html" target="_blank">Why do bookstores make some people urgently need the bathroom?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-14 00:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Street-Fighter-50-Cent-Balrog-1280x854.jpg" alt="The ‘Mortal Kombat’/’Street Fighter’ Pissing Contest Now Includes Their Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,22 +290,13 @@
                 <span class="time">2025-12-13 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/13/i-m-hatin-it" target="_blank">I&#x27;m Hatin&#x27; It</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-13 05:53</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 05:02 UTC
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
