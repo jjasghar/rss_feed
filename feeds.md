@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 11:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-14 12:02:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Brown-U-shooting-DB-251214_1765712850563_hpMain_4x3t_384.jpg" alt="Person of interest in custody after Brown University shooting, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/person-interest-custody-after-brown-university-shooting-official/story?id=128388923" target="_blank">Person of interest in custody after Brown University shooting, official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-14 11:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edf1/live/3afa8760-d8db-11f0-aae2-2191c0e48a3b.jpg" alt="Violence against women a national emergency, Mahmood says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj69w7kezdzo?at_medium=RSS&at_campaign=rss" target="_blank">Violence against women a national emergency, Mahmood says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-14 11:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/14/g-s1-102220/gunmen-kill-people-at-bondi-beach" target="_blank">Gunmen kill at least 11 people at a Jewish event at Sydney&#x27;s Bondi Beach</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-14 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +100,20 @@
                 <span class="time">2025-12-14 08:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-bondi-beach-australia_7109626.jpg?20251214092052" alt="Nine people including child killed in shooting at Bondi Beach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/police-responding-to-developing-incident-at-bondi-beach-after-reports-of-multiple-shots-13483172" target="_blank">Nine people including child killed in shooting at Bondi Beach</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-14 08:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/14/thailand-live?traffic_source=rss" target="_blank">Thailand-Cambodia live: Renewed border clashes as fighting enters 2nd week</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-14 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31b6/live/c2982ca0-d8ad-11f0-b67b-690eb873de1b.jpg" alt="Manhunt continues after two killed in shooting at Brown University" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss" target="_blank">Manhunt continues after two killed in shooting at Brown University</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-14 05:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/693cbbcaec462baa4968b164/master/pass/Review%20Samsung%20Galaxy%20XR%20top%20art%20122025%20SOURCE%20Samsung.jpg" alt="Samsung Galaxy XR Review: Needs More Polish" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/samsung-galaxy-xr/" target="_blank">Samsung Galaxy XR Review: Needs More Polish</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-14 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/693c7420d9838445ae310cf3/master/pass/How-Can-We-Find-Exoplanets-Science-1237974418.jpg" alt="How Do Astronomers Find Planets in Other Solar Systems?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold-2025/" target="_blank">18 Gifts for People Who Are Perpetually Cold (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-13 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/840324/sektori-review-pc-ps5-xbox-series-x-s" target="_blank">Sektori is psychedelic, tough as nails, and worth the pain</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-13 14:00</span>
             </div>
         </div>
 </div>
@@ -294,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
