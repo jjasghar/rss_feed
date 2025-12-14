@@ -1,29 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 01:29:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-14 02:37:41 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, December 14, 2025 - 02:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/14/russia-ukraine-war-list-of-key-events-day-1389?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,389</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-14 01:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  At least 2 dead, 8 injured in Brown University shooting, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -61,6 +69,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/13/nx-s1-5643588/brown-university-shooting" target="_blank">2 killed and 8 injured in Brown University shooting, no suspect in custody</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-13 22:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/12/13/nx-s1-5643588/brown-university-shooting" target="_blank">Police respond to active shooting at Brown University, campus officials say</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-13 22:41</span>
@@ -73,24 +90,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead" target="_blank">Drone strike on UN facility in war-torn Sudan leaves six peacekeepers dead</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-12-13 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/us-troops-syria-01-gty-jt-251213_1765647583953_hpMain_4x3t_384.jpg" alt="US soldiers, interpreter killed during ambush in Syria: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/us-soldiers-civilian-interpreter-killed-ambush-syria-apparent/story?id=128376036" target="_blank">US soldiers, interpreter killed during ambush in Syria: Officials</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-13 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/13/alaves-vs-real-madrid-la-liga-team-news-start-time-lineups?traffic_source=rss" target="_blank">Alaves vs Real Madrid: La Liga – team news, start time, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-13 19:57</span>
             </div>
         </div>
 </div>
@@ -160,6 +159,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/frontendtoolstech/webp-to-png-converter-for-design-compatibility-53ge" target="_blank">WebP to PNG Converter for Design &amp; Compatibility</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-14 02:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://fil-c.org/seccomp" target="_blank">Linux Sandboxes and Fil-C</a></span>
                 <span class="feed">Hacker News</span>
@@ -200,15 +208,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Oracle-bpftune-0.4-1" target="_blank">Oracles Releases Updated &quot;bpftune&quot; For BPF-Based Auto-Tuning Of Linux Systems</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-13 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.tymscar.com/posts/gleamaoc2025/" target="_blank">I tried Gleam for Advent of Code</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-13 17:00</span>
             </div>
         </div>
 </div>
@@ -289,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 02:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
