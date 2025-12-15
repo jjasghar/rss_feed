@@ -1,26 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 10:02:34 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-15 11:01:50 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 2 new posts out of 18 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/rob_1765765999251_hpMain_4x3t_384.jpg" alt="Director Rob Reiner and wife Michele stabbed to death in Los Angeles home: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/2-found-dead-los-angeles-home-owned-director/story?id=128403864" target="_blank">Director Rob Reiner and wife Michele stabbed to death in Los Angeles home: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-15 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/15/africa-cup-of-nations-2025-full-match-schedule-teams-groups-and-format?traffic_source=rss" target="_blank">Africa Cup of Nations 2025: Full match schedule, teams, groups and format</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-15 10:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/15/nx-s1-5598325/chain-restaurants-nostalgia" target="_blank">For Americans, the love for chain restaurants runs deep</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-15 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,33 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/15/australia-to-discuss-gun-laws-after-15-killed-in-sydney-shooting?traffic_source=rss" target="_blank">Bondi Beach shooting live: Australia to discuss gun laws after 15 killed</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-15 05:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765776184016_nbc_spec_reiner_found_dead_251214_1920x1080-e4z4q5.jpg" alt="Director Rob Reiner and wife found stabbed to death in their L.A. home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/director-rob-reiner-and-wife-found-stabbed-to-death-in-their-l-a-home-254413893920" target="_blank">Director Rob Reiner and wife found stabbed to death in their L.A. home</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-15 05:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/suspect-main_1765714270978_hpMain_4x3t_384.jpg" alt="Person of interest in Brown University shooting being released without charges: Mayor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/person-interest-custody-after-brown-university-shooting-official/story?id=128388923" target="_blank">Person of interest in Brown University shooting being released without charges: Mayor</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-15 04:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251214-rob-reiner-cc-0923p-f274e9.jpg" alt="Two found dead at L.A. home owned by director Rob Reiner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/two-found-dead-rob-reiner-home-brentwood-los-angeles-rcna249223" target="_blank">Two found dead at L.A. home owned by director Rob Reiner</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-15 02:48</span>
             </div>
         </div>
 </div>
@@ -155,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/12/android-glasses-ar-sdk/en/headerimage/glasses-1765795496216.jpg" alt="Google Unveils New Tools and Libraries for Building AI Glasses Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/android-glasses-ar-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Unveils New Tools and Libraries for Building AI Glasses Apps</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-15 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/12/react-compiler-meta/en/headerimage/generatedHeaderImage-1765489985889.jpg" alt="Meta&#x27;s React Compiler 1.0 Brings Automatic Memoization to Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -199,15 +216,6 @@
                 <span class="time">2025-12-15 06:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/canro91/the-subtle-sign-youre-growing-as-a-coder-1bbl" target="_blank">The Subtle Sign You&#x27;re Growing as a Coder</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-15 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/justice-league-dark-1280x853.jpg" alt="Guillermo del Toro Reveals Ideas for His ‘Justice League Dark’ Film" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/guillermo-del-toro-reveals-ideas-for-his-justice-league-dark-film-2000699583" target="_blank">Guillermo del Toro Reveals Ideas for His ‘Justice League Dark’ Film</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-15 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Rob-Reiner-Spinal-Tap-1280x853.jpg" alt="Rob Reiner, Director of ‘Misery,’ ‘Princess Bride,’ Dead at 78" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +289,6 @@
                 <span class="time">2025-12-14 20:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/star-wars-fate-of-the-old-republic-jedi-1280x853.jpg" alt="‘Fate of the Republic’ Will (Probably?) Be Out Before Decade’s End" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/fate-of-the-republic-will-probably-be-out-before-decades-end-2000699519" target="_blank">‘Fate of the Republic’ Will (Probably?) Be Out Before Decade’s End</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-14 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
