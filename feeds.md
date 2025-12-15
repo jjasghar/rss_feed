@@ -1,43 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 12:02:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-12-15 13:14:29 UTC -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 34 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 12:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 13:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c542/live/6e8d0d10-d989-11f0-aabd-339166c2b10a.jpg" alt="UK chief rabbi says cousin hid for 15 &#x27;terrifying&#x27; minutes in Bondi attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr7l35jgr0eo?at_medium=RSS&at_campaign=rss" target="_blank">UK chief rabbi says cousin hid for 15 &#x27;terrifying&#x27; minutes in Bondi attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-15 12:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,20 +99,38 @@
                 <span class="time">2025-12-15 07:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3370/live/3dc35500-d983-11f0-b67b-690eb873de1b.jpg" alt="A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss" target="_blank">A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-15 06:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/verizon-jerks-locked-phone-500x500-1765486989.jpg" alt="Verizon refused to unlock man’s iPhone, so he sued the carrier and won" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/verizon-refused-to-unlock-mans-iphone-so-he-sued-the-carrier-and-won/" target="_blank">Verizon refused to unlock man’s iPhone, so he sued the carrier and won</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-15 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/" target="_blank">Mirelo raises $41M from Index and a16z to solve AI video’s silent problem</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-15 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios" target="_blank">Kindle app now answers questions about the book you’re reading</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-15 12:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/693ca62d90f74fda4d01022c/master/pass/Interstellar%20Arc%20-%20Outside%20-%2004.jpg" alt="Interstellar Arc Serves Up Alien Foxes, Exoplanets, and VR Carl Sagan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,33 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/" target="_blank">How iRobot lost its way home</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-15 02:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm" target="_blank">You need to listen to Sudan Archives&amp;#8217; violin opus for the club</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-14 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/" target="_blank">Grok got crucial facts wrong about Bondi Beach shooting</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-14 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting" target="_blank">Grok is spreading misinformation about the Bondi Beach shooting</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-14 21:24</span>
             </div>
         </div>
 </div>
@@ -254,6 +246,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/SAMSUNG-32-Inch-Odyssey-G50D-Series-QHD-Fast-IPS-G-Sync-Compatible-Gaming-Monitor-1280x854.jpg" alt="Samsung Clears Out G50D Odyssey Gaming Monitor at 42% Off, the 32″ Model Is Now Cheaper Than the 27″" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-clears-out-g50d-odyssey-gaming-monitor-at-42-off-the-32%e2%80%b3-model-is-now-cheaper-than-the-27%e2%80%b3-2000653260" target="_blank">Samsung Clears Out G50D Odyssey Gaming Monitor at 42% Off, the 32″ Model Is Now Cheaper Than the 27″</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-15 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ff83926a-62df-4dc4-9fd3-918057e653de-AnimalGuy.webp?fit=986%2C555&amp;quality=55&amp;ssl=1" alt="Man charged with sexually assaulting chickens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/15/man-charged-with-sexually-assaulting-chickens.html" target="_blank">Man charged with sexually assaulting chickens</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-15 13:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Avatar-3-jake-flying-1280x853.jpg" alt="James Cameron Won’t Let Netflix Buying Warner Bros. Kill Theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -289,24 +299,6 @@
                 <span class="time">2025-12-15 02:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/ParanormalActivity-1280x853.jpg" alt="The New ‘Paranormal Activity’ May Have Already Found Its Director" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-new-paranormal-activity-may-have-already-found-its-director-2000699521" target="_blank">The New ‘Paranormal Activity’ May Have Already Found Its Director</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-14 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/krypyonite.jpg?fit=1200%2C946&amp;quality=60&amp;ssl=1" alt="From vibranium to unobtainium: the periodic table of made-up stuff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/14/from-vibranium-to-unobtainium-the-periodic-table-of-made-up-stuff.html" target="_blank">From vibranium to unobtainium: the periodic table of made-up stuff</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-14 21:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 12:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 13:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
