@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 22:01:49 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-15 23:01:40 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +109,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/844964/how-irobot-invented-the-roomba-and-lost-the-future-of-home-robotics" target="_blank">How Roomba invented the home robot — and lost the future</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-15 22:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/" target="_blank">Nvidia bulks up open source offerings with an acquisition and new open AI models</a></span>
                 <span class="feed">TechCrunch</span>
@@ -152,20 +160,38 @@
                 <span class="time">2025-12-15 20:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/reiner1-500x500-1765826584.jpg" alt="RIP Rob Reiner: Beloved filmmaker dead at 78" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/12/r-i-p-rob-reiner-beloved-filmmaker-dead-at-78/" target="_blank">RIP Rob Reiner: Beloved filmmaker dead at 78</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-15 19:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6avj75wpobifzt1fys7f.jpg" alt="JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/subha_ganapathi_6766a247c/json-parsing-for-large-payloads-balancing-speed-memory-and-scalability-i1f" target="_blank">JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-15 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GIMP-3.2-RC2" target="_blank">GIMP 3.2-RC2 Brings Bug Fixes &amp; Minor Refinements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-15 22:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://johnlian.net/posts/hdmi-cec/" target="_blank">Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-15 21:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,33 +219,6 @@
                 <span class="time">2025-12-15 19:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Flatpak-OCI-Bundles-Zstd" target="_blank">Flatpak Adds Support For Building OCI Bundles Using Zstd Compressed Layers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-15 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873" target="_blank">Upcoming Changes to Let&#x27;s Encrypt Certificates</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-15 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797437&w=600" alt="Streaming vs In-Memory DataWeave: Designing for 1M+ Records Without Crashing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/streaming-vs-in-memory-dataweave-large-datasets" target="_blank">Streaming vs In-Memory DataWeave: Designing for 1M+ Records Without Crashing</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-15 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/ss_c952b64b96c7ec4da866053f323d3d9b1baf48ee.1920x1080-1280x715.jpg" alt="Lords Of The Fallen 2 Dev Promises Sexy Women But Fans Just Want Better Soulslike Gameplay" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lords-fallen-2-trailer-free-update-coop-soulslike-2000653471" target="_blank">Lords Of The Fallen 2 Dev Promises Sexy Women But Fans Just Want Better Soulslike Gameplay</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-15 22:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCHXWQK50BNHX0G4WB3RY83F/hero-image.png" alt="What&#x27;s Good (and What&#x27;s Overhyped) About the Viral 2-2-2 Workout" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/whats-good-and-overhyped-about-the-2-2-2-workout?utm_medium=RSS" target="_blank">What&#x27;s Good (and What&#x27;s Overhyped) About the Viral 2-2-2 Workout</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-15 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/08/covidcruise-e1765833584297.jpg?fit=768%2C532&amp;quality=60&amp;ssl=1" alt="Sketchy deaths are nearly as likely on cruise ships as contracting an infectious disease" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/how-to-fix-photos-turning-red-on-your-iphone?utm_medium=RSS" target="_blank">If Some Photos Are Inexplicably Turning Red on Your iPhone, There&#x27;s a Fix</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-15 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/the-outer-worlds-2-release-date-1280x720.jpg" alt="The Outer Worlds 2 Is So Good It Makes The Wait For Fallout 5 That Much Easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fallout-5-outer-worlds-2-new-vegas-bethesda-rpg-xbox-obsidian-2000653475" target="_blank">The Outer Worlds 2 Is So Good It Makes The Wait For Fallout 5 That Much Easier</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-15 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/trump.jpg?fit=1215%2C800&amp;quality=60&amp;ssl=1" alt="MAGA&#x27;s vow to never mock opponents&#x27; deaths broken at first opportunity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/15/magas-vow-to-never-mock-opponents-deaths-lasted-broken-at-first-opportunity.html" target="_blank">MAGA&#x27;s vow to never mock opponents&#x27; deaths broken at first opportunity</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-15 19:01</span>
             </div>
         </div>
 </div>
@@ -330,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
