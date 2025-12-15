@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 04:16:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-15 05:04:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 04:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 05:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/suspect-main_1765714270978_hpMain_4x3t_384.jpg" alt="Person of interest in Brown University shooting being released without charges: Mayor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/person-interest-custody-after-brown-university-shooting-official/story?id=128388923" target="_blank">Person of interest in Brown University shooting being released without charges: Mayor</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-15 04:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251214-rob-reiner-cc-0923p-f274e9.jpg" alt="Two found dead at L.A. home owned by director Rob Reiner" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cgqzed1vjw5o?at_medium=RSS&at_campaign=rss" target="_blank">Russia poses acute threat, new MI6 chief to warn</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-15 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/14/mbappe-returns-at-alaves-to-ease-real-pressure-on-madrid-coach-alonso?traffic_source=rss" target="_blank">Mbappe returns at Alaves to ease Real pressure on Madrid coach Alonso</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-14 22:54</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/canro91/the-subtle-sign-youre-growing-as-a-coder-1bbl" target="_blank">The Subtle Sign You&#x27;re Growing as a Coder</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-15 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kingyou/aws-ami-cross-region-replication-and-sharing-2811" target="_blank">AWS AMI cross-region replication and sharing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-15 01:22</span>
@@ -208,15 +216,6 @@
                 <span class="time">2025-12-14 20:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/09/snap-security-2.jpg?resize=406%2C232&amp;ssl=1" alt="New Website Lets You Scan Snaps for Known Security Vulnerabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/snapscope-snap-security-vulnerability-checker" target="_blank">New Website Lets You Scan Snaps for Known Security Vulnerabilities</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-14 20:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Rob-Reiner-Spinal-Tap-1280x853.jpg" alt="Rob Reiner, Director of ‘Misery,’ ‘Princess Bride,’ Dead at 78" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rob-reiner-director-of-misery-princess-bride-dead-at-78-2000699592" target="_blank">Rob Reiner, Director of ‘Misery,’ ‘Princess Bride,’ Dead at 78</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-15 03:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/reiner.jpg?fit=891%2C1200&amp;quality=60&amp;ssl=1" alt="Two found dead at Rob Reiner&#x27;s Los Angeles home; identities not confirmed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/14/two-found-dead-at-rob-reiners-los-angeles-home-identities-not-confirmed.html" target="_blank">Two found dead at Rob Reiner&#x27;s Los Angeles home; identities not confirmed</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-15 02:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/ParanormalActivity-1280x853.jpg" alt="The New ‘Paranormal Activity’ May Have Already Found Its Director" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +289,6 @@
                 <span class="time">2025-12-14 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/it-welcome-to-derry_fire-1280x853.jpg" alt="The Two ‘It’ Movies May Finally Get Their Extended Cut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-two-it-movies-may-finally-get-their-extended-cut-2000699293" target="_blank">The Two ‘It’ Movies May Finally Get Their Extended Cut</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-14 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Korea_Central_Zoo_in_Pyongyang.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="North Korea&#x27;s zoo features a smoking chimp and a dog trained to use an abacus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/14/north-koreas-zoo-features-a-smoking-chimp-and-a-dog-trained-to-use-an-abacus.html" target="_blank">North Korea&#x27;s zoo features a smoking chimp and a dog trained to use an abacus</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-14 17:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 04:16 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 05:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
