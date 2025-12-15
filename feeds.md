@@ -1,42 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 07:04:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-15 08:02:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 07:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/15/nx-s1-5642545/hong-kong-pro-democracy-activist-jimmy-lai-sentenced" target="_blank">Hong Kong pro-democracy activist and mogul Jimmy Lai sentenced</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-15 07:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3370/live/3dc35500-d983-11f0-b67b-690eb873de1b.jpg" alt="A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,15 +103,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/two-found-dead-rob-reiner-home-brentwood-los-angeles-rcna249223" target="_blank">Two found dead at L.A. home owned by director Rob Reiner</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-15 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/church_1765763836887_hpMain_4x3t_384.jpeg" alt="&#x27;A bright light&#x27;: Brown University student identified as shooting victim by church" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/bright-light-brown-university-student-identified-shooting-victim/story?id=128403441" target="_blank">&#x27;A bright light&#x27;: Brown University student identified as shooting victim by church</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-15 02:25</span>
             </div>
         </div>
 </div>
@@ -171,6 +170,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhnct215rr5kqzf6mwwrc.gif" alt="RepoSense API : Repository Intelligence That Actually Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/divyasinghdev/reposense-api-repository-intelligence-that-actually-works-3c3l" target="_blank">RepoSense API : Repository Intelligence That Actually Works</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-15 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://benhoyt.com/writings/jubilant/" target="_blank">Jubilant: Python subprocess and Go codegen</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-15 07:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/kingyou/aws-ami-cross-region-replication-and-sharing-2811" target="_blank">AWS AMI cross-region replication and sharing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-15 01:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Deck-Crash-Data-Collect" target="_blank">The Opt-In Proactive &amp; Crash Time Data Collection On Valve&#x27;s Steam Deck</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-15 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.capros.org/" target="_blank">CapROS: The Capability-Based Reliable Operating System</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-15 00:39</span>
             </div>
         </div>
 </div>
@@ -316,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
