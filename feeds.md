@@ -1,39 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 06:02:29 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-15 07:04:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3370/live/3dc35500-d983-11f0-b67b-690eb873de1b.jpg" alt="A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss" target="_blank">A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-15 06:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/15/australia-to-discuss-gun-laws-after-15-killed-in-sydney-shooting?traffic_source=rss" target="_blank">Bondi Beach shooting live: Australia to discuss gun laws after 15 killed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-15 05:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765776184016_nbc_spec_reiner_found_dead_251214_1920x1080-e4z4q5.jpg" alt="Director Rob Reiner and wife found stabbed to death in their L.A. home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,24 +104,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/bright-light-brown-university-student-identified-shooting-victim/story?id=128403441" target="_blank">&#x27;A bright light&#x27;: Brown University student identified as shooting victim by church</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-15 02:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/14/nx-s1-5644117/australia-antisemitism-sydney-bondi-beach" target="_blank">Deadly attack on Bondi Beach follows rise in antisemitic incidents in Australia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-15 01:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/brown-university-three-shooting-gty-bh-251214_1765744791725_hpMain_4x3t_384.jpg" alt="&#x27;We made eye contact&#x27;: Student describes alleged Brown gunman lecture hall encounter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/made-eye-contact-brown-university-student-describes-alleged/story?id=128396967" target="_blank">&#x27;We made eye contact&#x27;: Student describes alleged Brown gunman lecture hall encounter</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-15 01:09</span>
             </div>
         </div>
 </div>
@@ -171,6 +174,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anurag_sati_5b77a6578f780/g-1g89" target="_blank">g</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-15 06:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/no-ai-extension-gnome/" target="_blank">No AI Slops! GNOME Now Forbids Vibe Coded Extensions</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-15 06:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/canro91/the-subtle-sign-youre-growing-as-a-coder-1bbl" target="_blank">The Subtle Sign You&#x27;re Growing as a Coder</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-15 05:00</span>
@@ -201,24 +222,6 @@
                 <span class="title"><a href="https://www.capros.org/" target="_blank">CapROS: The Capability-Based Reliable Operating System</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-15 00:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://status.claude.com/incidents/9g6qpr72ttbr" target="_blank">Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-14 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-9965-linux-619" target="_blank">Early Linux 6.19 Benchmarks On AMD EPYC 9965 2P Excelling For AI &amp; HPC Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-14 20:26</span>
             </div>
         </div>
 </div>
@@ -313,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
