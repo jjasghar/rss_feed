@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 15:03:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-15 16:02:31 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 15:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-633690806-500x500.jpg" alt="Roomba maker iRobot swept into bankruptcy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/" target="_blank">Roomba maker iRobot swept into bankruptcy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-15 15:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/693c6d8d199888f1c10473e8/master/pass/Nvidia-Doubles-Down-AI-Business-2249127231.jpg" alt="Nvidia Becomes a Major Model Maker With Nemotron 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,20 +157,38 @@
                 <span class="time">2025-12-15 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/693ca62d90f74fda4d01022c/master/pass/Interstellar%20Arc%20-%20Outside%20-%2004.jpg" alt="Interstellar Arc Serves Up Alien Foxes, Exoplanets, and VR Carl Sagan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/interstellar-arc-las-vegas/" target="_blank">Interstellar Arc Serves Up Alien Foxes, Exoplanets, and VR Carl Sagan</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-15 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2w1ey7jxc9rsoxp2wku.png" alt="AWS Elastic Compute Cloud (EC2) | Amazon Web Services (AWS)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/olymahmud/aws-elastic-compute-cloud-ec2-amazon-web-service-aws-41h8" target="_blank">AWS Elastic Compute Cloud (EC2) | Amazon Web Services (AWS)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-15 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wayland-Protocols-1.47" target="_blank">Wayland Protocols 1.47 Released With Updated Color Management Protocol</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-15 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797915&w=600" alt="2026 IaC Predictions: The Year Infrastructure Finally Grows Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/iac-predictions-infrastructure-grows-up" target="_blank">2026 IaC Predictions: The Year Infrastructure Finally Grows Up</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-15 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,33 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/feast/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Powering Enterprise AI Applications with Data and Open Source Software</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-12-15 13:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735865&w=600" alt="Ambient Agentic Systems – A New Era Begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ambient-agentic-systems-a-new-era-begins" target="_blank">Ambient Agentic Systems – A New Era Begins</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-15 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/projects-ditched-by-ubuntu/" target="_blank">7 Projects Killed by Ubuntu (But I Still Miss Them)</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-15 12:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jeandevbr/framework-battle-symfony-vs-laravel-which-one-should-you-use-for-your-enterprise-system-350k" target="_blank">Framework Battle: Symfony vs. Laravel — Which One Should You Use for Your Enterprise System?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-15 11:52</span>
             </div>
         </div>
 </div>
@@ -246,11 +245,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/stephen-miller.jpg?fit=1500%2C957&amp;quality=60&amp;ssl=1" alt="Miller slashes refugees to 7,500, reserves most slots for white Europeans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/15/miller-slashes-refugees-to-7500-reserves-most-slots-for-white-europeans.html" target="_blank">Miller slashes refugees to 7,500, reserves most slots for white Europeans</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-15 15:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/G8Ax2nwWUAIvyjy-1280x720.jpg" alt="Not Everyone Is Excited That Leon Is Back In Resident Evil Requiem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/resident-evil-requiem-leon-kennedy-grace-playable-split-2000653406" target="_blank">Not Everyone Is Excited That Leon Is Back In Resident Evil Requiem</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2025-12-15 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCGEYYCG1RKJ22ZKVH6GFDRD/hero-image.png" alt="Sonos’ Latest Flagship Soundbar Is Over $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sonos-arc-ultra-soundbar-sale-december-2025?utm_medium=RSS" target="_blank">Sonos’ Latest Flagship Soundbar Is Over $200 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-15 15:00</span>
             </div>
         </div>
@@ -281,24 +298,6 @@
                 <span class="time">2025-12-15 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H2AY7J6NKW4VKN8SESJDZ/hero-image.jpg" alt="Use the &#x27;Action Method&#x27; When You Need Extra Motivation to Meet Your Goals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/use-the-action-method-when-you-need-extra-motivation?utm_medium=RSS" target="_blank">Use the &#x27;Action Method&#x27; When You Need Extra Motivation to Meet Your Goals</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-15 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/FlexReach-1280x853.jpg" alt="Eureka’s Christmas Vacuum Deals Are Practically a Holiday Clean-Out, Make Your Home Shine Like Never Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/eurekas-christmas-vacuum-deals-are-practically-a-holiday-clean-out-make-your-home-shine-like-never-before-2000695844" target="_blank">Eureka’s Christmas Vacuum Deals Are Practically a Holiday Clean-Out, Make Your Home Shine Like Never Before</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-15 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 15:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
