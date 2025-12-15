@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 13:14:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-15 14:03:00 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 13:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 14:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/15/australian-athlete-becomes-first-female-winner-of-antarctic-ice-marathon?traffic_source=rss" target="_blank">Australian athlete becomes first female winner of Antarctic Ice Marathon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-15 13:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c542/live/6e8d0d10-d989-11f0-aabd-339166c2b10a.jpg" alt="UK chief rabbi says cousin hid for 15 &#x27;terrifying&#x27; minutes in Bondi attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +104,6 @@
                 <span class="time">2025-12-15 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/15/nx-s1-5642545/hong-kong-pro-democracy-activist-jimmy-lai-sentenced" target="_blank">Hong Kong pro-democracy activist and mogul Jimmy Lai sentenced</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-15 07:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -132,6 +137,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/693cb92142f512253adf01b0/master/pass/Screenshot%202025-12-12%20at%204.52.46%E2%80%AFPM.png" alt="This Startup Wants to Build Self-Driving Car Software—Super Fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hyprlabs-wants-to-build-a-self-driving-robot-super-fast/" target="_blank">This Startup Wants to Build Self-Driving Car Software—Super Fast</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-15 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/693ca62d90f74fda4d01022c/master/pass/Interstellar%20Arc%20-%20Outside%20-%2004.jpg" alt="Interstellar Arc Serves Up Alien Foxes, Exoplanets, and VR Carl Sagan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,20 +163,20 @@
                 <span class="time">2025-12-15 09:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/" target="_blank">How iRobot lost its way home</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-15 02:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735865&w=600" alt="Ambient Agentic Systems – A New Era Begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ambient-agentic-systems-a-new-era-begins" target="_blank">Ambient Agentic Systems – A New Era Begins</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-15 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +222,6 @@
                 <span class="time">2025-12-15 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://benhoyt.com/writings/jubilant/" target="_blank">Jubilant: Python subprocess and Go codegen</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-15 07:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +251,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/star-wars-set-1280x853.jpg" alt="LEGO Expands Its Star Wars Starship Clearance, The Dark Falcon Hits a Record Low After the Millennium Falcon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-expands-its-star-wars-starship-clearance-the-dark-falcon-hits-a-record-low-after-the-millennium-falcon-2000653383" target="_blank">LEGO Expands Its Star Wars Starship Clearance, The Dark Falcon Hits a Record Low After the Millennium Falcon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-15 13:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/SAMSUNG-32-Inch-Odyssey-G50D-Series-QHD-Fast-IPS-G-Sync-Compatible-Gaming-Monitor-1280x854.jpg" alt="Samsung Clears Out G50D Odyssey Gaming Monitor at 42% Off, the 32″ Model Is Now Cheaper Than the 27″" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -264,39 +278,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2H2AY7J6NKW4VKN8SESJDZ/hero-image.jpg" alt="Use the &#x27;Action Method&#x27; When You Need Extra Motivation to Meet Your Goals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/use-the-action-method-when-you-need-extra-motivation?utm_medium=RSS" target="_blank">Use the &#x27;Action Method&#x27; When You Need Extra Motivation to Meet Your Goals</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-15 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/FlexReach-1280x853.jpg" alt="Eureka’s Christmas Vacuum Deals Are Practically a Holiday Clean-Out, Make Your Home Shine Like Never Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/eurekas-christmas-vacuum-deals-are-practically-a-holiday-clean-out-make-your-home-shine-like-never-before-2000695844" target="_blank">Eureka’s Christmas Vacuum Deals Are Practically a Holiday Clean-Out, Make Your Home Shine Like Never Before</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-15 12:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Avatar-3-jake-flying-1280x853.jpg" alt="James Cameron Won’t Let Netflix Buying Warner Bros. Kill Theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/james-cameron-wont-let-netflix-buying-warner-bros-kill-theaters-2000699580" target="_blank">James Cameron Won’t Let Netflix Buying Warner Bros. Kill Theaters</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-15 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/justice-league-dark-1280x853.jpg" alt="Guillermo del Toro Reveals Ideas for His ‘Justice League Dark’ Film" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/guillermo-del-toro-reveals-ideas-for-his-justice-league-dark-film-2000699583" target="_blank">Guillermo del Toro Reveals Ideas for His ‘Justice League Dark’ Film</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-15 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Rob-Reiner-Spinal-Tap-1280x853.jpg" alt="Rob Reiner, Director of ‘Misery,’ ‘Princess Bride,’ Dead at 78" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/rob-reiner-director-of-misery-princess-bride-dead-at-78-2000699592" target="_blank">Rob Reiner, Director of ‘Misery,’ ‘Princess Bride,’ Dead at 78</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-15 03:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/reiner.jpg?fit=891%2C1200&amp;quality=60&amp;ssl=1" alt="Two found dead at Rob Reiner&#x27;s Los Angeles home; identities not confirmed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/14/two-found-dead-at-rob-reiners-los-angeles-home-identities-not-confirmed.html" target="_blank">Two found dead at Rob Reiner&#x27;s Los Angeles home; identities not confirmed</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-15 02:53</span>
             </div>
         </div>
 </div>
@@ -327,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 13:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 14:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
