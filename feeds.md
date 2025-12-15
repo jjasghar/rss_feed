@@ -1,36 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 18:02:06 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-15 19:03:17 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +37,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/rob-reiner-10-gty-gmh-251215_1765821629780_hpMain_4x3t_384.jpg" alt="Rob Reiner&#x27;s son arrested for murder in stabbing death of famed director, wife" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/2-found-dead-los-angeles-home-owned-director/story?id=128403864" target="_blank">Rob Reiner&#x27;s son arrested for murder in stabbing death of famed director, wife</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-15 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/15/icc-rejects-israeli-bid-to-block-gaza-war-crimes-investigation?traffic_source=rss" target="_blank">ICC rejects Israeli bid to block Gaza war crimes investigation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-15 18:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +91,20 @@
                 <span class="time">2025-12-15 16:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/reiner_son-p0vmsr.jpg" alt="Rob Reiner&#x27;s son Nick Reiner arrested in connection with parents&#x27; deaths" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/rob-reiner-s-son-nick-reiner-arrested-in-connection-with-parents-deaths-254440005923" target="_blank">Rob Reiner&#x27;s son Nick Reiner arrested in connection with parents&#x27; deaths</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-15 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-vladimir-putin-vladimir-yakushev_7110983.jpg?20251215172657" alt="Frontline with Russia is &#x27;everywhere&#x27; - even &#x27;in the minds of our citizens&#x27;, MI6 chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/frontline-with-russia-is-everywhere-even-in-the-minds-of-our-citizens-mi6-chief-says-13483818" target="_blank">Frontline with Russia is &#x27;everywhere&#x27; - even &#x27;in the minds of our citizens&#x27;, MI6 chief says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-15 16:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/google-logo-500x500.jpg" alt="Google will end dark web reports that alerted users to leaked data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/google-is-shutting-down-dark-web-reports-in-january-because-they-werent-helpful/" target="_blank">Google will end dark web reports that alerted users to leaked data</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-15 18:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/china-rocket-500x500-1765813894.jpg" alt="Oh look, yet another Starship clone has popped up in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +150,20 @@
                 <span class="time">2025-12-15 12:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios" target="_blank">Kindle app now answers questions about the book you’re reading</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-15 12:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18796218&w=600" alt="Escaping the &quot;Excel Trap&quot;: Building an AI-Assisted ETL Pipeline Without a Data Team" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/escaping-the-excel-trap-building-an-ai-assisted-et" target="_blank">Escaping the &quot;Excel Trap&quot;: Building an AI-Assisted ETL Pipeline Without a Data Team</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-15 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -176,10 +176,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-619-features-changes" target="_blank">Linux 6.19 Features: LUO, PCIe Link Encryption, ASUS Armoury, DRM Color Pipeline API &amp; More</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-15 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/news/check-snap-packages-vulnerabilities/" target="_blank">Check Your Snap Packages for Vulnerabilities With This Vibe-Coded Tool</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2025-12-15 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp844kjj37vo" target="_blank">Pro-democracy HK tycoon Jimmy Lai convicted in national security trial</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-15 16:36</span>
             </div>
         </div>
 <div class="story">
@@ -189,33 +207,6 @@
                 <span class="title"><a href="https://dzone.com/articles/2025-dzone-community-survey" target="_blank">DZone&#x27;s 2025 Community Survey</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-15 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical_lxd_hpe_alletra" target="_blank">Native integration available between Canonical LXD and HPE Alletra MP B10000</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-12-15 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2w1ey7jxc9rsoxp2wku.png" alt="AWS Elastic Compute Cloud (EC2) | Amazon Web Services (AWS)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/olymahmud/aws-elastic-compute-cloud-ec2-amazon-web-service-aws-41h8" target="_blank">AWS Elastic Compute Cloud (EC2) | Amazon Web Services (AWS)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-15 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wayland-Protocols-1.47" target="_blank">Wayland Protocols 1.47 Released With Updated Color Management Protocol</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-15 15:47</span>
             </div>
         </div>
 </div>
@@ -297,6 +288,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1765770575-20251215_edit.png" alt="Saturday Morning Breakfast Cereal - Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/life-9" target="_blank">Saturday Morning Breakfast Cereal - Life</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-15 16:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -310,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
