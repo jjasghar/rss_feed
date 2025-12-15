@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 00:05:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-15 01:29:52 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/brown-university-three-shooting-gty-bh-251214_1765744791725_hpMain_4x3t_384.jpg" alt="&#x27;We made eye contact&#x27;: Student describes alleged Brown gunman lecture hall encounter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/made-eye-contact-brown-university-student-describes-alleged/story?id=128396967" target="_blank">&#x27;We made eye contact&#x27;: Student describes alleged Brown gunman lecture hall encounter</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-15 01:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ca2/live/81cdf9a0-4a89-11f0-9471-e380f647874e.jpg" alt="Russia poses acute threat, new MI6 chief to warn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgqzed1vjw5o?at_medium=RSS&at_campaign=rss" target="_blank">Russia poses acute threat, new MI6 chief to warn</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-15 00:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/person-interest-custody-after-brown-university-shooting-official/story?id=128388923" target="_blank">Person of interest detained after fatal Brown University shooting, official says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-14 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ad/live/05ca48a0-d91c-11f0-9ed5-012fa69819f6.jpg" alt="UK events remember Bondi victims as police step up security in Jewish communities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8e95gkl5r3o?at_medium=RSS&at_campaign=rss" target="_blank">UK events remember Bondi victims as police step up security in Jewish communities</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-14 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765739142406_f_mo_policechief_suspect_confident_251214_1920x1080-m86q0s.jpg" alt="Officials hope to bring forth charges in Brown University shooting soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/officials-hope-to-bring-forth-charges-in-brown-university-shooting-soon-254400069693" target="_blank">Officials hope to bring forth charges in Brown University shooting soon</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-14 19:05</span>
             </div>
         </div>
 </div>
@@ -163,6 +169,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kingyou/aws-ami-cross-region-replication-and-sharing-2811" target="_blank">AWS AMI cross-region replication and sharing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-15 01:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://status.claude.com/incidents/9g6qpr72ttbr" target="_blank">Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-14 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-9965-linux-619" target="_blank">Early Linux 6.19 Benchmarks On AMD EPYC 9965 2P Excelling For AI &amp; HPC Performance</a></span>
                 <span class="feed">Phoronix</span>
@@ -194,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/purnez/a-story-on-frontend-architectures-everyone-deserves-a-bff-k27" target="_blank">A story on Frontend Architectures - Everyone deserves a BFF!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-14 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://borretti.me/article/hashcards-plain-text-spaced-repetition" target="_blank">Hashcards: A Plain-Text Spaced Repetition System</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-14 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FamFS-2026-Upstream-Hopes" target="_blank">FamFS Hopes To Go Upstream In 2026</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-14 15:32</span>
             </div>
         </div>
 </div>
@@ -306,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
