@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-14 23:01:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-12-15 00:05:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, December 14, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/14/mbappe-returns-at-alaves-to-ease-real-pressure-on-madrid-coach-alonso?traffic_source=rss" target="_blank">Mbappe returns at Alaves to ease Real pressure on Madrid coach Alonso</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-14 22:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +96,20 @@
                 <span class="time">2025-12-14 19:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ad/live/05ca48a0-d91c-11f0-9ed5-012fa69819f6.jpg" alt="Vigil remembers Bondi victims as police step up security in Jewish communities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8e95gkl5r3o?at_medium=RSS&at_campaign=rss" target="_blank">Vigil remembers Bondi victims as police step up security in Jewish communities</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-14 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/" target="_blank">Grok got crucial facts wrong about Bondi Beach shooting</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-14 23:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +155,6 @@
                 <span class="time">2025-12-14 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/844401/tech-industry-2026-predictions-openai-apple" target="_blank">The end of OpenAI, and other 2026 predictions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-14 14:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +167,15 @@
                 <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-9965-linux-619" target="_blank">Early Linux 6.19 Benchmarks On AMD EPYC 9965 2P Excelling For AI &amp; HPC Performance</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-14 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/09/snap-security-2.jpg?resize=406%2C232&amp;ssl=1" alt="New Website Lets You Scan Snaps for Known Security Vulnerabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/snapscope-snap-security-vulnerability-checker" target="_blank">New Website Lets You Scan Snaps for Known Security Vulnerabilities</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-14 20:23</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/FamFS-2026-Upstream-Hopes" target="_blank">FamFS Hopes To Go Upstream In 2026</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-14 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/preetha_vaishnavi_2b82358/diwali-chakra-3jlb" target="_blank">Diwali Chakra</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-14 14:49</span>
             </div>
         </div>
 </div>
@@ -311,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
