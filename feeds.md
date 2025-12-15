@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 17:04:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-15 18:02:06 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 17:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/15/retrieving-bodies-in-gaza-difficult-due-to-storm-war-ravaged-buildings?traffic_source=rss" target="_blank">Gaza authorities struggle to recover bodies from rubble amid winter storms</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-15 17:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b62/live/2aba99b0-d9dc-11f0-aae2-2191c0e48a3b.jpg" alt="How Bondi&#x27;s Hanukkah festival turned from joy to horror within minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss" target="_blank">How Bondi&#x27;s Hanukkah festival turned from joy to horror within minutes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-15 17:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/brian-walshe-ap-jt-251204_1764874935835_hpMain_4x3t_384.jpg" alt="Brian Walshe found guilty of killing and dismembering his wife" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,39 +83,21 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/compare-contrast/2025/12/15/who-stopped-the-bondi-attack?traffic_source=rss" target="_blank">Who stopped the Bondi attack?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-15 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/15/australian-athlete-becomes-first-female-winner-of-antarctic-ice-marathon?traffic_source=rss" target="_blank">Australian athlete becomes first female winner of Antarctic Ice Marathon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-15 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c542/live/6e8d0d10-d989-11f0-aabd-339166c2b10a.jpg" alt="UK chief rabbi says cousin hid for 15 &#x27;terrifying&#x27; minutes in Bondi attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr7l35jgr0eo?at_medium=RSS&at_campaign=rss" target="_blank">UK chief rabbi says cousin hid for 15 &#x27;terrifying&#x27; minutes in Bondi attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-15 12:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765800961457_tdy_news_7a_chesky_rob_reiner_death_251215_1920x1080-mykfee.jpg" alt="Director Rob Reiner and His Wife Found Dead in Their LA Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/reiner_son-p0vmsr.jpg" alt="Rob Reiner&#x27;s son Nick Reiner arrested in connection with parents&#x27; deaths" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/director-rob-reiner-and-his-wife-found-dead-in-their-la-home-254425157512" target="_blank">Director Rob Reiner and His Wife Found Dead in Their LA Home</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/rob-reiner-s-son-nick-reiner-arrested-in-connection-with-parents-deaths-254440005923" target="_blank">Rob Reiner&#x27;s son Nick Reiner arrested in connection with parents&#x27; deaths</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-15 12:16</span>
+                <span class="time">2025-12-15 16:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-vladimir-putin-vladimir-yakushev_7110983.jpg?20251215172657" alt="Frontline with Russia is &#x27;everywhere&#x27; - even &#x27;in the minds of our citizens&#x27;, MI6 chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/frontline-with-russia-is-everywhere-even-in-the-minds-of-our-citizens-mi6-chief-says-13483818" target="_blank">Frontline with Russia is &#x27;everywhere&#x27; - even &#x27;in the minds of our citizens&#x27;, MI6 chief says</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-15 16:21</span>
             </div>
         </div>
 </div>
@@ -166,12 +165,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/helios_techcomm_552ce9239/why-identity-is-mission-critical-in-ai-to-ai-systems-70i" target="_blank">Why Identity Is Mission-Critical in AI-to-AI Systems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-15 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/check-snap-packages-vulnerabilities/" target="_blank">Check Your Snap Packages for Vulnerabilities With This Vibe-Coded Tool</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-15 16:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803101&w=600" alt="DZone&#x27;s 2025 Community Survey" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/2025-dzone-community-survey" target="_blank">DZone&#x27;s 2025 Community Survey</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-15 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical_lxd_hpe_alletra" target="_blank">Native integration available between Canonical LXD and HPE Alletra MP B10000</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-12-15 15:57</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +218,6 @@
                 <span class="time">2025-12-15 15:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797915&w=600" alt="2026 IaC Predictions: The Year Infrastructure Finally Grows Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/iac-predictions-infrastructure-grows-up" target="_blank">2026 IaC Predictions: The Year Infrastructure Finally Grows Up</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-15 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://relaxing.run/blag/posts/top-gun-landing/" target="_blank">Top Gun&#x27;s Carrier Landing: Exposed</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-15 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18762792&w=600" alt="The Agent Trap: Why AI&#x27;s Autonomous Future Might Be Its Biggest Liability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-ai-autonomous-future-might-be-its-liability" target="_blank">The Agent Trap: Why AI&#x27;s Autonomous Future Might Be Its Biggest Liability</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-15 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,20 +232,20 @@
                 <span class="time">2025-12-15 12:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/upcoming-speaking-engagements-51.html" target="_blank">Upcoming Speaking Engagements</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-14 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/kindle-app-1280x872.jpg" alt="With New ‘Ask this Book’ Kindle Feature, Amazon Wants Lost Readers to Ask AI for Help" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kindle-ask-this-book-ai-2000699503" target="_blank">With New ‘Ask this Book’ Kindle Feature, Amazon Wants Lost Readers to Ask AI for Help</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-15 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/worstgames0225-1280x720.jpg" alt="The 10 Worst Games Of 2025 According To Metacritic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +291,6 @@
                 <span class="time">2025-12-15 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/star-wars-set-1280x853.jpg" alt="LEGO Expands Its Star Wars Starship Clearance, The Dark Falcon Hits a Record Low After the Millennium Falcon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-expands-its-star-wars-starship-clearance-the-dark-falcon-hits-a-record-low-after-the-millennium-falcon-2000653383" target="_blank">LEGO Expands Its Star Wars Starship Clearance, The Dark Falcon Hits a Record Low After the Millennium Falcon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-15 13:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 17:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
