@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 02:36:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-15 03:29:42 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 02:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 03:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251214-rob-reiner-cc-0923p-f274e9.jpg" alt="Two found dead at L.A. home owned by director Rob Reiner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/two-found-dead-rob-reiner-home-brentwood-los-angeles-rcna249223" target="_blank">Two found dead at L.A. home owned by director Rob Reiner</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-15 02:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/church_1765763836887_hpMain_4x3t_384.jpeg" alt="&#x27;A bright light&#x27;: Brown University student identified as shooting victim by church" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/bright-light-brown-university-student-identified-shooting-victim/story?id=128403441" target="_blank">&#x27;A bright light&#x27;: Brown University student identified as shooting victim by church</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-15 02:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +102,20 @@
                 <span class="time">2025-12-14 22:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/12/14/what-is-the-significance-of-trumps-deal-with-belarus?traffic_source=rss" target="_blank">What is the significance of Trump’s deal with Belarus?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-14 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/14/france-calls-to-delay-vote-on-eu-mercosur-trade-deal?traffic_source=rss" target="_blank">France calls to delay vote on EU-Mercosur trade deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-14 21:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/" target="_blank">How iRobot lost its way home</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-15 02:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +161,6 @@
                 <span class="time">2025-12-14 17:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/844408/inside-the-high-drama-of-the-iphone-4" target="_blank">Inside the high drama of the iPhone 4</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-14 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +173,15 @@
                 <span class="title"><a href="https://dev.to/kingyou/aws-ami-cross-region-replication-and-sharing-2811" target="_blank">AWS AMI cross-region replication and sharing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-15 01:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Deck-Crash-Data-Collect" target="_blank">The Opt-In Proactive &amp; Crash Time Data Collection On Valve&#x27;s Steam Deck</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-15 01:20</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/snapscope-snap-security-vulnerability-checker" target="_blank">New Website Lets You Scan Snaps for Known Security Vulnerabilities</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-12-14 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CentOS-Kmods-SIG-NVIDIA" target="_blank">CentOS Kmods SIG Providing NVIDIA Linux Open GPU Kernel Modules For RHEL/CentOS Users</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-14 19:06</span>
             </div>
         </div>
 </div>
@@ -312,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 02:36 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 03:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
