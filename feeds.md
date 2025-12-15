@@ -1,32 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 09:04:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-15 10:02:34 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: The Verge -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 2 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 09:04 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +98,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/844502/starlink-and-chinese-satellites-nearly-collided-last-week" target="_blank">Starlink and Chinese satellites nearly collided last week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-15 09:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/" target="_blank">How iRobot lost its way home</a></span>
                 <span class="feed">TechCrunch</span>
@@ -146,20 +149,20 @@
                 <span class="time">2025-12-14 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/14/making-sense-of-the-risky-netflix-warner-bros-deal/" target="_blank">Making sense of the risky Netflix-Warner Bros. deal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-14 17:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/react-compiler-meta/en/headerimage/generatedHeaderImage-1765489985889.jpg" alt="Meta&#x27;s React Compiler 1.0 Brings Automatic Memoization to Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/react-compiler-meta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta&#x27;s React Compiler 1.0 Brings Automatic Memoization to Production</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-15 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhnct215rr5kqzf6mwwrc.gif" alt="RepoSense API : Repository Intelligence That Actually Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,15 +206,6 @@
                 <span class="title"><a href="https://dev.to/canro91/the-subtle-sign-youre-growing-as-a-coder-1bbl" target="_blank">The Subtle Sign You&#x27;re Growing as a Coder</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-15 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kingyou/aws-ami-cross-region-replication-and-sharing-2811" target="_blank">AWS AMI cross-region replication and sharing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-15 01:22</span>
             </div>
         </div>
 </div>
@@ -315,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
