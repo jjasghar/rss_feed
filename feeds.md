@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 21:01:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-15 22:01:49 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/15/nx-s1-5645002/australia-new-gun-laws-sydney-bondi-shooting" target="_blank">Australia announces strict new gun laws. Here&#x27;s how it can act so swiftly</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-15 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/15/morocco-advances-to-fifa-arab-cup-final-after-defeating-uae-3-0?traffic_source=rss" target="_blank">Morocco advances to FIFA Arab Cup final after defeating UAE 3-0</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-15 21:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +102,38 @@
                 <span class="time">2025-12-15 18:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/15/retrieving-bodies-in-gaza-difficult-due-to-storm-war-ravaged-buildings?traffic_source=rss" target="_blank">Gaza authorities struggle to recover bodies from rubble amid winter storms</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-15 17:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b62/live/2aba99b0-d9dc-11f0-aae2-2191c0e48a3b.jpg" alt="How Bondi&#x27;s Hanukkah festival turned from joy to horror within minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss" target="_blank">How Bondi&#x27;s Hanukkah festival turned from joy to horror within minutes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-15 17:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/" target="_blank">Nvidia bulks up open source offerings with an acquisition and new open AI models</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-15 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/reviews/691319/best-switch-2-cases" target="_blank">I tested 15 cases for the Switch 2 and these are the best</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-15 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg" alt="Microsoft will finally kill obsolete cipher that has wreaked decades of havoc" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/" target="_blank">Microsoft will finally kill obsolete cipher that has wreaked decades of havoc</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-15 21:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,38 +161,20 @@
                 <span class="time">2025-12-15 19:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/15/merriam-webster-names-slop-the-word-of-the-year/" target="_blank">Merriam-Webster names ‘slop’ the word of the year</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-15 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft" target="_blank">Trump is recruiting Big Tech workers for the government</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-15 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69403a3d36797e426d43b34f/master/pass/Deal%20Cozy%20Earth%20Pajamas%20top%20art%20122025%20SOURCE%20Cozy%20Earth.jpg" alt="Cozy Earth Is Offering 40 Percent Off Pajamas Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cozy-earth-pajamas-flash-deal-december-2025/" target="_blank">Cozy Earth Is Offering 40 Percent Off Pajamas Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-15 18:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linus-Torvalds-Too-Many-LSM" target="_blank">Torvalds On Linux Security Modules: &quot;I Already Think We Have Too Many Of Those Pointless Things&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-15 21:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +220,6 @@
                 <span class="time">2025-12-15 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18796218&w=600" alt="Escaping the &quot;Excel Trap&quot;: Building an AI-Assisted ETL Pipeline Without a Data Team" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/escaping-the-excel-trap-building-an-ai-assisted-et" target="_blank">Escaping the &quot;Excel Trap&quot;: Building an AI-Assisted ETL Pipeline Without a Data Team</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-15 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/08/covidcruise-e1765833584297.jpg?fit=768%2C532&amp;quality=60&amp;ssl=1" alt="Sketchy deaths are nearly as likely on cruise ships as contracting an infectious disease" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/15/sketchy-deaths-are-nearly-as-likely-on-cruise-ships-as-contracting-an-infectious-disease.html" target="_blank">Sketchy deaths are nearly as likely on cruise ships as contracting an infectious disease</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-15 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-15 21:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/one-battle-after-another-screening-1280x853.jpg" alt="Illegal Downloads of ‘One Battle After Another’ Contain Dangerous Malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,29 +293,20 @@
                 <span class="time">2025-12-15 19:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/kindle-app-1280x872.jpg" alt="With New ‘Ask this Book’ Kindle Feature, Amazon Wants Lost Readers to Ask AI for Help" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kindle-ask-this-book-ai-2000699503" target="_blank">With New ‘Ask this Book’ Kindle Feature, Amazon Wants Lost Readers to Ask AI for Help</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-15 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/worstgames0225-1280x720.jpg" alt="The 10 Worst Games Of 2025 According To Metacritic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-10-worst-games-of-2025-according-to-metacritic-mindseye-fire-emblem-glover-2000653114" target="_blank">The 10 Worst Games Of 2025 According To Metacritic</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-15 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/15/lorcana" target="_blank">Lorcana</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-15 20:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1765770575-20251215_edit.png" alt="Saturday Morning Breakfast Cereal - Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -316,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
