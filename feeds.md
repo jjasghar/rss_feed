@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 01:29:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-15 02:36:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 02:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/14/nx-s1-5644117/australia-antisemitism-sydney-bondi-beach" target="_blank">Deadly attack on Bondi Beach follows rise in antisemitic incidents in Australia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-15 01:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/brown-university-three-shooting-gty-bh-251214_1765744791725_hpMain_4x3t_384.jpg" alt="&#x27;We made eye contact&#x27;: Student describes alleged Brown gunman lecture hall encounter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +102,20 @@
                 <span class="time">2025-12-14 21:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/suspect-main_1765714270978_hpMain_4x3t_384.jpg" alt="Person of interest detained after fatal Brown University shooting, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/person-interest-custody-after-brown-university-shooting-official/story?id=128388923" target="_blank">Person of interest detained after fatal Brown University shooting, official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-14 21:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm" target="_blank">You need to listen to Sudan Archives&amp;#8217; violin opus for the club</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-14 23:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +161,6 @@
                 <span class="time">2025-12-14 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689443bc2e92607e42ea705d/master/pass/The%20Best%20Walking%20Pads.png" alt="Best Tested Walking Pads (2025): Urevo, WalkingPad, Sperax" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-walking-pads/" target="_blank">Best Tested Walking Pads (2025): Urevo, WalkingPad, Sperax</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-14 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +173,15 @@
                 <span class="title"><a href="https://dev.to/kingyou/aws-ami-cross-region-replication-and-sharing-2811" target="_blank">AWS AMI cross-region replication and sharing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-15 01:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.capros.org/" target="_blank">CapROS: The Capability-Based Reliable Operating System</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-15 00:39</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/CentOS-Kmods-SIG-NVIDIA" target="_blank">CentOS Kmods SIG Providing NVIDIA Linux Open GPU Kernel Modules For RHEL/CentOS Users</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-14 19:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgzx2d0dizkzrftajnsvy.png" alt="A story on Frontend Architectures - Everyone deserves a BFF!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/purnez/a-story-on-frontend-architectures-everyone-deserves-a-bff-k27" target="_blank">A story on Frontend Architectures - Everyone deserves a BFF!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-14 17:58</span>
             </div>
         </div>
 </div>
@@ -312,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 02:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
