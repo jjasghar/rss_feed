@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 14:03:00 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-15 15:03:15 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 14:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +49,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/compare-contrast/2025/12/15/who-stopped-the-bondi-attack?traffic_source=rss" target="_blank">Who stopped the Bondi attack?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-15 14:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/15/australian-athlete-becomes-first-female-winner-of-antarctic-ice-marathon?traffic_source=rss" target="_blank">Australian athlete becomes first female winner of Antarctic Ice Marathon</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-15 13:51</span>
@@ -69,6 +73,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765800961457_tdy_news_7a_chesky_rob_reiner_death_251215_1920x1080-mykfee.jpg" alt="Director Rob Reiner and His Wife Found Dead in Their LA Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/director-rob-reiner-and-his-wife-found-dead-in-their-la-home-254425157512" target="_blank">Director Rob Reiner and His Wife Found Dead in Their LA Home</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-15 12:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/15/g-s1-102270/up-first-newsletter-hanukkah-sydney-bondi-beach-brown-university-shooting-rob-michele-reiner" target="_blank">15 killed in mass shooting in Sydney. And, Rob Reiner and his wife found dead</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-15 12:12</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -77,38 +99,20 @@
                 <span class="time">2025-12-15 11:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/rob_1765765999251_hpMain_4x3t_384.jpg" alt="Director Rob Reiner and wife Michele stabbed to death in Los Angeles home: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/2-found-dead-los-angeles-home-owned-director/story?id=128403864" target="_blank">Director Rob Reiner and wife Michele stabbed to death in Los Angeles home: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-15 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/15/africa-cup-of-nations-2025-full-match-schedule-teams-groups-and-format?traffic_source=rss" target="_blank">Africa Cup of Nations 2025: Full match schedule, teams, groups and format</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-15 10:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/15/nx-s1-5598325/chain-restaurants-nostalgia" target="_blank">For Americans, the love for chain restaurants runs deep</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-15 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/693c6d8d199888f1c10473e8/master/pass/Nvidia-Doubles-Down-AI-Business-2249127231.jpg" alt="Nvidia Becomes a Major Model Maker With Nemotron 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/" target="_blank">Nvidia Becomes a Major Model Maker With Nemotron 3</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-15 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/verizon-jerks-locked-phone-500x500-1765486989.jpg" alt="Verizon refused to unlock man’s iPhone, so he sued the carrier and won" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +158,38 @@
                 <span class="time">2025-12-15 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/844502/starlink-and-chinese-satellites-nearly-collided-last-week" target="_blank">Starlink and Chinese satellites nearly collided last week</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-15 09:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://relaxing.run/blag/posts/top-gun-landing/" target="_blank">Top Gun&#x27;s Carrier Landing: Exposed</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-15 14:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18762792&w=600" alt="The Agent Trap: Why AI&#x27;s Autonomous Future Might Be Its Biggest Liability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-ai-autonomous-future-might-be-its-liability" target="_blank">The Agent Trap: Why AI&#x27;s Autonomous Future Might Be Its Biggest Liability</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-15 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/feast/en/mediumimage/francisco-javier-medium-1765446460483.jpg" alt="Presentation: Powering Enterprise AI Applications with Data and Open Source Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/feast/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Powering Enterprise AI Applications with Data and Open Source Software</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-15 13:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735865&w=600" alt="Ambient Agentic Systems – A New Era Begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -180,46 +202,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jeandevbr/framework-battle-symfony-vs-laravel-which-one-should-you-use-for-your-enterprise-system-350k" target="_blank">Framework Battle: Symfony vs. Laravel — Which One Should You Use for Your Enterprise System?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-15 11:52</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/projects-ditched-by-ubuntu/" target="_blank">7 Projects Killed by Ubuntu (But I Still Miss Them)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-15 12:47</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-DRM-Misc-Next-Post-6.19" target="_blank">Kernel Graphics Driver Changes Already Begin Lining Up For Linux 6.20~7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-15 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/android-glasses-ar-sdk/en/headerimage/glasses-1765795496216.jpg" alt="Google Unveils New Tools and Libraries for Building AI Glasses Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/android-glasses-ar-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Unveils New Tools and Libraries for Building AI Glasses Apps</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-15 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/react-compiler-meta/en/headerimage/generatedHeaderImage-1765489985889.jpg" alt="Meta&#x27;s React Compiler 1.0 Brings Automatic Memoization to Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/react-compiler-meta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta&#x27;s React Compiler 1.0 Brings Automatic Memoization to Production</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-15 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhnct215rr5kqzf6mwwrc.gif" alt="RepoSense API : Repository Intelligence That Actually Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/divyasinghdev/reposense-api-repository-intelligence-that-actually-works-3c3l" target="_blank">RepoSense API : Repository Intelligence That Actually Works</a></span>
+                <span class="title"><a href="https://dev.to/jeandevbr/framework-battle-symfony-vs-laravel-which-one-should-you-use-for-your-enterprise-system-350k" target="_blank">Framework Battle: Symfony vs. Laravel — Which One Should You Use for Your Enterprise System?</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2025-12-15 08:00</span>
+                <span class="time">2025-12-15 11:52</span>
             </div>
         </div>
 </div>
@@ -250,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/G8Ax2nwWUAIvyjy-1280x720.jpg" alt="Not Everyone Is Excited That Leon Is Back In Resident Evil Requiem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-leon-kennedy-grace-playable-split-2000653406" target="_blank">Not Everyone Is Excited That Leon Is Back In Resident Evil Requiem</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-15 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/star-wars-set-1280x853.jpg" alt="LEGO Expands Its Star Wars Starship Clearance, The Dark Falcon Hits a Record Low After the Millennium Falcon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,15 +299,6 @@
                 <span class="time">2025-12-15 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Avatar-3-jake-flying-1280x853.jpg" alt="James Cameron Won’t Let Netflix Buying Warner Bros. Kill Theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/james-cameron-wont-let-netflix-buying-warner-bros-kill-theaters-2000699580" target="_blank">James Cameron Won’t Let Netflix Buying Warner Bros. Kill Theaters</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-15 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 14:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
