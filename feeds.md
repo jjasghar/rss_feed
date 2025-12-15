@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 16:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-15 17:04:47 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 17:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/brian-walshe-ap-jt-251204_1764874935835_hpMain_4x3t_384.jpg" alt="Brian Walshe found guilty of killing and dismembering his wife" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/brian-walshe-murder-trial-wife-jury-reaches-verdict/story?id=128359783" target="_blank">Brian Walshe found guilty of killing and dismembering his wife</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-15 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/15/palestinians-in-gaza-fear-rain-as-war-damaged-buildings-collapse?traffic_source=rss" target="_blank">Palestinians in Gaza fear rain as war-damaged buildings collapse</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-15 16:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +101,20 @@
                 <span class="time">2025-12-15 12:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/15/g-s1-102270/up-first-newsletter-hanukkah-sydney-bondi-beach-brown-university-shooting-rob-michele-reiner" target="_blank">15 killed in mass shooting in Sydney. And, Rob Reiner and his wife found dead</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-15 12:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/12/15/extremely-unlikely-russia-and-ukraine-will-reach-ceasefire?traffic_source=rss" target="_blank">“Extremely unlikely” Russia and Ukraine will reach ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-15 11:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/china-rocket-500x500-1765813894.jpg" alt="Oh look, yet another Starship clone has popped up in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/12/oh-look-yet-another-starship-clone-has-popped-up-in-china/" target="_blank">Oh look, yet another Starship clone has popped up in China</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-15 16:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-633690806-500x500.jpg" alt="Roomba maker iRobot swept into bankruptcy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +160,20 @@
                 <span class="time">2025-12-15 12:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/693cb92142f512253adf01b0/master/pass/Screenshot%202025-12-12%20at%204.52.46%E2%80%AFPM.png" alt="This Startup Wants to Build Self-Driving Car Software—Super Fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hyprlabs-wants-to-build-a-self-driving-robot-super-fast/" target="_blank">This Startup Wants to Build Self-Driving Car Software—Super Fast</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-15 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803101&w=600" alt="DZone&#x27;s 2025 Community Survey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/2025-dzone-community-survey" target="_blank">DZone&#x27;s 2025 Community Survey</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-15 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2w1ey7jxc9rsoxp2wku.png" alt="AWS Elastic Compute Cloud (EC2) | Amazon Web Services (AWS)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +219,6 @@
                 <span class="time">2025-12-15 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/feast/en/mediumimage/francisco-javier-medium-1765446460483.jpg" alt="Presentation: Powering Enterprise AI Applications with Data and Open Source Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/feast/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Powering Enterprise AI Applications with Data and Open Source Software</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-15 13:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/worstgames0225-1280x720.jpg" alt="The 10 Worst Games Of 2025 According To Metacritic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-10-worst-games-of-2025-according-to-metacritic-mindseye-fire-emblem-glover-2000653114" target="_blank">The 10 Worst Games Of 2025 According To Metacritic</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-15 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Roomba-i3-1280x853.jpg" alt="Why You Should Remember the Roomba, Even After iRobot Is Kaput" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/why-you-should-remember-the-roomba-even-after-irobot-is-kaput-2000699704" target="_blank">Why You Should Remember the Roomba, Even After iRobot Is Kaput</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-15 16:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/stephen-miller.jpg?fit=1500%2C957&amp;quality=60&amp;ssl=1" alt="Miller slashes refugees to 7,500, reserves most slots for white Europeans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +301,6 @@
                 <span class="time">2025-12-15 13:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/SAMSUNG-32-Inch-Odyssey-G50D-Series-QHD-Fast-IPS-G-Sync-Compatible-Gaming-Monitor-1280x854.jpg" alt="Samsung Clears Out G50D Odyssey Gaming Monitor at 42% Off, the 32″ Model Is Now Cheaper Than the 27″" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-clears-out-g50d-odyssey-gaming-monitor-at-42-off-the-32%e2%80%b3-model-is-now-cheaper-than-the-27%e2%80%b3-2000653260" target="_blank">Samsung Clears Out G50D Odyssey Gaming Monitor at 42% Off, the 32″ Model Is Now Cheaper Than the 27″</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-15 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ff83926a-62df-4dc4-9fd3-918057e653de-AnimalGuy.webp?fit=986%2C555&amp;quality=55&amp;ssl=1" alt="Man charged with sexually assaulting chickens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/15/man-charged-with-sexually-assaulting-chickens.html" target="_blank">Man charged with sexually assaulting chickens</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-15 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,22 +315,13 @@
                 <span class="time">2025-12-15 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1765695165-20251214_edit.png" alt="Saturday Morning Breakfast Cereal - Tolkien" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/tolkien-2" target="_blank">Saturday Morning Breakfast Cereal - Tolkien</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-14 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 17:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
