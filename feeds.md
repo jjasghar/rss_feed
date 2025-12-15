@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 20:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-15 21:01:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, December 15, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/15/hollywood-director-rob-reiner-wife-murdered-in-los-angeles-home?traffic_source=rss" target="_blank">Hollywood director Rob Reiner, wife, murdered in Los Angeles home</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-15 19:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +97,29 @@
                 <span class="time">2025-12-15 17:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/brian-walshe-ap-jt-251204_1764874935835_hpMain_4x3t_384.jpg" alt="Brian Walshe found guilty of killing and dismembering his wife" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/brian-walshe-murder-trial-wife-jury-reaches-verdict/story?id=128359783" target="_blank">Brian Walshe found guilty of killing and dismembering his wife</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-15 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/844698/sony-ps5-playstation-portal-dualsense-controller-deal-sale-2025" target="_blank">The PS5, PlayStation Portal, and Sony’s DualSense are still on sale for a limited time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-15 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistriah-500x500.png" alt="Microsoft takes down mod that recreated Halo 3 in Counter-Strike 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/12/microsoft-takes-down-mod-that-recreated-halo-3-in-counter-strike-2/" target="_blank">Microsoft takes down mod that recreated Halo 3 in Counter-Strike 2</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-15 20:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/reiner1-500x500-1765826584.jpg" alt="RIP Rob Reiner: Beloved filmmaker dead at 78" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,30 +148,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/google-logo-500x500.jpg" alt="Google will end dark web reports that alerted users to leaked data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media.wired.com/photos/69403a3d36797e426d43b34f/master/pass/Deal%20Cozy%20Earth%20Pajamas%20top%20art%20122025%20SOURCE%20Cozy%20Earth.jpg" alt="Cozy Earth Is Offering 40 Percent Off Pajamas Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/google-is-shutting-down-dark-web-reports-in-january-because-they-werent-helpful/" target="_blank">Google will end dark web reports that alerted users to leaked data</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-15 18:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/china-rocket-500x500-1765813894.jpg" alt="Oh look, yet another Starship clone has popped up in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/12/oh-look-yet-another-starship-clone-has-popped-up-in-china/" target="_blank">Oh look, yet another Starship clone has popped up in China</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-15 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-633690806-500x500.jpg" alt="Roomba maker iRobot swept into bankruptcy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/" target="_blank">Roomba maker iRobot swept into bankruptcy</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-15 15:24</span>
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cozy-earth-pajamas-flash-deal-december-2025/" target="_blank">Cozy Earth Is Offering 40 Percent Off Pajamas Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-15 18:27</span>
             </div>
         </div>
 </div>
@@ -170,6 +161,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-44-ARM-OOTB" target="_blank">Fedora 44 Could Work Nicely &quot;Out Of The Box&quot; On Snapdragon-Powered Windows ARM Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-15 20:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnsunvd8nbbj6sgrc0hs.PNG" alt="HarisLab.tech: Solve Digital Challenges Before They Slow You Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,6 +189,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873" target="_blank">Upcoming Changes to Let&#x27;s Encrypt Certificates</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-15 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797437&w=600" alt="Streaming vs In-Memory DataWeave: Designing for 1M+ Records Without Crashing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -204,24 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/escaping-the-excel-trap-building-an-ai-assisted-et" target="_blank">Escaping the &quot;Excel Trap&quot;: Building an AI-Assisted ETL Pipeline Without a Data Team</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-15 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/helios_techcomm_552ce9239/why-identity-is-mission-critical-in-ai-to-ai-systems-70i" target="_blank">Why Identity Is Mission-Critical in AI-to-AI Systems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-15 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-619-features-changes" target="_blank">Linux 6.19 Features: LUO, PCIe Link Encryption, ASUS Armoury, DRM Color Pipeline API &amp; More</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-15 17:20</span>
             </div>
         </div>
 </div>
@@ -243,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/one-battle-after-another-screening-1280x853.jpg" alt="Illegal Downloads of ‘One Battle After Another’ Contain Dangerous Malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/illegal-downloads-of-one-battle-after-another-contain-dangerous-malware-2000699788" target="_blank">Illegal Downloads of ‘One Battle After Another’ Contain Dangerous Malware</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-15 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCHMR17GGG310W2F5CAXYV28/hero-image.jpg" alt="If Some Photos Are Inexplicably Turning Red on Your iPhone, There&#x27;s a Fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-fix-photos-turning-red-on-your-iphone?utm_medium=RSS" target="_blank">If Some Photos Are Inexplicably Turning Red on Your iPhone, There&#x27;s a Fix</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-15 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/the-outer-worlds-2-release-date-1280x720.jpg" alt="The Outer Worlds 2 Is So Good It Makes The Wait For Fallout 5 That Much Easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +288,6 @@
                 <span class="time">2025-12-15 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Roomba-i3-1280x853.jpg" alt="Why You Should Remember the Roomba, Even After iRobot Is Kaput" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/why-you-should-remember-the-roomba-even-after-irobot-is-kaput-2000699704" target="_blank">Why You Should Remember the Roomba, Even After iRobot Is Kaput</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-15 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/stephen-miller.jpg?fit=1500%2C957&amp;quality=60&amp;ssl=1" alt="Miller slashes refugees to 7,500, reserves most slots for white Europeans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/15/miller-slashes-refugees-to-7500-reserves-most-slots-for-white-europeans.html" target="_blank">Miller slashes refugees to 7,500, reserves most slots for white Europeans</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-15 15:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
