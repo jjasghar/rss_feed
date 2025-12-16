@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 09:04:08 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-16 10:01:44 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 09:04 UTC</div>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c426/live/fc1ddf20-d9a6-11f0-b67b-690eb873de1b.jpg" alt="Who are the Bondi shooting victims?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss" target="_blank">Who are the Bondi shooting victims?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-16 09:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/16/nx-s1-5637216/morning-news-brief" target="_blank">Morning news brief</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-16 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/16/south-africa-russia-men-tricked-fighting-ukraine" target="_blank">South Africa in talks with Russia over men ‘tricked’ into fighting in Ukraine</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-16 09:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/12/16/has-benins-foiled-coup-made-ecowas-a-west-african-heavyweight-once-more?traffic_source=rss" target="_blank">Has Benin’s foiled coup made ECOWAS a West African heavyweight once more?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-16 09:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -63,42 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/16/nx-s1-5645651/byheart-baby-formula-recall-too-slow" target="_blank">Retailers didn&#x27;t pull ByHeart baby formula fast enough after botulism recall, FDA says</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-16 07:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/16/moroccos-safi-counts-the-cost-in-aftermath-of-deadly-flash-floods?traffic_source=rss" target="_blank">Morocco’s Safi counts the cost in aftermath of deadly flash floods</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-16 06:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/16/us-military-kills-eight-in-latest-attacks-on-vessels-in-eastern-pacific?traffic_source=rss" target="_blank">US military kills 8 in latest attacks on vessels in eastern Pacific</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-16 05:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/16/libya-national-museum-reopens" target="_blank">Libya looks to its past to build a new future as national museum reopens</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-16 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/16/trump-sues-bbc-for-10bn-over-edited-2021-capitol-riot-speech?traffic_source=rss" target="_blank">Trump sues BBC for $10bn over edited 2021 US Capitol riot speech</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-16 04:17</span>
             </div>
         </div>
 </div>
@@ -205,7 +205,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://apple.github.io/ml-sharp/" target="_blank">Sharp</a></span>
+                <span class="title"><a href="https://apple.github.io/ml-sharp/" target="_blank">SHARP, an approach to photorealistic view synthesis from a single image</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-16 04:06</span>
             </div>
@@ -213,10 +213,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pauljlucas/advanced-c-preprocessor-macros-for-a-type-safe-varargs-substitute-2aog" target="_blank">Advanced C Preprocessor Macros for a Type-Safe Varargs Substitute</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-16 03:16</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://apple.github.io/ml-sharp/" target="_blank">Sharp</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-16 04:06</span>
             </div>
         </div>
 </div>
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
