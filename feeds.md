@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 21:01:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-16 22:01:42 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +54,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cg4ng7ee9vwo?at_medium=RSS&at_campaign=rss" target="_blank">Erasmus scheme to return for UK students</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-16 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251216-nick-reiner-mn-0833-f5bdba.jpg" alt="Nick Reiner to be charged with first-degree murder in the deaths of his parents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/nick-reiner-not-medically-cleared-appear-court-arrest-connection-death-rcna249460" target="_blank">Nick Reiner to be charged with first-degree murder in the deaths of his parents</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-16 18:04</span>
             </div>
         </div>
 <div class="story">
@@ -89,20 +101,29 @@
                 <span class="time">2025-12-16 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/16/israel-denies-entry-to-canadian-mps-trying-to-reach-occupied-west-bank?traffic_source=rss" target="_blank">Israel denies entry to Canadian MPs trying to reach occupied West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-16 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/16/wikiflix-shows-us-what-netflix-would-have-been-like-100-years-ago/" target="_blank">WikiFlix shows us what Netflix would have been like 100 years ago</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-16 21:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/845725/taylor-swift-gudea-report-rolling-stone-social-media-discourse-bots" target="_blank">A vague study on Nazi bots created chaos in the Taylor Swift fan universe</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-16 21:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +160,38 @@
                 <span class="time">2025-12-16 19:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/iMac-Pro-front-scaled-1-500x500-1765906258.jpeg" alt="Software leaks point to the first Apple Silicon “iMac Pro,” among other devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/leaked-debug-kit-suggests-apple-is-testing-a-new-imac-pro-among-many-other-macs/" target="_blank">Software leaks point to the first Apple Silicon “iMac Pro,” among other devices</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-16 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/16/doordash-rolls-out-zesty-an-ai-social-app-for-discovering-new-restaurants/" target="_blank">DoorDash rolls out Zesty, an AI social app for discovering new restaurants</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-16 18:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/enterprise-automation-resilience-edb-and-ansible-automation-platform" target="_blank">Enterprise automation resilience with EDB and Red Hat Ansible Automation Platform</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-12-17 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/magalucloud/como-provisionar-um-cluster-postgresql-no-dbaas-da-magalu-cloud-com-failover-automatico-2n53" target="_blank">Como provisionar um cluster PostgreSQL no DBaaS da Magalu Cloud com failover automático</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-16 21:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://astral.sh/blog/ty" target="_blank">ty: An extremely fast Python type checker and language server</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-16 21:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,48 +202,21 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfdxrrer9xtx4by0evfk.png" alt="The Modern Scrapy Developer&#x27;s Guide (Part 3): Auto-Generating Page Objects with Web Scraping Co-pilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zyte/the-modern-scrapy-developers-guide-part-3-auto-generating-page-objects-with-web-scraping-59fj" target="_blank">The Modern Scrapy Developer&#x27;s Guide (Part 3): Auto-Generating Page Objects with Web Scraping Co-pilot</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-16 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/Mozilla-Logo-New.jpg?resize=406%2C232&amp;ssl=1" alt="Mozilla’s New CEO Says Firefox Will ‘Evolve into an AI Browser’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy" target="_blank">Mozilla’s New CEO Says Firefox Will ‘Evolve into an AI Browser’</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-16 18:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18799101&w=600" alt="Understanding Multimodal Applications: When AI Models Work Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18799242&w=600" alt="What Apple’s Native Containers Mean for Docker Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/understanding-multimodal-applications-when-ai-mode" target="_blank">Understanding Multimodal Applications: When AI Models Work Together</a></span>
+                <span class="title"><a href="https://dzone.com/articles/what-apples-native-containers-mean-for-docker-user" target="_blank">What Apple’s Native Containers Mean for Docker Users</a></span>
                 <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-16 18:00</span>
+                <span class="time">2025-12-16 20:00</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797447&w=600" alt="How We Predict Dataflow Job Duration Using ML and Observability Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/predicting-dataflow-job-duration-based-on-ml-model" target="_blank">How We Predict Dataflow Job Duration Using ML and Observability Data</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-16 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/fe83102d-fbba-420b-9a15-dadb751dfabf_1596x948.png" alt="How AWS deals with a major outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-aws-deals-with-a-major-outage" target="_blank">How AWS deals with a major outage</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-12-16 16:58</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Cache-Aware-Scheduling-2025" target="_blank">Intel&#x27;s Cache Aware Scheduling Presentation At LPC 2025</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-16 19:23</span>
             </div>
         </div>
 </div>
@@ -254,6 +257,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Karoline-Leavitt2C-USA-Propaganda-Queen.-sticker-.jpg?fit=1080%2C1439&amp;quality=60&amp;ssl=1" alt="&quot;Cronyism in couture&quot;: Vanity Fair publishes brilliant new portraits, capturing the &quot;hideousness of this administration&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/16/cronyism-in-couture-vanity-fair-publishes-brilliant-new-portraits-capturing-the-hideousness-of-this-administration.html" target="_blank">&quot;Cronyism in couture&quot;: Vanity Fair publishes brilliant new portraits, capturing the &quot;hideousness of this administration&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-16 20:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2023/08/9a6e2607ac869f5b212e27f742ac224f-1280x720.jpg" alt="Larian’s AI Use Has Even Baldur’s Gate 3 Diehards Speaking Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -289,15 +301,6 @@
                 <span class="time">2025-12-16 18:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCM1VRWW6TRJC31YHZHR8XPS/hero-image.webp" alt="Instagram Reels May Be Coming to Your TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/instagram-reels-for-tv-app?utm_medium=RSS" target="_blank">Instagram Reels May Be Coming to Your TV</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-16 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
