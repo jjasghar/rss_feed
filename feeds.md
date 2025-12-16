@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 05:03:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-16 06:02:26 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 05:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,9 +52,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/16/us-military-kills-eight-in-latest-attacks-on-vessels-in-eastern-pacific?traffic_source=rss" target="_blank">US military kills 8 in latest attacks on vessels in eastern Pacific</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-16 05:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/16/trump-sues-bbc-for-10bn-over-edited-2021-capitol-riot-speech?traffic_source=rss" target="_blank">Trump sues BBC for $10bn over edited 2021 US Capitol riot speech</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-16 04:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/15/nx-s1-5645149/wmd-fentanyl-trump-cartels" target="_blank">Trump designates street fentanyl as WMD, escalating militarization of drug war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-16 02:47</span>
             </div>
         </div>
 <div class="story">
@@ -77,29 +102,20 @@
                 <span class="time">2025-12-15 23:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/12/15/how-will-the-us-respond-to-the-killing-of-three-of-its-soldiers-in-syria?traffic_source=rss" target="_blank">How will US respond to the killing of three of its soldiers in Syria?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-15 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-all-electric-f-150-lightning" target="_blank">Ford pulls the plug on the all-electric F-150 Lightning pickup truck</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-15 22:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="Govee Discount Codes and Deals: 30% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/govee-discount-code/" target="_blank">Govee Discount Codes and Deals: 30% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-16 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +161,38 @@
                 <span class="time">2025-12-15 22:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2241620003-500x500.jpg" alt="Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/" target="_blank">Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-15 22:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/16/live-from-re-invent-it-s-stack-overflow/" target="_blank">Live from re:Invent…it’s Stack Overflow!</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-16 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-high-fidelity-with-bill-simmons-chris-ryan-joanna-robinson-and-rob-mahoney--5foc" target="_blank">Ringer Movies: ‘High Fidelity’ With Bill Simmons, Chris Ryan, Joanna Robinson, and Rob Mahoney | The Rewatchables</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-16 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://apple.github.io/ml-sharp/" target="_blank">Sharp</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-16 04:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,33 +218,6 @@
                 <span class="title"><a href="https://dev.to/josefilipe_dev/building-a-digital-menu-system-for-restaurants-personal-project-2n9h" target="_blank">Building a Digital Menu System for Restaurants – Personal Project</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-16 02:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Games-Lab-2026" target="_blank">Fedora Games Lab Looks To Be Revitalized As Modern Linux Gaming Showcase</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-16 01:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://quill-os.org/" target="_blank">Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-16 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6avj75wpobifzt1fys7f.jpg" alt="JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/subha_ganapathi_6766a247c/json-parsing-for-large-payloads-balancing-speed-memory-and-scalability-i1f" target="_blank">JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-15 22:55</span>
             </div>
         </div>
 </div>
@@ -332,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 05:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
