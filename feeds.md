@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 22:01:42 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-12-16 23:01:59 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/providence-main_1765871392987_hpMain_4x3t_384.jpg" alt="FBI video shows man sought in Brown University shooting near police after attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/brown-university-shooting-manhunt-continues-fbi-offers-reward/story?id=128443272" target="_blank">FBI video shows man sought in Brown University shooting near police after attack</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-16 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765920852403_now_brk_rob_reiner_murder_charges_251216_1920x1080-w7eapu.jpg" alt="Rob Reiner&#x27;s son, Nick, charged with two counts of first degree murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/nick-reiner-to-be-charged-with-murder-in-death-of-parents-254531141952" target="_blank">Rob Reiner&#x27;s son, Nick, charged with two counts of first degree murder</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-16 21:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ed/live/dc9209f0-daa6-11f0-b825-331725716d67.jpg" alt="Erasmus scheme to return for UK students" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,24 +97,6 @@
                 <span class="time">2025-12-16 17:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251216-mike-johnson-ew-1145a-6f32dc.jpg" alt="House Republican leaders ditch vote on ACA funding, all but ensuring premiums will rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/republicans-ditch-vote-obamacare-funding-premiums-rise-2026-rcna249521" target="_blank">House Republican leaders ditch vote on ACA funding, all but ensuring premiums will rise</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-16 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/16/nx-s1-5639224/arctic-climate-change-noaa-report" target="_blank">New report finds the Arctic continues to warm faster than the planet as a whole</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-16 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,10 +105,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026" target="_blank">Samsung’s 2026 Micro RGB LED TVs can actually fit in your living room</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-16 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/16/wikiflix-shows-us-what-netflix-would-have-been-like-100-years-ago/" target="_blank">WikiFlix shows us what Netflix would have been like 100 years ago</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-16 21:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/smart-tv-and-phone-500x500-1765917391.jpg" alt="Texas sues biggest TV makers, alleging smart TVs spy on users without consent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/texas-sues-biggest-tv-makers-alleging-smart-tvs-spy-on-users-without-consent/" target="_blank">Texas sues biggest TV makers, alleging smart TVs spy on users without consent</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-16 21:57</span>
             </div>
         </div>
 <div class="story">
@@ -142,24 +156,6 @@
                 <span class="time">2025-12-16 20:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/845713/larian-ceo-divinity-ai-swen-vincke" target="_blank">Larian’s CEO says the studio isn’t ‘trimming down teams to replace them with AI’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-16 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/845499/hollyland-lyra-4k-uhd-webcam-wireless-receiver-lark-a1-microphone" target="_blank">You can pair a tiny wireless mic to this 4K webcam</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-16 19:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,6 +177,15 @@
                 <span class="title"><a href="https://dev.to/magalucloud/como-provisionar-um-cluster-postgresql-no-dbaas-da-magalu-cloud-com-failover-automatico-2n53" target="_blank">Como provisionar um cluster PostgreSQL no DBaaS da Magalu Cloud com failover automático</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-16 21:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html" target="_blank">Prediction: AI will make formal verification go mainstream</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-16 21:14</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/what-apples-native-containers-mean-for-docker-user" target="_blank">What Apple’s Native Containers Mean for Docker Users</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-16 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Cache-Aware-Scheduling-2025" target="_blank">Intel&#x27;s Cache Aware Scheduling Presentation At LPC 2025</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-16 19:23</span>
             </div>
         </div>
 </div>
@@ -248,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/anker-solix-c1000-v2-1280x853.jpg" alt="Anker SOLIX C1000 at Record Low for Christmas on Amazon, Charge 10 Devices With 2,000W Output at Once" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/anker-solix-c1000-at-record-low-for-christmas-on-amazon-charge-10-devices-with-2000w-output-at-once-2000653967" target="_blank">Anker SOLIX C1000 at Record Low for Christmas on Amazon, Charge 10 Devices With 2,000W Output at Once</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-16 22:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Ben-Kingsley-Wonder-Man-1280x853.jpg" alt="Ben Kingsley Also Can’t Believe He’s Starring in ‘Wonder Man’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -266,6 +271,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCM9NC7J8EWZJM27967BRMY5/hero-image.png" alt="The 10 Essential Apps for Any DIY Home Remodel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/useful-apps-for-diy-projects?utm_medium=RSS" target="_blank">The 10 Essential Apps for Any DIY Home Remodel</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-16 20:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2023/08/9a6e2607ac869f5b212e27f742ac224f-1280x720.jpg" alt="Larian’s AI Use Has Even Baldur’s Gate 3 Diehards Speaking Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -281,24 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/outer-worlds-2-flaws-system-great-how-it-works-rpg-xbox-obsidian-2000653910" target="_blank">Damn, The Outer Worlds 2‘s Flaw System Is So Good</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-16 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/KarlUrbanJohnnyCage-1280x853.jpg" alt="Karl Urban Says Johnny Cage Is the Most Physically Demanding Role He’s Ever Had" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/karl-urban-says-johnny-cage-is-the-most-physically-demanding-role-hes-ever-had-2000700290" target="_blank">Karl Urban Says Johnny Cage Is the Most Physically Demanding Role He’s Ever Had</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-16 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/year-in-review-2025-best-movie-posters-thunderbolts-predator-frankenstein-1280x853.jpg" alt="Movie Posters Leveled Up (at Least a Little Bit) in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/movie-posters-leveled-up-at-least-a-little-bit-in-2025-2000698512" target="_blank">Movie Posters Leveled Up (at Least a Little Bit) in 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-16 18:02</span>
             </div>
         </div>
 </div>
@@ -329,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
