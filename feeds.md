@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 12:02:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-16 13:13:49 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 12:03 UTC</div>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 13:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +51,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/16/thailand-demands-unilateral-ceasefire-announcement-from-cambodia?traffic_source=rss" target="_blank">Thailand demands unilateral ceasefire announcement from Cambodia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-16 12:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/16/g-s1-102417/up-first-newsletter-rob-reiner-michele-nick-brown-shooting-bondi-beach-shooting" target="_blank">Rob Reiner&#x27;s son Nick arrested. And, Brown University shooting suspect image released</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-16 12:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/16/australia-mourns-as-details-of-bondi-shooting-victims-emerge?traffic_source=rss" target="_blank">Australia mourns as details of Bondi shooting victims emerge</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-16 11:35</span>
@@ -67,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9de3/live/c2c6b090-da77-11f0-a8dc-93c15fe68710.jpg" alt="Dashcam video shows couple trying to stop gunman before being killed in Bondi attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss" target="_blank">Dashcam video shows couple trying to stop gunman before being killed in Bondi attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-16 11:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/providence-main_1765871392987_hpMain_4x3t_384.jpg" alt="As Brown shooting manhunt continues, FBI offers reward for info leading to conviction" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -75,38 +101,29 @@
                 <span class="time">2025-12-16 10:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c426/live/fc1ddf20-d9a6-11f0-b67b-690eb873de1b.jpg" alt="Who are the Bondi shooting victims?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss" target="_blank">Who are the Bondi shooting victims?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-16 09:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/16/nx-s1-5637216/morning-news-brief" target="_blank">Morning news brief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-16 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/16/south-africa-russia-men-tricked-fighting-ukraine" target="_blank">South Africa in talks with Russia over men ‘tricked’ into fighting in Ukraine</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-16 09:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68563692fd268ad4c81d6dc3/master/pass/The%2014%20Best%20Office%20Chairs.png" alt="15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-office-chairs/" target="_blank">15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-16 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/16/nuclear-startup-last-energy-raises-100m-for-its-steel-encased-micro-reactor/" target="_blank">Nuclear startup Last Energy raises $100M for its steel-encased micro reactor</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-16 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +160,20 @@
                 <span class="time">2025-12-16 01:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/15/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power/" target="_blank">VCs discuss why most consumer AI startups still lack staying power</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-16 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69409cfc0b71868f273ffce7/master/pass/OpenAI-Loses-Chief-Communications-Officer-Business-2218358100.jpg" alt="OpenAI’s Chief Communications Officer Is Leaving the Company" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-chief-communications-officer-hannah-wong-leaves/" target="_blank">OpenAI’s Chief Communications Officer Is Leaving the Company</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-16 00:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18794231&w=600" alt="Building Cost-Efficient ETL with Apache Spark Structured Streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-cost-efficient-etl-with-apache-spark-stru" target="_blank">Building Cost-Efficient ETL with Apache Spark Structured Streaming</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-16 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/a-k-0047/essential-shell-scripting-basics-you-should-know-first-3in6" target="_blank">Essential Shell Scripting Basics You Should Know First</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-16 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/ax-hyperparameter-optimization/en/headerimage/meta-ax-optimization-1765883669913.jpeg" alt="Meta&#x27;s Optimization Platform Ax 1.0 Streamlines LLM and System Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/ax-hyperparameter-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta&#x27;s Optimization Platform Ax 1.0 Streamlines LLM and System Optimization</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-16 11:30</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/wideiot/what-benefits-can-industrial-iot-bring-to-factories-2acg" target="_blank">What Benefits Can Industrial IoT Bring to Factories?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-16 08:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/16/live-from-re-invent-it-s-stack-overflow/" target="_blank">Live from re:Invent…it’s Stack Overflow!</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-16 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgz318y8elo" target="_blank">Children with cancer scammed out of millions fundraised for their treatment</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-16 06:17</span>
             </div>
         </div>
 </div>
@@ -316,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 12:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 13:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
