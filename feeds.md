@@ -1,33 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 01:29:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-16 02:33:21 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 02:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/16/russia-ukraine-war-list-of-key-events-day-1391?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,391</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-16 01:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765841906741_nn_mch_rob_reiner_251215_1920x1080-o34ery.jpg" alt="Police: Rob Reiner’s son &#x27;responsible&#x27; for murder of his parents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +91,20 @@
                 <span class="time">2025-12-15 21:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/15/morocco-advances-to-fifa-arab-cup-final-after-defeating-uae-3-0?traffic_source=rss" target="_blank">Morocco advances to FIFA Arab Cup final after defeating UAE 3-0</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-15 21:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/15/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power/" target="_blank">VCs discuss why most consumer AI startups still lack staying power</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-16 00:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69409cfc0b71868f273ffce7/master/pass/OpenAI-Loses-Chief-Communications-Officer-Business-2218358100.jpg" alt="OpenAI’s Chief Communications Officer Is Leaving the Company" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +150,29 @@
                 <span class="time">2025-12-15 22:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/691319/best-switch-2-cases" target="_blank">I tested 15 cases for the Switch 2 and these are the best</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-15 21:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/josefilipe_dev/building-a-digital-menu-system-for-restaurants-personal-project-2n9h" target="_blank">Building a Digital Menu System for Restaurants – Personal Project</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-16 02:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://quill-os.org/" target="_blank">Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-16 00:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6avj75wpobifzt1fys7f.jpg" alt="JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +207,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linus-Torvalds-Too-Many-LSM" target="_blank">Torvalds On Linux Security Modules: &quot;I Already Think We Have Too Many Of Those Pointless Things&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-15 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-44-ARM-OOTB" target="_blank">Fedora 44 Could Work Nicely &quot;Out Of The Box&quot; On Snapdragon-Powered Windows ARM Laptops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-15 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnsunvd8nbbj6sgrc0hs.PNG" alt="HarisLab.tech: Solve Digital Challenges Before They Slow You Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/muhammad_haris_7828c7aeda/harislabtech-solve-digital-challenges-before-they-slow-you-down-l3o" target="_blank">HarisLab.tech: Solve Digital Challenges Before They Slow You Down</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-15 19:43</span>
             </div>
         </div>
 </div>
@@ -325,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 02:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
