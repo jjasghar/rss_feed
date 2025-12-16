@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-15 23:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-16 00:05:12 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, December 15, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-f-150-lightning" target="_blank">Ford pulls the plug on the F-150 Lightning electric pickup truck</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-15 22:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +101,6 @@
                 <span class="time">2025-12-15 18:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/15/icc-rejects-israeli-bid-to-block-gaza-war-crimes-investigation?traffic_source=rss" target="_blank">ICC rejects Israeli bid to block Gaza war crimes investigation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-15 18:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,10 +109,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/" target="_blank">OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-15 23:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/844964/how-irobot-invented-the-roomba-and-lost-the-future-of-home-robotics" target="_blank">How Roomba invented the home robot — and lost the future</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-15 22:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2241620003-500x500.jpg" alt="Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/" target="_blank">Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-15 22:41</span>
             </div>
         </div>
 <div class="story">
@@ -140,24 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/" target="_blank">Microsoft will finally kill obsolete cipher that has wreaked decades of havoc</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-12-15 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/844698/sony-ps5-playstation-portal-dualsense-controller-deal-sale-2025" target="_blank">The PS5, PlayStation Portal, and Sony’s DualSense are still on sale for a limited time</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-15 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistriah-500x500.png" alt="Microsoft takes down mod that recreated Halo 3 in Counter-Strike 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/12/microsoft-takes-down-mod-that-recreated-halo-3-in-counter-strike-2/" target="_blank">Microsoft takes down mod that recreated Halo 3 in Counter-Strike 2</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-15 20:20</span>
             </div>
         </div>
 </div>
@@ -239,6 +239,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/laptop-dell-i7-1280x853.jpg" alt="Dell i7 1TB Laptop Rated 5/5 Stars Drops 73% Off on Amazon, Crashes to All-Time Low With $200 Bonus Pack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dell-i7-1tb-laptop-rated-5-5-stars-drops-73-off-on-amazon-crashes-to-all-time-low-with-200-bonus-pack-2000653526" target="_blank">Dell i7 1TB Laptop Rated 5/5 Stars Drops 73% Off on Amazon, Crashes to All-Time Low With $200 Bonus Pack</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-15 23:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_2589320083-1280x853.jpg" alt="Trump Is Building a ‘U.S. Tech Force’ of 1,000+ Early Career Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-is-building-a-u-s-tech-force-of-1000-early-career-workers-2000699779" target="_blank">Trump Is Building a ‘U.S. Tech Force’ of 1,000+ Early Career Workers</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-15 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/ss_c952b64b96c7ec4da866053f323d3d9b1baf48ee.1920x1080-1280x715.jpg" alt="Lords Of The Fallen 2 Dev Promises Sexy Women But Fans Just Want Better Soulslike Gameplay" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -272,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-15 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/one-battle-after-another-screening-1280x853.jpg" alt="Illegal Downloads of ‘One Battle After Another’ Contain Dangerous Malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/illegal-downloads-of-one-battle-after-another-contain-dangerous-malware-2000699788" target="_blank">Illegal Downloads of ‘One Battle After Another’ Contain Dangerous Malware</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-15 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCHMR17GGG310W2F5CAXYV28/hero-image.jpg" alt="If Some Photos Are Inexplicably Turning Red on Your iPhone, There&#x27;s a Fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-fix-photos-turning-red-on-your-iphone?utm_medium=RSS" target="_blank">If Some Photos Are Inexplicably Turning Red on Your iPhone, There&#x27;s a Fix</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-15 20:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
