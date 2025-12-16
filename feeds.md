@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 03:28:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-16 04:11:45 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 03:28 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 04:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +52,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/16/russia-ukraine-war-list-of-key-events-day-1391?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,391</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-16 01:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/reiner-gty-jef-251215_1765803398826_hpMain_4x3t_384.jpg" alt="Tributes pour in after Rob Reiner, Michele Singer found dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/GMA/Culture/tributes-pour-after-rob-reiner-michele-singer-found/story?id=128410525" target="_blank">Tributes pour in after Rob Reiner, Michele Singer found dead</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-16 00:12</span>
             </div>
         </div>
 <div class="story">
@@ -87,20 +99,20 @@
                 <span class="time">2025-12-15 22:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/15/nx-s1-5645002/australia-new-gun-laws-sydney-bondi-shooting" target="_blank">Australia announces strict new gun laws. Here&#x27;s how it can act so swiftly</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-15 21:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2" target="_blank">Silksong is getting a free expansion next year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-16 01:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +158,6 @@
                 <span class="time">2025-12-15 22:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/" target="_blank">Nvidia bulks up open source offerings with an acquisition and new open AI models</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-15 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +170,15 @@
                 <span class="title"><a href="https://dev.to/pauljlucas/advanced-c-preprocessor-macros-for-a-type-safe-varargs-substitute-2aog" target="_blank">Advanced C Preprocessor Macros for a Type-Safe Varargs Substitute</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-16 03:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection" target="_blank">8M Users&#x27; AI Conversations Sold for Profit by &quot;Privacy&quot; Extensions</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-16 03:03</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/subha_ganapathi_6766a247c/json-parsing-for-large-payloads-balancing-speed-memory-and-scalability-i1f" target="_blank">JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-15 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GIMP-3.2-RC2" target="_blank">GIMP 3.2-RC2 Brings Bug Fixes &amp; Minor Refinements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-15 22:35</span>
             </div>
         </div>
 </div>
@@ -324,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 03:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 04:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
