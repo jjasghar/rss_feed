@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 19:03:10 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-16 20:01:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 19:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +104,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/845499/hollyland-lyra-4k-uhd-webcam-wireless-receiver-lark-a1-microphone" target="_blank">You can pair a tiny wireless mic to this 4K webcam</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-16 19:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/iMac-Pro-front-scaled-1-500x500-1765906258.jpeg" alt="Software leaks point to the first Apple Silicon “iMac Pro,” among other devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/leaked-debug-kit-suggests-apple-is-testing-a-new-imac-pro-among-many-other-macs/" target="_blank">Software leaks point to the first Apple Silicon “iMac Pro,” among other devices</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-16 18:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/16/doordash-rolls-out-zesty-an-ai-social-app-for-discovering-new-restaurants/" target="_blank">DoorDash rolls out Zesty, an AI social app for discovering new restaurants</a></span>
                 <span class="feed">TechCrunch</span>
@@ -142,24 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/845124/instagram-reels-tv-app" target="_blank">Instagram is putting Reels on your TV</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-16 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/2026-Mercedes-Benz-CLA-4-500x500-1765897336.jpg" alt="2026 Mercedes CLA first drive: Entry level doesn’t mean basic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/12/2026-mercedes-cla-first-drive-entry-level-doesnt-mean-basic/" target="_blank">2026 Mercedes CLA first drive: Entry level doesn’t mean basic</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-16 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/694054d74c260579548374fe/master/pass/Holiday%20Meal%20Kit%20Update%20top%20art%20122025%20SOURCE%20Sunbasket.jpg" alt="The Best Holiday Delivery Meal Kits (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/holiday-meal-kits-2025/" target="_blank">The Best Holiday Delivery Meal Kits (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-16 15:01</span>
             </div>
         </div>
 </div>
@@ -250,6 +243,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/outerworlds2-1280x720.jpg" alt="Damn, The Outer Worlds 2‘s Flaw System Is So Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/outer-worlds-2-flaws-system-great-how-it-works-rpg-xbox-obsidian-2000653910" target="_blank">Damn, The Outer Worlds 2‘s Flaw System Is So Good</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-16 19:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/KarlUrbanJohnnyCage-1280x853.jpg" alt="Karl Urban Says Johnny Cage Is the Most Physically Demanding Role He’s Ever Had" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -294,15 +296,6 @@
                 <span class="time">2025-12-16 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J67YJ76YS4T5E10ESPXG8906/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Sonos Era 100" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-deal-of-the-day-sonos-era-100-speaker?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Sonos Era 100</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-16 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
