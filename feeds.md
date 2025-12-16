@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 00:05:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-16 01:29:45 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765841906741_nn_mch_rob_reiner_251215_1920x1080-o34ery.jpg" alt="Police: Rob Reiner’s son &#x27;responsible&#x27; for murder of his parents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/police-rob-reiner-s-son-responsible-for-murder-of-his-parents-254470725985" target="_blank">Police: Rob Reiner’s son &#x27;responsible&#x27; for murder of his parents</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-15 23:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/12/15/how-will-the-us-respond-to-the-killing-of-three-of-its-soldiers-in-syria?traffic_source=rss" target="_blank">How will US respond to the killing of three of its soldiers in Syria?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-15 23:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-all-electric-f-150-lightning" target="_blank">Ford pulls the plug on the all-electric F-150 Lightning pickup truck</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-15 22:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +97,20 @@
                 <span class="time">2025-12-15 21:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/15/hollywood-director-rob-reiner-wife-murdered-in-los-angeles-home?traffic_source=rss" target="_blank">Hollywood director Rob Reiner, wife, murdered in Los Angeles home</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-15 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/15/honduras-election-official-says-disturbances-preventing-vote-recount?traffic_source=rss" target="_blank">Honduras election official says ‘disturbances’ preventing vote recount</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-15 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/rob-reiner-10-gty-gmh-251215_1765821629780_hpMain_4x3t_384.jpg" alt="Rob Reiner&#x27;s son arrested for murder in stabbing death of famed director, wife" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/2-found-dead-los-angeles-home-owned-director/story?id=128403864" target="_blank">Rob Reiner&#x27;s son arrested for murder in stabbing death of famed director, wife</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-15 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69409cfc0b71868f273ffce7/master/pass/OpenAI-Loses-Chief-Communications-Officer-Business-2218358100.jpg" alt="OpenAI’s Chief Communications Officer Is Leaving the Company" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-chief-communications-officer-hannah-wong-leaves/" target="_blank">OpenAI’s Chief Communications Officer Is Leaving the Company</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-16 00:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/reviews/691319/best-switch-2-cases" target="_blank">I tested 15 cases for the Switch 2 and these are the best</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-15 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg" alt="Microsoft will finally kill obsolete cipher that has wreaked decades of havoc" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/" target="_blank">Microsoft will finally kill obsolete cipher that has wreaked decades of havoc</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-15 21:15</span>
             </div>
         </div>
 </div>
@@ -239,12 +235,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/feeder.jpg?fit=1200%2C662&amp;quality=60&amp;ssl=1" alt="Watch birds enjoy a woodland charcuterie board" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/15/watch-birds-enjoy-a-woodland-charcuterie-board.html" target="_blank">Watch birds enjoy a woodland charcuterie board</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-16 00:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/laptop-dell-i7-1280x853.jpg" alt="Dell i7 1TB Laptop Rated 5/5 Stars Drops 73% Off on Amazon, Crashes to All-Time Low With $200 Bonus Pack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/dell-i7-1tb-laptop-rated-5-5-stars-drops-73-off-on-amazon-crashes-to-all-time-low-with-200-bonus-pack-2000653526" target="_blank">Dell i7 1TB Laptop Rated 5/5 Stars Drops 73% Off on Amazon, Crashes to All-Time Low With $200 Bonus Pack</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-15 23:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCJ0NQQVZR915DPJW3KB0JTZ/hero-image.jpg" alt="These Two New iPhone Features Are Coming to iOS 26.3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/two-new-iphone-features-coming-to-ios-263?utm_medium=RSS" target="_blank">These Two New iPhone Features Are Coming to iOS 26.3</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-15 23:30</span>
             </div>
         </div>
 <div class="story">
@@ -272,24 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/whats-good-and-overhyped-about-the-2-2-2-workout?utm_medium=RSS" target="_blank">What&#x27;s Good (and What&#x27;s Overhyped) About the Viral 2-2-2 Workout</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-15 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/08/covidcruise-e1765833584297.jpg?fit=768%2C532&amp;quality=60&amp;ssl=1" alt="Sketchy deaths are nearly as likely on cruise ships as contracting an infectious disease" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/15/sketchy-deaths-are-nearly-as-likely-on-cruise-ships-as-contracting-an-infectious-disease.html" target="_blank">Sketchy deaths are nearly as likely on cruise ships as contracting an infectious disease</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-15 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/black-friday-cyber-monday-live-blog-12-2-2025-apple-samsung-laptops-tvs?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-15 21:03</span>
             </div>
         </div>
 </div>
@@ -329,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
