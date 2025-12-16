@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 15:02:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-16 16:02:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/16/israeli-leaders-condemned-for-politicising-bondi-massacre?traffic_source=rss" target="_blank">Israeli leaders condemned for politicising Bondi massacre</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-16 15:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +101,20 @@
                 <span class="time">2025-12-16 12:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/16/g-s1-102417/up-first-newsletter-rob-reiner-michele-nick-brown-shooting-bondi-beach-shooting" target="_blank">Rob Reiner&#x27;s son Nick arrested. And, Brown University shooting suspect image released</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-16 12:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/845124/instagram-reels-tv-app" target="_blank">Instagram is putting Reels on your TV</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-16 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +160,20 @@
                 <span class="time">2025-12-16 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/16/everbloom-built-an-ai-to-turn-chicken-feathers-into-cashmere/" target="_blank">Everbloom built an AI to turn chicken feathers into cashmere</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-16 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mozilla-New-CEO-AI" target="_blank">Mozilla Names New CEO, Firefox To Evolve Into A &quot;Modern AI Browser&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-16 15:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs3bmwfquyuscgotvuorv.png" alt="GraphQL vs. REST: Why Your Next API Might Prefer GraphQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/sakib_muntaheen_c5a91b997/graphql-vs-rest-why-your-next-api-might-prefer-graphql-3jcn" target="_blank">GraphQL vs. REST: Why Your Next API Might Prefer GraphQL</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-16 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/16/your-2025-stacked-a-year-of-knowledge-community-and-impact/" target="_blank">Your 2025 Stacked: A year of knowledge, community, and impact</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-16 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +219,6 @@
                 <span class="time">2025-12-16 11:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/ax-hyperparameter-optimization/en/headerimage/meta-ax-optimization-1765883669913.jpeg" alt="Meta&#x27;s Optimization Platform Ax 1.0 Streamlines LLM and System Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/ax-hyperparameter-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta&#x27;s Optimization Platform Ax 1.0 Streamlines LLM and System Optimization</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-16 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ZLUDA-ROCm-7" target="_blank">ZLUDA For CUDA On Non-NVIDIA GPUs Enables AMD ROCm 7 Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-16 11:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/MAVEN-1-1280x853.jpg" alt="NASA’s MAVEN Spacecraft May Actually Be Lost in Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nasas-maven-spacecraft-may-actually-be-lost-in-space-2000700204" target="_blank">NASA’s MAVEN Spacecraft May Actually Be Lost in Space</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-16 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCJG3Y8E32DS3PT2SAGE3YBG/hero-image.png" alt="What People Are Getting Wrong This Week: These Common Christmas Myths" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-christmas-myths?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: These Common Christmas Myths</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-16 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/Larian-1280x678.jpg" alt="Larian Studios Leaning Into Generative AI Despite Internal Pushback: ‘Everyone At The Company Is More Or Less OK With The Way We’re Using It’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/15/adorable-doggo-attacks-weave-poles-with-gusto-if-not-accuracy.html" target="_blank">Adorable doggo attacks weave poles with gusto, if not accuracy</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-16 04:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/bose-headphones-ultra-plum-1280x853.jpg" alt="Bose QuietComfort Ultra Drops to New All-Time Low, Now Cheaper Than Basic QuietComfort Model​" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bose-quietcomfort-ultra-drops-to-new-all-time-low-now-cheaper-than-basic-quietcomfort-model-2000653515" target="_blank">Bose QuietComfort Ultra Drops to New All-Time Low, Now Cheaper Than Basic QuietComfort Model​</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-16 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/sunsetonjet.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The fall of Icarus: Skydiver photographed against the sun without special effects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/15/the-fall-of-icarus-skydiver-photographed-against-the-sun-without-special-effects.html" target="_blank">The fall of Icarus: Skydiver photographed against the sun without special effects</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-16 00:19</span>
             </div>
         </div>
 </div>
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
