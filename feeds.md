@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 17:04:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-16 18:02:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 17:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 18:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/susie-wiles-1-ap-gmh-251216_1765898313696_hpMain_4x3t_384.jpg" alt="Susie Wiles calls out Bondi, Vance and Trump in Vanity Fair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/susie-wiles-calls-bondi-vance-trump-vanity-fair/story?id=128449325" target="_blank">Susie Wiles calls out Bondi, Vance and Trump in Vanity Fair</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-16 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/16/us-unemployment-hits-highest-level-since-2021-as-labour-market-cools?traffic_source=rss" target="_blank">US unemployment hits highest level since 2021 as labour market cools</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-16 17:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251216-mike-johnson-ew-1145a-6f32dc.jpg" alt="House Republican leaders ditch vote on ACA funding, all but ensuring premiums will rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/republicans-ditch-vote-obamacare-funding-premiums-rise-2026-rcna249521" target="_blank">House Republican leaders ditch vote on ACA funding, all but ensuring premiums will rise</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-16 17:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/16/nx-s1-5639224/arctic-climate-change-noaa-report" target="_blank">New report finds the Arctic continues to warm faster than the planet as a whole</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-16 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,47 +102,20 @@
                 <span class="time">2025-12-16 15:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/16/nx-s1-5645023/jobs-employment-labor-market" target="_blank">The U.S. added just 64,000 jobs in November -- a sign the labor market is slowing</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-16 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/16/kylian-mbappe-owed-60-million-euros-by-psg-french-court-says?traffic_source=rss" target="_blank">Kylian Mbappe owed 60 million euros by PSG, French court says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-16 13:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b84/live/92397860-da89-11f0-aae2-2191c0e48a3b.jpg" alt="Stephen Lawrence killer David Norris denied parole" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c208zd92780o?at_medium=RSS&at_campaign=rss" target="_blank">Stephen Lawrence killer David Norris denied parole</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-16 13:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2f8/live/5cf15330-da7a-11f0-b60a-5db3d22facb6.jpg" alt="Ukraine struggling to keep lights on under Russian attack, says energy boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c80xjkm0283o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine struggling to keep lights on under Russian attack, says energy boss</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-16 12:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/16/google-tests-an-email-based-productivity-assistant/" target="_blank">Google tests an email-based productivity assistant</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-16 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +161,20 @@
                 <span class="time">2025-12-16 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/16/adobe-firefly-now-supports-prompt-based-video-editing-adds-more-third-party-models/" target="_blank">Adobe Firefly now supports prompt-based video editing, adds more third-party models</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-16 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797447&w=600" alt="How We Predict Dataflow Job Duration Using ML and Observability Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/predicting-dataflow-job-duration-based-on-ml-model" target="_blank">How We Predict Dataflow Job Duration Using ML and Observability Data</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-16 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://substack-post-media.s3.amazonaws.com/public/images/fe83102d-fbba-420b-9a15-dadb751dfabf_1596x948.png" alt="How AWS deals with a major outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +220,6 @@
                 <span class="time">2025-12-16 14:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/16/your-2025-stacked-a-year-of-knowledge-community-and-impact/" target="_blank">Your 2025 Stacked: A year of knowledge, community, and impact</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-16 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,11 +234,29 @@
                 <span class="time">2025-12-16 14:14</span>
             </div>
         </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/chinese-surveillance-and-ai.html" target="_blank">Chinese Surveillance and AI</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-16 12:02</span>
+            </div>
+        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/year-in-review-2025-best-movie-posters-thunderbolts-predator-frankenstein-1280x853.jpg" alt="Movie Posters Leveled Up (at Least a Little Bit) in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/movie-posters-leveled-up-at-least-a-little-bit-in-2025-2000698512" target="_blank">Movie Posters Leveled Up (at Least a Little Bit) in 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-16 18:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/mighty-nein-caleb-hed-1-1280x853.jpg" alt="Go Shopping With the Mighty Nein in This Magical Clip (Exclusive)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,20 +302,20 @@
                 <span class="time">2025-12-16 14:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Hokum-1280x853.jpg" alt="Adam Scott’s ‘Hokum’ Teaser Is the Freakiest 40 Seconds You’ll See All Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/adam-scotts-hokum-teaser-is-the-freakiest-40-seconds-youll-see-all-day-2000699884" target="_blank">Adam Scott’s ‘Hokum’ Teaser Is the Freakiest 40 Seconds You’ll See All Day</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-16 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1765838454-20251216_edit.png" alt="Saturday Morning Breakfast Cereal - Aspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/aspect" target="_blank">Saturday Morning Breakfast Cereal - Aspect</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-16 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -321,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 18:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
