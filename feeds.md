@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 18:02:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-16 19:03:10 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 18:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +112,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/16/doordash-rolls-out-zesty-an-ai-social-app-for-discovering-new-restaurants/" target="_blank">DoorDash rolls out Zesty, an AI social app for discovering new restaurants</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-16 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/845546/kindle-scribe-colorsoft-paperwhite-holidays-2025-deal-sale" target="_blank">Kindles make for even better gifts now most are on sale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-16 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/16/google-tests-an-email-based-productivity-assistant/" target="_blank">Google tests an email-based productivity assistant</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-16 18:00</span>
@@ -143,29 +162,38 @@
                 <span class="time">2025-12-16 15:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/" target="_blank">India’s Digantara raises $50M for space-based missile defence tech</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-16 14:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/693fd37ac50190c987e8c8fa/master/pass/WI25_CATALOG58598.jpg" alt="American Giant Redesigns Its Iconic Classic Full Zip Hoodie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/american-giant-redesign-classic-full-zip-hoodie/" target="_blank">American Giant Redesigns Its Iconic Classic Full Zip Hoodie</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-16 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfdxrrer9xtx4by0evfk.png" alt="The Modern Scrapy Developer&#x27;s Guide (Part 3): Auto-Generating Page Objects with Web Scraping Co-pilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zyte/the-modern-scrapy-developers-guide-part-3-auto-generating-page-objects-with-web-scraping-59fj" target="_blank">The Modern Scrapy Developer&#x27;s Guide (Part 3): Auto-Generating Page Objects with Web Scraping Co-pilot</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-16 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/Mozilla-Logo-New.jpg?resize=406%2C232&amp;ssl=1" alt="Mozilla’s New CEO Says Firefox Will ‘Evolve into an AI Browser’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy" target="_blank">Mozilla’s New CEO Says Firefox Will ‘Evolve into an AI Browser’</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-16 18:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18799101&w=600" alt="Understanding Multimodal Applications: When AI Models Work Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/understanding-multimodal-applications-when-ai-mode" target="_blank">Understanding Multimodal Applications: When AI Models Work Together</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-16 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797447&w=600" alt="How We Predict Dataflow Job Duration Using ML and Observability Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,39 +213,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/12/transformers-hugging-face/en/headerimage/generatedHeaderImage-1765901416110.jpg" alt="Transformers v5 Introduces a More Modular and Interoperable Core" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/transformers-hugging-face/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Transformers v5 Introduces a More Modular and Interoperable Core</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-16 16:45</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/radeon-radv-rt-2025" target="_blank">The Significant Performance Gains For Radeon RADV Ray-Tracing Performance In 2025</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-16 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mozilla-New-CEO-AI" target="_blank">Mozilla Names New CEO, Firefox To Evolve Into A &quot;Modern AI Browser&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-16 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs3bmwfquyuscgotvuorv.png" alt="GraphQL vs. REST: Why Your Next API Might Prefer GraphQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sakib_muntaheen_c5a91b997/graphql-vs-rest-why-your-next-api-might-prefer-graphql-3jcn" target="_blank">GraphQL vs. REST: Why Your Next API Might Prefer GraphQL</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-16 14:48</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://alpr.watch/" target="_blank">alpr.watch</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-16 16:54</span>
             </div>
         </div>
 </div>
@@ -249,12 +250,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/KarlUrbanJohnnyCage-1280x853.jpg" alt="Karl Urban Says Johnny Cage Is the Most Physically Demanding Role He’s Ever Had" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/karl-urban-says-johnny-cage-is-the-most-physically-demanding-role-hes-ever-had-2000700290" target="_blank">Karl Urban Says Johnny Cage Is the Most Physically Demanding Role He’s Ever Had</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-16 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/year-in-review-2025-best-movie-posters-thunderbolts-predator-frankenstein-1280x853.jpg" alt="Movie Posters Leveled Up (at Least a Little Bit) in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/movie-posters-leveled-up-at-least-a-little-bit-in-2025-2000698512" target="_blank">Movie Posters Leveled Up (at Least a Little Bit) in 2025</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-16 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCM1VRWW6TRJC31YHZHR8XPS/hero-image.webp" alt="Instagram Reels May Be Coming to Your TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/instagram-reels-for-tv-app?utm_medium=RSS" target="_blank">Instagram Reels May Be Coming to Your TV</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-16 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/palin-s.jpg?fit=1500%2C978&amp;quality=60&amp;ssl=1" alt="Sarah Palin&#x27;s eight-year lawsuit against the New York Times ends again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/16/sarah-palins-eight-year-lawsuit-against-the-new-york-times-ends-again.html" target="_blank">Sarah Palin&#x27;s eight-year lawsuit against the New York Times ends again</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-16 17:14</span>
             </div>
         </div>
 <div class="story">
@@ -273,33 +301,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/amazon-deal-of-the-day-sonos-era-100-speaker?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Sonos Era 100</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-16 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/MAVEN-1-1280x853.jpg" alt="NASA’s MAVEN Spacecraft May Actually Be Lost in Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nasas-maven-spacecraft-may-actually-be-lost-in-space-2000700204" target="_blank">NASA’s MAVEN Spacecraft May Actually Be Lost in Space</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-16 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCJG3Y8E32DS3PT2SAGE3YBG/hero-image.png" alt="What People Are Getting Wrong This Week: These Common Christmas Myths" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-christmas-myths?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: These Common Christmas Myths</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-16 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Larian-1280x678.jpg" alt="Larian Studios Leaning Into Generative AI Despite Internal Pushback: ‘Everyone At The Company Is More Or Less OK With The Way We’re Using It’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/larian-studios-gen-ai-divinity-bg3-2000653850" target="_blank">Larian Studios Leaning Into Generative AI Despite Internal Pushback: ‘Everyone At The Company Is More Or Less OK With The Way We’re Using It’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-16 14:49</span>
             </div>
         </div>
 </div>
@@ -339,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 18:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
