@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 11:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-16 12:02:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 12:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/16/australia-mourns-as-details-of-bondi-shooting-victims-emerge?traffic_source=rss" target="_blank">Australia mourns as details of Bondi shooting victims emerge</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-16 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9955/live/a80aed70-da2c-11f0-b67b-690eb873de1b.jpg" alt="BBC says it will defend Trump defamation lawsuit over Panorama speech edit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpvd81470v1o?at_medium=RSS&at_campaign=rss" target="_blank">BBC says it will defend Trump defamation lawsuit over Panorama speech edit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-16 11:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/providence-main_1765871392987_hpMain_4x3t_384.jpg" alt="As Brown shooting manhunt continues, FBI offers reward for info leading to conviction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/brown-university-shooting-manhunt-continues-fbi-offers-reward/story?id=128443272" target="_blank">As Brown shooting manhunt continues, FBI offers reward for info leading to conviction</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-16 10:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c426/live/fc1ddf20-d9a6-11f0-b67b-690eb873de1b.jpg" alt="Who are the Bondi shooting victims?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,38 +102,20 @@
                 <span class="time">2025-12-16 09:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/12/16/has-benins-foiled-coup-made-ecowas-a-west-african-heavyweight-once-more?traffic_source=rss" target="_blank">Has Benin’s foiled coup made ECOWAS a West African heavyweight once more?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-16 09:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/16/topuria-says-false-allegations-of-domestic-abuse-behind-ufc-324-absence?traffic_source=rss" target="_blank">Topuria says “false allegations of domestic abuse” behind UFC 324 absence</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-16 08:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/16/nx-s1-5645651/byheart-baby-formula-recall-too-slow" target="_blank">Retailers didn&#x27;t pull ByHeart baby formula fast enough after botulism recall, FDA says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-16 07:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/16/everbloom-built-an-ai-to-turn-chicken-feathers-into-cashmere/" target="_blank">Everbloom built an AI to turn chicken feathers into cashmere</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-16 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Hoka Coupon Codes: 10% Off | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +161,29 @@
                 <span class="time">2025-12-16 00:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/" target="_blank">OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-15 23:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/a-k-0047/essential-shell-scripting-basics-you-should-know-first-3in6" target="_blank">Essential Shell Scripting Basics You Should Know First</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-16 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ZLUDA-ROCm-7" target="_blank">ZLUDA For CUDA On Non-NVIDIA GPUs Enables AMD ROCm 7 Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-16 11:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,38 +218,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ckgz318y8elo" target="_blank">Children with cancer scammed out of millions fundraised for their treatment</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-16 06:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/ringer-movies-high-fidelity-with-bill-simmons-chris-ryan-joanna-robinson-and-rob-mahoney--5foc" target="_blank">Ringer Movies: ‘High Fidelity’ With Bill Simmons, Chris Ryan, Joanna Robinson, and Rob Mahoney | The Rewatchables</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-16 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://apple.github.io/ml-sharp/" target="_blank">SHARP, an approach to photorealistic view synthesis from a single image</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-16 04:06</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/against-the-federal-moratorium-on-state-level-regulation-of-ai.html" target="_blank">Against the Federal Moratorium on State-Level Regulation of AI</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-15 12:02</span>
             </div>
         </div>
 </div>
@@ -323,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 12:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
