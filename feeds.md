@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 14:02:39 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-16 15:02:37 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/16/nx-s1-5645023/jobs-employment-labor-market" target="_blank">The U.S. added just 64,000 jobs in November -- a sign the labor market is slowing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-16 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/16/kylian-mbappe-owed-60-million-euros-by-psg-french-court-says?traffic_source=rss" target="_blank">Kylian Mbappe owed 60 million euros by PSG, French court says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-16 13:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b84/live/92397860-da89-11f0-aae2-2191c0e48a3b.jpg" alt="Stephen Lawrence killer David Norris denied parole" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c208zd92780o?at_medium=RSS&at_campaign=rss" target="_blank">Stephen Lawrence killer David Norris denied parole</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-16 13:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2f8/live/5cf15330-da7a-11f0-b60a-5db3d22facb6.jpg" alt="Ukraine struggling to keep lights on under Russian attack, says energy boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,38 +103,29 @@
                 <span class="time">2025-12-16 12:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/16/australia-mourns-as-details-of-bondi-shooting-victims-emerge?traffic_source=rss" target="_blank">Australia mourns as details of Bondi shooting victims emerge</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-16 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9955/live/a80aed70-da2c-11f0-b67b-690eb873de1b.jpg" alt="BBC says it will defend Trump defamation lawsuit over Panorama speech edit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpvd81470v1o?at_medium=RSS&at_campaign=rss" target="_blank">BBC says it will defend Trump defamation lawsuit over Panorama speech edit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-16 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9de3/live/c2c6b090-da77-11f0-a8dc-93c15fe68710.jpg" alt="Dashcam video shows couple trying to stop gunman before being killed in Bondi attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss" target="_blank">Dashcam video shows couple trying to stop gunman before being killed in Bondi attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-16 11:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/16/indias-digantara-raises-50m-for-space-based-missile-defence-tech/" target="_blank">India’s Digantara raises $50M for space-based missile defence tech</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-16 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/693fd37ac50190c987e8c8fa/master/pass/WI25_CATALOG58598.jpg" alt="American Giant Redesigns Its Iconic Classic Full Zip Hoodie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/american-giant-redesign-classic-full-zip-hoodie/" target="_blank">American Giant Redesigns Its Iconic Classic Full Zip Hoodie</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-16 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +162,29 @@
                 <span class="time">2025-12-16 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Hoka Coupon Codes: 10% Off | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hoka-coupon-code/" target="_blank">Hoka Coupon Codes: 10% Off | December 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-16 06:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="Govee Discount Codes and Deals: 30% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/govee-discount-code/" target="_blank">Govee Discount Codes and Deals: 30% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-16 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs3bmwfquyuscgotvuorv.png" alt="GraphQL vs. REST: Why Your Next API Might Prefer GraphQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sakib_muntaheen_c5a91b997/graphql-vs-rest-why-your-next-api-might-prefer-graphql-3jcn" target="_blank">GraphQL vs. REST: Why Your Next API Might Prefer GraphQL</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-16 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity" target="_blank">40 percent of fMRI signals do not correspond to actual brain activity</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-16 13:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18794231&w=600" alt="Building Cost-Efficient ETL with Apache Spark Structured Streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,22 +221,18 @@
                 <span class="time">2025-12-16 11:28</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/MidnightBSD-4.0" target="_blank">MidnightBSD 4.0 Brings Many Changes To This FreeBSD 13 Derived OS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-16 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wideiot/what-benefits-can-industrial-iot-bring-to-factories-2acg" target="_blank">What Benefits Can Industrial IoT Bring to Factories?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-16 08:49</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/" target="_blank">Most Parked Domains Now Serving Malicious Content</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-12-16 14:14</span>
             </div>
         </div>
 </div>
@@ -218,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Larian-1280x678.jpg" alt="Larian Studios Leaning Into Generative AI Despite Internal Pushback: ‘Everyone At The Company Is More Or Less OK With The Way We’re Using It’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/larian-studios-gen-ai-divinity-bg3-2000653850" target="_blank">Larian Studios Leaning Into Generative AI Despite Internal Pushback: ‘Everyone At The Company Is More Or Less OK With The Way We’re Using It’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-16 14:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Hokum-1280x853.jpg" alt="Adam Scott’s ‘Hokum’ Teaser Is the Freakiest 40 Seconds You’ll See All Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +294,6 @@
                 <span class="time">2025-12-16 00:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/feeder.jpg?fit=1200%2C662&amp;quality=60&amp;ssl=1" alt="Watch birds enjoy a woodland charcuterie board" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/15/watch-birds-enjoy-a-woodland-charcuterie-board.html" target="_blank">Watch birds enjoy a woodland charcuterie board</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-16 00:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
