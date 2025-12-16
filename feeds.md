@@ -1,27 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 02:33:21 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-16 03:28:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 19 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 02:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -159,9 +164,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pauljlucas/advanced-c-preprocessor-macros-for-a-type-safe-varargs-substitute-2aog" target="_blank">Advanced C Preprocessor Macros for a Type-Safe Varargs Substitute</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-16 03:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/josefilipe_dev/building-a-digital-menu-system-for-restaurants-personal-project-2n9h" target="_blank">Building a Digital Menu System for Restaurants – Personal Project</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-16 02:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Games-Lab-2026" target="_blank">Fedora Games Lab Looks To Be Revitalized As Modern Linux Gaming Showcase</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-16 01:36</span>
             </div>
         </div>
 <div class="story">
@@ -191,24 +214,6 @@
                 <span class="time">2025-12-15 22:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://johnlian.net/posts/hdmi-cec/" target="_blank">Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-15 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linus-Torvalds-Too-Many-LSM" target="_blank">Torvalds On Linux Security Modules: &quot;I Already Think We Have Too Many Of Those Pointless Things&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-15 21:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/bose-headphones-ultra-plum-1280x853.jpg" alt="Bose QuietComfort Ultra Drops to New All-Time Low, Now Cheaper Than Basic QuietComfort Model​" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bose-quietcomfort-ultra-drops-to-new-all-time-low-now-cheaper-than-basic-quietcomfort-model-2000653515" target="_blank">Bose QuietComfort Ultra Drops to New All-Time Low, Now Cheaper Than Basic QuietComfort Model​</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-16 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/sunsetonjet.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The fall of Icarus: Skydiver photographed against the sun without special effects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/15/the-fall-of-icarus-skydiver-photographed-against-the-sun-without-special-effects.html" target="_blank">The fall of Icarus: Skydiver photographed against the sun without special effects</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-16 00:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/feeder.jpg?fit=1200%2C662&amp;quality=60&amp;ssl=1" alt="Watch birds enjoy a woodland charcuterie board" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,24 +285,6 @@
                 <span class="title"><a href="https://gizmodo.com/trump-is-building-a-u-s-tech-force-of-1000-early-career-workers-2000699779" target="_blank">Trump Is Building a ‘U.S. Tech Force’ of 1,000+ Early Career Workers</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-15 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/ss_c952b64b96c7ec4da866053f323d3d9b1baf48ee.1920x1080-1280x715.jpg" alt="Lords Of The Fallen 2 Dev Promises Sexy Women But Fans Just Want Better Soulslike Gameplay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lords-fallen-2-trailer-free-update-coop-soulslike-2000653471" target="_blank">Lords Of The Fallen 2 Dev Promises Sexy Women But Fans Just Want Better Soulslike Gameplay</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-15 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCHXWQK50BNHX0G4WB3RY83F/hero-image.png" alt="What&#x27;s Good (and What&#x27;s Overhyped) About the Viral 2-2-2 Workout" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/whats-good-and-overhyped-about-the-2-2-2-workout?utm_medium=RSS" target="_blank">What&#x27;s Good (and What&#x27;s Overhyped) About the Viral 2-2-2 Workout</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-15 22:00</span>
             </div>
         </div>
 </div>
@@ -319,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 02:33 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
