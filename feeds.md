@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 06:02:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-16 07:03:44 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/16/moroccos-safi-counts-the-cost-in-aftermath-of-deadly-flash-floods?traffic_source=rss" target="_blank">Morocco’s Safi counts the cost in aftermath of deadly flash floods</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-16 06:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,6 +86,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251215-bondi-mb-1229-315a19.jpg" alt="Australian authorities ignored warning signs of rising antisemitism, some Jewish leaders say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/australia/australian-authorities-ignored-warning-signs-rising-antisemitism-jewis-rcna249283" target="_blank">Australian authorities ignored warning signs of rising antisemitism, some Jewish leaders say</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-16 01:35</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -84,29 +103,20 @@
                 <span class="time">2025-12-16 01:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/reiner-gty-jef-251215_1765803398826_hpMain_4x3t_384.jpg" alt="Tributes pour in after Rob Reiner, Michele Singer found dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/GMA/Culture/tributes-pour-after-rob-reiner-michele-singer-found/story?id=128410525" target="_blank">Tributes pour in after Rob Reiner, Michele Singer found dead</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-16 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765841906741_nn_mch_rob_reiner_251215_1920x1080-o34ery.jpg" alt="Police: Rob Reiner’s son &#x27;responsible&#x27; for murder of his parents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/police-rob-reiner-s-son-responsible-for-murder-of-his-parents-254470725985" target="_blank">Police: Rob Reiner’s son &#x27;responsible&#x27; for murder of his parents</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-15 23:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Hoka Coupon Codes: 10% Off | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hoka-coupon-code/" target="_blank">Hoka Coupon Codes: 10% Off | December 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-16 06:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="Govee Discount Codes and Deals: 30% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +160,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/" target="_blank">OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-15 23:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/844964/how-irobot-invented-the-roomba-and-lost-the-future-of-home-robotics" target="_blank">How Roomba invented the home robot — and lost the future</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-15 22:46</span>
             </div>
         </div>
 </div>
@@ -240,6 +241,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/golden-retriever.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Adorable doggo attacks weave poles with gusto, if not accuracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/15/adorable-doggo-attacks-weave-poles-with-gusto-if-not-accuracy.html" target="_blank">Adorable doggo attacks weave poles with gusto, if not accuracy</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-16 04:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/bose-headphones-ultra-plum-1280x853.jpg" alt="Bose QuietComfort Ultra Drops to New All-Time Low, Now Cheaper Than Basic QuietComfort Model​" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -282,15 +292,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/two-new-iphone-features-coming-to-ios-263?utm_medium=RSS" target="_blank">These Two New iPhone Features Are Coming to iOS 26.3</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-15 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_2589320083-1280x853.jpg" alt="Trump Is Building a ‘U.S. Tech Force’ of 1,000+ Early Career Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-is-building-a-u-s-tech-force-of-1000-early-career-workers-2000699779" target="_blank">Trump Is Building a ‘U.S. Tech Force’ of 1,000+ Early Career Workers</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-15 23:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
