@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 13:13:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-16 14:02:39 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 13:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, December 16, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2f8/live/5cf15330-da7a-11f0-b60a-5db3d22facb6.jpg" alt="Ukraine struggling to keep lights on under Russian attack, says energy boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c80xjkm0283o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine struggling to keep lights on under Russian attack, says energy boss</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-16 12:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +95,20 @@
                 <span class="time">2025-12-16 11:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/providence-main_1765871392987_hpMain_4x3t_384.jpg" alt="As Brown shooting manhunt continues, FBI offers reward for info leading to conviction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/brown-university-shooting-manhunt-continues-fbi-offers-reward/story?id=128443272" target="_blank">As Brown shooting manhunt continues, FBI offers reward for info leading to conviction</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-16 10:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/16/adobe-firefly-now-supports-prompt-based-video-editing-adds-more-third-party-models/" target="_blank">Adobe Firefly now supports prompt-based video editing, adds more third-party models</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-16 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68563692fd268ad4c81d6dc3/master/pass/The%2014%20Best%20Office%20Chairs.png" alt="15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +152,6 @@
                 <span class="title"><a href="https://www.wired.com/story/govee-discount-code/" target="_blank">Govee Discount Codes and Deals: 30% Off</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-16 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2" target="_blank">Silksong is getting a free expansion next year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-16 01:13</span>
             </div>
         </div>
 </div>
@@ -234,6 +228,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/PocketPlay-1.jpg?fit=1200%2C680&amp;quality=60&amp;ssl=1" alt="Ayaneo Pocket Play repeats Sony Xperia Play&#x27;s biggest mistakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/15/ayaneo-pocket-play-repeats-sony-xperia-plays-biggest-mistakes.html" target="_blank">Ayaneo Pocket Play repeats Sony Xperia Play&#x27;s biggest mistakes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-16 04:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/golden-retriever.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Adorable doggo attacks weave poles with gusto, if not accuracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -267,15 +270,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/15/watch-birds-enjoy-a-woodland-charcuterie-board.html" target="_blank">Watch birds enjoy a woodland charcuterie board</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-16 00:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/laptop-dell-i7-1280x853.jpg" alt="Dell i7 1TB Laptop Rated 5/5 Stars Drops 73% Off on Amazon, Crashes to All-Time Low With $200 Bonus Pack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dell-i7-1tb-laptop-rated-5-5-stars-drops-73-off-on-amazon-crashes-to-all-time-low-with-200-bonus-pack-2000653526" target="_blank">Dell i7 1TB Laptop Rated 5/5 Stars Drops 73% Off on Amazon, Crashes to All-Time Low With $200 Bonus Pack</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-15 23:40</span>
             </div>
         </div>
 </div>
@@ -316,7 +310,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 13:14 UTC
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
