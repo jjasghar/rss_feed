@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 04:08:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-17 05:03:20 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 34 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 04:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 05:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765943739011_now_staytuned_trump_blockage_venezuela_251216_1920x1080-eykh54.jpg" alt="Trump orders blockade of oil tankers entering and leaving Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-orders-blockage-of-oil-tankers-entering-and-leaving-venezuela-254561349598" target="_blank">Trump orders blockade of oil tankers entering and leaving Venezuela</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-17 03:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/nick-reiner-to-be-charged-with-murder-in-death-of-parents-254531141952" target="_blank">Rob Reiner&#x27;s son, Nick, charged with two counts of first degree murder</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-16 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ed/live/dc9209f0-daa6-11f0-b825-331725716d67.jpg" alt="Erasmus scheme to return for UK students" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg4ng7ee9vwo?at_medium=RSS&at_campaign=rss" target="_blank">Erasmus scheme to return for UK students</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-16 19:46</span>
             </div>
         </div>
 </div>
@@ -171,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fusb68jry6og3nz9jnaim.gif" alt="Welcome Thread - v356" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devteam/welcome-thread-v356-137j" target="_blank">Welcome Thread - v356</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-17 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -215,15 +218,6 @@
                 <span class="time">2025-12-16 21:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html" target="_blank">AI will make formal verification go mainstream</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-16 21:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_714565612.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Sloth ASMR: Listen to this gorgeous two-toed sloth crunching his way through a pile of sugar snap peas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/16/sloth-asmr-listen-to-this-gorgeous-two-toed-sloth-crunching-his-way-through-a-pile-of-sugar-snap-peas.html" target="_blank">Sloth ASMR: Listen to this gorgeous two-toed sloth crunching his way through a pile of sugar snap peas</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-17 02:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_1907614489-e1742999851141.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Watch a super-fluffy bunny eat a banana: the perfect mood-boosting video" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +300,6 @@
                 <span class="time">2025-12-16 22:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Curiosity-Stream-Standard-Plan.png?fit=2250%2C1500&amp;quality=55&amp;ssl=1" alt="When your algorithm gets it wrong, this platform gets it right" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/16/when-your-algorithm-gets-it-wrong-this-platform-gets-it-right.html" target="_blank">When your algorithm gets it wrong, this platform gets it right</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-16 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 04:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 05:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
