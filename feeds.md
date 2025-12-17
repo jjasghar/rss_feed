@@ -1,41 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 10:02:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-17 11:02:02 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6c/live/35c7a3e0-db2e-11f0-b67b-690eb873de1b.jpg" alt="Doctors start five-day strike as NHS bosses warn flu wave will cause extra disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&at_campaign=rss" target="_blank">Doctors start five-day strike as NHS bosses warn flu wave will cause extra disruption</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-17 10:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/17/israel-to-advance-plans-for-9000-houses-in-occupied-east-jerusalem?traffic_source=rss" target="_blank">Israel to advance plans for 9,000 houses in occupied East Jerusalem</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-17 10:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/17/nx-s1-5645825/isis-islamic-australia-syria" target="_blank">Recent attacks have been &#x27;inspired&#x27; by Islamic State. What does that mean?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-17 10:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3a4/live/1d7c9e90-db23-11f0-94c7-2d2719dc628b.jpg" alt="Alleged Bondi gunman charged with 15 counts of murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,38 +106,20 @@
                 <span class="time">2025-12-17 07:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/17/drone-attacks-kill-over-100-civilians-across-war-torn-sudans-kordofan?traffic_source=rss" target="_blank">Drone attacks kill over 100 civilians across war-torn Sudan’s Kordofan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-17 07:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-13-gty-gmh-251215_1765832561639_hpMain_4x3t_384.jpg" alt="Trump announces &#x27;TOTAL AND COMPLETE BLOCKADE&#x27; of sanctioned Venezuelan oil tankers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-announces-total-complete-blockade-sanctioned-venezuelan-oil/story?id=128470561" target="_blank">Trump announces &#x27;TOTAL AND COMPLETE BLOCKADE&#x27; of sanctioned Venezuelan oil tankers</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-17 06:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/17/australian-police-charge-alleged-bondi-beach-gunman-as-first-funerals-held?traffic_source=rss" target="_blank">Australian police charge alleged Bondi Beach gunman as first funerals held</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-17 06:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/682ba645d767a7c6c9783f5b/master/pass/Tuft-and-Needle_1.png" alt="Tuft &amp; Needle Is Offering a Free Pillow Set With Mattress Purchase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tuft-and-needle-pillow-deal-2025/" target="_blank">Tuft &amp; Needle Is Offering a Free Pillow Set With Mattress Purchase</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-17 10:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,15 +165,6 @@
                 <span class="time">2025-12-17 01:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/694145f8d9b07d4c1f59f641/master/pass/VVIP%20Dec%2025%20STOCK%204.jpg" alt="Jaguar Type 00 EV First Ride: It Still Looks Odd, but It’s Seriously Quick" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jaguar-type-00-ev-first-ride-it-still-looks-odd-but-it-is-seriously-quick/" target="_blank">Jaguar Type 00 EV First Ride: It Still Looks Odd, but It’s Seriously Quick</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-17 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,10 +173,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ra_vi_51d9667e07aa0984631/why-i-built-the-most-complete-nutrition-api-with-25-nutrients-in-the-free-tier-hco" target="_blank">Why I Built the Most Complete Nutrition API (With 25+ Nutrients in the Free Tier)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-17 10:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/raspberry-pi-desktop-os/" target="_blank">Your Raspberry Pi Can Be a Real Desktop (If You Pick the Right OS)</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2025-12-17 09:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself" target="_blank">Is Mozilla trying hard to kill itself?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-17 09:37</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +222,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/12/tornadovm-20-gpu-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">TornadoVM 2.0 Brings Automatic GPU Acceleration and LLM support to Java</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-12-17 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fusb68jry6og3nz9jnaim.gif" alt="Welcome Thread - v356" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devteam/welcome-thread-v356-137j" target="_blank">Welcome Thread - v356</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-17 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yuer/using-gpt-as-a-code-auditor-not-a-code-generator-40am" target="_blank">Using GPT as a Code Auditor (Not a Code Generator)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-17 02:16</span>
             </div>
         </div>
 </div>
@@ -251,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/fallout-season-2-ghoul-lucy-1280x853.jpg" alt="Bethesda Is Trying to Figure Out What ‘Fallout’ Games Season 3 Might Tie Into" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/fallout-season-3-todd-howard-game-tie-ins-2000700576" target="_blank">Bethesda Is Trying to Figure Out What ‘Fallout’ Games Season 3 Might Tie Into</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-17 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_2591703031-1280x853.jpg" alt="Trump Reportedly Pausing $40 Billion AI and Quantum Deal With UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,15 +306,6 @@
                 <span class="time">2025-12-17 00:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/playstation-dualsense-edge-wireless-controller-1280x853.jpg" alt="Sony Offloads DualSense Edge at Record Low, Pro Gamers Get Elite Controller at Casual Gamer Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sony-offloads-dualsense-edge-at-record-low-pro-gamers-get-elite-controller-at-casual-gamer-price-2000653974" target="_blank">Sony Offloads DualSense Edge at Record Low, Pro Gamers Get Elite Controller at Casual Gamer Price</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-16 23:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
