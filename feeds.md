@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 12:02:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-17 13:13:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6c/live/35c7a3e0-db2e-11f0-b67b-690eb873de1b.jpg" alt="Starmer calls doctors&#x27; strike &#x27;dangerous&#x27; as five-day walkout begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer calls doctors&#x27; strike &#x27;dangerous&#x27; as five-day walkout begins</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-17 12:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +99,29 @@
                 <span class="time">2025-12-17 09:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-13-gty-gmh-251215_1765832561639_hpMain_4x3t_384.jpg" alt="Trump announces &#x27;COMPLETE BLOCKADE&#x27; of sanctioned Venezuelan oil tankers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-announces-total-complete-blockade-sanctioned-venezuelan-oil/story?id=128470561" target="_blank">Trump announces &#x27;COMPLETE BLOCKADE&#x27; of sanctioned Venezuelan oil tankers</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-17 08:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6941bd6e58bc14b2ae469ba1/master/pass/Best%20Stocking%20Stuffers%20Update%20top%20art%20122025%20SOURCE%20Amazon_Target.jpg" alt="17 Best Stocking Stuffers (2025): Unique and Unconventional" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-stocking-stuffers/" target="_blank">17 Best Stocking Stuffers (2025): Unique and Unconventional</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-17 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/" target="_blank">Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-17 12:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/674705ece62bfbd1626a1416/master/pass/GettyImages-1293014500.jpg" alt="How to Watch the Final Meteor Shower of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +158,47 @@
                 <span class="time">2025-12-17 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Therabody Promo Codes: 50% Off | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/therabody-promo-code/" target="_blank">Therabody Promo Codes: 50% Off | December 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-17 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/" target="_blank">Weeks after raising $100M, investors pump another $180M into hot Indian startup MoEngage</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-17 05:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sl4zvyy5ixrfqu29q4c.png" alt="Evolutionary Algorithms, Rendered Live in Node.js" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sfundomhlungu/evolutionary-algorithms-rendered-live-in-nodejs-282a" target="_blank">Evolutionary Algorithms, Rendered Live in Node.js</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-17 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debusine-Repositories-Beta" target="_blank">Debusine Repositories Enter Beta: Ubuntu PPA-Like User Archives For Debian Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-17 12:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx" target="_blank">Coursera to combine with Udemy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-17 12:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797935&w=600" alt="The Importance of Critical Thinking in Software Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/critical-thinking-software-testing" target="_blank">The Importance of Critical Thinking in Software Testing</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-17 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,42 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Zen-6-znver6-GCC-16" target="_blank">AMD Zen 6 Compiler Support Merged For GCC 16</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-17 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ra_vi_51d9667e07aa0984631/why-i-built-the-most-complete-nutrition-api-with-25-nutrients-in-the-free-tier-hco" target="_blank">Why I Built the Most Complete Nutrition API (With 25+ Nutrients in the Free Tier)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-17 10:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/raspberry-pi-desktop-os/" target="_blank">Your Raspberry Pi Can Be a Real Desktop (If You Pick the Right OS)</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-17 09:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself" target="_blank">Is Mozilla trying hard to kill itself?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-17 09:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/nextgen-search-ai-opensearch-mcp/en/headerimage/extgen-search-ai-header-1765802308459.jpg" alt="Article: NextGen Search - Where AI Meets OpenSearch Through MCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/nextgen-search-ai-opensearch-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: NextGen Search - Where AI Meets OpenSearch Through MCP</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-17 09:00</span>
             </div>
         </div>
 </div>
@@ -239,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Adobe-1280x851.jpeg" alt="Adobe Rolls Out Free Generative AI for Creative Cloud Pro Users as a Limited-Time Bonus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/adobe-rolls-out-free-generative-ai-for-creative-cloud-pro-users-as-a-limited-time-bonus-2000696575" target="_blank">Adobe Rolls Out Free Generative AI for Creative Cloud Pro Users as a Limited-Time Bonus</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-17 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/ASUSGeForceRTX5070-1280x853.jpg" alt="ASUS Extends GPU Clearance as RTX 5070 at All-Time Low Price Sell Out Faster Than Expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/asus-extends-gpu-clearance-as-rtx-5070-at-all-time-low-price-sell-out-faster-than-expected-2000653926" target="_blank">ASUS Extends GPU Clearance as RTX 5070 at All-Time Low Price Sell Out Faster Than Expected</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-17 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Zach-Lipovsky-Adam-Stein-1280x853.jpg" alt="The Directors of ‘Final Destination Bloodlines’ May Have Their Next Sci-Fi Epic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +290,6 @@
                 <span class="time">2025-12-17 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_714565612.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Sloth ASMR: Listen to this gorgeous two-toed sloth crunching his way through a pile of sugar snap peas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/16/sloth-asmr-listen-to-this-gorgeous-two-toed-sloth-crunching-his-way-through-a-pile-of-sugar-snap-peas.html" target="_blank">Sloth ASMR: Listen to this gorgeous two-toed sloth crunching his way through a pile of sugar snap peas</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-17 02:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_1907614489-e1742999851141.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Watch a super-fluffy bunny eat a banana: the perfect mood-boosting video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/16/watch-a-super-fluffy-bunny-eat-a-banana-the-perfect-mood-boosting-video.html" target="_blank">Watch a super-fluffy bunny eat a banana: the perfect mood-boosting video</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-17 02:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,7 +319,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 12:02 UTC
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
