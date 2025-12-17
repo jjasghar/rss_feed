@@ -1,42 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 20:02:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-17 21:01:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/17/nx-s1-5647680/federal-court-says-troops-can-stay-in-d-c-and-hints-at-prolonged-deployment" target="_blank">Federal court says troops can stay in D.C., and hints at prolonged deployment</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-17 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/spinal-tap-1-rt-gmh-251217_1765997072637_hpMain_4x3t_384.jpg" alt="Rob Reiner&#x27;s son and daughter release statement after their brother&#x27;s arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/rob-reiners-children-speak-after-nick-reiners-arrest/story?id=128491146" target="_blank">Rob Reiner&#x27;s son and daughter release statement after their brother&#x27;s arrest</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-17 19:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,29 +103,29 @@
                 <span class="time">2025-12-17 17:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Nick-Reiner-main_1765968400681_hpMain_4x3t_384.jpg" alt="Rob Reiner murders latest: Nick Reiner makes 1st appearance in court" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/video-shows-moments-leading-nick-reiners-arrest-after/story?id=128476501" target="_blank">Rob Reiner murders latest: Nick Reiner makes 1st appearance in court</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-17 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/17/warner-bros-discovery-rejects-paramounts-hostile-takeover-bid?traffic_source=rss" target="_blank">Warner Bros Discovery rejects Paramount’s hostile takeover bid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-17 17:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/846609/beats-solo-4-wireless-headphones-deal-sale-2025" target="_blank">You can snag a pair of the Beats Solo 4 headphones for under $100 right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-17 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Larry-Bushart-via-FIRE.jpg-500x469.jpeg" alt="Man sues cops who jailed him for 37 days for trolling a Charlie Kirk vigil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/man-sues-cops-who-jailed-him-for-37-days-for-trolling-a-charlie-kirk-vigil/" target="_blank">Man sues cops who jailed him for 37 days for trolling a Charlie Kirk vigil</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-17 20:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,29 +162,20 @@
                 <span class="time">2025-12-17 18:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6941ad41cb4966424bfc534f/master/pass/CBP-Doubling-Down-on-Immigrant-Hunting-Drone-Program-Security-2251568064.jpg" alt="Border Patrol Bets on Small Drones to Expand US Surveillance Reach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/border-patrol-bets-on-small-drones-to-expand-us-surveillance-reach/" target="_blank">Border Patrol Bets on Small Drones to Expand US Surveillance Reach</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-17 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/846387/level-2-operational-design-domain-markey-bill" target="_blank">Tesla would have to rein in FSD under new Democratic bill</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-17 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803196&w=600" alt="Momento Migrates Object Cache as a Service to Ampere® Altra®" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/momento-object-cache-service-ampere-altra" target="_blank">Momento Migrates Object Cache as a Service to Ampere® Altra®</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-17 20:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,15 +221,6 @@
                 <span class="time">2025-12-17 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-history-of-servers-the-cloud" target="_blank">The history of servers, the cloud, and what’s next – with Oxide</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-12-17 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/slicedcheddar-1280x853.jpg" alt="Cheddar Lovers, Rejoice: Eating High-Fat Cheese May Lower Dementia Risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cheddar-lovers-rejoice-eating-high-fat-cheese-may-lower-dementia-risk-2000700802" target="_blank">Cheddar Lovers, Rejoice: Eating High-Fat Cheese May Lower Dementia Risk</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-17 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/image-18.jpg" alt="Resident Evil‘s ‘Impossible’ Game Boy Port Appears Online And It’s 98 Percent Complete" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evils-game-boy-dispatch-switch-2-2000654239" target="_blank">Resident Evil‘s ‘Impossible’ Game Boy Port Appears Online And It’s 98 Percent Complete</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-17 20:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/Screenshot-2025-12-17-144216-1280x714.jpg" alt="Everything You Need To Know About Animal Crossing: New Horizons’ Big Free Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +294,6 @@
                 <span class="time">2025-12-17 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCPN6ZMFN6T43WKC8MY26QFR/hero-image.jpg" alt="That PayPal &#x27;Automatic Payment Status&#x27; Email Is a Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/that-paypal-automatic-payment-email-is-a-scam?utm_medium=RSS" target="_blank">That PayPal &#x27;Automatic Payment Status&#x27; Email Is a Scam</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-17 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/greenland-1280x853.jpg" alt="It’s Gerard Butler vs. the Post-Apocalypse in the Fiery New ‘Greenland 2: Migration’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/its-gerard-butler-vs-the-post-apocalypse-in-the-fiery-new-greenland-2-migration-trailer-2000700813" target="_blank">It’s Gerard Butler vs. the Post-Apocalypse in the Fiery New ‘Greenland 2: Migration’ Trailer</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-17 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
