@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 18:02:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-17 19:03:14 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 18:02 UTC</div>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/17/uk-warns-abramovich-to-give-chelsea-sale-cash-to-ukraine-or-face-court?traffic_source=rss" target="_blank">UK warns Abramovich to give Chelsea sale cash to Ukraine or face court</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-17 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/17/g-s1-102651/senate-national-defense-authorization-act-hegseth-boat-strike-video" target="_blank">Senate passes $901 billion defense bill that pushes Hegseth for boat strike video</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-17 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e45/live/be0a24f0-db5e-11f0-b67b-690eb873de1b.jpg" alt="Abramovich must pay £2.5bn from Chelsea FC sale to Ukraine fund or face court, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2e64lr3zeo?at_medium=RSS&at_campaign=rss" target="_blank">Abramovich must pay £2.5bn from Chelsea FC sale to Ukraine fund or face court, Starmer says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-17 17:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Nick-Reiner-main_1765968400681_hpMain_4x3t_384.jpg" alt="Rob Reiner murders latest: Nick Reiner makes 1st appearance in court" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,38 +106,38 @@
                 <span class="time">2025-12-17 16:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/17/nx-s1-5647318/congress-retirement-2026-house-senate" target="_blank">More than 10% of Congress won&#x27;t return to their seats after 2026</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-17 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251217-capitol-mn-1015-3bd7dc.jpg" alt="Centrist Republicans revolt, signing a petition to force a vote on Obamacare funding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/centrist-republicans-revolt-signing-petition-force-vote-obamacare-fund-rcna249693" target="_blank">Centrist Republicans revolt, signing a petition to force a vote on Obamacare funding</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-17 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/12/17/what-are-things-like-for-women-15-years-after-the-arab-spring?traffic_source=rss" target="_blank">What are things like for women, 15 years after the Arab Spring?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-17 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/17/cisco-says-chinese-hackers-are-exploiting-its-customers-with-a-new-zero-day/" target="_blank">Cisco says Chinese hackers are exploiting its customers with a new zero-day</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-17 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2233373547-500x500.jpg" alt="Bursting AI bubble may be EU’s “secret weapon” in clash with Trump, expert says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/us-threatens-crackdown-on-eu-firms-as-clash-over-tech-regulations-intensifies/" target="_blank">Bursting AI bubble may be EU’s “secret weapon” in clash with Trump, expert says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-17 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6941ad41cb4966424bfc534f/master/pass/CBP-Doubling-Down-on-Immigrant-Hunting-Drone-Program-Security-2251568064.jpg" alt="Border Patrol Bets on Small Drones to Expand US Surveillance Reach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/border-patrol-bets-on-small-drones-to-expand-us-surveillance-reach/" target="_blank">Border Patrol Bets on Small Drones to Expand US Surveillance Reach</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-17 18:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,38 +165,29 @@
                 <span class="time">2025-12-17 16:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/17/radiant-nuclear-raises-300m-for-its-semi-sized-1-mw-reactor/" target="_blank">Radiant Nuclear raises $300M for its semi-sized 1 MW reactor</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-17 16:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6941d305dc77ec29145147c1/master/pass/politics_social_media_creators_right_wing.jpg" alt="The Most Powerful Politics Influencers Barely Post About Politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-most-powerful-politics-influencers-barely-post-about-politics/" target="_blank">The Most Powerful Politics Influencers Barely Post About Politics</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/845741/gemini-3-flash-google-ai-mode-launch" target="_blank">Gemini 3 Flash is here, bringing a ‘huge’ upgrade to the Gemini app</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-17 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18683522&w=600" alt="Why Your AI Transformation is Broken" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-your-ai-transformation-is-broken" target="_blank">Why Your AI Transformation is Broken</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-17 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fosres/port-numbers-quiz-ports-every-security-engineer-should-know-5784" target="_blank">Port Numbers Quiz -- Ports Every Security Engineer Should Know</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-17 18:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +224,6 @@
                 <span class="time">2025-12-17 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18799286&w=600" alt="Model Context Protocol: The Missing Layer in Agentic AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/model-context-protocol-the-missing-layer-in-agenti" target="_blank">Model Context Protocol: The Missing Layer in Agentic AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-17 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/inboryn_99399f96579fcd705/kubernetes-135-security-7-game-changing-features-released-today-devsecops-must-know-29a2" target="_blank">Kubernetes 1.35 Security: 7 Game-Changing Features Released Today (DevSecOps Must-Know)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-17 14:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/10/GettyImages-2068281076-1024x683.jpg" alt="X ‘Bid Adieu’ to the Twitter Brand, but Now It’s Suing to Keep It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/x-bid-adieu-to-the-twitter-brand-but-now-its-suing-to-keep-it-2000700860" target="_blank">X ‘Bid Adieu’ to the Twitter Brand, but Now It’s Suing to Keep It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-17 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCPN6ZMFN6T43WKC8MY26QFR/hero-image.jpg" alt="That PayPal &#x27;Automatic Payment Status&#x27; Email Is a Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/that-paypal-automatic-payment-email-is-a-scam?utm_medium=RSS" target="_blank">That PayPal &#x27;Automatic Payment Status&#x27; Email Is a Scam</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-17 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/greenland-1280x853.jpg" alt="It’s Gerard Butler vs. the Post-Apocalypse in the Fiery New ‘Greenland 2: Migration’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +297,6 @@
                 <span class="time">2025-12-17 16:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/MicroRGB-1-1280x853.jpg" alt="What Is a Micro RGB TV and Why You’re Gonna See Them Everywhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/what-is-a-micro-rgb-tv-and-why-youre-gonna-see-them-everywhere-2000700764" target="_blank">What Is a Micro RGB TV and Why You’re Gonna See Them Everywhere</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-17 16:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/valtrex-1280x853.jpg" alt="Researchers Tested Herpes Drugs for Alzheimer’s. It Backfired" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/researchers-tested-herpes-drugs-for-alzheimers-it-backfired-2000700360" target="_blank">Researchers Tested Herpes Drugs for Alzheimer’s. It Backfired</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-17 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
