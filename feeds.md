@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 01:29:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-17 02:31:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid" target="_blank">Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-17 01:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/694145f8d9b07d4c1f59f641/master/pass/VVIP%20Dec%2025%20STOCK%204.jpg" alt="Jaguar Type 00 EV First Ride: It Still Looks Odd, but It’s Seriously Quick" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -148,20 +156,20 @@
                 <span class="time">2025-12-16 21:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/smart-tv-and-phone-500x500-1765917391.jpg" alt="Texas sues biggest TV makers, alleging smart TVs spy on users without consent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/texas-sues-biggest-tv-makers-alleging-smart-tvs-spy-on-users-without-consent/" target="_blank">Texas sues biggest TV makers, alleging smart TVs spy on users without consent</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-16 21:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yuer/using-gpt-as-a-code-auditor-not-a-code-generator-40am" target="_blank">Using GPT as a Code Auditor (Not a Code Generator)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-17 02:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +215,6 @@
                 <span class="time">2025-12-16 21:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://astral.sh/blog/ty" target="_blank">ty: An extremely fast Python type checker and language server</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-16 21:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_1907614489-e1742999851141.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Watch a super-fluffy bunny eat a banana: the perfect mood-boosting video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/16/watch-a-super-fluffy-bunny-eat-a-banana-the-perfect-mood-boosting-video.html" target="_blank">Watch a super-fluffy bunny eat a banana: the perfect mood-boosting video</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-17 02:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/sonos-beam-soundbar-1280x853.jpg" alt="Ditch Your Old Soundbar for Good, Sonos Beam Hits Record Low One Week Before Christmas on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +297,6 @@
                 <span class="time">2025-12-16 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Ben-Kingsley-Wonder-Man-1280x853.jpg" alt="Ben Kingsley Also Can’t Believe He’s Starring in ‘Wonder Man’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ben-kingsley-wonder-man-marvel-trevor-2000700301" target="_blank">Ben Kingsley Also Can’t Believe He’s Starring in ‘Wonder Man’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-16 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
