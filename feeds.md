@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-16 23:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-17 00:04:41 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, December 16, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/16/nx-s1-5646666/rob-reiner-michele-singer-reiner-dead-son-nick-charges-first-degree-murder" target="_blank">Nick Reiner will be charged with first degree murder in his parents&#x27; killing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-16 23:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/providence-main_1765871392987_hpMain_4x3t_384.jpg" alt="FBI video shows man sought in Brown University shooting near police after attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +99,29 @@
                 <span class="time">2025-12-16 17:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/16/us-unemployment-hits-highest-level-since-2021-as-labour-market-cools?traffic_source=rss" target="_blank">US unemployment hits highest level since 2021 as labour market cools</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-16 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/694145f8d9b07d4c1f59f641/master/pass/VVIP%20Dec%2025%20STOCK%204.jpg" alt="Jaguar Type 00 EV First Ride: It Still Looks Odd, but It’s Seriously Quick" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jaguar-type-00-ev-first-ride-it-still-looks-odd-but-it-is-seriously-quick/" target="_blank">Jaguar Type 00 EV First Ride: It Still Looks Odd, but It’s Seriously Quick</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-17 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/845678/alexa-dot-com-alexa-plus-website-live" target="_blank">Alexa Plus’ website is live for some users</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-16 23:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -109,6 +129,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026" target="_blank">Samsung’s 2026 Micro RGB LED TVs can actually fit in your living room</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-16 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/16/how-luminars-doomed-volvo-deal-helped-drag-the-company-into-bankruptcy/" target="_blank">How Luminar’s doomed Volvo deal helped drag the company into bankruptcy</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-16 22:43</span>
             </div>
         </div>
 <div class="story">
@@ -127,33 +156,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/texas-sues-biggest-tv-makers-alleging-smart-tvs-spy-on-users-without-consent/" target="_blank">Texas sues biggest TV makers, alleging smart TVs spy on users without consent</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-12-16 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/845725/taylor-swift-gudea-report-rolling-stone-social-media-discourse-bots" target="_blank">A vague study on Nazi bots created chaos in the Taylor Swift fan universe</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-16 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/16/study-shows-instacart-may-be-charging-some-shoppers-20-more-for-the-same-product/" target="_blank">Study shows Instacart may be charging some shoppers 20% more for the same product</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-16 20:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6940951c5ef9ba38705f23ee/master/pass/The%20Best%20Streaming%20Deals%20top%20art%20122025%20SOURCE%20HBO%20Max.jpg" alt="The Best Streaming Bundles and Streaming Deals of December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/" target="_blank">The Best Streaming Bundles and Streaming Deals of December 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-16 20:19</span>
             </div>
         </div>
 </div>
@@ -183,6 +185,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html" target="_blank">AI will make formal verification go mainstream</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-16 21:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html" target="_blank">Prediction: AI will make formal verification go mainstream</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-16 21:14</span>
@@ -204,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/martinrojas/federated-state-done-right-zustand-tanstack-query-and-the-patterns-that-actually-work-27c0" target="_blank">Federated State Done Right: Zustand, TanStack Query, and the Patterns That Actually Work</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-16 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18799242&w=600" alt="What Apple’s Native Containers Mean for Docker Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/what-apples-native-containers-mean-for-docker-user" target="_blank">What Apple’s Native Containers Mean for Docker Users</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-16 20:00</span>
             </div>
         </div>
 </div>
@@ -243,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/playstation-dualsense-edge-wireless-controller-1280x853.jpg" alt="Sony Offloads DualSense Edge at Record Low, Pro Gamers Get Elite Controller at Casual Gamer Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sony-offloads-dualsense-edge-at-record-low-pro-gamers-get-elite-controller-at-casual-gamer-price-2000653974" target="_blank">Sony Offloads DualSense Edge at Record Low, Pro Gamers Get Elite Controller at Casual Gamer Price</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-16 23:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/anker-solix-c1000-v2-1280x853.jpg" alt="Anker SOLIX C1000 at Record Low for Christmas on Amazon, Charge 10 Devices With 2,000W Output at Once" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +299,6 @@
                 <span class="time">2025-12-16 20:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/outerworlds2-1280x720.jpg" alt="Damn, The Outer Worlds 2‘s Flaw System Is So Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/outer-worlds-2-flaws-system-great-how-it-works-rpg-xbox-obsidian-2000653910" target="_blank">Damn, The Outer Worlds 2‘s Flaw System Is So Good</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-16 19:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
