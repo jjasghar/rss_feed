@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 00:04:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-17 01:29:52 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -175,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ThinkPad-Hardware-Damage-Linux" target="_blank">Linux Exposing Support For Lenovo ThinkPads Being Able To Detect Hardware Damage</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-16 23:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/magalucloud/como-provisionar-um-cluster-postgresql-no-dbaas-da-magalu-cloud-com-failover-automatico-2n53" target="_blank">Como provisionar um cluster PostgreSQL no DBaaS da Magalu Cloud com failover automático</a></span>
                 <span class="feed">DEV Community</span>
@@ -208,15 +216,6 @@
                 <span class="time">2025-12-16 21:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/martinrojas/federated-state-done-right-zustand-tanstack-query-and-the-patterns-that-actually-work-27c0" target="_blank">Federated State Done Right: Zustand, TanStack Query, and the Patterns That Actually Work</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-16 20:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +245,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/sonos-beam-soundbar-1280x853.jpg" alt="Ditch Your Old Soundbar for Good, Sonos Beam Hits Record Low One Week Before Christmas on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ditch-your-old-soundbar-for-good-sonos-beam-hits-record-low-one-week-before-christmas-on-amazon-2000653981" target="_blank">Ditch Your Old Soundbar for Good, Sonos Beam Hits Record Low One Week Before Christmas on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-17 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/ancient-bees-1280x853.jpg" alt="Fossilized Bee Nests Inside Skeletons Are Unlike Anything We’ve Seen Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/fossilized-bee-nests-inside-skeletons-are-unlike-anything-weve-seen-before-2000700261" target="_blank">Fossilized Bee Nests Inside Skeletons Are Unlike Anything We’ve Seen Before</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-17 00:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/playstation-dualsense-edge-wireless-controller-1280x853.jpg" alt="Sony Offloads DualSense Edge at Record Low, Pro Gamers Get Elite Controller at Casual Gamer Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -264,39 +281,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Curiosity-Stream-Standard-Plan.png?fit=2250%2C1500&amp;quality=55&amp;ssl=1" alt="When your algorithm gets it wrong, this platform gets it right" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/16/when-your-algorithm-gets-it-wrong-this-platform-gets-it-right.html" target="_blank">When your algorithm gets it wrong, this platform gets it right</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-16 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Ben-Kingsley-Wonder-Man-1280x853.jpg" alt="Ben Kingsley Also Can’t Believe He’s Starring in ‘Wonder Man’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/ben-kingsley-wonder-man-marvel-trevor-2000700301" target="_blank">Ben Kingsley Also Can’t Believe He’s Starring in ‘Wonder Man’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-16 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Karoline-Leavitt2C-USA-Propaganda-Queen.-sticker-.jpg?fit=1080%2C1439&amp;quality=60&amp;ssl=1" alt="&quot;Cronyism in couture&quot;: Vanity Fair publishes brilliant new portraits, capturing the &quot;hideousness of this administration&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/16/cronyism-in-couture-vanity-fair-publishes-brilliant-new-portraits-capturing-the-hideousness-of-this-administration.html" target="_blank">&quot;Cronyism in couture&quot;: Vanity Fair publishes brilliant new portraits, capturing the &quot;hideousness of this administration&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-16 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCM9NC7J8EWZJM27967BRMY5/hero-image.png" alt="The 10 Essential Apps for Any DIY Home Remodel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/useful-apps-for-diy-projects?utm_medium=RSS" target="_blank">The 10 Essential Apps for Any DIY Home Remodel</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-16 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/08/9a6e2607ac869f5b212e27f742ac224f-1280x720.jpg" alt="Larian’s AI Use Has Even Baldur’s Gate 3 Diehards Speaking Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/larian-baldurs-gate-3-divinity-ai-swen-vincke-reaction-2000653934" target="_blank">Larian’s AI Use Has Even Baldur’s Gate 3 Diehards Speaking Out</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-16 20:22</span>
             </div>
         </div>
 </div>
@@ -327,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
