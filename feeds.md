@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 21:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-17 22:01:53 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/spinal-tap-1-rt-gmh-251217_1765997072637_hpMain_4x3t_384.jpg" alt="Rob and Michele Reiner&#x27;s children speak out after Nick Reiner&#x27;s arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/rob-reiners-children-speak-after-nick-reiners-arrest/story?id=128491146" target="_blank">Rob and Michele Reiner&#x27;s children speak out after Nick Reiner&#x27;s arrest</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-17 21:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +95,20 @@
                 <span class="time">2025-12-17 18:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e45/live/be0a24f0-db5e-11f0-b67b-690eb873de1b.jpg" alt="Abramovich must pay £2.5bn from Chelsea FC sale to Ukraine fund or face court, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2e64lr3zeo?at_medium=RSS&at_campaign=rss" target="_blank">Abramovich must pay £2.5bn from Chelsea FC sale to Ukraine fund or face court, Starmer says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-17 17:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/17/jared-isaacman-confirmed-as-next-head-of-nasa/" target="_blank">Jared Isaacman confirmed as next head of NASA</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-17 21:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +154,20 @@
                 <span class="time">2025-12-17 18:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2233373547-500x500.jpg" alt="Bursting AI bubble may be EU’s “secret weapon” in clash with Trump, expert says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/us-threatens-crackdown-on-eu-firms-as-clash-over-tech-regulations-intensifies/" target="_blank">Bursting AI bubble may be EU’s “secret weapon” in clash with Trump, expert says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-17 18:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5e57lh7rtwwwe2d694n.png" alt="Why Bf-Tree Pins Inner Nodes and What That Unlocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lovestaco/why-bf-tree-pins-inner-nodes-and-what-that-unlocks-566k" target="_blank">Why Bf-Tree Pins Inner Nodes and What That Unlocks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-17 21:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803196&w=600" alt="Momento Migrates Object Cache as a Service to Ampere® Altra®" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +213,6 @@
                 <span class="time">2025-12-17 18:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/17/the-2025-stack-overflow-and-stack-exchange-wrap/" target="_blank">The 2025 Stack Overflow and Stack Exchange wrap—our top ten questions of the year!</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-17 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +233,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/pompeii-plaster-casts-1280x853.jpg" alt="Vesuvius Exploded in August—So Why Were Pompeii Victims Wearing Heavy Clothing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/vesuvius-exploded-in-august-so-why-were-pompeii-victims-wearing-heavy-clothing-2000700770" target="_blank">Vesuvius Exploded in August—So Why Were Pompeii Victims Wearing Heavy Clothing?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-17 21:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/slicedcheddar-1280x853.jpg" alt="Cheddar Lovers, Rejoice: Eating High-Fat Cheese May Lower Dementia Risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -259,6 +260,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/shutterstock_207000703-scaled-e1740068634781.jpg?fit=1080%2C721&amp;quality=60&amp;ssl=1" alt="Caught trashing her fellow cronies, Wiles claims she was taken out of context by a tape recording" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/17/caught-trashing-her-fellow-cronies-wiles-claims-she-was-taken-out-of-context-by-a-tape-recording.html" target="_blank">Caught trashing her fellow cronies, Wiles claims she was taken out of context by a tape recording</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-17 20:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/Screenshot-2025-12-17-144216-1280x714.jpg" alt="Everything You Need To Know About Animal Crossing: New Horizons’ Big Free Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -274,24 +284,6 @@
                 <span class="title"><a href="https://gizmodo.com/best-toys-collectibles-2025-star-wars-lego-2000700345" target="_blank">The Best Toys of 2025</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-17 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/10/GettyImages-2068281076-1024x683.jpg" alt="X ‘Bid Adieu’ to the Twitter Brand, but Now It’s Suing to Keep It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/x-bid-adieu-to-the-twitter-brand-but-now-its-suing-to-keep-it-2000700860" target="_blank">X ‘Bid Adieu’ to the Twitter Brand, but Now It’s Suing to Keep It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-17 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCPQZ45NYTMBFQ74985KRW54/hero-image.jpg" alt="Apple Just Changed the Way You AirDrop With Strangers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-introduces-airdrop-codes?utm_medium=RSS" target="_blank">Apple Just Changed the Way You AirDrop With Strangers</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-17 19:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
