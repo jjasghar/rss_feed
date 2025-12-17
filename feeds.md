@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 07:03:09 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-17 08:02:31 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/17/g-s1-102569/trump-expands-travel-ban-restrictions" target="_blank">Trump expands travel ban and restrictions to include an additional 20 countries</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-17 07:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/17/drone-attacks-kill-over-100-civilians-across-war-torn-sudans-kordofan?traffic_source=rss" target="_blank">Drone attacks kill over 100 civilians across war-torn Sudan’s Kordofan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-17 07:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-13-gty-gmh-251215_1765832561639_hpMain_4x3t_384.jpg" alt="Trump announces &#x27;TOTAL AND COMPLETE BLOCKADE&#x27; of sanctioned Venezuelan oil tankers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trump-announces-total-complete-blockade-sanctioned-venezuelan-oil/story?id=128470561" target="_blank">Trump announces &#x27;TOTAL AND COMPLETE BLOCKADE&#x27; of sanctioned Venezuelan oil tankers</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-17 06:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,33 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/17/ex-harvard-morgue-manager-who-stole-body-parts-gets-8-years-in-prison?traffic_source=rss" target="_blank">Ex-Harvard morgue manager who stole body parts gets 8 years in prison</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-17 02:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2094/live/9baee790-daa7-11f0-b825-331725716d67.jpg" alt="Doctors start five-day strike as hospitals grapple with flu wave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&at_campaign=rss" target="_blank">Doctors start five-day strike as hospitals grapple with flu wave</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-17 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765928380579_nn_mch_reiner_investigation_251216_1920x1080-8wgl1t.jpg" alt="Rob Reiner’s son charged with his parents’ murders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/rob-reiner-s-son-charged-with-his-parents-murders-254535749768" target="_blank">Rob Reiner’s son charged with his parents’ murders</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-16 23:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/16/nx-s1-5646666/rob-reiner-michele-singer-reiner-dead-son-nick-charges-first-degree-murder" target="_blank">Nick Reiner will be charged with first degree murder in his parents&#x27; killing</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-16 23:11</span>
             </div>
         </div>
 </div>
@@ -167,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/12/netflix-migrates-amazon-aurora/en/headerimage/header-1765744023548.jpeg" alt="Netflix Migrates to Amazon Aurora: 75% Performance Boost and 28% Cost Reduction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/netflix-migrates-amazon-aurora/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Migrates to Amazon Aurora: 75% Performance Boost and 28% Cost Reduction</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-17 08:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="TornadoVM 2.0 Brings Automatic GPU Acceleration and LLM support to Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -209,15 +220,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/enterprise-automation-resilience-edb-and-ansible-automation-platform" target="_blank">Enterprise automation resilience with EDB and Red Hat Ansible Automation Platform</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-12-17 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ThinkPad-Hardware-Damage-Linux" target="_blank">Linux Exposing Support For Lenovo ThinkPads Being Able To Detect Hardware Damage</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-16 23:57</span>
             </div>
         </div>
 </div>
@@ -321,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
