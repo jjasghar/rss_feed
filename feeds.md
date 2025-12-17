@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 09:04:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-17 10:02:12 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 09:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3a4/live/1d7c9e90-db23-11f0-94c7-2d2719dc628b.jpg" alt="Alleged Bondi gunman charged with 15 counts of murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss" target="_blank">Alleged Bondi gunman charged with 15 counts of murder</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-17 09:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-13-gty-gmh-251215_1765832561639_hpMain_4x3t_384.jpg" alt="Trump announces &#x27;COMPLETE BLOCKADE&#x27; of sanctioned Venezuelan oil tankers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +105,20 @@
                 <span class="time">2025-12-17 06:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765943739011_now_staytuned_trump_blockage_venezuela_251216_1920x1080-eykh54.jpg" alt="Trump orders blockade of oil tankers entering and leaving Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-orders-blockage-of-oil-tankers-entering-and-leaving-venezuela-254561349598" target="_blank">Trump orders blockade of oil tankers entering and leaving Venezuela</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-17 03:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/17/google-deepens-consumer-credit-push-in-india-with-upi-linked-card/" target="_blank">Google deepens consumer credit push in India with UPI-linked card</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-17 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Therabody Promo Codes: 50% Off | December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +164,29 @@
                 <span class="time">2025-12-17 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/845678/alexa-dot-com-alexa-plus-website-live" target="_blank">Alexa Plus’ website is live for some users</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-16 23:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/raspberry-pi-desktop-os/" target="_blank">Your Raspberry Pi Can Be a Real Desktop (If You Pick the Right OS)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-17 09:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/nextgen-search-ai-opensearch-mcp/en/headerimage/extgen-search-ai-header-1765802308459.jpg" alt="Article: NextGen Search - Where AI Meets OpenSearch Through MCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/nextgen-search-ai-opensearch-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: NextGen Search - Where AI Meets OpenSearch Through MCP</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-17 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/12/netflix-migrates-amazon-aurora/en/headerimage/header-1765744023548.jpeg" alt="Netflix Migrates to Amazon Aurora: 75% Performance Boost and 28% Cost Reduction" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,24 +223,6 @@
                 <span class="time">2025-12-17 02:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Opus-1.6-Released" target="_blank">Opus 1.6 Audio Codec Adds New Machine Learning Functionality</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-17 01:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/enterprise-automation-resilience-edb-and-ansible-automation-platform" target="_blank">Enterprise automation resilience with EDB and Red Hat Ansible Automation Platform</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-12-17 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_2591703031-1280x853.jpg" alt="Trump Reportedly Pausing $40 Billion AI and Quantum Deal With UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-reportedly-pausing-40-billion-ai-and-quantum-deal-with-uk-2000700305" target="_blank">Trump Reportedly Pausing $40 Billion AI and Quantum Deal With UK</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-17 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_714565612.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Sloth ASMR: Listen to this gorgeous two-toed sloth crunching his way through a pile of sugar snap peas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,20 +305,20 @@
                 <span class="time">2025-12-16 23:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/anker-solix-c1000-v2-1280x853.jpg" alt="Anker SOLIX C1000 at Record Low for Christmas on Amazon, Charge 10 Devices With 2,000W Output at Once" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/anker-solix-c1000-at-record-low-for-christmas-on-amazon-charge-10-devices-with-2000w-output-at-once-2000653967" target="_blank">Anker SOLIX C1000 at Record Low for Christmas on Amazon, Charge 10 Devices With 2,000W Output at Once</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-16 22:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/17/huge-savings-in-every-depertment" target="_blank">Huge Savings In Every Depertment</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-17 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1765838454-20251216_edit.png" alt="Saturday Morning Breakfast Cereal - Aspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -315,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
