@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 17:04:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-17 18:02:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 17:04 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Nick-Reiner-main_1765968400681_hpMain_4x3t_384.jpg" alt="Rob Reiner murders latest: Nick Reiner makes 1st appearance in court" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/video-shows-moments-leading-nick-reiners-arrest-after/story?id=128476501" target="_blank">Rob Reiner murders latest: Nick Reiner makes 1st appearance in court</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-17 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/17/warner-bros-discovery-rejects-paramounts-hostile-takeover-bid?traffic_source=rss" target="_blank">Warner Bros Discovery rejects Paramount’s hostile takeover bid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-17 17:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +102,20 @@
                 <span class="time">2025-12-17 14:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/17/g-s1-102289/chile-chiloe-island-tides-witches" target="_blank">Greetings from Chiloé Island, Chile, where the fast-moving tides are part of local lore</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-17 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Nick-Reiner-main_1765968400681_hpMain_4x3t_384.jpg" alt="Video shows moments leading up to arrest of Rob Reiner&#x27;s son" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/video-shows-moments-leading-nick-reiners-arrest-after/story?id=128476501" target="_blank">Video shows moments leading up to arrest of Rob Reiner&#x27;s son</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-17 13:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/846387/level-2-operational-design-domain-markey-bill" target="_blank">Tesla would have to rein in FSD under new Democratic bill</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-17 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +158,6 @@
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/845741/gemini-3-flash-google-ai-mode-launch" target="_blank">Gemini 3 Flash is here, bringing a ‘huge’ upgrade to the Gemini app</a></span>
                 <span class="feed">The Verge</span>
-                <span class="time">2025-12-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/17/google-launches-gemini-3-flash-makes-it-the-default-model-in-the-gemini-app/" target="_blank">Google launches Gemini 3 Flash, makes it the default model in the Gemini app</a></span>
-                <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-17 16:00</span>
             </div>
         </div>
@@ -234,6 +240,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/greenland-1280x853.jpg" alt="It’s Gerard Butler vs. the Post-Apocalypse in the Fiery New ‘Greenland 2: Migration’ Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/its-gerard-butler-vs-the-post-apocalypse-in-the-fiery-new-greenland-2-migration-trailer-2000700813" target="_blank">It’s Gerard Butler vs. the Post-Apocalypse in the Fiery New ‘Greenland 2: Migration’ Trailer</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-17 17:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/measles.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Texas Mennonites less likely to vaccinate after outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/17/texas-mennonites-less-likely-to-vaccinate-after-outbreak.html" target="_blank">Texas Mennonites less likely to vaccinate after outbreak</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-17 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCPHAV34XXTFHZAF7ZZ81NJC/hero-image.jpg" alt="Apple&#x27;s Latest iOS Update Includes a New Way to Receive Notifications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-update-iphone-display-light-up-notification?utm_medium=RSS" target="_blank">Apple&#x27;s Latest iOS Update Includes a New Way to Receive Notifications</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-17 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/shutterstock_2407094237-scaled.jpg?fit=2560%2C1440&amp;quality=60&amp;ssl=1" alt="Flight attendant arrested for battery after tapping someone&#x27;s shoulder (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -258,33 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/researchers-tested-herpes-drugs-for-alzheimers-it-backfired-2000700360" target="_blank">Researchers Tested Herpes Drugs for Alzheimer’s. It Backfired</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J5R8K2SBTJDTSYWN3F1QS498/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Sony WH-1000XM5 Headphones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-sony-wh-1000xm5?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Sony WH-1000XM5 Headphones</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/cyclone-simulation-1280x853.jpg" alt="The Surprising Way Hurricanes Pump Carbon Into the Air—and Life Into the Ocean" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-surprising-way-hurricanes-pump-carbon-into-the-air-and-life-into-the-ocean-2000700676" target="_blank">The Surprising Way Hurricanes Pump Carbon Into the Air—and Life Into the Ocean</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-17 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCP5SAZ4857YBA7YYJT5Q95G/hero-image.jpg" alt="How ChatGPT&#x27;s New Image Generator Stacks Up Against Gemini&#x27;s Nano Banana Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-chatgpt-image-generator-compares-to-gemini-nano-banana-pro?utm_medium=RSS" target="_blank">How ChatGPT&#x27;s New Image Generator Stacks Up Against Gemini&#x27;s Nano Banana Pro</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-17 14:30</span>
             </div>
         </div>
 </div>
@@ -315,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
