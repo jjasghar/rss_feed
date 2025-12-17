@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 15:02:05 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-17 16:02:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +105,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6941d305dc77ec29145147c1/master/pass/politics_social_media_creators_right_wing.jpg" alt="The Most Powerful Politics Influencers Barely Post About Politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-most-powerful-politics-influencers-barely-post-about-politics/" target="_blank">The Most Powerful Politics Influencers Barely Post About Politics</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/845741/gemini-3-flash-google-ai-mode-launch" target="_blank">Gemini 3 Flash is here, bringing a ‘huge’ upgrade to the Gemini app</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/17/google-launches-gemini-3-flash-makes-it-the-default-model-in-the-gemini-app/" target="_blank">Google launches Gemini 3 Flash, makes it the default model in the Gemini app</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -135,38 +158,29 @@
                 <span class="time">2025-12-17 13:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6941bd6e58bc14b2ae469ba1/master/pass/Best%20Stocking%20Stuffers%20Update%20top%20art%20122025%20SOURCE%20Amazon_Target.jpg" alt="17 Best Stocking Stuffers (2025): Unique and Unconventional" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-stocking-stuffers/" target="_blank">17 Best Stocking Stuffers (2025): Unique and Unconventional</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-17 13:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/" target="_blank">Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-17 12:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/674705ece62bfbd1626a1416/master/pass/GettyImages-1293014500.jpg" alt="How to Watch the Final Meteor Shower of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-watch-the-ursids-meteor-shower/" target="_blank">How to Watch the Final Meteor Shower of 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-17 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/17/the-2025-stack-overflow-and-stack-exchange-wrap/" target="_blank">The 2025 Stack Overflow and Stack Exchange wrap—our top ten questions of the year!</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-17 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18799197&w=600" alt="How AI Search Solves the Problem of Working With Unstructured Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-search-solves-the-problem-of-unstructured-data" target="_blank">How AI Search Solves the Problem of Working With Unstructured Data</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-17 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18799286&w=600" alt="Model Context Protocol: The Missing Layer in Agentic AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +217,6 @@
                 <span class="time">2025-12-17 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sl4zvyy5ixrfqu29q4c.png" alt="Evolutionary Algorithms, Rendered Live in Node.js" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sfundomhlungu/evolutionary-algorithms-rendered-live-in-nodejs-282a" target="_blank">Evolutionary Algorithms, Rendered Live in Node.js</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-17 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debusine-Repositories-Beta" target="_blank">Debusine Repositories Enter Beta: Ubuntu PPA-Like User Archives For Debian Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-17 12:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/valtrex-1280x853.jpg" alt="Researchers Tested Herpes Drugs for Alzheimer’s. It Backfired" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/researchers-tested-herpes-drugs-for-alzheimers-it-backfired-2000700360" target="_blank">Researchers Tested Herpes Drugs for Alzheimer’s. It Backfired</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-17 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/cyclone-simulation-1280x853.jpg" alt="The Surprising Way Hurricanes Pump Carbon Into the Air—and Life Into the Ocean" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +290,6 @@
                 <span class="time">2025-12-17 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Zach-Lipovsky-Adam-Stein-1280x853.jpg" alt="The Directors of ‘Final Destination Bloodlines’ May Have Their Next Sci-Fi Epic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-traveler-directors-final-destination-2000700586" target="_blank">The Directors of ‘Final Destination Bloodlines’ May Have Their Next Sci-Fi Epic</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-17 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
