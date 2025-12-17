@@ -1,42 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 11:02:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-17 12:02:32 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 34 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/17/nx-s1-5646697/trump-sues-bbc-florida-britbox-porn" target="_blank">Trump&#x27;s BBC lawsuit: A botched report, BritBox, and porn</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-17 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6c/live/35c7a3e0-db2e-11f0-b67b-690eb873de1b.jpg" alt="Doctors start five-day strike as NHS bosses warn flu wave will cause extra disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,20 +102,29 @@
                 <span class="time">2025-12-17 08:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/17/g-s1-102569/trump-expands-travel-ban-restrictions" target="_blank">Trump expands travel ban and restrictions to include an additional 20 countries</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-17 07:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/674705ece62bfbd1626a1416/master/pass/GettyImages-1293014500.jpg" alt="How to Watch the Final Meteor Shower of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-watch-the-ursids-meteor-shower/" target="_blank">How to Watch the Final Meteor Shower of 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-17 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv" target="_blank">Tesla misled customers about self-driving features, judge rules</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-17 11:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/682ba645d767a7c6c9783f5b/master/pass/Tuft-and-Needle_1.png" alt="Tuft &amp; Needle Is Offering a Free Pillow Set With Mattress Purchase" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,29 +161,29 @@
                 <span class="time">2025-12-17 05:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/16/monzo-board-reportedly-pushed-out-ceo-anil-over-ipo-timing/" target="_blank">Monzo board reportedly pushed out CEO Anil over IPO timing</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-17 03:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid" target="_blank">Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-17 01:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/the_nortern_dev/stop-treating-your-ai-like-a-goldfish-here-is-how-to-give-it-long-term-memory-56la" target="_blank">Stop treating your AI like a goldfish. Here is how to give it long-term memory.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-17 11:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Zen-6-znver6-GCC-16" target="_blank">AMD Zen 6 Compiler Support Merged For GCC 16</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-17 11:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,24 +220,6 @@
                 <span class="time">2025-12-17 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/netflix-migrates-amazon-aurora/en/headerimage/header-1765744023548.jpeg" alt="Netflix Migrates to Amazon Aurora: 75% Performance Boost and 28% Cost Reduction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/netflix-migrates-amazon-aurora/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Migrates to Amazon Aurora: 75% Performance Boost and 28% Cost Reduction</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-17 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="TornadoVM 2.0 Brings Automatic GPU Acceleration and LLM support to Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/tornadovm-20-gpu-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">TornadoVM 2.0 Brings Automatic GPU Acceleration and LLM support to Java</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-17 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,20 +234,29 @@
                 <span class="time">2025-12-16 14:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/chinese-surveillance-and-ai.html" target="_blank">Chinese Surveillance and AI</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-16 12:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Zach-Lipovsky-Adam-Stein-1280x853.jpg" alt="The Directors of ‘Final Destination Bloodlines’ May Have Their Next Sci-Fi Epic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-traveler-directors-final-destination-2000700586" target="_blank">The Directors of ‘Final Destination Bloodlines’ May Have Their Next Sci-Fi Epic</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-17 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Roll-up-for-an-encherining_2C-catgacating-day-out-.jpg?fit=1080%2C1080&amp;quality=60&amp;ssl=1" alt="Merriam-Webster picks &quot;slop&quot; as word of the year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/17/merriam-webster-picks-slop-as-word-of-the-year.html" target="_blank">Merriam-Webster picks &quot;slop&quot; as word of the year</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-17 11:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/fallout-season-2-ghoul-lucy-1280x853.jpg" alt="Bethesda Is Trying to Figure Out What ‘Fallout’ Games Season 3 Might Tie Into" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,24 +293,6 @@
                 <span class="time">2025-12-17 02:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/sonos-beam-soundbar-1280x853.jpg" alt="Ditch Your Old Soundbar for Good, Sonos Beam Hits Record Low One Week Before Christmas on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ditch-your-old-soundbar-for-good-sonos-beam-hits-record-low-one-week-before-christmas-on-amazon-2000653981" target="_blank">Ditch Your Old Soundbar for Good, Sonos Beam Hits Record Low One Week Before Christmas on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-17 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/ancient-bees-1280x853.jpg" alt="Fossilized Bee Nests Inside Skeletons Are Unlike Anything We’ve Seen Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/fossilized-bee-nests-inside-skeletons-are-unlike-anything-weve-seen-before-2000700261" target="_blank">Fossilized Bee Nests Inside Skeletons Are Unlike Anything We’ve Seen Before</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-17 00:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
