@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 13:13:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-17 14:01:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/Nick-Reiner-main_1765968400681_hpMain_4x3t_384.jpg" alt="Video shows moments leading up to arrest of Rob Reiner&#x27;s son" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/video-shows-moments-leading-nick-reiners-arrest-after/story?id=128476501" target="_blank">Video shows moments leading up to arrest of Rob Reiner&#x27;s son</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-17 13:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/17/putin-slams-wests-war-hysteria-as-eu-mulls-russian-assets-for-ukraine?traffic_source=rss" target="_blank">Putin slams West’s ‘war hysteria’ as EU mulls Russian assets for Ukraine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-17 13:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6c/live/35c7a3e0-db2e-11f0-b67b-690eb873de1b.jpg" alt="Starmer calls doctors&#x27; strike &#x27;dangerous&#x27; as five-day walkout begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer calls doctors&#x27; strike &#x27;dangerous&#x27; as five-day walkout begins</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-17 12:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765974976479_tdy_news_7a_chesky_rick_reiner_charged_251217_1920x1080-9hub2m.jpg" alt="Rob Reiner&#x27;s Son Charged With Murder as New Details Emerge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/video-shows-nick-reiner-arrest-after-death-of-his-parents-254575685668" target="_blank">Rob Reiner&#x27;s Son Charged With Murder as New Details Emerge</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-17 12:36</span>
             </div>
         </div>
 <div class="story">
@@ -70,33 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&at_campaign=rss" target="_blank">Doctors start five-day strike as NHS bosses warn flu wave will cause extra disruption</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-17 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/17/israel-to-advance-plans-for-9000-houses-in-occupied-east-jerusalem?traffic_source=rss" target="_blank">Israel to advance plans for 9,000 houses in occupied East Jerusalem</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-17 10:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/17/nx-s1-5645825/isis-islamic-australia-syria" target="_blank">Recent attacks have been &#x27;inspired&#x27; by Islamic State. What does that mean?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-17 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3a4/live/1d7c9e90-db23-11f0-94c7-2d2719dc628b.jpg" alt="Alleged Bondi gunman charged with 15 counts of murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss" target="_blank">Alleged Bondi gunman charged with 15 counts of murder</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-17 09:46</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18799273&w=600" alt="Agentic AI Design Patterns and Principles: Building Autonomous, Collaborative Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agentic-ai-design-patterns-and-principles-building" target="_blank">Agentic AI Design Patterns and Principles: Building Autonomous, Collaborative Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-17 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sl4zvyy5ixrfqu29q4c.png" alt="Evolutionary Algorithms, Rendered Live in Node.js" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,20 +216,20 @@
                 <span class="time">2025-12-17 11:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Zen-6-znver6-GCC-16" target="_blank">AMD Zen 6 Compiler Support Merged For GCC 16</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-17 11:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html" target="_blank">Deliberate Internet Shutdowns</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-17 12:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -236,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/JBLFlip-6-1280x853.jpg" alt="JBL Flip 6 Breaks Its Own Price Record After Another Price Crash, Leaving No Margin on This Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/jbl-flip-6-breaks-its-own-price-record-after-another-price-crash-leaving-no-margin-on-this-speaker-2000653936" target="_blank">JBL Flip 6 Breaks Its Own Price Record After Another Price Crash, Leaving No Margin on This Speaker</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-17 13:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Adobe-1280x851.jpeg" alt="Adobe Rolls Out Free Generative AI for Creative Cloud Pro Users as a Limited-Time Bonus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +298,6 @@
                 <span class="time">2025-12-17 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/shutterstock_2591703031-1280x853.jpg" alt="Trump Reportedly Pausing $40 Billion AI and Quantum Deal With UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-reportedly-pausing-40-billion-ai-and-quantum-deal-with-uk-2000700305" target="_blank">Trump Reportedly Pausing $40 Billion AI and Quantum Deal With UK</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-17 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
