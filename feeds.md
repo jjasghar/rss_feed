@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 16:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-17 17:04:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/17/faced-with-trumps-deportation-push-us-teachers-fear-leaving-the-classroom?traffic_source=rss" target="_blank">Faced with Trump’s deportation push, US teachers fear leaving the classroom</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-17 16:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/17/nx-s1-5647318/congress-retirement-2026-house-senate" target="_blank">More than 10% of Congress won&#x27;t return to their seats after 2026</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-17 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251217-capitol-mn-1015-3bd7dc.jpg" alt="Centrist Republicans revolt, signing a petition to force a vote on Obamacare funding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/centrist-republicans-revolt-signing-petition-force-vote-obamacare-fund-rcna249693" target="_blank">Centrist Republicans revolt, signing a petition to force a vote on Obamacare funding</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-17 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +96,38 @@
                 <span class="time">2025-12-17 13:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/17/putin-slams-wests-war-hysteria-as-eu-mulls-russian-assets-for-ukraine?traffic_source=rss" target="_blank">Putin slams West’s ‘war hysteria’ as EU mulls Russian assets for Ukraine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-17 13:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6c/live/35c7a3e0-db2e-11f0-b67b-690eb873de1b.jpg" alt="Starmer calls doctors&#x27; strike &#x27;dangerous&#x27; as five-day walkout begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer calls doctors&#x27; strike &#x27;dangerous&#x27; as five-day walkout begins</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-17 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765974976479_tdy_news_7a_chesky_rick_reiner_charged_251217_1920x1080-9hub2m.jpg" alt="Rob Reiner&#x27;s Son Charged With Murder as New Details Emerge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/video-shows-nick-reiner-arrest-after-death-of-his-parents-254575685668" target="_blank">Rob Reiner&#x27;s Son Charged With Murder as New Details Emerge</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-17 12:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/846367/mercedes-benz-discontinues-feature-that-syncs-music-to-driving" target="_blank">Mercedes-Benz discontinues feature that syncs music to driving</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-17 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1086618384-500x500.jpg" alt="Trump admin threatens to break up major climate research center" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/trump-admin-threatens-to-break-up-major-climate-research-center/" target="_blank">Trump admin threatens to break up major climate research center</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-17 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/17/radiant-nuclear-raises-300m-for-its-semi-sized-1-mw-reactor/" target="_blank">Radiant Nuclear raises $300M for its semi-sized 1 MW reactor</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-17 16:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6941d305dc77ec29145147c1/master/pass/politics_social_media_creators_right_wing.jpg" alt="The Most Powerful Politics Influencers Barely Post About Politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,33 +155,6 @@
                 <span class="time">2025-12-17 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/845526/fallout-season-2-discussion-theories" target="_blank">Let’s talk about Fallout season 2</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-17 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-twitter-broken-phone-500x500.jpg" alt="Twitter comeback bid draws lawsuit from Elon Musk’s X Corp" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/twitter-comeback-bid-draws-lawsuit-from-elon-musks-x-corp/" target="_blank">Twitter comeback bid draws lawsuit from Elon Musk’s X Corp</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-17 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6941c7a78ea55d4c66f921bc/master/pass/Best%20Food%20Gifts%20Update%20top%20art%20122025%20SOURCE%20Milk%20Bar_Olivieri%201882_Rubirosa.jpg" alt="15 Best Food Gifts, as Tested by Our Tastebuds (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-food-gifts/" target="_blank">15 Best Food Gifts, as Tested by Our Tastebuds (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-17 13:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +167,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/12/17/the-2025-stack-overflow-and-stack-exchange-wrap/" target="_blank">The 2025 Stack Overflow and Stack Exchange wrap—our top ten questions of the year!</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-12-17 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-history-of-servers-the-cloud" target="_blank">The history of servers, the cloud, and what’s next – with Oxide</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-12-17 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/xeon-6980p-epyc-9755-2025" target="_blank">Intel Xeon 6980P vs. AMD EPYC 9755 128-Core Showdown With The Latest Linux Software For EOY2025</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-17 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +214,6 @@
                 <span class="time">2025-12-17 14:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Asahi-Linux-December-2025" target="_blank">Asahi Linux Gets Microphone Working For M2 Pro/Max, Eyes Installer Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-17 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18799273&w=600" alt="Agentic AI Design Patterns and Principles: Building Autonomous, Collaborative Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agentic-ai-design-patterns-and-principles-building" target="_blank">Agentic AI Design Patterns and Principles: Building Autonomous, Collaborative Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-17 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,11 +234,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/shutterstock_2407094237-scaled.jpg?fit=2560%2C1440&amp;quality=60&amp;ssl=1" alt="Flight attendant arrested for battery after tapping someone&#x27;s shoulder (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/17/flight-attendant-arrested-for-battery-after-tapping-someones-shoulder-video.html" target="_blank">Flight attendant arrested for battery after tapping someone&#x27;s shoulder (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-17 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/MicroRGB-1-1280x853.jpg" alt="What Is a Micro RGB TV and Why You’re Gonna See Them Everywhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/what-is-a-micro-rgb-tv-and-why-youre-gonna-see-them-everywhere-2000700764" target="_blank">What Is a Micro RGB TV and Why You’re Gonna See Them Everywhere</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-17 16:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/valtrex-1280x853.jpg" alt="Researchers Tested Herpes Drugs for Alzheimer’s. It Backfired" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/researchers-tested-herpes-drugs-for-alzheimers-it-backfired-2000700360" target="_blank">Researchers Tested Herpes Drugs for Alzheimer’s. It Backfired</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J5R8K2SBTJDTSYWN3F1QS498/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Sony WH-1000XM5 Headphones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-sony-wh-1000xm5?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Sony WH-1000XM5 Headphones</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-17 16:00</span>
             </div>
         </div>
@@ -263,38 +287,20 @@
                 <span class="time">2025-12-17 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/JBLFlip-6-1280x853.jpg" alt="JBL Flip 6 Breaks Its Own Price Record After Another Price Crash, Leaving No Margin on This Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jbl-flip-6-breaks-its-own-price-record-after-another-price-crash-leaving-no-margin-on-this-speaker-2000653936" target="_blank">JBL Flip 6 Breaks Its Own Price Record After Another Price Crash, Leaving No Margin on This Speaker</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-17 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Adobe-1280x851.jpeg" alt="Adobe Rolls Out Free Generative AI for Creative Cloud Pro Users as a Limited-Time Bonus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/adobe-rolls-out-free-generative-ai-for-creative-cloud-pro-users-as-a-limited-time-bonus-2000696575" target="_blank">Adobe Rolls Out Free Generative AI for Creative Cloud Pro Users as a Limited-Time Bonus</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-17 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/ASUSGeForceRTX5070-1280x853.jpg" alt="ASUS Extends GPU Clearance as RTX 5070 at All-Time Low Price Sell Out Faster Than Expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/asus-extends-gpu-clearance-as-rtx-5070-at-all-time-low-price-sell-out-faster-than-expected-2000653926" target="_blank">ASUS Extends GPU Clearance as RTX 5070 at All-Time Low Price Sell Out Faster Than Expected</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-17 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1765838500-20251217_edit.png" alt="Saturday Morning Breakfast Cereal - Effigy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/effigy" target="_blank">Saturday Morning Breakfast Cereal - Effigy</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-17 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -304,22 +310,13 @@
                 <span class="time">2025-12-17 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1765838454-20251216_edit.png" alt="Saturday Morning Breakfast Cereal - Aspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/aspect" target="_blank">Saturday Morning Breakfast Cereal - Aspect</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-16 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
