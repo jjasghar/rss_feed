@@ -1,6 +1,8 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 03:26:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-17 04:08:59 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
@@ -10,29 +12,31 @@
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 03:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, December 17, 2025 - 04:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +59,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/17/ex-harvard-morgue-manager-who-stole-body-parts-gets-8-years-in-prison?traffic_source=rss" target="_blank">Ex-Harvard morgue manager who stole body parts gets 8 years in prison</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-17 02:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1765928380579_nn_mch_reiner_investigation_251216_1920x1080-8wgl1t.jpg" alt="Rob Reiner’s son charged with his parents’ murders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/rob-reiner-s-son-charged-with-his-parents-murders-254535749768" target="_blank">Rob Reiner’s son charged with his parents’ murders</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-16 23:39</span>
             </div>
         </div>
 <div class="story">
@@ -91,15 +104,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cg4ng7ee9vwo?at_medium=RSS&at_campaign=rss" target="_blank">Erasmus scheme to return for UK students</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-16 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251216-nick-reiner-mn-0833-f5bdba.jpg" alt="Nick Reiner to be charged with first-degree murder in the deaths of his parents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/nick-reiner-not-medically-cleared-appear-court-arrest-connection-death-rcna249460" target="_blank">Nick Reiner to be charged with first-degree murder in the deaths of his parents</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-16 18:04</span>
             </div>
         </div>
 </div>
@@ -178,6 +182,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Opus-1.6-Released" target="_blank">Opus 1.6 Audio Codec Adds New Machine Learning Functionality</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-17 01:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
                 <span class="title"><a href="https://www.redhat.com/en/blog/enterprise-automation-resilience-edb-and-ansible-automation-platform" target="_blank">Enterprise automation resilience with EDB and Red Hat Ansible Automation Platform</a></span>
                 <span class="feed">Red Hat Blog</span>
@@ -207,15 +220,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html" target="_blank">AI will make formal verification go mainstream</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-16 21:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html" target="_blank">Prediction: AI will make formal verification go mainstream</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-16 21:14</span>
             </div>
@@ -321,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 03:26 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 04:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
