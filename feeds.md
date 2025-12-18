@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 15:01:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-18 16:01:51 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faf5/live/85ecd8f0-dc0e-11f0-bd2b-d531d865f86a.jpg" alt="Interest rates cut to 3.75% but further reductions to be &#x27;closer call&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj01v7z73q1o?at_medium=RSS&at_campaign=rss" target="_blank">Interest rates cut to 3.75% but further reductions to be &#x27;closer call&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-18 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766067882727_now_mnn_nov_inflation_251218_1920x1080-zeuk1r.jpg" alt="First inflation report since government shutdown shows an ease to 2.7%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/first-inflation-report-since-government-shutdown-shows-an-ease-to-2-7-254655045877" target="_blank">First inflation report since government shutdown shows an ease to 2.7%</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-18 14:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +99,20 @@
                 <span class="time">2025-12-18 12:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d189/live/80e29610-db82-11f0-a097-4546a0cb84e5.jpg" alt="Zelensky gives stark warning as EU leaders start crunch talks on Russia&#x27;s frozen assets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky gives stark warning as EU leaders start crunch talks on Russia&#x27;s frozen assets</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-18 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d189/live/80e29610-db82-11f0-a097-4546a0cb84e5.jpg" alt="Zelensky gives stark warning as EU leaders start crunch talks on Russia&#x27;s frozen cash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky gives stark warning as EU leaders start crunch talks on Russia&#x27;s frozen cash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-18 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68ddc40215f29b0bb3d905e3/master/pass/Our%20Favorite%20Linen%20Sheets%20to%20Upgrade%20Your%20Sleep.png" alt="The Best Linen Sheets for Cool and Comfy Sleeping (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-linen-sheets/" target="_blank">The Best Linen Sheets for Cool and Comfy Sleeping (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-18 15:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +158,29 @@
                 <span class="time">2025-12-18 13:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/847159/trump-media-tae-technologies-merger-nuclear-fusion" target="_blank">Trump Media is merging with a nuclear fusion company</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-18 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dl.acm.org/openaccess" target="_blank">Beginning January 2026, all ACM publications will be made open access</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-18 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Thunderbird-2026-Plans" target="_blank">Thunderbird Expanding Microsoft Exchange &amp; Protocol Support For 2026</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-18 14:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803108&w=600" alt="Agile Manifesto: The Reformation That Became the Church" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,29 +217,20 @@
                 <span class="time">2025-12-18 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://worksinprogress.co/issue/were-classical-statues-painted-horribly/" target="_blank">Classical statues were not painted horribly</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-18 12:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/armbian-imager-quietly-debuts/" target="_blank">The Upcoming Armbian Imager Tool is a Godsend for Non-Raspberry Pi SBC Owners</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-18 11:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCPNSKKG3M4EAXNS4DCNB5Y7/hero-image.jpg" alt="15 Shows Like &#x27;Emily in Paris&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-emily-in-paris?utm_medium=RSS" target="_blank">15 Shows Like &#x27;Emily in Paris&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-18 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/Xbox-Wireless-Gaming-Controller-2025-1280x853.jpg" alt="Microsoft Does Final Price Cut of Year on Xbox Controllers, Nearly 50% Off and Makes Sony’s Look Overpriced" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +276,6 @@
                 <span class="time">2025-12-18 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/zaslav-2-1280x853.jpg" alt="David Zaslav Could Make So Much Money Out of Messing Up Warner Bros." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/david-zaslav-could-make-so-much-money-out-of-messing-up-warner-bros-2000701077" target="_blank">David Zaslav Could Make So Much Money Out of Messing Up Warner Bros.</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-18 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
