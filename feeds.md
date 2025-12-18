@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 19:03:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-18 20:01:46 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 19:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/brown-univ-7-rt-gmh-251215_1765834323876_hpMain_4x3t_384.jpg" alt="Brown mass shooting and MIT professor murder may be linked: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/brown-mass-shooting-mit-professor-murder-linked-sources/story?id=128530691" target="_blank">Brown mass shooting and MIT professor murder may be linked: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-18 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/18/nx-s1-5620913/luigi-mangione-pre-trial-hearing-wraps-but-judge-wont-rule-for-months" target="_blank">Mangione pre-trial hearing wraps, but judge won&#x27;t rule on evidence for months</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-18 19:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/18/tannane-halfway-line-goal-sends-morocco-on-way-to-fifa-arab-cup-2025-title?traffic_source=rss" target="_blank">Tannane goal from own half sets Morocco on way to FIFA Arab Cup 2025 title</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-18 19:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/epstein-9-ht-gmh-251218._1766081526464_hpMain_4x3t_384.jpg" alt="House Democrats release another batch of Epstein photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,38 +101,29 @@
                 <span class="time">2025-12-18 17:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4f1/live/37ea5f20-dc26-11f0-89ae-89110b9e802d.jpg" alt="Zelensky gives stark warning as EU leaders decide on Russia&#x27;s frozen assets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky gives stark warning as EU leaders decide on Russia&#x27;s frozen assets</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-18 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251218-transgender-flag-capitol-hill-ew-1122a-cec19d.jpg" alt="HHS moves to slash funding and access to care for transgender minors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/health/health-news/hhs-slash-funding-prohibit-access-trans-care-minors-rcna249874" target="_blank">HHS moves to slash funding and access to care for transgender minors</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-18 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faf5/live/85ecd8f0-dc0e-11f0-bd2b-d531d865f86a.jpg" alt="Interest rates cut to 3.75% but further reductions to be &#x27;closer call&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj01v7z73q1o?at_medium=RSS&at_campaign=rss" target="_blank">Interest rates cut to 3.75% but further reductions to be &#x27;closer call&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-18 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/" target="_blank">Pickle Robot adds Tesla veteran as first CFO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-18 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/intro-500x500-1766079131.jpg" alt="NeuralDSP models John Mayer’s entire amp and effects rig—and it sounds great" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/12/neuraldsp-models-john-mayers-entire-amp-and-effects-rig-and-it-sounds-great/" target="_blank">NeuralDSP models John Mayer’s entire amp and effects rig—and it sounds great</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-18 19:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/1282-500x500.jpg" alt="NASA will soon find out if the Perseverance rover can really persevere on Mars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +160,20 @@
                 <span class="time">2025-12-18 17:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685adfdf365370cd8ab52975/master/pass/best%20cheap%20phones.png" alt="7 Best Cheap Phones (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-cheap-phones/" target="_blank">7 Best Cheap Phones (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-18 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ddc40215f29b0bb3d905e3/master/pass/Our%20Favorite%20Linen%20Sheets%20to%20Upgrade%20Your%20Sleep.png" alt="The Best Linen Sheets for Cool and Comfy Sleeping (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-linen-sheets/" target="_blank">The Best Linen Sheets for Cool and Comfy Sleeping (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-18 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18804572&w=600" alt="Building AI Agents Using Docker cagent and GitHub Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-ai-agents-using-docker-cagent-and-github" target="_blank">Building AI Agents Using Docker cagent and GitHub Models</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-18 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +219,6 @@
                 <span class="time">2025-12-18 16:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/jdk26-final-fields-reflection/en/headerimage/java-istock-image-01-1762720446658-1766067979445.jpg" alt="JEP 500: Java to Enforce Strict Final Field Immutability by Restricting Reflection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/jdk26-final-fields-reflection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JEP 500: Java to Enforce Strict Final Field Immutability by Restricting Reflection</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-18 16:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Odyssey-poster-spine-cropped-1280x853.jpg" alt="The New ‘Odyssey’ Poster Throws a Bone to All Those Armor Complaints" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-odyssey-poster-christopher-nolan-greek-armor-2000701416" target="_blank">The New ‘Odyssey’ Poster Throws a Bone to All Those Armor Complaints</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-18 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/mosaic-strange-1-1280x719.jpg" alt="Mosaic Of The Strange Is A Murder Mystery Unlike Anything You’ve Played Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mosaic-of-the-strange-is-a-murder-mystery-unlike-anything-youve-played-before-2000654605" target="_blank">Mosaic Of The Strange Is A Murder Mystery Unlike Anything You’ve Played Before</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-18 19:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCSCZGK6MZ749BT4BEDC87X8/hero-image.png" alt="The Amazon Echo Show 21 Is $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-echo-show-21-sale?utm_medium=RSS" target="_blank">The Amazon Echo Show 21 Is $50 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-18 19:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/image-1280x720.jpg" alt="Call Of Duty: Black Ops 7 Unleashes The Fallout Power Armor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/watch-live-as-interstellar-comet-3i-atlas-makes-its-closest-approach-to-earth-2000701321" target="_blank">Watch Live as Interstellar Comet 3I/ATLAS Makes Its Closest Approach to Earth</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-18 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/JustDance2026-1280x853.jpg" alt="Nintendo Switch Party Game (Just Dance 2026 Edition) Is 50% Off After 80K+ Sold, Still Arrives Before Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-party-game-just-dance-2026-edition-is-50-off-after-80k-sold-still-arrives-before-christmas-2000654283" target="_blank">Nintendo Switch Party Game (Just Dance 2026 Edition) Is 50% Off After 80K+ Sold, Still Arrives Before Christmas</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-18 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Screenshot-GB-News.jpg?fit=1080%2C685&amp;quality=60&amp;ssl=1" alt="Right-wing GB News apologizes for false claim Meghan Markle&#x27;s mother was in prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/18/right-wing-gb-news-apologizes-for-false-claim-meghan-markles-mother-was-in-prison.html" target="_blank">Right-wing GB News apologizes for false claim Meghan Markle&#x27;s mother was in prison</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-18 16:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCPNSKKG3M4EAXNS4DCNB5Y7/hero-image.jpg" alt="15 Shows Like &#x27;Emily in Paris&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-emily-in-paris?utm_medium=RSS" target="_blank">15 Shows Like &#x27;Emily in Paris&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-18 15:30</span>
             </div>
         </div>
 </div>
@@ -320,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
