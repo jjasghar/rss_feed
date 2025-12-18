@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 08:02:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-18 09:04:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 09:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/18/mbappe-scores-late-to-seal-real-madrid-win-over-talavera-in-copa-del-rey?traffic_source=rss" target="_blank">Mbappe scores late to seal Real Madrid win over Talavera in Copa del Rey</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-18 08:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c2f/live/ed518ab0-dbd0-11f0-abbc-59c0c54a69e5.jpg" alt="&#x27;Maybe she&#x27;s an angel now&#x27; says aunt of Bondi victim, 10, at funeral" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +101,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-address-nation-1st-year-office-2026-agenda/story?id=128498252" target="_blank">Trump hits Biden and old grievances, touts &#x27;our country is back&#x27; in address</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-18 04:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c2f/live/ed518ab0-dbd0-11f0-abbc-59c0c54a69e5.jpg" alt="&#x27;Maybe she&#x27;s an angel now&#x27; says aunt of 10-year-old Bondi victim" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Maybe she&#x27;s an angel now&#x27; says aunt of 10-year-old Bondi victim</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-18 04:15</span>
             </div>
         </div>
 </div>
@@ -162,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/eduard_albu/week-6-golden-keywords-honest-limitations-and-why-im-building-a-directory-hit-list-4g3g" target="_blank">Week 6: Golden Keywords, Honest Limitations, and Why I’m Building a Directory Hit List</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-18 08:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/denmark-road-traffic-authority-ditches-microsoft/" target="_blank">Denmark Begins its Exit from Microsoft — and This is Just the Beginning</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-18 07:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3219smsvc2qh811zit6z.png" alt="The Printed Circuit Board (PCB): Engineering the Foundation of Modern Electronics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -182,37 +206,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/odada-o/building-a-design-system-with-tailwind-css-1bg1" target="_blank">Building a Design System with Tailwind CSS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-18 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/moving-mountains-stein/en/headerimage/java-istock-image-01-1766005138514.jpg" alt="QCon AI New York 2025: Moving Mountains: Migrating Legacy Code in Weeks Instead of Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/moving-mountains-stein/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon AI New York 2025: Moving Mountains: Migrating Legacy Code in Weeks Instead of Years</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-18 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgp3rti1sbance7rl4am.png" alt="Effectively Managing AI Agents for Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/johnjvester/effectively-managing-ai-agents-for-testing-iie" target="_blank">Effectively Managing AI Agents for Testing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-18 02:23</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/" target="_blank">What is an elliptic curve? (2019)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-18 06:40</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-libvpi-AI-Assisted-Encode" target="_blank">Intel Video Processing Library Adding AI Assisted Video Encoder Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-18 01:39</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/odada-o/building-a-design-system-with-tailwind-css-1bg1" target="_blank">Building a Design System with Tailwind CSS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-18 05:49</span>
             </div>
         </div>
 </div>
@@ -316,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 09:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
