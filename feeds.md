@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 16:01:51 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-12-18 17:04:13 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251218-transgender-flag-capitol-hill-ew-1122a-cec19d.jpg" alt="HHS moves to slash funding and access to care for transgender minors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/health/health-news/hhs-slash-funding-prohibit-access-trans-care-minors-rcna249874" target="_blank">HHS moves to slash funding and access to care for transgender minors</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-18 16:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faf5/live/85ecd8f0-dc0e-11f0-bd2b-d531d865f86a.jpg" alt="Interest rates cut to 3.75% but further reductions to be &#x27;closer call&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +97,20 @@
                 <span class="time">2025-12-18 13:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-flowers-bondi_7113634.jpg?20251218073424" alt="&#x27;All Jewish hearts are broken&#x27; says UK Chief Rabbi on Bondi terror attack visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/all-jewish-hearts-are-broken-says-uk-chief-rabbi-on-bondi-terror-attack-visit-13485192" target="_blank">&#x27;All Jewish hearts are broken&#x27; says UK Chief Rabbi on Bondi terror attack visit</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-18 12:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685adfdf365370cd8ab52975/master/pass/best%20cheap%20phones.png" alt="7 Best Cheap Phones (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-cheap-phones/" target="_blank">7 Best Cheap Phones (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-18 16:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68ddc40215f29b0bb3d905e3/master/pass/Our%20Favorite%20Linen%20Sheets%20to%20Upgrade%20Your%20Sleep.png" alt="The Best Linen Sheets for Cool and Comfy Sleeping (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +156,20 @@
                 <span class="time">2025-12-18 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/2026_Explainer_FIA_Front_3_4_1920x1080-2-1536x864-1-500x500.jpg" alt="Formula 1 is deploying new jargon for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/12/formula-1-is-deploying-new-jargon-for-2026/" target="_blank">Formula 1 is deploying new jargon for 2026</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-18 13:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="http://willmcgugan.github.io/toad-released/" target="_blank">Toad is a unified experience for AI in the terminal</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-18 16:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,20 +215,38 @@
                 <span class="time">2025-12-18 13:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803080&w=600" alt="Infrastructure as Code: How Automation Evolved to Power AI Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/infrastructure-as-code-automation-ai-workloads" target="_blank">Infrastructure as Code: How Automation Evolved to Power AI Workloads</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-18 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/3IATLAS-1280x853.jpg" alt="Watch Live as Interstellar Comet 3I/ATLAS Makes Its Closest Approach to Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/watch-live-as-interstellar-comet-3i-atlas-makes-its-closest-approach-to-earth-2000701321" target="_blank">Watch Live as Interstellar Comet 3I/ATLAS Makes Its Closest Approach to Earth</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-18 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/JustDance2026-1280x853.jpg" alt="Nintendo Switch Party Game (Just Dance 2026 Edition) Is 50% Off After 80K+ Sold, Still Arrives Before Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-switch-party-game-just-dance-2026-edition-is-50-off-after-80k-sold-still-arrives-before-christmas-2000654283" target="_blank">Nintendo Switch Party Game (Just Dance 2026 Edition) Is 50% Off After 80K+ Sold, Still Arrives Before Christmas</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-18 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Screenshot-GB-News.jpg?fit=1080%2C685&amp;quality=60&amp;ssl=1" alt="Right-wing GB News apologizes for false claim Meghan Markle&#x27;s mother was in prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/18/right-wing-gb-news-apologizes-for-false-claim-meghan-markles-mother-was-in-prison.html" target="_blank">Right-wing GB News apologizes for false claim Meghan Markle&#x27;s mother was in prison</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-18 16:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KCPNSKKG3M4EAXNS4DCNB5Y7/hero-image.jpg" alt="15 Shows Like &#x27;Emily in Paris&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -249,33 +274,6 @@
                 <span class="time">2025-12-18 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/DJI-Osmo-Pocket-3-1280x856.jpg" alt="DJI Is Unloading More Than Drones as the Osmo Pocket 3 Vlogging Camera Hits a Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dji-is-unloading-more-than-drones-as-the-osmo-pocket-3-vlogging-camera-hits-a-record-low-2000654332" target="_blank">DJI Is Unloading More Than Drones as the Osmo Pocket 3 Vlogging Camera Hits a Record Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-18 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Untitled-design-4.webp?fit=1200%2C800&amp;quality=55&amp;ssl=1" alt="Horizon Dawn Zero clone vanishes from online stores after settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/18/horizon-dawn-zero-clone-vanishes-from-online-stores-after-settlement.html" target="_blank">Horizon Dawn Zero clone vanishes from online stores after settlement</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-18 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/The-Mandalorian-and-Grogu-bar-1280x853.jpg" alt="‘Star Wars’ Day Was Disney’s Biggest Streaming Day of the Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-day-was-disneys-biggest-streaming-day-of-the-year-2000701092" target="_blank">‘Star Wars’ Day Was Disney’s Biggest Streaming Day of the Year</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-18 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -290,22 +288,13 @@
                 <span class="time">2025-12-17 21:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1765838500-20251217_edit.png" alt="Saturday Morning Breakfast Cereal - Effigy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/effigy" target="_blank">Saturday Morning Breakfast Cereal - Effigy</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-17 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
