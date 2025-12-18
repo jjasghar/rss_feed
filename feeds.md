@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 18:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-18 19:03:14 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/epstein-9-ht-gmh-251218._1766081526464_hpMain_4x3t_384.jpg" alt="House Democrats release another batch of Epstein photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/house-democrats-release-batch-epstein-photos/story?id=128519600" target="_blank">House Democrats release another batch of Epstein photos</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-18 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/18/vladimir-putin-calls-european-leaders-piglets-seeking-revenge?traffic_source=rss" target="_blank">Vladimir Putin calls European leaders ‘piglets’ seeking revenge</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-18 17:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/18/g-s1-102772/austria-nuns-convent-vatican" target="_blank">Austrian nuns await word from the Vatican on whether they can stay in their convent</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-18 17:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4f1/live/37ea5f20-dc26-11f0-89ae-89110b9e802d.jpg" alt="Zelensky gives stark warning as EU leaders decide on Russia&#x27;s frozen assets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,38 +101,20 @@
                 <span class="time">2025-12-18 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766067882727_now_mnn_nov_inflation_251218_1920x1080-zeuk1r.jpg" alt="First inflation report since government shutdown shows an ease to 2.7%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/first-inflation-report-since-government-shutdown-shows-an-ease-to-2-7-254655045877" target="_blank">First inflation report since government shutdown shows an ease to 2.7%</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-18 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/18/nx-s1-5647510/inflation-economy-prices-affordability" target="_blank">Inflation cools slightly in November as worries about affordability grip Americans</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-18 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/grocery-store-gty-jef-251217_1765999702300_hpMain_4x3t_384.jpg" alt="Inflation drops to lowest level in months, defying expectations of uptick" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/inflation-report-released-thursday-expected-show-slight-uptick/story?id=128480220" target="_blank">Inflation drops to lowest level in months, defying expectations of uptick</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-18 13:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/1282-500x500.jpg" alt="NASA will soon find out if the Perseverance rover can really persevere on Mars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/12/nasa-will-soon-find-out-if-the-perseverance-rover-can-really-persevere-on-mars/" target="_blank">NASA will soon find out if the Perseverance rover can really persevere on Mars</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-18 18:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/ars-gift-guide-2026-500x500.jpg" alt="For the lazy techie: These are Ars staff’s last-minute holiday gift picks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +160,38 @@
                 <span class="time">2025-12-18 15:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/846750/decoder-mailbag-qa-nilay-patel-interview-2025" target="_blank">‘All chaos and panic’: Nilay answers your burning Decoder questions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-18 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/scape/proxy-reverse-proxy-e-load-balancer-spiegati-come-in-un-ristorante-2ih2" target="_blank">Proxy, Reverse Proxy e Load Balancer: Spiegati come in un Ristorante</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-18 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.0-NVK-Compression" target="_blank">Mesa NVK Driver Merges Compression Support For Better Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-18 18:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18804524&w=600" alt="When DNS Breaks The Internet: Lessons From The Amazon Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/when-dns-breaks-the-internet-lessons-from-the-amaz" target="_blank">When DNS Breaks The Internet: Lessons From The Amazon Outage</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-18 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://substack-post-media.s3.amazonaws.com/public/images/916cb7ff-df63-4f58-b765-271698b29cd7_420x300.png" alt="The Pulse #157: Internal dev tooling at Meta &amp; the “trajectories” feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,39 +211,26 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://res.infoq.com/news/2025/12/jdk26-final-fields-reflection/en/headerimage/java-istock-image-01-1762720446658-1766067979445.jpg" alt="JEP 500: Java to Enforce Strict Final Field Immutability by Restricting Reflection" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/first-linux-kernel-rust-cve/" target="_blank">The First Rust CVE in Linux Kernel Only Makes Your System Crash</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-18 16:13</span>
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/jdk26-final-fields-reflection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JEP 500: Java to Enforce Strict Final Field Immutability by Restricting Reflection</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-18 16:21</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dl.acm.org/openaccess" target="_blank">Beginning January 2026, all ACM publications will be made open access</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-18 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Thunderbird-2026-Plans" target="_blank">Thunderbird Expanding Microsoft Exchange &amp; Protocol Support For 2026</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-18 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803108&w=600" alt="Agile Manifesto: The Reformation That Became the Church" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agile-manifesto-reformation-to-church" target="_blank">Agile Manifesto: The Reformation That Became the Church</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-18 14:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/someone-boarded-a-plane-at-heathrow-without-a-ticket-or-passport.html" target="_blank">Someone Boarded a Plane at Heathrow Without a Ticket or Passport</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-18 16:41</span>
             </div>
         </div>
 </div>
@@ -307,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
