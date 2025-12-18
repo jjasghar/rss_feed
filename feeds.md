@@ -1,34 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 22:02:17 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-12-18 23:01:56 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e8c/live/b3fa3080-dc5e-11f0-aae2-2191c0e48a3b.jpg" alt="Violence breaks out in Bangladesh after death of youth protest leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c623rzzenmyo?at_medium=RSS&at_campaign=rss" target="_blank">Violence breaks out in Bangladesh after death of youth protest leader</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-18 21:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/brown-univ-7-rt-gmh-251215_1765834323876_hpMain_4x3t_384.jpg" alt="Brown mass shooting and MIT professor murder may be linked: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +90,38 @@
                 <span class="time">2025-12-18 17:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/18/g-s1-102772/austria-nuns-convent-vatican" target="_blank">Austrian nuns await word from the Vatican on whether they can stay in their convent</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-18 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/youtube-logo-500x500.jpg" alt="YouTube bans two popular channels that created fake AI movie trailers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/12/youtube-bans-two-popular-channels-that-created-fake-ai-movie-trailers/" target="_blank">YouTube bans two popular channels that created fake AI movie trailers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-18 22:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/847806/head-of-threads-interview" target="_blank">Threads wants to be the app you can’t wait to open in the morning</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-18 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/694472210c8858677eba18b3/master/pass/b_HOUSE_OVERSIGHT_037365_Clean%20-%20Copy.jpg" alt="Terrifying New Photos Emerge From the Jeffrey Epstein Estate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/house-oversight-jeffrey-epstein-photos-december-18-2025/" target="_blank">Terrifying New Photos Emerge From the Jeffrey Epstein Estate</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-18 22:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/charitydrive2025-500x500.jpg" alt="Reminder: Donate to win swag in our annual Charity Drive sweepstakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +149,20 @@
                 <span class="time">2025-12-18 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/" target="_blank">Pickle Robot adds Tesla veteran as first CFO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-18 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/intro-500x500-1766079131.jpg" alt="NeuralDSP models John Mayer’s entire amp and effects rig—and it sounds great" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/12/neuraldsp-models-john-mayers-entire-amp-and-effects-rig-and-it-sounds-great/" target="_blank">NeuralDSP models John Mayer’s entire amp and effects rig—and it sounds great</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-18 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/1282-500x500.jpg" alt="NASA will soon find out if the Perseverance rover can really persevere on Mars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/12/nasa-will-soon-find-out-if-the-perseverance-rover-can-really-persevere-on-mars/" target="_blank">NASA will soon find out if the Perseverance rover can really persevere on Mars</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-18 18:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Foundation-2025-Report" target="_blank">Linux Foundation Expects To Break $300M In Revenue This Year</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-18 22:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F827369%2Fe91037cb-c372-470a-8756-aa9538f767c5.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +208,6 @@
                 <span class="time">2025-12-18 18:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.0-NVK-Compression" target="_blank">Mesa NVK Driver Merges Compression Support For Better Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-18 18:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +227,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/sim-city.jpeg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="Mathematicians say they&#x27;ve proven the universe can&#x27;t be a simulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/18/mathematicians-say-theyve-proven-the-universe-cant-be-a-simulation.html" target="_blank">Mathematicians say they&#x27;ve proven the universe can&#x27;t be a simulation</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-18 22:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/marathon-1280x757.jpg" alt="Marathon Art Director Leaves Bungie Just Months Before Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +281,6 @@
                 <span class="time">2025-12-18 20:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Odyssey-poster-spine-cropped-1280x853.jpg" alt="The New ‘Odyssey’ Poster Throws a Bone to All Those Armor Complaints" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-odyssey-poster-christopher-nolan-greek-armor-2000701416" target="_blank">The New ‘Odyssey’ Poster Throws a Bone to All Those Armor Complaints</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-18 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
