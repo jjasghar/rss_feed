@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 02:31:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-18 03:27:17 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 02:31 UTC</div>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 03:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766026828024_nbc_spec_trump_addresses_nation_251217_1920x1080-tdss8p.jpg" alt="Trump talks lower prices, health care costs, military bonuses in year-end address" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-talks-lower-prices-health-care-costs-military-bonuses-in-year-end-address-254632517514" target="_blank">Trump talks lower prices, health care costs, military bonuses in year-end address</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-18 02:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +97,20 @@
                 <span class="time">2025-12-17 22:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/17/california-threatens-tesla-with-sale-suspension-over-marketing-practices?traffic_source=rss" target="_blank">California threatens Tesla with sale suspension over marketing practices</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-17 22:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026" target="_blank">LG and Dolby partner to release the first FlexConnect soundbar</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-18 01:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249116324-500x500.jpg" alt="NASA finally—and we really do mean it this time—has a full-time leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +156,20 @@
                 <span class="time">2025-12-17 21:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/846609/beats-solo-4-wireless-headphones-deal-sale-2025" target="_blank">You can snag a pair of the Beats Solo 4 headphones for under $100 right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-17 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/moving-mountains-stein/en/headerimage/java-istock-image-01-1766005138514.jpg" alt="QCon AI New York 2025: Moving Mountains: Migrating Legacy Code in Weeks Instead of Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/moving-mountains-stein/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon AI New York 2025: Moving Mountains: Migrating Legacy Code in Weeks Instead of Years</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-18 02:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgp3rti1sbance7rl4am.png" alt="Effectively Managing AI Agents for Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/lovestaco/why-bf-tree-pins-inner-nodes-and-what-that-unlocks-566k" target="_blank">Why Bf-Tree Pins Inner Nodes and What That Unlocks</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-17 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-RAID-MD-Folios" target="_blank">Linux Patches Begin Adapting RAID Code To Use Folios</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-17 21:24</span>
             </div>
         </div>
 </div>
@@ -331,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 03:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
