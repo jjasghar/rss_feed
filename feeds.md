@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 21:01:29 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-18 22:02:17 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/charitydrive2025-500x500.jpg" alt="Reminder: Donate to win swag in our annual Charity Drive sweepstakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-18/" target="_blank">Reminder: Donate to win swag in our annual Charity Drive sweepstakes</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-18 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/18/instacart-to-pay-60m-to-settle-ftc-claims-it-deceived-consumers/" target="_blank">Instacart to pay $60M to settle FTC claims it deceived consumers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-18 21:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -136,29 +157,20 @@
                 <span class="time">2025-12-18 18:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/ars-gift-guide-2026-500x500.jpg" alt="For the lazy techie: These are Ars staff’s last-minute holiday gift picks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/shopping/2025/12/for-the-lazy-techie-these-are-ars-staffs-last-minute-holiday-gift-picks/" target="_blank">For the lazy techie: These are Ars staff’s last-minute holiday gift picks</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-18 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6941b2b7df7648d0f38774bb/master/pass/sec-ai-faceswap-app-1382901144.jpg" alt="The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/" target="_blank">The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-18 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F827369%2Fe91037cb-c372-470a-8756-aa9538f767c5.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/diempi/-547e" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-18 21:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +216,6 @@
                 <span class="time">2025-12-18 18:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18804524&w=600" alt="When DNS Breaks The Internet: Lessons From The Amazon Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/when-dns-breaks-the-internet-lessons-from-the-amaz" target="_blank">When DNS Breaks The Internet: Lessons From The Amazon Outage</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-18 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/marathon-1280x757.jpg" alt="Marathon Art Director Leaves Bungie Just Months Before Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marathon-art-director-joseph-cross-leaves-bungie-2000654665" target="_blank">Marathon Art Director Leaves Bungie Just Months Before Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-18 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Jared-Isaacman-1280x853.jpg" alt="NASA Has a New Chief. Here’s What He Could Do in His First 20 Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nasa-has-a-new-chief-heres-what-he-could-do-in-his-first-20-days-2000701547" target="_blank">NASA Has a New Chief. Here’s What He Could Do in His First 20 Days</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-18 21:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/pillbottle-1280x853.jpg" alt="Eli Lilly’s Experimental Pill Could Help You Ditch GLP-1 Obesity Shots, Trial Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +289,6 @@
                 <span class="time">2025-12-18 19:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/mosaic-strange-1-1280x719.jpg" alt="Mosaic Of The Strange Is A Murder Mystery Unlike Anything You’ve Played Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mosaic-of-the-strange-is-a-murder-mystery-unlike-anything-youve-played-before-2000654605" target="_blank">Mosaic Of The Strange Is A Murder Mystery Unlike Anything You’ve Played Before</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-18 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCSCZGK6MZ749BT4BEDC87X8/hero-image.png" alt="The Amazon Echo Show 21 Is $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-echo-show-21-sale?utm_medium=RSS" target="_blank">The Amazon Echo Show 21 Is $50 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-18 19:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,22 +303,13 @@
                 <span class="time">2025-12-18 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/17/huge-savings-in-every-depertmurnt" target="_blank">Huge Savings In Every Depertmurnt</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-17 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
