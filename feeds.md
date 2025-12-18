@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 14:02:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-18 15:01:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 33 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -80,6 +70,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-flowers-bondi_7113634.jpg?20251218073424" alt="&#x27;All Jewish hearts are broken&#x27; says UK Chief Rabbi on Bondi terror attack visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/all-jewish-hearts-are-broken-says-uk-chief-rabbi-on-bondi-terror-attack-visit-13485192" target="_blank">&#x27;All Jewish hearts are broken&#x27; says UK Chief Rabbi on Bondi terror attack visit</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-18 12:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d189/live/80e29610-db82-11f0-a097-4546a0cb84e5.jpg" alt="Zelensky gives stark warning as EU leaders start crunch talks on Russia&#x27;s frozen assets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky gives stark warning as EU leaders start crunch talks on Russia&#x27;s frozen assets</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-18 11:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d189/live/80e29610-db82-11f0-a097-4546a0cb84e5.jpg" alt="Zelensky gives stark warning as EU leaders start crunch talks on Russia&#x27;s frozen cash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -88,29 +96,29 @@
                 <span class="time">2025-12-18 11:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/18/us-aid-cuts-force-rohingya-girls-into-marriage-children-into-hard-labour?traffic_source=rss" target="_blank">US aid cuts force Rohingya girls into marriage, children into hard labour</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-18 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251217-black-friday-shopper-lr-fe10af.jpg" alt="Inflation falls to 2.7% as lighter housing and food increases offset a surge in electricity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/cpi-november-inflation-rate-rcna249847" target="_blank">Inflation falls to 2.7% as lighter housing and food increases offset a surge in electricity</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-18 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/846750/decoder-mailbag-qa-nilay-patel-interview-2025" target="_blank">‘All chaos and panic’: Nilay answers your burning Decoder questions</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-18 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/screaming-f-bombs-500x500-1766064577.jpg" alt="Does swearing make you stronger? Science says yes." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/does-swearing-make-you-stronger-science-says-yes/" target="_blank">Does swearing make you stronger? Science says yes.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-18 14:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,29 +155,20 @@
                 <span class="time">2025-12-18 13:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/23802552292_6407c7a06f_k-500x500.jpg" alt="The inside story of SpaceX’s historic rocket landing that changed launch forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/12/ten-years-ago-spacex-turned-tragedy-into-triumph-with-a-historic-rocket-landing/" target="_blank">The inside story of SpaceX’s historic rocket landing that changed launch forever</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-18 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/23802552292_6407c7a06f_k-500x500.jpg" alt="Ten years ago, SpaceX turned tragedy into triumph with a historic rocket landing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/12/ten-years-ago-spacex-turned-tragedy-into-triumph-with-a-historic-rocket-landing/" target="_blank">Ten years ago, SpaceX turned tragedy into triumph with a historic rocket landing</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-18 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803108&w=600" alt="Agile Manifesto: The Reformation That Became the Church" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agile-manifesto-reformation-to-church" target="_blank">Agile Manifesto: The Reformation That Became the Church</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-18 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,20 +214,20 @@
                 <span class="time">2025-12-18 11:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frk5z0uvqebkezwtycjr3.png" alt="Compliance as Code: The Latency Challenge in Fintech Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gabrielamoraes/compliance-as-code-the-latency-challenge-in-fintech-architectures-4fj3" target="_blank">Compliance as Code: The Latency Challenge in Fintech Architectures</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-18 11:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Xbox-Wireless-Gaming-Controller-2025-1280x853.jpg" alt="Microsoft Does Final Price Cut of Year on Xbox Controllers, Nearly 50% Off and Makes Sony’s Look Overpriced" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/microsoft-does-final-price-cut-of-year-on-xbox-controllers-nearly-50-off-and-makes-sonys-look-overpriced-2000654527" target="_blank">Microsoft Does Final Price Cut of Year on Xbox Controllers, Nearly 50% Off and Makes Sony’s Look Overpriced</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-18 14:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HF2H369H7ZPJ491BXQG1YYNH/hero-image.png" alt="The Books I Recommend If You&#x27;re Trying to Manage Your Time Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +273,6 @@
                 <span class="time">2025-12-18 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/09/Screenshot-2024-09-11-at-9.41.42-PM.png?fit=1116%2C1400&amp;quality=55&amp;ssl=1" alt="Dog-themed embroidery art captures the essence of doggos, in all of their silly, earnest, enthusiastic awesomeness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/17/dog-themed-embroidery-art-captures-the-essence-of-doggos-in-all-of-their-silly-earnest-enthusiastic-awesomeness.html" target="_blank">Dog-themed embroidery art captures the essence of doggos, in all of their silly, earnest, enthusiastic awesomeness</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-18 02:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
