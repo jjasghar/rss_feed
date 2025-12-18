@@ -1,33 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 03:27:17 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-12-18 04:09:32 UTC -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 03:27 UTC</div>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 04:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/18/no-evidence-australias-bondi-gunmen-trained-in-the-philippines-official?traffic_source=rss" target="_blank">‘No evidence’ Australia’s Bondi gunmen trained in the Philippines: Official</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-18 03:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766026828024_nbc_spec_trump_addresses_nation_251217_1920x1080-tdss8p.jpg" alt="Trump talks lower prices, health care costs, military bonuses in year-end address" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +92,20 @@
                 <span class="time">2025-12-17 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0de/live/dd2d27b0-db86-11f0-a8dc-93c15fe68710.jpg" alt="Rob Reiner&#x27;s family breaks silence as son Nick faces judge on murder charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss" target="_blank">Rob Reiner&#x27;s family breaks silence as son Nick faces judge on murder charges</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-17 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement" target="_blank">Sony&amp;#8217;s legal battle against Tencent&amp;#8217;s Horizon ‘clone’ is already over</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-18 03:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +151,6 @@
                 <span class="time">2025-12-17 22:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/17/jared-isaacman-confirmed-as-next-head-of-nasa/" target="_blank">Jared Isaacman confirmed as next head of NASA</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-17 21:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -198,21 +193,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html" target="_blank">Gut bacteria from amphibians and reptiles achieve tumor elimination in mice</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-17 23:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/12/openshot-video-editor-logo-.jpg?resize=406%2C232&amp;ssl=1" alt="OpenShot 3.4: New Effects, Better Performance &amp; LUT Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/openshot-3-4-released-with-lut-support" target="_blank">OpenShot 3.4: New Effects, Better Performance &amp; LUT Support</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-12-17 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5e57lh7rtwwwe2d694n.png" alt="Why Bf-Tree Pins Inner Nodes and What That Unlocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/why-bf-tree-pins-inner-nodes-and-what-that-unlocks-566k" target="_blank">Why Bf-Tree Pins Inner Nodes and What That Unlocks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-17 21:45</span>
             </div>
         </div>
 </div>
@@ -334,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 03:27 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 04:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
