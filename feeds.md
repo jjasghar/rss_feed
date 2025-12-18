@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 17:04:13 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-18 18:01:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 17:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4f1/live/37ea5f20-dc26-11f0-89ae-89110b9e802d.jpg" alt="Zelensky gives stark warning as EU leaders decide on Russia&#x27;s frozen assets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky gives stark warning as EU leaders decide on Russia&#x27;s frozen assets</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-18 16:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251218-transgender-flag-capitol-hill-ew-1122a-cec19d.jpg" alt="HHS moves to slash funding and access to care for transgender minors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +102,38 @@
                 <span class="time">2025-12-18 13:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/18/why-is-the-us-claiming-it-owns-venezuelan-oil-and-land?traffic_source=rss" target="_blank">Why is the US claiming it owns Venezuelan oil and land?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-18 13:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/ars-gift-guide-2026-500x500.jpg" alt="For the lazy techie: These are Ars staff’s last-minute holiday gift picks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/shopping/2025/12/for-the-lazy-techie-these-are-ars-staffs-last-minute-holiday-gift-picks/" target="_blank">For the lazy techie: These are Ars staff’s last-minute holiday gift picks</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-18 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6941b2b7df7648d0f38774bb/master/pass/sec-ai-faceswap-app-1382901144.jpg" alt="The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/" target="_blank">The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-18 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/" target="_blank">Trump Media is merging with fusion power company TAE Technologies in $6B+ deal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-18 17:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685adfdf365370cd8ab52975/master/pass/best%20cheap%20phones.png" alt="7 Best Cheap Phones (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,38 +161,20 @@
                 <span class="time">2025-12-18 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/screaming-f-bombs-500x500-1766064577.jpg" alt="Does swearing make you stronger? Science says yes." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/does-swearing-make-you-stronger-science-says-yes/" target="_blank">Does swearing make you stronger? Science says yes.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-18 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/847156/apple-ipad-air-m3-astro-bot-airpods-pro-deal-sale" target="_blank">The latest iPad Air is $400 for the first time, and arrives by Christmas</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-18 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/18/amazons-new-alexa-feature-adds-conversational-ai-to-ring-doorbells/" target="_blank">Amazon’s new Alexa+ feature adds conversational AI to Ring doorbells</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-18 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/916cb7ff-df63-4f58-b765-271698b29cd7_420x300.png" alt="The Pulse #157: Internal dev tooling at Meta &amp; the “trajectories” feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-157-internal-dev-tooling" target="_blank">The Pulse #157: Internal dev tooling at Meta &amp; the “trajectories” feature</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-12-18 17:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -168,6 +182,15 @@
                 <span class="title"><a href="http://willmcgugan.github.io/toad-released/" target="_blank">Toad is a unified experience for AI in the terminal</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-12-18 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/first-linux-kernel-rust-cve/" target="_blank">The First Rust CVE in Linux Kernel Only Makes Your System Crash</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-18 16:13</span>
             </div>
         </div>
 <div class="story">
@@ -197,29 +220,29 @@
                 <span class="time">2025-12-18 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/froala_e3824d66439393cbce/building-a-complete-document-generator-with-froala-47-plugins-44o2" target="_blank">Building a Complete Document Generator with Froala 4.7 Plugins</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-18 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aerabi/day-18-misconfiguration-yaml-voorhees-1bm8" target="_blank">Day 18 — Misconfiguration (YAML Voorhees)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-18 13:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/image-1280x720.jpg" alt="Call Of Duty: Black Ops 7 Unleashes The Fallout Power Armor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/call-duty-warzone-fallout-season-2-skins-2000654588" target="_blank">Call Of Duty: Black Ops 7 Unleashes The Fallout Power Armor</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-18 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCS4DZQ3S381CCDSS7S0FE1G/hero-image.png" alt="You Can Finally Remove Pixel’s Annoying &#x27;At a Glance&#x27; Widget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/you-can-finally-remove-pixels-annoying-at-a-glance-widget?utm_medium=RSS" target="_blank">You Can Finally Remove Pixel’s Annoying &#x27;At a Glance&#x27; Widget</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-18 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/3IATLAS-1280x853.jpg" alt="Watch Live as Interstellar Comet 3I/ATLAS Makes Its Closest Approach to Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,29 +279,20 @@
                 <span class="time">2025-12-18 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Xbox-Wireless-Gaming-Controller-2025-1280x853.jpg" alt="Microsoft Does Final Price Cut of Year on Xbox Controllers, Nearly 50% Off and Makes Sony’s Look Overpriced" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-does-final-price-cut-of-year-on-xbox-controllers-nearly-50-off-and-makes-sonys-look-overpriced-2000654527" target="_blank">Microsoft Does Final Price Cut of Year on Xbox Controllers, Nearly 50% Off and Makes Sony’s Look Overpriced</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-18 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H369H7ZPJ491BXQG1YYNH/hero-image.png" alt="The Books I Recommend If You&#x27;re Trying to Manage Your Time Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-books-to-improve-time-management?utm_medium=RSS" target="_blank">The Books I Recommend If You&#x27;re Trying to Manage Your Time Better</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-18 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1765838551-20251218_edit.png" alt="Saturday Morning Breakfast Cereal - Where" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/where-3" target="_blank">Saturday Morning Breakfast Cereal - Where</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-18 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -293,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
