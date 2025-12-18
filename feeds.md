@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 20:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-18 21:01:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +103,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/635839/best-foldable-phone" target="_blank">The best foldable phone you can buy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-18 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/" target="_blank">Pickle Robot adds Tesla veteran as first CFO</a></span>
                 <span class="feed">TechCrunch</span>
@@ -151,20 +154,29 @@
                 <span class="time">2025-12-18 17:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/" target="_blank">Trump Media is merging with fusion power company TAE Technologies in $6B+ deal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-18 17:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nyyakko/a-historia-de-como-eu-ajudei-a-aprimorar-uma-das-linguagens-de-programacao-mais-famosas-do-mundo-3bb" target="_blank">A História de como eu ajudei a aprimorar* uma das linguagens de programação mais famosas do mundo: a linguagem Go.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-18 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18804646&w=600" alt="Looking at the Evolving Landscape of ITSM Through the Lens of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/evolving-landscape-of-itsm-through-ai" target="_blank">Looking at the Evolving Landscape of ITSM Through the Lens of AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-18 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18804572&w=600" alt="Building AI Agents Using Docker cagent and GitHub Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +213,6 @@
                 <span class="time">2025-12-18 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/916cb7ff-df63-4f58-b765-271698b29cd7_420x300.png" alt="The Pulse #157: Internal dev tooling at Meta &amp; the “trajectories” feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-157-internal-dev-tooling" target="_blank">The Pulse #157: Internal dev tooling at Meta &amp; the “trajectories” feature</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-12-18 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="http://willmcgugan.github.io/toad-released/" target="_blank">Toad is a unified experience for AI in the terminal</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-18 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +232,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/pillbottle-1280x853.jpg" alt="Eli Lilly’s Experimental Pill Could Help You Ditch GLP-1 Obesity Shots, Trial Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/eli-lillys-experimental-pill-could-help-you-ditch-glp-1-obesity-shots-trial-finds-2000701348" target="_blank">Eli Lilly’s Experimental Pill Could Help You Ditch GLP-1 Obesity Shots, Trial Finds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-18 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JFTJGWGXA9B0DX0P0FSN6VZH/hero-image.png" alt="The Best Last-Minute Christmas Gift Ideas for Under $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-last-minute-gift-ideas-for-under-thirty-dollars?utm_medium=RSS" target="_blank">The Best Last-Minute Christmas Gift Ideas for Under $30</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-18 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/11/weed-gummies-e1761060896631.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s weed plan faces revolt from his own party in Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/18/trumps-weed-plan-faces-revolt-from-his-own-party-in-congress.html" target="_blank">Trump&#x27;s weed plan faces revolt from his own party in Congress</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-18 20:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Odyssey-poster-spine-cropped-1280x853.jpg" alt="The New ‘Odyssey’ Poster Throws a Bone to All Those Armor Complaints" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +284,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/amazon-echo-show-21-sale?utm_medium=RSS" target="_blank">The Amazon Echo Show 21 Is $50 Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-18 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/image-1280x720.jpg" alt="Call Of Duty: Black Ops 7 Unleashes The Fallout Power Armor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/call-duty-warzone-fallout-season-2-skins-2000654588" target="_blank">Call Of Duty: Black Ops 7 Unleashes The Fallout Power Armor</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-18 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCS4DZQ3S381CCDSS7S0FE1G/hero-image.png" alt="You Can Finally Remove Pixel’s Annoying &#x27;At a Glance&#x27; Widget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/you-can-finally-remove-pixels-annoying-at-a-glance-widget?utm_medium=RSS" target="_blank">You Can Finally Remove Pixel’s Annoying &#x27;At a Glance&#x27; Widget</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-18 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/3IATLAS-1280x853.jpg" alt="Watch Live as Interstellar Comet 3I/ATLAS Makes Its Closest Approach to Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/watch-live-as-interstellar-comet-3i-atlas-makes-its-closest-approach-to-earth-2000701321" target="_blank">Watch Live as Interstellar Comet 3I/ATLAS Makes Its Closest Approach to Earth</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-18 17:00</span>
             </div>
         </div>
 </div>
@@ -320,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
