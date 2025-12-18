@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 09:04:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-18 10:01:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 09:04 UTC</div>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/18/netanyahu-announces-major-israeli-gas-deal-with-egypt?traffic_source=rss" target="_blank">Video: Netanyahu announces major Israeli gas deal with Egypt</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-18 09:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfc/live/2176ef50-db73-11f0-a8dc-93c15fe68710.jpg" alt="Boys to be sent on courses to tackle misogyny in schools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9qednjzwv1o?at_medium=RSS&at_campaign=rss" target="_blank">Boys to be sent on courses to tackle misogyny in schools</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-18 08:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/18/academy-awards-youtube-sign-deal-to-livestream-oscars-from-2029?traffic_source=rss" target="_blank">Academy Awards, YouTube sign deal to livestream Oscars from 2029</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-18 06:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/18/from-a-for-algebra-to-t-for-tariffs-arabic-words-used-in-english-speech?traffic_source=rss" target="_blank">From A for algebra to T for tariffs: Arabic words used in English speech</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-18 05:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-abc-gmh-251217_1766023463156_hpMain_4x3t_384.jpg" alt="Trump hits Biden and old grievances, touts &#x27;our country is back&#x27; in address" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-address-nation-1st-year-office-2026-agenda/story?id=128498252" target="_blank">Trump hits Biden and old grievances, touts &#x27;our country is back&#x27; in address</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-18 04:20</span>
             </div>
         </div>
 </div>
@@ -171,6 +165,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alikhil/contributing-to-open-source-why-it-matters-and-how-to-start-4m4i" target="_blank">Contributing to Open Source: Why It Matters and How to Start</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-18 09:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/linux-fragmentation-as-positive/" target="_blank">Linux Desktop is Fragmented (And That&amp;#x27;s NOT a Bad Thing)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-18 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/architecture-ai-augmented-change/en/headerimage/Architecture-in-a-Flow-of-AI-Augmented-Change-Header-1765962519963.jpg" alt="Article: Architecture in a Flow of AI-Augmented Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/architecture-ai-augmented-change/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Architecture in a Flow of AI-Augmented Change</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-18 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/eduard_albu/week-6-golden-keywords-honest-limitations-and-why-im-building-a-directory-hit-list-4g3g" target="_blank">Week 6: Golden Keywords, Honest Limitations, and Why I’m Building a Directory Hit List</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-18 08:53</span>
@@ -192,33 +213,6 @@
                 <span class="title"><a href="https://dev.to/qlhv_wwno_87da67d24608ea9/the-printed-circuit-board-pcb-engineering-the-foundation-of-modern-electronics-20p8" target="_blank">The Printed Circuit Board (PCB): Engineering the Foundation of Modern Electronics</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-18 07:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnayixbekb1k28sy3elhg.png" alt="DNS Failures in EKS? The Real Bottleneck Was AWS Network Limits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ahmedshendy/dns-failures-in-eks-the-real-bottleneck-was-aws-network-limits-fi" target="_blank">DNS Failures in EKS? The Real Bottleneck Was AWS Network Limits</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-18 06:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/" target="_blank">What is an elliptic curve? (2019)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-18 06:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/odada-o/building-a-design-system-with-tailwind-css-1bg1" target="_blank">Building a Design System with Tailwind CSS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-18 05:49</span>
             </div>
         </div>
 </div>
@@ -322,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
