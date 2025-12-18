@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 13:12:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-18 14:02:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +55,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/18/nx-s1-5647510/inflation-economy-prices-affordability" target="_blank">Inflation cools slightly in November as worries about affordability grip Americans</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-18 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/grocery-store-gty-jef-251217_1765999702300_hpMain_4x3t_384.jpg" alt="Inflation drops to lowest level in months, defying expectations of uptick" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/inflation-report-released-thursday-expected-show-slight-uptick/story?id=128480220" target="_blank">Inflation drops to lowest level in months, defying expectations of uptick</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-18 13:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/18/why-is-the-us-claiming-it-owns-venezuelan-oil-and-land?traffic_source=rss" target="_blank">Why is the US claiming it owns Venezuelan oil and land?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-18 13:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d189/live/80e29610-db82-11f0-a097-4546a0cb84e5.jpg" alt="Zelensky gives stark warning as EU leaders start crunch talks on Russia&#x27;s frozen cash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky gives stark warning as EU leaders start crunch talks on Russia&#x27;s frozen cash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-18 11:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/18/us-aid-cuts-force-rohingya-girls-into-marriage-children-into-hard-labour?traffic_source=rss" target="_blank">US aid cuts force Rohingya girls into marriage, children into hard labour</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -54,48 +98,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251217-black-friday-shopper-lr-fe10af.jpg" alt="Inflation falls to 2.7% as lighter housing and food increases offset a surge in electricity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/18/nx-s1-5615255/travel-guide-odd-weird-america-vacations" target="_blank">Where we went: NPR&#x27;s U.S. travel guide for the curious</a></span>
-                <span class="feed">NPR Topics: News</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/economy/cpi-november-inflation-rate-rcna249847" target="_blank">Inflation falls to 2.7% as lighter housing and food increases offset a surge in electricity</a></span>
+                <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-18 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/18/netanyahu-announces-major-israeli-gas-deal-with-egypt?traffic_source=rss" target="_blank">Video: Netanyahu announces major Israeli gas deal with Egypt</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-18 09:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfc/live/2176ef50-db73-11f0-a8dc-93c15fe68710.jpg" alt="Boys to be sent on courses to tackle misogyny in schools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9qednjzwv1o?at_medium=RSS&at_campaign=rss" target="_blank">Boys to be sent on courses to tackle misogyny in schools</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-18 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/18/mbappe-scores-late-to-seal-real-madrid-win-over-talavera-in-copa-del-rey?traffic_source=rss" target="_blank">Mbappe scores late to seal Real Madrid win over Talavera in Copa del Rey</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-18 08:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c2f/live/ed518ab0-dbd0-11f0-abbc-59c0c54a69e5.jpg" alt="Don&#x27;t let Matilda&#x27;s death fuel anger, say family of Bondi victim, 10, at funeral" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss" target="_blank">Don&#x27;t let Matilda&#x27;s death fuel anger, say family of Bondi victim, 10, at funeral</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-18 08:29</span>
             </div>
         </div>
 </div>
@@ -103,6 +111,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/847156/apple-ipad-air-m3-astro-bot-airpods-pro-deal-sale" target="_blank">The latest iPad Air is $400 for the first time, and arrives by Christmas</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-18 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/18/amazons-new-alexa-feature-adds-conversational-ai-to-ring-doorbells/" target="_blank">Amazon’s new Alexa+ feature adds conversational AI to Ring doorbells</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-18 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/2026_Explainer_FIA_Front_3_4_1920x1080-2-1536x864-1-500x500.jpg" alt="Formula 1 is deploying new jargon for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/12/formula-1-is-deploying-new-jargon-for-2026/" target="_blank">Formula 1 is deploying new jargon for 2026</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-18 13:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,38 +165,20 @@
                 <span class="time">2025-12-18 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/694325abb300b4754776c408/master/pass/The%20Best%20Protein%20Powders,%20Tested%20and%20Tasted%20Update%20top%20art%20122025%20SOURCE%20Amazon.jpg" alt="10 Best Protein Powders, According to 2 Years of Testing (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-protein-powders/" target="_blank">10 Best Protein Powders, According to 2 Years of Testing (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-18 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685a0f7ab6b088e62b023e71/master/pass/the%20best%20greens.png" alt="15 Best Greens Powders (2025) Researched, Taste-Tested &amp; Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-greens-powders/" target="_blank">15 Best Greens Powders (2025) Researched, Taste-Tested &amp; Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-18 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69208e512fa6964c21cd5476/master/pass/Goldisthal_2004.jpg" alt="Pumped Hydro Energy Storage Is Having a Renaissance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pumped-hydro-energy-storage-is-having-a-renaissance/" target="_blank">Pumped Hydro Energy Storage Is Having a Renaissance</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-18 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/froala_e3824d66439393cbce/building-a-complete-document-generator-with-froala-47-plugins-44o2" target="_blank">Building a Complete Document Generator with Froala 4.7 Plugins</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-18 13:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,6 +198,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://worksinprogress.co/issue/were-classical-statues-painted-horribly/" target="_blank">Classical statues were not painted horribly</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-18 12:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/armbian-imager-quietly-debuts/" target="_blank">The Upcoming Armbian Imager Tool is a Godsend for Non-Raspberry Pi SBC Owners</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-18 11:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frk5z0uvqebkezwtycjr3.png" alt="Compliance as Code: The Latency Challenge in Fintech Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -189,38 +224,20 @@
                 <span class="time">2025-12-18 11:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/migrating-test-suite/en/headerimage/header-1765266998130.jpg" alt="Lessons Learned from Migrating a Legacy Test Suite to Gauge with Kotlin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/migrating-test-suite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Lessons Learned from Migrating a Legacy Test Suite to Gauge with Kotlin</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-18 11:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Strix-Halo-ROCm-Bug-Fixes" target="_blank">AMD Awarding Ryzen AI Max+ &quot;Strix Halo&quot; Laptops To Those Fixing ROCm Bugs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-18 11:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://e360.yale.edu/features/iran-water-drought-dams-qanats" target="_blank">After Ruining a Treasured Water Resource, Iran Is Drying Up</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-18 10:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2H369H7ZPJ491BXQG1YYNH/hero-image.png" alt="The Books I Recommend If You&#x27;re Trying to Manage Your Time Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-books-to-improve-time-management?utm_medium=RSS" target="_blank">The Books I Recommend If You&#x27;re Trying to Manage Your Time Better</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-18 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/DJI-Osmo-Pocket-3-1280x856.jpg" alt="DJI Is Unloading More Than Drones as the Osmo Pocket 3 Vlogging Camera Hits a Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +283,6 @@
                 <span class="time">2025-12-18 02:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/pennywiseNECA-1280x853.jpg" alt="This ‘Welcome to Derry’ Figure Is Festively, Gloriously Gory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/it-welcome-to-derry-finale-pennywise-figure-neca-2000700907" target="_blank">This ‘Welcome to Derry’ Figure Is Festively, Gloriously Gory</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-17 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
