@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 00:04:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-18 01:29:32 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/17/nx-s1-5647821/fbi-deputy-director-dan-bongino-stepping-down" target="_blank">FBI Deputy Director Dan Bongino says he will step down in January</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-18 00:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-11-rt-gmh-251217_1766006329513_hpMain_4x3t_384.jpg" alt="Trump to address nation on 1st year in office, 2026 agenda" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +96,20 @@
                 <span class="time">2025-12-17 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/spinal-tap-1-rt-gmh-251217_1765997072637_hpMain_4x3t_384.jpg" alt="Rob and Michele Reiner&#x27;s children speak out after Nick Reiner&#x27;s arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/rob-reiners-children-speak-after-nick-reiners-arrest/story?id=128491146" target="_blank">Rob and Michele Reiner&#x27;s children speak out after Nick Reiner&#x27;s arrest</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-17 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249116324-500x500.jpg" alt="NASA finally—and we really do mean it this time—has a full-time leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/12/nasa-finally-and-we-really-do-mean-it-this-time-has-a-full-time-leader/" target="_blank">NASA finally—and we really do mean it this time—has a full-time leader</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-18 00:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6941ccde9dc329ed56e1762a/master/pass/The%20Best%20Plant%20and%20Gardening%20Gifts%20From%20LetPot%20top%20art%20122025%20SOURCE%20Amazon_Letpot.jpg" alt="The Best Plant and Gardening Gifts From LetPot (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +155,20 @@
                 <span class="time">2025-12-17 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Larry-Bushart-via-FIRE.jpg-500x469.jpeg" alt="Man sues cops who jailed him for 37 days for trolling a Charlie Kirk vigil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/man-sues-cops-who-jailed-him-for-37-days-for-trolling-a-charlie-kirk-vigil/" target="_blank">Man sues cops who jailed him for 37 days for trolling a Charlie Kirk vigil</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-17 20:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgsrlahexb372ikzdssa.png" alt="Building my first Kiro Power: PostHog Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kirodotdev/building-my-first-kiro-power-posthog-observability-fik" target="_blank">Building my first Kiro Power: PostHog Observability</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-18 01:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5e57lh7rtwwwe2d694n.png" alt="Why Bf-Tree Pins Inner Nodes and What That Unlocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/sonia_bobrik_1939cdddd79d/incident-communication-that-actually-works-during-outages-and-security-breaches-3g2h" target="_blank">Incident Communication That Actually Works During Outages and Security Breaches</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-17 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="OpenAI at QCon AI NYC: Fine Tuning the Enterprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/qcon-openai-rft/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI at QCon AI NYC: Fine Tuning the Enterprise</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-17 19:25</span>
             </div>
         </div>
 </div>
@@ -341,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
