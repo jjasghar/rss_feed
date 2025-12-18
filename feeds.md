@@ -1,42 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-17 23:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-18 00:04:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 34 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, December 17, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-11-rt-gmh-251217_1766006329513_hpMain_4x3t_384.jpg" alt="Trump to address nation on 1st year in office, 2026 agenda" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-address-nation-1st-year-office-2026-agenda/story?id=128498252" target="_blank">Trump to address nation on 1st year in office, 2026 agenda</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-17 23:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/17/live-trump-to-highlight-achievements-amid-venezuela-economic-tensions?traffic_source=rss" target="_blank">Live: Trump to highlight achievements amid Venezuela, economic tensions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-17 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0de/live/dd2d27b0-db86-11f0-a8dc-93c15fe68710.jpg" alt="Rob Reiner&#x27;s family breaks silence as son Nick faces judge on murder charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss" target="_blank">Rob Reiner&#x27;s family breaks silence as son Nick faces judge on murder charges</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-17 22:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,38 +104,20 @@
                 <span class="time">2025-12-17 21:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251209-Robert-F-Kennedy-Jr-ch-1522-46143f.jpg" alt="HHS cuts millions in grants to the American Academy of Pediatrics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/health/health-news/hhs-cuts-millions-grants-american-academy-pediatrics-rcna249769" target="_blank">HHS cuts millions in grants to the American Academy of Pediatrics</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-17 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/17/nx-s1-5647680/federal-court-says-troops-can-stay-in-d-c-and-hints-at-prolonged-deployment" target="_blank">Federal court says troops can stay in D.C., and hints at prolonged deployment</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-17 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/spinal-tap-1-rt-gmh-251217_1765997072637_hpMain_4x3t_384.jpg" alt="Rob Reiner&#x27;s son and daughter release statement after their brother&#x27;s arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/rob-reiners-children-speak-after-nick-reiners-arrest/story?id=128491146" target="_blank">Rob Reiner&#x27;s son and daughter release statement after their brother&#x27;s arrest</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-17 19:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6941ccde9dc329ed56e1762a/master/pass/The%20Best%20Plant%20and%20Gardening%20Gifts%20From%20LetPot%20top%20art%20122025%20SOURCE%20Amazon_Letpot.jpg" alt="The Best Plant and Gardening Gifts From LetPot (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/letpot-plant-and-gardening-gifts-2025/" target="_blank">The Best Plant and Gardening Gifts From LetPot (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-17 23:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/icytree1-500x500.jpg" alt="Physicists 3D-printed a Christmas tree of ice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -156,15 +163,6 @@
                 <span class="time">2025-12-17 20:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/17/youtube-will-stream-the-oscars-exclusively-beginning-in-2029/" target="_blank">YouTube will stream the Oscars — exclusively — beginning in 2029</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-17 19:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -186,6 +184,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-RAID-MD-Folios" target="_blank">Linux Patches Begin Adapting RAID Code To Use Folios</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-17 21:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/extending-ros-noetic-support-with-esm-enabled-content-snaps" target="_blank">Extending ROS Noetic Support with ESM-Enabled Content Snaps</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-12-17 20:38</span>
             </div>
         </div>
 <div class="story">
@@ -215,15 +222,6 @@
                 <span class="time">2025-12-17 19:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18683522&w=600" alt="Why Your AI Transformation is Broken" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-your-ai-transformation-is-broken" target="_blank">Why Your AI Transformation is Broken</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-17 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,12 +242,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/pennywiseNECA-1280x853.jpg" alt="This ‘Welcome to Derry’ Figure Is Festively, Gloriously Gory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/it-welcome-to-derry-finale-pennywise-figure-neca-2000700907" target="_blank">This ‘Welcome to Derry’ Figure Is Festively, Gloriously Gory</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-17 23:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/elon-musk-nov-19-2025-1280x853.jpg" alt="Elon Musk Predicts AGI by 2026 (He Predicted AGI by 2025 Last Year)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/elon-musk-predicts-agi-by-2026-he-predicted-agi-by-2025-last-year-2000701007" target="_blank">Elon Musk Predicts AGI by 2026 (He Predicted AGI by 2025 Last Year)</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-17 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Exodus-1.jpg" alt="‘Godfather Of BioWare Design’ Steps Down At The Studio Making An Ambitious Successor To Mass Effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/exodus-rpg-bioware-james-ohlen-wizards-hasbro-2000654313" target="_blank">‘Godfather Of BioWare Design’ Steps Down At The Studio Making An Ambitious Successor To Mass Effect</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-17 22:39</span>
             </div>
         </div>
 <div class="story">
@@ -277,24 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/cheddar-lovers-rejoice-eating-high-fat-cheese-may-lower-dementia-risk-2000700802" target="_blank">Cheddar Lovers, Rejoice: Eating High-Fat Cheese May Lower Dementia Risk</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-17 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/image-18.jpg" alt="Resident Evil‘s ‘Impossible’ Game Boy Port Appears Online And It’s 98 Percent Complete" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/resident-evils-game-boy-dispatch-switch-2-2000654239" target="_blank">Resident Evil‘s ‘Impossible’ Game Boy Port Appears Online And It’s 98 Percent Complete</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-17 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/shutterstock_207000703-scaled-e1740068634781.jpg?fit=1080%2C721&amp;quality=60&amp;ssl=1" alt="Caught trashing her fellow cronies, Wiles claims she was taken out of context by a tape recording" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/17/caught-trashing-her-fellow-cronies-wiles-claims-she-was-taken-out-of-context-by-a-tape-recording.html" target="_blank">Caught trashing her fellow cronies, Wiles claims she was taken out of context by a tape recording</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-17 20:04</span>
             </div>
         </div>
 </div>
@@ -329,13 +327,22 @@
                 <span class="time">2025-12-17 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/telescope_types.png" alt="Telescope Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3182/" target="_blank">Telescope Types</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-12-17 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
