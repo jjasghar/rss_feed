@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 05:03:16 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing 54 RSS feeds at 2025-12-18 06:02:30 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 05:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/18/from-a-for-algebra-to-t-for-tariffs-arabic-words-used-in-english-speech?traffic_source=rss" target="_blank">From A for algebra to T for tariffs: Arabic words used in English speech</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-18 05:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-1-abc-gmh-251217_1766023463156_hpMain_4x3t_384.jpg" alt="Trump hits Biden and old grievances, touts &#x27;our country is back&#x27; in address" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-address-nation-1st-year-office-2026-agenda/story?id=128498252" target="_blank">Trump hits Biden and old grievances, touts &#x27;our country is back&#x27; in address</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-18 04:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c2f/live/ed518ab0-dbd0-11f0-abbc-59c0c54a69e5.jpg" alt="&#x27;Maybe she&#x27;s an angel now&#x27; says aunt of 10-year-old Bondi victim" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Maybe she&#x27;s an angel now&#x27; says aunt of 10-year-old Bondi victim</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-18 04:15</span>
             </div>
         </div>
 <div class="story">
@@ -79,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/18/can-india-catch-up-with-the-us-taiwan-and-china-in-the-global-chip-race?traffic_source=rss" target="_blank">Can India catch up with the US, Taiwan and China in the global chip race?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-18 02:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/17/nx-s1-5647821/fbi-deputy-director-dan-bongino-stepping-down" target="_blank">FBI Deputy Director Dan Bongino says he will step down in January</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-18 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-11-rt-gmh-251217_1766006329513_hpMain_4x3t_384.jpg" alt="Trump to address nation on 1st year in office, 2026 agenda" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-address-nation-1st-year-office-2026-agenda/story?id=128498252" target="_blank">Trump to address nation on 1st year in office, 2026 agenda</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-17 23:32</span>
             </div>
         </div>
 </div>
@@ -164,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/odada-o/building-a-design-system-with-tailwind-css-1bg1" target="_blank">Building a Design System with Tailwind CSS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-18 05:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/12/moving-mountains-stein/en/headerimage/java-istock-image-01-1766005138514.jpg" alt="QCon AI New York 2025: Moving Mountains: Migrating Legacy Code in Weeks Instead of Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -206,15 +212,6 @@
                 <span class="title"><a href="https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html" target="_blank">Gut bacteria from amphibians and reptiles achieve tumor elimination in mice</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-17 23:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/12/openshot-video-editor-logo-.jpg?resize=406%2C232&amp;ssl=1" alt="OpenShot 3.4: New Effects, Better Performance &amp; LUT Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/openshot-3-4-released-with-lut-support" target="_blank">OpenShot 3.4: New Effects, Better Performance &amp; LUT Support</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-17 22:35</span>
             </div>
         </div>
 </div>
@@ -327,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 05:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
