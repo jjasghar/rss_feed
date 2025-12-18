@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 11:01:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-18 12:02:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/23802552292_6407c7a06f_k-500x500.jpg" alt="Ten years ago, SpaceX turned tragedy into triumph with a historic rocket landing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/12/ten-years-ago-spacex-turned-tragedy-into-triumph-with-a-historic-rocket-landing/" target="_blank">Ten years ago, SpaceX turned tragedy into triumph with a historic rocket landing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685a0f7ab6b088e62b023e71/master/pass/the%20best%20greens.png" alt="15 Best Greens Powders (2025) Researched, Taste-Tested &amp; Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-greens-powders/" target="_blank">15 Best Greens Powders (2025) Researched, Taste-Tested &amp; Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-18 11:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69208e512fa6964c21cd5476/master/pass/Goldisthal_2004.jpg" alt="Pumped Hydro Energy Storage Is Having a Renaissance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -142,29 +158,38 @@
                 <span class="time">2025-12-18 02:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026" target="_blank">LG and Dolby partner to release the first FlexConnect soundbar</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-18 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249116324-500x500.jpg" alt="NASA finally—and we really do mean it this time—has a full-time leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/12/nasa-finally-and-we-really-do-mean-it-this-time-has-a-full-time-leader/" target="_blank">NASA finally—and we really do mean it this time—has a full-time leader</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-18 00:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frk5z0uvqebkezwtycjr3.png" alt="Compliance as Code: The Latency Challenge in Fintech Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gabrielamoraes/compliance-as-code-the-latency-challenge-in-fintech-architectures-4fj3" target="_blank">Compliance as Code: The Latency Challenge in Fintech Architectures</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-18 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Strix-Halo-ROCm-Bug-Fixes" target="_blank">AMD Awarding Ryzen AI Max+ &quot;Strix Halo&quot; Laptops To Those Fixing ROCm Bugs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-18 11:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://e360.yale.edu/features/iran-water-drought-dams-qanats" target="_blank">After Ruining a Treasured Water Resource, Iran Is Drying Up</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-18 10:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,47 +215,6 @@
                 <span class="title"><a href="https://itsfoss.com/linux-fragmentation-as-positive/" target="_blank">Linux Desktop is Fragmented (And That&amp;#x27;s NOT a Bad Thing)</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2025-12-18 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/design-and-documentation-clinics-at-fosdem-fringe-2026" target="_blank">Design and Documentation clinics at FOSDEM Fringe 2026</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-12-18 09:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/architecture-ai-augmented-change/en/headerimage/Architecture-in-a-Flow-of-AI-Augmented-Change-Header-1765962519963.jpg" alt="Article: Architecture in a Flow of AI-Augmented Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/architecture-ai-augmented-change/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Architecture in a Flow of AI-Augmented Change</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-18 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/eduard_albu/week-6-golden-keywords-honest-limitations-and-why-im-building-a-directory-hit-list-4g3g" target="_blank">Week 6: Golden Keywords, Honest Limitations, and Why I’m Building a Directory Hit List</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-18 08:53</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html" target="_blank">Deliberate Internet Shutdowns</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-17 12:02</span>
             </div>
         </div>
 </div>
@@ -320,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
