@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 01:29:32 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-12-18 02:31:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/18/can-india-catch-up-with-the-us-taiwan-and-china-in-the-global-chip-race?traffic_source=rss" target="_blank">Can India catch up with the US, Taiwan and China in the global chip race?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-18 02:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/17/california-threatens-tesla-with-sale-suspension-over-marketing-practices?traffic_source=rss" target="_blank">California threatens Tesla with sale suspension over marketing practices</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-17 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfc/live/2176ef50-db73-11f0-a8dc-93c15fe68710.jpg" alt="Teachers to be trained to spot early signs of misogyny in boys" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9qednjzwv1o?at_medium=RSS&at_campaign=rss" target="_blank">Teachers to be trained to spot early signs of misogyny in boys</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-17 22:30</span>
             </div>
         </div>
 </div>
@@ -161,12 +159,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgp3rti1sbance7rl4am.png" alt="Effectively Managing AI Agents for Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/johnjvester/effectively-managing-ai-agents-for-testing-iie" target="_blank">Effectively Managing AI Agents for Testing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-18 02:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-libvpi-AI-Assisted-Encode" target="_blank">Intel Video Processing Library Adding AI Assisted Video Encoder Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-18 01:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgsrlahexb372ikzdssa.png" alt="Building my first Kiro Power: PostHog Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kirodotdev/building-my-first-kiro-power-posthog-observability-fik" target="_blank">Building my first Kiro Power: PostHog Observability</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-18 01:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/12/openshot-video-editor-logo-.jpg?resize=406%2C232&amp;ssl=1" alt="OpenShot 3.4: New Effects, Better Performance &amp; LUT Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/openshot-3-4-released-with-lut-support" target="_blank">OpenShot 3.4: New Effects, Better Performance &amp; LUT Support</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-17 22:35</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-RAID-MD-Folios" target="_blank">Linux Patches Begin Adapting RAID Code To Use Folios</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-17 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/extending-ros-noetic-support-with-esm-enabled-content-snaps" target="_blank">Extending ROS Noetic Support with ESM-Enabled Content Snaps</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-12-17 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803196&w=600" alt="Momento Migrates Object Cache as a Service to Ampere® Altra®" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/momento-object-cache-service-ampere-altra" target="_blank">Momento Migrates Object Cache as a Service to Ampere® Altra®</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-17 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sonia_bobrik_1939cdddd79d/incident-communication-that-actually-works-during-outages-and-security-breaches-3g2h" target="_blank">Incident Communication That Actually Works During Outages and Security Breaches</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-17 19:49</span>
             </div>
         </div>
 </div>
@@ -333,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
