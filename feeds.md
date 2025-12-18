@@ -1,28 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 04:09:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-18 05:03:16 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 04:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 05:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-abc-gmh-251217_1766023463156_hpMain_4x3t_384.jpg" alt="Trump hits Biden and old grievances, touts &#x27;our country is back&#x27; in address" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-address-nation-1st-year-office-2026-agenda/story?id=128498252" target="_blank">Trump hits Biden and old grievances, touts &#x27;our country is back&#x27; in address</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-18 04:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-address-nation-1st-year-office-2026-agenda/story?id=128498252" target="_blank">Trump to address nation on 1st year in office, 2026 agenda</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-17 23:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/17/live-trump-to-highlight-achievements-amid-venezuela-economic-tensions?traffic_source=rss" target="_blank">Live: Trump to highlight achievements amid Venezuela, economic tensions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-17 23:00</span>
             </div>
         </div>
 </div>
@@ -230,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/09/Screenshot-2024-09-11-at-9.41.42-PM.png?fit=1116%2C1400&amp;quality=55&amp;ssl=1" alt="Dog-themed embroidery art captures the essence of doggos, in all of their silly, earnest, enthusiastic awesomeness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/17/dog-themed-embroidery-art-captures-the-essence-of-doggos-in-all-of-their-silly-earnest-enthusiastic-awesomeness.html" target="_blank">Dog-themed embroidery art captures the essence of doggos, in all of their silly, earnest, enthusiastic awesomeness</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-18 02:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/pennywiseNECA-1280x853.jpg" alt="This ‘Welcome to Derry’ Figure Is Festively, Gloriously Gory" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -274,15 +290,6 @@
                 <span class="time">2025-12-17 21:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/slicedcheddar-1280x853.jpg" alt="Cheddar Lovers, Rejoice: Eating High-Fat Cheese May Lower Dementia Risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cheddar-lovers-rejoice-eating-high-fat-cheese-may-lower-dementia-risk-2000700802" target="_blank">Cheddar Lovers, Rejoice: Eating High-Fat Cheese May Lower Dementia Risk</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-17 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,22 +322,13 @@
                 <span class="time">2025-12-17 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/telescope_types.png" alt="Telescope Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3182/" target="_blank">Telescope Types</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-12-17 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 04:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 05:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
