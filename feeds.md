@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 10:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-18 11:01:36 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, December 18, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/18/us-aid-cuts-force-rohingya-girls-into-marriage-children-into-hard-labour?traffic_source=rss" target="_blank">US aid cuts force Rohingya girls into marriage, children into hard labour</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-18 10:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/18/nx-s1-5615255/travel-guide-odd-weird-america-vacations" target="_blank">Where we went: NPR&#x27;s U.S. travel guide for the curious</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-18 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,30 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c2f/live/ed518ab0-dbd0-11f0-abbc-59c0c54a69e5.jpg" alt="&#x27;Maybe she&#x27;s an angel now&#x27; says aunt of Bondi victim, 10, at funeral" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c2f/live/ed518ab0-dbd0-11f0-abbc-59c0c54a69e5.jpg" alt="Don&#x27;t let Matilda&#x27;s death fuel anger, say family of Bondi victim, 10, at funeral" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Maybe she&#x27;s an angel now&#x27; says aunt of Bondi victim, 10, at funeral</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss" target="_blank">Don&#x27;t let Matilda&#x27;s death fuel anger, say family of Bondi victim, 10, at funeral</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-12-18 07:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/18/nx-s1-5648082/10-year-old-killed-bondi-mass-shooting-hate-laws" target="_blank">Mourners grieve 10-year-old slain in Bondi mass shooting as Australia&#x27;s leader pledges new hate laws</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-18 07:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/18/academy-awards-youtube-sign-deal-to-livestream-oscars-from-2029?traffic_source=rss" target="_blank">Academy Awards, YouTube sign deal to livestream Oscars from 2029</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-18 06:26</span>
+                <span class="time">2025-12-18 08:29</span>
             </div>
         </div>
 </div>
@@ -102,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69208e512fa6964c21cd5476/master/pass/Goldisthal_2004.jpg" alt="Pumped Hydro Energy Storage Is Having a Renaissance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/pumped-hydro-energy-storage-is-having-a-renaissance/" target="_blank">Pumped Hydro Energy Storage Is Having a Renaissance</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-18 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +160,20 @@
                 <span class="time">2025-12-18 00:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6941ccde9dc329ed56e1762a/master/pass/The%20Best%20Plant%20and%20Gardening%20Gifts%20From%20LetPot%20top%20art%20122025%20SOURCE%20Amazon_Letpot.jpg" alt="The Best Plant and Gardening Gifts From LetPot (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/letpot-plant-and-gardening-gifts-2025/" target="_blank">The Best Plant and Gardening Gifts From LetPot (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-17 23:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.theargumentmag.com/p/how-getting-richer-made-teenagers" target="_blank">How getting richer made teenagers less free</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-18 10:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -180,6 +193,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/design-and-documentation-clinics-at-fosdem-fringe-2026" target="_blank">Design and Documentation clinics at FOSDEM Fringe 2026</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-12-18 09:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/architecture-ai-augmented-change/en/headerimage/Architecture-in-a-Flow-of-AI-Augmented-Change-Header-1765962519963.jpg" alt="Article: Architecture in a Flow of AI-Augmented Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -195,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/eduard_albu/week-6-golden-keywords-honest-limitations-and-why-im-building-a-directory-hit-list-4g3g" target="_blank">Week 6: Golden Keywords, Honest Limitations, and Why I’m Building a Directory Hit List</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-18 08:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/denmark-road-traffic-authority-ditches-microsoft/" target="_blank">Denmark Begins its Exit from Microsoft — and This is Just the Beginning</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-18 07:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3219smsvc2qh811zit6z.png" alt="The Printed Circuit Board (PCB): Engineering the Foundation of Modern Electronics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/qlhv_wwno_87da67d24608ea9/the-printed-circuit-board-pcb-engineering-the-foundation-of-modern-electronics-20p8" target="_blank">The Printed Circuit Board (PCB): Engineering the Foundation of Modern Electronics</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-18 07:47</span>
             </div>
         </div>
 </div>
@@ -234,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/zaslav-2-1280x853.jpg" alt="David Zaslav Could Make So Much Money Out of Messing Up Warner Bros." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/david-zaslav-could-make-so-much-money-out-of-messing-up-warner-bros-2000701077" target="_blank">David Zaslav Could Make So Much Money Out of Messing Up Warner Bros.</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-18 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/09/Screenshot-2024-09-11-at-9.41.42-PM.png?fit=1116%2C1400&amp;quality=55&amp;ssl=1" alt="Dog-themed embroidery art captures the essence of doggos, in all of their silly, earnest, enthusiastic awesomeness" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +292,6 @@
                 <span class="time">2025-12-17 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/pompeii-plaster-casts-1280x853.jpg" alt="Vesuvius Exploded in August—So Why Were Pompeii Victims Wearing Heavy Clothing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/vesuvius-exploded-in-august-so-why-were-pompeii-victims-wearing-heavy-clothing-2000700770" target="_blank">Vesuvius Exploded in August—So Why Were Pompeii Victims Wearing Heavy Clothing?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-17 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
