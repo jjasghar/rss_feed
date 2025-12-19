@@ -1,27 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 13:11:48 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-12-19 14:01:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 19 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -97,6 +103,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6865ab12ba5cb2b448f7a6ec/master/pass/Which%20Macbook%20to%20Buy.png" alt="Best MacBooks (2025): Which Apple Laptop Should You Buy?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/which-macbook-should-you-buy/" target="_blank">Best MacBooks (2025): Which Apple Laptop Should You Buy?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-19 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/842190/2025-smartphones-design-color-fashion" target="_blank">Phones were fashionable again in 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-19 13:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -130,24 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/23651507/tiktok-ban-us-news" target="_blank">TikTok ban: all the news on the app’s shutdown and return in the US</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-19 01:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/18/tiktok-agrees-to-deal-to-cede-control-of-u-s-business-to-american-investor-group/" target="_blank">TikTok agrees to deal to cede control of US business to American investor group</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-19 00:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/hadrian1-500x500.jpg" alt="Parasites plagued Roman soldiers at Hadrian’s Wall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/study-roman-soldiers-battled-parasites-at-hadrians-wall/" target="_blank">Parasites plagued Roman soldiers at Hadrian’s Wall</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-19 00:00</span>
             </div>
         </div>
 </div>
@@ -218,6 +224,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/ai-advertising-company-hacked.html" target="_blank">AI Advertising Company Hacked</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-19 12:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/someone-boarded-a-plane-at-heathrow-without-a-ticket-or-passport.html" target="_blank">Someone Boarded a Plane at Heathrow Without a Ticket or Passport</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-12-18 16:41</span>
@@ -228,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2022/01/efdf269347bda4fe485d448a2f1f33e4-1024x576.jpg" alt="Tech Billionaires Pledge $1 Billion to CERN for Future Circular Collider" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tech-billionaires-pledge-1-billion-to-cern-for-future-circular-collider-2000701596" target="_blank">Tech Billionaires Pledge $1 Billion to CERN for Future Circular Collider</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-19 13:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Viral-Posts-Year-in-Review-1280x853.jpg" alt="Viral Tweets That Were Completely Fake in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +297,6 @@
                 <span class="time">2025-12-19 00:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/sim-city.jpeg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="Mathematicians say they&#x27;ve proven the universe can&#x27;t be a simulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/18/mathematicians-say-theyve-proven-the-universe-cant-be-a-simulation.html" target="_blank">Mathematicians say they&#x27;ve proven the universe can&#x27;t be a simulation</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-18 22:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
