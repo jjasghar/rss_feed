@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 02:32:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-19 03:28:17 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 02:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/18/nx-s1-5646498/brown-university-shooting-suspect-found-dead" target="_blank">Suspect in Brown University shooting found dead in New Hampshire</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-19 02:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Brown University suspect found dead: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Brown University suspect found dead: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-19 02:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Newhampshire_1766110473816_hpMain_4x3t_384.jpg" alt="Brown University suspect found dead inside storage facility: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +97,20 @@
                 <span class="time">2025-12-19 00:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4328/live/f8bf9b20-d9b5-11f0-b051-c9966e31459d.jpg" alt="£100 contactless card limit to be lifted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss" target="_blank">£100 contactless card limit to be lifted</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-19 00:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766101154385_nn_emc_brown_poi_20251218_1920x1080-ri67l6.jpg" alt="Person of interest identified in Brown University shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/person-of-interest-identified-in-brown-university-shooting-254696005611" target="_blank">Person of interest identified in Brown University shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-18 23:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/disksat-deploying-101-500x500.webp" alt="Here’s why NASA and the Space Force are interested in pizza-shaped satellites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/heres-why-nasa-and-the-space-force-are-interested-in-pizza-shaped-satellites/" target="_blank">Here’s why NASA and the Space Force are interested in pizza-shaped satellites</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-19 03:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -114,6 +118,15 @@
                 <span class="title"><a href="https://www.theverge.com/23651507/tiktok-ban-us-news" target="_blank">TikTok ban: all the news on the app’s shutdown and return in the US</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-19 01:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/18/tiktok-agrees-to-deal-to-cede-control-of-u-s-business-to-american-investor-group/" target="_blank">TikTok agrees to deal to cede control of US business to American investor group</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-19 00:56</span>
             </div>
         </div>
 <div class="story">
@@ -141,24 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/847858/tiktok-sale-deal-memo-january-close" target="_blank">The TikTok US sale is finally happening</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-18 23:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/youtube-logo-500x500.jpg" alt="YouTube bans two popular channels that created fake AI movie trailers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2025/12/youtube-bans-two-popular-channels-that-created-fake-ai-movie-trailers/" target="_blank">YouTube bans two popular channels that created fake AI movie trailers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-18 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/847806/head-of-threads-interview" target="_blank">Threads wants to be the app you can’t wait to open in the morning</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-18 22:30</span>
             </div>
         </div>
 </div>
@@ -196,6 +191,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-december-19-2025-red-hat" target="_blank">Friday Five — December 19, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-12-19 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Foundation-2025-Report" target="_blank">Linux Foundation Expects To Break $300M In Revenue This Year</a></span>
                 <span class="feed">Phoronix</span>
@@ -209,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/diempi/-547e" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-18 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nyyakko/a-historia-de-como-eu-ajudei-a-aprimorar-uma-das-linguagens-de-programacao-mais-famosas-do-mundo-3bb" target="_blank">A História de como eu ajudei a aprimorar* uma das linguagens de programação mais famosas do mundo: a linguagem Go.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-18 20:41</span>
             </div>
         </div>
 </div>
@@ -239,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Screenshot-2025-09-04-132058.png?fit=1452%2C810&amp;quality=55&amp;ssl=1" alt="Hollow Knight: Silksong announces free expansion just three months after release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/18/hollow-knight-silksong-announces-free-expansion-just-three-months-after-release.html" target="_blank">Hollow Knight: Silksong announces free expansion just three months after release</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-19 01:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Rai-Rai-Rai-Manga-Viz-Media-io9-template-circle-light-dark-1280x853.jpg" alt="‘Rai Rai Rai’ Is a Pastiche of Manga Greats Rolled Into a Cutesy Kaiju Package" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +288,6 @@
                 <span class="time">2025-12-18 21:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCSFE49RGAMHG30YJ43SH92X/hero-image.jpg" alt="A Look Inside ChatGPT&#x27;s New &#x27;App Store&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/chatgpt-new-app-store?utm_medium=RSS" target="_blank">A Look Inside ChatGPT&#x27;s New &#x27;App Store&#x27;</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-18 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 02:33 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
