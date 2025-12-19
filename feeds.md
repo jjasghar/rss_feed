@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 22:02:08 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-19 23:01:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 14 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/19/musk-wins-us-appeal-to-restore-2018-tesla-pay-package?traffic_source=rss" target="_blank">Musk wins US appeal to restore 2018 Tesla pay package</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-19 22:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +98,38 @@
                 <span class="time">2025-12-19 18:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae48/live/e86a66c0-db71-11f0-9817-e5239190d76e.jpg" alt="Family of stabbed girl say &#x27;our hearts are broken&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c33m2j4nnkro?at_medium=RSS&at_campaign=rss" target="_blank">Family of stabbed girl say &#x27;our hearts are broken&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-19 17:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games" target="_blank">Did a publisher’s slip-up reveal smaller Switch 2 cartridges?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-19 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/google-search-yoink-500x500.jpg" alt="Google lobs lawsuit at search result scraping firm SerpApi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/12/google-lobs-lawsuit-at-search-result-scraping-firm-serpapi/" target="_blank">Google lobs lawsuit at search result scraping firm SerpApi</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-19 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/19/former-patagonia-ceo-rose-marcario-resigns-from-rivians-board/" target="_blank">Former Patagonia CEO Rose Marcario resigns from Rivian’s board</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-19 22:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +157,29 @@
                 <span class="time">2025-12-19 21:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi" target="_blank">Google sues web scraper for sucking up search results ‘at an astonishing scale’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-19 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/19/anonymous-messaging-app-ngl-was-acquired-by-earnphone-startup-mode-mobile/" target="_blank">Anonymous messaging app NGL was acquired by ‘EarnPhone’ startup Mode Mobile</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-19 20:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/riot-valorant-vanguard-500x500-1766172878.jpg" alt="Riot Games is making an anti-cheat change that could be rough on older PCs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/some-valorant-players-need-to-update-their-pc-bios-to-keep-anti-cheat-software-happy/" target="_blank">Riot Games is making an anti-cheat change that could be rough on older PCs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-19 20:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bagelbomb/brevity-1g4" target="_blank">Brevity</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-19 22:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-rc3-Released" target="_blank">Wine 11.0-rc3 Released With Another Week Of Bug Fixing</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-19 22:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fszlwmlvhgwnkgtjgies0.jpg" alt="Flutter: Armazenamento de dados" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +216,6 @@
                 <span class="time">2025-12-19 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/imaginex/key-breakthroughs-in-ai-engineering-that-every-ai-engineer-must-know-3ibh" target="_blank">Key Breakthroughs in AI Engineering that Every AI Engineer Must Know</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-19 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18801880&w=600" alt="Rethinking QA: From DevOps to Platform Engineering and SRE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/rethinking-qa-from-devops-to-platform-engineering" target="_blank">Rethinking QA: From DevOps to Platform Engineering and SRE</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-19 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/The-PS1-Yule-Log.jpg?fit=1080%2C614&amp;quality=60&amp;ssl=1" alt="PlayStation 1 yule log" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/19/playstation-1-yule-log.html" target="_blank">PlayStation 1 yule log</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-19 22:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/not-action-park.jpg?fit=1200%2C670&amp;quality=60&amp;ssl=1" alt="The New Jersey amusement park so dangerous it bought the town extra ambulances" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +298,6 @@
                 <span class="time">2025-12-19 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2020/04/wu1cfzhgemcr8rai66hx-1024x576.jpg" alt="Instacart to Pay $60 Million in Refunds for Allegedly Deceiving Customers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/instacart-to-pay-60-million-in-refunds-for-allegedly-deceiving-customers-2000701915" target="_blank">Instacart to Pay $60 Million in Refunds for Allegedly Deceiving Customers</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-19 19:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 286 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
