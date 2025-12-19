@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 07:02:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-19 08:02:22 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +100,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/disksat-deploying-101-500x500.webp" alt="These are the flying discs the government wants you to know about" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/heres-why-nasa-and-the-space-force-are-interested-in-pizza-shaped-satellites/" target="_blank">These are the flying discs the government wants you to know about</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-19 03:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/disksat-deploying-101-500x500.webp" alt="Here’s why NASA and the Space Force are interested in pizza-shaped satellites" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -151,20 +153,20 @@
                 <span class="time">2025-12-18 23:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/847858/tiktok-sale-deal-memo-january-close" target="_blank">The TikTok US sale is finally happening</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-18 23:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/19/last-week-in-aws-re-invent-with-corey-quinn/" target="_blank">Last week in AWS re:Invent with Corey Quinn</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-19 08:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/cryptsetup-2.8.2" target="_blank">Cryptsetup 2.8.2 Released With BitLocker Clear Key Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-19 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/red-hat-acquires-chatterbox-labs/" target="_blank">Red Hat Buys an AI Safety Company, Promises to Open Source Its Tech</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-19 04:57</span>
             </div>
         </div>
 </div>
@@ -311,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
