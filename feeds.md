@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 14:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-19 15:02:07 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/19/nx-s1-5647639/nostalgia-chain-restaurant-readers-response" target="_blank">Cheddar bay biscuits, cheap margs and memories: Readers share their nostalgia for chain restaurants</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-19 14:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +101,20 @@
                 <span class="time">2025-12-19 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/12/19/somalias-2026-election-risks-a-legitimacy-crisis?traffic_source=rss" target="_blank">Somalia’s 2026 election risks a legitimacy crisis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-19 05:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/19/krafton-hikes-india-bet-with-new-670m-fund/" target="_blank">Krafton hikes India bet with new $670M fund</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-19 14:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6865ab12ba5cb2b448f7a6ec/master/pass/Which%20Macbook%20to%20Buy.png" alt="Best MacBooks (2025): Which Apple Laptop Should You Buy?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +160,20 @@
                 <span class="time">2025-12-19 03:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23651507/tiktok-ban-us-news" target="_blank">TikTok ban: all the news on the app’s shutdown and return in the US</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-19 01:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18806244&w=600" alt="Macroscopic Quantum Tunneling: Unlocking the Quantum Secret Inside an Electrical Circuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/macroscopic-quantum-tunneling-electrical-circuit" target="_blank">Macroscopic Quantum Tunneling: Unlocking the Quantum Secret Inside an Electrical Circuit</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-19 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18804621&w=600" alt="Kubernetes 101: Understanding the Foundation and Getting Started" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +219,6 @@
                 <span class="time">2025-12-19 11:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mageia-10-April-2026-Plans" target="_blank">Mageia 10 Planning For April Release While Still Maintaining 32-bit Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-19 10:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/JBL-Clip-5-1-1280x853.jpg" alt="JBL Breaks Its Pricing Rules on the Clip 5 Speaker, Basically Giving It Away as a Christmas Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/jbl-breaks-its-pricing-rules-on-the-clip-5-speaker-basically-giving-it-away-as-a-christmas-deal-2000654316" target="_blank">JBL Breaks Its Pricing Rules on the Clip 5 Speaker, Basically Giving It Away as a Christmas Deal</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-19 14:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2022/01/efdf269347bda4fe485d448a2f1f33e4-1024x576.jpg" alt="Tech Billionaires Pledge $1 Billion to CERN for Future Circular Collider" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +301,6 @@
                 <span class="time">2025-12-19 01:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Rai-Rai-Rai-Manga-Viz-Media-io9-template-circle-light-dark-1280x853.jpg" alt="‘Rai Rai Rai’ Is a Pastiche of Manga Greats Rolled Into a Cutesy Kaiju Package" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/rai-rai-rai-is-a-pastiche-of-manga-greats-rolled-into-a-cutesy-kaiju-package-2000701470" target="_blank">‘Rai Rai Rai’ Is a Pastiche of Manga Greats Rolled Into a Cutesy Kaiju Package</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-19 00:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
