@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 20:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-19 21:01:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +106,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi" target="_blank">Google sues web scraper for sucking up search results ‘at an astonishing scale’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-19 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/19/anonymous-messaging-app-ngl-was-acquired-by-earnphone-startup-mode-mobile/" target="_blank">Anonymous messaging app NGL was acquired by ‘EarnPhone’ startup Mode Mobile</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-19 20:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/riot-valorant-vanguard-500x500-1766172878.jpg" alt="Riot Games is making an anti-cheat change that could be rough on older PCs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/some-valorant-players-need-to-update-their-pc-bios-to-keep-anti-cheat-software-happy/" target="_blank">Riot Games is making an anti-cheat change that could be rough on older PCs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-19 20:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/848252/netflix-avatar-company-ready-player-me-acquisition" target="_blank">Netflix is acquiring an avatar company as it moves into party games</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-19 18:12</span>
@@ -135,38 +156,20 @@
                 <span class="time">2025-12-19 16:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6941b33591ee19520c4c54ed/master/pass/Backchannel-2026-Predictions-Business-1454862003.jpg" alt="6 Scary Predictions for AI in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/" target="_blank">6 Scary Predictions for AI in 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-19 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/19/krafton-hikes-india-bet-with-new-670m-fund/" target="_blank">Krafton hikes India bet with new $670M fund</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-19 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6865ab12ba5cb2b448f7a6ec/master/pass/Which%20Macbook%20to%20Buy.png" alt="Best MacBooks (2025): Which Apple Laptop Should You Buy?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/which-macbook-should-you-buy/" target="_blank">Best MacBooks (2025): Which Apple Laptop Should You Buy?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-19 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-19th-december-2025-31hd" target="_blank">Security news weekly round-up - 19th December 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-19 20:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +215,6 @@
                 <span class="time">2025-12-19 17:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Panther-Lake-Thermal-Slow" target="_blank">Linux Preps For &quot;Slow Workload Hints&quot; With Intel Panther Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-19 17:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCVZS3G7CF97KC6RNDHYE1SH/hero-image.jpg" alt="How a Simple URL Typo Can Make You a Target for Malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/parked-urls-malware-risk?utm_medium=RSS" target="_blank">How a Simple URL Typo Can Make You a Target for Malware</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-19 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2020/04/wu1cfzhgemcr8rai66hx-1024x576.jpg" alt="Instacart to Pay $60 Million in Refunds for Allegedly Deceiving Customers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,20 +297,20 @@
                 <span class="time">2025-12-19 17:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/blue-origin-spacex-landers-1280x853.jpg" alt="Moon Race Heats Up as New NASA Chief Pits One Billionaire Against Another" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/moon-race-heats-up-as-new-nasa-chief-pits-one-billionaire-against-another-2000701826" target="_blank">Moon Race Heats Up as New NASA Chief Pits One Billionaire Against Another</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-19 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/19/children-in-danger-part-one" target="_blank">Children In Danger, Part One</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-19 19:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1766103707-20251219_edit.png" alt="Saturday Morning Breakfast Cereal - Splat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -331,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 287 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
