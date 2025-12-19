@@ -1,37 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 12:02:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-19 13:11:48 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -166,6 +156,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18804621&w=600" alt="Kubernetes 101: Understanding the Foundation and Getting Started" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/kubernetes-101-understanding-the-foundation-and-ge" target="_blank">Kubernetes 101: Understanding the Foundation and Getting Started</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-19 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/pinterest-ci-build-reduction/en/headerimage/generatedHeaderImage-1765785781292.jpg" alt="Pinterest Engineering Reduces Android CI Build Times by 36% with Runtime-Aware Sharding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/pinterest-ci-build-reduction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinterest Engineering Reduces Android CI Build Times by 36% with Runtime-Aware Sharding</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-19 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The Struggle Paradox" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -178,45 +186,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-Laptops-2025" target="_blank">2025 Brought &quot;Transformative Changes&quot; For FreeBSD On Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-19 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn" target="_blank">GotaTun -- Mullvad&#x27;s WireGuard Implementation in Rust</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-19 11:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Mageia-10-April-2026-Plans" target="_blank">Mageia 10 Planning For April Release While Still Maintaining 32-bit Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-19 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-healthcare-learnings/en/mediumimage/clara-medium-1765443423391.jpeg" alt="Presentation: Lessons Learned From Shipping AI-Powered Healthcare Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-healthcare-learnings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Lessons Learned From Shipping AI-Powered Healthcare Products</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-19 10:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hejhdiss/gxd-rethinking-file-compression-for-modern-computing-51ig" target="_blank">GXD: Rethinking File Compression for Modern Computing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-19 09:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/architects-ai-era/en/headerimage/Where-Architects-Sit-in-the-Era-of-AI-header-image-1765888921801.jpg" alt="Article: Where Architects Sit in the Era of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/architects-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Where Architects Sit in the Era of AI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-19 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/19/last-week-in-aws-re-invent-with-corey-quinn/" target="_blank">Last week in AWS re:Invent with Corey Quinn</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-19 08:40</span>
             </div>
         </div>
 </div>
@@ -238,6 +228,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Viral-Posts-Year-in-Review-1280x853.jpg" alt="Viral Tweets That Were Completely Fake in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/viral-tweets-that-were-completely-fake-in-2025-2000695941" target="_blank">Viral Tweets That Were Completely Fake in 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-19 12:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/AppleAirPodsPro3-1280x853.jpg" alt="Apple Goes to Record Low on AirPods Pro 3 via Amazon, Now Cheaper Than Your Old Pro 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +282,6 @@
                 <span class="time">2025-12-18 22:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/dyson-v11-vacuum-1280x853.jpg" alt="Dyson V11 Cordless Vacuum Is 44% Off and Now Costs Nearly the Same as Older Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dyson-v11-cordless-vacuum-is-44-off-and-now-costs-nearly-the-same-as-older-models-2000654302" target="_blank">Dyson V11 Cordless Vacuum Is 44% Off and Now Costs Nearly the Same as Older Models</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-18 22:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
