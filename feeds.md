@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 17:02:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-19 18:02:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae48/live/e86a66c0-db71-11f0-9817-e5239190d76e.jpg" alt="Family of stabbed girl say &#x27;our hearts are broken&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c33m2j4nnkro?at_medium=RSS&at_campaign=rss" target="_blank">Family of stabbed girl say &#x27;our hearts are broken&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-19 17:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2025/12/19/tragedy-gaza-winter-storm-turns-familys-shelter-into-rubble?traffic_source=rss" target="_blank">Tragedy in Gaza as winter storm turns family’s shelter into rubble</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-19 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/19/nx-s1-5647639/nostalgia-chain-restaurant-readers-response" target="_blank">Cheddar bay biscuits, cheap margs and memories: Readers share their nostalgia for chain restaurants</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-19 14:14</span>
             </div>
         </div>
 </div>
@@ -165,6 +159,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gramli/c-minimal-api-output-caching-2iij" target="_blank">C# Minimal API: Output Caching</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-19 17:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Panther-Lake-Thermal-Slow" target="_blank">Linux Preps For &quot;Slow Workload Hints&quot; With Intel Panther Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-19 17:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS Expands Well-Architected Framework with Responsible AI and Updated ML and Generative AI Lenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/aws-expands-well-architected/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Expands Well-Architected Framework with Responsible AI and Updated ML and Generative AI Lenses</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdbtgmsohelzjybwcrxgh.jpeg" alt="I Built a Feature in 1 Hour, Not a Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -189,33 +210,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/peertube-8-release/" target="_blank">Decentralized YouTube Alternative PeerTube Adds Creator Mode</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2025-12-19 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html" target="_blank">Hacker News front page now, but the titles are honest</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-19 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18806244&w=600" alt="Macroscopic Quantum Tunneling: Unlocking the Quantum Secret Inside an Electrical Circuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/macroscopic-quantum-tunneling-electrical-circuit" target="_blank">Macroscopic Quantum Tunneling: Unlocking the Quantum Secret Inside an Electrical Circuit</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-19 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18804621&w=600" alt="Kubernetes 101: Understanding the Foundation and Getting Started" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/kubernetes-101-understanding-the-foundation-and-ge" target="_blank">Kubernetes 101: Understanding the Foundation and Getting Started</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-19 13:00</span>
             </div>
         </div>
 </div>
@@ -247,6 +241,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="Study of 28 million adults shows COVID vaccine cuts overall death rate by 25%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/19/study-of-28-million-adults-shows-covid-vaccine-cuts-overall-death-rate-by-25.html" target="_blank">Study of 28 million adults shows COVID vaccine cuts overall death rate by 25%</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-19 17:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/blue-origin-spacex-landers-1280x853.jpg" alt="Moon Race Heats Up as New NASA Chief Pits One Billionaire Against Another" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -265,6 +268,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCMACGVGPKKZJDXCDRVXYPF9/hero-image.png" alt="These Bone Conduction Headphones Are My Tech &#x27;Upgrade of the Year&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/my-upgrade-of-the-year-bone-conduction-headphones?utm_medium=RSS" target="_blank">These Bone Conduction Headphones Are My Tech &#x27;Upgrade of the Year&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-19 16:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/ThinkBook-Plus-Gen-6-Rollable-review-07-1280x853.jpg" alt="Leak Reveals Lenovo Gaming Laptop With a Screen That Rolls Sideways Into an Ultrawide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -280,24 +292,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/hacks-every-apple-watch-users-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Apple Watch User Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-19 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Wizard-of-Ai_3F.jpg?fit=1080%2C848&amp;quality=60&amp;ssl=1" alt="Seemingly blatant AI use denied by comic artist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/19/seemingly-blatant-ai-use-denied-by-comic-artist.html" target="_blank">Seemingly blatant AI use denied by comic artist</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-19 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/JBL-Clip-5-1-1280x853.jpg" alt="JBL Breaks Its Pricing Rules on the Clip 5 Speaker, Basically Giving It Away as a Christmas Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jbl-breaks-its-pricing-rules-on-the-clip-5-speaker-basically-giving-it-away-as-a-christmas-deal-2000654316" target="_blank">JBL Breaks Its Pricing Rules on the Clip 5 Speaker, Basically Giving It Away as a Christmas Deal</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-19 14:35</span>
             </div>
         </div>
 </div>
@@ -328,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
