@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 18:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-19 19:02:03 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/19/rubio-says-progress-but-ways-to-go-in-efforts-to-end-russia-ukraine-war?traffic_source=rss" target="_blank">Rubio says ‘progress but ways to go’ in efforts to end Russia-Ukraine war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-19 18:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae48/live/e86a66c0-db71-11f0-9817-e5239190d76e.jpg" alt="Family of stabbed girl say &#x27;our hearts are broken&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c33m2j4nnkro?at_medium=RSS&at_campaign=rss" target="_blank">Family of stabbed girl say &#x27;our hearts are broken&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-19 17:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/society/2025/dec/19/hepatitis-b-vaccine-study-guinea-bissau-rfk" target="_blank">US plan for $1.6m hepatitis B vaccine study in Africa called ‘highly unethical’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-19 16:34</span>
             </div>
         </div>
 <div class="story">
@@ -68,30 +94,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/Claudio-Neves-Valente-5-rt-gmh-251219_1766154791369_hpMain_4x3t_384.jpg" alt="What investigators know about Brown, MIT shooting suspect after dayslong manhunt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8bd/live/208afe00-dcfa-11f0-a8dc-93c15fe68710.jpg" alt="Putin vows no more wars if West treats Russia with respect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/new-details-emerge-brown-mit-shooting-suspect-after/story?id=128552045" target="_blank">What investigators know about Brown, MIT shooting suspect after dayslong manhunt</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-19 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/19/nx-s1-5649459/aca-enhanced-subsidies-obamacare-uninsured-drop-coverage-medicaid-gap" target="_blank">Millions of soon-to-be uninsured Americans are looking for a &#x27;plan B&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-19 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/12/19/tragedy-gaza-winter-storm-turns-familys-shelter-into-rubble?traffic_source=rss" target="_blank">Tragedy in Gaza as winter storm turns family’s shelter into rubble</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-19 14:51</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&at_campaign=rss" target="_blank">Putin vows no more wars if West treats Russia with respect</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-19 16:06</span>
             </div>
         </div>
 </div>
@@ -99,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/848252/netflix-avatar-company-ready-player-me-acquisition" target="_blank">Netflix is acquiring an avatar company as it moves into party games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-19 18:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +161,20 @@
                 <span class="time">2025-12-19 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/842190/2025-smartphones-design-color-fashion" target="_blank">Phones were fashionable again in 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-19 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18808210&w=600" alt="Cracking the Innovation Code: Design Thinking Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cracking-the-innovation-code-design-thinking-expla" target="_blank">Cracking the Innovation Code: Design Thinking Explained</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-19 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,6 +194,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/a-better-way-to-provision-nvidia-bluefield-dpus-at-scale-with-maas" target="_blank">A better way to provision NVIDIA BlueField DPUs at scale with MAAS</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-12-19 17:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS Expands Well-Architected Framework with Responsible AI and Updated ML and Generative AI Lenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -192,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/careerbytecode/i-built-a-feature-in-1-hour-not-a-day-51n" target="_blank">I Built a Feature in 1 Hour, Not a Day</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-19 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-618-lts-amd-epyc" target="_blank">Linux 6.12 To Linux 6.18 LTS Upgrade Offers Worthwhile Benefits For 5th Gen AMD EPYC</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-19 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/peertube-8-release/" target="_blank">Decentralized YouTube Alternative PeerTube Adds Creator Mode</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-19 15:05</span>
             </div>
         </div>
 </div>
@@ -240,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/lego.jpg?fit=1080%2C721&amp;quality=60&amp;ssl=1" alt="This giant 3D printed LEGO Christmas tree is highly specific Guinness World Record holder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/19/this-giant-3d-printed-lego-christmas-tree-is-highly-specific-guinness-world-record-holder.html" target="_blank">This giant 3D printed LEGO Christmas tree is highly specific Guinness World Record holder</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-19 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/image-1-1280x720.jpg" alt="Palmer Luckey’s Retro Gaming Company Is Selling A Game Boy Made Of The Same Metal As Attack Drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/modretro-anduril-chromatic-attack-drone-metal-luckey-2000654868" target="_blank">Palmer Luckey’s Retro Gaming Company Is Selling A Game Boy Made Of The Same Metal As Attack Drones</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-19 18:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="Study of 28 million adults shows COVID vaccine cuts overall death rate by 25%" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +302,6 @@
                 <span class="time">2025-12-19 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/ThinkBook-Plus-Gen-6-Rollable-review-07-1280x853.jpg" alt="Leak Reveals Lenovo Gaming Laptop With a Screen That Rolls Sideways Into an Ultrawide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/leak-reveals-lenovo-gaming-laptop-with-a-screen-that-rolls-sideways-into-an-ultrawide-2000701801" target="_blank">Leak Reveals Lenovo Gaming Laptop With a Screen That Rolls Sideways Into an Ultrawide</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-19 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCVB1J6XZ9553SVRA9SMGY93/hero-image.jpg" alt="10 Hacks Every Apple Watch User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hacks-every-apple-watch-users-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Apple Watch User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-19 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
