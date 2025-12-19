@@ -1,26 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-18 23:01:56 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-12-19 00:05:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 18 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, December 18, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/brown-univ-7-rt-gmh-251215_1765834323876_hpMain_4x3t_384.jpg" alt="Possible suspect identified in Brown mass shooting, arrest warrant issued: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/brown-mass-shooting-mit-professor-murder-linked-sources/story?id=128530691" target="_blank">Possible suspect identified in Brown mass shooting, arrest warrant issued: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-18 23:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d2f/live/8728c7a0-dc4b-11f0-9440-aba3815b871c.jpg" alt="Police issue arrest warrant for suspect in Brown University attack, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss" target="_blank">Police issue arrest warrant for suspect in Brown University attack, sources say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-18 23:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/18/tottenham-vs-liverpool-premier-league-teams-start-time-lineups?traffic_source=rss" target="_blank">Tottenham vs Liverpool: Premier League – teams, start time, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-18 23:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e8c/live/b3fa3080-dc5e-11f0-aae2-2191c0e48a3b.jpg" alt="Violence breaks out in Bangladesh after death of youth protest leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,38 +98,29 @@
                 <span class="time">2025-12-18 19:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/18/tannane-halfway-line-goal-sends-morocco-on-way-to-fifa-arab-cup-2025-title?traffic_source=rss" target="_blank">Tannane goal from own half sets Morocco on way to FIFA Arab Cup 2025 title</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-18 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/epstein-9-ht-gmh-251218._1766081526464_hpMain_4x3t_384.jpg" alt="House Democrats release another batch of Epstein photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/house-democrats-release-batch-epstein-photos/story?id=128519600" target="_blank">House Democrats release another batch of Epstein photos</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-18 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/18/vladimir-putin-calls-european-leaders-piglets-seeking-revenge?traffic_source=rss" target="_blank">Vladimir Putin calls European leaders ‘piglets’ seeking revenge</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-18 17:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/18/apple-becomes-a-debt-collector-with-its-new-developer-agreement/" target="_blank">Apple becomes a debt collector with its new developer agreement</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-18 23:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/847858/tiktok-sale-deal-memo-january-close" target="_blank">The TikTok US sale is finally happening</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-18 23:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/youtube-logo-500x500.jpg" alt="YouTube bans two popular channels that created fake AI movie trailers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,24 +155,6 @@
                 <span class="title"><a href="https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-18/" target="_blank">Reminder: Donate to win swag in our annual Charity Drive sweepstakes</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-12-18 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/18/instacart-to-pay-60m-to-settle-ftc-claims-it-deceived-consumers/" target="_blank">Instacart to pay $60M to settle FTC claims it deceived consumers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-18 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/635839/best-foldable-phone" target="_blank">The best foldable phone you can buy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-18 21:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +245,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/dyson-v11-vacuum-1280x853.jpg" alt="Dyson V11 Cordless Vacuum Is 44% Off and Now Costs Nearly the Same as Older Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dyson-v11-cordless-vacuum-is-44-off-and-now-costs-nearly-the-same-as-older-models-2000654302" target="_blank">Dyson V11 Cordless Vacuum Is 44% Off and Now Costs Nearly the Same as Older Models</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-18 22:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/marathon-1280x757.jpg" alt="Marathon Art Director Leaves Bungie Just Months Before Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -272,15 +289,6 @@
                 <span class="time">2025-12-18 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/11/weed-gummies-e1761060896631.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s weed plan faces revolt from his own party in Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/18/trumps-weed-plan-faces-revolt-from-his-own-party-in-congress.html" target="_blank">Trump&#x27;s weed plan faces revolt from his own party in Congress</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-18 20:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,7 +309,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 23:02 UTC
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
