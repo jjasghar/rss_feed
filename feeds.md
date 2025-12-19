@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 00:05:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-19 01:29:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/brown-univ-6-rt-gmh-251215_1765834324628_hpMain_4x3t_384.jpg" alt="Timeline of the Brown University mass shooting and MIT professor slaying" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/timeline-brown-university-mass-shooting-mit-professor-slaying/story?id=128531611" target="_blank">Timeline of the Brown University mass shooting and MIT professor slaying</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-19 00:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/18/nx-s1-5648844/tiktok-deal-oracle-trump" target="_blank">TikTok signs deal to give U.S. operations to Oracle-led investor group</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-19 00:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766101154385_nn_emc_brown_poi_20251218_1920x1080-ri67l6.jpg" alt="Person of interest identified in Brown University shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/person-of-interest-identified-in-brown-university-shooting-254696005611" target="_blank">Person of interest identified in Brown University shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-18 23:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/brown-univ-7-rt-gmh-251215_1765834323876_hpMain_4x3t_384.jpg" alt="Possible suspect identified in Brown mass shooting, arrest warrant issued: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,33 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/18/tottenham-vs-liverpool-premier-league-teams-start-time-lineups?traffic_source=rss" target="_blank">Tottenham vs Liverpool: Premier League – teams, start time, lineups</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-18 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e8c/live/b3fa3080-dc5e-11f0-aae2-2191c0e48a3b.jpg" alt="Violence breaks out in Bangladesh after death of youth protest leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c623rzzenmyo?at_medium=RSS&at_campaign=rss" target="_blank">Violence breaks out in Bangladesh after death of youth protest leader</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-18 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/brown-univ-7-rt-gmh-251215_1765834323876_hpMain_4x3t_384.jpg" alt="Brown mass shooting and MIT professor murder may be linked: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/brown-mass-shooting-mit-professor-murder-linked-sources/story?id=128530691" target="_blank">Brown mass shooting and MIT professor murder may be linked: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-18 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/18/nx-s1-5620913/luigi-mangione-pre-trial-hearing-wraps-but-judge-wont-rule-for-months" target="_blank">Mangione pre-trial hearing wraps, but judge won&#x27;t rule on evidence for months</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-18 19:26</span>
             </div>
         </div>
 </div>
@@ -163,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj4lfnmxlix7prac0hr1r.png" alt="I put a Game Boy inside ChatGPT (ChatGPT Apps)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bd_perez/i-put-a-game-boy-inside-chatgpt-chatgpt-apps-3a75" target="_blank">I put a Game Boy inside ChatGPT (ChatGPT Apps)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-19 01:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -207,15 +220,6 @@
                 <span class="time">2025-12-18 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/scape/proxy-reverse-proxy-e-load-balancer-spiegati-come-in-un-ristorante-2ih2" target="_blank">Proxy, Reverse Proxy e Load Balancer: Spiegati come in un Ristorante</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-18 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Rai-Rai-Rai-Manga-Viz-Media-io9-template-circle-light-dark-1280x853.jpg" alt="‘Rai Rai Rai’ Is a Pastiche of Manga Greats Rolled Into a Cutesy Kaiju Package" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rai-rai-rai-is-a-pastiche-of-manga-greats-rolled-into-a-cutesy-kaiju-package-2000701470" target="_blank">‘Rai Rai Rai’ Is a Pastiche of Manga Greats Rolled Into a Cutesy Kaiju Package</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-19 00:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/sim-city.jpeg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="Mathematicians say they&#x27;ve proven the universe can&#x27;t be a simulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,21 +285,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/pillbottle-1280x853.jpg" alt="Eli Lilly’s Experimental Pill Could Help You Ditch GLP-1 Obesity Shots, Trial Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/eli-lillys-experimental-pill-could-help-you-ditch-glp-1-obesity-shots-trial-finds-2000701348" target="_blank">Eli Lilly’s Experimental Pill Could Help You Ditch GLP-1 Obesity Shots, Trial Finds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-18 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JFTJGWGXA9B0DX0P0FSN6VZH/hero-image.png" alt="The Best Last-Minute Christmas Gift Ideas for Under $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://lifehacker.com/imagery/articles/01KCSFE49RGAMHG30YJ43SH92X/hero-image.jpg" alt="A Look Inside ChatGPT&#x27;s New &#x27;App Store&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-last-minute-gift-ideas-for-under-thirty-dollars?utm_medium=RSS" target="_blank">The Best Last-Minute Christmas Gift Ideas for Under $30</a></span>
+                <span class="title"><a href="https://lifehacker.com/tech/chatgpt-new-app-store?utm_medium=RSS" target="_blank">A Look Inside ChatGPT&#x27;s New &#x27;App Store&#x27;</a></span>
                 <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-18 20:30</span>
+                <span class="time">2025-12-18 21:00</span>
             </div>
         </div>
 </div>
@@ -308,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
