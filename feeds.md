@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 11:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-19 12:02:29 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/19/putin-takes-aim-at-zelenskyy-in-annual-qa-says-he-wont-negotiate-on-land?traffic_source=rss" target="_blank">Putin takes aim at Zelenskyy in annual Q&amp;A, says he won’t negotiate on land</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-19 11:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2025/12/19/somalias-2026-election-risks-a-legitimacy-crisis?traffic_source=rss" target="_blank">Somalia’s 2026 election risks a legitimacy crisis</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-19 05:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Newhampshire_1766110473816_hpMain_4x3t_384.jpg" alt="Brown University and MIT suspect found dead; identified as former grad student" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/brown-mass-shooting-mit-professor-murder-linked-sources/story?id=128530691" target="_blank">Brown University and MIT suspect found dead; identified as former grad student</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-19 05:01</span>
             </div>
         </div>
 </div>
@@ -170,12 +166,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The Struggle Paradox" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/the-struggle-paradox-5968" target="_blank">The Struggle Paradox</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-19 12:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Mageia-10-April-2026-Plans" target="_blank">Mageia 10 Planning For April Release While Still Maintaining 32-bit Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-19 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ai-healthcare-learnings/en/mediumimage/clara-medium-1765443423391.jpeg" alt="Presentation: Lessons Learned From Shipping AI-Powered Healthcare Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-healthcare-learnings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Lessons Learned From Shipping AI-Powered Healthcare Products</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-19 10:05</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +217,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/12/19/last-week-in-aws-re-invent-with-corey-quinn/" target="_blank">Last week in AWS re:Invent with Corey Quinn</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-12-19 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/microceph-why-its-the-superior-minio-alternative" target="_blank">MicroCeph: why it’s the superior MinIO alternative (and how to use it)</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-12-19 08:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aman_kumar_6d5d23b9b1ed02/aws-secrets-manager-how-to-set-up-secrets-and-fetch-them-in-a-python-lambda-3jp8" target="_blank">AWS Secrets Manager: How to Set Up Secrets and Fetch Them in a Python Lambda</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-19 06:52</span>
             </div>
         </div>
 </div>
@@ -324,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
