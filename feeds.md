@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 04:11:21 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-19 05:03:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 04:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 05:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/Newhampshire_1766110473816_hpMain_4x3t_384.jpg" alt="Brown University and MIT suspect found dead; identified as former grad student" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/brown-mass-shooting-mit-professor-murder-linked-sources/story?id=128530691" target="_blank">Brown University and MIT suspect found dead; identified as former grad student</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-19 05:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/18/nx-s1-5648584/judge-hannah-dugan-guilty-obstruction-ice" target="_blank">A federal jury finds Milwaukee judge guilty of obstructing immigration agents</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-19 04:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/19/australia-pm-albanese-launches-gun-buyback-plan-after-bondi-beach-attack?traffic_source=rss" target="_blank">Australia PM Albanese launches gun ‘buyback’ plan after Bondi Beach attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-19 03:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766120166539_nc_mo_wjar_brown_suspect_identify_251218_1920x1080-powrlv.jpg" alt="Police: Brown Univ. shooting suspect identified, found dead in New Hampshire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/police-chief-brown-univ-shooting-suspect-identified-found-dead-in-new-hampshire-254710853864" target="_blank">Police: Brown Univ. shooting suspect identified, found dead in New Hampshire</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-19 03:08</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -62,42 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Brown University suspect found dead: ABC News Live</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-19 02:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Newhampshire_1766110473816_hpMain_4x3t_384.jpg" alt="Brown University suspect found dead inside storage facility: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/brown-mass-shooting-mit-professor-murder-linked-sources/story?id=128530691" target="_blank">Brown University suspect found dead inside storage facility: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-19 02:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/19/eu-delays-trade-deal-with-south-americas-mercosur-bloc-as-farmers-protest?traffic_source=rss" target="_blank">EU delays trade deal with South America’s Mercosur bloc as farmers protest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-19 01:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/brown-univ-6-rt-gmh-251215_1765834324628_hpMain_4x3t_384.jpg" alt="Timeline of the Brown University mass shooting and MIT professor slaying" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/timeline-brown-university-mass-shooting-mit-professor-slaying/story?id=128531611" target="_blank">Timeline of the Brown University mass shooting and MIT professor slaying</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-19 00:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/18/nx-s1-5648844/tiktok-deal-oracle-trump" target="_blank">TikTok signs deal to give U.S. operations to Oracle-led investor group</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-19 00:26</span>
             </div>
         </div>
 </div>
@@ -167,6 +167,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/cryptsetup-2.8.2" target="_blank">Cryptsetup 2.8.2 Released With BitLocker Clear Key Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-19 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/red-hat-acquires-chatterbox-labs/" target="_blank">Red Hat Buys an AI Safety Company, Promises to Open Source Its Tech</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-19 04:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/paperium/openai-gym-4o3b" target="_blank">OpenAI Gym</a></span>
                 <span class="feed">DEV Community</span>
@@ -200,24 +218,6 @@
                 <span class="time">2025-12-19 01:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-december-19-2025-red-hat" target="_blank">Friday Five — December 19, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-12-19 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Foundation-2025-Report" target="_blank">Linux Foundation Expects To Break $300M In Revenue This Year</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-18 22:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +244,15 @@
                 <span class="title"><a href="https://kotaku.com/apple-goes-to-record-low-on-airpods-pro-3-via-amazon-now-cheaper-than-your-old-pro-2-2000654722" target="_blank">Apple Goes to Record Low on AirPods Pro 3 via Amazon, Now Cheaper Than Your Old Pro 2</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-19 03:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/claudio-neves-valente-split-image.webp?fit=1440%2C810&amp;quality=55&amp;ssl=1" alt="Brown University shooting suspect found dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/18/brown-university-shooting-suspect-found-dead.html" target="_blank">Brown University shooting suspect found dead</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-19 03:23</span>
             </div>
         </div>
 <div class="story">
@@ -282,15 +291,6 @@
                 <span class="time">2025-12-18 22:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/marathon-1280x757.jpg" alt="Marathon Art Director Leaves Bungie Just Months Before Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-art-director-joseph-cross-leaves-bungie-2000654665" target="_blank">Marathon Art Director Leaves Bungie Just Months Before Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-18 21:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 04:11 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 05:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
