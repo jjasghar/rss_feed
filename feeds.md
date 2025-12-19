@@ -1,29 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 16:02:18 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-12-19 17:02:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 21 feeds processed -->
+<!-- Generated 13 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/19/g-s1-102766/grammy-fela-kuti-afrobeats" target="_blank">He&#x27;s the first African musician to get a Grammy Lifetime Achievement Award</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-19 16:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/19/three-killed-in-taipei-stabbing-smoke-bomb-attack?traffic_source=rss" target="_blank">Three killed in Taipei stabbing, smoke bomb attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-19 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Claudio-Neves-Valente-5-rt-gmh-251219_1766154791369_hpMain_4x3t_384.jpg" alt="What investigators know about Brown, MIT shooting suspect after dayslong manhunt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/new-details-emerge-brown-mit-shooting-suspect-after/story?id=128552045" target="_blank">What investigators know about Brown, MIT shooting suspect after dayslong manhunt</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-19 15:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,33 +100,6 @@
                 <span class="time">2025-12-19 14:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/19/putin-takes-aim-at-zelenskyy-in-annual-qa-says-he-wont-negotiate-on-land?traffic_source=rss" target="_blank">Putin takes aim at Zelenskyy in annual Q&amp;A, says he won’t negotiate on land</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-19 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/19/g-s1-102756/trump-musk-electric-car-holiday-movie-news-quiz" target="_blank">It&#x27;s the last news quiz of the year! Will you go out on top?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-19 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/witness/2025/12/19/the-age-of-water-how-radioactivity-is-costing-lives-in-a-mexican-town?traffic_source=rss" target="_blank">The Age of Water: How radioactivity is costing lives in a Mexican town</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-19 09:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -102,9 +109,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/846881/bose-quietcomfort-ultra-headphones-first-gen-deal-sale-2025" target="_blank">Bose’s first-gen QC Ultra headphones just hit their lowest price to date</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/847732/fujifilm-instax-mini-12-camera-8bitdo-pro-3-controller-deal-sale" target="_blank">The Fujifilm Instax Mini 12 instant camera is a great gift at $74</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-19 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6941b33591ee19520c4c54ed/master/pass/Backchannel-2026-Predictions-Business-1454862003.jpg" alt="6 Scary Predictions for AI in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/" target="_blank">6 Scary Predictions for AI in 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-19 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -134,29 +159,29 @@
                 <span class="time">2025-12-19 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/847891/a-starlink-satellite-seems-to-have-exploded" target="_blank">A Starlink satellite seems to have exploded</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-19 08:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/disksat-deploying-101-500x500.webp" alt="These are the flying discs the government wants you to know about" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/heres-why-nasa-and-the-space-force-are-interested-in-pizza-shaped-satellites/" target="_blank">These are the flying discs the government wants you to know about</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-19 03:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdbtgmsohelzjybwcrxgh.jpeg" alt="I Built a Feature in 1 Hour, Not a Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/careerbytecode/i-built-a-feature-in-1-hour-not-a-day-51n" target="_blank">I Built a Feature in 1 Hour, Not a Day</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-19 16:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-618-lts-amd-epyc" target="_blank">Linux 6.12 To Linux 6.18 LTS Upgrade Offers Worthwhile Benefits For 5th Gen AMD EPYC</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-19 15:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,29 +218,20 @@
                 <span class="time">2025-12-19 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/pinterest-ci-build-reduction/en/headerimage/generatedHeaderImage-1765785781292.jpg" alt="Pinterest Engineering Reduces Android CI Build Times by 36% with Runtime-Aware Sharding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/pinterest-ci-build-reduction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinterest Engineering Reduces Android CI Build Times by 36% with Runtime-Aware Sharding</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-19 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The Struggle Paradox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/the-struggle-paradox-5968" target="_blank">The Struggle Paradox</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-19 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/" target="_blank">Dismantling Defenses: Trump 2.0 Cyber Year in Review</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-12-19 15:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -225,20 +241,29 @@
                 <span class="time">2025-12-19 12:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/someone-boarded-a-plane-at-heathrow-without-a-ticket-or-passport.html" target="_blank">Someone Boarded a Plane at Heathrow Without a Ticket or Passport</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-18 16:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/blue-origin-spacex-landers-1280x853.jpg" alt="Moon Race Heats Up as New NASA Chief Pits One Billionaire Against Another" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/moon-race-heats-up-as-new-nasa-chief-pits-one-billionaire-against-another-2000701826" target="_blank">Moon Race Heats Up as New NASA Chief Pits One Billionaire Against Another</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-19 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/image-19.jpg" alt="The New Voice Of Lara Croft Is Dreading A Repeat Of Perfect Dark" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lara-croft-tomb-raider-remake-voice-actor-2000654843" target="_blank">The New Voice Of Lara Croft Is Dreading A Repeat Of Perfect Dark</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-19 16:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/ThinkBook-Plus-Gen-6-Rollable-review-07-1280x853.jpg" alt="Leak Reveals Lenovo Gaming Laptop With a Screen That Rolls Sideways Into an Ultrawide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,29 +300,20 @@
                 <span class="time">2025-12-19 14:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2022/01/efdf269347bda4fe485d448a2f1f33e4-1024x576.jpg" alt="Tech Billionaires Pledge $1 Billion to CERN for Future Circular Collider" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tech-billionaires-pledge-1-billion-to-cern-for-future-circular-collider-2000701596" target="_blank">Tech Billionaires Pledge $1 Billion to CERN for Future Circular Collider</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-19 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Viral-Posts-Year-in-Review-1280x853.jpg" alt="Viral Tweets That Were Completely Fake in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/viral-tweets-that-were-completely-fake-in-2025-2000695941" target="_blank">Viral Tweets That Were Completely Fake in 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-19 12:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1766103707-20251219_edit.png" alt="Saturday Morning Breakfast Cereal - Splat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/splat" target="_blank">Saturday Morning Breakfast Cereal - Splat</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-19 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -307,22 +323,13 @@
                 <span class="time">2025-12-19 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1765838551-20251218_edit.png" alt="Saturday Morning Breakfast Cereal - Where" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/where-3" target="_blank">Saturday Morning Breakfast Cereal - Where</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-18 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
