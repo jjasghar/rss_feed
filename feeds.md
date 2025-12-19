@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 19:02:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-19 20:01:51 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/19/is-russias-war-on-ukraine-coming-to-an-end-putin-wont-say?traffic_source=rss" target="_blank">Is Russia’s war on Ukraine coming to an end? Putin won’t say</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-19 19:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/19/three-killed-in-taipei-stabbing-smoke-bomb-attack?traffic_source=rss" target="_blank">Three killed in Taipei stabbing, smoke bomb attack</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-19 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8bd/live/208afe00-dcfa-11f0-a8dc-93c15fe68710.jpg" alt="Putin vows no more wars if West treats Russia with respect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&at_campaign=rss" target="_blank">Putin vows no more wars if West treats Russia with respect</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-19 16:06</span>
             </div>
         </div>
 </div>
@@ -167,6 +168,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/imaginex/key-breakthroughs-in-ai-engineering-that-every-ai-engineer-must-know-3ibh" target="_blank">Key Breakthroughs in AI Engineering that Every AI Engineer Must Know</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-19 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18801880&w=600" alt="Rethinking QA: From DevOps to Platform Engineering and SRE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/rethinking-qa-from-devops-to-platform-engineering" target="_blank">Rethinking QA: From DevOps to Platform Engineering and SRE</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-19 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/" target="_blank">TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-19 18:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18808210&w=600" alt="Cracking the Innovation Code: Design Thinking Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -191,33 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Panther-Lake-Thermal-Slow" target="_blank">Linux Preps For &quot;Slow Workload Hints&quot; With Intel Panther Lake</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-19 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/a-better-way-to-provision-nvidia-bluefield-dpus-at-scale-with-maas" target="_blank">A better way to provision NVIDIA BlueField DPUs at scale with MAAS</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-12-19 17:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS Expands Well-Architected Framework with Responsible AI and Updated ML and Generative AI Lenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/aws-expands-well-architected/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Expands Well-Architected Framework with Responsible AI and Updated ML and Generative AI Lenses</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-19 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdbtgmsohelzjybwcrxgh.jpeg" alt="I Built a Feature in 1 Hour, Not a Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/careerbytecode/i-built-a-feature-in-1-hour-not-a-day-51n" target="_blank">I Built a Feature in 1 Hour, Not a Day</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-19 16:47</span>
             </div>
         </div>
 </div>
@@ -248,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2020/04/wu1cfzhgemcr8rai66hx-1024x576.jpg" alt="Instacart to Pay $60 Million in Refunds for Allegedly Deceiving Customers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/instacart-to-pay-60-million-in-refunds-for-allegedly-deceiving-customers-2000701915" target="_blank">Instacart to Pay $60 Million in Refunds for Allegedly Deceiving Customers</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-19 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCQ9T9FZG6G7V7B1TXERY5DS/hero-image.png" alt="The Ninja Creami Is My Tech &#x27;Upgrade of the Year&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/food-drink/the-ninja-creami-is-my-2025-tech-upgrade-of-the-year?utm_medium=RSS" target="_blank">The Ninja Creami Is My Tech &#x27;Upgrade of the Year&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-19 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/lego.jpg?fit=1080%2C721&amp;quality=60&amp;ssl=1" alt="This giant 3D printed LEGO Christmas tree is highly specific Guinness World Record holder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,24 +303,6 @@
                 <span class="time">2025-12-19 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/image-19.jpg" alt="The New Voice Of Lara Croft Is Dreading A Repeat Of Perfect Dark" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lara-croft-tomb-raider-remake-voice-actor-2000654843" target="_blank">The New Voice Of Lara Croft Is Dreading A Repeat Of Perfect Dark</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-19 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCMACGVGPKKZJDXCDRVXYPF9/hero-image.png" alt="These Bone Conduction Headphones Are My Tech &#x27;Upgrade of the Year&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/my-upgrade-of-the-year-bone-conduction-headphones?utm_medium=RSS" target="_blank">These Bone Conduction Headphones Are My Tech &#x27;Upgrade of the Year&#x27;</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-19 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
