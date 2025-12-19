@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 10:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-19 11:01:26 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/19/g-s1-102756/trump-musk-electric-car-holiday-movie-news-quiz" target="_blank">It&#x27;s the last news quiz of the year! Will you go out on top?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-19 10:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/witness/2025/12/19/the-age-of-water-how-radioactivity-is-costing-lives-in-a-mexican-town?traffic_source=rss" target="_blank">The Age of Water: How radioactivity is costing lives in a Mexican town</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-19 09:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f699/live/c48d92e0-dcb1-11f0-990f-63d399b5e220.jpg" alt="Government data stolen in hack, minister confirms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj4qpwprw9vo?at_medium=RSS&at_campaign=rss" target="_blank">Government data stolen in hack, minister confirms</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-19 09:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +105,20 @@
                 <span class="time">2025-12-19 05:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/18/nx-s1-5648584/judge-hannah-dugan-guilty-obstruction-ice" target="_blank">A federal jury finds Milwaukee judge guilty of obstructing immigration agents</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-19 04:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c01b/live/b40edb10-dc8c-11f0-b67b-690eb873de1b.jpg" alt="EU agrees €90bn loan for Ukraine but without using Russian assets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss" target="_blank">EU agrees €90bn loan for Ukraine but without using Russian assets</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-19 03:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/19/australia-pm-albanese-launches-gun-buyback-plan-after-bondi-beach-attack?traffic_source=rss" target="_blank">Australia PM Albanese launches gun ‘buyback’ plan after Bondi Beach attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-19 03:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/847891/a-starlink-satellite-seems-to-have-exploded" target="_blank">A Starlink satellite seems to have exploded</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-19 08:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/disksat-deploying-101-500x500.webp" alt="These are the flying discs the government wants you to know about" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +164,20 @@
                 <span class="time">2025-12-19 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/18/apple-becomes-a-debt-collector-with-its-new-developer-agreement/" target="_blank">Apple becomes a debt collector with its new developer agreement</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-18 23:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mageia-10-April-2026-Plans" target="_blank">Mageia 10 Planning For April Release While Still Maintaining 32-bit Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-19 10:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,28 +208,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aman_kumar_6d5d23b9b1ed02/aws-secrets-manager-how-to-set-up-secrets-and-fetch-them-in-a-python-lambda-3jp8" target="_blank">AWS Secrets Manager: How to Set Up Secrets and Fetch Them in a Python Lambda</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-19 06:52</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/microceph-why-its-the-superior-minio-alternative" target="_blank">MicroCeph: why it’s the superior MinIO alternative (and how to use it)</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-12-19 08:26</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.337-Released" target="_blank">Vulkan 1.4.337 Debuts With Long Vector &amp; 3D ASTC Compression Extensions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-19 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8o5zul4qa0j7uphx76q.png" alt="Diagram as Code en 2025 : Le repas de famille des outils" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/onepoint/diagram-as-code-en-2025-le-repas-de-famille-des-outils-1gdp" target="_blank">Diagram as Code en 2025 : Le repas de famille des outils</a></span>
+                <span class="title"><a href="https://dev.to/aman_kumar_6d5d23b9b1ed02/aws-secrets-manager-how-to-set-up-secrets-and-fetch-them-in-a-python-lambda-3jp8" target="_blank">AWS Secrets Manager: How to Set Up Secrets and Fetch Them in a Python Lambda</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2025-12-19 06:00</span>
+                <span class="time">2025-12-19 06:52</span>
             </div>
         </div>
 </div>
@@ -321,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
