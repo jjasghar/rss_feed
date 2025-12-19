@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 01:29:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-19 02:32:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 02:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Newhampshire_1766110473816_hpMain_4x3t_384.jpg" alt="Brown University suspect found dead inside storage facility: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/brown-mass-shooting-mit-professor-murder-linked-sources/story?id=128530691" target="_blank">Brown University suspect found dead inside storage facility: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-19 02:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/19/eu-delays-trade-deal-with-south-americas-mercosur-bloc-as-farmers-protest?traffic_source=rss" target="_blank">EU delays trade deal with South America’s Mercosur bloc as farmers protest</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-19 01:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/brown-univ-6-rt-gmh-251215_1765834324628_hpMain_4x3t_384.jpg" alt="Timeline of the Brown University mass shooting and MIT professor slaying" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4328/live/f8bf9b20-d9b5-11f0-b051-c9966e31459d.jpg" alt="£100 contactless card limit to be lifted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss" target="_blank">£100 contactless card limit to be lifted</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-19 00:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766101154385_nn_emc_brown_poi_20251218_1920x1080-ri67l6.jpg" alt="Person of interest identified in Brown University shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -75,38 +102,29 @@
                 <span class="time">2025-12-18 23:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/brown-univ-7-rt-gmh-251215_1765834323876_hpMain_4x3t_384.jpg" alt="Possible suspect identified in Brown mass shooting, arrest warrant issued: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/brown-mass-shooting-mit-professor-murder-linked-sources/story?id=128530691" target="_blank">Possible suspect identified in Brown mass shooting, arrest warrant issued: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-18 23:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d2f/live/8728c7a0-dc4b-11f0-9440-aba3815b871c.jpg" alt="Police issue arrest warrant for suspect in Brown University attack, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss" target="_blank">Police issue arrest warrant for suspect in Brown University attack, sources say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-18 23:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/18/tottenham-vs-liverpool-premier-league-teams-start-time-lineups?traffic_source=rss" target="_blank">Tottenham vs Liverpool: Premier League – teams, start time, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-18 23:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23651507/tiktok-ban-us-news" target="_blank">TikTok ban: all the news on the app’s shutdown and return in the US</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-19 01:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/hadrian1-500x500.jpg" alt="Parasites plagued Roman soldiers at Hadrian’s Wall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/study-roman-soldiers-battled-parasites-at-hadrians-wall/" target="_blank">Parasites plagued Roman soldiers at Hadrian’s Wall</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-19 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +161,29 @@
                 <span class="time">2025-12-18 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/694472210c8858677eba18b3/master/pass/b_HOUSE_OVERSIGHT_037365_Clean%20-%20Copy.jpg" alt="Terrifying New Photos Emerge From the Jeffrey Epstein Estate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/house-oversight-jeffrey-epstein-photos-december-18-2025/" target="_blank">Terrifying New Photos Emerge From the Jeffrey Epstein Estate</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-18 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/charitydrive2025-500x500.jpg" alt="Reminder: Donate to win swag in our annual Charity Drive sweepstakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-18/" target="_blank">Reminder: Donate to win swag in our annual Charity Drive sweepstakes</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-18 21:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cathylai/how-guillermo-rauch-the-creator-of-nextjs-evolves-in-the-age-of-ai-4245" target="_blank">How Guillermo Rauch (the Creator of Next.JS) Evolves in the Age of AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-19 02:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OpenZFS-2.4-Released" target="_blank">OpenZFS 2.4 Released With Faster Encryption Performance, Many Other Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-19 01:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj4lfnmxlix7prac0hr1r.png" alt="I put a Game Boy inside ChatGPT (ChatGPT Apps)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/nyyakko/a-historia-de-como-eu-ajudei-a-aprimorar-uma-das-linguagens-de-programacao-mais-famosas-do-mundo-3bb" target="_blank">A História de como eu ajudei a aprimorar* uma das linguagens de programação mais famosas do mundo: a linguagem Go.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-18 20:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18804646&w=600" alt="Looking at the Evolving Landscape of ITSM Through the Lens of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/evolving-landscape-of-itsm-through-ai" target="_blank">Looking at the Evolving Landscape of ITSM Through the Lens of AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-18 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18804572&w=600" alt="Building AI Agents Using Docker cagent and GitHub Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-ai-agents-using-docker-cagent-and-github" target="_blank">Building AI Agents Using Docker cagent and GitHub Models</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-18 19:00</span>
             </div>
         </div>
 </div>
@@ -312,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 02:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
