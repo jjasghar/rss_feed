@@ -1,24 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 06:02:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-19 07:02:57 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 16 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, December 19, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -34,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/dec/19/colombian-mercenaries-sudan-rsf-us-sanctions-recruited-uk-registered-firms-investigation" target="_blank">Colombian mercenaries in Sudan ‘recruited by UK-registered firms’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-19 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,15 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/police-chief-brown-univ-shooting-suspect-identified-found-dead-in-new-hampshire-254710853864" target="_blank">Police: Brown Univ. shooting suspect identified, found dead in New Hampshire</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-19 03:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/18/nx-s1-5646498/brown-university-shooting-suspect-found-dead" target="_blank">Suspect in Brown University shooting found dead in New Hampshire</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-19 02:55</span>
             </div>
         </div>
 </div>
@@ -153,12 +166,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aman_kumar_6d5d23b9b1ed02/aws-secrets-manager-how-to-set-up-secrets-and-fetch-them-in-a-python-lambda-3jp8" target="_blank">AWS Secrets Manager: How to Set Up Secrets and Fetch Them in a Python Lambda</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-19 06:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.337-Released" target="_blank">Vulkan 1.4.337 Debuts With Long Vector &amp; 3D ASTC Compression Extensions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-19 06:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8o5zul4qa0j7uphx76q.png" alt="Diagram as Code en 2025 : Le repas de famille des outils" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/onepoint/diagram-as-code-en-2025-le-repas-de-famille-des-outils-1gdp" target="_blank">Diagram as Code en 2025 : Le repas de famille des outils</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-19 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ads.apple.com/app-store/help/ad-placements/0082-search-results" target="_blank">2026 Apple introducing more ads to increase opportunity in search results</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-19 05:38</span>
             </div>
         </div>
 <div class="story">
@@ -177,33 +217,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/red-hat-acquires-chatterbox-labs/" target="_blank">Red Hat Buys an AI Safety Company, Promises to Open Source Its Tech</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2025-12-19 04:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paperium/openai-gym-4o3b" target="_blank">OpenAI Gym</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-19 03:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cathylai/how-guillermo-rauch-the-creator-of-nextjs-evolves-in-the-age-of-ai-4245" target="_blank">How Guillermo Rauch (the Creator of Next.JS) Evolves in the Age of AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-19 02:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenZFS-2.4-Released" target="_blank">OpenZFS 2.4 Released With Faster Encryption Performance, Many Other Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-19 01:02</span>
             </div>
         </div>
 </div>
@@ -298,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
