@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 12:02:19 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-20 13:08:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/20/nx-s1-5643566/opinion-remembering-the-lives-lost-to-a-senseless-act-of-terror" target="_blank">Opinion: Remembering the lives lost to a senseless act of terror</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/20/ex-pakistan-pm-imran-khan-wife-sentenced-to-17-years-in-corruption-case?traffic_source=rss" target="_blank">Ex-Pakistan PM Imran Khan, wife sentenced to 17 years in corruption case</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-20 12:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,29 +97,38 @@
                 <span class="time">2025-12-20 07:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/20/conviction-overturned-in-murder-of-rap-star-jam-master-jay-run-dmc-member?traffic_source=rss" target="_blank">Conviction overturned in murder of rap star Jam Master Jay, Run-DMC member</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-20 06:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/20/us-sanctions-more-relatives-associates-of-venezuelan-president-maduro?traffic_source=rss" target="_blank">US sanctions more relatives, associates of Venezuelan President Maduro</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-20 04:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687b5256d4a901096a09c8b8/master/pass/Best%20Switch%202%20Controllers_.png" alt="Best Nintendo Switch 2 Controllers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-nintendo-switch-2-controllers/" target="_blank">Best Nintendo Switch 2 Controllers (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2192243260-500x500.jpg" alt="How Europe’s new carbon tax on imported goods will change global trade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/how-europes-new-carbon-tax-on-imported-goods-will-change-global-trade/" target="_blank">How Europe’s new carbon tax on imported goods will change global trade</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-20 12:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/846783/rivian-ai-autonomy-day-self-driving-lidar-chip-tesla" target="_blank">Rivian’s AI pivot is about more than chasing Tesla</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-20 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,38 +156,20 @@
                 <span class="time">2025-12-20 02:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments" target="_blank">Want to link from Google’s app store to your app? That’ll be $2–4 per install</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-20 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/" target="_blank">Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-20 00:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6945b7ad8ea5fc9c09de0005/master/pass/security_Epstein_getty.jpg" alt="Here’s What’s in the DOJ’s Epstein File Release—and What’s Missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/epstein-files-whats-in-doj-release-december-19/" target="_blank">Here’s What’s in the DOJ’s Epstein File Release—and What’s Missing</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-20 00:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu" target="_blank">Gemini AI Yielding Sloppy Code For Ubuntu Development With New Helper Script</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-20 12:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4hujgwp2synzrxnceyju.jpg" alt="Marshall Islands Launches the World’s First Cryptocurrency-Based Universal Basic Income Program" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -215,15 +215,6 @@
                 <span class="time">2025-12-20 10:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pixel_mosaic/ui-ux-for-developers-a-practical-guide-2cfl" target="_blank">UI UX for Developers: A Practical Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-20 09:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,20 +238,29 @@
                 <span class="time">2025-12-19 15:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/ai-advertising-company-hacked.html" target="_blank">AI Advertising Company Hacked</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-19 12:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/playstation-player-1280x853.jpg" alt="Sony Crashes PlayStation Portal Pricing in a Sudden Clearance Push, Making Remote PS5 Gaming Cheaper Overnight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sony-crashes-playstation-portal-pricing-in-a-sudden-clearance-push-making-remote-ps5-gaming-cheaper-overnight-2000654542" target="_blank">Sony Crashes PlayStation Portal Pricing in a Sudden Clearance Push, Making Remote PS5 Gaming Cheaper Overnight</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-20 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Examples-of-AI-convergences-CREDIT-Hintze-et-al.-Patterns-1280x853.jpg" alt="AI Image Generators Default to the Same 12 Photo Styles, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012" target="_blank">AI Image Generators Default to the Same 12 Photo Styles, Study Finds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-20 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/AT2025ulz-panel-top-1280x853.jpg" alt="Double Cosmic Explosion Gives Birth to Unprecedented ‘Superkilonova’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,24 +297,6 @@
                 <span class="time">2025-12-19 22:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/The-PS1-Yule-Log.jpg?fit=1080%2C614&amp;quality=60&amp;ssl=1" alt="PlayStation 1 yule log" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/19/playstation-1-yule-log.html" target="_blank">PlayStation 1 yule log</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-19 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/not-action-park.jpg?fit=1200%2C670&amp;quality=60&amp;ssl=1" alt="The New Jersey amusement park so dangerous it bought the town extra ambulances" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/19/the-new-jersey-amusement-park-so-dangerous-it-bought-the-town-extra-ambulances.html" target="_blank">The New Jersey amusement park so dangerous it bought the town extra ambulances</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-19 21:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -343,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 281 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
