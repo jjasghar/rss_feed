@@ -1,42 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 20:01:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-20 21:01:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/20/nx-s1-5650788/pope-leo-summons-cardinals-meeting-consistory" target="_blank">Pope Leo summons cardinals for a key assembly to help him govern Catholic Church</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-20 20:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf30/live/a96b0fa0-ddcf-11f0-b67b-690eb873de1b.jpg" alt="Survivors and lawmakers voice frustration over partial Epstein file release" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,20 +103,20 @@
                 <span class="time">2025-12-20 13:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/20/nx-s1-5643566/opinion-remembering-the-lives-lost-to-a-senseless-act-of-terror" target="_blank">Opinion: Remembering the lives lost to a senseless act of terror</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-20 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/809421/holiday-gift-guide-2025" target="_blank">The Verge’s 2025 holiday gift guide</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-20 20:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,20 +162,38 @@
                 <span class="time">2025-12-20 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2192243260-500x500.jpg" alt="How Europe’s new carbon tax on imported goods will change global trade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/how-europes-new-carbon-tax-on-imported-goods-will-change-global-trade/" target="_blank">How Europe’s new carbon tax on imported goods will change global trade</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-20 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-Multi-Queue-Linux-7.0" target="_blank">Intel Readies Multi-Queue Support For Linux 7.0 As New Feature For Crescent Island</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-20 20:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj4qzgvxxgvo" target="_blank">&#x27;LeBron James of spreadsheets&#x27; wins world Microsoft Excel title</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-20 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/Linux-Mint-22.3-beta.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.3 Beta Released, This is What’s New" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/linux-mint-22-3-beta-released" target="_blank">Linux Mint 22.3 Beta Released, This is What’s New</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-20 19:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2481371%2F36f3dd67-2f56-4055-acbc-471f8fd1f97b.png" alt="Buenísimo!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,33 +221,6 @@
                 <span class="time">2025-12-20 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Introducing amqp-contract - Type-Safe RabbitMQ/AMQP Messaging for TypeScript" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/btravers/introducing-amqp-contract-type-safe-rabbitmqamqp-messaging-for-typescript-48bh" target="_blank">Introducing amqp-contract - Type-Safe RabbitMQ/AMQP Messaging for TypeScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-20 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/metrax-jax-evaluation-metrics/en/headerimage/metrax-jax-eval-1766239291811.jpeg" alt="Google Metrax Brings Predefined Model Evaluation Metrics to JAX" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/metrax-jax-evaluation-metrics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Metrax Brings Predefined Model Evaluation Metrics to JAX</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-20 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jp_fontenele4321/the-expand-and-contract-pattern-for-zero-downtime-migrations-445m" target="_blank">The Expand and Contract Pattern for Zero-Downtime Migrations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-20 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/fantastic-four-ai-trailer-1280x853.jpg" alt="Rest in Hell, Fake AI-Made YouTube Trailers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rest-in-hell-fake-ai-made-youtube-trailers-2000701825" target="_blank">Rest in Hell, Fake AI-Made YouTube Trailers</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-20 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/leaf.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="An 86-year-old man fined $334 for spitting out a leaf that blew into his mouth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +294,6 @@
                 <span class="time">2025-12-20 14:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/playstation-player-1280x853.jpg" alt="Sony Crashes PlayStation Portal Pricing in a Sudden Clearance Push, Making Remote PS5 Gaming Cheaper Overnight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sony-crashes-playstation-portal-pricing-in-a-sudden-clearance-push-making-remote-ps5-gaming-cheaper-overnight-2000654542" target="_blank">Sony Crashes PlayStation Portal Pricing in a Sudden Clearance Push, Making Remote PS5 Gaming Cheaper Overnight</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-20 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
