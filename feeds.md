@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 10:01:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-20 11:01:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/848449/nex-playground-review-nintendo-wii-microsoft-kinect-motion-tracking-camera" target="_blank">The sold-out Nex Playground made my kids laugh and cry</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-20 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="Loop Earplugs Discount Codes and Deals: Save on Ear Buds and Gift Sets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -146,20 +160,29 @@
                 <span class="time">2025-12-20 00:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6944495422fe5efb9b63c9bd/master/pass/Uncanny-Valley-2025-Trend-Roundup-Business-2195986713.jpg" alt="WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-tech-politics-trends-2025/" target="_blank">WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-19 22:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-LoongArch64-Official" target="_blank">LoongArch Promoted To Being An Official Architecture For Debian 14</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-20 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3s1ewnx3ccbzwtpt5xjo.png" alt="Browser Extensions - Native Messaging" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/programador51/browser-extensions-native-messaging-21am" target="_blank">Browser Extensions - Native Messaging</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-20 10:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/zhang_lei_d5d577e6d0b5421/cinematic-ansi-banners-for-rust-1ceo" target="_blank">Cinematic ANSI Banners for Rust</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-20 06:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.charlesproxy.com/" target="_blank">Charles Proxy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-20 06:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pwn/my-writeup-0day-in-zsh-rce-2245" target="_blank">My Writeup (0day in Zsh (RCE))</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-20 04:49</span>
             </div>
         </div>
 </div>
@@ -251,6 +256,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/AT2025ulz-panel-top-1280x853.jpg" alt="Double Cosmic Explosion Gives Birth to Unprecedented ‘Superkilonova’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/double-cosmic-explosion-gives-birth-to-unprecedented-superkilonova-2000700820" target="_blank">Double Cosmic Explosion Gives Birth to Unprecedented ‘Superkilonova’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-20 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KCW499Y2PHAV93MM8A9HFXJT/hero-image.png" alt="This Tool Can Tell You If Your Home Network Has Been Compromised" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,15 +310,6 @@
                 <span class="time">2025-12-19 21:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2022/01/c579db483ac4c3aa2096229f2b84009c-1280x719.jpg" alt="Today’s Wordle Made The Internet Crash Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/wordle-word-of-the-day-today-december-19-myrrh-2000654888" target="_blank">Today’s Wordle Made The Internet Crash Out</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-19 21:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
