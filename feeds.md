@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 00:04:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-20 01:29:12 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/20/trump-government-suspends-visa-lottery-linked-to-brown-university-suspect?traffic_source=rss" target="_blank">Trump government suspends visa lottery linked to Brown University suspect</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-20 00:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/epstein-4-ht-gmh-251219_1766184094425_hpMain_4x3t_384.jpg" alt="Epstein files released include complaint made to FBI years before 1st investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766184759166_nbc_spec_epstein_files_release_251219_1920x1080-ijae3u.jpg" alt="Epstein files include redacted photos featuring prominent political and cultural figures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/epstein-files-include-redacted-photos-featuring-prominent-political-and-cultural-figures-254770757635" target="_blank">Epstein files include redacted photos featuring prominent political and cultural figures</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-19 22:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -82,29 +100,29 @@
                 <span class="time">2025-12-19 22:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/19/trump-kennedy-center-trumps-name-added-to-venues-facade?traffic_source=rss" target="_blank">‘Trump-Kennedy Center’: Trump’s name added to venue’s facade</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-19 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/19/nx-s1-5648599/kennedy-center-president-history" target="_blank">It was called the Kennedy Center, but 3 different presidents shaped it</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-19 21:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments" target="_blank">Want to link from Google’s app store to your app? That’ll be $2–4 per install</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-20 01:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/" target="_blank">Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-20 00:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6944495422fe5efb9b63c9bd/master/pass/Uncanny-Valley-2025-Trend-Roundup-Business-2195986713.jpg" alt="WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +159,20 @@
                 <span class="time">2025-12-19 22:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/19/where-are-investors-placing-their-bets-next-year-ai-ai-ai/" target="_blank">Where are investors placing their bets next year? AI, AI, AI.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-19 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/843079/best-stocking-stuffers-christmas-ideas-2025" target="_blank">We found 80 stocking stuffers under $100 that are actually useful</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-19 21:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg19h54ubjvvych3stozj.png" alt="AI without the hype: using LLMs to reduce noise, not replace thinking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/quentin23soleil/ai-without-the-hype-using-llms-to-reduce-noise-not-replace-thinking-2pko" target="_blank">AI without the hype: using LLMs to reduce noise, not replace thinking</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-20 01:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2tm3k6xa0lf7uril3jpz.png" alt="The XRPL Lending Protocol (&amp; Why It Matters)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +218,6 @@
                 <span class="time">2025-12-19 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-19th-december-2025-31hd" target="_blank">Security news weekly round-up - 19th December 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-19 20:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -255,6 +255,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCW499Y2PHAV93MM8A9HFXJT/hero-image.png" alt="This Tool Can Tell You If Your Home Network Has Been Compromised" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/tool-checks-for-compromised-home-internet?utm_medium=RSS" target="_blank">This Tool Can Tell You If Your Home Network Has Been Compromised</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-20 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/The-PS1-Yule-Log.jpg?fit=1080%2C614&amp;quality=60&amp;ssl=1" alt="PlayStation 1 yule log" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,15 +309,6 @@
                 <span class="time">2025-12-19 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCVZS3G7CF97KC6RNDHYE1SH/hero-image.jpg" alt="How a Simple URL Typo Can Make You a Target for Malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/parked-urls-malware-risk?utm_medium=RSS" target="_blank">How a Simple URL Typo Can Make You a Target for Malware</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-19 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -346,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
