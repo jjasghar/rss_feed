@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-19 23:01:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-20 00:04:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, December 19, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/epstein-4-ht-gmh-251219_1766184094425_hpMain_4x3t_384.jpg" alt="Epstein files released include complaint made to FBI years before 1st investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/after-years-speculation-doj-faces-friday-deadline-release/story?id=128461125" target="_blank">Epstein files released include complaint made to FBI years before 1st investigation</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-19 23:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/19/al-jazeera-investigation-exposes-secret-firm-smuggling-people-out-of-gaza?traffic_source=rss" target="_blank">Al-Majd Europe: The secret shell company smuggling Palestinians out of Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-19 23:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/19/nx-s1-5649920/trump-drug-prices" target="_blank">White House announces new round of drug-price deals</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-19 22:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +100,20 @@
                 <span class="time">2025-12-19 21:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/19/is-russias-war-on-ukraine-coming-to-an-end-putin-wont-say?traffic_source=rss" target="_blank">Is Russia’s war on Ukraine coming to an end? Putin won’t say</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-19 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/19/rubio-says-progress-but-ways-to-go-in-efforts-to-end-russia-ukraine-war?traffic_source=rss" target="_blank">Rubio says ‘progress but ways to go’ in efforts to end Russia-Ukraine war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-19 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-qendil-russian-tanker_7114978.jpg?20251219125225" alt="Ukraine &#x27;hits Russian tanker in Mediterranean Sea for first time&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ukraine-hits-russian-tanker-in-mediterranean-sea-for-first-time-13485687" target="_blank">Ukraine &#x27;hits Russian tanker in Mediterranean Sea for first time&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-19 18:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6944495422fe5efb9b63c9bd/master/pass/Uncanny-Valley-2025-Trend-Roundup-Business-2195986713.jpg" alt="WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-tech-politics-trends-2025/" target="_blank">WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-19 22:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +159,20 @@
                 <span class="time">2025-12-19 21:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69419fef8b1f01a7314d0aaf/master/pass/Uncanny-Valley-Round-Table-12-18-1847504892.jpg" alt="Introducing a New Chapter for ‘Uncanny Valley’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-new-chapter-for-uncanny-valley/" target="_blank">Introducing a New Chapter for ‘Uncanny Valley’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-19 21:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2tm3k6xa0lf7uril3jpz.png" alt="The XRPL Lending Protocol (&amp; Why It Matters)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ximinez/the-xrpl-lending-protocol-why-it-matters-cd" target="_blank">The XRPL Lending Protocol (&amp; Why It Matters)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-19 23:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,20 +218,20 @@
                 <span class="time">2025-12-19 20:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803649&w=600" alt="Cloud Migration of Microservices: Strategy, Risks, and Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cloud-migration-of-microservices" target="_blank">Cloud Migration of Microservices: Strategy, Risks, and Best Practices</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-19 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html" target="_blank">Friday Squid Blogging: Petting a Squid</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-19 22:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -335,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
