@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 03:23:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-12-20 04:04:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 03:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 04:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -62,9 +58,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/20/villareal-vs-barcelona-la-liga-teams-start-lineups-kickoff?traffic_source=rss" target="_blank">Villareal vs Barcelona: La Liga – teams, start, lineups, kickoff</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-20 01:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/20/trump-government-suspends-visa-lottery-linked-to-brown-university-suspect?traffic_source=rss" target="_blank">Trump government suspends visa lottery linked to Brown University suspect</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-20 00:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766189372390_nn_rno_epstein_files_251219_1920x1080-eziqho.jpg" alt="Justice Department releases Jeffrey Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/justice-department-releases-jeffrey-epstein-files-254775365597" target="_blank">Justice Department releases Jeffrey Epstein files</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-20 00:09</span>
             </div>
         </div>
 <div class="story">
@@ -83,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/19/al-jazeera-investigation-exposes-secret-firm-smuggling-people-out-of-gaza?traffic_source=rss" target="_blank">Al-Majd Europe: The secret shell company smuggling Palestinians out of Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-19 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/19/nx-s1-5649920/trump-drug-prices" target="_blank">White House announces new round of drug-price deals</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-19 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766184759166_nbc_spec_epstein_files_release_251219_1920x1080-ijae3u.jpg" alt="Epstein files include redacted photos featuring prominent political and cultural figures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/epstein-files-include-redacted-photos-featuring-prominent-political-and-cultural-figures-254770757635" target="_blank">Epstein files include redacted photos featuring prominent political and cultural figures</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-19 22:52</span>
             </div>
         </div>
 </div>
@@ -136,6 +132,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6945b7ad8ea5fc9c09de0005/master/pass/security_Epstein_getty.jpg" alt="Here’s What’s in the DOJ’s Epstein File Release—and What’s Missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/epstein-files-whats-in-doj-release-december-19/" target="_blank">Here’s What’s in the DOJ’s Epstein File Release—and What’s Missing</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-20 00:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6944495422fe5efb9b63c9bd/master/pass/Uncanny-Valley-2025-Trend-Roundup-Business-2195986713.jpg" alt="WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -151,15 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games" target="_blank">Did a publisher’s slip-up reveal smaller Switch 2 cartridges?</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-19 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/google-search-yoink-500x500.jpg" alt="Google lobs lawsuit at search result scraping firm SerpApi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2025/12/google-lobs-lawsuit-at-search-result-scraping-firm-serpapi/" target="_blank">Google lobs lawsuit at search result scraping firm SerpApi</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-19 22:21</span>
             </div>
         </div>
 </div>
@@ -268,6 +264,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/Elise_Stefanik_115th_official_photo-e1766185052711.jpg?fit=768%2C532&amp;quality=60&amp;ssl=1" alt="Elise Stefanik flames out, fades away" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/19/elise-stefanik-flames-out-fades-away.html" target="_blank">Elise Stefanik flames out, fades away</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-19 22:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/The-PS1-Yule-Log.jpg?fit=1080%2C614&amp;quality=60&amp;ssl=1" alt="PlayStation 1 yule log" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -301,15 +306,6 @@
                 <span class="title"><a href="https://gizmodo.com/these-laser-beams-could-power-military-drones-5000-feet-in-the-air-2000702020" target="_blank">These Laser Beams Could Power Military Drones 5,000 Feet in the Air</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-19 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JT6Q927BFS3C3YNP7Q3KBFE2/hero-image.jpg" alt="I Tracked My Health With Whoop, and This Is What I Liked (and What I Ignored)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/what-its-like-to-track-your-health-with-whoop?utm_medium=RSS" target="_blank">I Tracked My Health With Whoop, and This Is What I Liked (and What I Ignored)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-19 21:00</span>
             </div>
         </div>
 </div>
@@ -349,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 03:23 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 04:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
