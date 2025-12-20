@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 02:30:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-20 03:23:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 03:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/epstein-4-ht-gmh-251219_1766184094425_hpMain_4x3t_384.jpg" alt="Epstein files so far don&#x27;t support allegations of previously unknown accomplices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/after-years-speculation-doj-faces-friday-deadline-release/story?id=128461125" target="_blank">Epstein files so far don&#x27;t support allegations of previously unknown accomplices</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-20 03:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +103,20 @@
                 <span class="time">2025-12-19 22:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/19/musk-wins-us-appeal-to-restore-2018-tesla-pay-package?traffic_source=rss" target="_blank">Musk wins US appeal to restore 2018 Tesla pay package</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-19 22:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/" target="_blank">Sequoia partner spreads debunked Brown shooting theory, testing new leadership</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-20 02:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +162,6 @@
                 <span class="time">2025-12-19 22:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/19/former-patagonia-ceo-rose-marcario-resigns-from-rivians-board/" target="_blank">Former Patagonia CEO Rose Marcario resigns from Rivian’s board</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-19 22:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +174,15 @@
                 <span class="title"><a href="https://dev.to/philipjohnbasile/a-quick-human-interruption-to-your-usual-dev-content-2mna" target="_blank">A quick human interruption to your usual dev content</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-20 02:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/tiger-data-pg-textsearch/" target="_blank">Watch Out Elasticsearch! Tiger Data&amp;#x27;s PostgreSQL BM25 Search Extension Goes Open Source</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-20 01:46</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-rc3-Released" target="_blank">Wine 11.0-rc3 Released With Another Week Of Bug Fixing</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-19 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://webkit.org/blog/17660/introducing-css-grid-lanes/" target="_blank">CSS Grid Lanes</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-19 22:13</span>
             </div>
         </div>
 </div>
@@ -344,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 03:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
