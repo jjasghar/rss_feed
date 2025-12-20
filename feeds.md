@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 18:02:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-20 19:01:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/662e/live/72d43fd0-ddbf-11f0-aae2-2191c0e48a3b.jpg" alt="William takes George to homeless charity he visited as a child with Diana" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm20pn2llzyo?at_medium=RSS&at_campaign=rss" target="_blank">William takes George to homeless charity he visited as a child with Diana</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-20 16:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/20/ex-pakistan-pm-imran-khan-wife-sentenced-to-17-years-in-corruption-case?traffic_source=rss" target="_blank">Ex-Pakistan PM Imran Khan, wife sentenced to 17 years in corruption case</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-20 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/20/iran-executes-man-accused-of-spying-for-israels-mossad-state-media?traffic_source=rss" target="_blank">Iran executes man accused of spying for Israel’s Mossad: State media</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-20 09:20</span>
             </div>
         </div>
 </div>
@@ -179,6 +185,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html" target="_blank">Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-20 16:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Introducing amqp-contract - Type-Safe RabbitMQ/AMQP Messaging for TypeScript" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +220,6 @@
                 <span class="time">2025-12-20 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/ertugrulcetin/immersa" target="_blank">Immersa: Open-source Web-based 3D Presentation Tool</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-20 13:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/nebula-awards-logo-1280x853.jpg" alt="Nebula Awards Yelled at Until They Completely Ban Use of AI by Nominees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nebula-awards-yelled-at-until-they-completely-ban-use-of-ai-by-nominees-2000702137" target="_blank">Nebula Awards Yelled at Until They Completely Ban Use of AI by Nominees</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-20 17:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/cadwalader.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Wall Street&#x27;s oldest law firm surrendered to Trump and paid the price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,36 +293,13 @@
                 <span class="time">2025-12-20 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ram.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="RAM prices go wild as AI companies buy every chip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/20/ram-prices-go-wild-as-ai-companies-buy-every-chip.html" target="_blank">RAM prices go wild as AI companies buy every chip</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-20 12:10</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/19/children-in-danger-part-one" target="_blank">Children In Danger, Part One</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-19 19:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
