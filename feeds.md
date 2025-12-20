@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 19:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-20 20:01:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf30/live/a96b0fa0-ddcf-11f0-b67b-690eb873de1b.jpg" alt="Survivors and lawmakers voice frustration over partial Epstein file release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&at_campaign=rss" target="_blank">Survivors and lawmakers voice frustration over partial Epstein file release</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-20 19:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/662e/live/72d43fd0-ddbf-11f0-aae2-2191c0e48a3b.jpg" alt="William takes George to homeless charity he visited as a child with Diana" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +106,29 @@
                 <span class="time">2025-12-20 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/20/ex-pakistan-pm-imran-khan-wife-sentenced-to-17-years-in-corruption-case?traffic_source=rss" target="_blank">Ex-Pakistan PM Imran Khan, wife sentenced to 17 years in corruption case</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-20 12:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/848353/sony-wh-1000xm5-headphones-amazon-kindle-deal-sale" target="_blank">Sony’s XM5 headphones and the latest Kindle round out this week’s best deals</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-20 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/" target="_blank">New York Governor Kathy Hochul signs RAISE Act to regulate AI safety</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-20 18:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +163,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/how-europes-new-carbon-tax-on-imported-goods-will-change-global-trade/" target="_blank">How Europe’s new carbon tax on imported goods will change global trade</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-12-20 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/846783/rivian-ai-autonomy-day-self-driving-lidar-chip-tesla" target="_blank">Rivian’s AI pivot is about more than chasing Tesla</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-20 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/848449/nex-playground-review-nintendo-wii-microsoft-kinect-motion-tracking-camera" target="_blank">The sold-out Nex Playground made my kids laugh and cry</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-20 11:00</span>
             </div>
         </div>
 </div>
@@ -240,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/leaf.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="An 86-year-old man fined $334 for spitting out a leaf that blew into his mouth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/20/an-86-year-old-man-fined-334-for-spitting-out-a-leaf-that-blew-into-his-mouth.html" target="_blank">An 86-year-old man fined $334 for spitting out a leaf that blew into his mouth</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-20 17:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/nebula-awards-logo-1280x853.jpg" alt="Nebula Awards Yelled at Until They Completely Ban Use of AI by Nominees" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -284,13 +297,18 @@
                 <span class="time">2025-12-20 13:05</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Examples-of-AI-convergences-CREDIT-Hintze-et-al.-Patterns-1280x853.jpg" alt="AI Image Generators Default to the Same 12 Photo Styles, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1766103726-20251220_Edit.png" alt="Saturday Morning Breakfast Cereal - Hop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012" target="_blank">AI Image Generators Default to the Same 12 Photo Styles, Study Finds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-20 13:00</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/hop" target="_blank">Saturday Morning Breakfast Cereal - Hop</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-20 16:20</span>
             </div>
         </div>
 </div>
@@ -298,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
