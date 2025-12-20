@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 11:01:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-20 12:02:19 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +71,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/05/1920x1080/skynews-jeffrey-epstein-peter-mandelson_6929044.jpg?20250527185401" alt="Deadline-day release of Epstein files has White House media management written all over it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/deadline-day-release-of-epstein-files-has-white-house-media-management-written-all-over-it-13485849" target="_blank">Deadline-day release of Epstein files has White House media management written all over it</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-20 08:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -90,15 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/20/us-sanctions-more-relatives-associates-of-venezuelan-president-maduro?traffic_source=rss" target="_blank">US sanctions more relatives, associates of Venezuelan President Maduro</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-20 04:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/19/g-s1-103194/u-s-launches-strikes-syria" target="_blank">U.S. launches strikes in Syria targeting Islamic State fighters after American deaths</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-20 04:18</span>
             </div>
         </div>
 </div>
@@ -166,6 +171,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4hujgwp2synzrxnceyju.jpg" alt="Marshall Islands Launches the World’s First Cryptocurrency-Based Universal Basic Income Program" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thebitcoiner/marshall-islands-launches-the-worlds-first-cryptocurrency-based-universal-basic-income-program-52df" target="_blank">Marshall Islands Launches the World’s First Cryptocurrency-Based Universal Basic Income Program</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-20 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26-NVK-Compute-Warp-Size" target="_blank">Mesa 26.0 NVK Driver Lands Improvement For NVIDIA GeForce RTX 20 &quot;Turing&quot; GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-20 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/decathlon-spark-polars/en/headerimage/generatedHeaderImage-1764853117341.jpg" alt="Decathlon Switches to Polars to Optimize Data Pipelines and Infrastructure Costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/decathlon-spark-polars/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Decathlon Switches to Polars to Optimize Data Pipelines and Infrastructure Costs</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-20 11:04</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -190,33 +222,6 @@
                 <span class="title"><a href="https://dev.to/pixel_mosaic/ui-ux-for-developers-a-practical-guide-2cfl" target="_blank">UI UX for Developers: A Practical Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-20 09:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zerotrustzeroenergy/why-i-still-build-things-no-one-will-ever-use-4pgd" target="_blank">Why I Still Build Things No One Will Ever Use</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-20 08:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/m__mdy__m/psx-the-project-structure-checker-263j" target="_blank">PSX: The Project Structure Checker</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-20 07:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F52cnerzpw7ws7e7cw8bx.png" alt="Cinematic ANSI Banners for Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zhang_lei_d5d577e6d0b5421/cinematic-ansi-banners-for-rust-1ceo" target="_blank">Cinematic ANSI Banners for Rust</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-20 06:42</span>
             </div>
         </div>
 </div>
@@ -338,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
