@@ -1,35 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 04:04:57 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-20 05:02:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 04:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/20/us-sanctions-more-relatives-associates-of-venezuelan-president-maduro?traffic_source=rss" target="_blank">US sanctions more relatives, associates of Venezuelan President Maduro</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-20 04:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/19/g-s1-103194/u-s-launches-strikes-syria" target="_blank">U.S. launches strikes in Syria targeting Islamic State fighters after American deaths</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-20 04:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/epstein-4-ht-gmh-251219_1766184094425_hpMain_4x3t_384.jpg" alt="Epstein files so far don&#x27;t support allegations of previously unknown accomplices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +104,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/justice-department-releases-jeffrey-epstein-files-254775365597" target="_blank">Justice Department releases Jeffrey Epstein files</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-20 00:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/epstein-4-ht-gmh-251219_1766184094425_hpMain_4x3t_384.jpg" alt="Epstein files released include complaint made to FBI years before 1st investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/after-years-speculation-doj-faces-friday-deadline-release/story?id=128461125" target="_blank">Epstein files released include complaint made to FBI years before 1st investigation</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-19 23:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/19/al-jazeera-investigation-exposes-secret-firm-smuggling-people-out-of-gaza?traffic_source=rss" target="_blank">Al-Majd Europe: The secret shell company smuggling Palestinians out of Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-19 23:23</span>
             </div>
         </div>
 </div>
@@ -167,6 +174,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pwn/my-writeup-0day-in-zsh-rce-2245" target="_blank">My Writeup (0day in Zsh (RCE))</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-20 04:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/philipjohnbasile/a-quick-human-interruption-to-your-usual-dev-content-2mna" target="_blank">A quick human interruption to your usual dev content</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-20 02:26</span>
@@ -179,6 +195,15 @@
                 <span class="title"><a href="https://itsfoss.com/news/tiger-data-pg-textsearch/" target="_blank">Watch Out Elasticsearch! Tiger Data&amp;#x27;s PostgreSQL BM25 Search Extension Goes Open Source</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2025-12-20 01:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/XDG-Portal-Chrome-Printing" target="_blank">Chrome/Chromium Add Support For Printing Via XDG Portal</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-20 01:28</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +222,6 @@
                 <span class="title"><a href="https://dev.to/ximinez/the-xrpl-lending-protocol-why-it-matters-cd" target="_blank">The XRPL Lending Protocol (&amp; Why It Matters)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-19 23:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bagelbomb/brevity-1g4" target="_blank">Brevity</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-19 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-rc3-Released" target="_blank">Wine 11.0-rc3 Released With Another Week Of Bug Fixing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-19 22:33</span>
             </div>
         </div>
 </div>
@@ -264,6 +271,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/star-trek-klingon-federation-conflict-1280x853.jpg" alt="A Brief History of Klingon-Federation Conflict" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-every-klingon-federation-war-explained-2000701584" target="_blank">A Brief History of Klingon-Federation Conflict</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-19 23:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/Elise_Stefanik_115th_official_photo-e1766185052711.jpg?fit=768%2C532&amp;quality=60&amp;ssl=1" alt="Elise Stefanik flames out, fades away" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -297,15 +313,6 @@
                 <span class="title"><a href="https://kotaku.com/wordle-word-of-the-day-today-december-19-myrrh-2000654888" target="_blank">Today’s Wordle Made The Internet Crash Out</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-19 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/powerlight-power-beaming-laser-tech-top-1280x853.jpg" alt="These Laser Beams Could Power Military Drones 5,000 Feet in the Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/these-laser-beams-could-power-military-drones-5000-feet-in-the-air-2000702020" target="_blank">These Laser Beams Could Power Military Drones 5,000 Feet in the Air</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-19 21:25</span>
             </div>
         </div>
 </div>
@@ -345,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 04:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
