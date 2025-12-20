@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 13:08:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-20 14:01:28 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 13:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766238572073_tdy_sat_epstein_files_released_251220_1920x1080-qtvnad.jpg" alt="Justice Department Releases Initial Jeffrey Epstein Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/doj-releases-jeffrey-epstein-files-what-happens-next-254794821522" target="_blank">Justice Department Releases Initial Jeffrey Epstein Files</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-20 13:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +100,29 @@
                 <span class="time">2025-12-20 08:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/20/us-pushes-for-ceasefire-in-sudans-civil-war-as-kordofan-violence-escalates?traffic_source=rss" target="_blank">US pushes for ceasefire in Sudan’s civil war as Kordofan violence escalates</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-20 07:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/848041/dogpile-review-inde-game-steam-balatro-puppies" target="_blank">Dogpile&amp;#8217;s puzzles mix Balatro, Tetris, and a pile of puppies</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-20 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6914fd952232ce22cf1e9e3f/master/pass/The%2017%20Best%20Gifts%20for%20Plant%20Lovers.png" alt="The 17 Best Gifts for Plant Lovers We’d Buy Ourselves (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-gifts-for-plant-lovers/" target="_blank">The 17 Best Gifts for Plant Lovers We’d Buy Ourselves (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-20 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687b5256d4a901096a09c8b8/master/pass/Best%20Switch%202%20Controllers_.png" alt="Best Nintendo Switch 2 Controllers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,24 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/848449/nex-playground-review-nintendo-wii-microsoft-kinect-motion-tracking-camera" target="_blank">The sold-out Nex Playground made my kids laugh and cry</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-20 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="Loop Earplugs Discount Codes and Deals: Save on Ear Buds and Gift Sets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/loop-earplugs-discount-code/" target="_blank">Loop Earplugs Discount Codes and Deals: Save on Ear Buds and Gift Sets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-20 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/" target="_blank">Sequoia partner spreads debunked Brown shooting theory, testing new leadership</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-20 02:31</span>
             </div>
         </div>
 </div>
@@ -262,6 +265,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ram.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="RAM prices go wild as AI companies buy every chip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/20/ram-prices-go-wild-as-ai-companies-buy-every-chip.html" target="_blank">RAM prices go wild as AI companies buy every chip</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-20 12:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/AT2025ulz-panel-top-1280x853.jpg" alt="Double Cosmic Explosion Gives Birth to Unprecedented ‘Superkilonova’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -286,15 +298,6 @@
                 <span class="title"><a href="https://gizmodo.com/star-trek-every-klingon-federation-war-explained-2000701584" target="_blank">A Brief History of Klingon-Federation Conflict</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-19 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/Elise_Stefanik_115th_official_photo-e1766185052711.jpg?fit=768%2C532&amp;quality=60&amp;ssl=1" alt="Elise Stefanik flames out, fades away" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/19/elise-stefanik-flames-out-fades-away.html" target="_blank">Elise Stefanik flames out, fades away</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-19 22:58</span>
             </div>
         </div>
 </div>
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 281 |
-        🔄 Last Updated: 13:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
