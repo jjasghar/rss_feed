@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 07:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-20 08:02:07 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,12 +165,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/m__mdy__m/psx-the-project-structure-checker-263j" target="_blank">PSX: The Project Structure Checker</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-20 07:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F52cnerzpw7ws7e7cw8bx.png" alt="Cinematic ANSI Banners for Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zhang_lei_d5d577e6d0b5421/cinematic-ansi-banners-for-rust-1ceo" target="_blank">Cinematic ANSI Banners for Rust</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-20 06:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.charlesproxy.com/" target="_blank">Charles Proxy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-20 06:09</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +216,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/tiger-data-pg-textsearch/" target="_blank">Watch Out Elasticsearch! Tiger Data&amp;#x27;s PostgreSQL BM25 Search Extension Goes Open Source</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2025-12-20 01:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/XDG-Portal-Chrome-Printing" target="_blank">Chrome/Chromium Add Support For Printing Via XDG Portal</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-20 01:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg19h54ubjvvych3stozj.png" alt="AI without the hype: using LLMs to reduce noise, not replace thinking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/quentin23soleil/ai-without-the-hype-using-llms-to-reduce-noise-not-replace-thinking-2pko" target="_blank">AI without the hype: using LLMs to reduce noise, not replace thinking</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-20 01:17</span>
             </div>
         </div>
 </div>
@@ -331,22 +332,13 @@
                 <span class="time">2025-12-19 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/19/children-in-danger-part-one" target="_blank">Children In Danger, Part One</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-19 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
