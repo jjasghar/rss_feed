@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 15:01:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-20 16:02:05 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/20/israel-launches-fresh-raids-in-syrias-quneitra-establishes-checkpoints?traffic_source=rss" target="_blank">Israel launches new raids in Syria’s Quneitra, establishes checkpoints</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-20 15:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/20/iran-executes-man-accused-of-spying-for-israels-mossad-state-media?traffic_source=rss" target="_blank">Iran executes man accused of spying for Israel’s Mossad: State media</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-20 09:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a53c/live/62703790-dd7c-11f0-b67b-690eb873de1b.jpg" alt="US carries out &#x27;massive&#x27; strike against IS in Syria" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss" target="_blank">US carries out &#x27;massive&#x27; strike against IS in Syria</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-20 08:26</span>
             </div>
         </div>
 </div>
@@ -163,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Introducing amqp-contract - Type-Safe RabbitMQ/AMQP Messaging for TypeScript" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/btravers/introducing-amqp-contract-type-safe-rabbitmqamqp-messaging-for-typescript-48bh" target="_blank">Introducing amqp-contract - Type-Safe RabbitMQ/AMQP Messaging for TypeScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-20 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/metrax-jax-evaluation-metrics/en/headerimage/metrax-jax-eval-1766239291811.jpeg" alt="Google Metrax Brings Predefined Model Evaluation Metrics to JAX" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/metrax-jax-evaluation-metrics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Metrax Brings Predefined Model Evaluation Metrics to JAX</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-20 15:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +221,6 @@
                 <span class="time">2025-12-20 11:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26-NVK-Compute-Warp-Size" target="_blank">Mesa 26.0 NVK Driver Lands Improvement For NVIDIA GeForce RTX 20 &quot;Turing&quot; GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-20 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/decathlon-spark-polars/en/headerimage/generatedHeaderImage-1764853117341.jpg" alt="Decathlon Switches to Polars to Optimize Data Pipelines and Infrastructure Costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/decathlon-spark-polars/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Decathlon Switches to Polars to Optimize Data Pipelines and Infrastructure Costs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-20 11:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,20 +235,20 @@
                 <span class="time">2025-12-19 22:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/" target="_blank">Dismantling Defenses: Trump 2.0 Cyber Year in Review</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-12-19 15:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/my-hero-academia-deku-1280x853.jpg" alt="The True ‘My Hero Academia’ Finale Arrives Next Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-true-my-hero-academia-finale-arrives-next-year-2000701806" target="_blank">The True ‘My Hero Academia’ Finale Arrives Next Year</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-20 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/MetaQuest-3S-1280x853.jpg" alt="Meta Quest 3S Becomes the Cheapest VR Headset as PlayStation VR2 Goes Back to Full Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +294,6 @@
                 <span class="time">2025-12-20 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCW499Y2PHAV93MM8A9HFXJT/hero-image.png" alt="This Tool Can Tell You If Your Home Network Has Been Compromised" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/tool-checks-for-compromised-home-internet?utm_medium=RSS" target="_blank">This Tool Can Tell You If Your Home Network Has Been Compromised</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-20 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
