@@ -1,13 +1,15 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 14:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-20 15:01:26 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
@@ -15,22 +17,18 @@
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/20/nx-s1-5650747/mississippi-supreme-court-special-election-ordered-voting-rights" target="_blank">Special elections ordered for Mississippi Supreme Court after voting rights violation</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-20 14:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766238572073_tdy_sat_epstein_files_released_251220_1920x1080-qtvnad.jpg" alt="Justice Department Releases Initial Jeffrey Epstein Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss" target="_blank">US carries out &#x27;massive&#x27; strike against IS in Syria</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-20 08:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/05/1920x1080/skynews-jeffrey-epstein-peter-mandelson_6929044.jpg?20250527185401" alt="Deadline-day release of Epstein files has White House media management written all over it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/deadline-day-release-of-epstein-files-has-white-house-media-management-written-all-over-it-13485849" target="_blank">Deadline-day release of Epstein files has White House media management written all over it</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-20 08:23</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jp_fontenele4321/the-expand-and-contract-pattern-for-zero-downtime-migrations-445m" target="_blank">The Expand and Contract Pattern for Zero-Downtime Migrations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-20 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/ertugrulcetin/immersa" target="_blank">Immersa: Open-source Web-based 3D Presentation Tool</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-20 13:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu" target="_blank">Gemini AI Yielding Sloppy Code For Ubuntu Development With New Helper Script</a></span>
                 <span class="feed">Phoronix</span>
@@ -200,24 +216,6 @@
                 <span class="time">2025-12-20 11:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-LoongArch64-Official" target="_blank">LoongArch Promoted To Being An Official Architecture For Debian 14</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-20 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3s1ewnx3ccbzwtpt5xjo.png" alt="Browser Extensions - Native Messaging" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/programador51/browser-extensions-native-messaging-21am" target="_blank">Browser Extensions - Native Messaging</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-20 10:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/MetaQuest-3S-1280x853.jpg" alt="Meta Quest 3S Becomes the Cheapest VR Headset as PlayStation VR2 Goes Back to Full Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/meta-quest-3s-becomes-the-cheapest-vr-headset-as-playstation-vr2-goes-back-to-full-price-2000654895" target="_blank">Meta Quest 3S Becomes the Cheapest VR Headset as PlayStation VR2 Goes Back to Full Price</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-20 14:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/playstation-player-1280x853.jpg" alt="Sony Crashes PlayStation Portal Pricing in a Sudden Clearance Push, Making Remote PS5 Gaming Cheaper Overnight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +298,6 @@
                 <span class="time">2025-12-20 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/star-trek-klingon-federation-conflict-1280x853.jpg" alt="A Brief History of Klingon-Federation Conflict" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-every-klingon-federation-war-explained-2000701584" target="_blank">A Brief History of Klingon-Federation Conflict</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-19 23:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
