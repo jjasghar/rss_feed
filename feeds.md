@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 09:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-20 10:01:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, December 20, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/20/iran-executes-man-accused-of-spying-for-israels-mossad-state-media?traffic_source=rss" target="_blank">Iran executes man accused of spying for Israel’s Mossad: State media</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-20 09:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a53c/live/62703790-dd7c-11f0-b67b-690eb873de1b.jpg" alt="US carries out &#x27;massive&#x27; strike against IS in Syria" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/19/g-s1-103194/u-s-launches-strikes-syria" target="_blank">U.S. launches strikes in Syria targeting Islamic State fighters after American deaths</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-20 04:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/epstein-4-ht-gmh-251219_1766184094425_hpMain_4x3t_384.jpg" alt="Epstein files so far don&#x27;t support allegations of previously unknown accomplices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/after-years-speculation-doj-faces-friday-deadline-release/story?id=128461125" target="_blank">Epstein files so far don&#x27;t support allegations of previously unknown accomplices</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-20 03:12</span>
             </div>
         </div>
 </div>
@@ -173,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pixel_mosaic/ui-ux-for-developers-a-practical-guide-2cfl" target="_blank">UI UX for Developers: A Practical Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-20 09:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zerotrustzeroenergy/why-i-still-build-things-no-one-will-ever-use-4pgd" target="_blank">Why I Still Build Things No One Will Ever Use</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-20 08:38</span>
@@ -212,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/pwn/my-writeup-0day-in-zsh-rce-2245" target="_blank">My Writeup (0day in Zsh (RCE))</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-20 04:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/philipjohnbasile/a-quick-human-interruption-to-your-usual-dev-content-2mna" target="_blank">A quick human interruption to your usual dev content</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-20 02:26</span>
             </div>
         </div>
 </div>
@@ -342,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
