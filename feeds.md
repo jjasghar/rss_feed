@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 08:02:11 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-21 09:01:38 UTC -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/21/kylian-mbappe-equals-ronaldo-record-in-real-madrid-win-over-sevilla?traffic_source=rss" target="_blank">Kylian Mbappe equals Ronaldo record in Real Madrid win over Sevilla</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-21 08:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/21/g-s1-103239/russia-says-talks-on-us-peace-plan-for-ukraine-are-proceeding-constructively" target="_blank">Russia says talks on US peace plan for Ukraine &#x27;are proceeding constructively&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-21 08:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f372/live/d1aebac0-de29-11f0-a8dc-93c15fe68710.jpg" alt="Australian PM announces intelligence review as country mourns Bondi attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/21/russia-ukraine-war-list-of-key-events-day-1396?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,396</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-21 00:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cee0/live/4f515550-9f91-11f0-92db-77261a15b9d2.jpg" alt="Why British Jews are experiencing their biggest change in 60 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5ye91zxqv5o?at_medium=RSS&at_campaign=rss" target="_blank">Why British Jews are experiencing their biggest change in 60 years</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-21 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766275953736_wnn_jts_us_seizes_tanker_off_venezuela_251220_1920x1080-g99btx.jpg" alt="U.S. Coast Guard intercepts second vessel off Venezuelan coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/u-s-coast-guard-intercepts-second-vessel-off-venezuelan-coast-254800453841" target="_blank">U.S. Coast Guard intercepts second vessel off Venezuelan coast</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-21 00:12</span>
             </div>
         </div>
 </div>
@@ -184,6 +184,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/pkgforge/" target="_blank">Linux Apps Without Distro Lock-In? Explore This Lesser Known Snap and Flatpak Alternative</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-21 06:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aiwithapex/how-transformers-really-think-inside-the-brain-of-an-ai-language-model-4e99" target="_blank">How Transformers Really Think: Inside the Brain of an AI Language Model</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +215,6 @@
                 <span class="title"><a href="https://itsfoss.com/jdsystemmonitor/" target="_blank">jdSystemMonitor: More Than Your Regular System Monitor on Linux</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2025-12-21 04:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Most developers think that distribution is a post-launch activity. Now, developers should learn that distribution is an integral part of design." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/most-developers-think-that-distribution-is-a-post-launch-activity-now-developers-should-learn-g6n" target="_blank">Most developers think that distribution is a post-launch activity. Now, developers should learn that distribution is an integral part of design.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-21 03:09</span>
             </div>
         </div>
 </div>
@@ -295,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
