@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 22:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-21 23:01:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/12/21/how-volatile-is-the-political-situation-in-bangladesh?traffic_source=rss" target="_blank">How volatile is the political situation in Bangladesh?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-21 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dac/live/280abdc0-de83-11f0-b6eb-fb9209f47010.jpg" alt="US reportedly pursuing third oil tanker linked to Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss" target="_blank">US reportedly pursuing third oil tanker linked to Venezuela</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-21 21:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/noem-video-ht-jt-251220_1766264963327_hpMain_4x3t_384.jpg" alt="US Coast Guard actively pursuing another sanctioned vessel: Official" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/21/us-pursues-another-oil-tanker-near-venezuela-reports?traffic_source=rss" target="_blank">US pursues another oil tanker near Venezuela: Reports</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-21 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/21/frances-elysee-palace-worker-to-face-trial-over-porcelain-theft?traffic_source=rss" target="_blank">Worker at France’s Elysee Palace to face trial over alleged theft</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-21 18:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-12/241202-united-states-coast-guard-logo-vl-914a-54b4a1.jpg" alt="U.S. Coast Guard in &#x27;active pursuit&#x27; of third vessel off the Venezuelan coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/us-coast-guard-active-pursuit-third-vessel-venezuelan-coast-rcna250309" target="_blank">U.S. Coast Guard in &#x27;active pursuit&#x27; of third vessel off the Venezuelan coast</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-21 18:26</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fhmpl-lang.dev%2F_astro%2Flogo.B6C6-HHf.svg" alt="https://hmpl-lang.dev - new website" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anthonymax/httpshmpl-langdev-new-website-1gib" target="_blank">https://hmpl-lang.dev - new website</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-21 22:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faosiltx8cgl0ouy583yh.png" alt="EKS Disaster Recovery, Simplified: Native Backups with AWS Backup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +216,6 @@
                 <span class="title"><a href="https://docs.python.org/3.15/whatsnew/3.15.html" target="_blank">What’s new in Python 3.15</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-12-21 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://loggingsucks.com/" target="_blank">Logging Sucks</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-21 18:09</span>
             </div>
         </div>
 </div>
@@ -300,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
