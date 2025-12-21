@@ -1,45 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 17:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-21 18:02:17 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 36 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/21/eu-ukraine-have-not-improved-peace-prospects-by-altering-proposal-kremlin?traffic_source=rss" target="_blank">Russia criticises European moves to amend US plan to end Ukraine war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-21 17:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,6 +71,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/uk-news/2025/dec/21/manchester-museum-uncover-hidden-histories-africa-hub" target="_blank">Manchester Museum seeks help to uncover hidden histories of African collection</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-21 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/12/21/nx-s1-5648546/cartagena-horses-colombia-animal-welfare" target="_blank">Cartagena&#x27;s iconic horse carriages give way to electric buggies</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -91,29 +95,20 @@
                 <span class="time">2025-12-21 14:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/21/g-s1-102866/health-care-lessons-bangladesh-winter-coat-health" target="_blank">On winter&#x27;s coldest days, this classic Kashmiri coat offers warmth — and wisdom</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-21 12:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63a3/live/a08df650-de55-11f0-8396-3da325261767.jpg" alt="Minute&#x27;s silence held to remember Bondi Beach attack victims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cre3l2xq9nzo?at_medium=RSS&at_campaign=rss" target="_blank">Minute&#x27;s silence held to remember Bondi Beach attack victims</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-21 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025" target="_blank">Some of our favorite gifts will cost you less than $25</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-21 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -159,20 +154,20 @@
                 <span class="time">2025-12-21 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69459587c5595b6bd09efc8a/master/pass/The%20Best%20Monitors%20for%20the%20Mac%20Mini%20top%20art%20122025%20SOURECE%20Amazon_Apple.jpg" alt="5 Best Monitors for the Mac Mini (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-monitors-for-mac-mini/" target="_blank">5 Best Monitors for the Mac Mini (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-21 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffnyt66hiqih9nvz9wn79.png" alt="Code Chronicle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rmion/code-chronicle-3e2l" target="_blank">Code Chronicle</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-21 17:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F12cbv1idnha4dqgyw74c.png" alt="DiscovAI Search — Open‑Source AI Search Engine for Tools, Docs, and Custom Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -218,20 +213,20 @@
                 <span class="time">2025-12-21 12:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-APX-KVM-Guests-Patches" target="_blank">Intel Prepares For KVM Guest VMs To Support Advanced Performance Extensions (APX)</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-21 12:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/chainsaw-man-assassins-1280x853.jpg" alt="Thank Pochita, the ‘Chainsaw Man’ Anime Will Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/chainsaw-man-assassins-arc-mappa-2000702280" target="_blank">Thank Pochita, the ‘Chainsaw Man’ Anime Will Return</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-21 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/waymo-intersection-1-1280x853.jpg" alt="Blackout in San Francisco Litters Streets with Traffic-Blocking, Deactivated Waymos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,22 +272,13 @@
                 <span class="time">2025-12-20 23:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ASUS-Chromebook-CM30.png?fit=1200%2C800&amp;quality=55&amp;ssl=1" alt="Get 51% off a 2-in-1 Chromebook (it&#x27;s just $160!)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/20/get-51-off-a-2-in-1-chromebook-its-just-160.html" target="_blank">Get 51% off a 2-in-1 Chromebook (it&#x27;s just $160!)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-20 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
