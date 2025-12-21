@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 04:13:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-21 05:02:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 04:14 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/21/us-russian-officials-meet-in-miami-for-talks-on-ukraine-war?traffic_source=rss" target="_blank">US, Russian officials meet in Miami for talks on Ukraine war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-21 03:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +97,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump" target="_blank">Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-21 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump" target="_blank">Apple, Google tell workers on visas to avoid leaving U.S. amid Trump immigration crackdown</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-21 00:03</span>
             </div>
@@ -169,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mochammmad_alie/playwright-test-structure-tiny-part-that-bring-a-huge-impact-43mj" target="_blank">Playwright: Test Structure (Tiny part that bring a huge impact)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-21 04:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/jdsystemmonitor/" target="_blank">jdSystemMonitor: More Than Your Regular System Monitor on Linux</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-21 04:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Most developers think that distribution is a post-launch activity. Now, developers should learn that distribution is an integral part of design." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/buildstash/moving-from-github-actions-software-binary-management-for-any-cicd-4gg8" target="_blank">Moving from GitHub Actions? Software binary management for any CI/CD pipeline</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-21 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GotaTun-Rust-WireGuard-OSS" target="_blank">GotaTun Open-Source Rust WireGuard Implementation Announced By Mullvad</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-21 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://haveibeenflocked.com/news/cyble-downtime" target="_blank">Flock and Cyble Inc. Weaponize &quot;Cybercrime&quot; Takedowns to Silence Critics</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-21 01:12</span>
             </div>
         </div>
 </div>
@@ -300,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 04:14 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
