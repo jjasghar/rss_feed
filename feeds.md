@@ -1,31 +1,45 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 16:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-21 17:01:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +55,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/21/israeli-arms-companies-revenues-soared-in-2024?traffic_source=rss" target="_blank">Israeli arms companies’ revenues soared in 2024</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-21 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/hakeem-jeffries-2-gty-gmh-251217_1765986495300_hpMain_4x3t_384.jpg" alt="Jeffries: DOJ release of Epstein files &#x27;falls short of what the law requires&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/jeffries-doj-release-epstein-files-inadequate-andfalls-short/story?id=128597125" target="_blank">Jeffries: DOJ release of Epstein files &#x27;falls short of what the law requires&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-21 16:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +109,29 @@
                 <span class="time">2025-12-21 11:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-jeffrey-epstein-epstein-files_7115958.png?20251220160836" alt="Images of Trump among documents removed from latest Epstein files release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/images-of-trump-among-documents-removed-from-latest-epstein-files-release-13486310" target="_blank">Images of Trump among documents removed from latest Epstein files release</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-21 09:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/21/australia-beat-england-to-win-third-test-and-retain-ashes?traffic_source=rss" target="_blank">Australia beat England to win third Test and retain Ashes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-21 09:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/848710/christmas-song-deep-cuts" target="_blank">You need to listen to these Christmas deep cuts</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-21 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/21/techcrunch-mobility-bankruptcy-takes-out-two/" target="_blank">TechCrunch Mobility: Bankruptcy takes out two</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-21 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +168,29 @@
                 <span class="time">2025-12-21 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6945926ed842203773a87765/master/pass/The%20Best%20Paper%20Planners%20Update%20122025%20top%20art%20SOURCE%20Kokuyo.jpg" alt="8 Best Planners of 2026: Roterunner, Hobonichi, Kokuyo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-paper-planners/" target="_blank">8 Best Planners of 2026: Roterunner, Hobonichi, Kokuyo</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-21 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/" target="_blank">Google and Apple reportedly warn employees on visas to avoid international travel</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-20 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F12cbv1idnha4dqgyw74c.png" alt="DiscovAI Search — Open‑Source AI Search Engine for Tools, Docs, and Custom Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bitwiserokos/discovai-search-open-source-ai-search-engine-for-tools-docs-and-custom-data-4ko0" target="_blank">DiscovAI Search — Open‑Source AI Search Engine for Tools, Docs, and Custom Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-21 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.arin.net/announcements/20251212/" target="_blank">ARIN Public Incident Report – 4.10 Misissuance Error</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-21 15:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,29 +227,20 @@
                 <span class="time">2025-12-21 12:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/FOBshippingpoint/shittp" target="_blank">Show HN: Shittp – Volatile Dotfiles over SSH</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-21 12:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://annas-archive.li/isbn-visualization/" target="_blank">ISBN Visualization Showing 99_959_000 books</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-21 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/waymo-intersection-1-1280x853.jpg" alt="Blackout in San Francisco Litters Streets with Traffic-Blocking, Deactivated Waymos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/blackout-in-san-francisco-litters-streets-with-traffic-blocking-deactivated-waymos-2000702290" target="_blank">Blackout in San Francisco Litters Streets with Traffic-Blocking, Deactivated Waymos</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-21 15:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/Apple2024iMac-1280x853.jpg" alt="Apple M4 iMac at an All-Time Low Is Now Cheap Enough to Rival No-Name Windows Desktops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,36 +286,13 @@
                 <span class="time">2025-12-20 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/elon-1280x854.jpg" alt="He Got a Bunch of Money Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/he-got-a-bunch-of-money-again-2000702249" target="_blank">He Got a Bunch of Money Again</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-20 21:45</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1766103726-20251220_Edit.png" alt="Saturday Morning Breakfast Cereal - Hop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/hop" target="_blank">Saturday Morning Breakfast Cereal - Hop</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-20 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
