@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 02:37:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-21 03:29:32 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 02:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +52,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/21/russia-ukraine-war-list-of-key-events-day-1396?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,396</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-21 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cee0/live/4f515550-9f91-11f0-92db-77261a15b9d2.jpg" alt="Why British Jews are experiencing their biggest change in 60 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5ye91zxqv5o?at_medium=RSS&at_campaign=rss" target="_blank">Why British Jews are experiencing their biggest change in 60 years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-21 00:25</span>
             </div>
         </div>
 <div class="story">
@@ -94,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump" target="_blank">Apple, Google tell workers on visas to avoid leaving U.S. amid Trump immigration crackdown</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-21 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ab/live/12a8ded0-dded-11f0-afbd-d1ba55b6b5b2.jpg" alt="US seizes second oil tanker off Venezuela&#x27;s coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss" target="_blank">US seizes second oil tanker off Venezuela&#x27;s coast</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-20 23:20</span>
             </div>
         </div>
 </div>
@@ -170,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Most developers think that distribution is a post-launch activity. Now, developers should learn that distribution is an integral part of design." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/most-developers-think-that-distribution-is-a-post-launch-activity-now-developers-should-learn-g6n" target="_blank">Most developers think that distribution is a post-launch activity. Now, developers should learn that distribution is an integral part of design.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-21 03:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,19 +211,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/composiodev/outgrowing-zapier-make-and-n8n-for-ai-agents-the-production-migration-blueprint-5g4j" target="_blank">Outgrowing Zapier, Make, and n8n for AI Agents: The Production Migration Blueprint</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-20 23:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yash007_95/lynkbin-ai-powered-bookmark-manager-blc" target="_blank">LynkBin: AI-Powered Bookmark Manager</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-20 21:45</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://haveibeenflocked.com/news/cyble-downtime" target="_blank">Flock and Cyble Inc. Weaponize &quot;Cybercrime&quot; Takedowns to Silence Critics</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-21 01:12</span>
             </div>
         </div>
 </div>
@@ -301,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 02:37 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
