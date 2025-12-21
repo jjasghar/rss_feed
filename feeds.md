@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 01:29:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-21 02:37:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 02:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/21/russia-ukraine-war-list-of-key-events-day-1396?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,396</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-21 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766275953736_wnn_jts_us_seizes_tanker_off_venezuela_251220_1920x1080-g99btx.jpg" alt="U.S. Coast Guard intercepts second vessel off Venezuelan coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/u-s-coast-guard-intercepts-second-vessel-off-venezuelan-coast-254800453841" target="_blank">U.S. Coast Guard intercepts second vessel off Venezuelan coast</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-21 00:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766275811046_wnn_rno_new_epstein_files_released_doj_251220_1920x1080-fw7l2k.jpg" alt="Some Epstein documents released by the Justice Department no longer available" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +103,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss" target="_blank">US seizes second oil tanker off Venezuela&#x27;s coast</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-20 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/20/g-s1-103223/lumbee-tribe-federal-recognition-137-years" target="_blank">North Carolina&#x27;s Lumbee Tribe receives full federal recognition after 137-year effort</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-20 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b67/live/30fe4b70-dde0-11f0-a8dc-93c15fe68710.jpg" alt="Survivors &#x27;nervous and sceptical&#x27; about release of remaining Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&at_campaign=rss" target="_blank">Survivors &#x27;nervous and sceptical&#x27; about release of remaining Epstein files</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-20 20:33</span>
             </div>
         </div>
 </div>
@@ -167,6 +173,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zeeshanali0704/frontend-system-design-redux-toolkit-vs-zustand-vs-jotai-1npn" target="_blank">Frontend System Design: Redux Toolkit vs Zustand vs Jotai</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-21 02:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="QConAI NY 2025 - Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/qcon-nvidia-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QConAI NY 2025 - Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-21 02:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/buildstash/moving-from-github-actions-software-binary-management-for-any-cicd-4gg8" target="_blank">Moving from GitHub Actions? Software binary management for any CI/CD pipeline</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-21 01:21</span>
@@ -197,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/yash007_95/lynkbin-ai-powered-bookmark-manager-blc" target="_blank">LynkBin: AI-Powered Bookmark Manager</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-20 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-Multi-Queue-Linux-7.0" target="_blank">Intel Readies Multi-Queue Support For Linux 7.0 As New Feature For Crescent Island</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-20 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj4qzgvxxgvo" target="_blank">Ireland’s Diarmuid Early wins world Microsoft Excel title</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-20 19:56</span>
             </div>
         </div>
 </div>
@@ -295,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 02:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
