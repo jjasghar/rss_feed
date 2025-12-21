@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 10:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-21 11:01:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +109,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6945926ed842203773a87765/master/pass/The%20Best%20Paper%20Planners%20Update%20122025%20top%20art%20SOURCE%20Kokuyo.jpg" alt="8 Best Planners of 2026: Roterunner, Hobonichi, Kokuyo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-paper-planners/" target="_blank">8 Best Planners of 2026: Roterunner, Hobonichi, Kokuyo</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-21 10:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -152,20 +162,29 @@
                 <span class="time">2025-12-20 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6914fd952232ce22cf1e9e3f/master/pass/The%2017%20Best%20Gifts%20for%20Plant%20Lovers.png" alt="The 17 Best Gifts for Plant Lovers We’d Buy Ourselves (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-gifts-for-plant-lovers/" target="_blank">The 17 Best Gifts for Plant Lovers We’d Buy Ourselves (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-20 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5oyvvgzwtdic8xbtfmj.png" alt="Hands-On with AWS Lambda Durable Functions &amp; Callback ⚡⏳🚀 - (Let&#x27;s Build 🏗️ Series)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-heroes/hands-on-with-aws-lambda-durable-functions-callback-lets-build-series-4agd" target="_blank">Hands-On with AWS Lambda Durable Functions &amp; Callback ⚡⏳🚀 - (Let&#x27;s Build 🏗️ Series)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-21 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Darktable-5.4" target="_blank">Darktable 5.4 RAW Photography Software Reaches Parity Between X11 &amp; Wayland</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-21 10:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/aiwithapex/how-transformers-really-think-inside-the-brain-of-an-ai-language-model-4e99" target="_blank">How Transformers Really Think: Inside the Brain of an AI Language Model</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-21 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mochammmad_alie/playwright-test-structure-tiny-part-that-bring-a-huge-impact-43mj" target="_blank">Playwright: Test Structure (Tiny part that bring a huge impact)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-21 04:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/jdsystemmonitor/" target="_blank">jdSystemMonitor: More Than Your Regular System Monitor on Linux</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-21 04:20</span>
             </div>
         </div>
 </div>
@@ -298,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
