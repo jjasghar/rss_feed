@@ -1,27 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 19:01:20 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-21 20:01:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 18 feeds processed -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,9 +52,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/21/us-pursues-another-oil-tanker-near-venezuela-reports?traffic_source=rss" target="_blank">US pursues another oil tanker near Venezuela: Reports</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-21 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/21/frances-elysee-palace-worker-to-face-trial-over-porcelain-theft?traffic_source=rss" target="_blank">Worker at France’s Elysee Palace to face trial over alleged theft</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-21 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/21/nx-s1-5649902/aca-health-plans-costs-alternatives" target="_blank">Shopping for pricy ACA health plans? Some cheaper options come with trade-offs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-21 17:48</span>
             </div>
         </div>
 <div class="story">
@@ -56,39 +85,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/rand-paul-gty-jt-251220_1766246869224_hpMain_4x3t_384.jpg" alt="Rand Paul says seizure of oil tankers in Caribbean a &#x27;prelude to war&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/rand-paul-seizure-oil-tankers-caribbean-prelude-war/story?id=128597160" target="_blank">Rand Paul says seizure of oil tankers in Caribbean a &#x27;prelude to war&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-21 17:04</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/21/israeli-arms-companies-revenues-soared-in-2024?traffic_source=rss" target="_blank">Israeli arms companies’ revenues soared in 2024</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-21 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/hakeem-jeffries-2-gty-gmh-251217_1765986495300_hpMain_4x3t_384.jpg" alt="Jeffries: DOJ release of Epstein files &#x27;falls short of what the law requires&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/jeffries-doj-release-epstein-files-inadequate-andfalls-short/story?id=128597125" target="_blank">Jeffries: DOJ release of Epstein files &#x27;falls short of what the law requires&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-21 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/uk-news/2025/dec/21/manchester-museum-uncover-hidden-histories-africa-hub" target="_blank">Manchester Museum seeks help to uncover hidden histories of African collection</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-21 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/21/nx-s1-5648546/cartagena-horses-colombia-animal-welfare" target="_blank">Cartagena&#x27;s iconic horse carriages give way to electric buggies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-21 14:48</span>
             </div>
         </div>
 </div>
@@ -156,6 +167,42 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/palman22hue/built-a-32d-emotional-state-tracking-system-for-transparent-ethical-ai-now-open-source-gplv3-1doa" target="_blank">Built a 32D Emotional State Tracking system for transparent ethical AI - Now open source (GPLv3)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-21 19:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://docs.python.org/3.15/whatsnew/3.15.html" target="_blank">What’s new in Python 3.15</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-21 18:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://loggingsucks.com/" target="_blank">Logging Sucks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-21 18:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ISP4-Driver-Linux-v7" target="_blank">AMD ISP4 Linux Driver Patches Update Again For HP ZBook Ultra G1a, Future Ryzen Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-21 17:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffnyt66hiqih9nvz9wn79.png" alt="Code Chronicle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -165,48 +212,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F12cbv1idnha4dqgyw74c.png" alt="DiscovAI Search — Open‑Source AI Search Engine for Tools, Docs, and Custom Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://res.infoq.com/news/2025/12/ibm-cuga/en/headerimage/generatedHeaderImage-1766335062575.jpg" alt="IBM Research Introduces CUGA, an Open-Source Configurable Agent Framework on Hugging Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bitwiserokos/discovai-search-open-source-ai-search-engine-for-tools-docs-and-custom-data-4ko0" target="_blank">DiscovAI Search — Open‑Source AI Search Engine for Tools, Docs, and Custom Data</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-21 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.arin.net/announcements/20251212/" target="_blank">ARIN Public Incident Report – 4.10 Misissuance Error</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-21 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techno_kraft_in/launching-online-tools-x-100-privacy-first-browser-tools-your-digital-swiss-army-knife-37o7" target="_blank">Launching Online Tools X: 100+ Privacy-First Browser Tools (Your Digital Swiss Army Knife)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-21 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nirmal7030/i-thought-my-aws-ec2-was-secure-until-i-checked-my-security-groups-3183" target="_blank">I Thought My AWS EC2 Was Secure — Until I Checked My Security Groups</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-21 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://borretti.me/article/coarse-is-better" target="_blank">Coarse Is Better</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-21 12:57</span>
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/ibm-cuga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">IBM Research Introduces CUGA, an Open-Source Configurable Agent Framework on Hugging Face</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-21 16:59</span>
             </div>
         </div>
 </div>
@@ -221,6 +232,15 @@
                 <span class="title"><a href="https://gizmodo.com/chainsaw-man-assassins-arc-mappa-2000702280" target="_blank">Thank Pochita, the ‘Chainsaw Man’ Anime Will Return</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-21 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/The-CISSP-Security-Risk-Management-Training-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Thinking about the CISSP? This $24.97 training bundle covers all eight domains." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/21/thinking-about-the-cissp-this-24-97-training-bundle-covers-all-eight-domains.html" target="_blank">Thinking about the CISSP? This $24.97 training bundle covers all eight domains.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-21 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -259,13 +279,18 @@
                 <span class="time">2025-12-21 12:30</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/scam-hackers-1280x853.jpg" alt="NordProtect Online Identity Service Covers Up to $10K in Scam Losses, Now Going for Peanuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1766250261-20251221_edit.png" alt="Saturday Morning Breakfast Cereal - Mad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nordprotect-online-identity-service-covers-up-to-10k-in-scam-losses-now-going-for-peanuts-2000655012" target="_blank">NordProtect Online Identity Service Covers Up to $10K in Scam Losses, Now Going for Peanuts</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-20 23:45</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/mad-2" target="_blank">Saturday Morning Breakfast Cereal - Mad</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-21 16:20</span>
             </div>
         </div>
 </div>
@@ -273,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
