@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 20:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-21 21:01:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/noem-video-ht-jt-251220_1766264963327_hpMain_4x3t_384.jpg" alt="US Coast Guard actively pursuing another sanctioned vessel: Official" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/us-coast-guard-actively-pursuing-sanctioned-vessel-official/story?id=128601028" target="_blank">US Coast Guard actively pursuing another sanctioned vessel: Official</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-21 20:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria" target="_blank">Another 130 kidnapped schoolchildren released in Nigeria</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-21 20:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +101,20 @@
                 <span class="time">2025-12-21 17:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/rand-paul-gty-jt-251220_1766246869224_hpMain_4x3t_384.jpg" alt="Rand Paul says seizure of oil tankers in Caribbean a &#x27;prelude to war&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/rand-paul-seizure-oil-tankers-caribbean-prelude-war/story?id=128597160" target="_blank">Rand Paul says seizure of oil tankers in Caribbean a &#x27;prelude to war&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-21 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/21/israeli-arms-companies-revenues-soared-in-2024?traffic_source=rss" target="_blank">Israeli arms companies’ revenues soared in 2024</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-21 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/848843/waymo-san-francisco-power-outage" target="_blank">Frozen Waymos backed up San Francisco traffic during a widespread power outage</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-21 19:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +160,29 @@
                 <span class="time">2025-12-21 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/847424/park-chan-wook-no-other-choice-interview" target="_blank">Job killer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-21 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sherwinwater/reading-notesthe-pragmatic-programmer-2gm5" target="_blank">How to Learn as a Software Engineer: Lessons from The Pragmatic Programmer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-21 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/MPV-0.41-Released" target="_blank">MPV 0.41 Released With Wayland Improvements, Vulkan Hardware Decoding Preferred</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-21 19:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-ISP4-Driver-Linux-v7" target="_blank">AMD ISP4 Linux Driver Patches Update Again For HP ZBook Ultra G1a, Future Ryzen Laptops</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-21 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffnyt66hiqih9nvz9wn79.png" alt="Code Chronicle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rmion/code-chronicle-3e2l" target="_blank">Code Chronicle</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-21 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/ibm-cuga/en/headerimage/generatedHeaderImage-1766335062575.jpg" alt="IBM Research Introduces CUGA, an Open-Source Configurable Agent Framework on Hugging Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/ibm-cuga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">IBM Research Introduces CUGA, an Open-Source Configurable Agent Framework on Hugging Face</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-21 16:59</span>
             </div>
         </div>
 </div>
@@ -298,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
