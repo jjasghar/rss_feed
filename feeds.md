@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 06:02:14 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-21 07:01:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f372/live/d1aebac0-de29-11f0-a8dc-93c15fe68710.jpg" alt="Australian PM announces intelligence review as country mourns Bondi attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5ydzl0nwqeo?at_medium=RSS&at_campaign=rss" target="_blank">Australian PM announces intelligence review as country mourns Bondi attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-21 06:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/21/slap-in-the-face-epstein-victims-slam-release-of-heavily-redacted-files?traffic_source=rss" target="_blank">‘Slap in the face’: Epstein victims slam release of heavily-redacted files</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-21 06:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/u-s-coast-guard-intercepts-second-vessel-off-venezuelan-coast-254800453841" target="_blank">U.S. Coast Guard intercepts second vessel off Venezuelan coast</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-21 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766275811046_wnn_rno_new_epstein_files_released_doj_251220_1920x1080-fw7l2k.jpg" alt="Some Epstein documents released by the Justice Department no longer available" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/some-epstein-documents-released-by-the-justice-department-no-longer-available-254801989882" target="_blank">Some Epstein documents released by the Justice Department no longer available</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-21 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump" target="_blank">Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-21 00:03</span>
             </div>
         </div>
 </div>
@@ -170,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/realnamehidden1_61/how-do-you-handle-exceptions-globally-in-spring-boot-40k3" target="_blank">How Do You Handle Exceptions Globally in Spring Boot?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-21 06:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aiwithapex/how-transformers-really-think-inside-the-brain-of-an-ai-language-model-4e99" target="_blank">How Transformers Really Think: Inside the Brain of an AI Language Model</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-21 05:49</span>
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/zeeshanali0704/frontend-system-design-redux-toolkit-vs-zustand-vs-jotai-1npn" target="_blank">Frontend System Design: Redux Toolkit vs Zustand vs Jotai</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-21 02:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="QConAI NY 2025 - Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/qcon-nvidia-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QConAI NY 2025 - Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-21 02:18</span>
             </div>
         </div>
 </div>
@@ -298,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
