@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 13:08:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-21 14:01:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 13:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +102,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69459587c5595b6bd09efc8a/master/pass/The%20Best%20Monitors%20for%20the%20Mac%20Mini%20top%20art%20122025%20SOURECE%20Amazon_Apple.jpg" alt="5 Best Monitors for the Mac Mini (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-monitors-for-mac-mini/" target="_blank">5 Best Monitors for the Mac Mini (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-21 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6945926ed842203773a87765/master/pass/The%20Best%20Paper%20Planners%20Update%20122025%20top%20art%20SOURCE%20Kokuyo.jpg" alt="8 Best Planners of 2026: Roterunner, Hobonichi, Kokuyo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -151,20 +155,29 @@
                 <span class="time">2025-12-20 18:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/848041/dogpile-review-inde-game-steam-balatro-puppies" target="_blank">Dogpile&amp;#8217;s puzzles mix Balatro, Tetris, and a pile of puppies</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-20 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nirmal7030/i-thought-my-aws-ec2-was-secure-until-i-checked-my-security-groups-3183" target="_blank">I Thought My AWS EC2 Was Secure — Until I Checked My Security Groups</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-21 13:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-APX-KVM-Guests-Patches" target="_blank">Intel Prepares For KVM Guest VMs To Support Advanced Performance Extensions (APX)</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-21 12:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,29 +214,20 @@
                 <span class="time">2025-12-21 10:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/aws-ecs-express-mode/en/headerimage/generatedHeaderImage-1766250940362.jpg" alt="AWS Launches ECS Express Mode to Simplify Containerised Application Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/aws-ecs-express-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches ECS Express Mode to Simplify Containerised Application Deployment</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-21 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jamesmiller25/why-quiet-days-can-feel-more-draining-than-busy-ones-1a7c" target="_blank">Why Quiet Days Can Feel More Draining Than Busy Ones</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-21 07:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/govee-smart-bulb-1280x853.jpg" alt="This 2-Pack Govee Smart Light Bulbs Offers 16 Million Colors, Priced Like Basic Bulb on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-2-pack-govee-smart-light-bulbs-offers-16-million-colors-priced-like-basic-bulb-on-amazon-2000655036" target="_blank">This 2-Pack Govee Smart Light Bulbs Offers 16 Million Colors, Priced Like Basic Bulb on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-21 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/Apple-2025-MacBook-Pro-Laptop-with-M5-chip-1280x854.jpg" alt="MacBook Pro M5 With Max Config Drops Record Low, Amazon Drops Margin While Official Site Stays Full Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +273,6 @@
                 <span class="time">2025-12-20 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/leaf.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="An 86-year-old man fined $334 for spitting out a leaf that blew into his mouth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/20/an-86-year-old-man-fined-334-for-spitting-out-a-leaf-that-blew-into-his-mouth.html" target="_blank">An 86-year-old man fined $334 for spitting out a leaf that blew into his mouth</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-20 17:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 13:08 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
