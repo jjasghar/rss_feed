@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 00:05:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-21 01:29:48 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766275811046_wnn_rno_new_epstein_files_released_doj_251220_1920x1080-fw7l2k.jpg" alt="Some Epstein documents released by the Justice Department no longer available" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/some-epstein-documents-released-by-the-justice-department-no-longer-available-254801989882" target="_blank">Some Epstein documents released by the Justice Department no longer available</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-21 00:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump" target="_blank">Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-21 00:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&at_campaign=rss" target="_blank">Survivors &#x27;nervous and sceptical&#x27; about release of remaining Epstein files</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-20 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/20/nx-s1-5650788/pope-leo-summons-cardinals-meeting-consistory" target="_blank">Pope Leo summons cardinals for a key assembly to help him govern Catholic Church</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-20 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf30/live/a96b0fa0-ddcf-11f0-b67b-690eb873de1b.jpg" alt="Survivors and lawmakers voice frustration over partial Epstein file release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&at_campaign=rss" target="_blank">Survivors and lawmakers voice frustration over partial Epstein file release</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-20 19:47</span>
             </div>
         </div>
 </div>
@@ -172,6 +167,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/buildstash/moving-from-github-actions-software-binary-management-for-any-cicd-4gg8" target="_blank">Moving from GitHub Actions? Software binary management for any CI/CD pipeline</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-21 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GotaTun-Rust-WireGuard-OSS" target="_blank">GotaTun Open-Source Rust WireGuard Implementation Announced By Mullvad</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-21 01:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/composiodev/outgrowing-zapier-make-and-n8n-for-ai-agents-the-production-migration-blueprint-5g4j" target="_blank">Outgrowing Zapier, Make, and n8n for AI Agents: The Production Migration Blueprint</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-20 23:53</span>
@@ -202,24 +215,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cj4qzgvxxgvo" target="_blank">Ireland’s Diarmuid Early wins world Microsoft Excel title</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-20 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj4qzgvxxgvo" target="_blank">&#x27;LeBron James of spreadsheets&#x27; wins world Microsoft Excel title</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-20 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/Linux-Mint-22.3-beta.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.3 Beta Released, This is What’s New" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/linux-mint-22-3-beta-released" target="_blank">Linux Mint 22.3 Beta Released, This is What’s New</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-20 19:41</span>
             </div>
         </div>
 </div>
@@ -300,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
