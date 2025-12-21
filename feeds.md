@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 03:29:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-21 04:13:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 04:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -223,6 +228,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/scam-hackers-1280x853.jpg" alt="NordProtect Online Identity Service Covers Up to $10K in Scam Losses, Now Going for Peanuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nordprotect-online-identity-service-covers-up-to-10k-in-scam-losses-now-going-for-peanuts-2000655012" target="_blank">NordProtect Online Identity Service Covers Up to $10K in Scam Losses, Now Going for Peanuts</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-20 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ASUS-Chromebook-CM30.png?fit=1200%2C800&amp;quality=55&amp;ssl=1" alt="Get 51% off a 2-in-1 Chromebook (it&#x27;s just $160!)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/20/get-51-off-a-2-in-1-chromebook-its-just-160.html" target="_blank">Get 51% off a 2-in-1 Chromebook (it&#x27;s just $160!)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-20 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/elon-1280x854.jpg" alt="He Got a Bunch of Money Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -258,24 +281,6 @@
                 <span class="time">2025-12-20 17:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/cadwalader.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Wall Street&#x27;s oldest law firm surrendered to Trump and paid the price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/20/wall-streets-oldest-law-firm-surrendered-to-trump-and-paid-the-price.html" target="_blank">Wall Street&#x27;s oldest law firm surrendered to Trump and paid the price</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-20 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/my-hero-academia-deku-1280x853.jpg" alt="The True ‘My Hero Academia’ Finale Arrives Next Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-true-my-hero-academia-finale-arrives-next-year-2000701806" target="_blank">The True ‘My Hero Academia’ Finale Arrives Next Year</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-20 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 04:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
