@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 05:02:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-12-21 06:02:14 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aiwithapex/how-transformers-really-think-inside-the-brain-of-an-ai-language-model-4e99" target="_blank">How Transformers Really Think: Inside the Brain of an AI Language Model</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-21 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mochammmad_alie/playwright-test-structure-tiny-part-that-bring-a-huge-impact-43mj" target="_blank">Playwright: Test Structure (Tiny part that bring a huge impact)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-21 04:47</span>
@@ -208,15 +218,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/12/qcon-nvidia-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QConAI NY 2025 - Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-12-21 02:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/buildstash/moving-from-github-actions-software-binary-management-for-any-cicd-4gg8" target="_blank">Moving from GitHub Actions? Software binary management for any CI/CD pipeline</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-21 01:21</span>
             </div>
         </div>
 </div>
@@ -297,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
