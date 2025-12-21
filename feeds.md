@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 21:01:43 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-21 22:01:26 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +57,15 @@
                 <span class="title"><a href="https://abcnews.go.com/US/us-coast-guard-actively-pursuing-sanctioned-vessel-official/story?id=128601028" target="_blank">US Coast Guard actively pursuing another sanctioned vessel: Official</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-21 20:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-venezuela-donald-trump_7116828.jpg?20251221160855" alt="US in &#x27;active pursuit&#x27; of third vessel off Venezuelan coast, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-in-active-pursuit-of-third-vessel-off-venezuelan-coast-officials-say-13486511" target="_blank">US in &#x27;active pursuit&#x27; of third vessel off Venezuelan coast, officials say</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-21 20:06</span>
             </div>
         </div>
 <div class="story">
@@ -84,21 +96,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-12/241202-united-states-coast-guard-logo-vl-914a-54b4a1.jpg" alt="U.S. Coast Guard in &#x27;active pursuit&#x27; of third vessel off the Venezuelan coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/21/nx-s1-5649902/aca-health-plans-costs-alternatives" target="_blank">Shopping for pricy ACA health plans? Some cheaper options come with trade-offs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-21 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/21/eu-ukraine-have-not-improved-peace-prospects-by-altering-proposal-kremlin?traffic_source=rss" target="_blank">Russia criticises European moves to amend US plan to end Ukraine war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-21 17:38</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/us-coast-guard-active-pursuit-third-vessel-venezuelan-coast-rcna250309" target="_blank">U.S. Coast Guard in &#x27;active pursuit&#x27; of third vessel off the Venezuelan coast</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-21 18:26</span>
             </div>
         </div>
 </div>
@@ -166,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faosiltx8cgl0ouy583yh.png" alt="EKS Disaster Recovery, Simplified: Native Backups with AWS Backup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sadebare/eks-disaster-recovery-simplified-native-backups-with-aws-backup-15g4" target="_blank">EKS Disaster Recovery, Simplified: Native Backups with AWS Backup</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-21 21:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,20 +222,29 @@
                 <span class="time">2025-12-21 18:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ISP4-Driver-Linux-v7" target="_blank">AMD ISP4 Linux Driver Patches Update Again For HP ZBook Ultra G1a, Future Ryzen Laptops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-21 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/vampire-lestat-louis-1280x853.jpg" alt="‘The Vampire Lestat’ Showrunner Teases Louis &amp; Claudia’s Returns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-vampire-lestat-showrunner-teases-louis-claudias-returns-2000702130" target="_blank">‘The Vampire Lestat’ Showrunner Teases Louis &amp; Claudia’s Returns</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-21 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ferriss.jpg?fit=1200%2C847&amp;quality=60&amp;ssl=1" alt="Tim Ferriss&#x27;s audience is larger than NYC. He now carries a gun, uses fake names at hotels, and gets monthly death threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/21/tim-ferrisss-audience-is-larger-than-nyc-he-now-carries-a-gun-uses-fake-names-at-hotels-and-gets-monthly-death-threats.html" target="_blank">Tim Ferriss&#x27;s audience is larger than NYC. He now carries a gun, uses fake names at hotels, and gets monthly death threats</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-21 20:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/chainsaw-man-assassins-1280x853.jpg" alt="Thank Pochita, the ‘Chainsaw Man’ Anime Will Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,24 +281,6 @@
                 <span class="time">2025-12-21 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/govee-smart-bulb-1280x853.jpg" alt="This 2-Pack Govee Smart Light Bulbs Offers 16 Million Colors, Priced Like Basic Bulb on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-2-pack-govee-smart-light-bulbs-offers-16-million-colors-priced-like-basic-bulb-on-amazon-2000655036" target="_blank">This 2-Pack Govee Smart Light Bulbs Offers 16 Million Colors, Priced Like Basic Bulb on Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-21 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/Apple-2025-MacBook-Pro-Laptop-with-M5-chip-1280x854.jpg" alt="MacBook Pro M5 With Max Config Drops Record Low, Amazon Drops Margin While Official Site Stays Full Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/macbook-pro-m5-with-max-config-drops-record-low-amazon-drops-margin-while-official-site-stays-full-price-2000655017" target="_blank">MacBook Pro M5 With Max Config Drops Record Low, Amazon Drops Margin While Official Site Stays Full Price</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-21 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
