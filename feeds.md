@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-20 23:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-21 00:05:41 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, December 20, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump" target="_blank">Apple, Google tell workers on visas to avoid leaving U.S. amid Trump immigration crackdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-21 00:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ab/live/12a8ded0-dded-11f0-afbd-d1ba55b6b5b2.jpg" alt="US seizes second oil tanker off Venezuela&#x27;s coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss" target="_blank">US seizes second oil tanker off Venezuela&#x27;s coast</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-20 23:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&at_campaign=rss" target="_blank">Survivors and lawmakers voice frustration over partial Epstein file release</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-20 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251219-Dept-of-War-aa-542-35fa59.jpg" alt="U.S. Coast Guard is seizing a vessel off the Venezuelan coast in ongoing operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/us-coast-guard-seizing-vessel-venezuelan-coast-ongoing-operation-rcna250228" target="_blank">U.S. Coast Guard is seizing a vessel off the Venezuelan coast in ongoing operation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-20 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/662e/live/72d43fd0-ddbf-11f0-aae2-2191c0e48a3b.jpg" alt="William takes George to homeless charity he visited as a child with Diana" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm20pn2llzyo?at_medium=RSS&at_campaign=rss" target="_blank">William takes George to homeless charity he visited as a child with Diana</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-20 16:02</span>
             </div>
         </div>
 </div>
@@ -164,6 +172,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/composiodev/outgrowing-zapier-make-and-n8n-for-ai-agents-the-production-migration-blueprint-5g4j" target="_blank">Outgrowing Zapier, Make, and n8n for AI Agents: The Production Migration Blueprint</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-20 23:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yash007_95/lynkbin-ai-powered-bookmark-manager-blc" target="_blank">LynkBin: AI-Powered Bookmark Manager</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-20 21:45</span>
@@ -203,15 +220,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/linux-mint-22-3-beta-released" target="_blank">Linux Mint 22.3 Beta Released, This is What’s New</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-12-20 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2481371%2F36f3dd67-2f56-4055-acbc-471f8fd1f97b.png" alt="Buenísimo!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elizabethfuentes12/buenisimo-1df9" target="_blank">Buenísimo!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-20 17:56</span>
             </div>
         </div>
 </div>
@@ -292,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
