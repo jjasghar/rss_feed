@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-21 15:01:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-21 16:01:53 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, December 21, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, December 21, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +104,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/" target="_blank">Waymo suspends service in San Francisco as robotaxis stall during blackout</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-21 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/" target="_blank">As EU waters down 2035 EV goals, electric startups express concern</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-21 15:00</span>
@@ -151,15 +152,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/" target="_blank">Google and Apple reportedly warn employees on visas to avoid international travel</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-20 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/809421/holiday-gift-guide-2025" target="_blank">The Verge’s 2025 holiday gift guide</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-20 20:30</span>
             </div>
         </div>
 </div>
@@ -227,6 +219,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Apple2024iMac-1280x853.jpg" alt="Apple M4 iMac at an All-Time Low Is Now Cheap Enough to Rival No-Name Windows Desktops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/apple-m4-imac-at-an-all-time-low-is-now-cheap-enough-to-rival-no-name-windows-desktops-2000654311" target="_blank">Apple M4 iMac at an All-Time Low Is Now Cheap Enough to Rival No-Name Windows Desktops</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-21 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/govee-smart-bulb-1280x853.jpg" alt="This 2-Pack Govee Smart Light Bulbs Offers 16 Million Colors, Priced Like Basic Bulb on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -271,15 +272,6 @@
                 <span class="time">2025-12-20 21:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/fantastic-four-ai-trailer-1280x853.jpg" alt="Rest in Hell, Fake AI-Made YouTube Trailers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/rest-in-hell-fake-ai-made-youtube-trailers-2000701825" target="_blank">Rest in Hell, Fake AI-Made YouTube Trailers</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-20 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
