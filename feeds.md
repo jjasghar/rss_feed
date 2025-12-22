@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 10:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-22 11:01:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, December 22, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +51,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/22/nx-s1-5648420/why-comedian-mike-albo-says-its-better-to-be-a-last-minute-holiday-shopper" target="_blank">Why comedian Mike Albo says it&#x27;s better to be a last-minute holiday shopper</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-22 09:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Moscow-car-bomb-DB-251222_1766389182043_hpMain_4x3t_384.jpg" alt="Moscow car bomb kills Russian general, investigators say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/moscow-car-bomb-kills-russian-general-investigators/story?id=128612304" target="_blank">Moscow car bomb kills Russian general, investigators say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-22 09:01</span>
             </div>
         </div>
 <div class="story">
@@ -89,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/22/sudanese-bloc-declares-nairobi-roadmap-but-is-it-a-civilian-breakthrough?traffic_source=rss" target="_blank">Sudanese bloc declares Nairobi roadmap, but is it a civilian breakthrough?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-22 05:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d8/live/50b39050-defe-11f0-b67b-690eb873de1b.jpg" alt="Bondi gunmen threw explosives at start of attack and practised shooting weeks before, police allege" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss" target="_blank">Bondi gunmen threw explosives at start of attack and practised shooting weeks before, police allege</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-22 05:28</span>
             </div>
         </div>
 </div>
@@ -305,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
