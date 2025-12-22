@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 15:01:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-12-22 16:01:56 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, December 22, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c234/live/86265f70-df43-11f0-b67b-690eb873de1b.jpg" alt="New Trump envoy says he will serve to make Greenland part of US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss" target="_blank">New Trump envoy says he will serve to make Greenland part of US</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-22 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/22/illegal-settlement-expansion-how-israel-is-redrawing-occupied-west-bank?traffic_source=rss" target="_blank">Illegal settlement expansion: How Israel is redrawing occupied West Bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-22 15:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/redacted-main_1766393365633_hpMain_4x3t_384.jpg" alt="Epstein&#x27;s alleged victims accuse DOJ of legal violations over state of files released" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +94,20 @@
                 <span class="time">2025-12-22 12:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d8/live/50b39050-defe-11f0-b67b-690eb873de1b.jpg" alt="Bondi gunmen &#x27;meticulously&#x27; planned attack for months, police allege" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss" target="_blank">Bondi gunmen &#x27;meticulously&#x27; planned attack for months, police allege</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-22 12:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/22/freed-nigerian-schoolchildren-set-to-be-reunited-with-families" target="_blank">Freed Nigerian schoolchildren to be reunited with families</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-22 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/848988/nvidia-chip-loans-coreweave-gpu-debt-ai-neocloud" target="_blank">Chipwrecked</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-22 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69494bd1821e10a404fb25f5/master/pass/imagesearthantarctica20140512rignot-640.jpg" alt="The Doomsday Glacier Is Getting Closer and Closer to Irreversible Collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +153,29 @@
                 <span class="time">2025-12-22 03:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/" target="_blank">Waymo resumes service in San Francisco after robotaxis stall during blackout</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-22 03:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kuwv/commit-signing-gnupg-1pl4" target="_blank">Commit Signing - GnuPG</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-22 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/22/making-your-code-base-better-will-make-your-code-coverage-worse/" target="_blank">Making your code base better will make your code coverage worse</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-22 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Target Improves Add to Cart Interactions by 11 Percent with Generative AI Recommendations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,29 +212,38 @@
                 <span class="time">2025-12-22 12:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel" target="_blank">NVIDIA&#x27;s Quest For A &quot;Safe&quot; Linux Kernel For Automobiles, Robotics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-22 11:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/latest-open-java-development-kit/en/smallimage/the-infoq-podcast-logo-thumbnail-1766138051511.jpg" alt="Podcast: The Latest in OpenJDK and JCP Expert Group: Insights with Simon Ritter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/latest-open-java-development-kit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: The Latest in OpenJDK and JCP Expert Group: Insights with Simon Ritter</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-22 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/LG-Tandem-WOLED-1280x853.jpg" alt="Get Ready for Tandem OLED TVs, but What the Hell is ‘WOLED?’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/get-ready-for-tandem-oled-tvs-but-what-the-hell-is-woled-2000702501" target="_blank">Get Ready for Tandem OLED TVs, but What the Hell is ‘WOLED?’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-22 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Xbox-Wireless-Controller-1280x853.jpg" alt="Xbox Wireless Controllers (Special Editions) Join the Clearance Lineup at an All-Time Low as Microsoft Goes Beyond Basic Colors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-wireless-controllers-special-editions-join-the-clearance-lineup-at-an-all-time-low-as-microsoft-goes-beyond-basic-colors-2000655065" target="_blank">Xbox Wireless Controllers (Special Editions) Join the Clearance Lineup at an All-Time Low as Microsoft Goes Beyond Basic Colors</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-22 15:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KCW3VPZCDR987D60JX5J6V4Y/hero-image.jpg" alt="Why I Won&#x27;t Be Getting an AI Home Gym" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/why-i-wont-be-getting-an-ai-home-gym?utm_medium=RSS" target="_blank">Why I Won&#x27;t Be Getting an AI Home Gym</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-22 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/gmktec-1280x853.jpg" alt="This Ryzen 5 PRO Mini PC Crashes to a Record Low in a Year-End Clearance After Staying Full Price on Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -248,33 +269,6 @@
                 <span class="title"><a href="https://kotaku.com/apple-offloads-airtags-at-a-record-low-not-just-airpods-and-macbooks-in-a-surprise-year-end-clearance-2000655042" target="_blank">Apple Offloads AirTags at a Record Low, Not Just AirPods and MacBooks in a Surprise Year-End Clearance</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-22 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HGFKNTNZ2PS146EWVBPK5/hero-image.jpg" alt="Use the ‘One-Touch’ Rule to Manage Your Email Inbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/use-the-one-touch-rule-to-manage-your-inbox-1850445344?utm_medium=RSS" target="_blank">Use the ‘One-Touch’ Rule to Manage Your Email Inbox</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-22 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/Boing-iRobot-Roomba.jpeg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="iRobot&#x27;s demise a warning to U.S. gadget companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/22/irobots-demise-a-warning-to-u-s-gadget-companies.html" target="_blank">iRobot&#x27;s demise a warning to U.S. gadget companies</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-22 12:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Avatar-3-Jake-Toruk-1280x853.jpg" alt="‘Avatar: Fire and Ash’ Gets Off To a Hot Theatrical Start" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/avatar-fire-and-ash-gets-off-to-a-hot-theatrical-start-2000702376" target="_blank">‘Avatar: Fire and Ash’ Gets Off To a Hot Theatrical Start</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-22 12:00</span>
             </div>
         </div>
 </div>
@@ -305,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
