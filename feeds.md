@@ -1,30 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 18:02:24 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-22 19:02:06 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, December 22, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/22/ups-stumbles-into-holiday-season-amid-shifting-trade-rules?traffic_source=rss" target="_blank">UPS stumbles into holiday season amid shifting trade rules</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-22 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/22/g-s1-103320/offshore-wind-power-pause-trump-administration-new-england-new-york-virginia-national-security" target="_blank">The Trump administration pauses wind projects off New England, New York and Virginia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-22 17:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +94,29 @@
                 <span class="time">2025-12-22 15:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/redacted-main_1766393365633_hpMain_4x3t_384.jpg" alt="Epstein&#x27;s alleged victims accuse DOJ of legal violations over state of files released" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/epsteins-alleged-victims-accuse-doj-legal-violations-state/story?id=128612219" target="_blank">Epstein&#x27;s alleged victims accuse DOJ of legal violations over state of files released</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-22 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem?traffic_source=rss" target="_blank">LIVE: Israel escalates strikes on Lebanon, displaces dozens in Jerusalem</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-22 14:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/" target="_blank">ChatGPT launches a year-end review like Spotify Wrapped</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-22 19:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro" target="_blank">Indie Game Awards retracts Expedition 33 prizes due to generative AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-22 18:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/odyssey2-500x500-1766423650.jpg" alt="Odyssey trailer brings the myth to vivid life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +153,29 @@
                 <span class="time">2025-12-22 16:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/694346f17da5542acf17db6b/master/pass/OpenAI-Reports-Sharp-Rise-in-Child-Safety-Reports-Business.jpg" alt="OpenAI’s Child Exploitation Reports Increased Sharply This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-child-safety-reports-ncmec/" target="_blank">OpenAI’s Child Exploitation Reports Increased Sharply This Year</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-22 16:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/848988/nvidia-chip-loans-coreweave-gpu-debt-ai-neocloud" target="_blank">Chipwrecked</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-22 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/elementary-os.jpg?resize=406%2C232&amp;ssl=1" alt="elementary OS 8.1 is Out – And It Now Uses Wayland by Default" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/elementary-os-8-1-is-out-and-it-now-uses-wayland-by-default" target="_blank">elementary OS 8.1 is Out – And It Now Uses Wayland by Default</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-22 18:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770610&w=600" alt="LLMOps Explained: How It Works, Key Benefits, and Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/llmops-explained-key-benefits-best-practices" target="_blank">LLMOps Explained: How It Works, Key Benefits, and Best Practices</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-22 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqfznmtujst0sw0bghvu.jpg" alt="Worn Keyboard and Dial Up Dreams: A Self-Made Programmer&#x27;s Origin Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,24 +212,6 @@
                 <span class="time">2025-12-22 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Target Improves Add to Cart Interactions by 11 Percent with Generative AI Recommendations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/target-genai-model-recommend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Target Improves Add to Cart Interactions by 11 Percent with Generative AI Recommendations</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-22 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Rust-Rex" target="_blank">Rex: Proposed Safe Rust Kernel Extensions For The Linux Kernel, In Place Of eBPF</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-22 14:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Binance-Founder-Changpeng-Zhao-FT-Report-1280x853.jpg" alt="Binance Still Processed $144 Million in Suspicious Crypto Payments After Plea Deal: Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/binance-still-processed-144-million-in-suspicious-crypto-payments-after-plea-deal-report-2000702556" target="_blank">Binance Still Processed $144 Million in Suspicious Crypto Payments After Plea Deal: Report</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-22 18:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/fortnite-x-kim-kardashian_iconickimoutfit_allcolors_1920x1080-1280x720.jpg" alt="Everybody Loves Fortnite’s Kim Kardashian Skin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +285,6 @@
                 <span class="time">2025-12-22 15:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KCW3VPZCDR987D60JX5J6V4Y/hero-image.jpg" alt="Why I Won&#x27;t Be Getting an AI Home Gym" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/why-i-wont-be-getting-an-ai-home-gym?utm_medium=RSS" target="_blank">Why I Won&#x27;t Be Getting an AI Home Gym</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-22 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
