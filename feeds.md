@@ -1,26 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 02:37:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-22 03:30:04 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 17 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 02:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, December 22, 2025 - 03:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/vance_1766363806642_hpMain_4x3t_384.jpg" alt="Vance rallies conservatives, honors Charlie Kirk at Turning Point USA convention" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/vice-president-jd-vance-rallies-conservatives-honors-charlie/story?id=128605789" target="_blank">Vance rallies conservatives, honors Charlie Kirk at Turning Point USA convention</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-22 03:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,20 +99,20 @@
                 <span class="time">2025-12-21 21:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/noem-video-ht-jt-251220_1766264963327_hpMain_4x3t_384.jpg" alt="US Coast Guard actively pursuing another sanctioned vessel: Official" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/us-coast-guard-actively-pursuing-sanctioned-vessel-official/story?id=128601028" target="_blank">US Coast Guard actively pursuing another sanctioned vessel: Official</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-21 20:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/" target="_blank">Waymo resumes service in San Francisco after robotaxis stall during blackout</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-22 03:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,20 +158,20 @@
                 <span class="time">2025-12-21 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/" target="_blank">Waymo suspends service in San Francisco as robotaxis stall during blackout</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-21 15:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc2-Released" target="_blank">Linux 6.19-rc2 Released Following A Quiet Week</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-22 00:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/animated-desktop-santa-ubuntu.jpg?resize=406%2C232&amp;ssl=1" alt="Add a Pixel Santa to Your Ubuntu Desktop for Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/sherwinwater/reading-notesthe-pragmatic-programmer-2gm5" target="_blank">How to Learn as a Software Engineer: Lessons from The Pragmatic Programmer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-21 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/MPV-0.41-Released" target="_blank">MPV 0.41 Released With Wayland Improvements, Vulkan Hardware Decoding Preferred</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-21 19:54</span>
             </div>
         </div>
 </div>
@@ -286,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 02:37 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 03:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
