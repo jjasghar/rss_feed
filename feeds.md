@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 12:02:30 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-22 13:11:59 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, December 22, 2025 - 13:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/22/g-s1-103305/up-first-newsletter-us-venezuela-oil-tankers-epstein-files-immigration-court" target="_blank">DOJ releases more Epstein files. And, immigration court &#x27;no-shows&#x27; surged, NPR finds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-22 12:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/22/syrias-government-curbing-once-booming-captagon-industry-un-report?traffic_source=rss" target="_blank">Syria’s government curbing once-booming Captagon industry: UN report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-22 12:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d8/live/50b39050-defe-11f0-b67b-690eb873de1b.jpg" alt="Bondi gunmen &#x27;meticulously&#x27; planned attack for months, police allege" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss" target="_blank">Bondi gunmen &#x27;meticulously&#x27; planned attack for months, police allege</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-22 12:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/22/freed-nigerian-schoolchildren-set-to-be-reunited-with-families" target="_blank">Freed Nigerian schoolchildren to be reunited with families</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-22 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/169d/live/d2092300-df2a-11f0-aae2-2191c0e48a3b.jpg" alt="Major incident declared over canal &#x27;sinkhole&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -55,48 +95,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251202-witkoff-3x2-rs-710fbe.jpg" alt="Sudden trips and security lapses: Steve Witkoff and Marco Rubio&#x27;s clashing diplomacy on Russia-Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/22/nx-s1-5648420/why-comedian-mike-albo-says-its-better-to-be-a-last-minute-holiday-shopper" target="_blank">Why comedian Mike Albo says it&#x27;s better to be a last-minute holiday shopper</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-22 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Moscow-car-bomb-DB-251222_1766389182043_hpMain_4x3t_384.jpg" alt="Moscow car bomb kills Russian general, investigators say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/moscow-car-bomb-kills-russian-general-investigators/story?id=128612304" target="_blank">Moscow car bomb kills Russian general, investigators say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-22 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/22/swiss-court-to-hear-indonesian-islanders-climate-case-against-cement-giant?traffic_source=rss" target="_blank">Swiss court to hear Indonesian islanders’ climate case against cement giant</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-22 07:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/22/g-s1-103284/vance-at-turning-point" target="_blank">Vance refuses to set red lines over bigotry at Turning Point USA&#x27;s convention</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-22 06:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/22/live-thailand-cambodia-resume-border-clashes-before-talks?traffic_source=rss" target="_blank">LIVE: Thailand, Cambodia resume border clashes before talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-22 05:42</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/sudden-trips-security-lapses-steve-witkoff-marco-rubios-clashing-diplo-rcna249464" target="_blank">Sudden trips and security lapses: Steve Witkoff and Marco Rubio&#x27;s clashing diplomacy on Russia-Ukraine</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-22 10:00</span>
             </div>
         </div>
 </div>
@@ -104,6 +108,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6946ecee08ba7d0c5adeb92d/master/pass/Review%20Grado%20Signature%20S650%20Audiophile%20Headphones%20122025%20top%20art%20SOURCE%20Grado.jpg" alt="Grado Signature S750 Review: Insane Sound, Old-School Fit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/grado-signature-s750/" target="_blank">Grado Signature S750 Review: Insane Sound, Old-School Fit</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-22 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +162,29 @@
                 <span class="time">2025-12-21 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/848710/christmas-song-deep-cuts" target="_blank">You need to listen to these Christmas deep cuts</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-21 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/schedule-kanban-board/" target="_blank">Away from Cloud: This Local, Offline Tool is Perfect for Personal Project Management on Linux Desktop</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-22 12:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/llm-agent-cli/en/headerimage/header4-1766206090902.jpg" alt="Toad: A Unified CLI Tool for All Your LLMs That Promises Improved UX From Existing Ones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/llm-agent-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Toad: A Unified CLI Tool for All Your LLMs That Promises Improved UX From Existing Ones</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-22 12:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,29 +221,38 @@
                 <span class="time">2025-12-22 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kellett.im/a/inverse-parentheses" target="_blank">Inverse Parentheses</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-22 08:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8x1dag1si0mquot19vso.png" alt="The “Traffic Jam” That Kills Your Database (And How to Fix It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fabiothiroki/the-traffic-jam-that-kills-your-database-and-how-to-fix-it-5gdd" target="_blank">The “Traffic Jam” That Kills Your Database (And How to Fix It)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-22 07:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/Apple-AirTag-4-Pack-1280x853.jpg" alt="Apple Offloads AirTags at a Record Low, Not Just AirPods and MacBooks in a Surprise Year-End Clearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/apple-offloads-airtags-at-a-record-low-not-just-airpods-and-macbooks-in-a-surprise-year-end-clearance-2000655042" target="_blank">Apple Offloads AirTags at a Record Low, Not Just AirPods and MacBooks in a Surprise Year-End Clearance</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-22 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HGFKNTNZ2PS146EWVBPK5/hero-image.jpg" alt="Use the ‘One-Touch’ Rule to Manage Your Email Inbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/use-the-one-touch-rule-to-manage-your-inbox-1850445344?utm_medium=RSS" target="_blank">Use the ‘One-Touch’ Rule to Manage Your Email Inbox</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-22 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/Boing-iRobot-Roomba.jpeg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="iRobot&#x27;s demise a warning to U.S. gadget companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/22/irobots-demise-a-warning-to-u-s-gadget-companies.html" target="_blank">iRobot&#x27;s demise a warning to U.S. gadget companies</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-22 12:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Avatar-3-Jake-Toruk-1280x853.jpg" alt="‘Avatar: Fire and Ash’ Gets Off To a Hot Theatrical Start" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -247,33 +278,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/21/introduce-kids-to-montessori-inspired-screentime-with-pok-pok-for-76-off.html" target="_blank">Introduce kids to Montessori-inspired screentime with Pok Pok for 76% off</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-21 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/vampire-lestat-louis-1280x853.jpg" alt="‘The Vampire Lestat’ Showrunner Teases Louis &amp; Claudia’s Returns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-vampire-lestat-showrunner-teases-louis-claudias-returns-2000702130" target="_blank">‘The Vampire Lestat’ Showrunner Teases Louis &amp; Claudia’s Returns</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-21 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ferriss.jpg?fit=1200%2C847&amp;quality=60&amp;ssl=1" alt="Tim Ferriss&#x27;s audience is larger than NYC. He now carries a gun, uses fake names at hotels, and gets monthly death threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/21/tim-ferrisss-audience-is-larger-than-nyc-he-now-carries-a-gun-uses-fake-names-at-hotels-and-gets-monthly-death-threats.html" target="_blank">Tim Ferriss&#x27;s audience is larger than NYC. He now carries a gun, uses fake names at hotels, and gets monthly death threats</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-21 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/chainsaw-man-assassins-1280x853.jpg" alt="Thank Pochita, the ‘Chainsaw Man’ Anime Will Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/chainsaw-man-assassins-arc-mappa-2000702280" target="_blank">Thank Pochita, the ‘Chainsaw Man’ Anime Will Return</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-21 17:25</span>
             </div>
         </div>
 </div>
@@ -304,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 13:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
