@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 11:01:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-22 12:02:30 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, December 22, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/169d/live/d2092300-df2a-11f0-aae2-2191c0e48a3b.jpg" alt="Major incident declared over canal &#x27;sinkhole&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2lvq0yk9dko?at_medium=RSS&at_campaign=rss" target="_blank">Major incident declared over canal &#x27;sinkhole&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-22 11:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/22/live-thailand-cambodia-resume-border-clashes-before-talks?traffic_source=rss" target="_blank">LIVE: Thailand, Cambodia resume border clashes before talks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-22 05:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/22/sudanese-bloc-declares-nairobi-roadmap-but-is-it-a-civilian-breakthrough?traffic_source=rss" target="_blank">Sudanese bloc declares Nairobi roadmap, but is it a civilian breakthrough?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-22 05:29</span>
             </div>
         </div>
 </div>
@@ -163,6 +164,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel" target="_blank">NVIDIA&#x27;s Quest For A &quot;Safe&quot; Linux Kernel For Automobiles, Robotics</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-22 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/podcasts/latest-open-java-development-kit/en/smallimage/the-infoq-podcast-logo-thumbnail-1766138051511.jpg" alt="Podcast: The Latest in OpenJDK and JCP Expert Group: Insights with Simon Ritter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/latest-open-java-development-kit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: The Latest in OpenJDK and JCP Expert Group: Insights with Simon Ritter</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-22 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/" target="_blank">If You Don&#x27;t Design Your Career, Someone Else Will</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-22 10:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/12/neptune-ai-platform-engineer/en/headerimage/neptune-ai-platform-engineer-1766318360872.jpeg" alt="Neptune Combines AI‑Assisted Infrastructure as Code and Cloud Deployments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -189,38 +217,29 @@
                 <span class="time">2025-12-22 07:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prompt_tester_a468156e6c1/i-made-a-free-list-of-100-product-hunt-alternatives-emh" target="_blank">I made a free list of 100+ Product Hunt alternatives</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-22 05:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/java-news-roundup-dec15-2025/en/headerimage/java-istock-image-01-1766360072839.jpg" alt="Java News Roundup: GlassFish, TornadoVM, Spring Shell, WildFly, Hibernate, Kotlin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/java-news-roundup-dec15-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: GlassFish, TornadoVM, Spring Shell, WildFly, Hibernate, Kotlin</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-22 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc2-Released" target="_blank">Linux 6.19-rc2 Released Following A Quiet Week</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-22 00:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Avatar-3-Jake-Toruk-1280x853.jpg" alt="‘Avatar: Fire and Ash’ Gets Off To a Hot Theatrical Start" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/avatar-fire-and-ash-gets-off-to-a-hot-theatrical-start-2000702376" target="_blank">‘Avatar: Fire and Ash’ Gets Off To a Hot Theatrical Start</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-22 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/bafkreidajs22togfmwtplk4b6z22xjgoaf2hybwmaeg3ubu3xlb2iyk6ma.jpg?fit=1000%2C560&amp;quality=60&amp;ssl=1" alt="60 Minutes cancels broadcast of investigation into  El Salvador megaprison Trump sent detainees to" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/22/60-minutes-cancels-broadcast-of-investigation-into-el-salvador-megaprison-trump-sent-detainees-to.html" target="_blank">60 Minutes cancels broadcast of investigation into  El Salvador megaprison Trump sent detainees to</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-22 10:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Pok-Pok.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Introduce kids to Montessori-inspired screentime with Pok Pok for 76% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,24 +276,6 @@
                 <span class="time">2025-12-21 17:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/The-CISSP-Security-Risk-Management-Training-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Thinking about the CISSP? This $24.97 training bundle covers all eight domains." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/21/thinking-about-the-cissp-this-24-97-training-bundle-covers-all-eight-domains.html" target="_blank">Thinking about the CISSP? This $24.97 training bundle covers all eight domains.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-21 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/waymo-intersection-1-1280x853.jpg" alt="Blackout in San Francisco Litters Streets with Traffic-Blocking, Deactivated Waymos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/blackout-in-san-francisco-litters-streets-with-traffic-blocking-deactivated-waymos-2000702290" target="_blank">Blackout in San Francisco Litters Streets with Traffic-Blocking, Deactivated Waymos</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-21 15:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
