@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 14:01:38 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-22 15:01:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 14:01 UTC</div>
+    <div class="newspaper-date">Monday, December 22, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/redacted-main_1766393365633_hpMain_4x3t_384.jpg" alt="Epstein&#x27;s alleged victims accuse DOJ of legal violations over state of files released" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/epsteins-alleged-victims-accuse-doj-legal-violations-state/story?id=128612219" target="_blank">Epstein&#x27;s alleged victims accuse DOJ of legal violations over state of files released</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-22 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem?traffic_source=rss" target="_blank">LIVE: Israel escalates strikes on Lebanon, displaces dozens in Jerusalem</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-22 14:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +100,29 @@
                 <span class="time">2025-12-22 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/169d/live/d2092300-df2a-11f0-aae2-2191c0e48a3b.jpg" alt="Major incident declared over canal &#x27;sinkhole&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2lvq0yk9dko?at_medium=RSS&at_campaign=rss" target="_blank">Major incident declared over canal &#x27;sinkhole&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-22 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251202-witkoff-3x2-rs-710fbe.jpg" alt="Sudden trips and security lapses: Steve Witkoff and Marco Rubio&#x27;s clashing diplomacy on Russia-Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/sudden-trips-security-lapses-steve-witkoff-marco-rubios-clashing-diplo-rcna249464" target="_blank">Sudden trips and security lapses: Steve Witkoff and Marco Rubio&#x27;s clashing diplomacy on Russia-Ukraine</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-22 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69494bd1821e10a404fb25f5/master/pass/imagesearthantarctica20140512rignot-640.jpg" alt="The Doomsday Glacier Is Getting Closer and Closer to Irreversible Collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-doomsday-glacier-is-getting-closer-and-closer-to-irreversible-collapse/" target="_blank">The Doomsday Glacier Is Getting Closer and Closer to Irreversible Collapse</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-22 14:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/22/tiktok-shop-launches-digital-gift-cards-to-challenge-amazon-and-ebay/" target="_blank">TikTok Shop launches digital gift cards to challenge Amazon and eBay</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-22 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,29 +159,29 @@
                 <span class="time">2025-12-22 03:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/21/a-rough-week-for-hardware-companies/" target="_blank">A rough week for hardware companies</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-21 22:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/848843/waymo-san-francisco-power-outage" target="_blank">Frozen Waymos backed up San Francisco traffic during a widespread power outage</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-21 19:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Target Improves Add to Cart Interactions by 11 Percent with Generative AI Recommendations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/target-genai-model-recommend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Target Improves Add to Cart Interactions by 11 Percent with Generative AI Recommendations</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-22 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Rust-Rex" target="_blank">Rex: Proposed Safe Rust Kernel Extensions For The Linux Kernel, In Place Of eBPF</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-22 14:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,29 +218,20 @@
                 <span class="time">2025-12-22 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/" target="_blank">If You Don&#x27;t Design Your Career, Someone Else Will</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-22 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/neptune-ai-platform-engineer/en/headerimage/neptune-ai-platform-engineer-1766318360872.jpeg" alt="Neptune Combines AI‑Assisted Infrastructure as Code and Cloud Deployments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/neptune-ai-platform-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Neptune Combines AI‑Assisted Infrastructure as Code and Cloud Deployments</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-22 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/gmktec-1280x853.jpg" alt="This Ryzen 5 PRO Mini PC Crashes to a Record Low in a Year-End Clearance After Staying Full Price on Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-ryzen-5-pro-mini-pc-crashes-to-a-record-low-in-a-year-end-clearance-after-staying-full-price-on-black-friday-2000655004" target="_blank">This Ryzen 5 PRO Mini PC Crashes to a Record Low in a Year-End Clearance After Staying Full Price on Black Friday</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-22 14:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/JBLGrip-1280x853.jpg" alt="JBL Grip Just Became the Cheapest Speaker With a Christmas Discount, Beating Black Friday Pricing and Shipping Before 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +277,6 @@
                 <span class="time">2025-12-22 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/bafkreidajs22togfmwtplk4b6z22xjgoaf2hybwmaeg3ubu3xlb2iyk6ma.jpg?fit=1000%2C560&amp;quality=60&amp;ssl=1" alt="60 Minutes cancels broadcast of investigation into  El Salvador megaprison Trump sent detainees to" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/22/60-minutes-cancels-broadcast-of-investigation-into-el-salvador-megaprison-trump-sent-detainees-to.html" target="_blank">60 Minutes cancels broadcast of investigation into  El Salvador megaprison Trump sent detainees to</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-22 10:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
