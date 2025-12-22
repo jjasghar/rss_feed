@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 07:04:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-22 08:02:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 07:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, December 22, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/22/swiss-court-to-hear-indonesian-islanders-climate-case-against-cement-giant?traffic_source=rss" target="_blank">Swiss court to hear Indonesian islanders’ climate case against cement giant</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-22 07:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/22/two-palestine-action-hunger-strikers-in-uk-prisons-admitted-to-hospital?traffic_source=rss" target="_blank">Two Palestine Action hunger strikers in UK prisons admitted to hospital</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-22 03:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/vance_1766363806642_hpMain_4x3t_384.jpg" alt="Vance rallies conservatives, honors Charlie Kirk at Turning Point USA convention" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/vice-president-jd-vance-rallies-conservatives-honors-charlie/story?id=128605789" target="_blank">Vance rallies conservatives, honors Charlie Kirk at Turning Point USA convention</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-22 03:14</span>
             </div>
         </div>
 </div>
@@ -161,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8x1dag1si0mquot19vso.png" alt="The “Traffic Jam” That Kills Your Database (And How to Fix It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fabiothiroki/the-traffic-jam-that-kills-your-database-and-how-to-fix-it-5gdd" target="_blank">The “Traffic Jam” That Kills Your Database (And How to Fix It)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-22 07:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,20 +216,20 @@
                 <span class="time">2025-12-21 23:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fhmpl-lang.dev%2F_astro%2Flogo.B6C6-HHf.svg" alt="https://hmpl-lang.dev - new website" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anthonymax/httpshmpl-langdev-new-website-1gib" target="_blank">https://hmpl-lang.dev - new website</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-21 22:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Pok-Pok.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Introduce kids to Montessori-inspired screentime with Pok Pok for 76% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/21/introduce-kids-to-montessori-inspired-screentime-with-pok-pok-for-76-off.html" target="_blank">Introduce kids to Montessori-inspired screentime with Pok Pok for 76% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-21 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/vampire-lestat-louis-1280x853.jpg" alt="‘The Vampire Lestat’ Showrunner Teases Louis &amp; Claudia’s Returns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +275,6 @@
                 <span class="time">2025-12-21 15:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Apple2024iMac-1280x853.jpg" alt="Apple M4 iMac at an All-Time Low Is Now Cheap Enough to Rival No-Name Windows Desktops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/apple-m4-imac-at-an-all-time-low-is-now-cheap-enough-to-rival-no-name-windows-desktops-2000654311" target="_blank">Apple M4 iMac at an All-Time Low Is Now Cheap Enough to Rival No-Name Windows Desktops</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-21 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
