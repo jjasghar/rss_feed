@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 00:05:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-22 01:30:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 00:05 UTC</div>
+    <div class="newspaper-date">Monday, December 22, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766362515462_wnn_dha_active_pursuit_third_tanker_251221_1920x1080-yn9ok4.jpg" alt="U.S. Coast Guard &#x27;in active pursuit&#x27; of third vessel off Venezuelan coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/u-s-coast-guard-in-active-pursuit-of-third-vessel-off-venezuelan-coast-254822981857" target="_blank">U.S. Coast Guard &#x27;in active pursuit&#x27; of third vessel off Venezuelan coast</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-22 00:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +101,6 @@
                 <span class="title"><a href="https://news.sky.com/story/us-in-active-pursuit-of-third-vessel-off-venezuelan-coast-officials-say-13486511" target="_blank">US in &#x27;active pursuit&#x27; of third vessel off Venezuelan coast, officials say</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-12-21 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria" target="_blank">Another 130 kidnapped schoolchildren released in Nigeria</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-21 20:05</span>
             </div>
         </div>
 </div>
@@ -161,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/santa-desktop-pet-ubuntu-gnomelets" target="_blank">Add a Roaming Pixel Santa to Your Ubuntu Desktop for Christmas</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-21 23:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fhmpl-lang.dev%2F_astro%2Flogo.B6C6-HHf.svg" alt="https://hmpl-lang.dev - new website" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/palman22hue/built-a-32d-emotional-state-tracking-system-for-transparent-ethical-ai-now-open-source-gplv3-1doa" target="_blank">Built a 32D Emotional State Tracking system for transparent ethical AI - Now open source (GPLv3)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-21 19:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://docs.python.org/3.15/whatsnew/3.15.html" target="_blank">What’s new in Python 3.15</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-21 18:26</span>
             </div>
         </div>
 </div>
@@ -292,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
