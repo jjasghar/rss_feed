@@ -1,39 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 01:30:06 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-22 02:37:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 2 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, December 22, 2025 - 02:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/22/morocco-seal-afcon-win-against-comoros-in-2025-opener?traffic_source=rss" target="_blank">Morocco seal AFCON win against Comoros in 2025 opener</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-22 02:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766362515462_wnn_dha_active_pursuit_third_tanker_251221_1920x1080-yn9ok4.jpg" alt="U.S. Coast Guard &#x27;in active pursuit&#x27; of third vessel off Venezuelan coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +88,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/us-coast-guard-actively-pursuing-sanctioned-vessel-official/story?id=128601028" target="_blank">US Coast Guard actively pursuing another sanctioned vessel: Official</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-21 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-venezuela-donald-trump_7116828.jpg?20251221160855" alt="US in &#x27;active pursuit&#x27; of third vessel off Venezuelan coast, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-in-active-pursuit-of-third-vessel-off-venezuelan-coast-officials-say-13486511" target="_blank">US in &#x27;active pursuit&#x27; of third vessel off Venezuelan coast, officials say</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-21 20:06</span>
             </div>
         </div>
 </div>
@@ -168,6 +155,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/animated-desktop-santa-ubuntu.jpg?resize=406%2C232&amp;ssl=1" alt="Add a Pixel Santa to Your Ubuntu Desktop for Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/santa-desktop-pet-ubuntu-gnomelets" target="_blank">Add a Pixel Santa to Your Ubuntu Desktop for Christmas</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-21 23:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -210,15 +206,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/MPV-0.41-Released" target="_blank">MPV 0.41 Released With Wayland Improvements, Vulkan Hardware Decoding Preferred</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-21 19:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/palman22hue/built-a-32d-emotional-state-tracking-system-for-transparent-ethical-ai-now-open-source-gplv3-1doa" target="_blank">Built a 32D Emotional State Tracking system for transparent ethical AI - Now open source (GPLv3)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-21 19:43</span>
             </div>
         </div>
 </div>
@@ -300,7 +287,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 01:30 UTC
+        🔄 Last Updated: 02:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
