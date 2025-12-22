@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 16:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-22 17:02:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, December 22, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine?traffic_source=rss" target="_blank">Texas town battles nonstop noise from bitcoin mine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-22 16:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c234/live/86265f70-df43-11f0-b67b-690eb873de1b.jpg" alt="New Trump envoy says he will serve to make Greenland part of US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +100,29 @@
                 <span class="time">2025-12-22 12:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/22/syrias-government-curbing-once-booming-captagon-industry-un-report?traffic_source=rss" target="_blank">Syria’s government curbing once-booming Captagon industry: UN report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-22 12:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/849065/beats-headphones-pixel-10-paperwhite-deals-sales" target="_blank">The Beats Studio Pro headphones are $200 off today</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-22 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/694346f17da5542acf17db6b/master/pass/OpenAI-Reports-Sharp-Rise-in-Child-Safety-Reports-Business.jpg" alt="OpenAI’s Child Exploitation Reports Increased Sharply This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-child-safety-reports-ncmec/" target="_blank">OpenAI’s Child Exploitation Reports Increased Sharply This Year</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-22 16:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +159,6 @@
                 <span class="time">2025-12-22 13:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6946ecee08ba7d0c5adeb92d/master/pass/Review%20Grado%20Signature%20S650%20Audiophile%20Headphones%20122025%20top%20art%20SOURCE%20Grado.jpg" alt="Grado Signature S750 Review: Insane Sound, Old-School Fit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/grado-signature-s750/" target="_blank">Grado Signature S750 Review: Insane Sound, Old-School Fit</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-22 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees" target="_blank">Honey: all the news about PayPal’s alleged scam coupon app</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-22 03:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +171,15 @@
                 <span class="title"><a href="https://dev.to/kuwv/commit-signing-gnupg-1pl4" target="_blank">Commit Signing - GnuPG</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-22 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-619-amdgpu-radeon" target="_blank">Linux 6.19&#x27;s Significant ~30% Performance Boost For Old AMD Radeon GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-22 15:14</span>
             </div>
         </div>
 <div class="story">
@@ -203,20 +218,29 @@
                 <span class="time">2025-12-22 12:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/llm-agent-cli/en/headerimage/header4-1766206090902.jpg" alt="Toad: A Unified CLI Tool for All Your LLMs That Promises Improved UX From Existing Ones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/llm-agent-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Toad: A Unified CLI Tool for All Your LLMs That Promises Improved UX From Existing Ones</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-22 12:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/image-20.jpg" alt="Dreamcast Web Browsing Is Dead Over 25 Years Later Thanks To Google" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dreamcast-web-browsing-is-dead-over-25-years-later-thanks-to-google-2000655137" target="_blank">Dreamcast Web Browsing Is Dead Over 25 Years Later Thanks To Google</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-22 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/venus-and-starlinks-1280x853.jpg" alt="Russia Is Developing Orbiting Clouds of Shrapnel to Take Down Starlinks, NATO Suspects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/russia-is-developing-orbiting-clouds-of-shrapnel-to-take-down-starlinks-nato-suspects-2000702532" target="_blank">Russia Is Developing Orbiting Clouds of Shrapnel to Take Down Starlinks, NATO Suspects</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-22 16:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/LG-Tandem-WOLED-1280x853.jpg" alt="Get Ready for Tandem OLED TVs, but What the Hell is ‘WOLED?’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -253,29 +277,20 @@
                 <span class="time">2025-12-22 14:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/JBLGrip-1280x853.jpg" alt="JBL Grip Just Became the Cheapest Speaker With a Christmas Discount, Beating Black Friday Pricing and Shipping Before 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jbl-grip-just-became-the-cheapest-speaker-with-a-christmas-discount-beating-black-friday-pricing-and-shipping-before-2026-2000654889" target="_blank">JBL Grip Just Became the Cheapest Speaker With a Christmas Discount, Beating Black Friday Pricing and Shipping Before 2026</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-22 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/Apple-AirTag-4-Pack-1280x853.jpg" alt="Apple Offloads AirTags at a Record Low, Not Just AirPods and MacBooks in a Surprise Year-End Clearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/apple-offloads-airtags-at-a-record-low-not-just-airpods-and-macbooks-in-a-surprise-year-end-clearance-2000655042" target="_blank">Apple Offloads AirTags at a Record Low, Not Just AirPods and MacBooks in a Surprise Year-End Clearance</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-22 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1766379731-20251222 - edit.png" alt="Saturday Morning Breakfast Cereal - Comparative" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/comparative" target="_blank">Saturday Morning Breakfast Cereal - Comparative</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-22 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -285,22 +300,13 @@
                 <span class="time">2025-12-22 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1766250261-20251221_edit.png" alt="Saturday Morning Breakfast Cereal - Mad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/mad-2" target="_blank">Saturday Morning Breakfast Cereal - Mad</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-21 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
