@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 22:01:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-22 23:01:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, December 22, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +102,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69498b904d6b846f95b00a69/master/pass/Update%20Best%20Dehumidifiers%20top%20art%20122025%20SOURCE%20Amazon.jpg" alt="6 Best Dehumidifiers to Keep Your Home Mold-Free (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-dehumidifier/" target="_blank">6 Best Dehumidifiers to Keep Your Home Mold-Free (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-22 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/" target="_blank">OpenAI says AI browsers may always be vulnerable to prompt injection attacks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-22 22:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6949ab723455c5203c48eae8/master/pass/Deals%20One%20of%20WIREDs%20Favorite%20Chef%20Knives%20is%20Free%20With%20a%20HelloFresh%20Membership%20SOURCE%20Crate&Barrel_HelloFresh.jpg" alt="HelloFresh Meal Kit&#x27;s Discount Code for December 2025 Unlocks a Free Zwilling Knife" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -141,24 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield" target="_blank">Call of Duty, Titanfall developer Vince Zampella has died at age 55</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-22 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/22/trump-admin-halts-6-gw-of-offshore-wind-leases-again/" target="_blank">Trump admin halts 6 GW of offshore wind leases again</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-22 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/22/paramount-renews-bid-for-warner-bros-ensuring-40-billion-larry-ellison-backing/" target="_blank">Paramount renews bid for Warner Bros, ensuring $40 billion Larry Ellison backing</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-22 19:53</span>
             </div>
         </div>
 </div>
@@ -240,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/war-between-land-and-sea-salt-ending-1280x853.jpg" alt="Disney Is Doing the World a Favor by Not Letting You See That ‘Doctor Who’ Spinoff Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/war-between-the-land-and-the-sea-finale-spoilers-doctor-who-2000702672" target="_blank">Disney Is Doing the World a Favor by Not Letting You See That ‘Doctor Who’ Spinoff Yet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-22 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/01/spacex-starship-flight-7-1280x853.jpg" alt="Report: Starship Debris Came Closer to Airplanes Than SpaceX Admits" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -267,30 +270,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/s-court-e1742315066663.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Fearing ICE immigrants are skipping their court dates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/22/fearing-ice-immigrants-are-skipping-their-court-dates.html" target="_blank">Fearing ICE immigrants are skipping their court dates</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-22 20:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KD3Q1D3B88GG07GAG1ZN1F6G/hero-image.jpg" alt="The Best (and Worst) Fitness Devices I Tested in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/health/best-and-worst-fitness-devices-of-2025?utm_medium=RSS" target="_blank">The Best (and Worst) Fitness Devices I Tested in 2025</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-22 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Photo-Banksy-via-Instagram.jpg?fit=1080%2C839&amp;quality=60&amp;ssl=1" alt="Stargazers: Banksy street murals appear in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/22/stargazers-banksy-street-murals-appear-in-london.html" target="_blank">Stargazers: Banksy street murals appear in London</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-22 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2022/05/a773d163b9321804bc7f449624385a20-1280x719.jpg" alt="Vince Zampella, Battlefield Boss And Call Of Duty Co-Creator, Killed In Car Crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/report-vince-zampella-battlefield-boss-and-call-of-duty-co-creator-killed-in-car-crash-2000655216" target="_blank">Vince Zampella, Battlefield Boss And Call Of Duty Co-Creator, Killed In Car Crash</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-22 19:52</span>
             </div>
         </div>
 </div>
@@ -330,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
