@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 19:02:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-22 20:02:12 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, December 22, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f8b/live/09562070-df5c-11f0-a8dc-93c15fe68710.jpg" alt="Post Office had deal with Fujitsu to fix Horizon errors 19 years ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqlkx6n15ero?at_medium=RSS&at_campaign=rss" target="_blank">Post Office had deal with Fujitsu to fix Horizon errors 19 years ago</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-22 18:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +100,38 @@
                 <span class="time">2025-12-22 15:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/22/illegal-settlement-expansion-how-israel-is-redrawing-occupied-west-bank?traffic_source=rss" target="_blank">Illegal settlement expansion: How Israel is redrawing occupied West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-22 15:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/22/paramount-renews-bid-for-warner-bros-ensuring-40-billion-larry-ellison-backing/" target="_blank">Paramount renews bid for Warner Bros, ensuring $40 billion Larry Ellison backing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-22 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar" target="_blank">Bitcoin does cultural diplomacy in a dive bar</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-22 19:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6945e53bd4b8b1bc484e63ce/master/pass/Security_Epstein_2_Getty.jpg" alt="The Justice Department Just Released More Epstein Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-justice-department-just-released-more-epstein-files/" target="_blank">The Justice Department Just Released More Epstein Files</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-22 19:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,38 +159,20 @@
                 <span class="time">2025-12-22 17:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/22/elevate-your-home-bar-with-these-mixology-gadgets/" target="_blank">Elevate your home bar with these mixology gadgets</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-22 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/849044/netflix-original-leaving-streaming-platform-2026" target="_blank">Netflix doesn&amp;#8217;t stream its &amp;#8216;Originals&amp;#8217; forever, here are some that may leave in 2026</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-22 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/849065/beats-headphones-pixel-10-paperwhite-deals-sales" target="_blank">The Beats Studio Pro headphones are $200 off today</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-22 16:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/karant_dev/art-of-a-good-question-3kkl" target="_blank">Art of a Good Question</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-22 19:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/elementary-os.jpg?resize=406%2C232&amp;ssl=1" alt="elementary OS 8.1 is Out – And It Now Uses Wayland by Default" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -165,6 +180,15 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/elementary-os-8-1-is-out-and-it-now-uses-wayland-by-default" target="_blank">elementary OS 8.1 is Out – And It Now Uses Wayland by Default</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-12-22 18:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/elementary-os-8-1-release/" target="_blank">Christams Comes Early With elementary OS 8.1 Release</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-22 18:07</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/kuwv/commit-signing-gnupg-1pl4" target="_blank">Commit Signing - GnuPG</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-22 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-619-amdgpu-radeon" target="_blank">Linux 6.19&#x27;s Significant ~30% Performance Boost For Old AMD Radeon GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-22 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/22/making-your-code-base-better-will-make-your-code-coverage-worse/" target="_blank">Making your code base better will make your code coverage worse</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-22 15:00</span>
             </div>
         </div>
 </div>
@@ -268,21 +274,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ByfordDolphinAtInvergordon2008.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="The 1983 diving accident that killed five through explosive decompression" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/22/the-1983-diving-accident-that-killed-five-through-explosive-decompression.html" target="_blank">The 1983 diving accident that killed five through explosive decompression</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-22 16:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/LG-Tandem-WOLED-1280x853.jpg" alt="Get Ready for Tandem OLED TVs, but What the Hell is ‘WOLED?’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/get-ready-for-tandem-oled-tvs-but-what-the-hell-is-woled-2000702501" target="_blank">Get Ready for Tandem OLED TVs, but What the Hell is ‘WOLED?’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-22 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Xbox-Wireless-Controller-1280x853.jpg" alt="Xbox Wireless Controllers (Special Editions) Join the Clearance Lineup at an All-Time Low as Microsoft Goes Beyond Basic Colors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-wireless-controllers-special-editions-join-the-clearance-lineup-at-an-all-time-low-as-microsoft-goes-beyond-basic-colors-2000655065" target="_blank">Xbox Wireless Controllers (Special Editions) Join the Clearance Lineup at an All-Time Low as Microsoft Goes Beyond Basic Colors</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-22 15:35</span>
             </div>
         </div>
 </div>
@@ -313,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
