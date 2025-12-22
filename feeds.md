@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 08:02:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-22 09:03:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 08:02 UTC</div>
+    <div class="newspaper-date">Monday, December 22, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -90,12 +89,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-naveed-akram-bondi-beach_7117237.jpg?20251222072149" alt="Bondi Beach shooting suspect trained with father before attack, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/22/two-palestine-action-hunger-strikers-in-uk-prisons-admitted-to-hospital?traffic_source=rss" target="_blank">Two Palestine Action hunger strikers in UK prisons admitted to hospital</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-22 03:41</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/bondi-beach-shooting-suspect-trained-with-father-before-attack-police-say-13486555" target="_blank">Bondi Beach shooting suspect trained with father before attack, police say</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-22 04:30</span>
             </div>
         </div>
 </div>
@@ -163,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/12/neptune-ai-platform-engineer/en/headerimage/neptune-ai-platform-engineer-1766318360872.jpeg" alt="Neptune Combines AI‑Assisted Infrastructure as Code and Cloud Deployments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/neptune-ai-platform-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Neptune Combines AI‑Assisted Infrastructure as Code and Cloud Deployments</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-22 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://kellett.im/a/inverse-parentheses" target="_blank">Inverse Parentheses</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-22 08:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8x1dag1si0mquot19vso.png" alt="The “Traffic Jam” That Kills Your Database (And How to Fix It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc2-Released" target="_blank">Linux 6.19-rc2 Released Following A Quiet Week</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-22 00:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/animated-desktop-santa-ubuntu.jpg?resize=406%2C232&amp;ssl=1" alt="Add a Pixel Santa to Your Ubuntu Desktop for Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/santa-desktop-pet-ubuntu-gnomelets" target="_blank">Add a Pixel Santa to Your Ubuntu Desktop for Christmas</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-21 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/santa-desktop-pet-ubuntu-gnomelets" target="_blank">Add a Roaming Pixel Santa to Your Ubuntu Desktop for Christmas</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-21 23:16</span>
             </div>
         </div>
 </div>
@@ -281,6 +280,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/22/children-in-danger-part-two" target="_blank">Children In Danger, Part Two</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-22 08:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1766250261-20251221_edit.png" alt="Saturday Morning Breakfast Cereal - Mad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -294,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
