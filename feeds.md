@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 06:02:41 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-22 07:04:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, December 22, 2025 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,10 +45,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/22/g-s1-103284/vance-at-turning-point" target="_blank">Vance refuses to set red lines over bigotry at Turning Point USA&#x27;s convention</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-22 06:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/12/22/live-thailand-cambodia-resume-border-clashes-before-talks?traffic_source=rss" target="_blank">LIVE: Thailand, Cambodia resume border clashes before talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-22 05:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/22/sudanese-bloc-declares-nairobi-roadmap-but-is-it-a-civilian-breakthrough?traffic_source=rss" target="_blank">Sudanese bloc declares Nairobi roadmap, but is it a civilian breakthrough?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-22 05:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d8/live/50b39050-defe-11f0-b67b-690eb873de1b.jpg" alt="Bondi gunmen threw explosives at start of attack and practised shooting weeks before, police allege" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss" target="_blank">Bondi gunmen threw explosives at start of attack and practised shooting weeks before, police allege</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-22 05:28</span>
             </div>
         </div>
 <div class="story">
@@ -73,33 +94,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/vice-president-jd-vance-rallies-conservatives-honors-charlie/story?id=128605789" target="_blank">Vance rallies conservatives, honors Charlie Kirk at Turning Point USA convention</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-22 03:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/21/nx-s1-5651294/rick-steves-saves-homeless-seattle-area-hygiene-center" target="_blank">Rick Steves steps in to save Seattle-area hygiene center serving homeless residents</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-22 02:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/22/morocco-seal-afcon-win-against-comoros-in-2025-opener?traffic_source=rss" target="_blank">Morocco seal AFCON win against Comoros in 2025 opener</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-22 02:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766362515462_wnn_dha_active_pursuit_third_tanker_251221_1920x1080-yn9ok4.jpg" alt="U.S. Coast Guard &#x27;in active pursuit&#x27; of third vessel off Venezuelan coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/u-s-coast-guard-in-active-pursuit-of-third-vessel-off-venezuelan-coast-254822981857" target="_blank">U.S. Coast Guard &#x27;in active pursuit&#x27; of third vessel off Venezuelan coast</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-22 00:15</span>
             </div>
         </div>
 </div>
@@ -298,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
