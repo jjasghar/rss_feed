@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 17:02:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-22 18:02:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, December 22, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -65,6 +59,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d60b/live/43113220-df55-11f0-b67b-690eb873de1b.jpg" alt="Two identical Banksy murals appear in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62d16q93x4o?at_medium=RSS&at_campaign=rss" target="_blank">Two identical Banksy murals appear in London</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-22 15:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -91,20 +94,38 @@
                 <span class="time">2025-12-22 14:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/22/g-s1-103305/up-first-newsletter-us-venezuela-oil-tankers-epstein-files-immigration-court" target="_blank">DOJ releases more Epstein files. And, immigration court &#x27;no-shows&#x27; surged, NPR finds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-22 12:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/odyssey2-500x500-1766423650.jpg" alt="Odyssey trailer brings the myth to vivid life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/12/odyssey-trailer-brings-the-myth-to-vivid-life/" target="_blank">Odyssey trailer brings the myth to vivid life</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-22 17:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/22/elevate-your-home-bar-with-these-mixology-gadgets/" target="_blank">Elevate your home bar with these mixology gadgets</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-22 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/849044/netflix-original-leaving-streaming-platform-2026" target="_blank">Netflix doesn&amp;#8217;t stream its &amp;#8216;Originals&amp;#8217; forever, here are some that may leave in 2026</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-22 17:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,38 +153,20 @@
                 <span class="time">2025-12-22 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69494bd1821e10a404fb25f5/master/pass/imagesearthantarctica20140512rignot-640.jpg" alt="The Doomsday Glacier Is Getting Closer and Closer to Irreversible Collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-doomsday-glacier-is-getting-closer-and-closer-to-irreversible-collapse/" target="_blank">The Doomsday Glacier Is Getting Closer and Closer to Irreversible Collapse</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-22 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/22/tiktok-shop-launches-digital-gift-cards-to-challenge-amazon-and-ebay/" target="_blank">TikTok Shop launches digital gift cards to challenge Amazon and eBay</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-22 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/848934/samsung-wide-fold-apple-iphone-foldable-4-3" target="_blank">Samsung &amp;#8216;Wide Fold&amp;#8217; rumored to rival Apple’s foldable next year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-22 13:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftqfznmtujst0sw0bghvu.jpg" alt="Worn Keyboard and Dial Up Dreams: A Self-Made Programmer&#x27;s Origin Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/introvertedspud/worn-keyboard-and-dial-up-dreams-a-self-made-programmers-origin-story-3hna" target="_blank">Worn Keyboard and Dial Up Dreams: A Self-Made Programmer&#x27;s Origin Story</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-22 17:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,13 +212,18 @@
                 <span class="time">2025-12-22 14:18</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/schedule-kanban-board/" target="_blank">Away from Cloud: This Local, Offline Tool is Perfect for Personal Project Management on Linux Desktop</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-22 12:43</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html" target="_blank">Microsoft Is Finally Killing RC4</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-22 17:05</span>
             </div>
         </div>
 </div>
@@ -223,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/fortnite-x-kim-kardashian_iconickimoutfit_allcolors_1920x1080-1280x720.jpg" alt="Everybody Loves Fortnite’s Kim Kardashian Skin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kim-kardashian-fortnite-skin-item-shop-most-used-2000655163" target="_blank">Everybody Loves Fortnite’s Kim Kardashian Skin</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-22 17:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/image-20.jpg" alt="Dreamcast Web Browsing Is Dead Over 25 Years Later Thanks To Google" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +285,6 @@
                 <span class="time">2025-12-22 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/gmktec-1280x853.jpg" alt="This Ryzen 5 PRO Mini PC Crashes to a Record Low in a Year-End Clearance After Staying Full Price on Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-ryzen-5-pro-mini-pc-crashes-to-a-record-low-in-a-year-end-clearance-after-staying-full-price-on-black-friday-2000655004" target="_blank">This Ryzen 5 PRO Mini PC Crashes to a Record Low in a Year-End Clearance After Staying Full Price on Black Friday</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-22 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
