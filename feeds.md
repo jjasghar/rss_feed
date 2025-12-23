@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 03:29:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-23 04:13:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 04:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/we-have-to-have-it-trump-renews-greenland-push-as-denmark-lodges-protest?traffic_source=rss" target="_blank">‘We have to have it’: Trump renews push for Greenland as Denmark protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-23 03:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251222-trump-battleship-mn-2000-957091.jpg" alt="Trump announces new class of U.S. battleships named after himself" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +96,6 @@
                 <span class="time">2025-12-22 23:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/22/nx-s1-5652187/alien-enemies-act-deportations-case" target="_blank">Federal judge says U.S. must give due process to deported Venezuelans</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-22 23:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,6 +108,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline" target="_blank">The FCC’s foreign drone ban is here</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-23 01:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6941334fb871f460797b4951/master/pass/Novo%20Nordisk%20oral%20semaglutide%2025%20mg_image%201.jpg" alt="FDA Approves Pill Version of Wegovy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/fda-approves-pill-version-of-wegovy/" target="_blank">FDA Approves Pill Version of Wegovy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-22 23:59</span>
             </div>
         </div>
 <div class="story">
@@ -151,20 +155,20 @@
                 <span class="time">2025-12-22 21:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Screenshot-2025-12-22-at-3.16.51-PM-500x500.png" alt="Call of Duty co-creator and Battlefield lead Vince Zampella dies in car crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/12/vince-zampella-developer-of-call-of-duty-and-battlefield-games-dies-at-55/" target="_blank">Call of Duty co-creator and Battlefield lead Vince Zampella dies in car crash</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-22 21:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/06/cosmic-logo.jpg?resize=406%2C232&amp;ssl=1" alt="How to Install COSMIC Desktop on Ubuntu 24.04 (PPA)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/install-cosmic-desktop-ubuntu-24-04-ppa" target="_blank">How to Install COSMIC Desktop on Ubuntu 24.04 (PPA)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-23 02:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8s9qcrztltkn5aojfbp.png" alt="From the Musk Compensation Case to DAO Governance — An Audit Report of a Traditional World “Off-Chain Smart Contract”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/apnews/from-the-musk-compensation-case-to-dao-governance-an-audit-report-of-a-traditional-world-13do" target="_blank">From the Musk Compensation Case to DAO Governance — An Audit Report of a Traditional World “Off-Chain Smart Contract”</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-23 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/karol-broda/snitch" target="_blank">Snitch – A friendlier ss/netstat</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-23 01:03</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +212,6 @@
                 <span class="title"><a href="https://dzone.com/articles/security-risks-in-ai-generated-code" target="_blank">Phantom APIs: The Security Nightmare Hiding in Your AI-Generated Code</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-22 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/karant_dev/art-of-a-good-question-3kkl" target="_blank">Art of a Good Question</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-22 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jalammar.github.io/illustrated-transformer/" target="_blank">The Illustrated Transformer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-22 19:15</span>
             </div>
         </div>
 </div>
@@ -329,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 04:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
