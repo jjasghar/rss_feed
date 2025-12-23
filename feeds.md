@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 01:29:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-23 02:34:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 02:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/california-traffic-gty-jef-251222_1766413578438_hpMain_4x3t_384.jpg" alt="Christmas weather forecast: Heavy rain in California to record high temps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/holiday-weather-forecast-white-christmas/story?id=128615555" target="_blank">Christmas weather forecast: Heavy rain in California to record high temps</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-23 01:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9f4/live/ff8942a0-dcf1-11f0-bc51-61713ec32de7.jpg" alt="2025 likely to be UK&#x27;s hottest on record, says Met Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/22/nx-s1-5652043/cfpb-trump-russell-vought-lawsuit" target="_blank">Nearly two dozen states sue the Trump administration over funding for CFPB</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-22 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/22/israel-kills-two-palestinians-in-gaza-city-as-ceasefire-violations-mount?traffic_source=rss" target="_blank">Israel kills two Palestinians in Gaza City as ceasefire violations mount</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-22 21:48</span>
             </div>
         </div>
 </div>
@@ -182,6 +175,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/5-podcast-episodes-to-help-you-build-with-confidence-in-2026/" target="_blank">5 podcast episodes to help you build with confidence in 2026</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-12-23 00:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/" target="_blank">This year’s most influential open source projects</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-12-22 23:48</span>
@@ -212,15 +214,6 @@
                 <span class="title"><a href="https://jalammar.github.io/illustrated-transformer/" target="_blank">The Illustrated Transformer</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-22 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/elementary-os.jpg?resize=406%2C232&amp;ssl=1" alt="elementary OS 8.1 is Out – Now Uses Wayland by Default" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/elementary-os-8-1-is-out-and-it-now-uses-wayland-by-default" target="_blank">elementary OS 8.1 is Out – Now Uses Wayland by Default</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-22 18:13</span>
             </div>
         </div>
 </div>
@@ -333,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 02:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
