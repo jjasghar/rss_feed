@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 00:05:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-23 01:29:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +58,24 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgjzpglw4yo?at_medium=RSS&at_campaign=rss" target="_blank">2025 likely to be UK&#x27;s hottest on record, says Met Office</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-23 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaa3/live/cd87d9a0-df77-11f0-aae2-2191c0e48a3b.jpg" alt="Trump says US &#x27;has to have&#x27; Greenland after naming special envoy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US &#x27;has to have&#x27; Greenland after naming special envoy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-22 23:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/22/nx-s1-5652187/alien-enemies-act-deportations-case" target="_blank">Federal judge says U.S. must give due process to deported Venezuelans</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-22 23:18</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +105,20 @@
                 <span class="time">2025-12-22 21:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f8b/live/09562070-df5c-11f0-a8dc-93c15fe68710.jpg" alt="Post Office had deal with Fujitsu to fix Horizon errors 19 years ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqlkx6n15ero?at_medium=RSS&at_campaign=rss" target="_blank">Post Office had deal with Fujitsu to fix Horizon errors 19 years ago</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-22 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/22/ups-stumbles-into-holiday-season-amid-shifting-trade-rules?traffic_source=rss" target="_blank">UPS stumbles into holiday season amid shifting trade rules</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-22 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline" target="_blank">The FCC’s foreign drone ban is here</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-23 01:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/NHQ202405060021large-500x500.jpg" alt="In a surprise announcement, Tory Bruno is out as CEO of United Launch Alliance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +164,20 @@
                 <span class="time">2025-12-22 21:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/22/alphabet-to-buy-intersect-power-to-bypass-energy-grid-bottlenecks/" target="_blank">Alphabet to buy Intersect Power to bypass energy grid bottlenecks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-22 21:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8s9qcrztltkn5aojfbp.png" alt="From the Musk Compensation Case to DAO Governance — An Audit Report of a Traditional World “Off-Chain Smart Contract”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/apnews/from-the-musk-compensation-case-to-dao-governance-an-audit-report-of-a-traditional-world-13do" target="_blank">From the Musk Compensation Case to DAO Governance — An Audit Report of a Traditional World “Off-Chain Smart Contract”</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-23 01:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,21 +215,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/elementary-os.jpg?resize=406%2C232&amp;ssl=1" alt="elementary OS 8.1 is Out – And It Now Uses Wayland by Default" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/elementary-os.jpg?resize=406%2C232&amp;ssl=1" alt="elementary OS 8.1 is Out – Now Uses Wayland by Default" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/elementary-os-8-1-is-out-and-it-now-uses-wayland-by-default" target="_blank">elementary OS 8.1 is Out – And It Now Uses Wayland by Default</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/elementary-os-8-1-is-out-and-it-now-uses-wayland-by-default" target="_blank">elementary OS 8.1 is Out – Now Uses Wayland by Default</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-12-22 18:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/elementary-os-8-1-release/" target="_blank">Christams Comes Early With elementary OS 8.1 Release</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-22 18:07</span>
             </div>
         </div>
 </div>
@@ -235,6 +243,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/pete-hegseth-1280x853.jpg" alt="Pentagon Adds Grok-Derived Products to Something Called the ‘AI Arsenal’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pentagon-adds-grok-derived-products-to-something-called-the-ai-arsenal-2000702379" target="_blank">Pentagon Adds Grok-Derived Products to Something Called the ‘AI Arsenal’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-23 01:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/war-between-land-and-sea-salt-ending-1280x853.jpg" alt="Disney Is Doing the World a Favor by Not Letting You See That ‘Doctor Who’ Spinoff Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -244,48 +261,39 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/AI-battlefield-6-1280x711.jpg" alt="Battlefield 6 Is Scrambling To Address AI Accusations Over Double-Barreled Gun" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/battlefield-6-ai-stickers-cosmetics-bundle-2000655167" target="_blank">Battlefield 6 Is Scrambling To Address AI Accusations Over Double-Barreled Gun</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-22 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Untitled.jpg?fit=768%2C821&amp;quality=60&amp;ssl=1" alt="Jim Beam shuts down a distillery as Trump&#x27;s tariff hangover kicks in" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/22/jim-beam-shuts-down-a-distillery-as-trumps-tariff-hangover-kicks-in.html" target="_blank">Jim Beam shuts down a distillery as Trump&#x27;s tariff hangover kicks in</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-22 22:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KD3TJHZANPS8YMH70XRMXM4X/hero-image.jpg" alt="Valve Officially Discontinued the LCD Steam Deck" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/valve-officially-discontinued-the-lcd-steam-deck?utm_medium=RSS" target="_blank">Valve Officially Discontinued the LCD Steam Deck</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-22 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/01/spacex-starship-flight-7-1280x853.jpg" alt="Report: Starship Debris Came Closer to Airplanes Than SpaceX Admits" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/report-starship-debris-came-closer-to-airplanes-than-spacex-admits-2000702634" target="_blank">Report: Starship Debris Came Closer to Airplanes Than SpaceX Admits</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-22 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/25b4cff16bfa17dc3763017b01ee969b-1280x720.jpg" alt="The Switch 2’s Most Impressive Port Is 75 Percent Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-switch-2s-most-impressive-port-is-75-percent-off-right-now-2000655205" target="_blank">The Switch 2’s Most Impressive Port Is 75 Percent Off Right Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-22 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/NOAA-CPC-temp-outlook-1280x853.jpg" alt="Christmas Weather Map Predicts Record-Breaking Heat Across the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/christmas-weather-map-predicts-record-breaking-heat-across-the-us-2000702663" target="_blank">Christmas Weather Map Predicts Record-Breaking Heat Across the US</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-22 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/s-court-e1742315066663.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Fearing ICE immigrants are skipping their court dates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/22/fearing-ice-immigrants-are-skipping-their-court-dates.html" target="_blank">Fearing ICE immigrants are skipping their court dates</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-22 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KD3Q1D3B88GG07GAG1ZN1F6G/hero-image.jpg" alt="The Best (and Worst) Fitness Devices I Tested in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/best-and-worst-fitness-devices-of-2025?utm_medium=RSS" target="_blank">The Best (and Worst) Fitness Devices I Tested in 2025</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-22 20:21</span>
             </div>
         </div>
 </div>
@@ -325,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
