@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 18:02:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-23 19:03:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/142d/live/1cba0ab0-e02d-11f0-aae2-2191c0e48a3b.jpg" alt="Ukraine loses embattled eastern town" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine loses embattled eastern town</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-23 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/is-israels-government-waging-war-on-al-jazeera-and-the-media?traffic_source=rss" target="_blank">Is Israel’s government waging war on Al Jazeera and the media?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-23 18:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/23/nx-s1-5653312/student-loans-default-education-department" target="_blank">Student loan borrowers in default may soon see their wages garnished</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-23 18:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766511204269_now_daily_a_trump_epstein_files_251223_1920x1080-b0tpnh.jpg" alt="New batch of Epstein files contain documents that mention Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/new-batch-of-epstein-files-contain-documents-that-mention-trump-254920773954" target="_blank">New batch of Epstein files contain documents that mention Trump</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-23 17:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,42 +97,6 @@
                 <span class="time">2025-12-23 16:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/epstein-clinton-2-ht-gmh-251212_1765567512186_hpMain_2_4x3t_384.jpg" alt="Clinton spokesperson calls for release of Epstein files related to former president" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/bill-clintons-spokesperson-calls-release-epstein-files-related/story?id=128643851" target="_blank">Clinton spokesperson calls for release of Epstein files related to former president</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-23 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29ce/live/f7942740-e007-11f0-a8dc-93c15fe68710.jpg" alt="Men guilty over Jewish community gun attack plot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7vmyv5vmm2o?at_medium=RSS&at_campaign=rss" target="_blank">Men guilty over Jewish community gun attack plot</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-23 16:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/23/nx-s1-5653307/call-of-duty-vince-zampella-creator-dies" target="_blank">Vince Zampella, video game pioneer behind megahit Call of Duty, dies at 55</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-23 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/grocery-1-gty-gmh-251223_1766497914116_hpMain_4x3t_384.jpg" alt="US economy grew more than expected in 3rd quarter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/us-economy-grew-expected-3rd-quarter/story?id=128645970" target="_blank">US economy grew more than expected in 3rd quarter</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-23 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,10 +105,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-reject-anthropic-copyright-settlement-bring-new-lawsuit-against-six-major-ai-companies/" target="_blank">John Carreyrou and other authors reject Anthropic copyright settlement, bring new lawsuit against six major AI companies</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-23 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/849810/james-bond-007-first-light-release-date-delay" target="_blank">007 First Light&amp;#8217;s release date gets shaken up</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-23 18:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/848999/best-digital-gift-ideas-online-cards-subscriptions-2025" target="_blank">These great digital gifts will arrive just in time for Christmas</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-23 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2240543421-500x500.jpg" alt="FCC’s import ban on the best new drones starts today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/djis-new-drones-will-not-be-available-in-the-us-as-fcc-ban-takes-effect/" target="_blank">FCC’s import ban on the best new drones starts today</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-23 17:29</span>
             </div>
         </div>
 <div class="story">
@@ -129,33 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/openais-child-exploitation-reports-increased-sharply-this-year/" target="_blank">OpenAI’s child exploitation reports increased sharply this year</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-12-23 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/23/this-founder-just-landed-backing-for-a-second-go-at-the-same-problem-affordable-custom-home-design/" target="_blank">This founder just landed funding for a second go at the same problem: affordable custom home design</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-23 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/849639/epstein-files-doj-redactions-links" target="_blank">DOJ appears to bungle Epstein Files redactions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-23 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/847321/belkin-stage-powergrip-wireless-power-bank-hands-on" target="_blank">Belkin’s camera grip power bank is a few upgrades away from being a must-have</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-23 16:00</span>
             </div>
         </div>
 </div>
@@ -246,6 +244,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Smoke_Rising_From_The_Former_Pennsylvania_Route_61.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="The Pennsylvania town destroyed by a fire burning since 1962" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/23/the-pennsylvania-town-destroyed-by-a-fire-burning-since-1962.html" target="_blank">The Pennsylvania town destroyed by a fire burning since 1962</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-23 17:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KD61ABMWTZ85KKP814YH7803/hero-image.png" alt="I Never Leave Home in Winter Without These (Cheap) Heated Gadgets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -281,15 +288,6 @@
                 <span class="time">2025-12-23 16:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/wegovypill-1280x853.jpg" alt="The Wegovy Pill Is Officially Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-wegovy-pill-is-officially-here-2000702882" target="_blank">The Wegovy Pill Is Officially Here</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-23 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
