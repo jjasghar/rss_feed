@@ -1,44 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 17:03:08 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-23 18:02:19 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 35 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 17:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/23/nx-s1-5653302/more-epstein-files-released-trump-mentioned" target="_blank">Justice Department releases more Epstein files and some mention Trump</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-23 17:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -99,20 +99,29 @@
                 <span class="time">2025-12-23 15:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/backlash-after-cbs-pulls-60-minutes-report-on-salvadors-cecot-prison?traffic_source=rss" target="_blank">Backlash after CBS pulls 60 Minutes report on Salvador’s CECOT prison</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-23 14:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/848999/best-digital-gift-ideas-online-cards-subscriptions-2025" target="_blank">These great digital gifts will arrive just in time for Christmas</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-23 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/23/us-insurance-giant-aflac-says-hackers-stole-personal-data-of-22-6-million/" target="_blank">US insurance giant Aflac says hackers stole personal and health data of 22.6 million</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-23 17:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/openai-logo-500x500.jpg" alt="OpenAI’s child exploitation reports increased sharply this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,29 +158,29 @@
                 <span class="time">2025-12-23 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/23/lemon-slice-nabs-10-5m-from-yc-and-matrix-to-build-out-its-digital-avatar-tech/" target="_blank">Lemon Slice nabs $10.5M from YC and Matrix to build out its digital avatar tech</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/23/the-tooth-fairy-just-got-reimagined-for-the-tech-savvy-generation/" target="_blank">The tooth fairy just got reimagined for the tech-savvy generation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-23 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Micro-QuickJS" target="_blank">Micro QuickJS Engine Compiles &amp; Runs JavaScript With As Little As 10kB Of RAM</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-23 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/bellard/mquickjs/blob/main/README.md" target="_blank">Fabrice Bellard Releases MicroQuickJS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-23 17:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,39 +200,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Nuxt Introduces Native Request Cancellation and Async Handler Extraction for Performance Gains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/nuxt-performance-v4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Nuxt Introduces Native Request Cancellation and Async Handler Extraction for Performance Gains</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-23 16:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/amd-krackan-point-2025" target="_blank">AMD Krackan Point Sub-$500 Laptop Linux Performance Improves By ~8% In Just Six Months</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-23 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/linux-future-prediction-2026/" target="_blank">Here&amp;#x27;s Our Prediction for the Future of Desktop Linux in 2026</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-23 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/86a5846a-47c4-424c-8c62-537a78c7f4df_1732x940.png" alt="The Pragmatic Engineer in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2025" target="_blank">The Pragmatic Engineer in 2025</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-12-23 14:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18781514&w=600" alt="A Practical Guide to Blocking Cyber Threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/nonprofits-least-privilege-cybersecurity" target="_blank">A Practical Guide to Blocking Cyber Threats</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-23 14:00</span>
             </div>
         </div>
 </div>
@@ -240,20 +231,29 @@
                 <span class="time">2025-12-23 12:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html" target="_blank">Microsoft Is Finally Killing RC4</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-22 17:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/06/bfb725166a99ccabb7cd25ed810a4e8e-1280x720.jpg" alt="James Bond Game Delayed 3 Months, Snagging GTA 6′s Old Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/james-bond-game-delayed-release-date-hitman-2000655417" target="_blank">James Bond Game Delayed 3 Months, Snagging GTA 6′s Old Spot</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-23 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KD61ABMWTZ85KKP814YH7803/hero-image.png" alt="I Never Leave Home in Winter Without These (Cheap) Heated Gadgets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/i-never-leave-home-in-winter-without-these-cheap-heated-gadgets?utm_medium=RSS" target="_blank">I Never Leave Home in Winter Without These (Cheap) Heated Gadgets</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-23 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Anaconda-review-1280x853.jpg" alt="‘Anaconda’ Slithers on That Line of So Bad, It’s Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,24 +290,6 @@
                 <span class="time">2025-12-23 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/image-21.jpg" alt="Maybe The Weirdest Thing Anyone’s Ever Said In A Video Game Lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-lawsuit-kotor-2-switch-divinity-2000655351" target="_blank">Maybe The Weirdest Thing Anyone’s Ever Said In A Video Game Lawsuit</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-23 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/avengers-doomsday-trailer-steve-rogers-1280x853.jpg" alt="The First ‘Avengers: Doomsday’ Teaser Is Finally Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/avengers-doomsday-trailer-steve-rogers-chris-evans-marvel-2000697885" target="_blank">The First ‘Avengers: Doomsday’ Teaser Is Finally Here</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-23 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 39 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
