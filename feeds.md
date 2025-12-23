@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 09:03:47 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-23 10:02:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/a-ukraine-reporters-guide-to-managing-wartime-blackouts-caused-by-russia?traffic_source=rss" target="_blank">A Ukraine reporter’s guide to managing wartime blackouts caused by Russia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-23 09:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/23/nx-s1-5649425/cant-find-the-perfect-holiday-gift-some-people-hire-personal-shoppers-to-help" target="_blank">Can&#x27;t find the perfect holiday gift? Some people hire personal shoppers to help</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-23 09:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9f4/live/ff8942a0-dcf1-11f0-bc51-61713ec32de7.jpg" alt="2025 likely to be UK&#x27;s hottest year on record, says Met Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/syrian-army-and-kurdish-led-forces-agree-to-de-escalate-violence-in-aleppo?traffic_source=rss" target="_blank">Syrian army, Kurdish-led SDF agree to stop deadly fighting in Aleppo</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-23 05:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c364/live/51386230-df76-11f0-9525-7999bb394c48.jpg" alt="Russia escalates attacks on key Ukrainian region of Odesa" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS&at_campaign=rss" target="_blank">Russia escalates attacks on key Ukrainian region of Odesa</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-23 05:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/we-have-to-have-it-trump-renews-greenland-push-as-denmark-lodges-protest?traffic_source=rss" target="_blank">‘We have to have it’: Trump renews push for Greenland as Denmark protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-23 03:27</span>
             </div>
         </div>
 </div>
@@ -238,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/la-rain-1280x853.jpg" alt="Watch These Live Cams of the Los Angeles Area Rain and Flood Risk During Christmas Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/watch-these-live-cams-of-the-los-angeles-area-rain-and-flood-risk-during-christmas-week-2000702793" target="_blank">Watch These Live Cams of the Los Angeles Area Rain and Flood Risk During Christmas Week</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-23 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/pete-hegseth-1280x853.jpg" alt="Pentagon Adds Grok-Derived Products to Something Called the ‘AI Arsenal’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -282,15 +288,6 @@
                 <span class="time">2025-12-22 22:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KD3TJHZANPS8YMH70XRMXM4X/hero-image.jpg" alt="Valve Officially Discontinued the LCD Steam Deck" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/valve-officially-discontinued-the-lcd-steam-deck?utm_medium=RSS" target="_blank">Valve Officially Discontinued the LCD Steam Deck</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-22 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
