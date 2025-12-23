@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 12:02:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-23 13:12:56 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2b/live/a2f21fc0-dfef-11f0-aae2-2191c0e48a3b.jpg" alt="Three dead after Russia launches &#x27;massive&#x27; attack across Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss" target="_blank">Three dead after Russia launches &#x27;massive&#x27; attack across Ukraine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-23 12:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/trump-recalls-30-career-diplomats-in-america-first-push?traffic_source=rss" target="_blank">Trump recalls dozens of career diplomats in ‘America First’ push</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-23 12:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/23/g-s1-103442/up-first-newsletter-caribbean-oil-tankers-venezuelan-due-process-heritage-due-process" target="_blank">Trump&#x27;s plans for warship fleet. And, deported Venezuelans must receive due process</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-23 12:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +100,29 @@
                 <span class="time">2025-12-23 10:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f52/live/634bfe90-df5e-11f0-a8dc-93c15fe68710.png" alt="Boaters stranded for Christmas after canal collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj013m3q0mlo?at_medium=RSS&at_campaign=rss" target="_blank">Boaters stranded for Christmas after canal collapse</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-23 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/23/russia-strikes-ukrainian-homes-and-energy-in-deadly-missile-attack?traffic_source=rss" target="_blank">Russia strikes Ukrainian homes and energy in deadly missile attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-23 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/23/g-s1-103424/us-approve-pill-for-weight-loss" target="_blank">U.S. regulators approve Wegovy pill for weight loss</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-23 10:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/845838/2025-year-end-government-doge" target="_blank">The year the government broke</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-23 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/unnamed-1-500x500.jpg" alt="The Splay is a subpar monitor but an exciting portable projector" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/the-splay-is-a-subpar-monitor-but-an-exciting-portable-projector/" target="_blank">The Splay is a subpar monitor but an exciting portable projector</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-23 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/688061d68203c2103d95c470/master/pass/We%20Tried%205%20of%20the%20Most%20Popular%20Indoor%20Gardening%20Systems.png" alt="Best Indoor Garden Systems: We&#x27;ve Been Testing All Year (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +159,29 @@
                 <span class="time">2025-12-22 23:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/NHQ202405060021large-500x500.jpg" alt="In a surprise announcement, Tory Bruno is out as CEO of United Launch Alliance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/12/in-a-surprise-announcement-tory-bruno-is-out-as-ceo-of-united-launch-alliance/" target="_blank">In a surprise announcement, Tory Bruno is out as CEO of United Launch Alliance</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-22 23:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69498b904d6b846f95b00a69/master/pass/Update%20Best%20Dehumidifiers%20top%20art%20122025%20SOURCE%20Amazon.jpg" alt="6 Best Dehumidifiers to Keep Your Home Mold-Free (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-dehumidifier/" target="_blank">6 Best Dehumidifiers to Keep Your Home Mold-Free (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-22 22:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aerabi/day-23-secure-by-design-black-forest-shadow-390h" target="_blank">Day 23 — Secure By Design (Black Forest Shadow)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-23 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/PowerVR-VLK-Prep-For-New-GPUs" target="_blank">PowerVR Open-Source Vulkan Driver Preparing For New GPU Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-23 12:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +218,6 @@
                 <span class="time">2025-12-23 08:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/github-binaries-tools/" target="_blank">Stop Manually Checking GitHub Releases — These Tools Automatically Install &amp;amp; Update Apps on Linux</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-23 07:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/umartahir93/understanding-oneof-in-openapi-without-the-confusion-3cp6" target="_blank">Understanding oneOf in OpenAPI (Without the Confusion)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-23 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/xbox-x-1280x853.jpg" alt="Xbox Series X Is Back in Stock at an All-Time Low for Another Clearance Push, While PlayStation Stays Sold Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-series-x-is-back-in-stock-at-an-all-time-low-for-another-clearance-push-while-playstation-stays-sold-out-2000655323" target="_blank">Xbox Series X Is Back in Stock at an All-Time Low for Another Clearance Push, While PlayStation Stays Sold Out</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-23 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/FiveNights2-1280x853.jpg" alt="‘Five Nights at Freddy’s 2’ Director Emma Tammi Explains How Abby Anchors the Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +291,6 @@
                 <span class="time">2025-12-23 00:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/war-between-land-and-sea-salt-ending-1280x853.jpg" alt="Disney Is Doing the World a Favor by Not Letting You See That ‘Doctor Who’ Spinoff Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/war-between-the-land-and-the-sea-finale-spoilers-doctor-who-2000702672" target="_blank">Disney Is Doing the World a Favor by Not Letting You See That ‘Doctor Who’ Spinoff Yet</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-22 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
