@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 14:01:29 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-23 15:01:53 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +46,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/backlash-after-cbs-pulls-60-minutes-report-on-salvadors-cecot-prison?traffic_source=rss" target="_blank">Backlash after CBS pulls 60 Minutes report on Salvador’s CECOT prison</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-23 14:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/23/nx-s1-5651932/economy-delayed-gdp-tariffs" target="_blank">The U.S. economy grew robustly as Americans continued to spend</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-23 14:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2b/live/a2f21fc0-dfef-11f0-aae2-2191c0e48a3b.jpg" alt="Three killed after Russia launches &#x27;massive&#x27; attack across Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss" target="_blank">Three killed after Russia launches &#x27;massive&#x27; attack across Ukraine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-23 14:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/12/23/live-nigeria-vs-tanzania-2025-africa-cup-of-nations?traffic_source=rss" target="_blank">LIVE: Nigeria vs Tanzania – AFCON 2025</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-23 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251220-Epstein-Maxwell-ch-1411-c27024.jpg" alt="DOJ releases 3rd batch of Jeffrey Epstein files, including some that mention Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/justice-department-releases-3rd-batch-jeffrey-epstein-files-mention-tr-rcna250533" target="_blank">DOJ releases 3rd batch of Jeffrey Epstein files, including some that mention Trump</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-23 13:11</span>
             </div>
         </div>
 <div class="story">
@@ -64,42 +94,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/justice-department-releases-3rd-batch-jeffrey-epstein-files-mention-tr-rcna250533" target="_blank">Justice Department releases 3rd batch of Jeffrey Epstein files, including some that mention Trump</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-23 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2b/live/a2f21fc0-dfef-11f0-aae2-2191c0e48a3b.jpg" alt="Three dead after Russia launches &#x27;massive&#x27; attack across Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss" target="_blank">Three dead after Russia launches &#x27;massive&#x27; attack across Ukraine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-23 12:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/trump-recalls-30-career-diplomats-in-america-first-push?traffic_source=rss" target="_blank">Trump recalls dozens of career diplomats in ‘America First’ push</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-23 12:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/23/g-s1-103442/up-first-newsletter-caribbean-oil-tankers-venezuelan-due-process-heritage-due-process" target="_blank">Trump&#x27;s plans for warship fleet. And, deported Venezuelans must receive due process</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-23 12:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/africa-now/2025/12/23/afcon-more-than-just-football?traffic_source=rss" target="_blank">AFCON, more than just football</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-23 11:08</span>
             </div>
         </div>
 </div>
@@ -167,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/23/how-xerox-and-stack-overflow-partnered-to-preserve-knowledge-and-power-innovation/" target="_blank">How Xerox and Stack Overflow partnered to preserve knowledge and power innovation</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-23 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18781514&w=600" alt="A Practical Guide to Blocking Cyber Threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/nonprofits-least-privilege-cybersecurity" target="_blank">A Practical Guide to Blocking Cyber Threats</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-23 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/12/agentic-ai-foundation/en/headerimage/generatedHeaderImage-1766331927478.jpg" alt="OpenAI and Anthropic Donate AGENTS.md and Model Context Protocol to New Agentic AI Foundation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -202,24 +214,6 @@
                 <span class="time">2025-12-23 12:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LLVM-AI-Tool-Policy-RFC" target="_blank">LLVM Considering An AI Tool Policy, AI Bot For Fixing Build System Breakage Proposed</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-23 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/evolution-backend-streaming-application/en/headerimage/header-evolution-backend-streaming-application-1766049421558.jpg" alt="Article: Building Streaming Infrastructure That Scales: Because Viewers Won&#x27;t Wait Until Tomorrow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/evolution-backend-streaming-application/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Building Streaming Infrastructure That Scales: Because Viewers Won&#x27;t Wait Until Tomorrow</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-23 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/avengers-doomsday-trailer-steve-rogers-1280x853.jpg" alt="The First ‘Avengers: Doomsday’ Teaser Is Finally Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/avengers-doomsday-trailer-steve-rogers-chris-evans-marvel-2000697885" target="_blank">The First ‘Avengers: Doomsday’ Teaser Is Finally Here</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-23 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KD4VXD5R6MRBGTE59JETVYBX/hero-image.png" alt="This Sony Wireless Portable Speaker Is Nearly 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sony-ult-field-5-portable-speaker-sale-december-2025?utm_medium=RSS" target="_blank">This Sony Wireless Portable Speaker Is Nearly 50% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-23 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/saudifield2-1280x720.jpg" alt="EA Shareholders Approve Over-Inflated $55 Billion Sale To Saudi Arabia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,24 +296,6 @@
                 <span class="time">2025-12-23 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/FiveNights2-1280x853.jpg" alt="‘Five Nights at Freddy’s 2’ Director Emma Tammi Explains How Abby Anchors the Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/five-nights-at-freddys-2-director-emma-tammi-explains-how-abby-anchors-the-sequel-2000702738" target="_blank">‘Five Nights at Freddy’s 2’ Director Emma Tammi Explains How Abby Anchors the Sequel</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-23 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/The-Odyssey.jpg?fit=1080%2C495&amp;quality=60&amp;ssl=1" alt="Trailer for Christopher Nolan&#x27;s film The Odyssey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/23/trailer-for-christopher-nolans-film-the-odyssey.html" target="_blank">Trailer for Christopher Nolan&#x27;s film The Odyssey</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-23 11:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
