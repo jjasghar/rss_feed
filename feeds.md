@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 02:34:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-23 03:29:06 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 02:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251222-trump-battleship-mn-2000-957091.jpg" alt="Trump announces new class of U.S. battleships named after himself" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/trump-class-battleships-nuclear-navy-john-phelan-rcna250601" target="_blank">Trump announces new class of U.S. battleships named after himself</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-23 03:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/trump-warns-maduro-not-to-play-tough-as-china-russia-back-venezuela?traffic_source=rss" target="_blank">Trump warns Maduro not to ‘play tough’ as Russia, China back Venezuela</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-23 01:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/california-traffic-gty-jef-251222_1766413578438_hpMain_4x3t_384.jpg" alt="Christmas weather forecast: Heavy rain in California to record high temps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/22/nx-s1-5652187/alien-enemies-act-deportations-case" target="_blank">Federal judge says U.S. must give due process to deported Venezuelans</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-22 23:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/22/nx-s1-5652187/alien-enemies-act-deportations-case" target="_blank">Federal judge rules the U.S. violated due process with Alien Enemies Act deportations</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-22 23:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/22/nx-s1-5652043/cfpb-trump-russell-vought-lawsuit" target="_blank">Nearly two dozen states sue the Trump administration over funding for CFPB</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-22 21:52</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 02:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
