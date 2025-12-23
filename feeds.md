@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 22:01:54 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-23 23:01:47 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/belgium-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss" target="_blank">Belgium joins South Africa’s genocide case against Israel at ICJ</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-23 21:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +102,20 @@
                 <span class="time">2025-12-23 19:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/23/g-s1-102421/popular-global-health-drone-photos-ancient-disease-lead-pollution" target="_blank">A diplomat&#x27;s tears, 200 snake bites, drone pix: Goats and Soda&#x27;s top stories in 2025</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-23 18:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems" target="_blank">Apple is going to allow third-party app stores in Brazil, too</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-23 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +161,20 @@
                 <span class="time">2025-12-23 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/avengers-500x500.jpg" alt="Steve Rogers returns in Avengers: Doomsday teaser" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/12/steve-rogers-returns-in-avengers-doomsday-teaser/" target="_blank">Steve Rogers returns in Avengers: Doomsday teaser</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-23 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wolfejam/i-built-faf-using-zig-on-bun-for-claude-190i" target="_blank">I built FAF using Zig on Bun for Claude</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-23 22:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,6 +194,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18781588&w=600" alt="Implementing Automated Validation and Anomaly Detection" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/automated-data-validation-anomaly-detection" target="_blank">Implementing Automated Validation and Anomaly Detection</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-23 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -192,24 +218,6 @@
                 <span class="title"><a href="https://dzone.com/articles/atomic-writes-in-nosql-databases" target="_blank">Atomic Writes in NoSQL: A Multi-Cloud Deep Dive</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-23 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Micro-QuickJS" target="_blank">Micro QuickJS Engine Compiles &amp; Runs JavaScript With As Little As 10kB Of RAM</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-23 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/bellard/mquickjs/blob/main/README.md" target="_blank">Fabrice Bellard Releases MicroQuickJS</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-23 17:33</span>
             </div>
         </div>
 </div>
@@ -231,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/vecna-1280x853.jpg" alt="Everything Netflix Is Taking Credit for Thanks to the Success of ‘Stranger Things’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/stranger-things-netflix-stats-dnd-music-streaming-2000703127" target="_blank">Everything Netflix Is Taking Credit for Thanks to the Success of ‘Stranger Things’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-23 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Demon-Slayer-Infinity-Castle-Chainsaw-Man-Reze-Arc-YIR2025-2-Box-Purple-1280x853.jpg" alt="Anime Movies Faced a Defining, Precarious Theatrical Crossroads in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +293,6 @@
                 <span class="time">2025-12-23 19:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JRTHEYAHMCVMN13EV39NJ3AG/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Soundcore Sleep A20 Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anker-soundcore-sleep-a20-sleep-earbuds-deal?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Soundcore Sleep A20 Earbuds</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-23 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
