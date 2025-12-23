@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 11:01:29 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-23 12:02:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/africa-now/2025/12/23/afcon-more-than-just-football?traffic_source=rss" target="_blank">AFCON, more than just football</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-23 11:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/23/nx-s1-5643014/autism-aba-therapy-medicaid-costs" target="_blank">It&#x27;s the &#x27;gold standard&#x27; in autism care. Why are states reining it in?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-23 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/naturalization-2-gty-gmh-251222_1766444362443_hpMain_4x3t_384.jpg" alt="Some citizenship naturalization ceremonies canceled &#x27;at the finish line,&#x27; lawyer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/citizenship-naturalization-ceremonies-canceled-finish-line-lawyer/story?id=128630195" target="_blank">Some citizenship naturalization ceremonies canceled &#x27;at the finish line,&#x27; lawyer says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-23 10:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f52/live/634bfe90-df5e-11f0-a8dc-93c15fe68710.png" alt="Boaters stranded for Christmas after canal collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,33 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/23/g-s1-103424/us-approve-pill-for-weight-loss" target="_blank">U.S. regulators approve Wegovy pill for weight loss</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-23 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251222-turning-point-usa-vl-1240p-016-b56d45.jpg" alt="Vance begins to lock down parts of MAGA coalition for 2028" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/jd-vance/vance-begins-lock-parts-maga-coalition-2028-turning-point-americafest-rcna250421" target="_blank">Vance begins to lock down parts of MAGA coalition for 2028</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-23 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/a-ukraine-reporters-guide-to-managing-wartime-blackouts-caused-by-russia?traffic_source=rss" target="_blank">A Ukraine reporter’s guide to managing wartime blackouts caused by Russia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-23 09:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/23/nx-s1-5649425/cant-find-the-perfect-holiday-gift-some-people-hire-personal-shoppers-to-help" target="_blank">Can&#x27;t find the perfect holiday gift? Some people hire personal shoppers to help</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-23 09:43</span>
             </div>
         </div>
 </div>
@@ -166,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LLVM-AI-Tool-Policy-RFC" target="_blank">LLVM Considering An AI Tool Policy, AI Bot For Fixing Build System Breakage Proposed</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-23 11:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/evolution-backend-streaming-application/en/headerimage/header-evolution-backend-streaming-application-1766049421558.jpg" alt="Article: Building Streaming Infrastructure That Scales: Because Viewers Won&#x27;t Wait Until Tomorrow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -210,15 +217,6 @@
                 <span class="time">2025-12-23 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aiwithapex/from-hours-of-editing-to-one-prompt-how-sam-audio-is-rewriting-creative-work-10ia" target="_blank">From Hours of Editing to One Prompt: How SAM Audio Is Rewriting Creative Work</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-23 05:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/FiveNights2-1280x853.jpg" alt="‘Five Nights at Freddy’s 2’ Director Emma Tammi Explains How Abby Anchors the Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/five-nights-at-freddys-2-director-emma-tammi-explains-how-abby-anchors-the-sequel-2000702738" target="_blank">‘Five Nights at Freddy’s 2’ Director Emma Tammi Explains How Abby Anchors the Sequel</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-23 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/The-Odyssey.jpg?fit=1080%2C495&amp;quality=60&amp;ssl=1" alt="Trailer for Christopher Nolan&#x27;s film The Odyssey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/23/trailer-for-christopher-nolans-film-the-odyssey.html" target="_blank">Trailer for Christopher Nolan&#x27;s film The Odyssey</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-23 11:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/la-rain-1280x853.jpg" alt="Watch These Live Cams of the Los Angeles Area Rain and Flood Risk During Christmas Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +290,6 @@
                 <span class="time">2025-12-22 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/AI-battlefield-6-1280x711.jpg" alt="Battlefield 6 Is Scrambling To Address AI Accusations Over Double-Barreled Gun" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/battlefield-6-ai-stickers-cosmetics-bundle-2000655167" target="_blank">Battlefield 6 Is Scrambling To Address AI Accusations Over Double-Barreled Gun</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-22 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Untitled.jpg?fit=768%2C821&amp;quality=60&amp;ssl=1" alt="Jim Beam shuts down a distillery as Trump&#x27;s tariff hangover kicks in" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/22/jim-beam-shuts-down-a-distillery-as-trumps-tariff-hangover-kicks-in.html" target="_blank">Jim Beam shuts down a distillery as Trump&#x27;s tariff hangover kicks in</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-22 22:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
