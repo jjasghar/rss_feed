@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-22 23:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-23 00:05:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, December 22, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9f4/live/ff8942a0-dcf1-11f0-bc51-61713ec32de7.jpg" alt="2025 likely to be UK&#x27;s hottest on record, says Met Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgjzpglw4yo?at_medium=RSS&at_campaign=rss" target="_blank">2025 likely to be UK&#x27;s hottest on record, says Met Office</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-23 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/22/nx-s1-5652187/alien-enemies-act-deportations-case" target="_blank">Federal judge rules the U.S. violated due process with Alien Enemies Act deportations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-22 23:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +97,20 @@
                 <span class="time">2025-12-22 18:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/22/g-s1-103320/offshore-wind-power-pause-trump-administration-new-england-new-york-virginia-national-security" target="_blank">The Trump administration pauses wind projects off New England, New York and Virginia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-22 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine?traffic_source=rss" target="_blank">Texas town battles nonstop noise from bitcoin mine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-22 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/NHQ202405060021large-500x500.jpg" alt="In a surprise announcement, Tory Bruno is out as CEO of United Launch Alliance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/12/in-a-surprise-announcement-tory-bruno-is-out-as-ceo-of-united-launch-alliance/" target="_blank">In a surprise announcement, Tory Bruno is out as CEO of United Launch Alliance</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-22 23:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69498b904d6b846f95b00a69/master/pass/Update%20Best%20Dehumidifiers%20top%20art%20122025%20SOURCE%20Amazon.jpg" alt="6 Best Dehumidifiers to Keep Your Home Mold-Free (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +156,20 @@
                 <span class="time">2025-12-22 21:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield" target="_blank">Call of Duty, Titanfall developer Vince Zampella has died at age 55</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-22 20:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/" target="_blank">This year’s most influential open source projects</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-12-22 23:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18788593&w=600" alt="Phantom APIs: The Security Nightmare Hiding in Your AI-Generated Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,15 +213,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/elementary-os-8-1-release/" target="_blank">Christams Comes Early With elementary OS 8.1 Release</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2025-12-22 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18770610&w=600" alt="LLMOps Explained: How It Works, Key Benefits, and Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/llmops-explained-key-benefits-best-practices" target="_blank">LLMOps Explained: How It Works, Key Benefits, and Best Practices</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-22 18:00</span>
             </div>
         </div>
 </div>
@@ -324,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
