@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 19:03:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-23 20:01:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 19:03 UTC</div>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7b/live/91abbb40-e003-11f0-a8dc-93c15fe68710.jpg" alt="Trump travelled on Epstein&#x27;s plane more than previously thought, prosecutor says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c74xgp81pqgo?at_medium=RSS&at_campaign=rss" target="_blank">Trump travelled on Epstein&#x27;s plane more than previously thought, prosecutor says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-23 19:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/142d/live/1cba0ab0-e02d-11f0-aae2-2191c0e48a3b.jpg" alt="Ukraine loses embattled eastern town" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +102,29 @@
                 <span class="time">2025-12-23 17:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/23/pirate-motorcyclists-cruise-caracas-to-protest-trump?traffic_source=rss" target="_blank">Pirate motorcyclists cruise Caracas to protest Trump</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-23 16:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/23/zoox-issues-software-recall-over-lane-crossings/" target="_blank">Zoox issues software recall over lane crossings</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-23 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/avengers-500x500.jpg" alt="Steve Rogers returns in Avengers: Doomsday teaser" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/12/steve-rogers-returns-in-avengers-doomsday-teaser/" target="_blank">Steve Rogers returns in Avengers: Doomsday teaser</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-23 19:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -121,6 +144,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/69408dd2e4a52f661966b675/master/pass/WIRED-WORLD-DATA-AGING.jpg" alt="Data Holds the Key in Slowing Age-Related Illnesses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/data-holds-the-key-in-slowing-age-related-illnesses/" target="_blank">Data Holds the Key in Slowing Age-Related Illnesses</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-23 18:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -129,38 +161,29 @@
                 <span class="time">2025-12-23 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2240543421-500x500.jpg" alt="FCC’s import ban on the best new drones starts today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/djis-new-drones-will-not-be-available-in-the-us-as-fcc-ban-takes-effect/" target="_blank">FCC’s import ban on the best new drones starts today</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-23 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/23/us-insurance-giant-aflac-says-hackers-stole-personal-data-of-22-6-million/" target="_blank">US insurance giant Aflac says hackers stole personal and health data of 22.6 million</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-23 17:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/openai-logo-500x500.jpg" alt="OpenAI’s child exploitation reports increased sharply this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/openais-child-exploitation-reports-increased-sharply-this-year/" target="_blank">OpenAI’s child exploitation reports increased sharply this year</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-23 17:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bestiprocom/refactoring-my-carry-applying-yagni-to-physical-objects-4585" target="_blank">Refactoring My Carry: Applying YAGNI to Physical Objects</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-23 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18781557&w=600" alt="Atomic Writes in NoSQL: A Multi-Cloud Deep Dive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/atomic-writes-in-nosql-databases" target="_blank">Atomic Writes in NoSQL: A Multi-Cloud Deep Dive</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-23 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +220,6 @@
                 <span class="time">2025-12-23 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Nuxt Introduces Native Request Cancellation and Async Handler Extraction for Performance Gains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/nuxt-performance-v4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Nuxt Introduces Native Request Cancellation and Async Handler Extraction for Performance Gains</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-krackan-point-2025" target="_blank">AMD Krackan Point Sub-$500 Laptop Linux Performance Improves By ~8% In Just Six Months</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-23 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/bestcharacters2025-1280x720.jpg" alt="The Best Video Game Characters Of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-best-video-game-characters-of-2025-2000655443" target="_blank">The Best Video Game Characters Of 2025</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-23 19:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JRTHEYAHMCVMN13EV39NJ3AG/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Soundcore Sleep A20 Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-soundcore-sleep-a20-sleep-earbuds-deal?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Soundcore Sleep A20 Earbuds</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-23 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/06/bfb725166a99ccabb7cd25ed810a4e8e-1280x720.jpg" alt="James Bond Game Delayed 3 Months, Snagging GTA 6′s Old Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +293,6 @@
                 <span class="time">2025-12-23 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/jurassic.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Why modern movies don&#x27;t feel or look real, no matter the budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/23/why-modern-movies-dont-feel-or-look-real-no-matter-the-budget.html" target="_blank">Why modern movies don&#x27;t feel or look real, no matter the budget</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-23 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/DJI-Mini-3-1280x853.jpg" alt="DJI Mini 3 Drone With RC Goes Final Clearance at Its Cheapest Price, Selling Faster Than Expected After a Major Price Drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dji-mini-3-drone-with-rc-goes-final-clearance-at-its-cheapest-price-selling-faster-than-expected-after-a-major-price-drop-2000655054" target="_blank">DJI Mini 3 Drone With RC Goes Final Clearance at Its Cheapest Price, Selling Faster Than Expected After a Major Price Drop</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-23 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
