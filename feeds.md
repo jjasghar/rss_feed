@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 08:02:06 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-23 09:03:47 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9f4/live/ff8942a0-dcf1-11f0-bc51-61713ec32de7.jpg" alt="2025 likely to be UK&#x27;s hottest year on record, says Met Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgjzpglw4yo?at_medium=RSS&at_campaign=rss" target="_blank">2025 likely to be UK&#x27;s hottest year on record, says Met Office</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-23 08:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/23/salah-scores-goal-as-egypt-rally-to-win-against-zimbabwe-at-afcon-2025?traffic_source=rss" target="_blank">Salah scores goal as Egypt rally to win against Zimbabwe at AFCON 2025</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-23 06:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379f/live/2724ffe0-dfbb-11f0-a8dc-93c15fe68710.jpg" alt="&#x27;A miracle&#x27;: Officer shot in head during Bondi attack home from hospital" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd0kxrr2jyko?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;A miracle&#x27;: Officer shot in head during Bondi attack home from hospital</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-23 06:06</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +100,20 @@
                 <span class="time">2025-12-23 03:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251222-trump-battleship-mn-2000-957091.jpg" alt="Trump announces new class of U.S. battleships named after himself" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/trump-class-battleships-nuclear-navy-john-phelan-rcna250601" target="_blank">Trump announces new class of U.S. battleships named after himself</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-23 03:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/22/g-s1-103408/trump-navy-battleship-golden-fleet" target="_blank">Trump announces plans for new Navy &#x27;battleship&#x27; as part of a &#x27;Golden Fleet&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-23 01:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" alt="Groupon Promo Codes: 50% Off in January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/groupon-promo-code/" target="_blank">Groupon Promo Codes: 50% Off in January 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-23 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +159,29 @@
                 <span class="time">2025-12-22 22:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6949ab723455c5203c48eae8/master/pass/Deals%20One%20of%20WIREDs%20Favorite%20Chef%20Knives%20is%20Free%20With%20a%20HelloFresh%20Membership%20SOURCE%20Crate&Barrel_HelloFresh.jpg" alt="HelloFresh Meal Kit&#x27;s Discount Code for December 2025 Unlocks a Free Zwilling Knife" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hellofresh-zwilling-chef-knife-deal/" target="_blank">HelloFresh Meal Kit&#x27;s Discount Code for December 2025 Unlocks a Free Zwilling Knife</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-22 21:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/evolution-backend-streaming-application/en/headerimage/header-evolution-backend-streaming-application-1766049421558.jpg" alt="Article: Building Streaming Infrastructure That Scales: Because Viewers Won&#x27;t Wait Until Tomorrow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/evolution-backend-streaming-application/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Building Streaming Infrastructure That Scales: Because Viewers Won&#x27;t Wait Until Tomorrow</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-23 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcce9tdpl43x59d6hyue.png" alt="Quelle est la taille idéale d&#x27;une classe ?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/onepoint/quelle-est-la-taille-ideale-dune-classe--2jhg" target="_blank">Quelle est la taille idéale d&#x27;une classe ?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-23 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/aiwithapex/from-hours-of-editing-to-one-prompt-how-sam-audio-is-rewriting-creative-work-10ia" target="_blank">From Hours of Editing to One Prompt: How SAM Audio Is Rewriting Creative Work</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-23 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/eyeblech/cinecli" target="_blank">Show HN: CineCLI – Browse and torrent movies directly from your terminal</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-23 05:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/06/cosmic-logo.jpg?resize=406%2C232&amp;ssl=1" alt="How to Install COSMIC Desktop on Ubuntu 24.04 (PPA)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/install-cosmic-desktop-ubuntu-24-04-ppa" target="_blank">How to Install COSMIC Desktop on Ubuntu 24.04 (PPA)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-23 02:35</span>
             </div>
         </div>
 </div>
@@ -321,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
