@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 10:02:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-23 11:01:29 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f52/live/634bfe90-df5e-11f0-a8dc-93c15fe68710.png" alt="Boaters stranded for Christmas after canal collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj013m3q0mlo?at_medium=RSS&at_campaign=rss" target="_blank">Boaters stranded for Christmas after canal collapse</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-23 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/23/russia-strikes-ukrainian-homes-and-energy-in-deadly-missile-attack?traffic_source=rss" target="_blank">Russia strikes Ukrainian homes and energy in deadly missile attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-23 10:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/23/g-s1-103424/us-approve-pill-for-weight-loss" target="_blank">U.S. regulators approve Wegovy pill for weight loss</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-23 10:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251222-turning-point-usa-vl-1240p-016-b56d45.jpg" alt="Vance begins to lock down parts of MAGA coalition for 2028" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/jd-vance/vance-begins-lock-parts-maga-coalition-2028-turning-point-americafest-rcna250421" target="_blank">Vance begins to lock down parts of MAGA coalition for 2028</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-23 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,47 +101,20 @@
                 <span class="time">2025-12-23 09:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9f4/live/ff8942a0-dcf1-11f0-bc51-61713ec32de7.jpg" alt="2025 likely to be UK&#x27;s hottest year on record, says Met Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgjzpglw4yo?at_medium=RSS&at_campaign=rss" target="_blank">2025 likely to be UK&#x27;s hottest year on record, says Met Office</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-23 08:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/23/salah-scores-goal-as-egypt-rally-to-win-against-zimbabwe-at-afcon-2025?traffic_source=rss" target="_blank">Salah scores goal as Egypt rally to win against Zimbabwe at AFCON 2025</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-23 06:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379f/live/2724ffe0-dfbb-11f0-a8dc-93c15fe68710.jpg" alt="&#x27;A miracle&#x27;: Officer shot in head during Bondi attack home from hospital" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd0kxrr2jyko?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;A miracle&#x27;: Officer shot in head during Bondi attack home from hospital</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-23 06:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/syrian-army-and-kurdish-led-forces-agree-to-de-escalate-violence-in-aleppo?traffic_source=rss" target="_blank">Syrian army, Kurdish-led SDF agree to stop deadly fighting in Aleppo</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-23 05:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/688061d68203c2103d95c470/master/pass/We%20Tried%205%20of%20the%20Most%20Popular%20Indoor%20Gardening%20Systems.png" alt="Best Indoor Garden Systems: We&#x27;ve Been Testing All Year (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-indoor-gardening-systems/" target="_blank">Best Indoor Garden Systems: We&#x27;ve Been Testing All Year (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-23 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" alt="Groupon Promo Codes: 50% Off in January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,15 +158,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-dehumidifier/" target="_blank">6 Best Dehumidifiers to Keep Your Home Mold-Free (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-22 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/" target="_blank">OpenAI says AI browsers may always be vulnerable to prompt injection attacks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-22 22:11</span>
             </div>
         </div>
 </div>
@@ -316,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
