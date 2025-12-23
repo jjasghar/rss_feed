@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 07:03:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-23 08:02:06 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 07:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -174,6 +178,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/github-binaries-tools/" target="_blank">Stop Manually Checking GitHub Releases — These Tools Automatically Install &amp;amp; Update Apps on Linux</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-23 07:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/umartahir93/understanding-oneof-in-openapi-without-the-confusion-3cp6" target="_blank">Understanding oneOf in OpenAPI (Without the Confusion)</a></span>
                 <span class="feed">DEV Community</span>
@@ -190,30 +203,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/eyeblech/cinecli" target="_blank">Show HN: CineCLI – Browse and torrent movies directly from your terminal</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-23 05:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/06/cosmic-logo.jpg?resize=406%2C232&amp;ssl=1" alt="How to Install COSMIC Desktop on Ubuntu 24.04 (PPA)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/install-cosmic-desktop-ubuntu-24-04-ppa" target="_blank">How to Install COSMIC Desktop on Ubuntu 24.04 (PPA)</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-12-23 02:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8s9qcrztltkn5aojfbp.png" alt="From the Musk Compensation Case to DAO Governance — An Audit Report of a Traditional World “Off-Chain Smart Contract”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/apnews/from-the-musk-compensation-case-to-dao-governance-an-audit-report-of-a-traditional-world-13do" target="_blank">From the Musk Compensation Case to DAO Governance — An Audit Report of a Traditional World “Off-Chain Smart Contract”</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-23 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Panther-Lake-H-EDAC-13" target="_blank">Intel Linux Driver Preps For Up To 13 Different Panther Lake H SoCs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-23 01:15</span>
             </div>
         </div>
 </div>
@@ -312,22 +316,13 @@
                 <span class="time">2025-12-22 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/22/children-in-danger-part-two" target="_blank">Children In Danger, Part Two</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-22 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
