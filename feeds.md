@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 05:03:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-23 06:02:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 05:03 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/syrian-army-and-kurdish-led-forces-agree-to-de-escalate-violence-in-aleppo?traffic_source=rss" target="_blank">Syrian army, Kurdish-led SDF agree to stop deadly fighting in Aleppo</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-23 05:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c364/live/51386230-df76-11f0-9525-7999bb394c48.jpg" alt="Russia escalates attacks on key Ukrainian region of Odesa" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS&at_campaign=rss" target="_blank">Russia escalates attacks on key Ukrainian region of Odesa</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-23 05:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,37 +81,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/22/g-s1-103408/trump-navy-battleship-golden-fleet" target="_blank">Trump announces plans for new Navy &#x27;battleship&#x27; as part of a &#x27;Golden Fleet&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-23 01:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/trump-warns-maduro-not-to-play-tough-as-china-russia-back-venezuela?traffic_source=rss" target="_blank">Trump warns Maduro not to ‘play tough’ as Russia, China back Venezuela</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-23 01:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/california-traffic-gty-jef-251222_1766413578438_hpMain_4x3t_384.jpg" alt="Christmas weather forecast: Heavy rain in California to record high temps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/holiday-weather-forecast-white-christmas/story?id=128615555" target="_blank">Christmas weather forecast: Heavy rain in California to record high temps</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-23 01:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9f4/live/ff8942a0-dcf1-11f0-bc51-61713ec32de7.jpg" alt="2025 likely to be UK&#x27;s hottest on record, says Met Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgjzpglw4yo?at_medium=RSS&at_campaign=rss" target="_blank">2025 likely to be UK&#x27;s hottest on record, says Met Office</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-23 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaa3/live/cd87d9a0-df77-11f0-aae2-2191c0e48a3b.jpg" alt="Trump says US &#x27;has to have&#x27; Greenland after naming special envoy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US &#x27;has to have&#x27; Greenland after naming special envoy</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-22 23:40</span>
             </div>
         </div>
 </div>
@@ -166,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/23/settle-down-nerds-ai-is-a-normal-technology/" target="_blank">Settle down, nerds. AI is a normal technology</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-23 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aiwithapex/from-hours-of-editing-to-one-prompt-how-sam-audio-is-rewriting-creative-work-10ia" target="_blank">From Hours of Editing to One Prompt: How SAM Audio Is Rewriting Creative Work</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-23 05:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/06/cosmic-logo.jpg?resize=406%2C232&amp;ssl=1" alt="How to Install COSMIC Desktop on Ubuntu 24.04 (PPA)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -201,24 +214,6 @@
                 <span class="time">2025-12-23 00:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/" target="_blank">This year’s most influential open source projects</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-12-22 23:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18788593&w=600" alt="Phantom APIs: The Security Nightmare Hiding in Your AI-Generated Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/security-risks-in-ai-generated-code" target="_blank">Phantom APIs: The Security Nightmare Hiding in Your AI-Generated Code</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-22 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +240,15 @@
                 <span class="title"><a href="https://gizmodo.com/pentagon-adds-grok-derived-products-to-something-called-the-ai-arsenal-2000702379" target="_blank">Pentagon Adds Grok-Derived Products to Something Called the ‘AI Arsenal’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-23 01:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/shutterstock_729630679-e1760395336732.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="That cancelled 60 Minutes piece is up on Canadian TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/22/that-cancelled-60-minutes-piece-is-up-on-canadian-tv.html" target="_blank">That cancelled 60 Minutes piece is up on Canadian TV</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-23 00:11</span>
             </div>
         </div>
 <div class="story">
@@ -281,15 +285,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/valve-officially-discontinued-the-lcd-steam-deck?utm_medium=RSS" target="_blank">Valve Officially Discontinued the LCD Steam Deck</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-22 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/spacex-starship-flight-7-1280x853.jpg" alt="Report: Starship Debris Came Closer to Airplanes Than SpaceX Admits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/report-starship-debris-came-closer-to-airplanes-than-spacex-admits-2000702634" target="_blank">Report: Starship Debris Came Closer to Airplanes Than SpaceX Admits</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-22 21:30</span>
             </div>
         </div>
 </div>
@@ -329,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 05:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
