@@ -1,45 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 21:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-23 22:01:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 36 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, December 23, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/23/nx-s1-5641959/supreme-court-chicago-national-guard" target="_blank">Supreme Court rules against Trump in National Guard case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-23 21:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-maduro-gty-gmh-251223_1766505133280_hpMain_4x3t_384.jpg" alt="Trump says it would be &#x27;smart&#x27; for Venezuela&#x27;s Maduro to step down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -100,20 +94,20 @@
                 <span class="time">2025-12-23 18:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/142d/live/1cba0ab0-e02d-11f0-aae2-2191c0e48a3b.jpg" alt="Ukraine loses embattled eastern town" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine loses embattled eastern town</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-23 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/" target="_blank">Trump administration’s ban on foreign-made drones starts this week — you can say goodbye to new DJI models</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-23 21:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,6 +127,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/694af41b580097bbe4e87205/master/pass/Best%20Unlimited%20Plans%20top%20art%20122025%20SOURCE%20Getty%20Images.jpg" alt="The Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-unlimited-phone-plans/" target="_blank">The Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-23 20:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -148,24 +151,6 @@
                 <span class="title"><a href="https://arstechnica.com/culture/2025/12/steve-rogers-returns-in-avengers-doomsday-teaser/" target="_blank">Steve Rogers returns in Avengers: Doomsday teaser</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-12-23 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-reject-anthropic-copyright-settlement-bring-new-lawsuit-against-six-major-ai-companies/" target="_blank">John Carreyrou and other authors reject Anthropic copyright settlement, bring new lawsuit against six major AI companies</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-23 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/849810/james-bond-007-first-light-release-date-delay" target="_blank">007 First Light&amp;#8217;s release date gets shaken up</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-23 18:39</span>
             </div>
         </div>
 </div>
@@ -247,11 +232,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Demon-Slayer-Infinity-Castle-Chainsaw-Man-Reze-Arc-YIR2025-2-Box-Purple-1280x853.jpg" alt="Anime Movies Faced a Defining, Precarious Theatrical Crossroads in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/chainsaw-man-reze-arc-jujutsu-kaisen-demon-slayer-infinity-castle-anime-movies-2000703002" target="_blank">Anime Movies Faced a Defining, Precarious Theatrical Crossroads in 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-23 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/10/GettyImages-2107840718-1024x683.jpg" alt="China Pumps Breaks on Plans to Mass Produce Self-Driving Cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/china-pumps-breaks-on-plans-to-mass-produce-self-driving-cars-2000703109" target="_blank">China Pumps Breaks on Plans to Mass Produce Self-Driving Cars</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-23 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HER501J2VERP2V4GGYYS6/hero-image.jpg" alt="What Is VO2max?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/what-is-vo2max?utm_medium=RSS" target="_blank">What Is VO2max?</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-23 21:00</span>
             </div>
         </div>
@@ -282,24 +285,6 @@
                 <span class="time">2025-12-23 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/bfb725166a99ccabb7cd25ed810a4e8e-1280x720.jpg" alt="James Bond Game Delayed 3 Months, Snagging GTA 6′s Old Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/james-bond-game-delayed-release-date-hitman-2000655417" target="_blank">James Bond Game Delayed 3 Months, Snagging GTA 6′s Old Spot</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-23 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Smoke_Rising_From_The_Former_Pennsylvania_Route_61.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="The Pennsylvania town destroyed by a fire burning since 1962" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/23/the-pennsylvania-town-destroyed-by-a-fire-burning-since-1962.html" target="_blank">The Pennsylvania town destroyed by a fire burning since 1962</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-23 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
