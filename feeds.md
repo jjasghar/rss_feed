@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 19:01:24 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-24 20:01:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 19:01 UTC</div>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +54,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/bangladesh-opposition-leader-tarique-rahman-set-for-historic-homecoming?traffic_source=rss" target="_blank">Bangladesh opposition leader Tarique Rahman set for historic homecoming</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-24 18:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-kyiv-ukraine-russia-war-invasion_7118255.jpg?20251223122627" alt="Ukraine and US agree new peace plan after Moscow hit by another deadly bombing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ukraine-and-us-agree-updated-20-point-peace-plan-after-moscow-hit-by-another-deadly-bombing-13487290" target="_blank">Ukraine and US agree new peace plan after Moscow hit by another deadly bombing</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-24 17:47</span>
             </div>
         </div>
 <div class="story">
@@ -91,15 +99,6 @@
                 <span class="title"><a href="https://news.sky.com/story/families-reunited-with-kidnapped-nigerian-schoolchildren-in-time-for-christmas-13487277" target="_blank">&#x27;This Christmas will be different&#x27;: Families reunited with kidnapped schoolchildren</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-12-24 15:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/24/algeria-passes-law-declaring-french-colonisation-crime" target="_blank">Algeria passes law declaring French colonisation a crime</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-24 15:02</span>
             </div>
         </div>
 </div>
@@ -169,10 +168,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/QEMU-10.2-Released" target="_blank">QEMU 10.2 Released With IO_uring Support For Helping Allow For Greater Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-24 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/th0ma5w/ZipPop" target="_blank">ZipPop: a space conserving unzipping script</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-24 18:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://emacsconf.org/2025/talks/swanky/" target="_blank">Swanky Python: Interactive development for Python</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-12-24 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/VibiumDev/vibium" target="_blank">Show HN: Vibium – Browser automation for AI and humans, by Selenium&#x27;s creator</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-24 17:49</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/snapdragon-x-elite-linux-eoy2025" target="_blank">Snapdragon X Elite Laptop Performance On Linux Ends 2025 Disappointing</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-24 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783232&w=600" alt="JavaScript Data Grid Comparison: 8 Popular Options Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/javascript-data-grids-top-options" target="_blank">JavaScript Data Grid Comparison: 8 Popular Options Reviewed</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-24 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flq3cd1r8q3qth11b3yvh.png" alt="Announcing AgentHelm v0.3.0: Production-Ready AI Agent Orchestration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hadywalied/announcing-agenthelm-v030-production-ready-ai-agent-orchestration-5alg" target="_blank">Announcing AgentHelm v0.3.0: Production-Ready AI Agent Orchestration</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-24 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/new-distros-2025/" target="_blank">5 New Linux Distributions We Discovered in 2025</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-24 15:37</span>
             </div>
         </div>
 </div>
@@ -321,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
