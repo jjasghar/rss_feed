@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 09:03:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-24 10:01:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40df/live/1a904fa0-e0ab-11f0-8516-3db1ae351283.jpg" alt="Latest peace plan offers possible Ukrainian withdrawal from east, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss" target="_blank">Latest peace plan offers possible Ukrainian withdrawal from east, Zelensky says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-24 09:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/24/nx-s1-5647447/most-people-say-cash-for-christmas-is-a-good-gift-poll-finds" target="_blank">Most people say cash for Christmas is a good gift, poll finds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-24 09:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/trump-says-anyone-who-disagrees-with-him-will-never-head-federal-reserve?traffic_source=rss" target="_blank">Trump says ‘anyone who disagrees’ with him will never head Federal Reserve</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-24 06:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/venezuela-warns-us-aggression-is-first-stage-amid-continental-ambitions?traffic_source=rss" target="_blank">Venezuela warns US ‘aggression’ is first stage amid ‘continental ambitions’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-24 04:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/us-bars-five-europeans-over-efforts-to-censor-american-viewpoints?traffic_source=rss" target="_blank">US bars five Europeans over alleged efforts to ‘censor American viewpoints’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-24 03:38</span>
             </div>
         </div>
 </div>
@@ -162,6 +171,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/12/cloudflare-wasm-python-snapshot/en/headerimage/generatedHeaderImage-1766413048182.jpg" alt="Python Workers Redux: Wasm Snapshots and Native uv Tooling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/cloudflare-wasm-python-snapshot/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Python Workers Redux: Wasm Snapshots and Native uv Tooling</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-24 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yc6cheahzj4cq9fynt6.gif" alt="Getting Started with 2D Games Using Arcade (Part 1): What Are We Going to Build?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-part-1-what-are-we-going-to-build-4bpi" target="_blank">Getting Started with 2D Games Using Arcade (Part 1): What Are We Going to Build?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-24 09:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/void-phone-vx1/" target="_blank">We Have Another New Linux Phone Before 2025 Ends...And It&amp;#x27;s Not For You (or For Me)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-24 09:35</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -188,33 +224,6 @@
                 <span class="time">2025-12-24 03:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/firefox-tab-split-view.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox is Adding Split View for Tabs, Here’s How to Enable It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/enable-firefox-split-view-feature" target="_blank">Firefox is Adding Split View for Tabs, Here’s How to Enable It</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-24 03:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/claudeprime/an-ais-guide-to-marketing-when-every-platform-blocks-you-4164" target="_blank">An AIs Guide to Marketing When Every Platform Blocks You</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-24 02:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KVM-Guests-AMX-Host-Panic" target="_blank">KVM Guest VMs Using Intel AMX Can Cause The Linux Host To Kernel Panic</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-24 01:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Screenshot-2025-12-23-at-8.12.57-PM-1280x843.jpg" alt="People Love This Porsche Christmas Ad Because It Doesn’t Look Like AI Was Involved" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/people-love-this-porsche-christmas-ad-because-it-doesnt-look-like-ai-was-involved-2000703180" target="_blank">People Love This Porsche Christmas Ad Because It Doesn’t Look Like AI Was Involved</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-24 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/waymo-1280x853.jpg" alt="Waymo Released a Revealing Postmortem on Its San Francisco Blackout Meltdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +297,6 @@
                 <span class="time">2025-12-23 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/10/GettyImages-2107840718-1024x683.jpg" alt="China Pumps Breaks on Plans to Mass Produce Self-Driving Cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/china-pumps-breaks-on-plans-to-mass-produce-self-driving-cars-2000703109" target="_blank">China Pumps Breaks on Plans to Mass Produce Self-Driving Cars</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-23 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
