@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 18:02:20 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-24 19:01:24 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/bangladesh-opposition-leader-tarique-rahman-set-for-historic-homecoming?traffic_source=rss" target="_blank">Bangladesh opposition leader Tarique Rahman set for historic homecoming</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-24 18:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/cali-rain-4-ht-gmh-251224_1766595745961_hpMain_4x3t_384.jpg" alt="Flash flood, thunderstorm alerts in effect for California amid heavy rain, storms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-nigeria-kidnapping_7118906.png?20251224154414" alt="&#x27;This Christmas will be different&#x27;: Families reunited with kidnapped schoolchildren" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/families-reunited-with-kidnapped-nigerian-schoolchildren-in-time-for-christmas-13487277" target="_blank">&#x27;This Christmas will be different&#x27;: Families reunited with kidnapped schoolchildren</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-24 15:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -77,29 +102,20 @@
                 <span class="time">2025-12-24 15:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/24/g-s1-103005/jaffa-salon-tel-aviv-israel-palestinians-jews" target="_blank">Greetings from Jaffa, Israel, where a salon is a welcoming space for Palestinians and Jews</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-24 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-moscow-russia_7118764.jpg?20251224143651" alt="Second fatal bombing in Moscow &#x27;embarrassing&#x27; for Kremlin but helpful timing for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/second-fatal-bombing-in-moscow-embarrassing-for-kremlin-but-helpful-timing-for-ukraine-13487269" target="_blank">Second fatal bombing in Moscow &#x27;embarrassing&#x27; for Kremlin but helpful timing for Ukraine</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-24 14:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/" target="_blank">The European startup market’s data doesn’t match its energy — yet</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-24 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,15 +158,6 @@
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025" target="_blank">Sony’s souped-up PlayStation 5 Pro is $100 off for the rest of today</a></span>
                 <span class="feed">The Verge</span>
-                <span class="time">2025-12-24 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/24/the-14-top-agtech-food-tech-startups-from-disrupt-startup-battlefield/" target="_blank">The 14 top agtech, food tech startups from Disrupt Startup Battlefield</a></span>
-                <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-24 15:00</span>
             </div>
         </div>
@@ -233,6 +240,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/fire-tv-1280x853.jpg" alt="Amazon’s 40″ Fire TV Drops to an All-Time Low to Stand Out in the Smart TV Deal Crowd, Priced Like Refurbished but Brand New" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazons-40%e2%80%b3-fire-tv-gets-cleared-out-at-an-all-time-low-before-year-end-priced-like-refurbished-but-brand-new-2000655547" target="_blank">Amazon’s 40″ Fire TV Drops to an All-Time Low to Stand Out in the Smart TV Deal Crowd, Priced Like Refurbished but Brand New</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-24 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Pay once and use Microsoft Office Professional 2021 forever for $34.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/24/pay-once-and-use-microsoft-office-professional-2021-forever-for-34-97.html" target="_blank">Pay once and use Microsoft Office Professional 2021 forever for $34.97</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-24 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/stana.jpg" alt="RIP The Art Of The Old Christmas Time Video Game Commercial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -268,24 +293,6 @@
                 <span class="time">2025-12-24 14:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Samsung-Galaxy-Watch-8-2025-40mm-1280x852.jpg" alt="Samsung Galaxy Watch 8 (2025) Crashes to a Record Low, No Need to Pay More for Older Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-galaxy-watch-8-2025-crashes-to-a-record-low-no-need-to-pay-more-for-older-models-2000655518" target="_blank">Samsung Galaxy Watch 8 (2025) Crashes to a Record Low, No Need to Pay More for Older Models</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-24 14:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GGY97XFSWBKK6R08FS0TE/hero-image.jpg" alt="Use the RAFT Technique to Quickly Sort Emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-to-use-the-raft-technique-to-manage-emails?utm_medium=RSS" target="_blank">Use the RAFT Technique to Quickly Sort Emails</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-24 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
