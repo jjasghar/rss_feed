@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 14:02:14 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-12-24 15:01:39 UTC -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +43,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/12/24/ties-with-turkiye-improve-once-libya-can-patch-its-internal?traffic_source=rss" target="_blank">Ties with Turkiye improve “once Libya can patch its internal differences”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-24 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/12/24/trump-declared-a-new-middle-east-but-what-has?traffic_source=rss" target="_blank">Trump declared a ‘new Middle East’ – but what has changed?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-24 12:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/24/nx-s1-5649922/snow-ice-blue-spotted-salamanders-supercool" target="_blank">In the snow, these salamanders get supercool</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-24 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +93,29 @@
                 <span class="time">2025-12-24 10:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40df/live/1a904fa0-e0ab-11f0-8516-3db1ae351283.jpg" alt="Zelensky moves towards demilitarised zones in latest peace plan for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky moves towards demilitarised zones in latest peace plan for Ukraine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-24 10:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40df/live/1a904fa0-e0ab-11f0-8516-3db1ae351283.jpg" alt="Latest peace plan offers possible Ukrainian withdrawal from east, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss" target="_blank">Latest peace plan offers possible Ukrainian withdrawal from east, Zelensky says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-24 09:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025" target="_blank">Sony’s souped-up PlayStation 5 Pro is $100 off for the rest of today</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-24 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/24/the-14-top-agtech-food-tech-startups-from-disrupt-startup-battlefield/" target="_blank">The 14 top agtech, food tech startups from Disrupt Startup Battlefield</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-24 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,6 +135,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/694af0f4ed8906beb022ac52/master/pass/How%20to%20Choose%20a%20Computer%20Monitor%20top%20art%20122025%20SOURCE%20Best%20Buy.jpg" alt="How to Choose a Computer Monitor (2025): Everything You Need to Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-choose-a-computer-monitor/" target="_blank">How to Choose a Computer Monitor (2025): Everything You Need to Know</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-24 13:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -130,38 +152,29 @@
                 <span class="time">2025-12-24 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69406bdd9f9b98727b285b83/master/pass/Apples-App-Making%20Course-Costing-20k-A-Student-Business-2225891099.jpg" alt="Apple’s App Course Runs $20,000 a Student. Is It Really Worth It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-app-making-course-michigan-state-university/" target="_blank">Apple’s App Course Runs $20,000 a Student. Is It Really Worth It?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-24 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69408e447b304af519561d82/master/pass/Pinterest-AI-Slop-Problem-Business-1234263599.jpg" alt="Pinterest Users Are Tired of All the AI Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pinterst-ai-slop-content/" target="_blank">Pinterest Users Are Tired of All the AI Slop</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-24 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/848379/pluribus-review-season-1-finale" target="_blank">The Pluribus finale showed there&amp;#8217;s a lot more to the story</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-24 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rushikesh_langale_42ac365/finops-101-what-it-is-and-why-cloud-teams-cant-ignore-it-1h3g" target="_blank">FinOps 101: What It Is and Why Cloud Teams Can’t Ignore It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-24 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://xania.org/202512/24-cunning-clang" target="_blank">When Compilers Surprise You</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-24 13:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/12/cactus-on-device-inference/en/headerimage/cactus-on-device-inference-1766571403967.jpeg" alt="Cactus v1: Cross-Platform LLM Inference on Mobile with Zero Latency and Full Privacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +211,6 @@
                 <span class="time">2025-12-24 10:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/cloudflare-wasm-python-snapshot/en/headerimage/generatedHeaderImage-1766413048182.jpg" alt="Python Workers Redux: Wasm Snapshots and Native uv Tooling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/cloudflare-wasm-python-snapshot/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Python Workers Redux: Wasm Snapshots and Native uv Tooling</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-24 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yc6cheahzj4cq9fynt6.gif" alt="Getting Started with 2D Games Using Arcade (Part 1): What Are We Going to Build?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-part-1-what-are-we-going-to-build-4bpi" target="_blank">Getting Started with 2D Games Using Arcade (Part 1): What Are We Going to Build?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-24 09:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +230,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/dunkin.jpeg?fit=1500%2C1125&amp;quality=60&amp;ssl=1" alt="Locals complain of overwhelming donut smell from new Dunkin factory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/24/locals-complain-of-overwhelming-donut-smell-from-new-dunkin-factory.html" target="_blank">Locals complain of overwhelming donut smell from new Dunkin factory</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-24 14:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Samsung-Galaxy-Watch-8-2025-40mm-1280x852.jpg" alt="Samsung Galaxy Watch 8 (2025) Crashes to a Record Low, No Need to Pay More for Older Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-galaxy-watch-8-2025-crashes-to-a-record-low-no-need-to-pay-more-for-older-models-2000655518" target="_blank">Samsung Galaxy Watch 8 (2025) Crashes to a Record Low, No Need to Pay More for Older Models</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-24 14:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HF2GGY97XFSWBKK6R08FS0TE/hero-image.jpg" alt="Use the RAFT Technique to Quickly Sort Emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +284,6 @@
                 <span class="time">2025-12-24 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/waymo-1280x853.jpg" alt="Waymo Released a Revealing Postmortem on Its San Francisco Blackout Meltdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/waymo-released-a-revealing-postmortem-on-its-san-francisco-blackout-meltdown-2000702801" target="_blank">Waymo Released a Revealing Postmortem on Its San Francisco Blackout Meltdown</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-24 03:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/vecna-1280x853.jpg" alt="Everything Netflix Is Taking Credit for Thanks to the Success of ‘Stranger Things’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stranger-things-netflix-stats-dnd-music-streaming-2000703127" target="_blank">Everything Netflix Is Taking Credit for Thanks to the Success of ‘Stranger Things’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-23 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
