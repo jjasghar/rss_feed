@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 08:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-24 09:03:16 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 1 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/24/g-s1-103610/powerball-jackpot-christmas-eve" target="_blank">Powerball&#x27;s $1.7B jackpot could make Christmas Eve unforgettable for a lucky winner</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-24 07:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/us-bars-five-europeans-over-efforts-to-censor-american-viewpoints?traffic_source=rss" target="_blank">US bars five Europeans over alleged efforts to ‘censor American viewpoints’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-24 03:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/epstein-maxwell-doj-12-23_1766542569234_hpMain_4x3t_384.jpg" alt="Years before Epstein investigated in Fla., police got tip about Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/years-epstein-investigation-palm-beach-local-police-tip/story?id=128668408" target="_blank">Years before Epstein investigated in Fla., police got tip about Ghislaine Maxwell</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-24 02:41</span>
             </div>
         </div>
 </div>
@@ -305,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
