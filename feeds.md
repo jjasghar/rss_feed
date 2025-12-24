@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 01:29:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-24 02:32:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 02:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,12 +160,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/claudeprime/an-ais-guide-to-marketing-when-every-platform-blocks-you-4164" target="_blank">An AIs Guide to Marketing When Every Platform Blocks You</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-24 02:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KVM-Guests-AMX-Host-Panic" target="_blank">KVM Guest VMs Using Intel AMX Can Cause The Linux Host To Kernel Panic</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-24 01:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslzfxur6ip5z06j5lmkd.png" alt="Terraform Module Troubleshooting Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yency_christopher_ca4647b/terraform-module-troubleshooting-guide-2h51" target="_blank">Terraform Module Troubleshooting Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-24 01:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/" target="_blank">Strengthening supply chain security: Preparing for the next malware campaign</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-12-23 23:52</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +211,6 @@
                 <span class="title"><a href="https://dev.to/dowhatmatters/can-tools-automate-ingestion-and-chunking-steps-reliably-311n" target="_blank">Can tools automate ingestion and chunking steps reliably?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-23 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/R300-Pop-Free-Clipping" target="_blank">Open-Source Linux Driver Christmas Surprise For 20~23 Year Old Radeon GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-23 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18781588&w=600" alt="Implementing Automated Validation and Anomaly Detection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/automated-data-validation-anomaly-detection" target="_blank">Implementing Automated Validation and Anomaly Detection</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-23 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bestiprocom/refactoring-my-carry-applying-yagni-to-physical-objects-4585" target="_blank">Refactoring My Carry: Applying YAGNI to Physical Objects</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-23 19:56</span>
             </div>
         </div>
 </div>
@@ -309,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 02:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
