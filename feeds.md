@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 22:02:03 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-12-24 23:01:32 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766612660883_now_daily_b_epstein_doj_251224_1920x1080-efjg2h.jpg" alt="Justice Department says it has uncovered over one million more Epstein-related files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/doj-says-it-has-uncovered-over-one-million-more-epstein-related-files-254984261892" target="_blank">Justice Department says it has uncovered over one million more Epstein-related files</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-24 21:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +96,20 @@
                 <span class="time">2025-12-24 17:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cali-rain-4-ht-gmh-251224_1766595745961_hpMain_4x3t_384.jpg" alt="Flash flood, thunderstorm alerts in effect for California amid heavy rain, storms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/flash-flood-thunderstorm-alerts-effect-california-heavy-rain/story?id=128680080" target="_blank">Flash flood, thunderstorm alerts in effect for California amid heavy rain, storms</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-24 17:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/" target="_blank">Nvidia to license AI chip challenger Groq’s tech and hire its CEO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-24 22:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +155,20 @@
                 <span class="time">2025-12-24 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/694ae05af0e11aa260c8b422/master/pass/JBL%20Bar%20500MK2%20top%20art%20122025%20SOURCE%20Amazon.jpg" alt="JBL Bar 500MK2 Review: A Fantastic Soundbar System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/jbl-bar-500-mk2/" target="_blank">JBL Bar 500MK2 Review: A Fantastic Soundbar System</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-24 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/qurioskill/software-programming-as-a-skill-4dn2" target="_blank">Software Programming as a Skill</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-24 22:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +214,6 @@
                 <span class="time">2025-12-24 19:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/th0ma5w/ZipPop" target="_blank">ZipPop: a space conserving unzipping script</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-24 18:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/VideoProc-Converter-AI.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Turn your videos into 4K masterpieces with AI, now 70% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/24/turn-your-videos-into-4k-masterpieces-with-ai-now-70-off.html" target="_blank">Turn your videos into 4K masterpieces with AI, now 70% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-24 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/surprise-pikachu-2-1280x744.jpg" alt="Surprise Pokémon Leak Reveals Fresh Clues About The New Gen 10 Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +287,6 @@
                 <span class="time">2025-12-24 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Kimberlee-Singler-in-a-photo-publicized-by-Color.jpg?fit=1080%2C751&amp;quality=60&amp;ssl=1" alt="American woman accused of killing her children extradited by U.K." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/24/american-woman-accused-of-killing-her-children-extradited-by-u-k.html" target="_blank">American woman accused of killing her children extradited by U.K.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-24 14:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
