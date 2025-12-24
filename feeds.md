@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 10:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-24 11:01:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/24/g-s1-103618/u-s-and-ukraine-reach-consensus-on-key-issues" target="_blank">U.S. and Ukraine reach consensus on key issues aimed at ending the war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-24 10:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40df/live/1a904fa0-e0ab-11f0-8516-3db1ae351283.jpg" alt="Zelensky moves towards demilitarised zones in latest peace plan for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky moves towards demilitarised zones in latest peace plan for Ukraine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-24 10:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40df/live/1a904fa0-e0ab-11f0-8516-3db1ae351283.jpg" alt="Latest peace plan offers possible Ukrainian withdrawal from east, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,29 +100,20 @@
                 <span class="time">2025-12-24 07:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/24/g-s1-103606/u-s-bars-five-europeans-american-viewpoints-online" target="_blank">U.S. bars Europeans it says pressured tech firms to censor American viewpoints online</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-24 06:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/trump-says-anyone-who-disagrees-with-him-will-never-head-federal-reserve?traffic_source=rss" target="_blank">Trump says ‘anyone who disagrees’ with him will never head Federal Reserve</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-24 06:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69408e447b304af519561d82/master/pass/Pinterest-AI-Slop-Problem-Business-1234263599.jpg" alt="Pinterest Users Are Tired of All the AI Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/pinterst-ai-slop-content/" target="_blank">Pinterest Users Are Tired of All the AI Slop</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-24 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,20 +159,20 @@
                 <span class="time">2025-12-23 21:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/" target="_blank">Trump administration’s ban on foreign-made drones starts this week — you can say goodbye to new DJI models</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-23 21:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/llm-ai-africa/en/mediumimage/jade-abbott-medium-1766064709735.jpeg" alt="Presentation: Ecologies and Economics of Language AI in Practice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/llm-ai-africa/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Ecologies and Economics of Language AI in Practice</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-24 10:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/12/cloudflare-wasm-python-snapshot/en/headerimage/generatedHeaderImage-1766413048182.jpg" alt="Python Workers Redux: Wasm Snapshots and Native uv Tooling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,6 +195,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/void-phone-vx1/" target="_blank">We Have Another New Linux Phone Before 2025 Ends...And It&amp;#x27;s Not For You (or Me)</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-24 09:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/news/void-phone-vx1/" target="_blank">We Have Another New Linux Phone Before 2025 Ends...And It&amp;#x27;s Not For You (or For Me)</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2025-12-24 09:35</span>
@@ -204,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/hamzaquickcountertools/what-developers-get-wrong-about-name-generators-34b8" target="_blank">What Developers Get Wrong About Name Generators</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-24 05:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paperium/beyond-the-imitation-game-quantifying-and-extrapolating-the-capabilities-oflanguage-models-3371" target="_blank">Beyond the Imitation Game: Quantifying and extrapolating the capabilities oflanguage models</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-24 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq0k4jvy4i1ukrypsv0vp.png" alt="Why Most A/B Tests Fail in Subscription Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paywallpro/why-most-ab-tests-fail-in-subscription-apps-3m64" target="_blank">Why Most A/B Tests Fail in Subscription Apps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-24 03:25</span>
             </div>
         </div>
 </div>
@@ -316,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
