@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 11:01:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-12-24 12:02:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/zelenskyy-unveils-details-of-new-peace-plan-seeks-trump-talks-on-territory?traffic_source=rss" target="_blank">Zelenskyy unveils details of new peace plan, seeks Trump talks on territory</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-24 11:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +105,20 @@
                 <span class="time">2025-12-24 07:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/money-works/2025/12/24/chinas-rising-economic-influence-in-the-middle-east?traffic_source=rss" target="_blank">China’s rising economic influence in the Middle East</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-24 07:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69406bdd9f9b98727b285b83/master/pass/Apples-App-Making%20Course-Costing-20k-A-Student-Business-2225891099.jpg" alt="Apple’s App Course Runs $20,000 a Student. Is It Really Worth It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-app-making-course-michigan-state-university/" target="_blank">Apple’s App Course Runs $20,000 a Student. Is It Really Worth It?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-24 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69408e447b304af519561d82/master/pass/Pinterest-AI-Slop-Problem-Business-1234263599.jpg" alt="Pinterest Users Are Tired of All the AI Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +164,29 @@
                 <span class="time">2025-12-23 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/4509566-500x500.jpg" alt="China just carried out its second reusable launch attempt in three weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/12/china-just-carried-out-its-second-reusable-launch-attempt-in-three-weeks/" target="_blank">China just carried out its second reusable launch attempt in three weeks</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-23 21:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/cactus-on-device-inference/en/headerimage/cactus-on-device-inference-1766571403967.jpeg" alt="Cactus v1: Cross-Platform LLM Inference on Mobile with Zero Latency and Full Privacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/cactus-on-device-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cactus v1: Cross-Platform LLM Inference on Mobile with Zero Latency and Full Privacy</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-24 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://christitus.com/windows-tool/" target="_blank">The Windows Utility</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-24 10:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/llm-ai-africa/en/mediumimage/jade-abbott-medium-1766064709735.jpeg" alt="Presentation: Ecologies and Economics of Language AI in Practice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,43 +223,20 @@
                 <span class="time">2025-12-24 09:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/void-phone-vx1/" target="_blank">We Have Another New Linux Phone Before 2025 Ends...And It&amp;#x27;s Not For You (or For Me)</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-24 09:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hamzaquickcountertools/what-developers-get-wrong-about-name-generators-34b8" target="_blank">What Developers Get Wrong About Name Generators</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-24 05:57</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/denmark-accuses-russia-of-conducting-two-cyberattacks.html" target="_blank">Denmark Accuses Russia of Conducting Two Cyberattacks</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-23 12:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/InnAIO-AI-Translator-T10-4-1280x853.jpg" alt="PSA: Please Do Not Buy This Dubious ‘AI Translator’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/psa-do-not-buy-innaio-t10-ai-translator-2000701432" target="_blank">PSA: Please Do Not Buy This Dubious ‘AI Translator’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-24 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Screenshot-2025-12-23-at-8.12.57-PM-1280x843.jpg" alt="People Love This Porsche Christmas Ad Because It Doesn’t Look Like AI Was Involved" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +282,6 @@
                 <span class="time">2025-12-23 21:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Demon-Slayer-Infinity-Castle-Chainsaw-Man-Reze-Arc-YIR2025-2-Box-Purple-1280x853.jpg" alt="Anime Movies Faced a Defining, Precarious Theatrical Crossroads in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/chainsaw-man-reze-arc-jujutsu-kaisen-demon-slayer-infinity-castle-anime-movies-2000703002" target="_blank">Anime Movies Faced a Defining, Precarious Theatrical Crossroads in 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-23 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
