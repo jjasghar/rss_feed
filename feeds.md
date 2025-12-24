@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-23 23:01:47 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-24 00:04:48 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, December 23, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/23/nx-s1-5613384/some-jews-and-christians-in-israel-seek-to-build-trust-between-their-communities" target="_blank">In Israel, some Jews and Christians seek to build trust between their communities</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-23 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766525108277_now_mtp_clip_scotus_251223_1920x1080-r3xcvj.jpg" alt="Supreme Court rejects Trump&#x27;s bid to deploy National Guard in Illinois" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/supreme-court-rejects-trump-s-bid-to-deploy-national-guard-in-illinois-254936133991" target="_blank">Supreme Court rejects Trump&#x27;s bid to deploy National Guard in Illinois</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-23 21:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +99,6 @@
                 <span class="time">2025-12-23 20:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/23/trump-administration-to-resume-wage-garnishment-for-student-loan-defaulters?traffic_source=rss" target="_blank">Trump administration to resume wage garnishment for student loan defaulters</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-23 20:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7b/live/91abbb40-e003-11f0-a8dc-93c15fe68710.jpg" alt="Trump travelled on Epstein&#x27;s plane more than previously thought, prosecutor says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c74xgp81pqgo?at_medium=RSS&at_campaign=rss" target="_blank">Trump travelled on Epstein&#x27;s plane more than previously thought, prosecutor says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-23 19:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +111,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems" target="_blank">Apple is going to allow third-party app stores in Brazil, too</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-23 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/4509566-500x500.jpg" alt="China just carried out its second reusable launch attempt in three weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/12/china-just-carried-out-its-second-reusable-launch-attempt-in-three-weeks/" target="_blank">China just carried out its second reusable launch attempt in three weeks</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-23 21:22</span>
             </div>
         </div>
 <div class="story">
@@ -150,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/best-unlimited-phone-plans/" target="_blank">The Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-23 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/23/zoox-issues-software-recall-over-lane-crossings/" target="_blank">Zoox issues software recall over lane crossings</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-23 19:50</span>
             </div>
         </div>
 </div>
@@ -249,6 +246,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Mario-.jpg" alt="Newly Dubbed Mario Fan Video Perfectly Lampoons AAA Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-parody-viral-voice-actor-ue5-instagram-2000655479" target="_blank">Newly Dubbed Mario Fan Video Perfectly Lampoons AAA Gaming</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-23 22:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Demon-Slayer-Infinity-Castle-Chainsaw-Man-Reze-Arc-YIR2025-2-Box-Purple-1280x853.jpg" alt="Anime Movies Faced a Defining, Precarious Theatrical Crossroads in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -284,15 +290,6 @@
                 <span class="time">2025-12-23 20:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/bestcharacters2025-1280x720.jpg" alt="The Best Video Game Characters Of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-best-video-game-characters-of-2025-2000655443" target="_blank">The Best Video Game Characters Of 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-23 19:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
