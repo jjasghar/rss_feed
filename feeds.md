@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 16:02:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-24 17:01:21 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/aljazeerauntangles/2025/12/24/french-empire-civilising-mission?traffic_source=rss" target="_blank">French Empire: Civilising Mission</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-24 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/un-experts-condemn-us-naval-blockade-of-venezuela-as-illegal-aggression?traffic_source=rss" target="_blank">UN experts condemn US naval blockade of Venezuela as illegal aggression</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-24 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/24/algeria-passes-law-declaring-french-colonisation-crime" target="_blank">Algeria passes law declaring French colonisation a crime</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-24 15:02</span>
             </div>
         </div>
 <div class="story">
@@ -62,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-moscow-russia_7118764.jpg?20251224143651" alt="Second fatal bombing in Moscow &#x27;embarrassing&#x27; for Kremlin but helpful timing for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/second-fatal-bombing-in-moscow-embarrassing-for-kremlin-but-helpful-timing-for-ukraine-13487269" target="_blank">Second fatal bombing in Moscow &#x27;embarrassing&#x27; for Kremlin but helpful timing for Ukraine</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-24 14:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -70,38 +100,20 @@
                 <span class="time">2025-12-24 13:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/12/24/trump-declared-a-new-middle-east-but-what-has?traffic_source=rss" target="_blank">Trump declared a ‘new Middle East’ – but what has changed?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-24 12:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766579534657_tdy_news_7a_tsirkin_epstein_251224_1920x1080-6bzkb7.jpg" alt="DOJ: Epstein Letter to Larry Nassar Referencing Trump is &#x27;Fake&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/doj-epstein-letter-to-larry-nassar-referencing-trump-is-fake-254964293791" target="_blank">DOJ: Epstein Letter to Larry Nassar Referencing Trump is &#x27;Fake&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-24 12:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/24/nx-s1-5649922/snow-ice-blue-spotted-salamanders-supercool" target="_blank">In the snow, these salamanders get supercool</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-24 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/santa_claus_secret_header-500x500.jpg" alt="Being Santa Claus is a year-round calling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/being-santa-claus-is-a-year-round-calling/" target="_blank">Being Santa Claus is a year-round calling</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-24 16:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -109,6 +121,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/12/24/the-9-top-biotech-startups-from-disrupt-startup-battlefield/" target="_blank">The 9 top biotech startups from Disrupt Startup Battlefield</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-24 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/694ae05af0e11aa260c8b422/master/pass/JBL%20Bar%20500MK2%20top%20art%20122025%20SOURCE%20Amazon.jpg" alt="JBL Bar 500MK2 Review: A Fantastic Soundbar System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/jbl-bar-500-mk2/" target="_blank">JBL Bar 500MK2 Review: A Fantastic Soundbar System</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-24 15:05</span>
             </div>
         </div>
 <div class="story">
@@ -138,29 +159,29 @@
                 <span class="time">2025-12-24 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2242254350-500x500.jpg" alt="SPEED Act passes in House despite changes that threaten clean power projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/speed-act-passes-in-house-despite-changes-that-threaten-clean-power-projects/" target="_blank">SPEED Act passes in House despite changes that threaten clean power projects</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-24 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/694af0f4ed8906beb022ac52/master/pass/How%20to%20Choose%20a%20Computer%20Monitor%20top%20art%20122025%20SOURCE%20Best%20Buy.jpg" alt="How to Choose a Computer Monitor (2025): Everything You Need to Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-choose-a-computer-monitor/" target="_blank">How to Choose a Computer Monitor (2025): Everything You Need to Know</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-24 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dobrenteiistvan/supply-chain-security-in-php-projects-10p4" target="_blank">Supply Chain Security in PHP Projects</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-24 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18783232&w=600" alt="JavaScript Data Grid Comparison: 8 Popular Options Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/javascript-data-grids-top-options" target="_blank">JavaScript Data Grid Comparison: 8 Popular Options Reviewed</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-24 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flq3cd1r8q3qth11b3yvh.png" alt="Announcing AgentHelm v0.3.0: Production-Ready AI Agent Orchestration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +189,15 @@
                 <span class="title"><a href="https://dev.to/hadywalied/announcing-agenthelm-v030-production-ready-ai-agent-orchestration-5alg" target="_blank">Announcing AgentHelm v0.3.0: Production-Ready AI Agent Orchestration</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-24 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/new-distros-2025/" target="_blank">5 New Linux Distributions We Discovered in 2025</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-24 15:37</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +216,6 @@
                 <span class="title"><a href="https://xania.org/202512/24-cunning-clang" target="_blank">When Compilers Surprise You</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-24 13:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/cactus-on-device-inference/en/headerimage/cactus-on-device-inference-1766571403967.jpeg" alt="Cactus v1: Cross-Platform LLM Inference on Mobile with Zero Latency and Full Privacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/cactus-on-device-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cactus v1: Cross-Platform LLM Inference on Mobile with Zero Latency and Full Privacy</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-24 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://christitus.com/windows-tool/" target="_blank">The Ultimate Windows Utility (2022)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-24 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://christitus.com/windows-tool/" target="_blank">The Windows Utility</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-24 10:48</span>
             </div>
         </div>
 </div>
@@ -302,22 +305,13 @@
                 <span class="time">2025-12-24 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1766378377-20251223 - Edit.png" alt="Saturday Morning Breakfast Cereal - Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/anything-4" target="_blank">Saturday Morning Breakfast Cereal - Anything</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-23 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
