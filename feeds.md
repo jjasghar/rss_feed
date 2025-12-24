@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 00:04:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-24 01:29:38 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/los-angeles-flooding-gty-jt-251223_1766523428317_hpMain_4x3t_384.jpg" alt="&#x27;Exceptionally dangerous&#x27;: Major flooding, mudslide risk in parts of Southern Calif." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/wildfire-burn-scars-make-threat-flooding-la-severe/story?id=128652703" target="_blank">&#x27;Exceptionally dangerous&#x27;: Major flooding, mudslide risk in parts of Southern Calif.</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-24 01:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/23/g-s1-103588/deadly-explosion-bristol-nursing-home-pennsylvania" target="_blank">Explosion at a Pennsylvania nursing home kills at least 2, governor says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-24 01:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/russia-ukraine-war-list-of-key-events-day-1399?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,399</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-24 00:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c65e/live/64d03910-e018-11f0-a378-fd9ff3d870e9.jpg" alt="Email by &#x27;A&#x27; from &#x27;Balmoral&#x27; asked Ghislaine Maxwell for &#x27;inappropriate friends&#x27;, Epstein files show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm28g5exx09o?at_medium=RSS&at_campaign=rss" target="_blank">Email by &#x27;A&#x27; from &#x27;Balmoral&#x27; asked Ghislaine Maxwell for &#x27;inappropriate friends&#x27;, Epstein files show</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-23 22:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -61,42 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/supreme-court-rejects-trump-s-bid-to-deploy-national-guard-in-illinois-254936133991" target="_blank">Supreme Court rejects Trump&#x27;s bid to deploy National Guard in Illinois</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-23 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/23/belgium-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss" target="_blank">Belgium joins South Africa’s genocide case against Israel at ICJ</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-23 21:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/23/nx-s1-5641959/supreme-court-chicago-national-guard" target="_blank">Supreme Court rules against Trump in National Guard case</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-23 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-maduro-gty-gmh-251223_1766505133280_hpMain_4x3t_384.jpg" alt="Trump says it would be &#x27;smart&#x27; for Venezuela&#x27;s Maduro to step down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-ramping-pressure-maduro-smart-venezuelan-leader-step/story?id=128653608" target="_blank">Trump says it would be &#x27;smart&#x27; for Venezuela&#x27;s Maduro to step down</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-23 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/23/libyas-army-chief-dies-in-plane-crash-in-turkey" target="_blank">Libya’s army chief dies in plane crash in Turkey</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-23 20:37</span>
             </div>
         </div>
 </div>
@@ -164,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslzfxur6ip5z06j5lmkd.png" alt="Terraform Module Troubleshooting Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yency_christopher_ca4647b/terraform-module-troubleshooting-guide-2h51" target="_blank">Terraform Module Troubleshooting Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-24 01:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/bestiprocom/refactoring-my-carry-applying-yagni-to-physical-objects-4585" target="_blank">Refactoring My Carry: Applying YAGNI to Physical Objects</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-23 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18781557&w=600" alt="Atomic Writes in NoSQL: A Multi-Cloud Deep Dive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/atomic-writes-in-nosql-databases" target="_blank">Atomic Writes in NoSQL: A Multi-Cloud Deep Dive</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-23 18:00</span>
             </div>
         </div>
 </div>
@@ -309,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
