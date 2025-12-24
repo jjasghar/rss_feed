@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 21:01:22 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-24 22:02:03 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss" target="_blank">Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-24 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/more-than-a-million-epstein-related-documents-discovered-release-delayed?traffic_source=rss" target="_blank">More than a million Epstein-related documents discovered; release delayed</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-24 20:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251220-Epstein-Maxwell-ch-1410-63c464.jpg" alt="DOJ says reviewing Epstein files may take weeks after getting over a million new docs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/doj-weeks-process-epstein-files-1-million-additional-documents-fbi-rcna250847" target="_blank">DOJ says reviewing Epstein files may take weeks after getting over a million new docs</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-24 19:57</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/flash-flood-thunderstorm-alerts-effect-california-heavy-rain/story?id=128680080" target="_blank">Flash flood, thunderstorm alerts in effect for California amid heavy rain, storms</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-24 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/aljazeerauntangles/2025/12/24/french-empire-civilising-mission?traffic_source=rss" target="_blank">French Empire: Civilising Mission</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-24 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/un-experts-condemn-us-naval-blockade-of-venezuela-as-illegal-aggression?traffic_source=rss" target="_blank">UN experts condemn US naval blockade of Venezuela as illegal aggression</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-24 15:39</span>
             </div>
         </div>
 </div>
@@ -165,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/om_shree_0709/the-12-bugs-of-christmas-how-one-devs-festive-deploy-turned-santas-workshop-into-a-kubernetes-563n" target="_blank">The 12 Bugs of Christmas: How One Dev&#x27;s &quot;Festive&quot; Deploy Turned Santa&#x27;s Workshop into a Kubernetes Catastrophe</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-24 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ayuxsec/turn-your-terminal-into-an-ai-arsenal-a-collection-of-personal-bash-helpers-olm" target="_blank">Turn Your Terminal into an AI Arsenal: A Collection of Personal Bash Helpers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-24 20:49</span>
@@ -206,15 +218,6 @@
                 <span class="time">2025-12-24 18:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://emacsconf.org/2025/talks/swanky/" target="_blank">Swanky Python: Interactive development for Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-24 18:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/surprise-pikachu-2-1280x744.jpg" alt="Surprise Pokémon Leak Reveals Fresh Clues About The New Gen 10 Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-gen-10-wind-wave-map-leak-pikachu-professor-2000655613" target="_blank">Surprise Pokémon Leak Reveals Fresh Clues About The New Gen 10 Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-24 20:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/fire-tv-1280x853.jpg" alt="Amazon’s 40″ Fire TV Drops to an All-Time Low to Stand Out in the Smart TV Deal Crowd, Priced Like Refurbished but Brand New" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +291,6 @@
                 <span class="time">2025-12-24 14:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/dunkin.jpeg?fit=1500%2C1125&amp;quality=60&amp;ssl=1" alt="Locals complain of overwhelming donut smell from new Dunkin factory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/24/locals-complain-of-overwhelming-donut-smell-from-new-dunkin-factory.html" target="_blank">Locals complain of overwhelming donut smell from new Dunkin factory</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-24 14:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
