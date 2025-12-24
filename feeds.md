@@ -1,37 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 06:02:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-24 07:03:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/24/g-s1-103606/u-s-bars-five-europeans-american-viewpoints-online" target="_blank">U.S. bars Europeans it says pressured tech firms to censor American viewpoints online</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-24 06:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/trump-says-anyone-who-disagrees-with-him-will-never-head-federal-reserve?traffic_source=rss" target="_blank">Trump says ‘anyone who disagrees’ with him will never head Federal Reserve</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-24 06:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +106,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/syria-ministers-discuss-military-cooperation-with-putin-in-russia-report?traffic_source=rss" target="_blank">Syria ministers discuss military cooperation with Putin in Russia: Report</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-24 01:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/los-angeles-flooding-gty-jt-251223_1766523428317_hpMain_4x3t_384.jpg" alt="&#x27;Exceptionally dangerous&#x27;: Major flooding, mudslide risk in parts of Southern Calif." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/wildfire-burn-scars-make-threat-flooding-la-severe/story?id=128652703" target="_blank">&#x27;Exceptionally dangerous&#x27;: Major flooding, mudslide risk in parts of Southern Calif.</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-24 01:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/23/g-s1-103588/deadly-explosion-bristol-nursing-home-pennsylvania" target="_blank">Explosion at a Pennsylvania nursing home kills at least 2, governor says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-24 01:08</span>
             </div>
         </div>
 </div>
@@ -311,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
