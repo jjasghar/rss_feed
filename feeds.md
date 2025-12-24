@@ -1,41 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 12:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-24 13:11:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 12:02 UTC</div>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/12/24/trump-declared-a-new-middle-east-but-what-has?traffic_source=rss" target="_blank">Trump declared a ‘new Middle East’ – but what has changed?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-24 12:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/24/nx-s1-5642562/porch-pirates-mail-theft-medicine-drugs" target="_blank">When porch pirates steal medicine instead of holiday gifts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-24 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +93,20 @@
                 <span class="time">2025-12-24 09:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/24/nx-s1-5647447/most-people-say-cash-for-christmas-is-a-good-gift-poll-finds" target="_blank">Most people say cash for Christmas is a good gift, poll finds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-24 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/24/g-s1-103610/powerball-jackpot-christmas-eve" target="_blank">Powerball&#x27;s $1.7B jackpot could make Christmas Eve unforgettable for a lucky winner</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-24 07:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025" target="_blank">In 2025, AI became a lightning rod for gamers and developers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-24 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69406bdd9f9b98727b285b83/master/pass/Apples-App-Making%20Course-Costing-20k-A-Student-Business-2225891099.jpg" alt="Apple’s App Course Runs $20,000 a Student. Is It Really Worth It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,15 +152,6 @@
                 <span class="time">2025-12-24 00:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems" target="_blank">Apple is going to allow third-party app stores in Brazil, too</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-23 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +164,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/12/cactus-on-device-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cactus v1: Cross-Platform LLM Inference on Mobile with Zero Latency and Full Privacy</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-12-24 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://christitus.com/windows-tool/" target="_blank">The Ultimate Windows Utility (2022)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-24 10:48</span>
             </div>
         </div>
 <div class="story">
@@ -214,20 +211,20 @@
                 <span class="time">2025-12-24 09:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/void-phone-vx1/" target="_blank">We Have Another New Linux Phone Before 2025 Ends...And It&amp;#x27;s Not For You (or Me)</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-24 09:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/AmazonKindlePaperwhite-1280x853.jpg" alt="Amazon Goes Clearance on E-Readers, Kindle Paperwhite Signature Edition (32GB) Hits an All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-goes-clearance-on-e-readers-kindle-paperwhite-signature-edition-32gb-hits-an-all-time-low-2000655512" target="_blank">Amazon Goes Clearance on E-Readers, Kindle Paperwhite Signature Edition (32GB) Hits an All-Time Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-24 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/InnAIO-AI-Translator-T10-4-1280x853.jpg" alt="PSA: Please Do Not Buy This Dubious ‘AI Translator’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +270,6 @@
                 <span class="time">2025-12-23 22:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/shutterstock_2525069147-e1743774675806.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Russell Brand charged in another rape and sexual assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/23/russell-brand-charged-in-another-rape-and-sexual-assault.html" target="_blank">Russell Brand charged in another rape and sexual assault</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-23 21:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
