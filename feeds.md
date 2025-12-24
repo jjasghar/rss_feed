@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 02:32:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-24 03:28:31 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 02:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/syria-ministers-discuss-military-cooperation-with-putin-in-russia-report?traffic_source=rss" target="_blank">Syria ministers discuss military cooperation with Putin in Russia: Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-24 01:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/los-angeles-flooding-gty-jt-251223_1766523428317_hpMain_4x3t_384.jpg" alt="&#x27;Exceptionally dangerous&#x27;: Major flooding, mudslide risk in parts of Southern Calif." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/23/nx-s1-5613384/some-jews-and-christians-in-israel-seek-to-build-trust-between-their-communities" target="_blank">In Israel, some Jews and Christians seek to build trust between their communities</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-23 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766525108277_now_mtp_clip_scotus_251223_1920x1080-r3xcvj.jpg" alt="Supreme Court rejects Trump&#x27;s bid to deploy National Guard in Illinois" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/supreme-court-rejects-trump-s-bid-to-deploy-national-guard-in-illinois-254936133991" target="_blank">Supreme Court rejects Trump&#x27;s bid to deploy National Guard in Illinois</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-23 21:25</span>
             </div>
         </div>
 </div>
@@ -160,6 +167,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq0k4jvy4i1ukrypsv0vp.png" alt="Why Most A/B Tests Fail in Subscription Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paywallpro/why-most-ab-tests-fail-in-subscription-apps-3m64" target="_blank">Why Most A/B Tests Fail in Subscription Apps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-24 03:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/firefox-tab-split-view.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox is Adding Split View for Tabs, Here’s How to Enable It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/enable-firefox-split-view-feature" target="_blank">Firefox is Adding Split View for Tabs, Here’s How to Enable It</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-24 03:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,24 +218,6 @@
                 <span class="title"><a href="https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/" target="_blank">Strengthening supply chain security: Preparing for the next malware campaign</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-12-23 23:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wolfejam/i-built-faf-using-zig-on-bun-for-claude-190i" target="_blank">I built FAF using Zig on Bun for Claude</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-23 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dowhatmatters/can-tools-automate-ingestion-and-chunking-steps-reliably-311n" target="_blank">Can tools automate ingestion and chunking steps reliably?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-23 20:53</span>
             </div>
         </div>
 </div>
@@ -305,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 02:32 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
