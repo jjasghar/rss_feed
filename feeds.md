@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 15:01:39 UTC -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-12-24 16:02:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/un-experts-condemn-us-naval-blockade-of-venezuela-as-illegal-aggression?traffic_source=rss" target="_blank">UN experts condemn US naval blockade of Venezuela as illegal aggression</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-24 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/24/g-s1-103005/jaffa-salon-tel-aviv-israel-palestinians-jews" target="_blank">Greetings from Jaffa, Israel, where a salon is a welcoming space for Palestinians and Jews</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-24 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/12/24/ties-with-turkiye-improve-once-libya-can-patch-its-internal?traffic_source=rss" target="_blank">Ties with Turkiye improve “once Libya can patch its internal differences”</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-24 13:23</span>
@@ -58,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766579534657_tdy_news_7a_tsirkin_epstein_251224_1920x1080-6bzkb7.jpg" alt="DOJ: Epstein Letter to Larry Nassar Referencing Trump is &#x27;Fake&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/doj-epstein-letter-to-larry-nassar-referencing-trump-is-fake-254964293791" target="_blank">DOJ: Epstein Letter to Larry Nassar Referencing Trump is &#x27;Fake&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-24 12:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -66,38 +97,20 @@
                 <span class="time">2025-12-24 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/24/nx-s1-5642562/porch-pirates-mail-theft-medicine-drugs" target="_blank">When porch pirates steal medicine instead of holiday gifts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-24 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/zelenskyy-unveils-details-of-new-peace-plan-seeks-trump-talks-on-territory?traffic_source=rss" target="_blank">Zelenskyy unveils details of new peace plan, seeks Trump talks on territory</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-24 11:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/24/g-s1-103618/u-s-and-ukraine-reach-consensus-on-key-issues" target="_blank">U.S. and Ukraine reach consensus on key issues aimed at ending the war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-24 10:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/24/the-9-top-biotech-startups-from-disrupt-startup-battlefield/" target="_blank">The 9 top biotech startups from Disrupt Startup Battlefield</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-24 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,20 +156,20 @@
                 <span class="time">2025-12-24 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025" target="_blank">In 2025, AI became a lightning rod for gamers and developers</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-24 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flq3cd1r8q3qth11b3yvh.png" alt="Announcing AgentHelm v0.3.0: Production-Ready AI Agent Orchestration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hadywalied/announcing-agenthelm-v030-production-ready-ai-agent-orchestration-5alg" target="_blank">Announcing AgentHelm v0.3.0: Production-Ready AI Agent Orchestration</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-24 15:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +215,6 @@
                 <span class="time">2025-12-24 10:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/llm-ai-africa/en/mediumimage/jade-abbott-medium-1766064709735.jpeg" alt="Presentation: Ecologies and Economics of Language AI in Practice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/llm-ai-africa/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Ecologies and Economics of Language AI in Practice</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-24 10:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +234,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/stana.jpg" alt="RIP The Art Of The Old Christmas Time Video Game Commercial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/remembering-christmas-time-video-game-commercials-1840545976" target="_blank">RIP The Art Of The Old Christmas Time Video Game Commercial</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-24 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KD8FFWVHCHVVCHG80WAS5QFX/hero-image.jpg" alt="The Google Pixel 10 Is $450 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-10-sale-december-2025?utm_medium=RSS" target="_blank">The Google Pixel 10 Is $450 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-24 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Kimberlee-Singler-in-a-photo-publicized-by-Color.jpg?fit=1080%2C751&amp;quality=60&amp;ssl=1" alt="American woman accused of killing her children extradited by U.K." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/24/american-woman-accused-of-killing-her-children-extradited-by-u-k.html" target="_blank">American woman accused of killing her children extradited by U.K.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-24 14:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/dunkin.jpeg?fit=1500%2C1125&amp;quality=60&amp;ssl=1" alt="Locals complain of overwhelming donut smell from new Dunkin factory" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,38 +288,20 @@
                 <span class="time">2025-12-24 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/AmazonKindlePaperwhite-1280x853.jpg" alt="Amazon Goes Clearance on E-Readers, Kindle Paperwhite Signature Edition (32GB) Hits an All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-goes-clearance-on-e-readers-kindle-paperwhite-signature-edition-32gb-hits-an-all-time-low-2000655512" target="_blank">Amazon Goes Clearance on E-Readers, Kindle Paperwhite Signature Edition (32GB) Hits an All-Time Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-24 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/InnAIO-AI-Translator-T10-4-1280x853.jpg" alt="PSA: Please Do Not Buy This Dubious ‘AI Translator’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/psa-do-not-buy-innaio-t10-ai-translator-2000701432" target="_blank">PSA: Please Do Not Buy This Dubious ‘AI Translator’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-24 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Screenshot-2025-12-23-at-8.12.57-PM-1280x843.jpg" alt="People Love This Porsche Christmas Ad Because It Doesn’t Look Like AI Was Involved" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/people-love-this-porsche-christmas-ad-because-it-doesnt-look-like-ai-was-involved-2000703180" target="_blank">People Love This Porsche Christmas Ad Because It Doesn’t Look Like AI Was Involved</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-24 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/24/children-in-danger-part-three" target="_blank">Children In Danger, Part Three</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-24 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1766378377-20251223 - Edit.png" alt="Saturday Morning Breakfast Cereal - Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -303,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
