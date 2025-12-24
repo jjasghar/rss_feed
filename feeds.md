@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-24 13:11:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-24 14:02:14 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, December 24, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, December 24, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +106,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/24/how-to-track-santa-claus-this-christmas-eve-2022/" target="_blank">How to track Santa Claus this Christmas Eve using AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-24 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2242254350-500x500.jpg" alt="SPEED Act passes in House despite changes that threaten clean power projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/speed-act-passes-in-house-despite-changes-that-threaten-clean-power-projects/" target="_blank">SPEED Act passes in House despite changes that threaten clean power projects</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-24 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025" target="_blank">In 2025, AI became a lightning rod for gamers and developers</a></span>
                 <span class="feed">The Verge</span>
@@ -132,24 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/848379/pluribus-review-season-1-finale" target="_blank">The Pluribus finale showed there&amp;#8217;s a lot more to the story</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-24 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Paramount Plus Coupon Codes and Deals: 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/paramount-plus-coupon-code/" target="_blank">Paramount Plus Coupon Codes and Deals: 50% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-24 06:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/850067/us-sanctions-thierry-breton-content-moderation-censorship" target="_blank">Trump administration bars former EU official and anti-disinformation and hate researchers from US</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-24 00:11</span>
             </div>
         </div>
 </div>
@@ -213,9 +218,32 @@
         </div>
 </div>
 </div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/urban-vpn-proxy-surreptitiously-intercepts-ai-chats.html" target="_blank">Urban VPN Proxy Surreptitiously Intercepts AI Chats</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-24 12:03</span>
+            </div>
+        </div>
+</div>
+</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GGY97XFSWBKK6R08FS0TE/hero-image.jpg" alt="Use the RAFT Technique to Quickly Sort Emails" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-to-use-the-raft-technique-to-manage-emails?utm_medium=RSS" target="_blank">Use the RAFT Technique to Quickly Sort Emails</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-24 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/AmazonKindlePaperwhite-1280x853.jpg" alt="Amazon Goes Clearance on E-Readers, Kindle Paperwhite Signature Edition (32GB) Hits an All-Time Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,15 +289,6 @@
                 <span class="time">2025-12-23 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Mario-.jpg" alt="Newly Dubbed Mario Fan Video Perfectly Lampoons AAA Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-parody-viral-voice-actor-ue5-instagram-2000655479" target="_blank">Newly Dubbed Mario Fan Video Perfectly Lampoons AAA Gaming</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-23 22:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -289,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
