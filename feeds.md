@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 08:02:20 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-25 09:02:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,10 +48,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/25/g-s1-103685/doj-says-few-more-weeks-epstein-files" target="_blank">DOJ says it may need a &#x27;few more weeks&#x27; to finish releasing Epstein files</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-25 08:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/25/displaced-islamic-state-insurgency-mozambique" target="_blank">Hundreds of thousands newly displaced as Islamic State insurgency expands in Mozambique</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-25 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/jordan-strikes-drug-arms-smugglers-in-syria-border-region-reports?traffic_source=rss" target="_blank">Jordan strikes drug, arms smugglers in Syria border region: Reports</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-25 07:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e71/live/8b563d20-e10b-11f0-aae2-2191c0e48a3b.jpg" alt="Catherine and Charlotte perform piano duet for Christmas carol concert" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2ep0pz8emjo?at_medium=RSS&at_campaign=rss" target="_blank">Catherine and Charlotte perform piano duet for Christmas carol concert</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-25 07:04</span>
             </div>
         </div>
 <div class="story">
@@ -68,33 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/25/g-s1-103680/nasry-asfura-winner-honduras-presidential-vote" target="_blank">Trump-backed candidate Nasry Asfura declared winner of Honduras&#x27; presidential vote</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-25 06:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/majority-of-russians-expect-ukraine-war-to-end-in-2026-state-survey-finds?traffic_source=rss" target="_blank">Majority of Russians expect Ukraine war to end in 2026, state survey finds</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-25 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/russia-ukraine-war-list-of-key-events-day-1400?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,400</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-25 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a36/live/e6502eb0-e116-11f0-9135-cde3a12c8847.jpg" alt="Tess Daly and Claudia Winkleman to present Strictly for last time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj4qzvy48g5o?at_medium=RSS&at_campaign=rss" target="_blank">Tess Daly and Claudia Winkleman to present Strictly for last time</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-25 00:12</span>
             </div>
         </div>
 </div>
@@ -165,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dailybugle33/wtf-is-remote-browser-isolation-5c6l" target="_blank">WTF is Remote Browser Isolation?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-25 08:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vibhanshu909/you-probably-dont-need-redis-for-distributed-locking-155k" target="_blank">You Probably Don&#x27;t Need Redis for Distributed Locking</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-25 06:54</span>
@@ -204,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/abdessamad_ammi_202ac2bad/por-que-el-45-de-developers-estan-abandonando-langchain-en-produccion-ebb" target="_blank">Por Qué el 45% de Developers Están Abandonando LangChain en Producción</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-25 02:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/orion-ai-proof-privacy-browser/en/headerimage/generatedHeaderImage-1766625388659.jpg" alt="Orion: New Zero-Telemetry, Zero-Ad, AI-Proof Browser for Privacy-Focused Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/orion-ai-proof-privacy-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Orion: New Zero-Telemetry, Zero-Ad, AI-Proof Browser for Privacy-Focused Users</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-25 02:00</span>
             </div>
         </div>
 </div>
@@ -316,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
