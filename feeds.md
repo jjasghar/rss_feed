@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 00:04:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-25 01:29:49 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/russia-ukraine-war-list-of-key-events-day-1400?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,400</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-25 01:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a36/live/e6502eb0-e116-11f0-9135-cde3a12c8847.jpg" alt="Tess Daly and Claudia Winkleman to present Strictly for last time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj4qzvy48g5o?at_medium=RSS&at_campaign=rss" target="_blank">Tess Daly and Claudia Winkleman to present Strictly for last time</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-25 00:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766619769795_nn_jts_epstein_documents_251224_1920x1080-pnn9mv.jpg" alt="New documents in the Jeffrey Epstein Case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-documents-in-the-jeffrey-epstein-case-254989381824" target="_blank">New documents in the Jeffrey Epstein Case</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-24 23:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766612660883_now_daily_b_epstein_doj_251224_1920x1080-efjg2h.jpg" alt="Justice Department says it has uncovered over one million more Epstein-related files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,33 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/more-than-a-million-epstein-related-documents-discovered-release-delayed?traffic_source=rss" target="_blank">More than a million Epstein-related documents discovered; release delayed</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-24 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251220-Epstein-Maxwell-ch-1410-63c464.jpg" alt="DOJ says reviewing Epstein files may take weeks after getting over a million new docs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/doj-weeks-process-epstein-files-1-million-additional-documents-fbi-rcna250847" target="_blank">DOJ says reviewing Epstein files may take weeks after getting over a million new docs</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-24 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/bangladesh-opposition-leader-tarique-rahman-set-for-historic-homecoming?traffic_source=rss" target="_blank">Bangladesh opposition leader Tarique Rahman set for historic homecoming</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-24 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-kyiv-ukraine-russia-war-invasion_7118255.jpg?20251223122627" alt="Ukraine and US agree new peace plan after Moscow hit by another deadly bombing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ukraine-and-us-agree-updated-20-point-peace-plan-after-moscow-hit-by-another-deadly-bombing-13487290" target="_blank">Ukraine and US agree new peace plan after Moscow hit by another deadly bombing</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-24 17:47</span>
             </div>
         </div>
 </div>
@@ -171,6 +171,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nse569h/i-finally-stopped-writing-try-catch-in-every-express-controller-and-you-should-too-40p2" target="_blank">I finally stopped writing try-catch in every Express controller (and you should too)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-25 01:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb" target="_blank">Advent of Code 2025: The AI LLM Edition</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-24 23:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ricky512227/understanding-redis-threading-what-i-learned-the-hard-way-paf" target="_blank">Redis Threading Model: Debunking the Single-Threaded Myth</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-24 23:41</span>
@@ -203,24 +221,6 @@
                 <span class="time">2025-12-24 21:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ayuxsec/turn-your-terminal-into-an-ai-arsenal-a-collection-of-personal-bash-helpers-olm" target="_blank">Turn Your Terminal into an AI Arsenal: A Collection of Personal Bash Helpers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-24 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18786490&w=600" alt="Unlocking the Power of Reflection in Mobile Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/reflection-mobile-development" target="_blank">Unlocking the Power of Reflection in Mobile Development</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-24 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +247,15 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/24/turn-your-videos-into-4k-masterpieces-with-ai-now-70-off.html" target="_blank">Turn your videos into 4K masterpieces with AI, now 70% off</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-24 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/tesla-model-3-1280x852.jpg" alt="Elon Musk Reportedly Insisted on Troubled Tesla Doors After a Warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-reportedly-insisted-on-troubled-tesla-doors-after-a-warning-2000703186" target="_blank">Elon Musk Reportedly Insisted on Troubled Tesla Doors After a Warning</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-24 21:04</span>
             </div>
         </div>
 <div class="story">
@@ -285,15 +294,6 @@
                 <span class="time">2025-12-24 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KD8FFWVHCHVVCHG80WAS5QFX/hero-image.jpg" alt="The Google Pixel 10 Is $450 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-10-sale-december-2025?utm_medium=RSS" target="_blank">The Google Pixel 10 Is $450 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-24 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,13 +317,22 @@
                 <span class="time">2025-12-24 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/sauropods.png" alt="Sauropods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3185/" target="_blank">Sauropods</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-12-24 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
