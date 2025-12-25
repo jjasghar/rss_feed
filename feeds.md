@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 02:34:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-25 03:29:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 02:34 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -98,12 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://s.abcnews.com/images/US/california-sandbags-gty-jt-251223_1766529454747_hpMain_4x3t_384.jpg" alt="Christmas weather forecast from California storm to Northeast snow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/more-than-a-million-epstein-related-documents-discovered-release-delayed?traffic_source=rss" target="_blank">More than a million Epstein-related documents discovered; release delayed</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-24 20:03</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/holiday-weather-forecast-white-christmas/story?id=128615555" target="_blank">Christmas weather forecast from California storm to Northeast snow</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-24 20:33</span>
             </div>
         </div>
 </div>
@@ -180,6 +173,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/12/orion-ai-proof-privacy-browser/en/headerimage/generatedHeaderImage-1766625388659.jpg" alt="Orion: New Zero-Telemetry, Zero-Ad, AI-Proof Browser for Privacy-Focused Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/orion-ai-proof-privacy-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Orion: New Zero-Telemetry, Zero-Ad, AI-Proof Browser for Privacy-Focused Users</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-25 02:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -213,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/ricky512227/understanding-redis-threading-what-i-learned-the-hard-way-paf" target="_blank">Redis Threading Model: Debunking the Single-Threaded Myth</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-24 23:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://git.dec05eba.com/phoenix/about/" target="_blank">Phoenix: A modern X server written from scratch in Zig</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-24 22:43</span>
             </div>
         </div>
 </div>
@@ -343,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 02:34 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
