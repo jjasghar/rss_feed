@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 09:02:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-12-25 10:01:49 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/25/nx-s1-5656173/a-holiday-tradition-david-sedaris-reads-from-the-santaland-diaries" target="_blank">A holiday tradition: David Sedaris reads from &#x27;The Santaland Diaries&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-25 09:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/25/photos-global-stories-of-2025-in-pictures?traffic_source=rss" target="_blank">Photos: Global stories of 2025 in pictures</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-25 09:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c2ep0pz8emjo?at_medium=RSS&at_campaign=rss" target="_blank">Catherine and Charlotte perform piano duet for Christmas carol concert</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-25 07:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/25/algeria-passes-law-declaring-french-colonisation-a-crime?traffic_source=rss" target="_blank">Algeria passes law declaring French colonisation a crime</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-25 06:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/25/g-s1-103680/nasry-asfura-winner-honduras-presidential-vote" target="_blank">Trump-backed candidate Nasry Asfura declared winner of Honduras&#x27; presidential vote</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-25 06:30</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/freepixel11/help-center-governance-models-for-content-quality-at-scale-mlh" target="_blank">Help Center Governance Models for Content Quality at Scale</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-25 09:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dailybugle33/wtf-is-remote-browser-isolation-5c6l" target="_blank">WTF is Remote Browser Isolation?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-25 08:47</span>
@@ -208,15 +215,6 @@
                 <span class="time">2025-12-25 03:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abdessamad_ammi_202ac2bad/por-que-el-45-de-developers-estan-abandonando-langchain-en-produccion-ebb" target="_blank">Por Qué el 45% de Developers Están Abandonando LangChain en Producción</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-25 02:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/fiddle-1280x852.jpg" alt="Prominent Canadian Musician Says Gig Was Cancelled After Google AI Overview Wrongly Branded Him Sex Pest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/prominent-canadian-musician-says-gig-was-cancelled-after-google-ai-overview-wrongly-branded-him-sex-pest-2000703286" target="_blank">Prominent Canadian Musician Says Gig Was Cancelled After Google AI Overview Wrongly Branded Him Sex Pest</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-25 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/teslafire.jpeg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="After occupants trapped in crashes, Tesla drivers buying special tools to open doors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +288,6 @@
                 <span class="time">2025-12-24 17:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Pay once and use Microsoft Office Professional 2021 forever for $34.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/24/pay-once-and-use-microsoft-office-professional-2021-forever-for-34-97.html" target="_blank">Pay once and use Microsoft Office Professional 2021 forever for $34.97</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-24 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
