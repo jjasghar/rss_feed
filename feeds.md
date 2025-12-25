@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 18:01:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-25 19:01:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 18:02 UTC</div>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/25/g-s1-103696/pope-leo-xiv-christmas-address-indifference-suffering-gaza-yemen-migrants" target="_blank">The pope urges the faithful on Christmas to shed indifference in the face of suffering</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-25 17:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/major-winter-storm-predicted-bring-snow-ice-midwest/story?id=128691937" target="_blank">Major winter storm predicted to bring snow, ice to Midwest and Northeast</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-25 12:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5932/live/75ec19c0-e186-11f0-a8dc-93c15fe68710.png" alt="Royal Family celebrate Christmas Day with Sandringham service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1w9xrx480wo?at_medium=RSS&at_campaign=rss" target="_blank">Royal Family celebrate Christmas Day with Sandringham service</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-25 12:00</span>
             </div>
         </div>
 </div>
@@ -169,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arshtechpro/apples-guideline-47-update-what-every-developer-hosting-html5-mini-apps-must-know-90" target="_blank">Apple&#x27;s New Mini App Rules: Comply or Face App Store Removal</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-25 18:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjmjsus0rscb8zwhz5ce2.png" alt="Silent Architect: AI’s Impact on SDLC from PI Planning to Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,28 +202,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/radeon-radv-amdvlk-final" target="_blank">Final Benchmarks Of AMDVLK vs. RADV AMD Radeon Vulkan Drivers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-25 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="QCon AI NY 2025 - Becoming AI-Native Without Losing Our Minds To Architectural Amnesia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/qconai-architecural-amnesia/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon AI NY 2025 - Becoming AI-Native Without Losing Our Minds To Architectural Amnesia</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-25 15:12</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.deepsouthventures.com/i-sell-onions-on-the-internet/" target="_blank">I Sell Onions on the Internet</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-25 16:24</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://fidget-spinner.github.io/posts/no-longer-sorry.html" target="_blank">Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-25 13:09</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/radeon-radv-amdvlk-final" target="_blank">Final Benchmarks Of AMDVLK vs. RADV AMD Radeon Vulkan Drivers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-25 15:30</span>
             </div>
         </div>
 </div>
@@ -309,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
