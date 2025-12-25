@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 21:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-25 22:01:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 1 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/treebird/starting-my-journey-here-188o" target="_blank">Starting my journey here</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-25 21:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/CachyOS-Server-Edition-Coming" target="_blank">Arch Linux Powered CachyOS To Develop A Server Edition</a></span>
                 <span class="feed">Phoronix</span>
@@ -208,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/sivasai_nadella_941a8d122/silent-architect-ais-impact-on-sdlc-from-pi-planning-to-release-4gfj" target="_blank">Silent Architect: AI’s Impact on SDLC from PI Planning to Release</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-25 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18787545&w=600" alt="Extracting Clean Excel Tables From PDFs Using Python + Docling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/pdf-to-excel-python-docling" target="_blank">Extracting Clean Excel Tables From PDFs Using Python + Docling</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-25 17:00</span>
             </div>
         </div>
 </div>
@@ -306,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
