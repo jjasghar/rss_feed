@@ -1,39 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 01:29:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-25 02:34:40 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 02:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,6 +174,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abdessamad_ammi_202ac2bad/por-que-el-45-de-developers-estan-abandonando-langchain-en-produccion-ebb" target="_blank">Por Qué el 45% de Developers Están Abandonando LangChain en Producción</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-25 02:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Libreboot-26.01-rc1" target="_blank">Libreboot 26.01-rc1 Released To Support A Few More Systems</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-25 01:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nse569h/i-finally-stopped-writing-try-catch-in-every-express-controller-and-you-should-too-40p2" target="_blank">I finally stopped writing try-catch in every Express controller (and you should too)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-25 01:15</span>
@@ -201,24 +222,6 @@
                 <span class="title"><a href="https://git.dec05eba.com/phoenix/about/" target="_blank">Phoenix: A modern X server written from scratch in Zig</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-24 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/qurioskill/software-programming-as-a-skill-4dn2" target="_blank">Software Programming as a Skill</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-24 22:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/om_shree_0709/the-12-bugs-of-christmas-how-one-devs-festive-deploy-turned-santas-workshop-into-a-kubernetes-563n" target="_blank">The 12 Bugs of Christmas: How One Dev&#x27;s &quot;Festive&quot; Deploy Turned Santa&#x27;s Workshop into a Kubernetes Catastrophe</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-24 21:47</span>
             </div>
         </div>
 </div>
@@ -300,6 +303,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/25/children-in-danger-part-three" target="_blank">Children In Danger, Part Three</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-25 01:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1766539944-20251224 - Edit.png" alt="Saturday Morning Breakfast Cereal - Spirit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -331,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 02:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
