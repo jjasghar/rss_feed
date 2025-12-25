@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 07:03:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-12-25 08:02:20 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/jordan-strikes-drug-arms-smugglers-in-syria-border-region-reports?traffic_source=rss" target="_blank">Jordan strikes drug, arms smugglers in Syria border region: Reports</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-25 07:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cj4qzvy48g5o?at_medium=RSS&at_campaign=rss" target="_blank">Tess Daly and Claudia Winkleman to present Strictly for last time</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-25 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766619769795_nn_jts_epstein_documents_251224_1920x1080-pnn9mv.jpg" alt="New documents in the Jeffrey Epstein Case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-documents-in-the-jeffrey-epstein-case-254989381824" target="_blank">New documents in the Jeffrey Epstein Case</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-24 23:42</span>
             </div>
         </div>
 </div>
@@ -187,6 +182,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-52/" target="_blank">FOSS Weekly #25.52: Free eBook, Linux in 2026, New Distros of 2025 and a Lot More Before the Year Ends</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-25 05:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dhyan_raj_98e6a5999c8d5ef/how-our-ai-hiring-platform-gets-smarter-without-code-changes-1kg3" target="_blank">How Our AI Hiring Platform Gets Smarter Without Code Changes</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/12/orion-ai-proof-privacy-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Orion: New Zero-Telemetry, Zero-Ad, AI-Proof Browser for Privacy-Focused Users</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-12-25 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Libreboot-26.01-rc1" target="_blank">Libreboot 26.01-rc1 Released To Support A Few More Systems</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-25 01:40</span>
             </div>
         </div>
 </div>
@@ -316,22 +311,13 @@
                 <span class="time">2025-12-24 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/24/children-in-danger-part-three" target="_blank">Children In Danger, Part Three</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-24 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
