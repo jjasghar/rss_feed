@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 13:11:27 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-12-25 14:01:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/25/atmospheric-river-storm-causes-flooding-across-southern-california?traffic_source=rss" target="_blank">Atmospheric river storm causes flooding across Southern California</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-25 13:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5932/live/75ec19c0-e186-11f0-a8dc-93c15fe68710.png" alt="Royal Family greet crowds after Christmas Day service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/first-christmas-in-gaza-in-two-years-a-story-of-hope-and-survival?traffic_source=rss" target="_blank">First Christmas in Gaza in two years: A story of hope and survival</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-25 10:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/25/nx-s1-5583930/marty-supreme-timothee-chalamet-marty-reisman-ping-pong-real-player" target="_blank">The real ping pong champion — and hustler — who inspired &#x27;Marty Supreme&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-25 10:00</span>
             </div>
         </div>
 </div>
@@ -187,6 +185,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/12/artificial-intelligence-customer/en/headerimage/artificial-intelligent-header-1766403533458.jpg" alt="How Artificial Intelligence Can Help Us Connect with Customers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/artificial-intelligence-customer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Artificial Intelligence Can Help Us Connect with Customers</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-25 11:38</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -211,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/drdrunkenstien/why-every-developer-should-deploy-on-a-vps-at-least-once-lcg" target="_blank">Why Every Developer Should Deploy on a VPS at Least Once</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-25 10:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/freepixel11/help-center-governance-models-for-content-quality-at-scale-mlh" target="_blank">Help Center Governance Models for Content Quality at Scale</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-25 09:46</span>
             </div>
         </div>
 </div>
@@ -309,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
