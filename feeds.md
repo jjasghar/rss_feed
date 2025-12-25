@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 10:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-25 11:01:27 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/first-christmas-in-gaza-in-two-years-a-story-of-hope-and-survival?traffic_source=rss" target="_blank">First Christmas in Gaza in two years: A story of hope and survival</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-25 10:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/25/nx-s1-5583930/marty-supreme-timothee-chalamet-marty-reisman-ping-pong-real-player" target="_blank">The real ping pong champion — and hustler — who inspired &#x27;Marty Supreme&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-25 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +104,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/dec/25/displaced-islamic-state-insurgency-mozambique" target="_blank">Hundreds of thousands newly displaced as Islamic State insurgency expands in Mozambique</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-12-25 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/jordan-strikes-drug-arms-smugglers-in-syria-border-region-reports?traffic_source=rss" target="_blank">Jordan strikes drug, arms smugglers in Syria border region: Reports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-25 07:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e71/live/8b563d20-e10b-11f0-aae2-2191c0e48a3b.jpg" alt="Catherine and Charlotte perform piano duet for Christmas carol concert" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2ep0pz8emjo?at_medium=RSS&at_campaign=rss" target="_blank">Catherine and Charlotte perform piano duet for Christmas carol concert</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-25 07:04</span>
             </div>
         </div>
 </div>
@@ -165,6 +174,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/drdrunkenstien/why-every-developer-should-deploy-on-a-vps-at-least-once-lcg" target="_blank">Why Every Developer Should Deploy on a VPS at Least Once</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-25 10:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/freepixel11/help-center-governance-models-for-content-quality-at-scale-mlh" target="_blank">Help Center Governance Models for Content Quality at Scale</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-25 09:46</span>
@@ -189,30 +207,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/12/aws-gcp-multicloud-networking/en/headerimage/generatedHeaderImage-1765698477825.jpg" alt="AWS and Google Cloud Preview Secure Multicloud Networking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/aws-gcp-multicloud-networking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS and Google Cloud Preview Secure Multicloud Networking</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-25 06:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8d1wieiofjropeprakcz.png" alt="Leaflet Address Autocomplete with Geoapify (Companion to MapLibre Example)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/geoapify-maps-api/leaflet-address-autocomplete-with-geoapify-companion-to-maplibre-example-35p2" target="_blank">Leaflet Address Autocomplete with Geoapify (Companion to MapLibre Example)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-25 05:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-52/" target="_blank">FOSS Weekly #25.52: Free eBook, Linux in 2026, New Distros of 2025 and a Lot More Before the Year Ends</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-25 05:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dhyan_raj_98e6a5999c8d5ef/how-our-ai-hiring-platform-gets-smarter-without-code-changes-1kg3" target="_blank">How Our AI Hiring Platform Gets Smarter Without Code Changes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-25 03:38</span>
             </div>
         </div>
 </div>
@@ -316,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
