@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 03:29:08 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-25 04:13:20 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 04:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -82,21 +83,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-venezuela-oil-us_7118966.jpg?20251225040409" alt="White House orders US military to &#x27;quarantine&#x27; Venezuela oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/white-house-orders-us-military-to-quarantine-venezuela-oil-official-says-13487300" target="_blank">White House orders US military to &#x27;quarantine&#x27; Venezuela oil</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-24 21:29</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss" target="_blank">Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-24 20:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/california-sandbags-gty-jt-251223_1766529454747_hpMain_4x3t_384.jpg" alt="Christmas weather forecast from California storm to Northeast snow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/holiday-weather-forecast-white-christmas/story?id=128615555" target="_blank">Christmas weather forecast from California storm to Northeast snow</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-24 20:33</span>
             </div>
         </div>
 </div>
@@ -167,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dhyan_raj_98e6a5999c8d5ef/how-our-ai-hiring-platform-gets-smarter-without-code-changes-1kg3" target="_blank">How Our AI Hiring Platform Gets Smarter Without Code Changes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-25 03:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/abdessamad_ammi_202ac2bad/por-que-el-45-de-developers-estan-abandonando-langchain-en-produccion-ebb" target="_blank">Por Qué el 45% de Developers Están Abandonando LangChain en Producción</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-25 02:11</span>
@@ -208,15 +218,6 @@
                 <span class="time">2025-12-24 23:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ricky512227/understanding-redis-threading-what-i-learned-the-hard-way-paf" target="_blank">Redis Threading Model: Debunking the Single-Threaded Myth</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-24 23:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/teslafire.jpeg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="After occupants trapped in crashes, Tesla drivers buying special tools to open doors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/24/after-occupants-trapped-in-crashes-tesla-drivers-buying-special-tools-to-open-doors.html" target="_blank">After occupants trapped in crashes, Tesla drivers buying special tools to open doors</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-24 22:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/VideoProc-Converter-AI.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Turn your videos into 4K masterpieces with AI, now 70% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/24/pay-once-and-use-microsoft-office-professional-2021-forever-for-34-97.html" target="_blank">Pay once and use Microsoft Office Professional 2021 forever for $34.97</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-24 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/stana.jpg" alt="RIP The Art Of The Old Christmas Time Video Game Commercial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/remembering-christmas-time-video-game-commercials-1840545976" target="_blank">RIP The Art Of The Old Christmas Time Video Game Commercial</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-24 15:30</span>
             </div>
         </div>
 </div>
@@ -336,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 04:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
