@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 17:01:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-25 18:01:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +112,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/" target="_blank">How a Spanish virus brought Google to Málaga</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-25 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial" target="_blank">I re-created Google&amp;#8217;s cute Gemini ad with my own kid&amp;#8217;s stuffie, and I wish I hadn&amp;#8217;t</a></span>
                 <span class="feed">The Verge</span>
@@ -148,20 +163,29 @@
                 <span class="time">2025-12-24 20:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/" target="_blank">The European startup market’s data doesn’t match its energy — yet</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-24 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjmjsus0rscb8zwhz5ce2.png" alt="Silent Architect: AI’s Impact on SDLC from PI Planning to Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sivasai_nadella_941a8d122/silent-architect-ais-impact-on-sdlc-from-pi-planning-to-release-4gfj" target="_blank">Silent Architect: AI’s Impact on SDLC from PI Planning to Release</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-25 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18787545&w=600" alt="Extracting Clean Excel Tables From PDFs Using Python + Docling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/pdf-to-excel-python-docling" target="_blank">Extracting Clean Excel Tables From PDFs Using Python + Docling</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-25 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft2ixef9541c45pcgi7wj.jpg" alt="Java Core Mastery Part 2: Advanced Concepts &amp; Question: Prep 🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,29 +222,38 @@
                 <span class="time">2025-12-25 13:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ajitkumar/production-deployment-django-docker-compose-nginx-on-aws-1gig" target="_blank">Production Deployment: Django, Docker Compose, &amp; Nginx on AWS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-25 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/artificial-intelligence-customer/en/headerimage/artificial-intelligent-header-1766403533458.jpg" alt="How Artificial Intelligence Can Help Us Connect with Customers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/artificial-intelligence-customer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Artificial Intelligence Can Help Us Connect with Customers</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-25 11:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Josh-OConnor-Knives-Out-1280x853.jpg" alt="The ‘Star Wars’ Gag in ‘Wake Up Dead Man’ Is Pure Rian Johnson" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/knives-out-star-wars-joke-wake-up-dead-man-rian-johnson-2000702587" target="_blank">The ‘Star Wars’ Gag in ‘Wake Up Dead Man’ Is Pure Rian Johnson</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-25 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Microsoft-Surface-Laptop-3.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="A premium Surface Laptop for $380 is the kind of math we enjoy doing twice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/25/a-premium-surface-laptop-for-380-is-the-kind-of-math-we-enjoy-doing-twice.html" target="_blank">A premium Surface Laptop for $380 is the kind of math we enjoy doing twice</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/beatstp-1280x853.jpg" alt="Apple Quietly Drops the Beats Studio Pro by 49% to Offload ANC Headphone Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/apple-quietly-drops-the-beats-studio-pro-by-49-to-offload-anc-headphone-stock-2000655539" target="_blank">Apple Quietly Drops the Beats Studio Pro by 49% to Offload ANC Headphone Stock</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-25 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/fiddle-1280x852.jpg" alt="Prominent Canadian Musician Says Gig Was Cancelled After Google AI Overview Wrongly Branded Him Sex Pest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -248,38 +281,20 @@
                 <span class="time">2025-12-24 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/tesla-model-3-1280x852.jpg" alt="Elon Musk Reportedly Insisted on Troubled Tesla Doors After a Warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-reportedly-insisted-on-troubled-tesla-doors-after-a-warning-2000703186" target="_blank">Elon Musk Reportedly Insisted on Troubled Tesla Doors After a Warning</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-24 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/surprise-pikachu-2-1280x744.jpg" alt="Surprise Pokémon Leak Reveals Fresh Clues About The New Gen 10 Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-gen-10-wind-wave-map-leak-pikachu-professor-2000655613" target="_blank">Surprise Pokémon Leak Reveals Fresh Clues About The New Gen 10 Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-24 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/fire-tv-1280x853.jpg" alt="Amazon’s 40″ Fire TV Drops to an All-Time Low to Stand Out in the Smart TV Deal Crowd, Priced Like Refurbished but Brand New" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazons-40%e2%80%b3-fire-tv-gets-cleared-out-at-an-all-time-low-before-year-end-priced-like-refurbished-but-brand-new-2000655547" target="_blank">Amazon’s 40″ Fire TV Drops to an All-Time Low to Stand Out in the Smart TV Deal Crowd, Priced Like Refurbished but Brand New</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-24 17:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1766630524-20251225 - Edit.png" alt="Saturday Morning Breakfast Cereal - Butterfly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/butterfly" target="_blank">Saturday Morning Breakfast Cereal - Butterfly</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-25 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -294,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
