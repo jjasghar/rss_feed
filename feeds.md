@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 19:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-25 20:01:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/syria-says-senior-isil-commander-killed-in-damascus-countryside-raid?traffic_source=rss" target="_blank">Syria says senior ISIL commander killed in Damascus countryside raid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-25 19:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1w9xrx480wo?at_medium=RSS&at_campaign=rss" target="_blank">Royal Family greet crowds after Christmas Day service</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-25 12:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Snow-DB-251225_1766665104216_hpMain_4x3t_384.jpg" alt="Major winter storm predicted to bring snow, ice to Midwest and Northeast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/major-winter-storm-predicted-bring-snow-ice-midwest/story?id=128691937" target="_blank">Major winter storm predicted to bring snow, ice to Midwest and Northeast</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-25 12:36</span>
             </div>
         </div>
 </div>
@@ -167,9 +167,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ibrahimsezer/high-throughput-iot-log-aggregator-3gjg" target="_blank">High-Throughput IoT Log Aggregator</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-25 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/arshtechpro/apples-guideline-47-update-what-every-developer-hosting-html5-mini-apps-must-know-90" target="_blank">Apple&#x27;s New Mini App Rules: Comply or Face App Store Removal</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-25 18:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18787548&w=600" alt="A Principled Framework for Scalable Experimentation and Reliable A/B Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/scalable-ab-testing-framework" target="_blank">A Principled Framework for Scalable Experimentation and Reliable A/B Testing</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-25 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +217,6 @@
                 <span class="time">2025-12-25 16:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.deepsouthventures.com/i-sell-onions-on-the-internet/" target="_blank">I Sell Onions on the Internet</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-25 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/radeon-radv-amdvlk-final" target="_blank">Final Benchmarks Of AMDVLK vs. RADV AMD Radeon Vulkan Drivers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-25 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -229,6 +229,15 @@
                 <span class="title"><a href="https://gizmodo.com/knives-out-star-wars-joke-wake-up-dead-man-rian-johnson-2000702587" target="_blank">The ‘Star Wars’ Gag in ‘Wake Up Dead Man’ Is Pure Rian Johnson</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-25 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/Run-DMC-Christmas-Is-.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Holiday Music" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/25/holiday-music.html" target="_blank">Holiday Music</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-25 17:13</span>
             </div>
         </div>
 <div class="story">
@@ -267,15 +276,6 @@
                 <span class="time">2025-12-24 22:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/VideoProc-Converter-AI.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Turn your videos into 4K masterpieces with AI, now 70% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/24/turn-your-videos-into-4k-masterpieces-with-ai-now-70-off.html" target="_blank">Turn your videos into 4K masterpieces with AI, now 70% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-24 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
