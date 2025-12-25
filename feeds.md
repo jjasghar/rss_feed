@@ -1,42 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 12:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-25 13:11:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 33 feeds processed -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,12 +51,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5932/live/75ec19c0-e186-11f0-a8dc-93c15fe68710.png" alt="Royal Family greet crowds after Christmas Day service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1w9xrx480wo?at_medium=RSS&at_campaign=rss" target="_blank">Royal Family greet crowds after Christmas Day service</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-25 12:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Snow-DB-251225_1766665104216_hpMain_4x3t_384.jpg" alt="Major winter storm predicted to bring snow, ice to Midwest and Northeast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/major-winter-storm-predicted-bring-snow-ice-midwest/story?id=128691937" target="_blank">Major winter storm predicted to bring snow, ice to Midwest and Northeast</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-25 12:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5932/live/75ec19c0-e186-11f0-a8dc-93c15fe68710.png" alt="Royal Family celebrate Christmas Day with Sandringham service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1w9xrx480wo?at_medium=RSS&at_campaign=rss" target="_blank">Royal Family celebrate Christmas Day with Sandringham service</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-25 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6659/live/eb56c3b0-e184-11f0-a275-6df560e31dd7.jpg" alt="Pope Leo urges &#x27;courage&#x27; to end Ukraine war in first Christmas address" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm21728nwxlo?at_medium=RSS&at_campaign=rss" target="_blank">Pope Leo urges &#x27;courage&#x27; to end Ukraine war in first Christmas address</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-25 11:41</span>
             </div>
         </div>
 <div class="story">
@@ -79,38 +104,29 @@
                 <span class="time">2025-12-25 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/25/nx-s1-5656173/a-holiday-tradition-david-sedaris-reads-from-the-santaland-diaries" target="_blank">A holiday tradition: David Sedaris reads from &#x27;The Santaland Diaries&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-25 09:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/25/photos-global-stories-of-2025-in-pictures?traffic_source=rss" target="_blank">Photos: Global stories of 2025 in pictures</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-25 09:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/25/g-s1-103685/doj-says-few-more-weeks-epstein-files" target="_blank">DOJ says it may need a &#x27;few more weeks&#x27; to finish releasing Epstein files</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-25 08:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025" target="_blank">Hollywood cozied up to AI in 2025 and had nothing good to show for it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-25 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/614c147c019a56924fab7f67/master/pass/Gear-Set-Up-Elders-Phone-992023140.jpg" alt="How to Set Up a Smartphone for Elderly Loved Ones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-set-up-smartphone-for-parents-grandparents/" target="_blank">How to Set Up a Smartphone for Elderly Loved Ones</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-25 12:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,24 +163,6 @@
                 <span class="time">2025-12-24 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/santa_claus_secret_header-500x500.jpg" alt="Being Santa Claus is a year-round calling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/being-santa-claus-is-a-year-round-calling/" target="_blank">Being Santa Claus is a year-round calling</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-24 16:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/24/the-9-top-biotech-startups-from-disrupt-startup-battlefield/" target="_blank">The 9 top biotech startups from Disrupt Startup Battlefield</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-24 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,10 +171,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://fidget-spinner.github.io/posts/no-longer-sorry.html" target="_blank">Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-25 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ajitkumar/production-deployment-django-docker-compose-nginx-on-aws-1gig" target="_blank">Production Deployment: Django, Docker Compose, &amp; Nginx on AWS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-25 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-News-2025" target="_blank">The Death Of Clear Linux, Other Intel Linux Engineering Setbacks In 2025</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-25 11:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/mattermost/mattermost/issues/34271" target="_blank">Mattermost restricted access to old messages after 10000 limit is reached</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-25 11:03</span>
             </div>
         </div>
 <div class="story">
@@ -195,47 +220,6 @@
                 <span class="title"><a href="https://dev.to/freepixel11/help-center-governance-models-for-content-quality-at-scale-mlh" target="_blank">Help Center Governance Models for Content Quality at Scale</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-25 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dailybugle33/wtf-is-remote-browser-isolation-5c6l" target="_blank">WTF is Remote Browser Isolation?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-25 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vibhanshu909/you-probably-dont-need-redis-for-distributed-locking-155k" target="_blank">You Probably Don&#x27;t Need Redis for Distributed Locking</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-25 06:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/aws-gcp-multicloud-networking/en/headerimage/generatedHeaderImage-1765698477825.jpg" alt="AWS and Google Cloud Preview Secure Multicloud Networking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/aws-gcp-multicloud-networking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS and Google Cloud Preview Secure Multicloud Networking</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-25 06:50</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/urban-vpn-proxy-surreptitiously-intercepts-ai-chats.html" target="_blank">Urban VPN Proxy Surreptitiously Intercepts AI Chats</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-24 12:03</span>
             </div>
         </div>
 </div>
@@ -325,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
