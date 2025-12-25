@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 06:02:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-25 07:03:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/25/algeria-passes-law-declaring-french-colonisation-a-crime?traffic_source=rss" target="_blank">Algeria passes law declaring French colonisation a crime</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-25 06:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/25/g-s1-103680/nasry-asfura-winner-honduras-presidential-vote" target="_blank">Trump-backed candidate Nasry Asfura declared winner of Honduras&#x27; presidential vote</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-25 06:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-documents-in-the-jeffrey-epstein-case-254989381824" target="_blank">New documents in the Jeffrey Epstein Case</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-24 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766612660883_now_daily_b_epstein_doj_251224_1920x1080-efjg2h.jpg" alt="Justice Department says it has uncovered over one million more Epstein-related files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/doj-says-it-has-uncovered-over-one-million-more-epstein-related-files-254984261892" target="_blank">Justice Department says it has uncovered over one million more Epstein-related files</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-24 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-venezuela-oil-us_7118966.jpg?20251225040409" alt="White House orders US military to &#x27;quarantine&#x27; Venezuela oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/white-house-orders-us-military-to-quarantine-venezuela-oil-official-says-13487300" target="_blank">White House orders US military to &#x27;quarantine&#x27; Venezuela oil</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-24 21:29</span>
             </div>
         </div>
 </div>
@@ -161,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vibhanshu909/you-probably-dont-need-redis-for-distributed-locking-155k" target="_blank">You Probably Don&#x27;t Need Redis for Distributed Locking</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-25 06:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8d1wieiofjropeprakcz.png" alt="Leaflet Address Autocomplete with Geoapify (Companion to MapLibre Example)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Libreboot-26.01-rc1" target="_blank">Libreboot 26.01-rc1 Released To Support A Few More Systems</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-25 01:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nse569h/i-finally-stopped-writing-try-catch-in-every-express-controller-and-you-should-too-40p2" target="_blank">I finally stopped writing try-catch in every Express controller (and you should too)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-25 01:15</span>
             </div>
         </div>
 </div>
@@ -325,7 +331,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 06:02 UTC
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
