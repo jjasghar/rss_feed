@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 22:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-25 23:01:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 22:01 UTC</div>
+    <div class="newspaper-date">Thursday, December 25, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea9/live/19e89c40-e1cf-11f0-84d1-ab457a8c9836.jpg" alt="Zelensky hails &#x27;new ideas&#x27; on peace after talks with US envoys" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky hails &#x27;new ideas&#x27; on peace after talks with US envoys</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-25 22:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/venezuela-frees-dozens-detained-during-protests-against-maduro?traffic_source=rss" target="_blank">Venezuela frees dozens detained during protests against Maduro</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-25 22:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +97,20 @@
                 <span class="time">2025-12-25 14:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/25/atmospheric-river-storm-causes-flooding-across-southern-california?traffic_source=rss" target="_blank">Atmospheric river storm causes flooding across Southern California</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-25 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5932/live/75ec19c0-e186-11f0-a8dc-93c15fe68710.png" alt="Royal Family greet crowds after Christmas Day service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1w9xrx480wo?at_medium=RSS&at_campaign=rss" target="_blank">Royal Family greet crowds after Christmas Day service</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-25 12:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6949c44f748727348e9772da/master/pass/HBO-Movie-Guide-Culture-rev-1-OBAA-DUS-250113-0050-7_High_Res_JPEG.jpg" alt="The 40 Best Movies on HBO Max Right Now (January 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-movies-hbo-max-right-now/" target="_blank">The 40 Best Movies on HBO Max Right Now (January 2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-25 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,19 +148,10 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/" target="_blank">Nvidia to license AI chip challenger Groq’s tech and hire its CEO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-24 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Chinese Social Media Users Criticize Authorities in Rare Sign of Dissent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Fake MAS Windows Activation Domain Used To Spread PowerShell Malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://tech.slashdot.org/story/25/12/25/1632226/chinese-social-media-users-criticize-authorities-in-rare-sign-of-dissent?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Chinese Social Media Users Criticize Authorities in Rare Sign of Dissent</a></span>
+                <span class="title"><a href="https://it.slashdot.org/story/25/12/25/2058205/fake-mas-windows-activation-domain-used-to-spread-powershell-malware?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Fake MAS Windows Activation Domain Used To Spread PowerShell Malware</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -164,6 +161,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4m5a7tltblna3x4pbb9b.gif" alt="iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/blooio/imessage-enrichment-in-clay-boost-your-outreach-with-real-time-contact-detection-1ick" target="_blank">iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-25 22:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,6 +189,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18787563&w=600" alt="Decoupling Azure Releases With GitHub Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/decoupling-azure-releases-github-actions" target="_blank">Decoupling Azure Releases With GitHub Actions</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-25 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/arshtechpro/apples-guideline-47-update-what-every-developer-hosting-html5-mini-apps-must-know-90" target="_blank">Apple&#x27;s New Mini App Rules: Comply or Face App Store Removal</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-25 18:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18787548&w=600" alt="A Principled Framework for Scalable Experimentation and Reliable A/B Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/scalable-ab-testing-framework" target="_blank">A Principled Framework for Scalable Experimentation and Reliable A/B Testing</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-25 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjmjsus0rscb8zwhz5ce2.png" alt="Silent Architect: AI’s Impact on SDLC from PI Planning to Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sivasai_nadella_941a8d122/silent-architect-ais-impact-on-sdlc-from-pi-planning-to-release-4gfj" target="_blank">Silent Architect: AI’s Impact on SDLC from PI Planning to Release</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-25 17:52</span>
             </div>
         </div>
 </div>
@@ -305,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
