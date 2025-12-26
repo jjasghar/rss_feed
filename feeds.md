@@ -1,37 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 22:01:28 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-26 23:01:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +116,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/" target="_blank">How reality crushed Ÿnsect, the French startup that had raised over $600M for insect farming</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-26 22:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center" target="_blank">Trump’s war on offshore wind faces another lawsuit</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-26 22:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/26/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/" target="_blank">As people look for ways to make new friends, here are the apps promising to help</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-26 19:00</span>
@@ -142,29 +166,29 @@
                 <span class="time">2025-12-26 16:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off" target="_blank">Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-26 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/850237/google-change-your-gmail-address" target="_blank">Google is letting some people change their @gmail address</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-26 15:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-rc4-Released" target="_blank">Wine 11.0-rc4 Brings 22 Bug Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-26 21:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18805732&w=600" alt="Optimizing Java Applications for Arm64 in the Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/optimizing-java-arm64-cloud-applications" target="_blank">Optimizing Java Applications for Arm64 in the Cloud</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-26 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,29 +225,20 @@
                 <span class="time">2025-12-26 17:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/old-amdgpu-eoy2025" target="_blank">AMD RDNA3/RDNA4 Go Down Hard On Linux 6.19, But Here&#x27;s How The Older AMD GPUs End Out 2025</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-26 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://docs.python.org/3.15/library/profiling.sampling.html" target="_blank">profiling.sampling: Statistical profiler</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-26 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-squid-camouflage.html" target="_blank">Friday Squid Blogging: Squid Camouflage</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-26 22:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -238,6 +253,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/pizzcat-1280x720.jpg" alt="The Automatic Pizza Vending Machine In The Detroit Airport: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/automatic-pizza-vending-machine-detroit-airport-the-kotaku-review-pizza-cat-2000655797" target="_blank">The Automatic Pizza Vending Machine In The Detroit Airport: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-26 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Microsoft Office and Windows 11 Pro for $39.97 sounds fake, but isn&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/26/microsoft-office-and-windows-11-pro-for-39-97-sounds-fake-but-isnt.html" target="_blank">Microsoft Office and Windows 11 Pro for $39.97 sounds fake, but isn&#x27;t</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-26 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/Divinity-og-2-1280x732.jpg" alt="There Are Still Some Surprisingly Good Deals On A Few Killer Switch Games Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +305,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-new-stranger-things-episodes-chart-a-propulsive-path-to-the-finale-2000703283" target="_blank">The New ‘Stranger Things’ Episodes Chart a Propulsive Path to the Finale</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-26 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/1ForAll-AI.jpeg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Let AI handle the voices, images, and videos—and save $702" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/26/let-ai-handle-the-voices-images-and-videos-and-save-702.html" target="_blank">Let AI handle the voices, images, and videos—and save $702</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/smoky.jpg?fit=1024%2C576&amp;quality=60&amp;ssl=1" alt="Mall toilet windows turns clear when occupants smoke" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/26/mall-toilet-windows-turns-clear-when-occupants-smoke.html" target="_blank">Mall toilet windows turns clear when occupants smoke</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-26 14:06</span>
             </div>
         </div>
 </div>
@@ -329,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
