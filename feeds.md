@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 17:01:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-26 18:02:14 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/26/israel-first-country-to-recognise-somaliland-sovereign-state" target="_blank">Israel becomes first country to recognise Somaliland as sovereign state</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-26 17:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cc5/live/e176f3e0-e26c-11f0-a4f0-f9cf84d7fed7.jpg" alt="Boxing Day shopping falls flat once again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss" target="_blank">Israel becomes first country to recognise Somaliland</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-26 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/two-people-dead-in-stabbing-car-ramming-attack-in-israel?traffic_source=rss" target="_blank">Two people dead in stabbing, car-ramming attack in Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-26 13:49</span>
             </div>
         </div>
 </div>
@@ -170,6 +168,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://docs.python.org/3.15/library/profiling.sampling.html" target="_blank">profiling.sampling: Statistical profiler</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-26 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/uber-opensearch-vector-semantic/en/headerimage/uber-open-search-semantic-1766761225870.jpeg" alt="Uber Adopts Amazon OpenSearch for Semantic Search to Better Capture User Intent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/uber-opensearch-vector-semantic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Adopts Amazon OpenSearch for Semantic Search to Better Capture User Intent</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-26 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Coreboot-25.12-Released" target="_blank">Coreboot 25.12 Released With Qualcomm X1 Plus Platform Support, AMD Turin PoC</a></span>
                 <span class="feed">Phoronix</span>
@@ -201,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/azrecon_/perspectives-on-networking-26o9" target="_blank">Perspectives on Networking</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-26 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/26/ai-vs-gen-z/" target="_blank">AI vs Gen Z: How AI has changed the career pathway for junior developers</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-26 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18788635&w=600" alt="The Architect&#x27;s Guide to Logging" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/architects-guide-to-logging" target="_blank">The Architect&#x27;s Guide to Logging</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-26 14:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
