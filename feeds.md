@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 21:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-26 22:01:28 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/israel-attacks-press-as-silencing-policy-palestinian-journalists-union?traffic_source=rss" target="_blank">Israel attacks press as ‘silencing’ policy: Palestinian journalists union</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-26 21:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/karoline-leavitt-1-gty-gmh-251226_1766778152311_hpMain_4x3t_384.jpg" alt="White House press secretary Karoline Leavitt announces she&#x27;s pregnant" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,15 +99,6 @@
                 <span class="title"><a href="https://news.sky.com/story/three-women-stabbed-in-paris-metro-stations-13487619" target="_blank">Three women stabbed in Paris metro stations</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-12-26 18:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/26/british-egyptian-activist-alaa-abd-el-fattah-arrives-in-uk-after-travel-ban-lifted" target="_blank">British-Egyptian activist Alaa Abd el-Fattah arrives in UK after travel ban lifted</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-26 17:57</span>
             </div>
         </div>
 </div>
@@ -231,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Divinity-og-2-1280x732.jpg" alt="There Are Still Some Surprisingly Good Deals On A Few Killer Switch Games Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/switch-eshop-discounts-rpg-roguelike-indie-2000655765" target="_blank">There Are Still Some Surprisingly Good Deals On A Few Killer Switch Games Right Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-26 21:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/NGC-2392-chandra-1280x853.jpg" alt="‘Zombie Stars’ Might Be a Beacon in Our Search for Dark Matter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -258,30 +275,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/1ForAll-AI.jpeg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Let AI handle the voices, images, and videos—and save $702" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/26/let-ai-handle-the-voices-images-and-videos-and-save-702.html" target="_blank">Let AI handle the voices, images, and videos—and save $702</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-26 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/smoky.jpg?fit=1024%2C576&amp;quality=60&amp;ssl=1" alt="Mall toilet windows turns clear when occupants smoke" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/12/26/mall-toilet-windows-turns-clear-when-occupants-smoke.html" target="_blank">Mall toilet windows turns clear when occupants smoke</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-26 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Govee-RGBIC-Cylinder-Floor-Lamp-1280x854.jpg" alt="Govee LED Cylinder Floor Lamp Drops to Its Lowest Price to Clear Out Remaining Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/govee-led-cylinder-floor-lamp-drops-to-its-lowest-price-to-clear-out-remaining-stock-2000655263" target="_blank">Govee LED Cylinder Floor Lamp Drops to Its Lowest Price to Clear Out Remaining Stock</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-26 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Graphics-Caption-3-PHI-11-Kyle-Hedquist.jpg?fit=600%2C400&amp;quality=60&amp;ssl=1" alt="Murderer appointed to Salem, Oregon public safety role" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/26/murderer-appointed-to-salem-oregon-public-safety-role.html" target="_blank">Murderer appointed to Salem, Oregon public safety role</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-26 12:35</span>
             </div>
         </div>
 </div>
@@ -321,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
