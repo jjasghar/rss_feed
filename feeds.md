@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 13:11:50 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-26 14:01:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 13:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/two-people-dead-in-stabbing-car-ramming-attack-in-israel?traffic_source=rss" target="_blank">Two people dead in stabbing, car-ramming attack in Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-26 13:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,26 +97,35 @@
                 <span class="time">2025-12-26 09:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/12/26/exiled-bangladeshi-leader-faces-test-to-prove-his?traffic_source=rss" target="_blank">Exiled Bangladeshi leader faces test to “prove his legitimacy”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-26 09:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Privateer-splash-image-500x500-1766445598.png" alt="In the ’90s, Wing Commander: Privateer made me realize what kind of games I love" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/12/in-the-90s-wing-commander-privateer-made-me-realize-what-kind-of-games-i-love/" target="_blank">In the ’90s, Wing Commander: Privateer made me realize what kind of games I love</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-26 13:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/ars-best-games-2025-500x500.jpg" alt="Ars Technica’s Top 20 video games of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/gaming/2025/12/ars-technicas-top-20-video-games-of-2025/" target="_blank">Ars Technica’s Top 20 video games of 2025</a></span>
                 <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-26 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/694c873eec03400374940392/master/pass/Ricoh%20GR%20IV%20Camera%20top%20art%20122025%20SOURCE%20Amazon.jpg" alt="Ricoh GR IV Review: Everyone&#x27;s Favorite Pocket Camera Gets Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/ricoh-gr-iv-camera/" target="_blank">Ricoh GR IV Review: Everyone&#x27;s Favorite Pocket Camera Gets Better</a></span>
+                <span class="feed">WIRED</span>
                 <span class="time">2025-12-26 12:00</span>
             </div>
         </div>
@@ -144,29 +156,20 @@
                 <span class="time">2025-12-25 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial" target="_blank">I re-created Google&amp;#8217;s cute Gemini ad with my own kid&amp;#8217;s stuffie, and I wish I hadn&amp;#8217;t</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-25 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="&#x27;Memory is Running Out, and So Are Excuses For Software Bloat&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://developers.slashdot.org/story/25/12/26/0628235/memory-is-running-out-and-so-are-excuses-for-software-bloat?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">&#x27;Memory is Running Out, and So Are Excuses For Software Bloat&#x27;</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html" target="_blank">Package managers keep using Git as a database, it never works out</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-26 12:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/podcasts/effective-mentorship-remote-team-culture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Effective Mentorship and Remote Team Culture with Gilad Shoham</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-12-26 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/26/containers-are-easy-moving-your-legacy-system-off-your-vm-is-not/" target="_blank">Containers are easy—moving your legacy system off your VM is not</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-26 08:40</span>
             </div>
         </div>
 </div>
@@ -308,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 13:12 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
