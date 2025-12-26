@@ -1,42 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 16:01:41 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-26 17:01:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 16:01 UTC</div>
+    <div class="newspaper-date">Friday, December 26, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cc5/live/e176f3e0-e26c-11f0-a4f0-f9cf84d7fed7.jpg" alt="Boxing Day shopping falls flat once again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c865d7zw26jo?at_medium=RSS&at_campaign=rss" target="_blank">Boxing Day shopping falls flat once again</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-26 16:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da5/live/70bfb750-e257-11f0-adaa-4b49d24d5c3b.jpg" alt="Zelensky plans to meet Trump on Sunday for talks on ending Russian war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,6 +80,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/tajikistan-taliban-border-clashes-whats-behind-them-why-it-affects-china?traffic_source=rss" target="_blank">Tajikistan-Taliban border clashes: What’s behind them, why it affects China</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-26 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss" target="_blank">Israel becomes first country to recognise Somaliland</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-26 14:20</span>
@@ -88,29 +103,38 @@
                 <span class="time">2025-12-26 13:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/live/2025/dec/26/us-nigeria-strikes-militants-donald-trump-zelenskyy-ukraine-epstein-us-politics-latest-news-updates" target="_blank">Nigeria provided US with intelligence for strikes on Islamist militants, says foreign minister – US politics live</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-26 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/26/g-s1-103724/up-first-newsletter-nigeria-isis-congress-holiday-spending" target="_blank">U.S. strikes ISIS in Nigeria. And, holiday shopping was higher than expected</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-26 11:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/26/nawares-chemical-free-weed-killer-tech-could-change-how-we-treat-lawns/" target="_blank">Naware’s chemical-free weed killer tech could change how we treat lawns</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-26 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/blackhole4-500x500-1760991060.jpg" alt="Embark on a visual voyage of art inspired by black holes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/embark-on-a-visual-voyage-of-art-inspired-by-black-holes/" target="_blank">Embark on a visual voyage of art inspired by black holes</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-26 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off" target="_blank">Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-26 16:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,33 +160,6 @@
                 <span class="title"><a href="https://arstechnica.com/gaming/2025/12/in-the-90s-wing-commander-privateer-made-me-realize-what-kind-of-games-i-love/" target="_blank">In the ’90s, Wing Commander: Privateer made me realize what kind of games I love</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-12-26 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/ars-best-games-2025-500x500.jpg" alt="Ars Technica’s Top 20 video games of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/12/ars-technicas-top-20-video-games-of-2025/" target="_blank">Ars Technica’s Top 20 video games of 2025</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-26 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/694c873eec03400374940392/master/pass/Ricoh%20GR%20IV%20Camera%20top%20art%20122025%20SOURCE%20Amazon.jpg" alt="Ricoh GR IV Review: Everyone&#x27;s Favorite Pocket Camera Gets Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/ricoh-gr-iv-camera/" target="_blank">Ricoh GR IV Review: Everyone&#x27;s Favorite Pocket Camera Gets Better</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-26 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Purple Promo Codes and Deals: Up to 30% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/purple-promo-code/" target="_blank">Purple Promo Codes and Deals: Up to 30% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-26 07:30</span>
             </div>
         </div>
 </div>
@@ -207,6 +204,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/26/ai-vs-gen-z/" target="_blank">AI vs Gen Z: How AI has changed the career pathway for junior developers</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-26 14:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18788635&w=600" alt="The Architect&#x27;s Guide to Logging" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -215,13 +221,18 @@
                 <span class="time">2025-12-26 14:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html" target="_blank">Package managers keep using Git as a database, it never works out</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-26 12:46</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/iot-hack.html" target="_blank">IoT Hack</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-26 12:02</span>
             </div>
         </div>
 </div>
@@ -229,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_reviewart-1280x853.jpg" alt="The New ‘Stranger Things’ Episodes Chart a Propulsive Path to the Finale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-new-stranger-things-episodes-chart-a-propulsive-path-to-the-finale-2000703283" target="_blank">The New ‘Stranger Things’ Episodes Chart a Propulsive Path to the Finale</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-26 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/smoky.jpg?fit=1024%2C576&amp;quality=60&amp;ssl=1" alt="Mall toilet windows turns clear when occupants smoke" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,20 +294,20 @@
                 <span class="time">2025-12-25 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/EaseUS-Data-Recovery-Wizard.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Recover your lost data for just $35 with EaseUS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/25/recover-your-lost-data-for-just-35-with-easeus.html" target="_blank">Recover your lost data for just $35 with EaseUS</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-25 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1766630571-20251226 - Edit.png" alt="Saturday Morning Breakfast Cereal - Content" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/content-2" target="_blank">Saturday Morning Breakfast Cereal - Content</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-26 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -298,12 +318,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1766630524-20251225 - Edit.png" alt="Saturday Morning Breakfast Cereal - Butterfly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/truly_universal_outlet.png" alt="Truly Universal Outlet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/butterfly" target="_blank">Saturday Morning Breakfast Cereal - Butterfly</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-25 16:20</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3186/" target="_blank">Truly Universal Outlet</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-12-26 05:00</span>
             </div>
         </div>
 </div>
@@ -311,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
