@@ -1,42 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 04:11:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-26 05:02:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 04:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 05:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -98,12 +97,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-us-nigeria-airstrike_7119253.png?20251226020443" alt="US launches airstrikes on Islamic State &quot;scum&quot; in Nigeria who targeted Christians, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-launches-airstrikes-on-islamic-state-targets-in-nigeria-13487369" target="_blank">US launches airstrikes on Islamic State &quot;scum&quot; in Nigeria who targeted Christians, Trump says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-25 23:32</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/dec/25/us-carries-out-airstrikes-against-islamic-state-terrorist-scum-in-nigeria-trump-says" target="_blank">US carries out strikes on Nigeria targeting Islamic State militants, Trump says</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-25 23:41</span>
             </div>
         </div>
 </div>
@@ -157,10 +156,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Gmail Users May Soon Be Able To Change Their Email Address and Keep the Old One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Apple&#x27;s App Course Runs $20,000 a Student. Is It Really Worth It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://it.slashdot.org/story/25/12/26/0155213/gmail-users-may-soon-be-able-to-change-their-email-address-and-keep-the-old-one?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Gmail Users May Soon Be Able To Change Their Email Address and Keep the Old One</a></span>
+                <span class="title"><a href="https://apple.slashdot.org/story/25/12/26/041227/apples-app-course-runs-20000-a-student-is-it-really-worth-it?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Apple&#x27;s App Course Runs $20,000 a Student. Is It Really Worth It?</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -170,6 +169,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sangharsh_more_50994ab1ac/confuse-about-how-to-start-os-5e9f" target="_blank">Confuse About how to start OS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-26 04:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,15 +223,6 @@
                 <span class="time">2025-12-25 23:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4m5a7tltblna3x4pbb9b.gif" alt="iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/blooio/imessage-enrichment-in-clay-boost-your-outreach-with-real-time-contact-detection-1ick" target="_blank">iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-25 22:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -235,6 +234,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/the-small-details-in-chainsaw-man-reze-arc-anime-mappa-movie-2000703094" target="_blank">The Small Details in ‘Chainsaw Man – The Movie: Reze Arc’ That We Can’t Stop Obsessing Over</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-25 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/EaseUS-Data-Recovery-Wizard.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Recover your lost data for just $35 with EaseUS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/25/recover-your-lost-data-for-just-35-with-easeus.html" target="_blank">Recover your lost data for just $35 with EaseUS</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-25 22:00</span>
             </div>
         </div>
@@ -274,15 +282,6 @@
                 <span class="time">2025-12-25 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/beatstp-1280x853.jpg" alt="Apple Quietly Drops the Beats Studio Pro by 49% to Offload ANC Headphone Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/apple-quietly-drops-the-beats-studio-pro-by-49-to-offload-anc-headphone-stock-2000655539" target="_blank">Apple Quietly Drops the Beats Studio Pro by 49% to Offload ANC Headphone Stock</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-25 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 04:11 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 05:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
