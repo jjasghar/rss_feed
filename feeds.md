@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 14:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-26 15:01:50 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss" target="_blank">Israel becomes first country to recognise Somaliland</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-26 14:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,6 +87,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251017-Trump-Zelenskyy-ch-1611-cac215.jpg" alt="Zelenskyy says he is set to meet Trump on Sunday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/ukraine-russia-war-zelenskyy-trump-meeting-peace-talks-rcna250995" target="_blank">Zelenskyy says he is set to meet Trump on Sunday</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-26 10:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -79,29 +104,20 @@
                 <span class="time">2025-12-26 10:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/26/nx-s1-5652027/marijuana-reclassified-trump-executive-order" target="_blank">Marijuana rescheduling would bring some immediate changes, but others will take time</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-26 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de68/live/382eb510-e20e-11f0-86ca-d5a596a95198.png" alt="US launches strikes against Islamic State in Nigeria" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss" target="_blank">US launches strikes against Islamic State in Nigeria</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-26 09:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/846767/amazon-prime-video-best-shows-2025" target="_blank">The 10 best shows to stream on Amazon Prime Video from 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-26 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/Privateer-splash-image-500x500-1766445598.png" alt="In the ’90s, Wing Commander: Privateer made me realize what kind of games I love" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +163,38 @@
                 <span class="time">2025-12-25 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/" target="_blank">How a Spanish virus brought Google to Málaga</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-25 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/uber-infrastructure-benchmarking/en/headerimage/generatedHeaderImage-1765703494677.jpg" alt="Benchmarking Beyond the Application Layer: How Uber Evaluates Infrastructure Changes and Cloud Skus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/uber-infrastructure-benchmarking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Benchmarking Beyond the Application Layer: How Uber Evaluates Infrastructure Changes and Cloud Skus</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-26 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft3ps87kqfaowdvro9uls.png" alt="Perspectives on Networking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/azrecon_/perspectives-on-networking-26o9" target="_blank">Perspectives on Networking</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-26 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18788635&w=600" alt="The Architect&#x27;s Guide to Logging" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/architects-guide-to-logging" target="_blank">The Architect&#x27;s Guide to Logging</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-26 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,33 +220,6 @@
                 <span class="title"><a href="https://dev.to/technology-radius/zero-trust-in-2025-is-less-about-vision-more-about-friction-52mj" target="_blank">Zero Trust in 2025 Is Less About Vision, More About Friction</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-26 10:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://pomponchik.org/notes/beautiful-reprs/" target="_blank">Beautiful reprs</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-26 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/cachyos-server-edition-plans/" target="_blank">CachyOS Wants to Improve Your Server Performance Now</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-26 09:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/effective-mentorship-remote-team-culture/en/smallimage/engineering-culture-podcast-thumbnail-1766145320377.jpg" alt="Podcast: Effective Mentorship and Remote Team Culture with Gilad Shoham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/effective-mentorship-remote-team-culture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Effective Mentorship and Remote Team Culture with Gilad Shoham</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-26 09:00</span>
             </div>
         </div>
 </div>
@@ -302,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
