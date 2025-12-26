@@ -1,12 +1,12 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 10:02:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-12-26 11:01:26 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
@@ -16,22 +16,24 @@
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/26/nx-s1-5652027/marijuana-reclassified-trump-executive-order" target="_blank">Marijuana rescheduling would bring some immediate changes, but others will take time</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-26 10:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de68/live/382eb510-e20e-11f0-86ca-d5a596a95198.png" alt="US launches strikes against Islamic State in Nigeria" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/why-bnp-leader-tarique-rahmans-return-to-bangladesh-matters-ahead-of-vote?traffic_source=rss" target="_blank">Can BNP leader Tarique Rahman unite a divided Bangladesh as election looms?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-26 08:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-christmas-message-britain" target="_blank">Jimmy Kimmel jokes about fascism in an &#x27;alternative Christmas message&#x27; for Britain</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-26 07:21</span>
             </div>
         </div>
 </div>
@@ -168,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/technology-radius/zero-trust-in-2025-is-less-about-vision-more-about-friction-52mj" target="_blank">Zero Trust in 2025 Is Less About Vision, More About Friction</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-26 10:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/news/cachyos-server-edition-plans/" target="_blank">CachyOS Wants to Improve Your Server Performance Now</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
@@ -210,20 +221,20 @@
                 <span class="time">2025-12-26 05:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sangharsh_more_50994ab1ac/confuse-about-how-to-start-os-5e9f" target="_blank">Confuse About how to start OS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-26 04:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/cybercab-1280x960.jpg" alt="Comparisons Between Waymo and Tesla Miss How Strange the Robotaxi Race Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/comparisons-between-waymo-and-tesla-miss-how-strange-the-robotaxi-race-is-2000703406" target="_blank">Comparisons Between Waymo and Tesla Miss How Strange the Robotaxi Race Is</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-26 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/chainsaw-man-reze-arc-io9-template-circle-light-1280x853.jpg" alt="The Small Details in ‘Chainsaw Man – The Movie: Reze Arc’ That We Can’t Stop Obsessing Over" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,20 +280,20 @@
                 <span class="time">2025-12-25 17:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Microsoft-Surface-Laptop-3.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="A premium Surface Laptop for $380 is the kind of math we enjoy doing twice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/25/a-premium-surface-laptop-for-380-is-the-kind-of-math-we-enjoy-doing-twice.html" target="_blank">A premium Surface Laptop for $380 is the kind of math we enjoy doing twice</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-25 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/26/when-they-go-low" target="_blank">When They Go Low</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-26 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1766630524-20251225 - Edit.png" alt="Saturday Morning Breakfast Cereal - Butterfly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
