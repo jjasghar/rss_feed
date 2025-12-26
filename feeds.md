@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 02:33:43 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-12-26 03:28:45 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 32 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 02:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/russia-ukraine-war-list-of-key-events-day-1401?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,401</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-26 02:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-24gty-gmh-251202_1764694786518_hpMain_4x3t_384.jpg" alt="Trump says US launched strike on ISIS terrorists in Nigeria" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky hails &#x27;new ideas&#x27; on peace after talks with US envoys</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-25 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/venezuela-frees-dozens-detained-during-protests-against-maduro?traffic_source=rss" target="_blank">Venezuela frees dozens detained during protests against Maduro</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-25 22:19</span>
             </div>
         </div>
 </div>
@@ -156,10 +148,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Apple Settles Brazilian Antitrust Case, Must Allow Third-Party App Stores and External Payment Links" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Gmail Users May Soon Be Able To Change Their Email Address and Keep the Old One" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Apple Settles Brazilian Antitrust Case, Must Allow Third-Party App Stores and External Payment Links</a></span>
+                <span class="title"><a href="https://it.slashdot.org/story/25/12/26/0155213/gmail-users-may-soon-be-able-to-change-their-email-address-and-keep-the-old-one?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Gmail Users May Soon Be Able To Change Their Email Address and Keep the Old One</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -301,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 02:34 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
