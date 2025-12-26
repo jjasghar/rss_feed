@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 07:03:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-26 08:02:14 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 0 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-christmas-message-britain" target="_blank">Jimmy Kimmel jokes about fascism in an &#x27;alternative Christmas message&#x27; for Britain</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-26 07:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +99,20 @@
                 <span class="time">2025-12-25 23:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/dec/25/us-carries-out-airstrikes-against-islamic-state-terrorist-scum-in-nigeria-trump-says" target="_blank">US carries out strikes on Nigeria targeting Islamic State militants, Trump says</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-25 23:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Purple Promo Codes and Deals: Up to 30% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/purple-promo-code/" target="_blank">Purple Promo Codes and Deals: Up to 30% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-26 07:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6949c44f748727348e9772da/master/pass/HBO-Movie-Guide-Culture-rev-1-OBAA-DUS-250113-0050-7_High_Res_JPEG.jpg" alt="The 40 Best Movies on HBO Max Right Now (January 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +158,20 @@
                 <span class="time">2025-12-25 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Apple&#x27;s App Course Runs $20,000 a Student. Is It Really Worth It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://apple.slashdot.org/story/25/12/26/041227/apples-app-course-runs-20000-a-student-is-it-really-worth-it?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Apple&#x27;s App Course Runs $20,000 a Student. Is It Really Worth It?</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/install-cosmic-de-ubuntu/" target="_blank">Itching to Try the Hot COSMIC DE on Ubuntu Linux? Here&amp;#x27;s an Easy Way</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-26 06:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/afse_hub/anime-fighting-simulator-endless-ultimate-beginners-guide-2025-d26" target="_blank">Anime Fighting Simulator: Endless - Ultimate Beginner&#x27;s Guide 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-26 01:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/" target="_blank">Maybe the default settings are too high</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-25 23:13</span>
             </div>
         </div>
 </div>
@@ -289,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
