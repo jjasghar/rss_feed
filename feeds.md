@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 08:02:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-26 09:02:09 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/26/nx-s1-5658145/nuclear-submarine-north-and-south-korea" target="_blank">Nuclear submarine arms race heats up between North and South Korea</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-26 08:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/why-bnp-leader-tarique-rahmans-return-to-bangladesh-matters-ahead-of-vote?traffic_source=rss" target="_blank">Can BNP leader Tarique Rahman unite a divided Bangladesh as election looms?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-26 08:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/25/g-s1-103704/nigeria-isis-islamic-state" target="_blank">President Trump announces strike on ISIS targets in Nigeria</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-26 02:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-24gty-gmh-251202_1764694786518_hpMain_4x3t_384.jpg" alt="Trump says US launched strike on ISIS terrorists in Nigeria" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-us-launched-strike-isis-terrorists-nigeria/story?id=128697246" target="_blank">Trump says US launched strike on ISIS terrorists in Nigeria</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-26 00:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251220-donald-trump-ch-1634-6d22c2.jpg" alt="Trump says he ordered strikes on ISIS targets in Nigeria" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-says-ordered-strikes-isis-targets-nigeria-rcna250970" target="_blank">Trump says he ordered strikes on ISIS targets in Nigeria</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-25 23:44</span>
             </div>
         </div>
 </div>
@@ -164,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/12/spotify-product-experiments/en/headerimage/header-bees-1766732965285.jpg" alt="Beyond Win Rates: How Spotify Quantifies Learning in Product Experiments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/spotify-product-experiments/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Beyond Win Rates: How Spotify Quantifies Learning in Product Experiments</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-26 08:08</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -206,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/kolkov/gpu-compute-shaders-in-pure-go-gogpugg-v0150-1cjk" target="_blank">GPU Compute Shaders in Pure Go: gogpu/gg v0.15.0</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-26 02:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/afse_hub/anime-fighting-simulator-endless-ultimate-beginners-guide-2025-d26" target="_blank">Anime Fighting Simulator: Endless - Ultimate Beginner&#x27;s Guide 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-26 01:09</span>
             </div>
         </div>
 </div>
@@ -295,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
