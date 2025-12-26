@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 15:01:50 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-26 16:01:41 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da5/live/70bfb750-e257-11f0-adaa-4b49d24d5c3b.jpg" alt="Zelensky plans to meet Trump on Sunday for talks on ending Russian war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky plans to meet Trump on Sunday for talks on ending Russian war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-26 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/26/g-s1-103307/instagram-reels-2025-soccer-cookbook-hiv-malnutrition" target="_blank">Top Instagram reels from Goats and Soda in 2025: Plumpy&#x27;Nut, aid cuts, soccer grannies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-26 15:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +106,20 @@
                 <span class="time">2025-12-26 11:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251017-Trump-Zelenskyy-ch-1611-cac215.jpg" alt="Zelenskyy says he is set to meet Trump on Sunday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/ukraine-russia-war-zelenskyy-trump-meeting-peace-talks-rcna250995" target="_blank">Zelenskyy says he is set to meet Trump on Sunday</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-26 10:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/explosion-at-mosque-in-syrias-homs-kills-three-report?traffic_source=rss" target="_blank">Explosion at mosque in Syria’s Homs kills at least six</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-26 10:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/850237/google-change-your-gmail-address" target="_blank">Google is letting some people change their @gmail address</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-26 15:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +165,29 @@
                 <span class="time">2025-12-26 07:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6949c44f748727348e9772da/master/pass/HBO-Movie-Guide-Culture-rev-1-OBAA-DUS-250113-0050-7_High_Res_JPEG.jpg" alt="The 40 Best Movies on HBO Max Right Now (January 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-movies-hbo-max-right-now/" target="_blank">The 40 Best Movies on HBO Max Right Now (January 2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-25 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Coreboot-25.12-Released" target="_blank">Coreboot 25.12 Released With Qualcomm X1 Plus Platform Support, AMD Turin PoC</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-26 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev_lenchen/seo-community-update-kiksi-discord-bot-1d8c" target="_blank">🌐 SEO &amp; Community Update - Kiksi Discord Bot</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-26 15:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/12/uber-infrastructure-benchmarking/en/headerimage/generatedHeaderImage-1765703494677.jpg" alt="Benchmarking Beyond the Application Layer: How Uber Evaluates Infrastructure Changes and Cloud Skus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,29 +224,20 @@
                 <span class="time">2025-12-26 12:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-2025-Highlights" target="_blank">Ubuntu&#x27;s Rust Infatuation, New Optimizations &amp; Other Ubuntu Linux 2025 Highlights</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-26 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/technology-radius/zero-trust-in-2025-is-less-about-vision-more-about-friction-52mj" target="_blank">Zero Trust in 2025 Is Less About Vision, More About Friction</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-26 10:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/smoky.jpg?fit=1024%2C576&amp;quality=60&amp;ssl=1" alt="Mall toilet windows turns clear when occupants smoke" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/26/mall-toilet-windows-turns-clear-when-occupants-smoke.html" target="_blank">Mall toilet windows turns clear when occupants smoke</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-26 14:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/Govee-RGBIC-Cylinder-Floor-Lamp-1280x854.jpg" alt="Govee LED Cylinder Floor Lamp Drops to Its Lowest Price to Clear Out Remaining Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +283,6 @@
                 <span class="time">2025-12-25 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/YIR-Staff-picks-1280x853.jpg" alt="Our Favorite io9 Stories of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/our-favorite-io9-stories-of-2025-2000695374" target="_blank">Our Favorite io9 Stories of 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-25 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
