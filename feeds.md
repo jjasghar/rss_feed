@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 00:05:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-26 01:29:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-24gty-gmh-251202_1764694786518_hpMain_4x3t_384.jpg" alt="Trump says US launched strike on ISIS terrorists in Nigeria" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-us-launched-strike-isis-terrorists-nigeria/story?id=128697246" target="_blank">Trump says US launched strike on ISIS terrorists in Nigeria</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-26 00:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251220-donald-trump-ch-1634-6d22c2.jpg" alt="Trump says he ordered strikes on ISIS targets in Nigeria" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/syria-says-senior-isil-commander-killed-in-damascus-countryside-raid?traffic_source=rss" target="_blank">Syria says senior ISIL commander killed in Damascus countryside raid</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-25 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/25/g-s1-103696/pope-leo-xiv-christmas-address-indifference-suffering-gaza-yemen-migrants" target="_blank">The pope urges the faithful on Christmas to shed indifference in the face of suffering</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-25 17:07</span>
             </div>
         </div>
 </div>
@@ -154,10 +152,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Fake MAS Windows Activation Domain Used To Spread PowerShell Malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Apple Settles Brazilian Antitrust Case, Must Allow Third-Party App Stores and External Payment Links" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://it.slashdot.org/story/25/12/25/2058205/fake-mas-windows-activation-domain-used-to-spread-powershell-malware?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Fake MAS Windows Activation Domain Used To Spread PowerShell Malware</a></span>
+                <span class="title"><a href="https://apple.slashdot.org/story/25/12/26/0039248/apple-settles-brazilian-antitrust-case-must-allow-third-party-app-stores-and-external-payment-links?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Apple Settles Brazilian Antitrust Case, Must Allow Third-Party App Stores and External Payment Links</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -167,6 +165,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/afse_hub/anime-fighting-simulator-endless-ultimate-beginners-guide-2025-d26" target="_blank">Anime Fighting Simulator: Endless - Ultimate Beginner&#x27;s Guide 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-26 01:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/" target="_blank">Maybe the default settings are too high</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-25 23:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclh9hqt85pqit49u300p.png" alt="How to Set Up Your First IAM User in 5 Minutes on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/CachyOS-Server-Edition-Coming" target="_blank">Arch Linux Powered CachyOS To Develop A Server Edition</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-25 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18787563&w=600" alt="Decoupling Azure Releases With GitHub Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/decoupling-azure-releases-github-actions" target="_blank">Decoupling Azure Releases With GitHub Actions</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-25 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ibrahimsezer/high-throughput-iot-log-aggregator-3gjg" target="_blank">High-Throughput IoT Log Aggregator</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-25 19:47</span>
             </div>
         </div>
 </div>
@@ -308,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
