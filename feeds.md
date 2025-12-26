@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-25 23:01:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-26 00:05:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, December 25, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251220-donald-trump-ch-1634-6d22c2.jpg" alt="Trump says he ordered strikes on ISIS targets in Nigeria" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-says-ordered-strikes-isis-targets-nigeria-rcna250970" target="_blank">Trump says he ordered strikes on ISIS targets in Nigeria</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-25 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-breaking-breaking-news_7042253.png?20251023123455" alt="US launches airstrikes on Islamic State targets in Nigeria" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-launches-airstrikes-on-islamic-state-targets-in-nigeria-13487369" target="_blank">US launches airstrikes on Islamic State targets in Nigeria</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-25 23:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea9/live/19e89c40-e1cf-11f0-84d1-ab457a8c9836.jpg" alt="Zelensky hails &#x27;new ideas&#x27; on peace after talks with US envoys" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/25/g-s1-103696/pope-leo-xiv-christmas-address-indifference-suffering-gaza-yemen-migrants" target="_blank">The pope urges the faithful on Christmas to shed indifference in the face of suffering</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-25 17:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/palestinian-actor-and-filmmaker-mohammad-bakri-dies-at-72?traffic_source=rss" target="_blank">Palestinian actor and filmmaker Mohammad Bakri dies at 72</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-25 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/rescue-helicopter-crashes-killing-five-on-tanzanias-mount-kilimanjaro?traffic_source=rss" target="_blank">Rescue helicopter crashes, killing five on Tanzania’s Mount Kilimanjaro</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-25 14:03</span>
             </div>
         </div>
 </div>
@@ -162,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclh9hqt85pqit49u300p.png" alt="How to Set Up Your First IAM User in 5 Minutes on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cyberhack08/how-to-set-up-your-first-iam-user-in-5-minutes-on-aws-2np2" target="_blank">How to Set Up Your First IAM User in 5 Minutes on AWS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-25 23:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4m5a7tltblna3x4pbb9b.gif" alt="iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,20 +221,20 @@
                 <span class="time">2025-12-25 19:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arshtechpro/apples-guideline-47-update-what-every-developer-hosting-html5-mini-apps-must-know-90" target="_blank">Apple&#x27;s New Mini App Rules: Comply or Face App Store Removal</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-25 18:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/chainsaw-man-reze-arc-io9-template-circle-light-1280x853.jpg" alt="The Small Details in ‘Chainsaw Man – The Movie: Reze Arc’ That We Can’t Stop Obsessing Over" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-small-details-in-chainsaw-man-reze-arc-anime-mappa-movie-2000703094" target="_blank">The Small Details in ‘Chainsaw Man – The Movie: Reze Arc’ That We Can’t Stop Obsessing Over</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-25 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/YIR-Staff-picks-1280x853.jpg" alt="Our Favorite io9 Stories of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +280,6 @@
                 <span class="time">2025-12-25 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/fiddle-1280x852.jpg" alt="Prominent Canadian Musician Says Gig Was Cancelled After Google AI Overview Wrongly Branded Him Sex Pest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/prominent-canadian-musician-says-gig-was-cancelled-after-google-ai-overview-wrongly-branded-him-sex-pest-2000703286" target="_blank">Prominent Canadian Musician Says Gig Was Cancelled After Google AI Overview Wrongly Branded Him Sex Pest</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-25 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
