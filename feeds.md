@@ -1,39 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 20:02:07 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-26 21:01:26 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: The Verge -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +39,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/karoline-leavitt-1-gty-gmh-251226_1766778152311_hpMain_4x3t_384.jpg" alt="White House press secretary Karoline Leavitt announces she&#x27;s pregnant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/white-house-press-secretary-karoline-leavitt-announces-shes/story?id=128709670" target="_blank">White House press secretary Karoline Leavitt announces she&#x27;s pregnant</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-26 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/new-york-to-require-social-media-platforms-to-display-mental-health-labels?traffic_source=rss" target="_blank">New York to require social media platforms to display mental health labels</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-26 20:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0925/live/5e5e9430-e290-11f0-b67b-690eb873de1b.jpg" alt="Family of man missing at sea pay tribute" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdrn84d0k82o?at_medium=RSS&at_campaign=rss" target="_blank">Family of man missing at sea pay tribute</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-26 19:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/central-park-snow-gty-jef-251226_1766756408550_hpMain_4x3t_384.jpg" alt="Dangerous snowstorm coming to NYC area; over 1,000 flights canceled" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,33 +91,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/dec/26/british-egyptian-activist-alaa-abd-el-fattah-arrives-in-uk-after-travel-ban-lifted" target="_blank">British-Egyptian activist Alaa Abd el-Fattah arrives in UK after travel ban lifted</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-12-26 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/26/israel-first-country-to-recognise-somaliland-sovereign-state" target="_blank">Israel becomes first country to recognise Somaliland as sovereign state</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-26 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cc5/live/e176f3e0-e26c-11f0-a4f0-f9cf84d7fed7.jpg" alt="Boxing Day shopping falls flat once again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c865d7zw26jo?at_medium=RSS&at_campaign=rss" target="_blank">Boxing Day shopping falls flat once again</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-26 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da5/live/70bfb750-e257-11f0-adaa-4b49d24d5c3b.jpg" alt="Zelensky plans to meet Trump on Sunday for talks on ending Russian war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky plans to meet Trump on Sunday for talks on ending Russian war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-26 15:49</span>
             </div>
         </div>
 </div>
@@ -331,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
