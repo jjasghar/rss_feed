@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 03:28:45 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-26 04:11:19 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 03:28 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 04:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +56,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/polish-jets-intercept-russian-reconnaissance-plane-spotted-near-airspace?traffic_source=rss" target="_blank">Polish jets intercept Russian reconnaissance plane spotted near airspace</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-26 03:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/russia-ukraine-war-list-of-key-events-day-1401?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,401</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-26 02:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/25/g-s1-103704/nigeria-isis-islamic-state" target="_blank">President Trump announces strike on ISIS targets in Nigeria</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-26 02:39</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +104,6 @@
                 <span class="title"><a href="https://news.sky.com/story/us-launches-airstrikes-on-islamic-state-targets-in-nigeria-13487369" target="_blank">US launches airstrikes on Islamic State &quot;scum&quot; in Nigeria who targeted Christians, Trump says</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-12-25 23:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-breaking-breaking-news_7042253.png?20251023123455" alt="US launches airstrikes on Islamic State targets in Nigeria" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-launches-airstrikes-on-islamic-state-targets-in-nigeria-13487369" target="_blank">US launches airstrikes on Islamic State targets in Nigeria</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-25 23:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea9/live/19e89c40-e1cf-11f0-84d1-ab457a8c9836.jpg" alt="Zelensky hails &#x27;new ideas&#x27; on peace after talks with US envoys" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky hails &#x27;new ideas&#x27; on peace after talks with US envoys</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-25 22:20</span>
             </div>
         </div>
 </div>
@@ -165,6 +174,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/github-isnt-just-for-code-anymore-its-the-backbone-of-ai-workflows-30cg" target="_blank">GitHub Isn’t Just for Code Anymore: It’s the Backbone of AI Workflows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-26 04:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kolkov/gpu-compute-shaders-in-pure-go-gogpugg-v0150-1cjk" target="_blank">GPU Compute Shaders in Pure Go: gogpu/gg v0.15.0</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-26 02:13</span>
@@ -204,15 +222,6 @@
                 <span class="title"><a href="https://dev.to/blooio/imessage-enrichment-in-clay-boost-your-outreach-with-real-time-contact-detection-1ick" target="_blank">iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-25 22:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/treebird/starting-my-journey-here-188o" target="_blank">Starting my journey here</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-25 21:38</span>
             </div>
         </div>
 </div>
@@ -293,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 03:28 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 04:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
