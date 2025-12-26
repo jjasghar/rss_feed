@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 01:29:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-26 02:33:43 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 01:29 UTC</div>
+    <div class="newspaper-date">Friday, December 26, 2025 - 02:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-us-nigeria-airstrike_7119253.png?20251226020443" alt="US launches airstrikes on Islamic State &quot;scum&quot; in Nigeria who targeted Christians, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-launches-airstrikes-on-islamic-state-targets-in-nigeria-13487369" target="_blank">US launches airstrikes on Islamic State &quot;scum&quot; in Nigeria who targeted Christians, Trump says</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-25 23:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/10/1920x1080/skynews-breaking-breaking-news_7042253.png?20251023123455" alt="US launches airstrikes on Islamic State targets in Nigeria" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -90,15 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/venezuela-frees-dozens-detained-during-protests-against-maduro?traffic_source=rss" target="_blank">Venezuela frees dozens detained during protests against Maduro</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-25 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/25/syria-says-senior-isil-commander-killed-in-damascus-countryside-raid?traffic_source=rss" target="_blank">Syria says senior ISIL commander killed in Damascus countryside raid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-25 19:32</span>
             </div>
         </div>
 </div>
@@ -169,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kolkov/gpu-compute-shaders-in-pure-go-gogpugg-v0150-1cjk" target="_blank">GPU Compute Shaders in Pure Go: gogpu/gg v0.15.0</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-26 02:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/afse_hub/anime-fighting-simulator-endless-ultimate-beginners-guide-2025-d26" target="_blank">Anime Fighting Simulator: Endless - Ultimate Beginner&#x27;s Guide 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-26 01:09</span>
@@ -208,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/treebird/starting-my-journey-here-188o" target="_blank">Starting my journey here</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-25 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-Server-Edition-Coming" target="_blank">Arch Linux Powered CachyOS To Develop A Server Edition</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-25 20:44</span>
             </div>
         </div>
 </div>
@@ -292,22 +296,13 @@
                 <span class="time">2025-12-25 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/25/children-in-danger-part-three" target="_blank">Children In Danger, Part Three</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-25 01:43</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 02:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
