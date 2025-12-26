@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 19:01:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-26 20:02:07 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +56,24 @@
                 <span class="title"><a href="https://abcnews.go.com/US/dangerous-snowstorm-hitting-nyc-new-jersey-upstate-new/story?id=128702220" target="_blank">Dangerous snowstorm coming to NYC area; over 1,000 flights canceled</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-26 18:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-paris-metro_7119707.jpg?20251226183817" alt="Three women stabbed in Paris metro stations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/three-women-stabbed-in-paris-metro-stations-13487619" target="_blank">Three women stabbed in Paris metro stations</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-26 18:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/26/british-egyptian-activist-alaa-abd-el-fattah-arrives-in-uk-after-travel-ban-lifted" target="_blank">British-Egyptian activist Alaa Abd el-Fattah arrives in UK after travel ban lifted</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-26 17:57</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky plans to meet Trump on Sunday for talks on ending Russian war</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-26 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/26/g-s1-103307/instagram-reels-2025-soccer-cookbook-hiv-malnutrition" target="_blank">Top Instagram reels from Goats and Soda in 2025: Plumpy&#x27;Nut, aid cuts, soccer grannies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-26 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/tajikistan-taliban-border-clashes-whats-behind-them-why-it-affects-china?traffic_source=rss" target="_blank">Tajikistan-Taliban border clashes: What’s behind them, why it affects China</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-26 15:00</span>
             </div>
         </div>
 </div>
@@ -165,9 +171,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ajayi_emmanuel_d5221dc068/concurrency-christmas-and-the-ultimate-programmer-2hpi" target="_blank">Concurrency, Christmas, and the Ultimate Programmer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-26 19:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18756990&w=600" alt="Inside a Large Retailer’s Web Architecture: Data Extraction and Analytical Insights" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/inside-a-large-retailers-web-architecture" target="_blank">Inside a Large Retailer’s Web Architecture: Data Extraction and Analytical Insights</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-26 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/elena_bennett_5e746b5e3ef/how-faulty-sensors-quietly-break-smart-heating-systems-3kc2" target="_blank">How Faulty Sensors Quietly Break Smart Heating Systems</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-26 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/" target="_blank">WRAP up your backlog with GitHub Copilot coding agent</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-12-26 17:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/old-amdgpu-eoy2025" target="_blank">AMD RDNA3/RDNA4 Go Down Hard On Linux 6.19, But Here&#x27;s How The Older AMD GPUs End Out 2025</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-26 17:28</span>
             </div>
         </div>
 <div class="story">
@@ -177,42 +219,6 @@
                 <span class="title"><a href="https://docs.python.org/3.15/library/profiling.sampling.html" target="_blank">profiling.sampling: Statistical profiler</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-12-26 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/uber-opensearch-vector-semantic/en/headerimage/uber-open-search-semantic-1766761225870.jpeg" alt="Uber Adopts Amazon OpenSearch for Semantic Search to Better Capture User Intent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/uber-opensearch-vector-semantic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Adopts Amazon OpenSearch for Semantic Search to Better Capture User Intent</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Coreboot-25.12-Released" target="_blank">Coreboot 25.12 Released With Qualcomm X1 Plus Platform Support, AMD Turin PoC</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-26 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dev_lenchen/seo-community-update-kiksi-discord-bot-1d8c" target="_blank">🌐 SEO &amp; Community Update - Kiksi Discord Bot</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-26 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/uber-infrastructure-benchmarking/en/headerimage/generatedHeaderImage-1765703494677.jpg" alt="Benchmarking Beyond the Application Layer: How Uber Evaluates Infrastructure Changes and Cloud Skus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/uber-infrastructure-benchmarking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Benchmarking Beyond the Application Layer: How Uber Evaluates Infrastructure Changes and Cloud Skus</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-26 15:00</span>
             </div>
         </div>
 </div>
@@ -241,6 +247,15 @@
                 <span class="title"><a href="https://gizmodo.com/zombie-stars-might-be-a-beacon-in-our-search-for-dark-matter-2000703512" target="_blank">‘Zombie Stars’ Might Be a Beacon in Our Search for Dark Matter</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-26 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/maxresdefault.jpg" alt="Professor Layton Boss Wants People To Stop Demonizing Generative AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721" target="_blank">Professor Layton Boss Wants People To Stop Demonizing Generative AI</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-26 17:52</span>
             </div>
         </div>
 <div class="story">
@@ -277,15 +292,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/26/murderer-appointed-to-salem-oregon-public-safety-role.html" target="_blank">Murderer appointed to Salem, Oregon public safety role</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-26 12:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/cybercab-1280x960.jpg" alt="Comparisons Between Waymo and Tesla Miss How Strange the Robotaxi Race Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/comparisons-between-waymo-and-tesla-miss-how-strange-the-robotaxi-race-is-2000703406" target="_blank">Comparisons Between Waymo and Tesla Miss How Strange the Robotaxi Race Is</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-26 10:30</span>
             </div>
         </div>
 </div>
@@ -325,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
