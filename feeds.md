@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 12:02:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-12-26 13:11:50 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 13:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +109,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/ars-best-games-2025-500x500.jpg" alt="Ars Technica’s Top 20 video games of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/12/ars-technicas-top-20-video-games-of-2025/" target="_blank">Ars Technica’s Top 20 video games of 2025</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-26 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Purple Promo Codes and Deals: Up to 30% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -140,21 +154,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="&#x27;Memory is Running Out, and So Are Excuses For Software Bloat&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025" target="_blank">Hollywood cozied up to AI in 2025 and had nothing good to show for it</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-25 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/614c147c019a56924fab7f67/master/pass/Gear-Set-Up-Elders-Phone-992023140.jpg" alt="How to Set Up a Smartphone for Elderly Loved Ones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-set-up-smartphone-for-parents-grandparents/" target="_blank">How to Set Up a Smartphone for Elderly Loved Ones</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-25 12:30</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://developers.slashdot.org/story/25/12/26/0628235/memory-is-running-out-and-so-are-excuses-for-software-bloat?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">&#x27;Memory is Running Out, and So Are Excuses For Software Bloat&#x27;</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -162,6 +167,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-2025-Highlights" target="_blank">Ubuntu&#x27;s Rust Infatuation, New Optimizations &amp; Other Ubuntu Linux 2025 Highlights</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-26 11:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,20 +221,29 @@
                 <span class="time">2025-12-26 08:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/spotify-product-experiments/en/headerimage/header-bees-1766732965285.jpg" alt="Beyond Win Rates: How Spotify Quantifies Learning in Product Experiments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/spotify-product-experiments/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Beyond Win Rates: How Spotify Quantifies Learning in Product Experiments</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-26 08:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Govee-RGBIC-Cylinder-Floor-Lamp-1280x854.jpg" alt="Govee LED Cylinder Floor Lamp Drops to Its Lowest Price to Clear Out Remaining Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/govee-led-cylinder-floor-lamp-drops-to-its-lowest-price-to-clear-out-remaining-stock-2000655263" target="_blank">Govee LED Cylinder Floor Lamp Drops to Its Lowest Price to Clear Out Remaining Stock</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-26 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Graphics-Caption-3-PHI-11-Kyle-Hedquist.jpg?fit=600%2C400&amp;quality=60&amp;ssl=1" alt="Murderer appointed to Salem, Oregon public safety role" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/26/murderer-appointed-to-salem-oregon-public-safety-role.html" target="_blank">Murderer appointed to Salem, Oregon public safety role</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-26 12:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/cybercab-1280x960.jpg" alt="Comparisons Between Waymo and Tesla Miss How Strange the Robotaxi Race Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,24 +280,6 @@
                 <span class="time">2025-12-25 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Josh-OConnor-Knives-Out-1280x853.jpg" alt="The ‘Star Wars’ Gag in ‘Wake Up Dead Man’ Is Pure Rian Johnson" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/knives-out-star-wars-joke-wake-up-dead-man-rian-johnson-2000702587" target="_blank">The ‘Star Wars’ Gag in ‘Wake Up Dead Man’ Is Pure Rian Johnson</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-25 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/Run-DMC-Christmas-Is-.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Holiday Music" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/25/holiday-music.html" target="_blank">Holiday Music</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-25 17:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 13:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
