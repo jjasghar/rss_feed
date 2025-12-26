@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 09:02:09 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-12-26 10:02:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, December 26, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de68/live/382eb510-e20e-11f0-86ca-d5a596a95198.png" alt="US launches strikes against Islamic State in Nigeria" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss" target="_blank">US launches strikes against Islamic State in Nigeria</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-26 09:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/12/26/exiled-bangladeshi-leader-faces-test-to-prove-his?traffic_source=rss" target="_blank">Exiled Bangladeshi leader faces test to “prove his legitimacy”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-26 09:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cec/live/3088c760-e240-11f0-90c4-a93300c44c63.jpg" alt="Search called off for two swimmers missing at sea" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyd0qn89ryo?at_medium=RSS&at_campaign=rss" target="_blank">Search called off for two swimmers missing at sea</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-26 09:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-christmas-message-britain" target="_blank">Jimmy Kimmel jokes about fascism in an &#x27;alternative Christmas message&#x27; for Britain</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-26 07:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/polish-jets-intercept-russian-reconnaissance-plane-spotted-near-airspace?traffic_source=rss" target="_blank">Polish jets intercept Russian reconnaissance plane spotted near airspace</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-26 03:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/russia-ukraine-war-list-of-key-events-day-1401?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,401</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-26 02:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/25/g-s1-103704/nigeria-isis-islamic-state" target="_blank">President Trump announces strike on ISIS targets in Nigeria</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-26 02:39</span>
             </div>
         </div>
 </div>
@@ -162,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/cachyos-server-edition-plans/" target="_blank">CachyOS Wants to Improve Your Server Performance Now</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-26 09:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/26/containers-are-easy-moving-your-legacy-system-off-your-vm-is-not/" target="_blank">Containers are easy—moving your legacy system off your VM is not</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-26 08:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/12/spotify-product-experiments/en/headerimage/header-bees-1766732965285.jpg" alt="Beyond Win Rates: How Spotify Quantifies Learning in Product Experiments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -195,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/sangharsh_more_50994ab1ac/confuse-about-how-to-start-os-5e9f" target="_blank">Confuse About how to start OS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-26 04:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/github-isnt-just-for-code-anymore-its-the-backbone-of-ai-workflows-30cg" target="_blank">GitHub Isn’t Just for Code Anymore: It’s the Backbone of AI Workflows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-26 04:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kolkov/gpu-compute-shaders-in-pure-go-gogpugg-v0150-1cjk" target="_blank">GPU Compute Shaders in Pure Go: gogpu/gg v0.15.0</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-26 02:13</span>
             </div>
         </div>
 </div>
@@ -293,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
