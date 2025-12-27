@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 04:09:01 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-27 05:02:36 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 1 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 04:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nvdigital/a-thank-you-to-wordpress-open-source-and-a-little-thing-ive-been-building-41f2" target="_blank">A Thank You to WordPress, open source – and a little thing I’ve been building</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-27 04:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bibimbop123/fitness-equation-11262025-2cba" target="_blank">Fitness equation 11/26/2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-27 04:01</span>
@@ -203,15 +216,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/turntable-linux-desktop-media-controls" target="_blank">Turntable Adds Collapsible Player Controls, End of Year Recap</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-12-26 23:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html" target="_blank">&quot;Enabling&quot; C threads in a Python / Wasm environment</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-26 21:42</span>
             </div>
         </div>
 </div>
@@ -328,22 +332,13 @@
                 <span class="time">2025-12-26 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/truly_universal_outlet.png" alt="Truly Universal Outlet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3186/" target="_blank">Truly Universal Outlet</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-12-26 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 04:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
