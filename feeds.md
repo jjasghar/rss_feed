@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 11:01:32 UTC -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-12-27 12:02:22 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/new-york-city-snow_1766834805460_hpMain_4x3t_384.jpg" alt="Winter weather hits Northeast as new storm system moves across country" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/winter-weather-hits-northeast-new-storm-system-moves/story?id=128717878" target="_blank">Winter weather hits Northeast as new storm system moves across country</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-27 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1309/live/b60e1310-e306-11f0-a8dc-93c15fe68710.jpg" alt="Treasury to cover Bayeux Tapestry for estimated £800m" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c79x21wdlgeo?at_medium=RSS&at_campaign=rss" target="_blank">Treasury to cover Bayeux Tapestry for estimated £800m</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-27 10:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,39 +84,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cca8/live/9d97b1a0-e2f3-11f0-b67b-690eb873de1b.jpg" alt="Thousands without power in Kyiv after massive Russian attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss" target="_blank">Thousands without power in Kyiv after massive Russian attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-27 09:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5398/live/82578fc0-e30a-11f0-8357-83bb2c91d8e1.jpg" alt="Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss" target="_blank">Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-27 09:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/27/turkiye-holds-military-ceremony-for-libyan-army-chief-killed-in-crash?traffic_source=rss" target="_blank">Turkiye holds military ceremony for Libyan army chief killed in crash</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-27 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/27/guinea-junta-leader-mamady-doumbouya-frontrunner-president-election" target="_blank">Opposition anger as Guinea’s junta leader is frontrunner to be elected president</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-27 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-natthaphon-narkphanit_7119831.jpg?20251227070303" alt="Thailand and Cambodia sign ceasefire agreement after weeks of intense fighting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/thailand-and-cambodia-sign-ceasefire-agreement-after-weeks-of-intense-fighting-13487680" target="_blank">Thailand and Cambodia sign ceasefire agreement after weeks of intense fighting</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-27 06:52</span>
             </div>
         </div>
 </div>
@@ -173,9 +169,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ibrahimsezer/i-built-my-portfolio-as-a-computer-engineer-roast-my-design-1d36" target="_blank">I built my Portfolio as a Computer Engineer. Roast my design! 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-27 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Highlights-2025" target="_blank">Linux Kernel Highlights For 2025: Schedulers, Rust &amp; Torvalds&#x27; Commentary</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-27 11:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jennifer_grace_109e4104a5/i-analyzed-1000-deals-here-is-why-engineers-fail-at-fundraising-and-how-i-fixed-it-40d3" target="_blank">I analyzed 1,000+ deals. Here is why Engineers fail at fundraising (and how I fixed it).</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-27 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS Launches Network Firewall Proxy in Preview to Simplify Managed Egress Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/aws-network-firewall-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Network Firewall Proxy in Preview to Simplify Managed Egress Security</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-27 10:16</span>
             </div>
         </div>
 <div class="story">
@@ -194,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/ritwick_mondal_553e0d0ceb/trafficllm-why-llms-are-becoming-essential-for-encrypted-network-traffic-analysis-dec" target="_blank">TrafficLLM: Why LLMs Are Becoming Essential for Encrypted Network Traffic Analysis</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-27 08:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/quic-http3-rust/en/headerimage/header-space-1766813469445.jpg" alt="Cloudflare Open Sources tokio‑quiche, Promising Easier QUIC and HTTP/3 in Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/quic-http3-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Open Sources tokio‑quiche, Promising Easier QUIC and HTTP/3 in Rust</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-27 08:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codeaholicguy/prompts-are-becoming-code-but-we-still-treat-them-like-strings-4o1j" target="_blank">Prompts are becoming Code, but we still treat them like Strings</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-27 07:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shaidozzaman_araf_42d0c98/pippaquiz-building-the-first-step-toward-smarter-education-3bn0" target="_blank">PippaQuiz: Building the First Step Toward Smarter Education</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-27 06:49</span>
             </div>
         </div>
 </div>
@@ -333,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
