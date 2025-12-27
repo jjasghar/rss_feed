@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 19:01:18 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-27 20:01:32 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,9 +46,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/12/27/do-donald-trumps-strikes-in-nigeria-serve-any-purpose?traffic_source=rss" target="_blank">Do Donald Trump’s strikes in Nigeria serve any purpose?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-27 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/27/israels-recognition-of-somaliland-slammed-across-world-capitals?traffic_source=rss" target="_blank">Israel’s recognition of Somaliland slammed across world capitals</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-27 18:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-volodymyr-zelenskyy_6994104.jpg?20250818014812" alt="Ukraine peace talks: What are the major issues remaining as Zelenskyy prepares to meet Trump?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ukraine-peace-talks-what-are-the-major-issues-remaining-as-zelenskyy-prepares-to-meet-trump-13487781" target="_blank">Ukraine peace talks: What are the major issues remaining as Zelenskyy prepares to meet Trump?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-27 15:45</span>
             </div>
         </div>
 <div class="story">
@@ -85,24 +96,6 @@
                 <span class="time">2025-12-27 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/27/video-nigerians-in-village-bombed-by-us-describe-what-happened?traffic_source=rss" target="_blank">Video: Nigerians in village bombed by US describe what happened</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-27 12:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/new-york-city-snow_1766834805460_hpMain_4x3t_384.jpg" alt="Winter weather hits Northeast as new storm system moves across country" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/winter-weather-hits-northeast-new-storm-system-moves/story?id=128717878" target="_blank">Winter weather hits Northeast as new storm system moves across country</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-27 11:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +107,15 @@
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness" target="_blank">Sam Altman is hiring someone to worry about the dangers of AI</a></span>
                 <span class="feed">The Verge</span>
+                <span class="time">2025-12-27 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/27/investors-share-what-to-remember-while-raising-a-series-a/" target="_blank">Investors share what to remember while raising a Series A</a></span>
+                <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-27 19:00</span>
             </div>
         </div>
@@ -151,15 +153,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/12/27/the-22-top-clean-tech-and-energy-startups-from-disrupt-startup-battlefield/" target="_blank">The 22 top clean tech and energy startups from Disrupt Startup Battlefield</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-27 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve" target="_blank">8 great games for your Steam Deck from 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-27 13:00</span>
             </div>
         </div>
 </div>
@@ -241,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/wonder-woman-1984_game-1280x853.jpg" alt="Why Is Wonder Woman Like This?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/why-is-wonder-woman-like-this-2000702225" target="_blank">Why Is Wonder Woman Like This?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-27 19:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/cavill-superman--1280x853.jpg" alt="Zack Snyder Reveals Henry Cavill in the Reeves Superman Suit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -285,15 +287,6 @@
                 <span class="time">2025-12-27 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-Netflix.jpg?fit=1080%2C652&amp;quality=60&amp;ssl=1" alt="Nicolas Cage is football legend John Madden" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/27/nicolas-cage-is-football-legend-john-madden.html" target="_blank">Nicolas Cage is football legend John Madden</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-27 13:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 252 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 251 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
