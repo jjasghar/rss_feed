@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 13:09:27 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-27 14:01:39 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/27/nx-s1-5648404/opinion-the-best-gift-we-can-give-the-departed-is-to-keep-their-sparkle-alive" target="_blank">Opinion: The best gift we can give the departed is to keep their sparkle alive</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-27 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +96,20 @@
                 <span class="time">2025-12-27 10:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cca8/live/9d97b1a0-e2f3-11f0-b67b-690eb873de1b.jpg" alt="Thousands without power in Kyiv after massive Russian attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss" target="_blank">Thousands without power in Kyiv after massive Russian attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-27 09:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve" target="_blank">8 great games for your Steam Deck from 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-27 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69408c61cee321741285f37c/master/pass/WIRED-WORLD-DRONE-WARFARE.jpg" alt="The US Must Stop Underestimating Drone Warfare" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +155,20 @@
                 <span class="time">2025-12-26 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/850398/rodeo-hinge-social-app-friends" target="_blank">Rodeo is an app for making plans with friends you already have</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-26 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prakashm88/open-source-a-friendly-guide-for-new-developers-4mn5" target="_blank">Open Source: A Friendly Guide for New Developers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-27 13:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +214,6 @@
                 <span class="time">2025-12-27 08:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ritwick_mondal_553e0d0ceb/trafficllm-why-llms-are-becoming-essential-for-encrypted-network-traffic-analysis-dec" target="_blank">TrafficLLM: Why LLMs Are Becoming Essential for Encrypted Network Traffic Analysis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-27 08:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-Netflix.jpg?fit=1080%2C652&amp;quality=60&amp;ssl=1" alt="Nicolas Cage is football legend John Madden" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/27/nicolas-cage-is-football-legend-john-madden.html" target="_blank">Nicolas Cage is football legend John Madden</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-27 13:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/50166716386_570f86b865_b-e1761320178927.jpg?fit=768%2C432&amp;quality=60&amp;ssl=1" alt="Bethesda is already overpromising for Fallout 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +287,6 @@
                 <span class="time">2025-12-26 21:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/NGC-2392-chandra-1280x853.jpg" alt="‘Zombie Stars’ Might Be a Beacon in Our Search for Dark Matter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/zombie-stars-might-be-a-beacon-in-our-search-for-dark-matter-2000703512" target="_blank">‘Zombie Stars’ Might Be a Beacon in Our Search for Dark Matter</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-26 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 253 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
