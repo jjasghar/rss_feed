@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 07:01:56 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-27 08:02:13 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 1 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -172,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codeaholicguy/prompts-are-becoming-code-but-we-still-treat-them-like-strings-4o1j" target="_blank">Prompts are becoming Code, but we still treat them like Strings</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-27 07:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shaidozzaman_araf_42d0c98/pippaquiz-building-the-first-step-toward-smarter-education-3bn0" target="_blank">PippaQuiz: Building the First Step Toward Smarter Education</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-27 06:49</span>
@@ -211,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/hobbada/debugging-nodejs-memory-leaks-a-complete-troubleshooting-guide-with-real-world-examples-ohm" target="_blank">Debugging Node.js Memory Leaks: A Complete Troubleshooting Guide with Real-World Examples</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-27 01:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/turntable-2.jpg?resize=406%2C232&amp;ssl=1" alt="Turntable 5.0 Adds Collapsible Player Controls &amp; Year-End Recap" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/turntable-linux-desktop-media-controls" target="_blank">Turntable 5.0 Adds Collapsible Player Controls &amp; Year-End Recap</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-26 23:54</span>
             </div>
         </div>
 </div>
@@ -327,22 +320,13 @@
                 <span class="time">2025-12-26 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/26/when-they-go-low" target="_blank">When They Go Low</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-26 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
