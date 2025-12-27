@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 15:01:54 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-27 16:01:28 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 15:02 UTC</div>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,10 +108,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/27/the-22-top-clean-tech-and-energy-startups-from-disrupt-startup-battlefield/" target="_blank">The 22 top clean tech and energy startups from Disrupt Startup Battlefield</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-27 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve" target="_blank">8 great games for your Steam Deck from 2025</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-12-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/694c984bad26396d91c755f1/master/pass/Hyperkin%20Competitor%20Controller%20top%20art%20122025%20SOURCE%20Amazon.jpg" alt="Hyperkin The Competitor Controller Review: A DualSense Copycat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/hyperkin-the-competitor-controller/" target="_blank">Hyperkin The Competitor Controller Review: A DualSense Copycat</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-27 12:30</span>
             </div>
         </div>
 <div class="story">
@@ -135,29 +159,20 @@
                 <span class="time">2025-12-26 22:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center" target="_blank">Trump’s war on offshore wind faces another lawsuit</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-26 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/26/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/" target="_blank">As people look for ways to make new friends, here are the apps promising to help</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-26 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cleiton_augusto_/implementing-adaptive-backpressure-in-rust-with-flowguard-1iof" target="_blank">Implementing Adaptive Backpressure in Rust with FlowGuard</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-27 15:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/jennifer_grace_109e4104a5/i-analyzed-1000-deals-here-is-why-engineers-fail-at-fundraising-and-how-i-fixed-it-40d3" target="_blank">I analyzed 1,000+ deals. Here is why Engineers fail at fundraising (and how I fixed it).</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-27 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS Launches Network Firewall Proxy in Preview to Simplify Managed Egress Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/aws-network-firewall-proxy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Network Firewall Proxy in Preview to Simplify Managed Egress Security</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-27 10:16</span>
             </div>
         </div>
 </div>
@@ -313,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 253 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
