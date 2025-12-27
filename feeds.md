@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 02:31:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-27 03:28:22 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +57,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/27/n-korea-russia-bound-in-blood-of-war-kim-tells-putin-in-new-year-note?traffic_source=rss" target="_blank">N Korea, Russia bound in ‘blood’ of war, Kim tells Putin in New Year note</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-27 01:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-adams-clinton-good-friday_7119819.jpg?20251227025900" alt="Clinton told to to avoid public handshake with Gerry Adams, records show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/clinton-told-to-to-avoid-public-handshake-with-gerry-adams-records-show-13487676" target="_blank">Clinton told to to avoid public handshake with Gerry Adams, records show</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-27 01:17</span>
             </div>
         </div>
 <div class="story">
@@ -89,15 +102,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/white-house-press-secretary-karoline-leavitt-announces-shes/story?id=128709670" target="_blank">White House press secretary Karoline Leavitt announces she&#x27;s pregnant</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-26 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/new-york-to-require-social-media-platforms-to-display-mental-health-labels?traffic_source=rss" target="_blank">New York to require social media platforms to display mental health labels</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-26 20:17</span>
             </div>
         </div>
 </div>
@@ -167,6 +171,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop" target="_blank">QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-27 02:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hobbada/debugging-nodejs-memory-leaks-a-complete-troubleshooting-guide-with-real-world-examples-ohm" target="_blank">Debugging Node.js Memory Leaks: A Complete Troubleshooting Guide with Real-World Examples</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-11.0-rc4-Released" target="_blank">Wine 11.0-rc4 Brings 22 Bug Fixes</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-26 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18805732&w=600" alt="Optimizing Java Applications for Arm64 in the Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/optimizing-java-arm64-cloud-applications" target="_blank">Optimizing Java Applications for Arm64 in the Cloud</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-26 21:00</span>
             </div>
         </div>
 </div>
@@ -347,7 +351,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 02:31 UTC
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
