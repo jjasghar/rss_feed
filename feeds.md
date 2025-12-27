@@ -1,43 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-26 23:01:48 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-27 00:04:54 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 35 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, December 26, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -172,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/turntable-hide-controller.gif?resize=406%2C232&amp;ssl=1" alt="Turntable Adds Collapsible Player Controls, End of Year Recap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/turntable-linux-desktop-media-controls" target="_blank">Turntable Adds Collapsible Player Controls, End of Year Recap</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-26 23:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html" target="_blank">&quot;Enabling&quot; C threads in a Python / Wasm environment</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-26 21:42</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -205,24 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/inside-a-large-retailers-web-architecture" target="_blank">Inside a Large Retailer’s Web Architecture: Data Extraction and Analytical Insights</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-26 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elena_bennett_5e746b5e3ef/how-faulty-sensors-quietly-break-smart-heating-systems-3kc2" target="_blank">How Faulty Sensors Quietly Break Smart Heating Systems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-26 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/" target="_blank">WRAP up your backlog with GitHub Copilot coding agent</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-12-26 17:56</span>
             </div>
         </div>
 </div>
@@ -263,6 +253,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/WickedforGood-2-1280x853.jpg" alt="‘Wicked: For Good’ Comes Home Next Week With a Bubble Full of Extras" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wicked-for-good-comes-home-next-week-with-a-bubble-full-of-extras-2000703673" target="_blank">‘Wicked: For Good’ Comes Home Next Week With a Bubble Full of Extras</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-26 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Microsoft Office and Windows 11 Pro for $39.97 sounds fake, but isn&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -296,15 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721" target="_blank">Professor Layton Boss Wants People To Stop Demonizing Generative AI</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-26 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_reviewart-1280x853.jpg" alt="The New ‘Stranger Things’ Episodes Chart a Propulsive Path to the Finale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-new-stranger-things-episodes-chart-a-propulsive-path-to-the-finale-2000703283" target="_blank">The New ‘Stranger Things’ Episodes Chart a Propulsive Path to the Finale</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-26 16:35</span>
             </div>
         </div>
 </div>
@@ -344,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 95 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
