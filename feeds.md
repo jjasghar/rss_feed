@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 00:04:54 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-12-27 01:29:40 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766792436003_nn_sbr_snow_travel_251226_1920x1080-85yb0r.jpg" alt="Snowstorm scrubs thousands of flights during busy travel weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/snowstorm-scrubs-thousands-of-flights-during-busy-travel-weekend-255051333795" target="_blank">Snowstorm scrubs thousands of flights during busy travel weekend</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-26 23:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/snow-2-abc-gmh-251226_1766781126349_hpMain_4x3t_384.jpg" alt="Flights canceled as dangerous snowstorm hits NYC area" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/dangerous-snowstorm-hitting-nyc-new-jersey-upstate-new/story?id=128702220" target="_blank">Flights canceled as dangerous snowstorm hits NYC area</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-26 22:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cdrn84d0k82o?at_medium=RSS&at_campaign=rss" target="_blank">Family of man missing at sea pay tribute</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-26 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/central-park-snow-gty-jef-251226_1766756408550_hpMain_4x3t_384.jpg" alt="Dangerous snowstorm coming to NYC area; over 1,000 flights canceled" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/dangerous-snowstorm-hitting-nyc-new-jersey-upstate-new/story?id=128702220" target="_blank">Dangerous snowstorm coming to NYC area; over 1,000 flights canceled</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-26 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-paris-metro_7119707.jpg?20251226183817" alt="Three women stabbed in Paris metro stations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/three-women-stabbed-in-paris-metro-stations-13487619" target="_blank">Three women stabbed in Paris metro stations</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-26 18:18</span>
             </div>
         </div>
 </div>
@@ -303,6 +307,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/26/when-they-go-low" target="_blank">When They Go Low</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-26 23:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1766630571-20251226 - Edit.png" alt="Saturday Morning Breakfast Cereal - Content" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -334,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 95 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
