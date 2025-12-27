@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 10:01:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-12-27 11:01:32 UTC -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/27/england-win-chaotic-fourth-ashes-test-against-australia-in-melbourne?traffic_source=rss" target="_blank">England win chaotic fourth Ashes Test against Australia in Melbourne</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-27 10:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-yokohama-company-stabbing_7119369.jpg?20251226104854" alt="Fifteen injured in knife and chemical attack at tyre factory in Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/15-injured-in-knife-and-chemical-attack-at-tyre-factory-in-japan-13487702" target="_blank">Fifteen injured in knife and chemical attack at tyre factory in Japan</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-27 10:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5398/live/82578fc0-e30a-11f0-8357-83bb2c91d8e1.jpg" alt="Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss" target="_blank">Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-27 09:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +105,20 @@
                 <span class="time">2025-12-27 06:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/27/uk-youth-to-be-offered-military-gap-year-in-bid-to-boost-defence-report?traffic_source=rss" target="_blank">UK youth to be offered military ‘gap year’ in bid to boost defence: Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-27 06:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f867/live/69993ef0-e2ee-11f0-85c1-e3c7fad28bff.jpg" alt="Thailand and Cambodia agree ceasefire after weeks of deadly clashes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0q5je8048xo?at_medium=RSS&at_campaign=rss" target="_blank">Thailand and Cambodia agree ceasefire after weeks of deadly clashes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-27 05:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/27/russia-using-belarus-territory-to-bypass-ukraines-defences-says?traffic_source=rss" target="_blank">Russia using Belarus territory to bypass Ukraine’s defences, says Zelenskyy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-27 03:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69408c61cee321741285f37c/master/pass/WIRED-WORLD-DRONE-WARFARE.jpg" alt="The US Must Stop Underestimating Drone Warfare" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-us-must-stop-underestimating-drone-warfare/" target="_blank">The US Must Stop Underestimating Drone Warfare</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-27 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="HelloFresh Coupon Codes: 55% Off + Free Meals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +164,20 @@
                 <span class="time">2025-12-26 18:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/26/nawares-chemical-free-weed-killer-tech-could-change-how-we-treat-lawns/" target="_blank">Naware’s chemical-free weed killer tech could change how we treat lawns</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-26 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jennifer_grace_109e4104a5/i-analyzed-1000-deals-here-is-why-engineers-fail-at-fundraising-and-how-i-fixed-it-40d3" target="_blank">I analyzed 1,000+ deals. Here is why Engineers fail at fundraising (and how I fixed it).</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-27 10:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/shaidozzaman_araf_42d0c98/pippaquiz-building-the-first-step-toward-smarter-education-3bn0" target="_blank">PippaQuiz: Building the First Step Toward Smarter Education</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-27 06:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nvdigital/a-thank-you-to-wordpress-open-source-and-a-little-thing-ive-been-building-41f2" target="_blank">A Thank You to WordPress, open source – and a little thing I’ve been building</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-27 04:55</span>
             </div>
         </div>
 </div>
@@ -325,7 +334,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 10:01 UTC
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
