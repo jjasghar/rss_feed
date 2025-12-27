@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 20:01:32 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-27 21:01:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/27/g-s1-103808/kennedy-center-lawsuit-chuck-redd-cancellation-trump" target="_blank">Kennedy Center vows to sue musician who canceled performance over Trump name change</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-27 19:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/256f/live/2e8fdce0-e359-11f0-aae2-2191c0e48a3b.jpg" alt="Attack on Kyiv shows &#x27;Russia doesn&#x27;t want peace&#x27;, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss" target="_blank">Attack on Kyiv shows &#x27;Russia doesn&#x27;t want peace&#x27;, Zelensky says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-27 19:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/27/g-s1-102502/best-global-photo-stories-from-2025" target="_blank">Our top global photo stories from 2025: Fearless women, solo polar bear, healing soups</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-27 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/27/investigation-after-jet-carrying-libyan-officers-crashes-in-turkiye?traffic_source=rss" target="_blank">Investigation after jet carrying Libyan officers crashes in Turkiye</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-27 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/27/nx-s1-5648404/opinion-the-best-gift-we-can-give-the-departed-is-to-keep-their-sparkle-alive" target="_blank">Opinion: The best gift we can give the departed is to keep their sparkle alive</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-27 13:00</span>
             </div>
         </div>
 </div>
@@ -163,6 +172,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/HarfBuzz-12.3-Released" target="_blank">HarfBuzz 12.3 Released - Nice Performance Improvements To This Text Shaping Engine</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-27 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oculus42/chaos-proxy-javascript-shenanigans-4e5e" target="_blank">Chaos Proxy: JavaScript Shenanigans</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-27 20:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/pinta-3-1-released-new-axonometric-grids" target="_blank">Pinta 3.1 Goes Stable with Axonometric Grids</a></span>
                 <span class="feed">OMG! Ubuntu</span>
@@ -194,24 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-2025-Code-Stats" target="_blank">44% Of GNOME Core Apps Are Written In C, 13% In JavaScript &amp; 10% In Rust</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-27 14:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prakashm88/open-source-a-friendly-guide-for-new-developers-4mn5" target="_blank">Open Source: A Friendly Guide for New Developers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-27 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/apple/ml-sharp" target="_blank">Apple releases open-source model that instantly turns 2D photos into 3D views</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-27 12:58</span>
             </div>
         </div>
 </div>
@@ -315,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 251 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 250 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
