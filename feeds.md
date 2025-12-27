@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 14:01:39 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-27 15:01:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/27/investigation-after-jet-carrying-libyan-officers-crashes-in-turkiye?traffic_source=rss" target="_blank">Investigation after jet carrying Libyan officers crashes in Turkiye</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-27 14:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/27/england-win-chaotic-fourth-ashes-test-against-australia-in-melbourne?traffic_source=rss" target="_blank">England win chaotic fourth Ashes Test against Australia in Melbourne</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-27 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-yokohama-company-stabbing_7119369.jpg?20251226104854" alt="Fifteen injured in knife and chemical attack at tyre factory in Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/15-injured-in-knife-and-chemical-attack-at-tyre-factory-in-japan-13487702" target="_blank">Fifteen injured in knife and chemical attack at tyre factory in Japan</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-27 10:16</span>
             </div>
         </div>
 </div>
@@ -163,6 +161,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-2025-Code-Stats" target="_blank">44% Of GNOME Core Apps Are Written In C, 13% In JavaScript &amp; 10% In Rust</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-27 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/prakashm88/open-source-a-friendly-guide-for-new-developers-4mn5" target="_blank">Open Source: A Friendly Guide for New Developers</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +212,6 @@
                 <span class="time">2025-12-27 10:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://npmjs.com/package/ezff" target="_blank">Show HN: Ez FFmpeg – Video editing in plain English</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-27 08:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/shutterstock_2086114204.jpg?fit=2031%2C1357&amp;quality=60&amp;ssl=1" alt="Florida Salvation Army bell ringer attacks store manager with donation tripod" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/27/florida-salvation-army-bell-ringer-attacks-store-manager-with-donation-tripod.html" target="_blank">Florida Salvation Army bell ringer attacks store manager with donation tripod</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-27 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/aang-avatar-state-1280x853.jpg" alt="‘Last Airbender’ Fans Will Fight to See Their ‘Avatar’ in Theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/last-airbender-fans-will-fight-to-see-their-avatar-in-theaters-2000703727" target="_blank">‘Last Airbender’ Fans Will Fight to See Their ‘Avatar’ in Theaters</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-27 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-Netflix.jpg?fit=1080%2C652&amp;quality=60&amp;ssl=1" alt="Nicolas Cage is football legend John Madden" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +285,6 @@
                 <span class="time">2025-12-26 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Microsoft Office and Windows 11 Pro for $39.97 sounds fake, but isn&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/26/microsoft-office-and-windows-11-pro-for-39-97-sounds-fake-but-isnt.html" target="_blank">Microsoft Office and Windows 11 Pro for $39.97 sounds fake, but isn&#x27;t</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-26 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Divinity-og-2-1280x732.jpg" alt="There Are Still Some Surprisingly Good Deals On A Few Killer Switch Games Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/switch-eshop-discounts-rpg-roguelike-indie-2000655765" target="_blank">There Are Still Some Surprisingly Good Deals On A Few Killer Switch Games Right Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-26 21:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 253 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
