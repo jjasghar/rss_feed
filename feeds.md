@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 01:29:40 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-27 02:31:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/27/n-korea-russia-bound-in-blood-of-war-kim-tells-putin-in-new-year-note?traffic_source=rss" target="_blank">N Korea, Russia bound in ‘blood’ of war, Kim tells Putin in New Year note</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-27 01:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766792436003_nn_sbr_snow_travel_251226_1920x1080-85yb0r.jpg" alt="Snowstorm scrubs thousands of flights during busy travel weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/26/new-york-to-require-social-media-platforms-to-display-mental-health-labels?traffic_source=rss" target="_blank">New York to require social media platforms to display mental health labels</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-26 20:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0925/live/5e5e9430-e290-11f0-b67b-690eb873de1b.jpg" alt="Family of man missing at sea pay tribute" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdrn84d0k82o?at_medium=RSS&at_campaign=rss" target="_blank">Family of man missing at sea pay tribute</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-26 19:28</span>
             </div>
         </div>
 </div>
@@ -166,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hobbada/debugging-nodejs-memory-leaks-a-complete-troubleshooting-guide-with-real-world-examples-ohm" target="_blank">Debugging Node.js Memory Leaks: A Complete Troubleshooting Guide with Real-World Examples</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-27 01:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/turntable-2.jpg?resize=406%2C232&amp;ssl=1" alt="Turntable 5.0 Adds Collapsible Player Controls &amp; Year-End Recap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/turntable-linux-desktop-media-controls" target="_blank">Turntable 5.0 Adds Collapsible Player Controls &amp; Year-End Recap</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-26 23:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/turntable-hide-controller.gif?resize=406%2C232&amp;ssl=1" alt="Turntable Adds Collapsible Player Controls, End of Year Recap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -199,24 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/optimizing-java-arm64-cloud-applications" target="_blank">Optimizing Java Applications for Arm64 in the Cloud</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-26 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ajayi_emmanuel_d5221dc068/concurrency-christmas-and-the-ultimate-programmer-2hpi" target="_blank">Concurrency, Christmas, and the Ultimate Programmer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-26 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18756990&w=600" alt="Inside a Large Retailer’s Web Architecture: Data Extraction and Analytical Insights" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/inside-a-large-retailers-web-architecture" target="_blank">Inside a Large Retailer’s Web Architecture: Data Extraction and Analytical Insights</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-26 19:00</span>
             </div>
         </div>
 </div>
@@ -347,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
