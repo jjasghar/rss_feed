@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 21:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-27 22:01:38 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/27/iran-president-says-us-israel-europe-waging-full-fledged-war-on-country?traffic_source=rss" target="_blank">Iran president says US, Israel, Europe waging ‘full-fledged war’ on country</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-27 21:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +100,6 @@
                 <span class="title"><a href="https://news.sky.com/story/ukraine-peace-talks-what-are-the-major-issues-remaining-as-zelenskyy-prepares-to-meet-trump-13487781" target="_blank">Ukraine peace talks: What are the major issues remaining as Zelenskyy prepares to meet Trump?</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-12-27 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/27/g-s1-102502/best-global-photo-stories-from-2025" target="_blank">Our top global photo stories from 2025: Fearless women, solo polar bear, healing soups</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-27 15:32</span>
             </div>
         </div>
 </div>
@@ -172,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/techresolve/solved-the-engineering-problem-or-what-to-do-if-you-dont-know-how-to-talk-to-people-23ai" target="_blank">Solved: The engineering problem, or what to do if you don’t know how to talk to people?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-27 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/HarfBuzz-12.3-Released" target="_blank">HarfBuzz 12.3 Released - Nice Performance Improvements To This Text Shaping Engine</a></span>
                 <span class="feed">Phoronix</span>
@@ -190,8 +196,17 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ploum.net/2025-12-15-communication-entertainment.html" target="_blank">How we lost communication to entertainment</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-27 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/pinta-3.1.jpg?resize=406%2C232&amp;ssl=1" alt="Pinta 3.1 is Out with Axonometric Grids, Marching Ants + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/pinta-3-1-released-new-axonometric-grids" target="_blank">Pinta 3.1 Goes Stable with Axonometric Grids</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/pinta-3-1-released-new-axonometric-grids" target="_blank">Pinta 3.1 is Out with Axonometric Grids, Marching Ants + More</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-12-27 18:43</span>
             </div>
@@ -199,28 +214,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a" target="_blank">Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75%</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-27 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cleiton_augusto_/implementing-adaptive-backpressure-in-rust-with-flowguard-1iof" target="_blank">Implementing Adaptive Backpressure in Rust with FlowGuard</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-27 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-2025-Code-Stats" target="_blank">44% Of GNOME Core Apps Are Written In C, 13% In JavaScript &amp; 10% In Rust</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-27 14:44</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/pinta-3-1-released-new-axonometric-grids" target="_blank">Pinta 3.1 Goes Stable with Axonometric Grids</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-27 18:43</span>
             </div>
         </div>
 </div>
@@ -242,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/tim-nelson-cap4-1280x853.jpg" alt="Tim Blake Nelson Wrote a Novel About Superhero Actors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tim-blake-nelson-wrote-a-novel-about-superhero-actors-2000703760" target="_blank">Tim Blake Nelson Wrote a Novel About Superhero Actors</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-27 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/wonder-woman-1984_game-1280x853.jpg" alt="Why Is Wonder Woman Like This?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +293,6 @@
                 <span class="time">2025-12-27 14:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/aang-avatar-state-1280x853.jpg" alt="‘Last Airbender’ Fans Will Fight to See Their ‘Avatar’ in Theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/last-airbender-fans-will-fight-to-see-their-avatar-in-theaters-2000703727" target="_blank">‘Last Airbender’ Fans Will Fight to See Their ‘Avatar’ in Theaters</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-27 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 250 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 249 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
