@@ -1,27 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 18:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-27 19:01:18 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/27/israels-recognition-of-somaliland-slammed-across-world-capitals?traffic_source=rss" target="_blank">Israel’s recognition of Somaliland slammed across world capitals</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-27 18:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +103,6 @@
                 <span class="time">2025-12-27 11:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251224-zohran-mamdani-vl-1014p-9b7ea7.jpg" alt="The fight for young men intensifies ahead of the 2026 midterm elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/fight-young-men-2026-midterm-elections-rcna249513" target="_blank">The fight for young men intensifies ahead of the 2026 midterm elections</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-27 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -99,10 +111,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness" target="_blank">Sam Altman is hiring someone to worry about the dangers of AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-27 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/27/meet-the-team-that-investigates-when-journalists-and-activists-get-hacked-with-government-spyware/" target="_blank">Meet the team that investigates when journalists and activists get hacked with government spyware</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-27 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/694480ef71df75a242dba662/master/pass/Super%20Saturday%20Deals%202025.jpg" alt="The Best After-Christmas Deals on Gear We&#x27;ve Tested (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/after-christmas-deals-2025/" target="_blank">The Best After-Christmas Deals on Gear We&#x27;ve Tested (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-27 16:42</span>
             </div>
         </div>
 <div class="story">
@@ -132,29 +162,20 @@
                 <span class="time">2025-12-27 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/694c984bad26396d91c755f1/master/pass/Hyperkin%20Competitor%20Controller%20top%20art%20122025%20SOURCE%20Amazon.jpg" alt="Hyperkin The Competitor Controller Review: A DualSense Copycat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/hyperkin-the-competitor-controller/" target="_blank">Hyperkin The Competitor Controller Review: A DualSense Copycat</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-27 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69408c61cee321741285f37c/master/pass/WIRED-WORLD-DRONE-WARFARE.jpg" alt="The US Must Stop Underestimating Drone Warfare" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-us-must-stop-underestimating-drone-warfare/" target="_blank">The US Must Stop Underestimating Drone Warfare</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-27 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/pinta-3-1-released-new-axonometric-grids" target="_blank">Pinta 3.1 Goes Stable with Axonometric Grids</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-27 18:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,15 +221,6 @@
                 <span class="time">2025-12-27 12:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ibrahimsezer/i-built-my-portfolio-as-a-computer-engineer-roast-my-design-1d36" target="_blank">I built my Portfolio as a Computer Engineer. Roast my design! 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-27 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/cavill-superman--1280x853.jpg" alt="Zack Snyder Reveals Henry Cavill in the Reeves Superman Suit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/zack-snyder-reveals-henry-cavill-in-the-reeves-superman-suit-2000703752" target="_blank">Zack Snyder Reveals Henry Cavill in the Reeves Superman Suit</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-27 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/peter-thiel-1280x862.jpg" alt="California Might Tax Billionaires. Cue the Inevitable Tech Billionaire Tantrum" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +294,6 @@
                 <span class="time">2025-12-27 13:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/50166716386_570f86b865_b-e1761320178927.jpg?fit=768%2C432&amp;quality=60&amp;ssl=1" alt="Bethesda is already overpromising for Fallout 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/26/bethesda-is-already-overpromising-for-fallout-5.html" target="_blank">Bethesda is already overpromising for Fallout 5</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-27 01:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 252 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
