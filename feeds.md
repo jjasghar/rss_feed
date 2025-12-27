@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 08:02:13 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-27 09:01:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/27/guinea-junta-leader-mamady-doumbouya-frontrunner-president-election" target="_blank">Opposition anger as Guinea’s junta leader is frontrunner to be elected president</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-27 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +98,6 @@
                 <span class="title"><a href="https://news.sky.com/story/clinton-told-to-to-avoid-public-handshake-with-gerry-adams-records-show-13487676" target="_blank">Clinton told to to avoid public handshake with Gerry Adams, records show</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-12-27 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766792436003_nn_sbr_snow_travel_251226_1920x1080-85yb0r.jpg" alt="Snowstorm scrubs thousands of flights during busy travel weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/snowstorm-scrubs-thousands-of-flights-during-busy-travel-weekend-255051333795" target="_blank">Snowstorm scrubs thousands of flights during busy travel weekend</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-26 23:40</span>
             </div>
         </div>
 </div>
@@ -165,6 +168,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ritwick_mondal_553e0d0ceb/trafficllm-why-llms-are-becoming-essential-for-encrypted-network-traffic-analysis-dec" target="_blank">TrafficLLM: Why LLMs Are Becoming Essential for Encrypted Network Traffic Analysis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-27 08:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/quic-http3-rust/en/headerimage/header-space-1766813469445.jpg" alt="Cloudflare Open Sources tokio‑quiche, Promising Easier QUIC and HTTP/3 in Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/quic-http3-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Open Sources tokio‑quiche, Promising Easier QUIC and HTTP/3 in Rust</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-27 08:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/codeaholicguy/prompts-are-becoming-code-but-we-still-treat-them-like-strings-4o1j" target="_blank">Prompts are becoming Code, but we still treat them like Strings</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-27 07:42</span>
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/bibimbop123/fitness-equation-11262025-2cba" target="_blank">Fitness equation 11/26/2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-27 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop" target="_blank">QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-27 02:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hobbada/debugging-nodejs-memory-leaks-a-complete-troubleshooting-guide-with-real-world-examples-ohm" target="_blank">Debugging Node.js Memory Leaks: A Complete Troubleshooting Guide with Real-World Examples</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-27 01:54</span>
             </div>
         </div>
 </div>
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
