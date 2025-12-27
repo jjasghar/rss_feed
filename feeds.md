@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 16:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-27 17:01:22 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, December 27, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/27/g-s1-102502/best-global-photo-stories-from-2025" target="_blank">Our top global photo stories from 2025: Fearless women, solo polar bear, healing soups</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-27 15:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,21 +94,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1309/live/b60e1310-e306-11f0-a8dc-93c15fe68710.jpg" alt="Treasury to cover Bayeux Tapestry for estimated £800m" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251224-zohran-mamdani-vl-1014p-9b7ea7.jpg" alt="The fight for young men intensifies ahead of the 2026 midterm elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c79x21wdlgeo?at_medium=RSS&at_campaign=rss" target="_blank">Treasury to cover Bayeux Tapestry for estimated £800m</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-27 10:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/27/england-win-chaotic-fourth-ashes-test-against-australia-in-melbourne?traffic_source=rss" target="_blank">England win chaotic fourth Ashes Test against Australia in Melbourne</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-27 10:34</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/fight-young-men-2026-midterm-elections-rcna249513" target="_blank">The fight for young men intensifies ahead of the 2026 midterm elections</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-27 11:00</span>
             </div>
         </div>
 </div>
@@ -105,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/850390/google-pixel-10-anker-laptop-power-bank-nintendo-switch-game-sale-deal-sale" target="_blank">Pixel 10 phones and Switch 2 games round out this week’s best deals</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-27 16:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +161,6 @@
                 <span class="time">2025-12-27 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/" target="_blank">How reality crushed Ÿnsect, the French startup that had raised over $600M for insect farming</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-26 22:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -194,6 +196,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/apple/ml-sharp" target="_blank">Apple releases open-source model that instantly turns 2D photos into 3D views</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-27 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ibrahimsezer/i-built-my-portfolio-as-a-computer-engineer-roast-my-design-1d36" target="_blank">I built my Portfolio as a Computer Engineer. Roast my design! 🚀</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Highlights-2025" target="_blank">Linux Kernel Highlights For 2025: Schedulers, Rust &amp; Torvalds&#x27; Commentary</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-27 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jennifer_grace_109e4104a5/i-analyzed-1000-deals-here-is-why-engineers-fail-at-fundraising-and-how-i-fixed-it-40d3" target="_blank">I analyzed 1,000+ deals. Here is why Engineers fail at fundraising (and how I fixed it).</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-27 10:48</span>
             </div>
         </div>
 </div>
@@ -237,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/peter-thiel-1280x862.jpg" alt="California Might Tax Billionaires. Cue the Inevitable Tech Billionaire Tantrum" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/california-might-tax-billionaires-cue-the-inevitable-tech-billionaire-tantrum-2000703411" target="_blank">California Might Tax Billionaires. Cue the Inevitable Tech Billionaire Tantrum</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-27 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/President-Trump-takes-a-swing.-Photo-L.E.MORMIL.jpg?fit=1080%2C876&amp;quality=60&amp;ssl=1" alt="Trump pardons &quot;start at $1m,&quot; reports WSJ" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/27/trump-pardons-start-at-1m-reports-wsj.html" target="_blank">Trump pardons &quot;start at $1m,&quot; reports WSJ</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-27 15:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/shutterstock_2086114204.jpg?fit=2031%2C1357&amp;quality=60&amp;ssl=1" alt="Florida Salvation Army bell ringer attacks store manager with donation tripod" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,29 +293,20 @@
                 <span class="time">2025-12-27 01:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/pizzcat-1280x720.jpg" alt="The Automatic Pizza Vending Machine In The Detroit Airport: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/automatic-pizza-vending-machine-detroit-airport-the-kotaku-review-pizza-cat-2000655797" target="_blank">The Automatic Pizza Vending Machine In The Detroit Airport: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-26 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/WickedforGood-2-1280x853.jpg" alt="‘Wicked: For Good’ Comes Home Next Week With a Bubble Full of Extras" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wicked-for-good-comes-home-next-week-with-a-bubble-full-of-extras-2000703673" target="_blank">‘Wicked: For Good’ Comes Home Next Week With a Bubble Full of Extras</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-26 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1766630620-20251227 - edit.png" alt="Saturday Morning Breakfast Cereal - Malthus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/malthus" target="_blank">Saturday Morning Breakfast Cereal - Malthus</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-27 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -305,22 +316,13 @@
                 <span class="time">2025-12-26 23:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1766630571-20251226 - Edit.png" alt="Saturday Morning Breakfast Cereal - Content" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/content-2" target="_blank">Saturday Morning Breakfast Cereal - Content</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-26 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 253 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
