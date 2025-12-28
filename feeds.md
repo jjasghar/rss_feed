@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-28 01:30:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-28 02:42:57 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, December 28, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, December 28, 2025 - 02:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +164,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev-jack/easy-query-the-most-powerful-orm-subquery-for-java-id9" target="_blank">easy-query: The Most Powerful ORM Subquery for Java</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-28 02:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.htmhell.dev/adventcalendar/2025/27/" target="_blank">Replacing JavaScript with Just HTML</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-28 01:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/SDL-More-Mouse-Buttons-Wayland" target="_blank">SDL Fixes Support For More Than Five Mouse Buttons For Gaming On Wayland</a></span>
                 <span class="feed">Phoronix</span>
@@ -200,29 +215,20 @@
                 <span class="time">2025-12-27 21:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/HarfBuzz-12.3-Released" target="_blank">HarfBuzz 12.3 Released - Nice Performance Improvements To This Text Shaping Engine</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-27 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oculus42/chaos-proxy-javascript-shenanigans-4e5e" target="_blank">Chaos Proxy: JavaScript Shenanigans</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-27 20:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Mondrians-1930-canvas-_22Composition-II-in-Red_2C-B.jpg?fit=1080%2C1095&amp;quality=60&amp;ssl=1" alt="Works entering the U.S. public domain in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/27/works-entering-the-u-s-public-domain-in-2026.html" target="_blank">Works entering the U.S. public domain in 2026</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-27 21:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/tim-nelson-cap4-1280x853.jpg" alt="Tim Blake Nelson Wrote a Novel About Superhero Actors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +274,6 @@
                 <span class="time">2025-12-27 15:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/shutterstock_2086114204.jpg?fit=2031%2C1357&amp;quality=60&amp;ssl=1" alt="Florida Salvation Army bell ringer attacks store manager with donation tripod" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/27/florida-salvation-army-bell-ringer-attacks-store-manager-with-donation-tripod.html" target="_blank">Florida Salvation Army bell ringer attacks store manager with donation tripod</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-27 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 245 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 246 |
+        🔄 Last Updated: 02:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
