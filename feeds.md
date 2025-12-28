@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-28 14:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-28 15:01:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, December 28, 2025 - 14:01 UTC</div>
+    <div class="newspaper-date">Sunday, December 28, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +46,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/28/protests-turn-deadly-during-demonstration-in-syrian-city-of-latakia?traffic_source=rss" target="_blank">Protests turn deadly during demonstration in Syrian city of Latakia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-28 14:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfa1/live/5d42df20-e3fd-11f0-a8dc-93c15fe68710.jpg" alt="French cinema actress Brigitte Bardot dies aged 91" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly92pr8qryo?at_medium=RSS&at_campaign=rss" target="_blank">French cinema actress Brigitte Bardot dies aged 91</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-28 13:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/28/video-what-do-rohingya-refugees-think-about-myanmars-election?traffic_source=rss" target="_blank">Video: What do Rohingya refugees think about Myanmar’s election?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-28 13:32</span>
@@ -68,6 +79,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766927956579_tdy_sun_tsirkin_trump_zelenskyy_251228_1920x1080-l5kxpa.jpg" alt="Trump to Meet With Ukraine’s Zelenskyy at Mar-a-Lago" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-zelenskyy-to-discuss-peace-plan-at-mar-a-lago-255083077825" target="_blank">Trump to Meet With Ukraine’s Zelenskyy at Mar-a-Lago</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-28 13:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -76,38 +96,20 @@
                 <span class="time">2025-12-28 12:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8f8/live/152ee2d0-ab6b-11f0-ba75-093eca1ac29b.jpg" alt="Brigitte Bardot: The blonde bombshell who revolutionised French cinema" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS&at_campaign=rss" target="_blank">Brigitte Bardot: The blonde bombshell who revolutionised French cinema</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-28 10:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8f8/live/152ee2d0-ab6b-11f0-ba75-093eca1ac29b.jpg" alt="Brigitte Bardot: The blonde bombshell who revolutionised cinema in the 1950s" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS&at_campaign=rss" target="_blank">Brigitte Bardot: The blonde bombshell who revolutionised cinema in the 1950s</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-28 10:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3423/live/16af6350-e3c9-11f0-a8dc-93c15fe68710.jpg" alt="New archbishop urged to scrap £100m fund over slavery links" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2e7w03067o?at_medium=RSS&at_campaign=rss" target="_blank">New archbishop urged to scrap £100m fund over slavery links</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-28 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/28/the-14-fintech-real-estate-proptech-startups-from-disrupt-startup-battlefield/" target="_blank">The 14 fintech, real estate, proptech startups from Disrupt Startup Battlefield</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-28 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68b0d4f5680b86b61d854b92/master/pass/Melatonin.png" alt="How Much Melatonin Should You Be Taking? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +155,20 @@
                 <span class="time">2025-12-28 01:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/850481/two-new-wireless-samsung-speakers-for-2026-lean-into-aesthetics" target="_blank">Two new wireless Samsung speakers for 2026 lean into aesthetics</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-27 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prashantgupta123/aws-orphan-alarms-report-generation-1pnf" target="_blank">AWS Orphan Alarms Report Generation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-28 14:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/victor_mvarela_0e25679d/opentofu-oras-backend-store-state-in-ghcrdocker-hub-77f" target="_blank">OpenTofu ORAS Backend: Store State in GitHub Container Registry (GHCR)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-28 08:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/rob-pike-furious/" target="_blank">F*** You! Co-Creator of Go Language is Rightly Furious Over This Appreciation Email</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-28 08:19</span>
             </div>
         </div>
 </div>
@@ -299,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 41 | 📸 With Images: 245 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 41 | 📸 With Images: 244 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
