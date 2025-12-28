@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-28 12:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-28 13:10:07 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, December 28, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, December 28, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +51,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/28/video-israel-slammed-for-recognising-breakaway-region-of-somaliland?traffic_source=rss" target="_blank">Video: Israel slammed for recognising breakaway region of Somaliland</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-28 12:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8f8/live/152ee2d0-ab6b-11f0-ba75-093eca1ac29b.jpg" alt="Brigitte Bardot: The blonde bombshell who revolutionised French cinema" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS&at_campaign=rss" target="_blank">Brigitte Bardot: The blonde bombshell who revolutionised French cinema</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-28 10:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8f8/live/152ee2d0-ab6b-11f0-ba75-093eca1ac29b.jpg" alt="Brigitte Bardot: The blonde bombshell who revolutionised cinema in the 1950s" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS&at_campaign=rss" target="_blank">Brigitte Bardot: The blonde bombshell who revolutionised cinema in the 1950s</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-28 10:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3423/live/16af6350-e3c9-11f0-a8dc-93c15fe68710.jpg" alt="New archbishop urged to scrap £100m fund over slavery links" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2e7w03067o?at_medium=RSS&at_campaign=rss" target="_blank">New archbishop urged to scrap £100m fund over slavery links</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-28 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +104,20 @@
                 <span class="time">2025-12-28 08:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Zelenskyy-Canada-DB-251228_1766907345903_hpMain_4x3t_384.jpg" alt="Russia attacks Ukraine with dozens of drones ahead of Trump-Zelenskyy meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/russia-attacks-ukraine-dozens-drones-ahead-trump-zelenskyy/story?id=128729371" target="_blank">Russia attacks Ukraine with dozens of drones ahead of Trump-Zelenskyy meeting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-28 08:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd82/live/e1d0a9f0-e39b-11f0-bbc4-0be978867aed.jpg" alt="War-torn Myanmar voting in widely criticised &#x27;sham&#x27; election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy7vly6gm76o?at_medium=RSS&at_campaign=rss" target="_blank">War-torn Myanmar voting in widely criticised &#x27;sham&#x27; election</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-28 07:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/28/kosovo-votes-in-snap-election-to-end-a-year-of-political-deadlock?traffic_source=rss" target="_blank">Kosovo votes in snap election in bid to end a year of political deadlock</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-28 07:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68b0d4f5680b86b61d854b92/master/pass/Melatonin.png" alt="How Much Melatonin Should You Be Taking? (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-much-melatonin-should-i-take-2026/" target="_blank">How Much Melatonin Should You Be Taking? (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-28 13:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/693fddfac50190c987e8c8fc/master/pass/What-is-a-Manifold-cr-Mark-Belan-Lede-2.jpeg" alt="Behold the Manifold, the Concept that Changed How Mathematicians View Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +163,20 @@
                 <span class="time">2025-12-27 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness" target="_blank">Sam Altman is hiring someone to worry about the dangers of AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-27 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SteelSeries-Artis-Linux-Driver" target="_blank">New Patches Bring Linux Driver Support To 25+ SteelSeries Arctis Gaming Headsets</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-28 12:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh78ez7l1aw3o43iavkql.jpeg" alt="Building a Video Generation Pipeline with Angular, Veo 3.1, and Firebase Cloud Functions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +220,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/12/javascript-golang-wasm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Running Modern ES2023 JavaScript Inside Go Using QJS and WebAssembly</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-12-28 07:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/asma_eman/automating-police-report-writing-using-nlp-and-machine-learning-89n" target="_blank">Automating Police Report Writing Using NLP and Machine Learning</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-28 06:51</span>
             </div>
         </div>
 </div>
@@ -297,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 244 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 245 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
