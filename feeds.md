@@ -1,41 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-12-28 21:01:51 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-28 22:01:54 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, December 28, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, December 28, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +100,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/28/police-charge-driver-who-allegedly-killed-a-pedestrian-while-livestreaming-on-tiktok/" target="_blank">Police charge driver who allegedly killed a pedestrian while livestreaming on TikTok</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-28 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling" target="_blank">LG announces new UltraGear evo gaming monitors with AI upscaling</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-28 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/28/is-the-apple-watch-se-3-a-good-deal/" target="_blank">A guide to choosing the right Apple Watch</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-28 20:00</span>
@@ -146,29 +150,20 @@
                 <span class="time">2025-12-28 16:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/" target="_blank">MayimFlow wants to stop data center leaks before they happen</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-28 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/28/the-33-top-health-and-wellness-startups-from-disrupt-startup-battlefield/" target="_blank">The 33 top health and wellness startups from Disrupt Startup Battlefield</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-28 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc3-Released" target="_blank">Linux 6.19-rc3 Released With A Holiday&#x27;s Week Of Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-28 21:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +207,6 @@
                 <span class="title"><a href="https://dev.to/prashantgupta123/aws-orphan-alarms-report-generation-1pnf" target="_blank">AWS Orphan Alarms Report Generation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-28 14:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gouranga-das-khulna/how-to-reduce-bundle-size-in-next-js-5fdl" target="_blank">How to Reduce Bundle Size in Next js</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-28 14:00</span>
             </div>
         </div>
 </div>
@@ -273,15 +259,6 @@
                 <span class="time">2025-12-28 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Mail-Backup.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Never lose an email again with Mail Backup X — now 80% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/27/never-lose-an-email-again-with-mail-backup-x-now-80-off.html" target="_blank">Never lose an email again with Mail Backup X — now 80% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-27 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +287,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 41 | 📸 With Images: 241 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 238 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
