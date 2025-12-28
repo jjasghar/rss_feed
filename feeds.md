@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-28 08:02:12 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-28 09:02:13 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, December 28, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, December 28, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Zelenskyy-Canada-DB-251228_1766907345903_hpMain_4x3t_384.jpg" alt="Russia attacks Ukraine with dozens of drones ahead of Trump-Zelenskyy meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/russia-attacks-ukraine-dozens-drones-ahead-trump-zelenskyy/story?id=128729371" target="_blank">Russia attacks Ukraine with dozens of drones ahead of Trump-Zelenskyy meeting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-28 08:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd82/live/e1d0a9f0-e39b-11f0-bbc4-0be978867aed.jpg" alt="War-torn Myanmar voting in widely criticised &#x27;sham&#x27; election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy7vly6gm76o?at_medium=RSS&at_campaign=rss" target="_blank">War-torn Myanmar voting in widely criticised &#x27;sham&#x27; election</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-28 07:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/28/polls-open-in-myanmar-as-military-stages-first-election-since-2021-coup?traffic_source=rss" target="_blank">Polls open in Myanmar as military holds first election since 2021 coup</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-28 02:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/28/russia-ukraine-war-list-of-key-events-day-1403?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,403</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-28 00:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/27/nx-s1-5659302/jeffrey-r-holland-church-of-jesus-christ-of-latter-day-saints-obit" target="_blank">Jeffrey R. Holland, next in line to lead Church of Jesus Christ of Latter-day Saints, dies at 85</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-28 00:22</span>
             </div>
         </div>
 </div>
@@ -169,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/victor_mvarela_0e25679d/opentofu-oras-backend-store-state-in-ghcrdocker-hub-77f" target="_blank">OpenTofu ORAS Backend: Store State in GitHub Container Registry (GHCR)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-28 08:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/12/javascript-golang-wasm/en/headerimage/header-1766903013503.jpg" alt="Running Modern ES2023 JavaScript Inside Go Using QJS and WebAssembly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -211,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/captainfulminyx/hello-world-cjd" target="_blank">Hello, World!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-28 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/exploredataaiml/building-an-intelligent-customer-support-system-with-multi-agent-architecture-236h" target="_blank">Building an Intelligent Customer Support System with Multi-Agent Architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-28 03:22</span>
             </div>
         </div>
 </div>
@@ -300,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 244 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 41 | 📸 With Images: 245 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
