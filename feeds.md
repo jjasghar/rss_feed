@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-27 23:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-28 00:05:59 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, December 27, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, December 28, 2025 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/27/g-s1-103821/winter-storm-post-christmas-travel" target="_blank">Winter storm brings heavy snow and ice to busy holiday travel weekend</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-27 23:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/27/iran-president-says-us-israel-europe-waging-full-fledged-war-on-country?traffic_source=rss" target="_blank">Iran president says US, Israel, Europe waging ‘full-fledged war’ on country</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-27 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/27/g-s1-103808/kennedy-center-lawsuit-chuck-redd-cancellation-trump" target="_blank">Kennedy Center vows to sue musician who canceled performance over Trump name change</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-27 19:24</span>
             </div>
         </div>
 </div>
@@ -170,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnwjgilechjb8hqoqlrg1.png" alt="Solved: Looking for a PowerShell game or practice exercise to prepare for my exam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/techresolve/solved-looking-for-a-powershell-game-or-practice-exercise-to-prepare-for-my-exam-412j" target="_blank">Solved: Looking for a PowerShell game or practice exercise to prepare for my exam</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-27 23:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,15 +216,6 @@
                 <span class="title"><a href="https://ploum.net/2025-12-15-communication-entertainment.html" target="_blank">How we lost communication to entertainment</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-27 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/pinta-3.1.jpg?resize=406%2C232&amp;ssl=1" alt="Pinta 3.1 is Out with Axonometric Grids, Marching Ants + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/pinta-3-1-released-new-axonometric-grids" target="_blank">Pinta 3.1 is Out with Axonometric Grids, Marching Ants + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-27 18:43</span>
             </div>
         </div>
 </div>
@@ -296,22 +291,13 @@
                 <span class="time">2025-12-27 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/26/when-they-go-low" target="_blank">When They Go Low</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-26 23:12</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 247 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 247 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
