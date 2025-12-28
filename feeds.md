@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-28 13:10:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-28 14:01:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, December 28, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, December 28, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/28/video-what-do-rohingya-refugees-think-about-myanmars-election?traffic_source=rss" target="_blank">Video: What do Rohingya refugees think about Myanmar’s election?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-28 13:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/28/g-s1-103034/tiktok-gaza-africa-brazil-soccer-history-charlie-chaplin" target="_blank">Viral global TikToks: A twist on soccer, Tanzania&#x27;s Charlie Chaplin, hope in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-28 13:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2e7w03067o?at_medium=RSS&at_campaign=rss" target="_blank">New archbishop urged to scrap £100m fund over slavery links</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-28 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/28/guinea-votes-in-first-polls-since-2021-coup-military-leader-likely-to-win?traffic_source=rss" target="_blank">Guinea votes in first polls since 2021 coup, military leader likely to win</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-28 09:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/28/nx-s1-5659700/zelenskyy-meets-trump-efforts-end-russia-ukraine-war-elusive" target="_blank">Zelenskyy to meet with Trump as efforts to end Russia-Ukraine war remain elusive</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-28 08:25</span>
             </div>
         </div>
 </div>
@@ -171,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gouranga-das-khulna/how-to-reduce-bundle-size-in-next-js-5fdl" target="_blank">How to Reduce Bundle Size in Next js</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-28 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/SteelSeries-Artis-Linux-Driver" target="_blank">New Patches Bring Linux Driver Support To 25+ SteelSeries Arctis Gaming Headsets</a></span>
                 <span class="feed">Phoronix</span>
@@ -211,15 +219,6 @@
                 <span class="title"><a href="https://itsfoss.com/news/rob-pike-furious/" target="_blank">F*** You! Co-Creator of Go Language is Rightly Furious Over This Appreciation Email</a></span>
                 <span class="feed">It&#x27;s FOSS</span>
                 <span class="time">2025-12-28 08:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/javascript-golang-wasm/en/headerimage/header-1766903013503.jpg" alt="Running Modern ES2023 JavaScript Inside Go Using QJS and WebAssembly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/javascript-golang-wasm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Running Modern ES2023 JavaScript Inside Go Using QJS and WebAssembly</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-28 07:07</span>
             </div>
         </div>
 </div>
@@ -300,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 245 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 41 | 📸 With Images: 245 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
