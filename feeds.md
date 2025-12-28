@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-28 11:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-28 12:02:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, December 28, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, December 28, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh78ez7l1aw3o43iavkql.jpeg" alt="Building a Video Generation Pipeline with Angular, Veo 3.1, and Firebase Cloud Functions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/railsstudent/building-a-video-generation-pipeline-with-angular-veo-31-and-firebase-cloud-functions-4l7f" target="_blank">Building a Video Generation Pipeline with Angular, Veo 3.1, and Firebase Cloud Functions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-28 11:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/12/infrastructure-resilience-aws/en/headerimage/aws-reliability-dns-1766915460180.jpg" alt="How Authress Designed for Resilience and Survived a Major AWS Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -178,6 +190,15 @@
                 <span class="title"><a href="https://dev.to/victor_mvarela_0e25679d/opentofu-oras-backend-store-state-in-ghcrdocker-hub-77f" target="_blank">OpenTofu ORAS Backend: Store State in GitHub Container Registry (GHCR)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-28 08:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/rob-pike-furious/" target="_blank">F*** You! Co-Creator of Go Language is Rightly Furious Over This Appreciation Email</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-28 08:19</span>
             </div>
         </div>
 <div class="story">
@@ -198,29 +219,20 @@
                 <span class="time">2025-12-28 06:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/best-hyprland-dotfiles/" target="_blank">10 Hyprland Dotfiles to Transform Your Linux Desktop Bautifully</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-28 05:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://neatnik.net/calendar/?year=2026" target="_blank">Calendar</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-28 05:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/china-human-robot-1280x853.jpg" alt="Draft Chinese AI Rules Outline ‘Core Socialist Values’ for AI Human Personality Simulators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/draft-chinese-ai-rules-outline-core-socialist-values-for-ai-human-personality-simulators-2000703772" target="_blank">Draft Chinese AI Rules Outline ‘Core Socialist Values’ for AI Human Personality Simulators</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-28 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/openai-icons-1280x853.jpg" alt="‘This Will Be a Stressful Job’: OpenAI Is Hiring for a Position That Sounds Horrifying" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +278,6 @@
                 <span class="time">2025-12-27 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/cavill-superman--1280x853.jpg" alt="Zack Snyder Reveals Henry Cavill in the Reeves Superman Suit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/zack-snyder-reveals-henry-cavill-in-the-reeves-superman-suit-2000703752" target="_blank">Zack Snyder Reveals Henry Cavill in the Reeves Superman Suit</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-27 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 243 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 244 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
