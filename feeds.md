@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-28 15:01:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-28 16:01:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, December 28, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, December 28, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/12/28/javad-zarif-main-threat-to-the-middle-east-is-israel-not-iran?traffic_source=rss" target="_blank">Javad Zarif: Main threat to the Middle East is Israel, not Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-28 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +101,20 @@
                 <span class="time">2025-12-28 13:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/28/video-israel-slammed-for-recognising-breakaway-region-of-somaliland?traffic_source=rss" target="_blank">Video: Israel slammed for recognising breakaway region of Somaliland</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-28 12:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/28/the-33-top-health-and-wellness-startups-from-disrupt-startup-battlefield/" target="_blank">The 33 top health and wellness startups from Disrupt Startup Battlefield</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-28 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -117,6 +131,15 @@
                 <span class="title"><a href="https://www.wired.com/story/how-much-melatonin-should-i-take-2026/" target="_blank">How Much Melatonin Should You Be Taking? (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-28 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/846828/ps5-best-games-2025" target="_blank">The best PS5 games from 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-28 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -137,29 +160,20 @@
                 <span class="time">2025-12-28 06:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/27/best-apple-watch-apps-for-boosting-your-productivity/" target="_blank">Best Apple Watch apps for boosting your productivity</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-28 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/" target="_blank">India startup funding hits $11B in 2025 as investors grow more selective</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-28 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="MinIO GitHub Repository in Maintenance Mode: What&#x27;s Next for the Open Source Object Storage?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/minio-s3-api-alternatives/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MinIO GitHub Repository in Maintenance Mode: What&#x27;s Next for the Open Source Object Storage?</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-28 15:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/12/infrastructure-resilience-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Authress Designed for Resilience and Survived a Major AWS Outage</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-12-28 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/victor_mvarela_0e25679d/opentofu-oras-backend-store-state-in-ghcrdocker-hub-77f" target="_blank">OpenTofu ORAS Backend: Store State in GitHub Container Registry (GHCR)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-28 08:52</span>
             </div>
         </div>
 </div>
@@ -292,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 41 | 📸 With Images: 244 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 243 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
