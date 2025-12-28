@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-28 17:01:26 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-12-28 18:02:15 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, December 28, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, December 28, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +113,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/28/why-wetransfer-co-founder-is-building-another-file-transfer-service/" target="_blank">Why WeTransfer co-founder is building another file transfer service</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-28 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack" target="_blank">Ubisoft shuts down ‘Rainbow Six Siege’ servers following hack</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-28 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/" target="_blank">MayimFlow wants to stop data center leaks before they happen</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-28 16:30</span>
@@ -141,24 +161,6 @@
                 <span class="title"><a href="https://www.wired.com/story/how-much-melatonin-should-i-take-2026/" target="_blank">How Much Melatonin Should You Be Taking? (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-28 13:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/846828/ps5-best-games-2025" target="_blank">The best PS5 games from 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-28 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/693fddfac50190c987e8c8fc/master/pass/What-is-a-Manifold-cr-Mark-Belan-Lede-2.jpeg" alt="Behold the Manifold, the Concept that Changed How Mathematicians View Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/behold-the-manifold-the-concept-that-changed-how-mathematicians-view-space/" target="_blank">Behold the Manifold, the Concept that Changed How Mathematicians View Space</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-28 07:00</span>
             </div>
         </div>
 </div>
@@ -226,6 +228,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-LVPD.jpg?fit=1080%2C646&amp;quality=60&amp;ssl=1" alt="Las Vegas police&#x27;s bulletproof Cybertrucks aren&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/28/las-vegas-polices-bulletproof-cybertrucks-arent.html" target="_blank">Las Vegas police&#x27;s bulletproof Cybertrucks aren&#x27;t</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-28 16:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/dc-absolute-universe-1280x853.jpg" alt="The Absolute Universe Gave DC a Great Comics Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -270,15 +281,6 @@
                 <span class="time">2025-12-27 21:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/tim-nelson-cap4-1280x853.jpg" alt="Tim Blake Nelson Wrote a Novel About Superhero Actors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tim-blake-nelson-wrote-a-novel-about-superhero-actors-2000703760" target="_blank">Tim Blake Nelson Wrote a Novel About Superhero Actors</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-27 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 243 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 243 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
