@@ -1,14 +1,21 @@
-<!-- Processing 54 RSS feeds at 2025-12-28 20:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-28 21:01:51 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
@@ -16,20 +23,19 @@
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, December 28, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, December 28, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -166,6 +172,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.1-Released" target="_blank">D7VK 1.1 Released With An Experimental Direct3D 6 Frontend</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-28 20:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/arch4g/my-experience-using-the-bmad-framework-on-a-personal-project-patience-required-10cd" target="_blank">My Experience Using the BMAD Framework on a Personal Project (Patience Required)</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/gouranga-das-khulna/how-to-reduce-bundle-size-in-next-js-5fdl" target="_blank">How to Reduce Bundle Size in Next js</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-28 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SteelSeries-Artis-Linux-Driver" target="_blank">New Patches Bring Linux Driver Support To 25+ SteelSeries Arctis Gaming Headsets</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-28 12:44</span>
             </div>
         </div>
 </div>
@@ -282,6 +288,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/28/three-things-2" target="_blank">Three Things!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-28 19:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1766648250-20251228 - edit.png" alt="Saturday Morning Breakfast Cereal - Proof" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -295,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 242 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 41 | 📸 With Images: 241 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
