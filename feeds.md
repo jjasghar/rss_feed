@@ -1,27 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-28 22:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-28 23:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 4 new posts out of 18 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, December 28, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, December 28, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +49,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/28/mozambique-win-first-ever-afcon-game-while-algeria-reach-last-16?traffic_source=rss" target="_blank">Mozambique win first ever AFCON game while Algeria reach last 16</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-28 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-251228_1766947078752_hpMain_4x3t_384.jpg" alt="Volodymyr Zelenskyy arrives at Mar-a-Lago for peace talks with President Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/volodymyr-zelenskyy-arrives-mar-lago-peace-talks-president/story?id=128736611" target="_blank">Volodymyr Zelenskyy arrives at Mar-a-Lago for peace talks with President Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-28 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/28/nx-s1-5659746/bomb-cyclone-blizzard-dangerous-travel" target="_blank">&#x27;Bomb cyclone&#x27; forecasted to bring heavy snow, blizzard conditions and dangerous travel</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-28 20:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/5568c550-e36f-11f0-8ec1-9ba3510dd8c3.jpg" alt="Egyptian dissident should be deported from UK, Tories say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg5mr0gdnmeo?at_medium=RSS&at_campaign=rss" target="_blank">Egyptian dissident should be deported from UK, Tories say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-28 19:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/f_mo_trump_zelenskyy_talks_251228.00_00_09_08.Still001-q2ogam.jpg" alt="Trump says there will be a security agreement before talks with Zelenskyy at Mar-a-Lago" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -53,42 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/russia-attacks-ukraine-dozens-drones-ahead-trump-zelenskyy/story?id=128729371" target="_blank">Trump said he had &#x27;very productive&#x27; call with Putin ahead of Zelenskyy meeting</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-28 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/28/kyrgios-beats-sabalenka-6-3-6-3-in-battle-of-the-sexes-tennis-showdown?traffic_source=rss" target="_blank">Kyrgios beats Sabalenka 6-3, 6-3 in ‘Battle of the Sexes’ tennis showdown</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-28 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/28/nx-s1-5659773/russia-iranian-satellites" target="_blank">Russia sends 3 Iranian satellites into orbit, report says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-28 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/12/28/javad-zarif-main-threat-to-the-middle-east-is-israel-not-iran?traffic_source=rss" target="_blank">Javad Zarif: Main threat to the Middle East is Israel, not Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-28 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/28/protests-turn-deadly-during-demonstration-in-syrian-city-of-latakia?traffic_source=rss" target="_blank">Protests turn deadly during demonstration in Syrian city of Latakia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-28 14:26</span>
             </div>
         </div>
 </div>
@@ -287,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 238 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 239 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
