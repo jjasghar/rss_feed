@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-28 02:42:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-28 03:31:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, December 28, 2025 - 02:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, December 28, 2025 - 03:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/28/polls-open-in-myanmar-as-military-stages-first-election-since-2021-coup?traffic_source=rss" target="_blank">Polls open in Myanmar as military holds first election since 2021 coup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-28 02:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c5y21xlxng2o?at_medium=RSS&at_campaign=rss" target="_blank">UK restricts DR Congo visas over migrant return policy</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-27 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/27/g-s1-103819/disability-rights-advocate-bob-kafka-dead-at-79" target="_blank">Disability rights advocate Bob Kafka dead at 79</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-27 22:23</span>
             </div>
         </div>
 </div>
@@ -165,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/exploredataaiml/building-an-intelligent-customer-support-system-with-multi-agent-architecture-236h" target="_blank">Building an Intelligent Customer Support System with Multi-Agent Architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-28 03:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dev-jack/easy-query-the-most-powerful-orm-subquery-for-java-id9" target="_blank">easy-query: The Most Powerful ORM Subquery for Java</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-28 02:27</span>
@@ -204,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/nathdev/o-que-e-useid-no-react-26p0" target="_blank">🔑 O que é useId no React?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-27 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techresolve/solved-the-engineering-problem-or-what-to-do-if-you-dont-know-how-to-talk-to-people-23ai" target="_blank">Solved: The engineering problem, or what to do if you don’t know how to talk to people?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-27 21:53</span>
             </div>
         </div>
 </div>
@@ -293,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 246 |
-        🔄 Last Updated: 02:43 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 41 | 📸 With Images: 245 |
+        🔄 Last Updated: 03:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
