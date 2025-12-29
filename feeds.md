@@ -1,37 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 09:04:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-29 10:02:11 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 09:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/29/winter-floods-wreak-havoc-on-gaza-displacement-camps-as-israel-blocks-aid?traffic_source=rss" target="_blank">Winter floods wreak havoc on Gaza displacement camps as Israel blocks aid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-29 08:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +108,20 @@
                 <span class="time">2025-12-29 03:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4056/live/4c64d9f0-e480-11f0-aae2-2191c0e48a3b.jpg" alt="Trump says progress made in Ukraine talks but &#x27;thorny issues&#x27; remain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says progress made in Ukraine talks but &#x27;thorny issues&#x27; remain</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-29 02:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/29/youve-been-targeted-by-government-spyware-now-what/" target="_blank">You’ve been targeted by government spyware. Now what?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-29 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" alt="Home Chef Promo Code: 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +167,20 @@
                 <span class="time">2025-12-28 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/850564/subversive-cosmic-horror-the-ballad-of-black-tom-victor-lavalle" target="_blank">You need to read the subversive cosmic horror novella The Ballad of Black Tom</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-28 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ttoss/tutorial-how-to-serve-rest-and-mcp-on-the-same-server-1a10" target="_blank">Tutorial: How to Serve REST and MCP on the Same Server</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-29 09:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcz0qdilgn4tk1vvt6uno.png" alt="Kubernetes In-Place Pod Resize" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,20 +226,20 @@
                 <span class="time">2025-12-29 04:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Tech leaders should understand that AI can manage the end to end process. Once we have complete integration of tools, the entire responsibility of tech leaders will change completely." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/tech-leaders-should-understand-that-ai-can-manage-the-end-to-end-process-once-we-have-complete-4egg" target="_blank">Tech leaders should understand that AI can manage the end to end process. Once we have complete integration of tools, the entire responsibility of tech leaders will change completely.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-29 02:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/robot-that-sucks-1280x853.jpg" alt="Something Is Making Humanoid Robot Makers Worry: The Robots Suck" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811" target="_blank">Something Is Making Humanoid Robot Makers Worry: The Robots Suck</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-29 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/SwifDoo-PDF-Pro.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Your Windows PC called: it wants SwifDoo PDF Pro for $24.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +285,6 @@
                 <span class="time">2025-12-28 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/china-human-robot-1280x853.jpg" alt="Draft Chinese AI Rules Outline ‘Core Socialist Values’ for AI Human Personality Simulators" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/draft-chinese-ai-rules-outline-core-socialist-values-for-ai-human-personality-simulators-2000703772" target="_blank">Draft Chinese AI Rules Outline ‘Core Socialist Values’ for AI Human Personality Simulators</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-28 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 246 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 244 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
