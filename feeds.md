@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-28 23:01:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-12-29 00:05:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, December 28, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1766961056808_nbc_spec_full_trump_zel_251228_1920x1080-f36429.jpg" alt="Special Report: Trump and Zelenskyy speak after meeting on Ukraine peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-and-zelenskyy-speak-after-meeting-on-ukraine-peace-deal-255088709770" target="_blank">Special Report: Trump and Zelenskyy speak after meeting on Ukraine peace deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-28 22:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/trump-and-zelenskyy-meet-at-mar-a-lago-to-talk-peace-with-russia-255087173761" target="_blank">Trump says there will be a security agreement before talks with Zelenskyy at Mar-a-Lago</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-28 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Zelenskyy-Canada-DB-251228_1766907345903_hpMain_4x3t_384.jpg" alt="Trump said he had &#x27;very productive&#x27; call with Putin ahead of Zelenskyy meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/russia-attacks-ukraine-dozens-drones-ahead-trump-zelenskyy/story?id=128729371" target="_blank">Trump said he had &#x27;very productive&#x27; call with Putin ahead of Zelenskyy meeting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-28 18:23</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jumptotech/mini-project-network-visibility-with-wireshark-devops-basics-39co" target="_blank">Mini Project: Network Visibility with Wireshark (DevOps Basics)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-28 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-rc3-Released" target="_blank">Linux 6.19-rc3 Released With A Holiday&#x27;s Week Of Fixes</a></span>
                 <span class="feed">Phoronix</span>
@@ -211,20 +216,20 @@
                 <span class="time">2025-12-28 15:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prashantgupta123/aws-orphan-alarms-report-generation-1pnf" target="_blank">AWS Orphan Alarms Report Generation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-28 14:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_Melting-1280x853.jpg" alt="The ‘Stranger Things’ Brothers on Resolving Relationships and Character Closure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-stranger-things-brothers-talk-resolving-relationships-2000703801" target="_blank">The ‘Stranger Things’ Brothers on Resolving Relationships and Character Closure</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-28 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/warning.jpg?fit=1600%2C1264&amp;quality=60&amp;ssl=1" alt="New York&#x27;s addiction warnings for social media now law" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 239 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 242 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
