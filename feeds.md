@@ -1,28 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 17:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-29 18:02:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 20 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/29/more-than-3000-migrants-died-spain-figure-down" target="_blank">More than 3,000 migrants died trying to reach Spain in 2025</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-29 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/29/what-we-know-about-deadly-clashes-after-protests-in-syria?traffic_source=rss" target="_blank">What we know about deadly clashes after protests in Syria</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-29 17:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,29 +100,20 @@
                 <span class="time">2025-12-29 13:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1767012315883_tdy_news_7a_gabe_trump_peace_talks_251229_1920x1080-n6nm2x.jpg" alt="Trump Says Ukraine Peace Deal is ‘Closer’ after Zelenskyy Meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-says-ukraine-peace-deal-is-closer-after-zelenskyy-meeting-255104069998" target="_blank">Trump Says Ukraine Peace Deal is ‘Closer’ after Zelenskyy Meeting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-29 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/29/g-s1-103903/up-first-newsletter-trump-volodymyr-zelenskyy-benjamin-netanyahu-poverty-aid" target="_blank">Trump says Ukraine peace is closer. And, how funding cuts affect anti-poverty groups</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-29 12:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/" target="_blank">Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-29 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,15 +159,6 @@
                 <span class="time">2025-12-29 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/846829/hbo-max-best-shows-2025" target="_blank">The best shows to watch on HBO Max from 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-29 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -193,21 +201,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/" target="_blank">Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-29 15:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft0jyn08dlg029f3zabwi.png" alt="Building a Portfolio That Actually Demonstrates Enterprise Skills - Intro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/moodyjw/building-a-portfolio-that-actually-demonstrates-enterprise-skills-intro-5hlm" target="_blank">Building a Portfolio That Actually Demonstrates Enterprise Skills - Intro</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-29 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-NTFS-v3-Patches" target="_blank">NTFSPLUS Linux Driver Renamed To Just &quot;NTFS&quot; With Latest Code Restructuring</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-29 14:33</span>
             </div>
         </div>
 </div>
@@ -229,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/OCO-2-satellite--1280x853.jpg" alt="A Solution to Satellite Pollution? Make Them Indestructible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-solution-to-satellite-pollution-make-them-indestructible-2000703923" target="_blank">A Solution to Satellite Pollution? Make Them Indestructible</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-29 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KDNBSRSHKRHDFRYRE32T83BF/hero-image.jpg" alt="You Might Soon Be Able to Change Your Gmail Address" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/you-might-soon-be-able-to-change-gmail-address?utm_medium=RSS" target="_blank">You Might Soon Be Able to Change Your Gmail Address</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-29 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Epilogue-SN-Operator-2-e1767021856919-1280x853.png" alt="This Desktop Doohickey Will Bring Your Physical SNES Games to Your PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,29 +291,20 @@
                 <span class="time">2025-12-29 15:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/x-files-scully-mulder-1280x853.jpg" alt="‘The X-Files’ Is Ready to Be Your Free Streaming Binge for the New Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/x-files-streaming-free-pluto-tv-2000703924" target="_blank">‘The X-Files’ Is Ready to Be Your Free Streaming Binge for the New Year</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-29 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/04/94f88aaebbb3e2c9352e487f53b94de9-1024x757.jpg" alt="Life on Europa Could Feed On This Unexpected Source of Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/life-on-europa-could-feed-on-this-unexpected-source-of-energy-2000703619" target="_blank">Life on Europa Could Feed On This Unexpected Source of Energy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-29 14:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1766648289-20251229 - edit.png" alt="Saturday Morning Breakfast Cereal - Super" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/super-2" target="_blank">Saturday Morning Breakfast Cereal - Super</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-29 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -311,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 250 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 252 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
