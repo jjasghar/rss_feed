@@ -1,36 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 18:02:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-29 19:01:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-251229_1767033171125_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Netanyahu meets with Trump at Mar-a-Lago" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/live-updates/israel-gaza-live-updates/?id=128744658" target="_blank">Israel-Gaza live updates: Netanyahu meets with Trump at Mar-a-Lago</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-29 18:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +89,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/2025-trumps-year-of-emergency-invasion-and-narcoterrorism?traffic_source=rss" target="_blank">2025: Trump’s year of ’emergency’, ‘invasion’ and ‘narcoterrorism’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-29 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4056/live/4c64d9f0-e480-11f0-aae2-2191c0e48a3b.jpg" alt="US offered Ukraine 15-year security guarantee, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss" target="_blank">US offered Ukraine 15-year security guarantee, Zelensky says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-29 13:49</span>
             </div>
         </div>
 </div>
@@ -174,6 +165,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nickmonad.blog/2025/static-allocation-with-zig-kv/" target="_blank">Static Allocation with Zig</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-29 16:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792607&w=600" alt="Why the Future Is Increasingly Pointing Toward Multi-Cloud Strategies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -209,15 +209,6 @@
                 <span class="time">2025-12-29 15:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft0jyn08dlg029f3zabwi.png" alt="Building a Portfolio That Actually Demonstrates Enterprise Skills - Intro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/moodyjw/building-a-portfolio-that-actually-demonstrates-enterprise-skills-intro-5hlm" target="_blank">Building a Portfolio That Actually Demonstrates Enterprise Skills - Intro</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-29 14:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +228,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Kylo-Ren.jpg" alt="What The Internet Keeps Getting Wrong About The Most Famous Quote From Star Wars: The Last Jedi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-wars-last-jedi-kylo-ren-quote-rian-johnson-2000655969" target="_blank">What The Internet Keeps Getting Wrong About The Most Famous Quote From Star Wars: The Last Jedi</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-29 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_topart-1280x853.jpg" alt="15 Things We Liked, and 5 We Didn’t, About ‘Stranger Things’ Season 5, Volume 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/15-things-we-liked-and-5-we-didnt-about-stranger-things-season-5-volume-2-2000703631" target="_blank">15 Things We Liked, and 5 We Didn’t, About ‘Stranger Things’ Season 5, Volume 2</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-29 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/1200x-1-e1742501495234.jpg?fit=768%2C416&amp;quality=60&amp;ssl=1" alt="In case you missed it, Sony just patented AI-generated tutorials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/29/in-case-you-missed-it-sony-just-patented-ai-generated-tutorials.html" target="_blank">In case you missed it, Sony just patented AI-generated tutorials</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-29 17:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/OCO-2-satellite--1280x853.jpg" alt="A Solution to Satellite Pollution? Make Them Indestructible" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +280,6 @@
                 <span class="title"><a href="https://gizmodo.com/this-desktop-doohickey-will-bring-your-physical-snes-games-to-your-pc-2000703925" target="_blank">This Desktop Doohickey Will Bring Your Physical SNES Games to Your PC</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-29 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/607d2ec4b003d6d1660339f20fc88dfe.jpg" alt="Konami Is Turning Silent Hill Into An Annual Franchise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/konami-is-turning-silent-hill-into-an-annual-franchise-remake-townfall-2000655940" target="_blank">Konami Is Turning Silent Hill Into An Annual Franchise</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-29 16:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KD6FN6H12QJ1QNXBZ3QFR0GZ/hero-image.jpg" alt="This Dashcam Is My Tech &#x27;Upgrade of the Year&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/this-dashcam-is-my-upgrade-of-the-year?utm_medium=RSS" target="_blank">This Dashcam Is My Tech &#x27;Upgrade of the Year&#x27;</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-29 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/foldableiphone-1600x1067-1.webp?fit=1600%2C1067&amp;quality=55&amp;ssl=1" alt="Sued by Apple over earlier leaks, Jon Prosser shows off a foldable iPhone design" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/29/sued-by-apple-over-earlier-leaks-jon-prosser-shows-off-a-foldable-iphone-design.html" target="_blank">Sued by Apple over earlier leaks, Jon Prosser shows off a foldable iPhone design</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-29 15:22</span>
             </div>
         </div>
 </div>
@@ -328,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 252 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
