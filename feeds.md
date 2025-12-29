@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 22:01:24 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-29 23:01:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/kyiv-rejects-russias-claim-of-ukrainian-strike-on-putins-residence?traffic_source=rss" target="_blank">Kyiv rejects Russia’s claim of Ukrainian attack on Putin residence</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-29 22:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/29/well-knock-the-hell-out-of-them-trump-threatens-iran?traffic_source=rss" target="_blank">‘We’ll knock the hell out of them’: Trump threatens Iran</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-29 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9e/live/8e2f52a0-e4cd-11f0-a8dc-93c15fe68710.jpg" alt="Ukraine denies drone attack on Putin&#x27;s residence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine denies drone attack on Putin&#x27;s residence</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-29 19:11</span>
             </div>
         </div>
 </div>
@@ -247,6 +256,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/music-studio-5-1280x853.jpg" alt="Samsung’s New Wi-Fi Speaker Has Big Monolith Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/samsungs-new-wi-fi-speaker-has-big-monolith-energy-2000703920" target="_blank">Samsung’s New Wi-Fi Speaker Has Big Monolith Energy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-29 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/image-25-1280x702.jpg" alt="Ethan Gach’s Top 10 Games Of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/best-games-2025-silksong-final-fantasy-tactics-9-kings-2000655728" target="_blank">Ethan Gach’s Top 10 Games Of 2025</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-29 22:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/DVDneXtCOPY.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This DVD ripper will save your memories from the attic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/29/this-dvd-ripper-will-save-your-memories-from-the-attic.html" target="_blank">This DVD ripper will save your memories from the attic</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-29 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/bestmoments2025kotakuB-1280x720.jpg" alt="The Best Video Game Moments Of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -271,33 +307,6 @@
                 <span class="title"><a href="https://gizmodo.com/cd-projekt-co-founder-buys-steam-rival-gog-2000704077" target="_blank">CD Projekt Co-Founder Buys Steam Rival GOG</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-29 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KDNHTX3BKPDRC6QF6FCM0D8D/hero-image.jpg" alt="So, I Tried an AI Shopping Cart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/what-it-is-like-to-use-an-ai-shopping-cart?utm_medium=RSS" target="_blank">So, I Tried an AI Shopping Cart</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-29 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Kylo-Ren.jpg" alt="What The Internet Keeps Getting Wrong About The Most Famous Quote From Star Wars: The Last Jedi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-last-jedi-kylo-ren-quote-rian-johnson-2000655969" target="_blank">What The Internet Keeps Getting Wrong About The Most Famous Quote From Star Wars: The Last Jedi</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-29 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_topart-1280x853.jpg" alt="15 Things We Liked, and 5 We Didn’t, About ‘Stranger Things’ Season 5, Volume 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/15-things-we-liked-and-5-we-didnt-about-stranger-things-season-5-volume-2-2000703631" target="_blank">15 Things We Liked, and 5 We Didn’t, About ‘Stranger Things’ Season 5, Volume 2</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-29 18:30</span>
             </div>
         </div>
 </div>
@@ -337,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
