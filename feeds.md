@@ -1,26 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 16:02:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing 54 RSS feeds at 2025-12-29 17:01:58 UTC -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 18 feeds processed -->
+<!-- Generated 10 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/deadly-protests-and-clashes-in-syria-what-happened-and-whats-next?traffic_source=rss" target="_blank">Deadly protests and clashes in Syria – what happened and what’s next?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-29 16:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,20 +92,29 @@
                 <span class="time">2025-12-29 12:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/mn-weather-main_1767006477576_hpMain_4x3t_384.jpg" alt="Winter storm moves east on Monday, bringing dangerous wind, snow and ice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/winter-storm-moves-east-monday-bringing-dangerous-wind/story?id=128745344" target="_blank">Winter storm moves east on Monday, bringing dangerous wind, snow and ice</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-29 11:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/29/why-the-electrical-grid-needs-more-software/" target="_blank">Why the electrical grid needs more software</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-29 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms" target="_blank">How to tweak your online platform algorithms</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-29 16:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,29 +151,38 @@
                 <span class="time">2025-12-29 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/10/win10-wallpaper-scaled-500x500-1760443589.jpg" alt="Remembering what Windows 10 did right—and how it made modern Windows more annoying" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/remembering-the-best-and-worst-about-windows-10-on-the-year-it-technically-died/" target="_blank">Remembering what Windows 10 did right—and how it made modern Windows more annoying</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-29 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/850074/2025-windows-arm-laptops-qualcomm-intel-amd-nvidia" target="_blank">Windows on Arm had another good year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-29 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/gnome-extensions-blue.jpg?resize=406%2C232&amp;ssl=1" alt="Make GNOME App Grid Scroll Vertically (Like it Used to)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/gnome-vertical-app-grid-extension" target="_blank">Make GNOME App Grid Scroll Vertically (Like it Used to)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-29 16:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792607&w=600" alt="Why the Future Is Increasingly Pointing Toward Multi-Cloud Strategies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/future-multi-cloud-strategies" target="_blank">Why the Future Is Increasingly Pointing Toward Multi-Cloud Strategies</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-29 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/epyc-cachyos-server-preview" target="_blank">The Performance Of Arch Linux Powered CachyOS On AMD EPYC Servers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-29 15:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/sre-java-agent/en/mediumimage/bruno-borges-medium-1766062832077.jpg" alt="Presentation: Fix SLO Breaches Before They Repeat: An SRE AI Agent for Application Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -181,33 +210,6 @@
                 <span class="time">2025-12-29 14:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792583&w=600" alt="Small Language Models as Control Planes to Steer Complex Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/small-language-models-control-planes" target="_blank">Small Language Models as Control Planes to Steer Complex Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F726jbgaetgwzmrr2ckqy.png" alt="artifacts that plug into a system" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/crawlingcrusader/artifacts-that-plug-into-a-system-1n81" target="_blank">artifacts that plug into a system</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-29 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paperium/gemini-25-pushing-the-frontier-with-advanced-reasoning-multimodality-longcontext-and-next-ncm" target="_blank">Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, LongContext, and Next Generation Agentic Capabilities</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-29 13:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,6 +229,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Epilogue-SN-Operator-2-e1767021856919-1280x853.png" alt="This Desktop Doohickey Will Bring Your Physical SNES Games to Your PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-desktop-doohickey-will-bring-your-physical-snes-games-to-your-pc-2000703925" target="_blank">This Desktop Doohickey Will Bring Your Physical SNES Games to Your PC</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-29 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/06/607d2ec4b003d6d1660339f20fc88dfe.jpg" alt="Konami Is Turning Silent Hill Into An Annual Franchise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/konami-is-turning-silent-hill-into-an-annual-franchise-remake-townfall-2000655940" target="_blank">Konami Is Turning Silent Hill Into An Annual Franchise</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-29 16:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KD6FN6H12QJ1QNXBZ3QFR0GZ/hero-image.jpg" alt="This Dashcam Is My Tech &#x27;Upgrade of the Year&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,24 +283,6 @@
                 <span class="time">2025-12-29 14:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/06/ocean-1.jpeg?fit=1500%2C989&amp;quality=60&amp;ssl=1" alt="Search to resume for lost Malaysia Airlines flight MH370" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/29/search-to-resume-for-lost-malaysia-airlines-flight-mh370.html" target="_blank">Search to resume for lost Malaysia Airlines flight MH370</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-29 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/A-surfer-on-the-Eisbach-River-in-Englischer-Gart.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Munich surfers want their wave back after city removes beam from river" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/29/munich-surfers-want-their-wave-back-after-city-removes-beam-from-river.html" target="_blank">Munich surfers want their wave back after city removes beam from river</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-29 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,22 +306,13 @@
                 <span class="time">2025-12-28 19:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1766648250-20251228 - edit.png" alt="Saturday Morning Breakfast Cereal - Proof" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/proof-4" target="_blank">Saturday Morning Breakfast Cereal - Proof</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-28 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 250 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
