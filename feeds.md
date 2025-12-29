@@ -1,27 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 19:01:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-29 20:01:35 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 19 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/29/well-knock-the-hell-out-of-them-trump-threatens-iran?traffic_source=rss" target="_blank">‘We’ll knock the hell out of them’: Trump threatens Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-29 19:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-251229_1767033171125_hpMain_4x3t_384.jpg" alt="Israel-Gaza live updates: Netanyahu meets with Trump at Mar-a-Lago" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,20 +95,38 @@
                 <span class="time">2025-12-29 15:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/2025-trumps-year-of-emergency-invasion-and-narcoterrorism?traffic_source=rss" target="_blank">2025: Trump’s year of ’emergency’, ‘invasion’ and ‘narcoterrorism’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-29 14:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/29/social-media-follower-counts-have-never-mattered-less-creator-economy-execs-say/" target="_blank">Social media follower counts have never mattered less, creator economy execs say</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/leonardo1CROP-500x500.jpg" alt="Leonardo’s wood charring method predates Japanese practice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/" target="_blank">Leonardo’s wood charring method predates Japanese practice</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-29 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam" target="_blank">GOG&amp;#8217;s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-29 18:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -123,38 +154,33 @@
                 <span class="time">2025-12-29 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/850705/beats-pixel-watch-apple-pencil-sales-deal" target="_blank">Beats’ new Powerbeats Fit earbuds are down to $180</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-29 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/myth1-500x500.jpg" alt="A quirky guide to myths and lore based in actual science" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/a-quirky-guide-to-myths-and-lore-based-in-actual-science/" target="_blank">A quirky guide to myths and lore based in actual science</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-29 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/" target="_blank">VCs predict strong enterprise AI adoption next year — again</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-29 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F7402%2F04f86f58-db61-410f-8eda-06b0c052f17f.jpeg" alt="Optimiza tus recursos con un monitoreo efectivo de costos en AWS Lambdas usando Terraform
+
+¡Descubre cómo puedes maximizar la eficiencia de tus aplicaciones serverless!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/valaug/optimiza-tus-recursos-con-un-monitoreo-efectivo-de-costos-en-aws-lambdas-usando-terraform-2n1j" target="_blank">Optimiza tus recursos con un monitoreo efectivo de costos en AWS Lambdas usando Terraform
+
+¡Descubre cómo puedes maximizar la eficiencia de tus aplicaciones serverless!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-29 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792618&w=600" alt="Manage Knowledge, Not Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/manage-knowledge-not-code" target="_blank">Manage Knowledge, Not Code</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-29 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/gnome-extensions-blue.jpg?resize=406%2C232&amp;ssl=1" alt="Make GNOME App Grid Scroll Vertically (Like it Used to)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,24 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/epyc-cachyos-server-preview" target="_blank">The Performance Of Arch Linux Powered CachyOS On AMD EPYC Servers</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-29 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/sre-java-agent/en/mediumimage/bruno-borges-medium-1766062832077.jpg" alt="Presentation: Fix SLO Breaches Before They Repeat: An SRE AI Agent for Application Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/sre-java-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Fix SLO Breaches Before They Repeat: An SRE AI Agent for Application Workloads</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-29 15:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/" target="_blank">Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-29 15:04</span>
             </div>
         </div>
 </div>
@@ -305,22 +313,13 @@
                 <span class="time">2025-12-29 08:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/28/three-things-2" target="_blank">Three Things!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-28 19:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 41 | 📸 With Images: 254 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
