@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 06:02:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-29 07:04:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 07:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/seven-turkish-police-officers-wounded-in-clash-with-isil-fighters-report?traffic_source=rss" target="_blank">Seven Turkish police officers wounded in clash with ISIL fighters: Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-29 06:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8429/live/96bd1540-e40c-11f0-8895-9b886f4cd2ed.jpg" alt="Hospitals warned end-of-life care crisis threatening treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0l93dpl6dyo?at_medium=RSS&at_campaign=rss" target="_blank">Hospitals warned end-of-life care crisis threatening treatment</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-29 05:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4056/live/4c64d9f0-e480-11f0-aae2-2191c0e48a3b.jpg" alt="Trump says progress made in Ukraine talks but &#x27;thorny issues&#x27; remain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/russia-ukraine-war-list-of-key-events-day-1404?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,404</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-29 01:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/n-koreas-kim-oversees-test-launch-of-long-range-cruise?traffic_source=rss" target="_blank">North Korea’s Kim oversees test launch of long-range cruise missiles</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-29 00:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-9-rt-gmh-251228_1766965190108_hpMain_4x3t_384.jpg" alt="Trump shares update on Russia, Ukraine peace deal after Zelenskyy meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/volodymyr-zelenskyy-arrives-mar-lago-peace-talks-president/story?id=128736611" target="_blank">Trump shares update on Russia, Ukraine peace deal after Zelenskyy meeting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-29 00:11</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says progress made in Ukraine talks but &#x27;thorny issues&#x27; remain</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-29 02:06</span>
             </div>
         </div>
 </div>
@@ -101,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" alt="Home Chef Promo Code: 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/home-chef-promo-code/" target="_blank">Home Chef Promo Code: 50% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-29 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +159,20 @@
                 <span class="time">2025-12-28 19:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/28/why-wetransfer-co-founder-is-building-another-file-transfer-service/" target="_blank">Why WeTransfer co-founder is building another file transfer service</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-28 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj06c0cs53a1uolhy7cff.png" alt="Version Control for Beginners: The Pendrive Analogy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/satyasootar/version-control-for-beginners-the-pendrive-analogy-1629" target="_blank">Version Control for Beginners: The Pendrive Analogy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-29 06:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/alissongoulartt/react-native-083-for-production-teams-better-devtools-better-tracing-less-risk-5ggk" target="_blank">React Native 0.83 for Production Teams: Better DevTools, Better Tracing, Less Risk</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-29 01:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jumptotech/mini-project-network-visibility-with-wireshark-devops-basics-39co" target="_blank">Mini Project: Network Visibility with Wireshark (DevOps Basics)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-28 23:45</span>
             </div>
         </div>
 </div>
@@ -301,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 242 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 243 |
+        🔄 Last Updated: 07:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
