@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 13:13:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-29 14:01:52 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4056/live/4c64d9f0-e480-11f0-aae2-2191c0e48a3b.jpg" alt="US offered Ukraine 15-year security guarantee, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss" target="_blank">US offered Ukraine 15-year security guarantee, Zelensky says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-29 13:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1767012315883_tdy_news_7a_gabe_trump_peace_talks_251229_1920x1080-n6nm2x.jpg" alt="Trump Says Ukraine Peace Deal is ‘Closer’ after Zelenskyy Meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-says-ukraine-peace-deal-is-closer-after-zelenskyy-meeting-255104069998" target="_blank">Trump Says Ukraine Peace Deal is ‘Closer’ after Zelenskyy Meeting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-29 12:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/29/g-s1-103903/up-first-newsletter-trump-volodymyr-zelenskyy-benjamin-netanyahu-poverty-aid" target="_blank">Trump says Ukraine peace is closer. And, how funding cuts affect anti-poverty groups</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-29 12:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/mn-weather-main_1767006477576_hpMain_4x3t_384.jpg" alt="Winter storm moves east on Monday, bringing dangerous wind, snow and ice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,38 +105,38 @@
                 <span class="time">2025-12-29 10:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/tents-flooded-by-heavy-rains-in-gaza-amid-calls-for-israel-to-let-in-aid?traffic_source=rss" target="_blank">Tents flooded by heavy rains in Gaza amid calls for Israel to let in aid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-29 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251209-trump-speech-lr-6a0648.jpg" alt="What we learned about the state of the Trump coalition in conversations with 50 voters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/elections/learned-state-trump-coalition-conversations-50-voters-year-rcna248275" target="_blank">What we learned about the state of the Trump coalition in conversations with 50 voters</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-29 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/29/nx-s1-5624238/new-year-calendar-january-history" target="_blank">Why do so many people ring in the new year on Jan. 1?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-29 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/" target="_blank">VCs predict strong enterprise AI adoption next year — again</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-29 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/846829/hbo-max-best-shows-2025" target="_blank">The best shows to watch on HBO Max from 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-29 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/10/win10-wallpaper-scaled-500x500-1760443589.jpg" alt="Remembering what Windows 10 did right—and how it made modern Windows more annoying" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/12/remembering-the-best-and-worst-about-windows-10-on-the-year-it-technically-died/" target="_blank">Remembering what Windows 10 did right—and how it made modern Windows more annoying</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-29 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,38 +164,20 @@
                 <span class="time">2025-12-29 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/" target="_blank">Sauron, the high-end home security startup for “super premium” customers, plucks a new CEO out of Sonos</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-29 02:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/28/police-charge-driver-who-allegedly-killed-a-pedestrian-while-livestreaming-on-tiktok/" target="_blank">Police charge driver who allegedly killed a pedestrian while livestreaming on TikTok</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-28 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling" target="_blank">LG announces new UltraGear evo gaming monitors with AI upscaling</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-28 21:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F726jbgaetgwzmrr2ckqy.png" alt="artifacts that plug into a system" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/crawlingcrusader/artifacts-that-plug-into-a-system-1n81" target="_blank">artifacts that plug into a system</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-29 13:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,6 +185,15 @@
                 <span class="title"><a href="https://dev.to/paperium/gemini-25-pushing-the-frontier-with-advanced-reasoning-multimodality-longcontext-and-next-ncm" target="_blank">Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, LongContext, and Next Generation Agentic Capabilities</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-29 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ryzen-9950X3D-Cache-Aware-Sched" target="_blank">Linux&#x27;s Cache Aware Scheduling On AMD Ryzen 9 9950X3D 3D V-Cache</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-29 11:57</span>
             </div>
         </div>
 <div class="story">
@@ -200,28 +223,6 @@
                 <span class="time">2025-12-29 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1480342%2Ff6dfce66-6fad-4ba6-83f8-5cb4a9687e1e.png" alt="Shared a short post on CI/CD feeling heavy even when it works.
-Moved from GitHub Actions Ansible + Jenkins
-Curious how others here navigated this phase." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nightwalker28/shared-a-short-post-on-cicd-feeling-heavy-even-when-it-works-moved-from-github-actions-ansible-1off" target="_blank">Shared a short post on CI/CD feeling heavy even when it works.
-Moved from GitHub Actions Ansible + Jenkins
-Curious how others here navigated this phase.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-29 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ttoss/tutorial-how-to-serve-rest-and-mcp-on-the-same-server-1a10" target="_blank">Tutorial: How to Serve REST and MCP on the Same Server</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-29 09:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +242,15 @@ Curious how others here navigated this phase.</a></span>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/A-surfer-on-the-Eisbach-River-in-Englischer-Gart.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Munich surfers want their wave back after city removes beam from river" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/29/munich-surfers-want-their-wave-back-after-city-removes-beam-from-river.html" target="_blank">Munich surfers want their wave back after city removes beam from river</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-29 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/beatssolo4-2-1280x853.jpg" alt="Forget AirPods Max, Beats Solo 4 Bluetooth Headphones Crash to a Record Low After 10K+ Units Sold" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +296,6 @@ Curious how others here navigated this phase.</a></span>
                 <span class="time">2025-12-28 18:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-LVPD.jpg?fit=1080%2C646&amp;quality=60&amp;ssl=1" alt="Las Vegas police&#x27;s bulletproof Cybertrucks aren&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/28/las-vegas-polices-bulletproof-cybertrucks-arent.html" target="_blank">Las Vegas police&#x27;s bulletproof Cybertrucks aren&#x27;t</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-28 16:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +333,8 @@ Curious how others here navigated this phase.</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 247 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 85 | 📡 Total Sources: 41 | 📸 With Images: 247 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
