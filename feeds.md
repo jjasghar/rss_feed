@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 12:02:40 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-29 13:13:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +108,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/850074/2025-windows-arm-laptops-qualcomm-intel-amd-nvidia" target="_blank">Windows on Arm had another good year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-29 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/29/youve-been-targeted-by-government-spyware-now-what/" target="_blank">You’ve been targeted by government spyware. Now what?</a></span>
                 <span class="feed">TechCrunch</span>
@@ -147,20 +159,20 @@
                 <span class="time">2025-12-28 21:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/28/is-the-apple-watch-se-3-a-good-deal/" target="_blank">A guide to choosing the right Apple Watch</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-28 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paperium/gemini-25-pushing-the-frontier-with-advanced-reasoning-multimodality-longcontext-and-next-ncm" target="_blank">Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, LongContext, and Next Generation Agentic Capabilities</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-29 13:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,13 +222,18 @@ Curious how others here navigated this phase.</a></span>
                 <span class="time">2025-12-29 09:44</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcz0qdilgn4tk1vvt6uno.png" alt="Kubernetes In-Place Pod Resize" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alikhil/kubernetes-in-place-pod-resize-454i" target="_blank">Kubernetes In-Place Pod Resize</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-29 09:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html" target="_blank">Are We Ready to Be Governed by Artificial Intelligence?</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-29 12:07</span>
             </div>
         </div>
 </div>
@@ -224,6 +241,15 @@ Curious how others here navigated this phase.</a></span>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/beatssolo4-2-1280x853.jpg" alt="Forget AirPods Max, Beats Solo 4 Bluetooth Headphones Crash to a Record Low After 10K+ Units Sold" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/forget-airpods-max-beats-solo-4-bluetooth-headphones-crash-to-a-record-low-after-10k-units-sold-2000655752" target="_blank">Forget AirPods Max, Beats Solo 4 Bluetooth Headphones Crash to a Record Low After 10K+ Units Sold</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-29 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/robot-that-sucks-1280x853.jpg" alt="Something Is Making Humanoid Robot Makers Worry: The Robots Suck" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +295,6 @@ Curious how others here navigated this phase.</a></span>
                 <span class="time">2025-12-28 16:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/dc-absolute-universe-1280x853.jpg" alt="The Absolute Universe Gave DC a Great Comics Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-absolute-universe-gave-dc-a-great-comics-year-2000703732" target="_blank">The Absolute Universe Gave DC a Great Comics Year</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-28 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +332,8 @@ Curious how others here navigated this phase.</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 247 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 247 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
