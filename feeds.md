@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 11:01:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-29 12:02:40 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/mn-weather-main_1767006477576_hpMain_4x3t_384.jpg" alt="Winter storm moves east on Monday, bringing dangerous wind, snow and ice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/winter-storm-moves-east-monday-bringing-dangerous-wind/story?id=128745344" target="_blank">Winter storm moves east on Monday, bringing dangerous wind, snow and ice</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-29 11:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/29/china-launches-live-fire-military-exercises-around-taiwan?traffic_source=rss" target="_blank">China launches live-fire military exercises around Taiwan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-29 11:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-14-rt-gmh-251228_1766966100360_hpMain_4x3t_384.jpg" alt="Kremlin aide praises Trump&#x27;s &#x27;peace efforts&#x27; after Zelenskyy meeting, Putin call" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,24 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/29/nx-s1-5624238/new-year-calendar-january-history" target="_blank">Why do so many people ring in the new year on Jan. 1?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-29 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/29/winter-floods-wreak-havoc-on-gaza-displacement-camps-as-israel-blocks-aid?traffic_source=rss" target="_blank">Winter floods wreak havoc on Gaza displacement camps as Israel blocks aid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-29 08:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/seven-turkish-police-officers-wounded-in-clash-with-isil-fighters-report?traffic_source=rss" target="_blank">Seven Turkish police officers wounded in clash with ISIL fighters: Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-29 06:25</span>
             </div>
         </div>
 </div>
@@ -169,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/debian-embraces-loongarch-processors/" target="_blank">Debian Embraces Chinese LoongArch Processors with Official Loong64 Support</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-29 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/sima-2-gemini-agent/en/headerimage/generatedHeaderImage-1766979483818.jpg" alt="SIMA 2 Uses Gemini and Self-Improvement to Generalize Across Unseen 3D and Photorealistic Worlds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/sima-2-gemini-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">SIMA 2 Uses Gemini and Self-Improvement to Generalize Across Unseen 3D and Photorealistic Worlds</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-29 11:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/DORA-metrics-PBCs/en/headerimage/dora-metrics-header-1766410050172.jpg" alt="Article: Stop Guessing, Start Improving: Using DORA Metrics and Process Behavior Charts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -206,24 +217,6 @@ Curious how others here navigated this phase.</a></span>
                 <span class="title"><a href="https://dev.to/alikhil/kubernetes-in-place-pod-resize-454i" target="_blank">Kubernetes In-Place Pod Resize</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-29 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/spfx-1-22-heft/en/headerimage/header-1670341892423-1766849369169.jpg" alt="SharePoint Framework 1.22 Ships with Heft-Based Build Toolchain and Refreshed Project Baseline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/spfx-1-22-heft/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">SharePoint Framework 1.22 Ships with Heft-Based Build Toolchain and Refreshed Project Baseline</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-29 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FeyJjb2RlIjoiZ3JhcGggVERcbiAgQVtcIvCfk6UgQXBwbGljYXRpb25cIl06OjppbnB1dCAtLT4gQltcIuKame%2B4jyBDb25uZWN0aW9uIFBvb2xlclwiXTo6OnByb2Nlc3NcbiAgQiAtLT4gQ3tcIvCflI0gQ29udHJvbCBQbGFuZVwifTo6OmRlY2lzaW9uXG4gIEMgLS0gXCJIaWdoIExvYWRcIiAtLT4gRltcIuKchSBTY2FsZSBVcFwiXTo6OnN1Y2Nlc3NcbiAgQyAtLSBcIklkbGUgU3RhdGVcIiAtLT4gR1tcIvCfmqggU2NhbGUgRG93blwiXTo6OnByb2Nlc3NcbiAgRiAtLT4gSFtcIuKame%2B4jyBDb21wdXRlIExpZmVjeWNsZVwiXTo6OnByb2Nlc3NcbiAgRyAtLT4gSFxuICBIIDwtLT4gSVtcIvCfl4TvuI8gV2FycCBUYXBlcyBTdG9yYWdlXCJdOjo6ZW5kcG9pbnRcblxuICBjbGFzc0RlZiBpbnB1dCBmaWxsOiM2MzY2ZjEsY29sb3I6I2ZmZlxuICBjbGFzc0RlZiBwcm9jZXNzIGZpbGw6IzNiODJmNixjb2xvcjojZmZmXG4gIGNsYXNzRGVmIHN1Y2Nlc3MgZmlsbDojMjJjNTVlLGNvbG9yOiNmZmZcbiAgY2xhc3NEZWYgZGVjaXNpb24gZmlsbDojOGI1Y2Y2LGNvbG9yOiNmZmZcbiAgY2xhc3NEZWYgZW5kcG9pbnQgZmlsbDojMWUyOTNiLGNvbG9yOiNmZmYiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJiZ0NvbG9yIjoiIXRyYW5zcGFyZW50In0%3D" alt="Neon Postgres 2025: Why the New Instant Compute Changes Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dataformathub/neon-postgres-2025-why-the-new-instant-compute-changes-everything-2jog" target="_blank">Neon Postgres 2025: Why the New Instant Compute Changes Everything</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-29 07:47</span>
             </div>
         </div>
 </div>
@@ -322,8 +315,8 @@ Curious how others here navigated this phase.</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 247 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 247 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
