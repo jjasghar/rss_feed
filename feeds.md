@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 08:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-29 09:04:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 09:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcz0qdilgn4tk1vvt6uno.png" alt="Kubernetes In-Place Pod Resize" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alikhil/kubernetes-in-place-pod-resize-454i" target="_blank">Kubernetes In-Place Pod Resize</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-29 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/12/spfx-1-22-heft/en/headerimage/header-1670341892423-1766849369169.jpg" alt="SharePoint Framework 1.22 Ships with Heft-Based Build Toolchain and Refreshed Project Baseline" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -207,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/jaideepparashar/tech-leaders-should-understand-that-ai-can-manage-the-end-to-end-process-once-we-have-complete-4egg" target="_blank">Tech leaders should understand that AI can manage the end to end process. Once we have complete integration of tools, the entire responsibility of tech leaders will change completely.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-29 02:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/java-news-roundup-dec22-2025/en/headerimage/java-istock-image-01-1766930634866.jpg" alt="Java News Roundup: Spring Vault, LangChain4j, Seed4J, Infinispan, Gradle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/java-news-roundup-dec22-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Spring Vault, LangChain4j, Seed4J, Infinispan, Gradle</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-29 02:30</span>
             </div>
         </div>
 </div>
@@ -314,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 244 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 246 |
+        🔄 Last Updated: 09:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
