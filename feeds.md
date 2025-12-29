@@ -1,33 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 15:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-29 16:02:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/29/g-s1-102448/great-read-global-health-chess-siblings-medical-mystery" target="_blank">From chess to a medical mystery: Great global reads from 2025 you may have missed</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-29 15:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +90,29 @@
                 <span class="time">2025-12-29 11:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/29/china-launches-live-fire-military-exercises-around-taiwan?traffic_source=rss" target="_blank">China launches live-fire military exercises around Taiwan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-29 11:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/850705/beats-pixel-watch-apple-pencil-sales-deal" target="_blank">Beats’ new Powerbeats Fit earbuds are down to $180</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-29 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/myth1-500x500.jpg" alt="A quirky guide to myths and lore based in actual science" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/a-quirky-guide-to-myths-and-lore-based-in-actual-science/" target="_blank">A quirky guide to myths and lore based in actual science</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-29 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +149,20 @@
                 <span class="time">2025-12-29 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/29/youve-been-targeted-by-government-spyware-now-what/" target="_blank">You’ve been targeted by government spyware. Now what?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-29 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" alt="Home Chef Promo Code: 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/home-chef-promo-code/" target="_blank">Home Chef Promo Code: 50% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-29 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/sre-java-agent/en/mediumimage/bruno-borges-medium-1766062832077.jpg" alt="Presentation: Fix SLO Breaches Before They Repeat: An SRE AI Agent for Application Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/sre-java-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Fix SLO Breaches Before They Repeat: An SRE AI Agent for Application Workloads</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-29 15:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft0jyn08dlg029f3zabwi.png" alt="Building a Portfolio That Actually Demonstrates Enterprise Skills - Intro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +208,6 @@
                 <span class="time">2025-12-29 13:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ryzen-9950X3D-Cache-Aware-Sched" target="_blank">Linux&#x27;s Cache Aware Scheduling On AMD Ryzen 9 9950X3D 3D V-Cache</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-29 11:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +227,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KD6FN6H12QJ1QNXBZ3QFR0GZ/hero-image.jpg" alt="This Dashcam Is My Tech &#x27;Upgrade of the Year&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/this-dashcam-is-my-upgrade-of-the-year?utm_medium=RSS" target="_blank">This Dashcam Is My Tech &#x27;Upgrade of the Year&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-29 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/foldableiphone-1600x1067-1.webp?fit=1600%2C1067&amp;quality=55&amp;ssl=1" alt="Sued by Apple over earlier leaks, Jon Prosser shows off a foldable iPhone design" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/29/sued-by-apple-over-earlier-leaks-jon-prosser-shows-off-a-foldable-iphone-design.html" target="_blank">Sued by Apple over earlier leaks, Jon Prosser shows off a foldable iPhone design</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-29 15:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/x-files-scully-mulder-1280x853.jpg" alt="‘The X-Files’ Is Ready to Be Your Free Streaming Binge for the New Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/x-files-streaming-free-pluto-tv-2000703924" target="_blank">‘The X-Files’ Is Ready to Be Your Free Streaming Binge for the New Year</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-29 15:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/04/94f88aaebbb3e2c9352e487f53b94de9-1024x757.jpg" alt="Life on Europa Could Feed On This Unexpected Source of Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,33 +279,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/29/munich-surfers-want-their-wave-back-after-city-removes-beam-from-river.html" target="_blank">Munich surfers want their wave back after city removes beam from river</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-29 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/beatssolo4-2-1280x853.jpg" alt="Forget AirPods Max, Beats Solo 4 Bluetooth Headphones Crash to a Record Low After 10K+ Units Sold" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/forget-airpods-max-beats-solo-4-bluetooth-headphones-crash-to-a-record-low-after-10k-units-sold-2000655752" target="_blank">Forget AirPods Max, Beats Solo 4 Bluetooth Headphones Crash to a Record Low After 10K+ Units Sold</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-29 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/robot-that-sucks-1280x853.jpg" alt="Something Is Making Humanoid Robot Makers Worry: The Robots Suck" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/something-is-making-humanoid-robot-makers-worry-the-robots-suck-2000703811" target="_blank">Something Is Making Humanoid Robot Makers Worry: The Robots Suck</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-29 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/SwifDoo-PDF-Pro.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Your Windows PC called: it wants SwifDoo PDF Pro for $24.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/28/your-windows-pc-called-it-wants-swifdoo-pdf-pro-for-24-97.html" target="_blank">Your Windows PC called: it wants SwifDoo PDF Pro for $24.97</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-28 22:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 247 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
