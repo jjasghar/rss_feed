@@ -1,44 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 10:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-29 11:01:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 36 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +51,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-14-rt-gmh-251228_1766966100360_hpMain_4x3t_384.jpg" alt="Kremlin aide praises Trump&#x27;s &#x27;peace efforts&#x27; after Zelenskyy meeting, Putin call" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/kremlin-aide-praises-trumps-peace-efforts-after-zelenskyy/story?id=128744654" target="_blank">Kremlin aide praises Trump&#x27;s &#x27;peace efforts&#x27; after Zelenskyy meeting, Putin call</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-29 10:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/tents-flooded-by-heavy-rains-in-gaza-amid-calls-for-israel-to-let-in-aid?traffic_source=rss" target="_blank">Tents flooded by heavy rains in Gaza amid calls for Israel to let in aid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-29 10:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251209-trump-speech-lr-6a0648.jpg" alt="What we learned about the state of the Trump coalition in conversations with 50 voters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/elections/learned-state-trump-coalition-conversations-50-voters-year-rcna248275" target="_blank">What we learned about the state of the Trump coalition in conversations with 50 voters</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-29 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/29/nx-s1-5624238/new-year-calendar-january-history" target="_blank">Why do so many people ring in the new year on Jan. 1?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-29 10:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -70,42 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/seven-turkish-police-officers-wounded-in-clash-with-isil-fighters-report?traffic_source=rss" target="_blank">Seven Turkish police officers wounded in clash with ISIL fighters: Report</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-29 06:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8429/live/96bd1540-e40c-11f0-8895-9b886f4cd2ed.jpg" alt="Hospitals warned end-of-life care crisis threatening treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0l93dpl6dyo?at_medium=RSS&at_campaign=rss" target="_blank">Hospitals warned end-of-life care crisis threatening treatment</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-29 05:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/longform/2025/12/29/all-the-countries-israel-attacked-in-2025-animated-map?traffic_source=rss" target="_blank">All the countries Israel attacked in 2025: Animated map</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-29 05:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8454/live/02353480-e460-11f0-93e5-b7076dcec693.jpg" alt="China holds military drills around Taiwan as warning to &#x27;separatist forces&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c87l7xjp235o?at_medium=RSS&at_campaign=rss" target="_blank">China holds military drills around Taiwan as warning to &#x27;separatist forces&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-29 04:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d890/live/306b3840-e438-11f0-ba29-7da52e5ef3db.jpg" alt="Egyptian dissident sorry for tweets as Tories push for deportation from UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0l93lx1rx3o?at_medium=RSS&at_campaign=rss" target="_blank">Egyptian dissident sorry for tweets as Tories push for deportation from UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-29 03:22</span>
             </div>
         </div>
 </div>
@@ -173,6 +169,28 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/DORA-metrics-PBCs/en/headerimage/dora-metrics-header-1766410050172.jpg" alt="Article: Stop Guessing, Start Improving: Using DORA Metrics and Process Behavior Charts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/DORA-metrics-PBCs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Stop Guessing, Start Improving: Using DORA Metrics and Process Behavior Charts</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-29 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1480342%2Ff6dfce66-6fad-4ba6-83f8-5cb4a9687e1e.png" alt="Shared a short post on CI/CD feeling heavy even when it works.
+Moved from GitHub Actions Ansible + Jenkins
+Curious how others here navigated this phase." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nightwalker28/shared-a-short-post-on-cicd-feeling-heavy-even-when-it-works-moved-from-github-actions-ansible-1off" target="_blank">Shared a short post on CI/CD feeling heavy even when it works.
+Moved from GitHub Actions Ansible + Jenkins
+Curious how others here navigated this phase.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-29 10:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,24 +224,6 @@
                 <span class="title"><a href="https://dev.to/dataformathub/neon-postgres-2025-why-the-new-instant-compute-changes-everything-2jog" target="_blank">Neon Postgres 2025: Why the New Instant Compute Changes Everything</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-29 07:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj06c0cs53a1uolhy7cff.png" alt="Version Control for Beginners: The Pendrive Analogy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/satyasootar/version-control-for-beginners-the-pendrive-analogy-1629" target="_blank">Version Control for Beginners: The Pendrive Analogy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-29 06:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/md_tauhidhossainrubel_f/compliance-40-integrating-finance-data-and-cyber-in-us-firms-2bi" target="_blank">Compliance 4.0: Integrating Finance, Data and Cyber in U.S. Firms</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-29 04:07</span>
             </div>
         </div>
 </div>
@@ -322,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 244 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 247 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
