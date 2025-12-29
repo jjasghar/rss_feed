@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 20:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-29 21:01:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Trump and Netanyahu speak after meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump and Netanyahu speak after meeting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-29 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/29/nx-s1-5660767/fifa-gianni-infantino-world-cup-ticket-prices" target="_blank">FIFA president defends World Cup ticket prices, saying demand is hitting records</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-29 19:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/29/what-we-know-about-deadly-clashes-after-protests-in-syria?traffic_source=rss" target="_blank">What we know about deadly clashes after protests in Syria</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-29 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/deadly-protests-and-clashes-in-syria-what-happened-and-whats-next?traffic_source=rss" target="_blank">Deadly protests and clashes in Syria – what happened and what’s next?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-29 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/29/g-s1-102448/great-read-global-health-chess-siblings-medical-mystery" target="_blank">From chess to a medical mystery: Great global reads from 2025 you may have missed</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-29 15:15</span>
             </div>
         </div>
 </div>
@@ -160,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792645&w=600" alt="The Coming Shift From Bigger AI Models to Smaller, Faster Ones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/shift-to-smaller-faster-ai-models" target="_blank">The Coming Shift From Bigger AI Models to Smaller, Faster Ones</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F7402%2F04f86f58-db61-410f-8eda-06b0c052f17f.jpeg" alt="Optimiza tus recursos con un monitoreo efectivo de costos en AWS Lambdas usando Terraform
 
 ¡Descubre cómo puedes maximizar la eficiencia de tus aplicaciones serverless!" class="story-image" loading="lazy" onerror="this.style.display='none'">
@@ -208,20 +222,20 @@
                 <span class="time">2025-12-29 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/epyc-cachyos-server-preview" target="_blank">The Performance Of Arch Linux Powered CachyOS On AMD EPYC Servers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-29 15:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/" target="_blank">Happy 16th Birthday, KrebsOnSecurity.com!</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-12-29 20:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -236,6 +250,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/cyberpunk-2077-hed-1280x853.jpg" alt="CD Projekt Co-Founder Buys Steam Rival GOG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cd-projekt-co-founder-buys-steam-rival-gog-2000704077" target="_blank">CD Projekt Co-Founder Buys Steam Rival GOG</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-29 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KDNHTX3BKPDRC6QF6FCM0D8D/hero-image.jpg" alt="So, I Tried an AI Shopping Cart" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/what-it-is-like-to-use-an-ai-shopping-cart?utm_medium=RSS" target="_blank">So, I Tried an AI Shopping Cart</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-29 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/Kylo-Ren.jpg" alt="What The Internet Keeps Getting Wrong About The Most Famous Quote From Star Wars: The Last Jedi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,29 +304,20 @@
                 <span class="time">2025-12-29 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KDNBSRSHKRHDFRYRE32T83BF/hero-image.jpg" alt="You Might Soon Be Able to Change Your Gmail Address" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/you-might-soon-be-able-to-change-gmail-address?utm_medium=RSS" target="_blank">You Might Soon Be Able to Change Your Gmail Address</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-29 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Epilogue-SN-Operator-2-e1767021856919-1280x853.png" alt="This Desktop Doohickey Will Bring Your Physical SNES Games to Your PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-desktop-doohickey-will-bring-your-physical-snes-games-to-your-pc-2000703925" target="_blank">This Desktop Doohickey Will Bring Your Physical SNES Games to Your PC</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-29 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/29/earth-wind-and-fire" target="_blank">Earth, Wind, and Fire</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-29 20:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1766648289-20251229 - edit.png" alt="Saturday Morning Breakfast Cereal - Super" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -318,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 41 | 📸 With Images: 254 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
