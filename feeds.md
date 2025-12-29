@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 07:04:59 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-29 08:02:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 07:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/12/spfx-1-22-heft/en/headerimage/header-1670341892423-1766849369169.jpg" alt="SharePoint Framework 1.22 Ships with Heft-Based Build Toolchain and Refreshed Project Baseline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/spfx-1-22-heft/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">SharePoint Framework 1.22 Ships with Heft-Based Build Toolchain and Refreshed Project Baseline</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-29 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FeyJjb2RlIjoiZ3JhcGggVERcbiAgQVtcIvCfk6UgQXBwbGljYXRpb25cIl06OjppbnB1dCAtLT4gQltcIuKame%2B4jyBDb25uZWN0aW9uIFBvb2xlclwiXTo6OnByb2Nlc3NcbiAgQiAtLT4gQ3tcIvCflI0gQ29udHJvbCBQbGFuZVwifTo6OmRlY2lzaW9uXG4gIEMgLS0gXCJIaWdoIExvYWRcIiAtLT4gRltcIuKchSBTY2FsZSBVcFwiXTo6OnN1Y2Nlc3NcbiAgQyAtLSBcIklkbGUgU3RhdGVcIiAtLT4gR1tcIvCfmqggU2NhbGUgRG93blwiXTo6OnByb2Nlc3NcbiAgRiAtLT4gSFtcIuKame%2B4jyBDb21wdXRlIExpZmVjeWNsZVwiXTo6OnByb2Nlc3NcbiAgRyAtLT4gSFxuICBIIDwtLT4gSVtcIvCfl4TvuI8gV2FycCBUYXBlcyBTdG9yYWdlXCJdOjo6ZW5kcG9pbnRcblxuICBjbGFzc0RlZiBpbnB1dCBmaWxsOiM2MzY2ZjEsY29sb3I6I2ZmZlxuICBjbGFzc0RlZiBwcm9jZXNzIGZpbGw6IzNiODJmNixjb2xvcjojZmZmXG4gIGNsYXNzRGVmIHN1Y2Nlc3MgZmlsbDojMjJjNTVlLGNvbG9yOiNmZmZcbiAgY2xhc3NEZWYgZGVjaXNpb24gZmlsbDojOGI1Y2Y2LGNvbG9yOiNmZmZcbiAgY2xhc3NEZWYgZW5kcG9pbnQgZmlsbDojMWUyOTNiLGNvbG9yOiNmZmYiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJiZ0NvbG9yIjoiIXRyYW5zcGFyZW50In0%3D" alt="Neon Postgres 2025: Why the New Instant Compute Changes Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dataformathub/neon-postgres-2025-why-the-new-instant-compute-changes-everything-2jog" target="_blank">Neon Postgres 2025: Why the New Instant Compute Changes Everything</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-29 07:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj06c0cs53a1uolhy7cff.png" alt="Version Control for Beginners: The Pendrive Analogy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +216,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/12/java-news-roundup-dec22-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Spring Vault, LangChain4j, Seed4J, Infinispan, Gradle</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-12-29 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-2025-Wayland-Success" target="_blank">KDE Plasma&#x27;s Wayland Transition &quot;Nears Completion&quot; In Ending Out 2025</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-29 01:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alissongoulartt/react-native-083-for-production-teams-better-devtools-better-tracing-less-risk-5ggk" target="_blank">React Native 0.83 for Production Teams: Better DevTools, Better Tracing, Less Risk</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-29 01:11</span>
             </div>
         </div>
 </div>
@@ -286,6 +286,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/29/earth-wind-and-fire" target="_blank">Earth, Wind, and Fire</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-12-29 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/28/three-things-2" target="_blank">Three Things!</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-12-28 19:05</span>
@@ -305,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 243 |
-        🔄 Last Updated: 07:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 244 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
