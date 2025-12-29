@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 14:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-29 15:01:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, December 29, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/2025-trumps-year-of-emergency-invasion-and-narcoterrorism?traffic_source=rss" target="_blank">2025: Trump’s year of ’emergency’, ‘invasion’ and ‘narcoterrorism’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-29 14:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4056/live/4c64d9f0-e480-11f0-aae2-2191c0e48a3b.jpg" alt="US offered Ukraine 15-year security guarantee, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/29/china-launches-live-fire-military-exercises-around-taiwan?traffic_source=rss" target="_blank">China launches live-fire military exercises around Taiwan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-29 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-14-rt-gmh-251228_1766966100360_hpMain_4x3t_384.jpg" alt="Kremlin aide praises Trump&#x27;s &#x27;peace efforts&#x27; after Zelenskyy meeting, Putin call" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/kremlin-aide-praises-trumps-peace-efforts-after-zelenskyy/story?id=128744654" target="_blank">Kremlin aide praises Trump&#x27;s &#x27;peace efforts&#x27; after Zelenskyy meeting, Putin call</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-29 10:59</span>
             </div>
         </div>
 </div>
@@ -170,6 +162,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft0jyn08dlg029f3zabwi.png" alt="Building a Portfolio That Actually Demonstrates Enterprise Skills - Intro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/moodyjw/building-a-portfolio-that-actually-demonstrates-enterprise-skills-intro-5hlm" target="_blank">Building a Portfolio That Actually Demonstrates Enterprise Skills - Intro</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-29 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-NTFS-v3-Patches" target="_blank">NTFSPLUS Linux Driver Renamed To Just &quot;NTFS&quot; With Latest Code Restructuring</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-29 14:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792583&w=600" alt="Small Language Models as Control Planes to Steer Complex Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/small-language-models-control-planes" target="_blank">Small Language Models as Control Planes to Steer Complex Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-29 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F726jbgaetgwzmrr2ckqy.png" alt="artifacts that plug into a system" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,33 +215,6 @@
                 <span class="time">2025-12-29 11:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/debian-embraces-loongarch-processors/" target="_blank">Debian Embraces Chinese LoongArch Processors with Official Loong64 Support</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-29 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/sima-2-gemini-agent/en/headerimage/generatedHeaderImage-1766979483818.jpg" alt="SIMA 2 Uses Gemini and Self-Improvement to Generalize Across Unseen 3D and Photorealistic Worlds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/sima-2-gemini-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">SIMA 2 Uses Gemini and Self-Improvement to Generalize Across Unseen 3D and Photorealistic Worlds</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-29 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/DORA-metrics-PBCs/en/headerimage/dora-metrics-header-1766410050172.jpg" alt="Article: Stop Guessing, Start Improving: Using DORA Metrics and Process Behavior Charts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/DORA-metrics-PBCs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Stop Guessing, Start Improving: Using DORA Metrics and Process Behavior Charts</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-29 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/04/94f88aaebbb3e2c9352e487f53b94de9-1024x757.jpg" alt="Life on Europa Could Feed On This Unexpected Source of Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/life-on-europa-could-feed-on-this-unexpected-source-of-energy-2000703619" target="_blank">Life on Europa Could Feed On This Unexpected Source of Energy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-29 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/06/ocean-1.jpeg?fit=1500%2C989&amp;quality=60&amp;ssl=1" alt="Search to resume for lost Malaysia Airlines flight MH370" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/29/search-to-resume-for-lost-malaysia-airlines-flight-mh370.html" target="_blank">Search to resume for lost Malaysia Airlines flight MH370</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-29 14:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/A-surfer-on-the-Eisbach-River-in-Englischer-Gart.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Munich surfers want their wave back after city removes beam from river" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/12/28/your-windows-pc-called-it-wants-swifdoo-pdf-pro-for-24-97.html" target="_blank">Your Windows PC called: it wants SwifDoo PDF Pro for $24.97</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-12-28 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_Melting-1280x853.jpg" alt="The ‘Stranger Things’ Brothers on Resolving Relationships and Character Closure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-stranger-things-brothers-talk-resolving-relationships-2000703801" target="_blank">The ‘Stranger Things’ Brothers on Resolving Relationships and Character Closure</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-28 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/warning.jpg?fit=1600%2C1264&amp;quality=60&amp;ssl=1" alt="New York&#x27;s addiction warnings for social media now law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/28/new-yorks-addiction-warnings-for-social-media-now-law.html" target="_blank">New York&#x27;s addiction warnings for social media now law</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-28 18:15</span>
             </div>
         </div>
 </div>
@@ -333,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 85 | 📡 Total Sources: 41 | 📸 With Images: 247 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 247 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
