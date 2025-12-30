@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 07:03:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-30 08:02:13 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f453/live/8f5d6d00-e4ba-11f0-b67b-690eb873de1b.jpg" alt="Idris Elba knighted as Sarina Wiegman and Lionesses lead New Year Honours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crrkgzy52keo?at_medium=RSS&at_campaign=rss" target="_blank">Idris Elba knighted as Sarina Wiegman and Lionesses lead New Year Honours</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-30 03:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -91,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss" target="_blank">Russia&#x27;s losses in Ukraine rise faster than ever, as US pushes for peace deal</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-30 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1767052237455_nn_ggu_trump_meets_with_netanyahu_speaks_with_putin_251229_1920x1080-139slu.jpg" alt="Trump meets with Netanyahu, speaks with Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-meets-with-netanyahu-speaks-with-putin-255149125688" target="_blank">Trump meets with Netanyahu, speaks with Putin</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-29 23:50</span>
             </div>
         </div>
 </div>
@@ -179,6 +176,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ppc/why-version-control-system-exists-in-the-first-place-4kg9" target="_blank">Why version control system exists in the first place</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-30 07:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mridudixit15/angular-21-whats-new-whats-changed-3fl3" target="_blank">Angular 21 — What’s New, What’s Changed</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-30 06:59</span>
@@ -209,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/New-Mount-API-Man-Pages" target="_blank">It Took 6+ Years For Linux&#x27;s &quot;New&quot; Mount API To Be Properly Documented In Man Pages</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-30 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0tfe84rnsh6cn6iq4rmu.png" alt="uRocket - Reactor Networking in C# with io_uring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mda2av/urocket-reactor-networking-in-c-with-iouring-1j95" target="_blank">uRocket - Reactor Networking in C# with io_uring</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-29 23:45</span>
             </div>
         </div>
 </div>
@@ -325,22 +322,13 @@
                 <span class="time">2025-12-29 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/12/29/earth-wind-and-fire" target="_blank">Earth, Wind, and Fire</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-29 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
