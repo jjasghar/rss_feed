@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 19:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-30 20:01:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/30/g-s1-103731/global-health-progress-challenges-vaccines-malaria-hiv" target="_blank">In a year of steep challenges, there were still shining moments in global health</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-30 19:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/stefon-diggs-2-gty-gmh-251230_1767115255518_hpMain_4x3t_384.jpg" alt="Patriots star charged with strangulation, assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/new-england-patriots-player-stefon-diggs-faces-strangulation/story?id=128784732" target="_blank">Patriots star charged with strangulation, assault</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-30 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/12/30/nigeria-beat-uganda-3-1-to-head-into-afcon-last-16-with-perfect-record?traffic_source=rss" target="_blank">Nigeria beat Uganda 3-1 to head into AFCON last 16 with perfect record</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-30 18:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3633/live/b2d702f0-e582-11f0-aae2-2191c0e48a3b.png" alt="Eurostar warns of ongoing delays after services resume" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss" target="_blank">Eurostar warns of ongoing delays after services resume</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-30 17:58</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +102,20 @@
                 <span class="time">2025-12-30 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/30/g-s1-103991/yemen-conflict" target="_blank">An escalation in Yemen threatens to reignite civil war and widen tensions in the Gulf</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-30 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a92/live/77f3c720-e598-11f0-bb65-6152e605acc9.jpg" alt="Protests spread across Iran for third day after currency hits record low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss" target="_blank">Protests spread across Iran for third day after currency hits record low</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-30 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/30/thailand-delays-release-of-cambodian-troops-over-alleged-truce-breaches?traffic_source=rss" target="_blank">Thailand delays release ‍of Cambodian troops over alleged truce breaches</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-30 12:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware" target="_blank">Two cybersecurity employees plead guilty to carrying out ransomware attacks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-30 18:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +161,29 @@
                 <span class="time">2025-12-30 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/30/the-top-26-consumer-edtech-companies-from-disrupt-startup-battlefield/" target="_blank">The top 26 consumer/edtech companies from Disrupt Startup Battlefield</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-30 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/matheuscamarques/are-feature-flags-bullsht-why-your-if-is-killing-performance-and-the-planet-26bi" target="_blank">Are Feature Flags Bullsh*t? Why Your &quot;IF&quot; is Killing Performance (and the Planet)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-30 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797431&w=600" alt="Rethinking Cloud Compliance With an AI-Driven Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-driven-cloud-compliance" target="_blank">Rethinking Cloud Compliance With an AI-Driven Approach</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-30 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +220,6 @@
                 <span class="time">2025-12-30 17:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.paulox.net/2025/12/30/django-on-the-med-a-contributor-sprint-retrospective/" target="_blank">Django On The Med: A Contributor Sprint Retrospective</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-30 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxialio46flwpe52x4j9.png" alt="Remove CapCut Watermark with AI — How We Built a Flicker-Free Video Inpainting System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/renming_wang_99a0c6efbd56/remove-capcut-watermark-with-ai-how-we-built-a-flicker-free-video-inpainting-system-3n8h" target="_blank">Remove CapCut Watermark with AI — How We Built a Flicker-Free Video Inpainting System</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-30 15:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/Breath-of-the-wild-VR-mod-1280x720.jpg" alt="This New Legend Of Zelda: Breath Of The Wild VR Mod Is Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-new-legend-of-zelda-breath-of-the-wild-vr-mod-is-awesome-2000656152" target="_blank">This New Legend Of Zelda: Breath Of The Wild VR Mod Is Awesome</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-30 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_714565612-e1767120156975.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Farting sloth proves scientists wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/30/farting-sloth-proves-scientists-wrong.html" target="_blank">Farting sloth proves scientists wrong</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-30 18:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/01/atari0-e1767118643644.jpg?fit=768%2C519&amp;quality=60&amp;ssl=1" alt="Atari unveils gaming hotel in Phoenix that sounds like hell on earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,24 +302,6 @@
                 <span class="time">2025-12-30 17:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/year-in-review-2025-top-100-stories-institute-pluribus-doctor-who-1280x853.jpg" alt="io9’s Top 100 Stories of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/io9-top-stories-2025-star-wars-marvel-2000704022" target="_blank">io9’s Top 100 Stories of 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-30 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/fartjoke-1280x720.jpg" alt="Excuse Me, But What The Hell Is This?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/goat-trailer-fart-joke-jackass-sony-zootopia-funny-teaser-2000656133" target="_blank">Excuse Me, But What The Hell Is This?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-30 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
