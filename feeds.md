@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 18:01:54 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-12-30 19:02:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +47,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/stefon-diggs-2-gty-gmh-251230_1767115255518_hpMain_4x3t_384.jpg" alt="Patriots star charged with strangulation, assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/new-england-patriots-player-stefon-diggs-faces-strangulation/story?id=128784732" target="_blank">Patriots star charged with strangulation, assault</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-30 18:43</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/world/2025/dec/30/saudi-arabia-uae-tension-future-yemen-boiling-point" target="_blank">Tensions between Saudis and Emiratis over future of Yemen reach boiling point</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-12-30 17:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251230-putin-rs-7ed810.jpg" alt="Alleged drone attack on a Putin residence offers the Kremlin a timely narrative shift" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/russia-putin-drone-attack-ukraine-kremlin-trump-zelenskyy-florida-rcna251472" target="_blank">Alleged drone attack on a Putin residence offers the Kremlin a timely narrative shift</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-30 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/30/g-s1-103991/yemen-conflict" target="_blank">An escalation in Yemen threatens to reignite civil war and widen tensions in the Gulf</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-30 16:48</span>
             </div>
         </div>
 <div class="story">
@@ -76,38 +100,20 @@
                 <span class="time">2025-12-30 12:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/30/g-s1-103964/up-first-newsletter-trump-benjamin-netanyahu-ukraine-peace-talk-doge" target="_blank">Trump, Netanyahu meet over ceasefire. And, Russia accuses Ukraine of attempted strike</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-30 12:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/30/tech-giant-meta-buys-chinese-founded-ai-firm-manus?traffic_source=rss" target="_blank">Tech giant Meta buys Chinese-founded AI firm Manus</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-30 11:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/30/nx-s1-5660935/family-caregiver-support-policies-states" target="_blank">Policy relief for family caregivers seems stalled out. But there are signs of change</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-30 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/30/76-european-deep-tech-university-spinouts-reached-unicorn-or-centaur-status/" target="_blank">Almost 80 European deep tech university spinouts reached $1B valuations or $100M in revenue in 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-30 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +159,20 @@
                 <span class="time">2025-12-30 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/30/heres-whats-you-should-know-about-the-us-tiktok-deal/" target="_blank">Here’s what you should know about the US TikTok deal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-30 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-kernel-llvm-clang-lto" target="_blank">Some Meaningful Performance Benefits For Clang + LTO Built Linux Kernels</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-30 18:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797410&w=600" alt="Bias and Shortcut Tests for Vision Models: A Practical Test Suite From Real-World Experiments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,30 +201,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.paulox.net/2025/12/30/django-on-the-med-a-contributor-sprint-retrospective/" target="_blank">Django On The Med: A Contributor Sprint Retrospective</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-30 17:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxialio46flwpe52x4j9.png" alt="Remove CapCut Watermark with AI — How We Built a Flicker-Free Video Inpainting System" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/renming_wang_99a0c6efbd56/remove-capcut-watermark-with-ai-how-we-built-a-flicker-free-video-inpainting-system-3n8h" target="_blank">Remove CapCut Watermark with AI — How We Built a Flicker-Free Video Inpainting System</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-30 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Multi-Device-SVM-Linux-7" target="_blank">Intel&#x27;s Xe Linux Driver Ready With Multi-Device SVM To End Out 2025</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-30 15:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc" target="_blank">I Found 50+ Companies Accidentally Breaking HIPAA With ChatGPT</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-30 14:54</span>
             </div>
         </div>
 </div>
@@ -249,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/01/atari0-e1767118643644.jpg?fit=768%2C519&amp;quality=60&amp;ssl=1" alt="Atari unveils gaming hotel in Phoenix that sounds like hell on earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/30/atari-unveils-gaming-hotel-in-phoenix-that-sounds-like-hell-on-earth.html" target="_blank">Atari unveils gaming hotel in Phoenix that sounds like hell on earth</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-30 18:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K0W2REN7FD246TSPGNHG9V4F/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Nothing CMF Watch 3 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +300,6 @@
                 <span class="time">2025-12-30 16:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/predator-badlands-dek-thia-1280x853.jpg" alt="‘Predator: Badlands’ Is Coming Home Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/predator-badlands-home-release-date-blu-ray-digital-streaming-2000704279" target="_blank">‘Predator: Badlands’ Is Coming Home Next Week</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-30 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
