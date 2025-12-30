@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 00:05:12 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-30 01:29:54 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Health/sick-gty-jef-251229_1767039810980_hpMain_4x3t_384.jpg" alt="Flu cases on the rise amid holiday travel, gatherings, latest CDC data shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Health/flu-cases-rise-amid-holiday-travel-gatherings-latest/story?id=128761006" target="_blank">Flu cases on the rise amid holiday travel, gatherings, latest CDC data shows</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-29 21:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -90,15 +102,6 @@
                 <span class="title"><a href="https://news.sky.com/story/two-people-killed-in-anthony-joshua-car-crash-named-by-nigerian-president-13488421" target="_blank">Two people killed in Anthony Joshua car crash named as &#x27;close friends&#x27; of boxer</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-12-29 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/29/nx-s1-5660767/fifa-gianni-infantino-world-cup-ticket-prices" target="_blank">FIFA president defends World Cup ticket prices, saying demand is hitting records</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-29 19:32</span>
             </div>
         </div>
 </div>
@@ -177,6 +180,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://hugovk.dev/blog/2025/minus-six/" target="_blank">Replacing python-dateutil to remove six</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-29 23:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/" target="_blank">Bugs that survive the heat of continuous fuzzing</a></span>
                 <span class="feed">The GitHub Blog</span>
@@ -208,19 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/shift-to-smaller-faster-ai-models" target="_blank">The Coming Shift From Bigger AI Models to Smaller, Faster Ones</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-29 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F7402%2F04f86f58-db61-410f-8eda-06b0c052f17f.jpeg" alt="Optimiza tus recursos con un monitoreo efectivo de costos en AWS Lambdas usando Terraform
-
-¡Descubre cómo puedes maximizar la eficiencia de tus aplicaciones serverless!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/valaug/optimiza-tus-recursos-con-un-monitoreo-efectivo-de-costos-en-aws-lambdas-usando-terraform-2n1j" target="_blank">Optimiza tus recursos con un monitoreo efectivo de costos en AWS Lambdas usando Terraform
-
-¡Descubre cómo puedes maximizar la eficiencia de tus aplicaciones serverless!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-29 19:49</span>
             </div>
         </div>
 </div>
@@ -351,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
