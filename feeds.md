@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 09:03:37 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-30 10:01:43 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/longform/2025/12/30/the-ukrainian-man-fighting-russian-lies-with-his-front-line-newspaper?traffic_source=rss" target="_blank">The Ukrainian man fighting Russian ‘lies’ with his front-line newspaper</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-30 09:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/30/bangladeshs-former-prime-minister-khaleda-zia-dies?traffic_source=rss" target="_blank">Bangladesh’s former Prime Minister Khaleda Zia dies</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-30 01:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria" target="_blank">Anthony Joshua’s camp confirm two of his close friends died in Nigeria car crash</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-30 00:17</span>
             </div>
         </div>
 </div>
@@ -168,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiuv6a53o9f0ua2meunlj.png" alt="Python Lists to Excel: Clean Data Export and Formatting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/allen_yang_f905170c5a197b/python-lists-to-excel-clean-data-export-and-formatting-3j38" target="_blank">Python Lists to Excel: Clean Data Export and Formatting</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-30 09:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -210,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/rockfire/ai-elements-promptinput-component-design-and-testing-framework-gma" target="_blank">AI Elements: PromptInput Component Design and Testing Framework</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-30 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sameer_saleem/the-great-orm-pivot-why-teams-are-moving-to-drizzle-in-2025-46jc" target="_blank">The Great ORM Pivot: Why Teams are Moving to Drizzle in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-30 04:48</span>
             </div>
         </div>
 </div>
@@ -331,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
