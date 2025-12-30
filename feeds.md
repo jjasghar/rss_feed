@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 08:02:13 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-30 09:03:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/12/30/a-year-of-israeli-bombs-has-decimated-gazas-infrastructure?traffic_source=rss" target="_blank">A decimated Gaza marks the end of another year of Israeli bombs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-30 08:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +101,6 @@
                 <span class="title"><a href="https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria" target="_blank">Anthony Joshua’s camp confirm two of his close friends died in Nigeria car crash</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-12-30 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faa5/live/d25c3510-e027-11f0-b67b-690eb873de1b.jpg" alt="Russia&#x27;s losses in Ukraine rise faster than ever, as US pushes for peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss" target="_blank">Russia&#x27;s losses in Ukraine rise faster than ever, as US pushes for peace deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-30 00:12</span>
             </div>
         </div>
 </div>
@@ -175,6 +179,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/ntfsplus-becomes-ntfs-linux/" target="_blank">NTFSPlus Becomes &amp;quot;NTFS&amp;quot; as Driver Moves Closer to Kernel Integration</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-30 08:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ppc/why-version-control-system-exists-in-the-first-place-4kg9" target="_blank">Why version control system exists in the first place</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/sameer_saleem/the-great-orm-pivot-why-teams-are-moving-to-drizzle-in-2025-46jc" target="_blank">The Great ORM Pivot: Why Teams are Moving to Drizzle in 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-30 04:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/New-Mount-API-Man-Pages" target="_blank">It Took 6+ Years For Linux&#x27;s &quot;New&quot; Mount API To Be Properly Documented In Man Pages</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-30 01:35</span>
             </div>
         </div>
 </div>
@@ -327,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
