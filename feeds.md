@@ -1,36 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 16:02:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-30 17:02:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a92/live/77f3c720-e598-11f0-bb65-6152e605acc9.jpg" alt="Protests spread across Iran for third day after currency hits record low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss" target="_blank">Protests spread across Iran for third day after currency hits record low</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-30 16:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +92,6 @@
                 <span class="time">2025-12-30 10:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251215-capitol-building-aa-1142-85960c.jpg" alt="Four big things Congress did in 2025 — and how they could impact you" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/four-big-things-congress-2025-impact-rcna249338" target="_blank">Four big things Congress did in 2025 — and how they could impact you</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-30 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +104,24 @@
                 <span class="title"><a href="https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/" target="_blank">The best AI-powered dictation apps of 2025</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback" target="_blank">GameSir put a tiny force feedback steering wheel on its new Swift Drive controller</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-30 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2251921243-500x500.jpg" alt="Looking for friends, lobsters may stumble into an ecological trap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/12/looking-for-friends-lobsters-may-stumble-into-an-ecological-trap/" target="_blank">Looking for friends, lobsters may stumble into an ecological trap</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-30 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -139,24 +149,6 @@
                 <span class="title"><a href="https://www.wired.com/review/commodore-64-ultimate/" target="_blank">Commodore 64 Ultimate Review: An Astonishing Remake</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-12-30 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69518f48fa75874bee9b4e88/master/pass/The%20Best%20Digital%20Notebooks%20and%20Smart%20Pens%20top%20art%20122025%20SOURCE%20Boox_reMarkable.jpg" alt="7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/" target="_blank">7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-30 11:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6933670b2d80607334e8d951/master/pass/condones%20China%20impuesto%20natalidad%20491150271.jpg" alt="China Will Tax Contraceptives in a Bid to Improve Birth Rates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/china-to-tax-contraceptives/" target="_blank">China Will Tax Contraceptives in a Bid to Improve Birth Rates</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-30 10:30</span>
             </div>
         </div>
 </div>
@@ -247,12 +239,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/year-in-review-2025-top-100-stories-institute-pluribus-doctor-who-1280x853.jpg" alt="io9’s Top 100 Stories of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/io9-top-stories-2025-star-wars-marvel-2000704022" target="_blank">io9’s Top 100 Stories of 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-30 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/fartjoke-1280x720.jpg" alt="Excuse Me, But What The Hell Is This?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/goat-trailer-fart-joke-jackass-sony-zootopia-funny-teaser-2000656133" target="_blank">Excuse Me, But What The Hell Is This?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-30 16:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/predator-badlands-dek-thia-1280x853.jpg" alt="‘Predator: Badlands’ Is Coming Home Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/predator-badlands-home-release-date-blu-ray-digital-streaming-2000704279" target="_blank">‘Predator: Badlands’ Is Coming Home Next Week</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GKPKJPW5T0ZRW2NK7M4B1/hero-image.jpg" alt="The 50 Best 2000s Movies You Can Stream Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-2000s-movies-streaming?utm_medium=RSS" target="_blank">The 50 Best 2000s Movies You Can Stream Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-30 15:30</span>
             </div>
         </div>
 <div class="story">
@@ -273,38 +292,20 @@
                 <span class="time">2025-12-30 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H6ND61Y2JAHPTZQJM2DSW/hero-image.jpg" alt="Start Each Week With This Digital Decluttering Method" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-digital-decluttering-method?utm_medium=RSS" target="_blank">Start Each Week With This Digital Decluttering Method</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-30 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/2026-spaceflight-preview-1280x853.jpg" alt="Gizmodo’s Guide to the Coolest Space Missions of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/gizmodos-guide-to-the-coolest-space-missions-of-2026-2000702992" target="_blank">Gizmodo’s Guide to the Coolest Space Missions of 2026</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-30 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/eric-adams-1280x887.jpg" alt="Departing NYC Mayor Adams Next Wants to Fix Education, Violence, and Antisemitism with Crypto" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/departing-nyc-mayor-adams-next-wants-to-fix-education-violence-and-antisemitism-with-crypto-2000704160" target="_blank">Departing NYC Mayor Adams Next Wants to Fix Education, Violence, and Antisemitism with Crypto</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-30 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1766704114-20251230 - edit.png" alt="Saturday Morning Breakfast Cereal - Mustard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/mustard" target="_blank">Saturday Morning Breakfast Cereal - Mustard</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-30 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -314,22 +315,13 @@
                 <span class="time">2025-12-29 20:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1766648289-20251229 - edit.png" alt="Saturday Morning Breakfast Cereal - Super" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/super-2" target="_blank">Saturday Morning Breakfast Cereal - Super</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-12-29 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 41 | 📸 With Images: 256 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
