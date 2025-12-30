@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 05:04:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-30 06:02:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 05:04 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -61,6 +68,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria" target="_blank">Anthony Joshua’s camp confirm two of his close friends died in Nigeria car crash</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-30 00:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1767052237455_nn_ggu_trump_meets_with_netanyahu_speaks_with_putin_251229_1920x1080-139slu.jpg" alt="Trump meets with Netanyahu, speaks with Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -85,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/kyiv-rejects-russias-claim-of-ukrainian-strike-on-putins-residence?traffic_source=rss" target="_blank">Kyiv rejects Russia’s claim of Ukrainian attack on Putin residence</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-29 22:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Health/sick-gty-jef-251229_1767039810980_hpMain_4x3t_384.jpg" alt="Flu cases on the rise amid holiday travel, gatherings, latest CDC data shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Health/flu-cases-rise-amid-holiday-travel-gatherings-latest/story?id=128761006" target="_blank">Flu cases on the rise amid holiday travel, gatherings, latest CDC data shows</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-29 21:26</span>
             </div>
         </div>
 </div>
@@ -163,6 +170,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/12/30/how-ai-is-helping-us-build-better-communities/" target="_blank">How AI is helping us build better communities</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-12-30 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rockfire/ai-elements-promptinput-component-design-and-testing-framework-gma" target="_blank">AI Elements: PromptInput Component Design and Testing Framework</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-30 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sameer_saleem/the-great-orm-pivot-why-teams-are-moving-to-drizzle-in-2025-46jc" target="_blank">The Great ORM Pivot: Why Teams are Moving to Drizzle in 2025</a></span>
                 <span class="feed">DEV Community</span>
@@ -194,24 +219,6 @@
                 <span class="title"><a href="https://hugovk.dev/blog/2025/minus-six/" target="_blank">Replacing python-dateutil to remove six</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-12-29 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/" target="_blank">Bugs that survive the heat of continuous fuzzing</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-12-29 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/umi_84/bga-buses-mux-challenge-53c4" target="_blank">Bga Buses (MUX Challenge)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-29 21:48</span>
             </div>
         </div>
 </div>
@@ -333,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 05:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
