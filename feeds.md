@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 03:28:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-30 04:14:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 04:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/30/china-kicks-off-second-day-of-military-drills-around-taiwan?traffic_source=rss" target="_blank">China kicks off second day of military drills around Taiwan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-30 03:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +101,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Health/flu-cases-rise-amid-holiday-travel-gatherings-latest/story?id=128761006" target="_blank">Flu cases on the rise amid holiday travel, gatherings, latest CDC data shows</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-29 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria" target="_blank">Anthony Joshua’s camp confirm two of his close friends died in car crash</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-29 21:18</span>
             </div>
         </div>
 </div>
@@ -247,6 +250,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ENTD_BRIDGE_12-1.webp?fit=2496%2C768&amp;quality=55&amp;ssl=1" alt="Star Trek panoramas from the CD-ROM era" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/29/star-trek-panoramas-from-the-cd-rom-era.html" target="_blank">Star Trek panoramas from the CD-ROM era</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-30 03:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/music-studio-5-1280x853.jpg" alt="Samsung’s New Wi-Fi Speaker Has Big Monolith Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -288,15 +300,6 @@
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/best-video-game-moments-scenes-2025-clair-obscur-ending-2000655769" target="_blank">The Best Video Game Moments Of 2025</a></span>
                 <span class="feed">Kotaku</span>
-                <span class="time">2025-12-29 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H8A7VYFBJ8Y5XQ2M410HN/hero-image.jpg" alt="What Is Zone 2 Cardio, and How Do I Actually Do It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/what-is-zone-2-cardio?utm_medium=RSS" target="_blank">What Is Zone 2 Cardio, and How Do I Actually Do It?</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-29 21:00</span>
             </div>
         </div>
@@ -347,7 +350,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 03:29 UTC
+        🔄 Last Updated: 04:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
