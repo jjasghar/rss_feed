@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 06:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-30 07:03:24 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 06:02 UTC</div>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/30/saudi-led-coalition-strikes-yemeni-port-over-unauthorised-weapons-shipment?traffic_source=rss" target="_blank">Saudi-led coalition strikes Yemeni port over unauthorised weapons shipment</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-30 06:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faa5/live/d25c3510-e027-11f0-b67b-690eb873de1b.jpg" alt="Russia&#x27;s losses in Ukraine rise faster than ever, as US pushes for peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss" target="_blank">Russia&#x27;s losses in Ukraine rise faster than ever, as US pushes for peace deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-30 00:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1767052237455_nn_ggu_trump_meets_with_netanyahu_speaks_with_putin_251229_1920x1080-139slu.jpg" alt="Trump meets with Netanyahu, speaks with Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -85,29 +102,20 @@
                 <span class="time">2025-12-29 23:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/somalia-slams-israels-somaliland-recognition-as-threat-to-global-peace?traffic_source=rss" target="_blank">At UN, Somalia slams Israel’s Somaliland recognition as ‘threat’ to peace</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-29 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/kyiv-rejects-russias-claim-of-ukrainian-strike-on-putins-residence?traffic_source=rss" target="_blank">Kyiv rejects Russia’s claim of Ukrainian attack on Putin residence</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-29 22:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/" target="_blank">Meta just bought Manus, an AI startup everyone has been talking about</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-30 05:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +161,6 @@
                 <span class="time">2025-12-29 19:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam" target="_blank">GOG&amp;#8217;s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-29 18:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +173,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/12/30/how-ai-is-helping-us-build-better-communities/" target="_blank">How AI is helping us build better communities</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-12-30 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mridudixit15/angular-21-whats-new-whats-changed-3fl3" target="_blank">Angular 21 — What’s New, What’s Changed</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-30 06:59</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/mda2av/urocket-reactor-networking-in-c-with-iouring-1j95" target="_blank">uRocket - Reactor Networking in C# with io_uring</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-29 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://hugovk.dev/blog/2025/minus-six/" target="_blank">Replacing python-dateutil to remove six</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-29 23:15</span>
             </div>
         </div>
 </div>
@@ -340,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
