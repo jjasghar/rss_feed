@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 22:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-30 23:02:04 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/30/uae-to-withdraw-counterterrorism-units-from-yemen-after-saudi-led-strike?traffic_source=rss" target="_blank">UAE to withdraw ‘counterterrorism’ units from Yemen after Saudi-led strike</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-30 22:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/tatiana-schlossberg-gty-jef-251230_1767122619352_hpMain_4x3t_384.jpg" alt="Tatiana Schlossberg, daughter of Caroline Kennedy, has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/30/g-s1-103731/global-health-progress-challenges-vaccines-malaria-hiv" target="_blank">In a year of steep challenges, there were still shining moments in global health</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-30 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/stefon-diggs-2-gty-gmh-251230_1767115255518_hpMain_4x3t_384.jpg" alt="Patriots star charged with strangulation, assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/new-england-patriots-player-stefon-diggs-faces-strangulation/story?id=128784732" target="_blank">Patriots star charged with strangulation, assault</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-30 18:43</span>
             </div>
         </div>
 </div>
@@ -168,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/windows-beats-linux-arl-h" target="_blank">Unexpected Surprise: Windows 11 Outperforming Linux On An Intel Arrow Lake H Laptop</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-30 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/X.Org-imake-1.0.11" target="_blank">X.Org IMAKE Updated For Those Not Yet Transitioned To Autoconf/Automake Or Meson</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-30 20:32</span>
@@ -207,15 +212,6 @@
                 <span class="title"><a href="https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/" target="_blank">FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-30 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-kernel-llvm-clang-lto" target="_blank">Some Meaningful Performance Benefits For Clang + LTO Built Linux Kernels</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-30 18:50</span>
             </div>
         </div>
 </div>
@@ -310,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
