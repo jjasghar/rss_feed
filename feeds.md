@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 20:01:58 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-12-30 21:01:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/30/israel-says-it-will-halt-operations-of-several-ngos-in-gaza?traffic_source=rss" target="_blank">Israel to block dozens of aid groups working in war-battered Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-30 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/30/nx-s1-5661581/cfpb-funding-order" target="_blank">Judge orders Trump administration to continue to seek funding for the CFPB</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-30 20:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss" target="_blank">Eurostar warns of ongoing delays after services resume</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-30 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/30/saudi-arabia-uae-tension-future-yemen-boiling-point" target="_blank">Tensions between Saudis and Emiratis over future of Yemen reach boiling point</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-30 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251230-putin-rs-7ed810.jpg" alt="Alleged drone attack on a Putin residence offers the Kremlin a timely narrative shift" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/russia-putin-drone-attack-ukraine-kremlin-trump-zelenskyy-florida-rcna251472" target="_blank">Alleged drone attack on a Putin residence offers the Kremlin a timely narrative shift</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-30 17:00</span>
             </div>
         </div>
 </div>
@@ -187,6 +181,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/" target="_blank">FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-30 19:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/linux-kernel-llvm-clang-lto" target="_blank">Some Meaningful Performance Benefits For Clang + LTO Built Linux Kernels</a></span>
                 <span class="feed">Phoronix</span>
@@ -211,15 +214,6 @@
                 <span class="time">2025-12-30 17:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/" target="_blank">Agentic AI, MCP, and spec-driven development: Top blog posts of 2025</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-12-30 17:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,20 +228,20 @@
                 <span class="time">2025-12-30 12:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/" target="_blank">Happy 16th Birthday, KrebsOnSecurity.com!</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-12-29 20:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Candida-auris-1280x853.jpg" alt="A Deadly, Drug-Resistant Fungus Threatens People Around the World, Scientists Warn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-deadly-super-fungus-is-on-the-rise-scientists-warn-2000704305" target="_blank">A Deadly, Drug-Resistant Fungus Threatens People Around the World, Scientists Warn</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-30 20:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/Breath-of-the-wild-VR-mod-1280x720.jpg" alt="This New Legend Of Zelda: Breath Of The Wild VR Mod Is Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,6 +249,15 @@
                 <span class="title"><a href="https://kotaku.com/this-new-legend-of-zelda-breath-of-the-wild-vr-mod-is-awesome-2000656152" target="_blank">This New Legend Of Zelda: Breath Of The Wild VR Mod Is Awesome</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-30 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GKXB2SF20KPDZ5RGWN7SM/hero-image.jpg" alt="Why You Should Give Yourself ‘Crappy’ Rewards for Your Fitness Goals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-rewards-for-fitness-goals?utm_medium=RSS" target="_blank">Why You Should Give Yourself ‘Crappy’ Rewards for Your Fitness Goals</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-30 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -284,24 +287,6 @@
                 <span class="time">2025-12-30 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/10/space-shuttle-discovery--1280x853.jpg" alt="NASA’s New Chief Finds Loophole for Texas Shuttle Switcheroo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nasas-new-chief-finds-loophole-for-texas-shuttle-switcheroo-2000704289" target="_blank">NASA’s New Chief Finds Loophole for Texas Shuttle Switcheroo</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-30 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/05/086e4654c281e40d12b833591d2c6fdc-1280x720.jpg" alt="17 Of The Year’s Biggest PS5 Games Are Up To 50 Percent Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ps5-deals-soulslike-rpg-goty-discount-sale-2000656129" target="_blank">17 Of The Year’s Biggest PS5 Games Are Up To 50 Percent Off</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-30 17:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,22 +301,13 @@
                 <span class="time">2025-12-30 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/12/29/earth-wind-and-fire" target="_blank">Earth, Wind, and Fire</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-12-29 20:08</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
