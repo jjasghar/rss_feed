@@ -1,38 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 14:01:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-30 15:01:51 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +100,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/30/the-top-26-consumer-edtech-companies-from-disrupt-startup-battlefield/" target="_blank">The top 26 consumer/edtech companies from Disrupt Startup Battlefield</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-30 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/30/heres-whats-you-should-know-about-the-us-tiktok-deal/" target="_blank">Here’s what you should know about the US TikTok deal</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-30 14:00</span>
@@ -152,20 +150,29 @@
                 <span class="time">2025-12-30 05:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026" target="_blank">LG is announcing its own Frame-style TV at CES</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-30 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dannwaneri/i-found-50-companies-accidentally-breaking-hipaa-with-chatgpt-1olc" target="_blank">I Found 50+ Companies Accidentally Breaking HIPAA With ChatGPT</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-30 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Olympus-Sched-Model" target="_blank">LLVM 22 Lands NVIDIA Olympus CPU Scheduling Model</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-30 14:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +209,6 @@
                 <span class="time">2025-12-30 11:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/forlinx-nxp-sbc-review/" target="_blank">Experiencing This Powerful NXP  SBC Made Me Realize of My Limitations</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-30 11:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://opencontent.netflix.com/" target="_blank">Netflix: Open Content</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-30 10:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ecce-homo-spain.webp?fit=810%2C540&amp;quality=55&amp;ssl=1" alt="Monkey Jesus painter Cecilia Giménez dead at 94" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/30/monkey-jesus-painter-cecilia-gimenez-dead-at-94.html" target="_blank">Monkey Jesus painter Cecilia Giménez dead at 94</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-30 14:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/StrangerThings_Eleven-2-1280x853.jpg" alt="The ‘Stranger Things’ Finale Trailer Goes to Eleven" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-stranger-things-finale-trailer-goes-to-eleven-2000704153" target="_blank">The ‘Stranger Things’ Finale Trailer Goes to Eleven</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-30 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HF2H6ND61Y2JAHPTZQJM2DSW/hero-image.jpg" alt="Start Each Week With This Digital Decluttering Method" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,24 +291,6 @@
                 <span class="time">2025-12-30 03:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/music-studio-5-1280x853.jpg" alt="Samsung’s New Wi-Fi Speaker Has Big Monolith Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/samsungs-new-wi-fi-speaker-has-big-monolith-energy-2000703920" target="_blank">Samsung’s New Wi-Fi Speaker Has Big Monolith Energy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-29 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/bolsonaro-1-e1764179527109.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Brazilian ex-president Bolsonaro treated for chronic hiccups" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/29/brazilian-ex-president-bolsonaro-treated-for-chronic-hiccups.html" target="_blank">Brazilian ex-president Bolsonaro treated for chronic hiccups</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-29 22:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
