@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-29 23:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-30 00:05:12 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, December 29, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/29/somalia-slams-israels-somaliland-recognition-as-threat-to-global-peace?traffic_source=rss" target="_blank">At UN, Somalia slams Israel’s Somaliland recognition as ‘threat’ to peace</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-29 23:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/29/nx-s1-5660767/fifa-gianni-infantino-world-cup-ticket-prices" target="_blank">FIFA president defends World Cup ticket prices, saying demand is hitting records</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-29 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/29/well-knock-the-hell-out-of-them-trump-threatens-iran?traffic_source=rss" target="_blank">‘We’ll knock the hell out of them’: Trump threatens Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-29 19:25</span>
             </div>
         </div>
 </div>
@@ -170,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0tfe84rnsh6cn6iq4rmu.png" alt="uRocket - Reactor Networking in C# with io_uring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mda2av/urocket-reactor-networking-in-c-with-iouring-1j95" target="_blank">uRocket - Reactor Networking in C# with io_uring</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-29 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/" target="_blank">Bugs that survive the heat of continuous fuzzing</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-12-29 22:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,24 +221,6 @@
 ¡Descubre cómo puedes maximizar la eficiencia de tus aplicaciones serverless!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-29 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792618&w=600" alt="Manage Knowledge, Not Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/manage-knowledge-not-code" target="_blank">Manage Knowledge, Not Code</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-29 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/gnome-extensions-blue.jpg?resize=406%2C232&amp;ssl=1" alt="Make GNOME App Grid Scroll Vertically (Like it Used to)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/gnome-vertical-app-grid-extension" target="_blank">Make GNOME App Grid Scroll Vertically (Like it Used to)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-29 16:31</span>
             </div>
         </div>
 </div>
@@ -265,6 +261,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/bolsonaro-1-e1764179527109.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Brazilian ex-president Bolsonaro treated for chronic hiccups" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/29/brazilian-ex-president-bolsonaro-treated-for-chronic-hiccups.html" target="_blank">Brazilian ex-president Bolsonaro treated for chronic hiccups</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-29 22:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/image-25-1280x702.jpg" alt="Ethan Gach’s Top 10 Games Of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -300,15 +305,6 @@
                 <span class="time">2025-12-29 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/cyberpunk-2077-hed-1280x853.jpg" alt="CD Projekt Co-Founder Buys Steam Rival GOG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cd-projekt-co-founder-buys-steam-rival-gog-2000704077" target="_blank">CD Projekt Co-Founder Buys Steam Rival GOG</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-29 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -341,13 +337,22 @@
                 <span class="time">2025-12-29 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png" alt="High Altitude Cooking Instructions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3187/" target="_blank">High Altitude Cooking Instructions</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-12-29 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
