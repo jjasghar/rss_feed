@@ -1,30 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 11:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-30 12:02:31 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +51,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/30/tech-giant-meta-buys-chinese-founded-ai-firm-manus?traffic_source=rss" target="_blank">Tech giant Meta buys Chinese-founded AI firm Manus</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-30 11:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/30/nx-s1-5660935/family-caregiver-support-policies-states" target="_blank">Policy relief for family caregivers seems stalled out. But there are signs of change</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-30 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Zelenskyy-DB-251230_1767084270852_hpMain_4x3t_384.jpg" alt="Russian official threatens Zelenskyy as Moscow claims Kyiv attacked Putin residence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/International/russian-official-threatens-zelenskyy-moscow-claims-kyiv-attacked/story?id=128774157" target="_blank">Russian official threatens Zelenskyy as Moscow claims Kyiv attacked Putin residence</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-12-30 10:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251215-capitol-building-aa-1142-85960c.jpg" alt="Four big things Congress did in 2025 - and how they could impact you?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/four-big-things-congress-2025-impact-rcna249338" target="_blank">Four big things Congress did in 2025 - and how they could impact you?</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-30 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -67,38 +104,20 @@
                 <span class="time">2025-12-30 09:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/12/30/a-year-of-israeli-bombs-has-decimated-gazas-infrastructure?traffic_source=rss" target="_blank">A decimated Gaza marks the end of another year of Israeli bombs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-30 08:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/30/saudi-led-coalition-strikes-yemeni-port-over-unauthorised-weapons-shipment?traffic_source=rss" target="_blank">Saudi-led coalition strikes Yemeni port over unauthorised weapons shipment</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-30 06:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/30/china-kicks-off-second-day-of-military-drills-around-taiwan?traffic_source=rss" target="_blank">China kicks off second day of military drills around Taiwan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-30 03:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69518f48fa75874bee9b4e88/master/pass/The%20Best%20Digital%20Notebooks%20and%20Smart%20Pens%20top%20art%20122025%20SOURCE%20Boox_reMarkable.jpg" alt="7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/" target="_blank">7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-30 11:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6933670b2d80607334e8d951/master/pass/condones%20China%20impuesto%20natalidad%20491150271.jpg" alt="China Will Tax Contraceptives in a Bid to Improve Birth Rates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +163,38 @@
                 <span class="time">2025-12-29 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/29/social-media-follower-counts-have-never-mattered-less-creator-economy-execs-say/" target="_blank">Social media follower counts have never mattered less, creator economy execs say</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-29 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/aws-eks-workload-orchestration/en/headerimage/generatedHeaderImage-1766130157123.jpg" alt="AWS Announces New Amazon EKS Capabilities to Simplify Workload Orchestration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/aws-eks-workload-orchestration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Announces New Amazon EKS Capabilities to Simplify Workload Orchestration</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-30 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/XWayland-Pointer-Enter-Correct" target="_blank">XWayland Gets Patched For Incorrect Pointer Coordinates</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-30 11:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://opencontent.netflix.com/" target="_blank">Netflix: Open Content</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-30 10:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiuv6a53o9f0ua2meunlj.png" alt="Python Lists to Excel: Clean Data Export and Formatting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,38 +222,20 @@
                 <span class="time">2025-12-30 08:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ppc/why-version-control-system-exists-in-the-first-place-4kg9" target="_blank">Why version control system exists in the first place</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-30 07:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mridudixit15/angular-21-whats-new-whats-changed-3fl3" target="_blank">Angular 21 — What’s New, What’s Changed</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-30 06:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rockfire/ai-elements-promptinput-component-design-and-testing-framework-gma" target="_blank">AI Elements: PromptInput Component Design and Testing Framework</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-30 05:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html" target="_blank">Using AI-Generated Images to Get Refunds</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-30 12:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -322,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
