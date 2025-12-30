@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 13:13:18 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-30 14:01:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -90,10 +94,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251215-capitol-building-aa-1142-85960c.jpg" alt="Four big things Congress did in 2025 - and how they could impact you?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251215-capitol-building-aa-1142-85960c.jpg" alt="Four big things Congress did in 2025 — and how they could impact you" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/four-big-things-congress-2025-impact-rcna249338" target="_blank">Four big things Congress did in 2025 - and how they could impact you?</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/four-big-things-congress-2025-impact-rcna249338" target="_blank">Four big things Congress did in 2025 — and how they could impact you</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-30 10:00</span>
             </div>
@@ -103,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/30/heres-whats-you-should-know-about-the-us-tiktok-deal/" target="_blank">Here’s what you should know about the US TikTok deal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-30 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/695194a910d28106b3df394d/master/pass/Commodore%2064%20Ultimate%20top%20art%20122025%20SOURCE%20Commodore.jpg" alt="Commodore 64 Ultimate Review: An Astonishing Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +161,6 @@
                 <span class="time">2025-12-30 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1235140398-500x500.jpg" alt="US can’t deport hate speech researcher for protected speech, lawsuit says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/12/us-cant-deport-hate-speech-researcher-for-protected-speech-lawsuit-says/" target="_blank">US can’t deport hate speech researcher for protected speech, lawsuit says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-29 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +173,15 @@
                 <span class="title"><a href="https://dev.to/sylwia-lask/why-do-you-code-a-surprisingly-hard-question-4ak4" target="_blank">“Why Do You Code?” - A Surprisingly Hard Question</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-30 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-X86_NATIVE_CPU" target="_blank">Linux 6.19 Kernel Benchmarks With X86_NATIVE_CPU Optimization</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-30 12:27</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +220,6 @@
                 <span class="time">2025-12-30 10:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiuv6a53o9f0ua2meunlj.png" alt="Python Lists to Excel: Clean Data Export and Formatting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/allen_yang_f905170c5a197b/python-lists-to-excel-clean-data-export-and-formatting-3j38" target="_blank">Python Lists to Excel: Clean Data Export and Formatting</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-30 09:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2H6ND61Y2JAHPTZQJM2DSW/hero-image.jpg" alt="Start Each Week With This Digital Decluttering Method" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-digital-decluttering-method?utm_medium=RSS" target="_blank">Start Each Week With This Digital Decluttering Method</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-30 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/2026-spaceflight-preview-1280x853.jpg" alt="Gizmodo’s Guide to the Coolest Space Missions of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/gizmodos-guide-to-the-coolest-space-missions-of-2026-2000702992" target="_blank">Gizmodo’s Guide to the Coolest Space Missions of 2026</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-30 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/eric-adams-1280x887.jpg" alt="Departing NYC Mayor Adams Next Wants to Fix Education, Violence, and Antisemitism with Crypto" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +302,6 @@
                 <span class="time">2025-12-29 22:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/image-25-1280x702.jpg" alt="Ethan Gach’s Top 10 Games Of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/best-games-2025-silksong-final-fantasy-tactics-9-kings-2000655728" target="_blank">Ethan Gach’s Top 10 Games Of 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-29 22:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/DVDneXtCOPY.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This DVD ripper will save your memories from the attic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/29/this-dvd-ripper-will-save-your-memories-from-the-attic.html" target="_blank">This DVD ripper will save your memories from the attic</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-29 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
