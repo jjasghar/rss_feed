@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 12:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-30 13:13:18 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/30/thailand-delays-release-of-cambodian-troops-over-alleged-truce-breaches?traffic_source=rss" target="_blank">Thailand delays release ‍of Cambodian troops over alleged truce breaches</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-30 12:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/30/g-s1-103964/up-first-newsletter-trump-benjamin-netanyahu-ukraine-peace-talk-doge" target="_blank">Trump, Netanyahu meet over ceasefire. And, Russia accuses Ukraine of attempted strike</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-30 12:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +98,20 @@
                 <span class="time">2025-12-30 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/30/g-s1-103922/judge-complaint-clerk-legal-accountability" target="_blank">Federal appeals court judge is accused of bullying her clerks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-30 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/longform/2025/12/30/the-ukrainian-man-fighting-russian-lies-with-his-front-line-newspaper?traffic_source=rss" target="_blank">The Ukrainian man fighting Russian ‘lies’ with his front-line newspaper</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-30 09:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/695194a910d28106b3df394d/master/pass/Commodore%2064%20Ultimate%20top%20art%20122025%20SOURCE%20Commodore.jpg" alt="Commodore 64 Ultimate Review: An Astonishing Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/commodore-64-ultimate/" target="_blank">Commodore 64 Ultimate Review: An Astonishing Remake</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-30 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69518f48fa75874bee9b4e88/master/pass/The%20Best%20Digital%20Notebooks%20and%20Smart%20Pens%20top%20art%20122025%20SOURCE%20Boox_reMarkable.jpg" alt="7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +157,20 @@
                 <span class="time">2025-12-29 21:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/29/vcs-spill-what-they-really-want-to-hear-in-a-founder-pitch/" target="_blank">How to make your startup stand out in a crowded market, according to investors</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-29 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sylwia-lask/why-do-you-code-a-surprisingly-hard-question-4ak4" target="_blank">“Why Do You Code?” - A Surprisingly Hard Question</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-30 13:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/12/aws-eks-workload-orchestration/en/headerimage/generatedHeaderImage-1766130157123.jpg" alt="AWS Announces New Amazon EKS Capabilities to Simplify Workload Orchestration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,6 +192,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/forlinx-nxp-sbc-review/" target="_blank">Experiencing This Powerful NXP  SBC Made Me Realize of My Limitations</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-30 11:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://opencontent.netflix.com/" target="_blank">Netflix: Open Content</a></span>
                 <span class="feed">Hacker News</span>
@@ -202,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/allen_yang_f905170c5a197b/python-lists-to-excel-clean-data-export-and-formatting-3j38" target="_blank">Python Lists to Excel: Clean Data Export and Formatting</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-30 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/30/how-ai-is-helping-us-build-better-communities/" target="_blank">How AI is helping us build better communities</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-30 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/ntfsplus-becomes-ntfs-linux/" target="_blank">NTFSPlus Becomes &amp;quot;NTFS&amp;quot; as Driver Moves Closer to Kernel Integration</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-30 08:05</span>
             </div>
         </div>
 </div>
@@ -243,15 +237,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/" target="_blank">Happy 16th Birthday, KrebsOnSecurity.com!</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2025-12-29 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html" target="_blank">Are We Ready to Be Governed by Artificial Intelligence?</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-29 12:07</span>
             </div>
         </div>
 </div>
@@ -341,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
