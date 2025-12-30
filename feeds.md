@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 10:01:43 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-30 11:01:34 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Zelenskyy-DB-251230_1767084270852_hpMain_4x3t_384.jpg" alt="Russian official threatens Zelenskyy as Moscow claims Kyiv attacked Putin residence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/russian-official-threatens-zelenskyy-moscow-claims-kyiv-attacked/story?id=128774157" target="_blank">Russian official threatens Zelenskyy as Moscow claims Kyiv attacked Putin residence</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-30 10:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/30/g-s1-103922/judge-complaint-clerk-legal-accountability" target="_blank">Federal appeals court judge is accused of bullying her clerks</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-30 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +94,20 @@
                 <span class="time">2025-12-30 03:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f453/live/8f5d6d00-e4ba-11f0-b67b-690eb873de1b.jpg" alt="Idris Elba knighted as Sarina Wiegman and Lionesses lead New Year Honours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crrkgzy52keo?at_medium=RSS&at_campaign=rss" target="_blank">Idris Elba knighted as Sarina Wiegman and Lionesses lead New Year Honours</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-30 03:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/30/bangladeshs-former-prime-minister-khaleda-zia-dies?traffic_source=rss" target="_blank">Bangladesh’s former Prime Minister Khaleda Zia dies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-30 01:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6933670b2d80607334e8d951/master/pass/condones%20China%20impuesto%20natalidad%20491150271.jpg" alt="China Will Tax Contraceptives in a Bid to Improve Birth Rates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/china-to-tax-contraceptives/" target="_blank">China Will Tax Contraceptives in a Bid to Improve Birth Rates</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-30 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +151,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/12/29/social-media-follower-counts-have-never-mattered-less-creator-economy-execs-say/" target="_blank">Social media follower counts have never mattered less, creator economy execs say</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-29 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/leonardo1CROP-500x500.jpg" alt="Leonardo’s wood charring method predates Japanese practice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/" target="_blank">Leonardo’s wood charring method predates Japanese practice</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-29 19:30</span>
             </div>
         </div>
 </div>
@@ -249,6 +241,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/eric-adams-1280x887.jpg" alt="Departing NYC Mayor Adams Next Wants to Fix Education, Violence, and Antisemitism with Crypto" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/departing-nyc-mayor-adams-next-wants-to-fix-education-violence-and-antisemitism-with-crypto-2000704160" target="_blank">Departing NYC Mayor Adams Next Wants to Fix Education, Violence, and Antisemitism with Crypto</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-30 10:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ENTD_BRIDGE_12-1.webp?fit=2496%2C768&amp;quality=55&amp;ssl=1" alt="Star Trek panoramas from the CD-ROM era" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -293,15 +294,6 @@
                 <span class="time">2025-12-29 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/bestmoments2025kotakuB-1280x720.jpg" alt="The Best Video Game Moments Of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/best-video-game-moments-scenes-2025-clair-obscur-ending-2000655769" target="_blank">The Best Video Game Moments Of 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-29 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
