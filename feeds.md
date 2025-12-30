@@ -1,27 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 15:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-30 16:02:05 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 18 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +109,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/" target="_blank">The best AI-powered dictation apps of 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/30/the-top-26-consumer-edtech-companies-from-disrupt-startup-battlefield/" target="_blank">The top 26 consumer/edtech companies from Disrupt Startup Battlefield</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-30 15:00</span>
@@ -141,20 +159,20 @@
                 <span class="time">2025-12-30 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/" target="_blank">Meta just bought Manus, an AI startup everyone has been talking about</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-30 05:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxialio46flwpe52x4j9.png" alt="Remove CapCut Watermark with AI — How We Built a Flicker-Free Video Inpainting System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/renming_wang_99a0c6efbd56/remove-capcut-watermark-with-ai-how-we-built-a-flicker-free-video-inpainting-system-3n8h" target="_blank">Remove CapCut Watermark with AI — How We Built a Flicker-Free Video Inpainting System</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-30 15:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -176,6 +194,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://public-sans.digital.gov/" target="_blank">Public Sans – A strong, neutral typeface</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-30 14:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sylwia-lask/why-do-you-code-a-surprisingly-hard-question-4ak4" target="_blank">“Why Do You Code?” - A Surprisingly Hard Question</a></span>
                 <span class="feed">DEV Community</span>
@@ -189,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.19-X86_NATIVE_CPU" target="_blank">Linux 6.19 Kernel Benchmarks With X86_NATIVE_CPU Optimization</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-12-30 12:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/aws-eks-workload-orchestration/en/headerimage/generatedHeaderImage-1766130157123.jpg" alt="AWS Announces New Amazon EKS Capabilities to Simplify Workload Orchestration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/aws-eks-workload-orchestration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Announces New Amazon EKS Capabilities to Simplify Workload Orchestration</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-30 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/XWayland-Pointer-Enter-Correct" target="_blank">XWayland Gets Patched For Incorrect Pointer Coordinates</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-30 11:40</span>
             </div>
         </div>
 </div>
@@ -237,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/predator-badlands-dek-thia-1280x853.jpg" alt="‘Predator: Badlands’ Is Coming Home Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/predator-badlands-home-release-date-blu-ray-digital-streaming-2000704279" target="_blank">‘Predator: Badlands’ Is Coming Home Next Week</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-30 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ecce-homo-spain.webp?fit=810%2C540&amp;quality=55&amp;ssl=1" alt="Monkey Jesus painter Cecilia Giménez dead at 94" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +300,6 @@
                 <span class="time">2025-12-30 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/ENTD_BRIDGE_12-1.webp?fit=2496%2C768&amp;quality=55&amp;ssl=1" alt="Star Trek panoramas from the CD-ROM era" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/29/star-trek-panoramas-from-the-cd-rom-era.html" target="_blank">Star Trek panoramas from the CD-ROM era</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-30 03:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 41 | 📸 With Images: 256 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
