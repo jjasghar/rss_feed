@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 01:29:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-30 02:34:53 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 01:30 UTC</div>
+    <div class="newspaper-date">Tuesday, December 30, 2025 - 02:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/30/bangladeshs-former-prime-minister-khaleda-zia-dies?traffic_source=rss" target="_blank">Bangladesh’s former Prime Minister Khaleda Zia dies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-30 01:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_12/1767052237455_nn_ggu_trump_meets_with_netanyahu_speaks_with_putin_251229_1920x1080-139slu.jpg" alt="Trump meets with Netanyahu, speaks with Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-meets-with-netanyahu-speaks-with-putin-255149125688" target="_blank">Trump meets with Netanyahu, speaks with Putin</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-29 23:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +103,20 @@
                 <span class="time">2025-12-29 21:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Trump and Netanyahu speak after meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump and Netanyahu speak after meeting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-29 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-anthony-joshua-boxing_7121449.jpg?20251229151034" alt="Two people killed in Anthony Joshua car crash named as &#x27;close friends&#x27; of boxer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/two-people-killed-in-anthony-joshua-car-crash-named-by-nigerian-president-13488421" target="_blank">Two people killed in Anthony Joshua car crash named as &#x27;close friends&#x27; of boxer</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-29 20:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026" target="_blank">LG is announcing its own Frame-style TV at CES</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-30 01:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1235140398-500x500.jpg" alt="US can’t deport hate speech researcher for protected speech, lawsuit says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +162,20 @@
                 <span class="time">2025-12-29 18:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/" target="_blank">Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-29 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/New-Mount-API-Man-Pages" target="_blank">It Took 6+ Years For Linux&#x27;s &quot;New&quot; Mount API To Be Properly Documented In Man Pages</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-30 01:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0tfe84rnsh6cn6iq4rmu.png" alt="uRocket - Reactor Networking in C# with io_uring" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +219,6 @@
                 <span class="title"><a href="https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/" target="_blank">Google is dead. Where do we go now?</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-12-29 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18792645&w=600" alt="The Coming Shift From Bigger AI Models to Smaller, Faster Ones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/shift-to-smaller-faster-ai-models" target="_blank">The Coming Shift From Bigger AI Models to Smaller, Faster Ones</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-29 20:00</span>
             </div>
         </div>
 </div>
@@ -350,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 02:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
