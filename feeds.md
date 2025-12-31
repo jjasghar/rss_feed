@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 22:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-31 23:01:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/12/31/new-years-eve-celebrations-as-the-world-welcomes-2026?traffic_source=rss" target="_blank">New Year’s Eve celebrations as the world welcomes 2026</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-31 22:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf4/live/17f99f50-e676-11f0-8ad0-fd7b3893bab0.jpg" alt="UK gears up for new year celebrations as thousands gather in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy594gkele3o?at_medium=RSS&at_campaign=rss" target="_blank">UK gears up for new year celebrations as thousands gather in London</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-31 22:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/chicago-3-rt-gmh-251009_1760018589781_hpMain_4x3t_384.jpg" alt="Trump announces National Guard to be removed from LA, Chicago and Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-announces-national-guard-removed-los-angeles-chicago/story?id=128815658" target="_blank">Trump announces National Guard to be removed from LA, Chicago and Portland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-31 22:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/chicago-3-rt-gmh-251009_1760018589781_hpMain_4x3t_384.jpg" alt="Trump announces National Guard to be removed from Los Angeles, Chicago and Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,33 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/31/police-investigating-damage-to-undersea-telecom-cable-in-gulf-of-finland?traffic_source=rss" target="_blank">Finland seizes ship sailing from Russia after suspected cable sabotage</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-31 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/31/nx-s1-5662605/five-new-species-discovered-2025" target="_blank">Meet five new species discovered in 2025</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-31 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf4/live/17f99f50-e676-11f0-8ad0-fd7b3893bab0.jpg" alt="UK prepares for New Year celebrations as cold weather warnings issued" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy594gkele3o?at_medium=RSS&at_campaign=rss" target="_blank">UK prepares for New Year celebrations as cold weather warnings issued</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-31 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/31/bulgarians-worry-over-rising-prices-as-country-adopts-euro?traffic_source=rss" target="_blank">Bulgarians worry over rising prices as country adopts euro</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-31 18:37</span>
             </div>
         </div>
 </div>
@@ -168,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20251231224938-1pfc" target="_blank">⚡_Latency_Optimization_Practical_Guide[20251231224938]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-31 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Asahi-Linux-EOY-2025-CCC" target="_blank">Asahi Linux Has Experimental Code For DisplayPort, Apple M3/M4/M5 Bring-Up Still Ongoing</a></span>
                 <span class="feed">Phoronix</span>
@@ -210,15 +224,6 @@
                 <span class="time">2025-12-31 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.paulox.net/2025/12/31/looking-back-at-python-pescara-2025/" target="_blank">Looking Back at Python Pescara 2025</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-31 17:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Internxt-Cloud-Storage-Lifetime-Subscription-1.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Keep your private files private and save thousands with Internxt cloud storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/31/keep-your-private-files-private-and-save-thousands-with-internxt-cloud-storage.html" target="_blank">Keep your private files private and save thousands with Internxt cloud storage</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-31 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/carotop5kotaku-1280x720.jpg" alt="Carolyn Petit’s Top 5 Games Of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +297,6 @@
                 <span class="time">2025-12-31 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/princeandrew.webp?fit=1600%2C1067&amp;quality=55&amp;ssl=1" alt="The Andrew formerly known as Prince surrenders gun license" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/31/the-andrew-formerly-known-as-prince-surrenders-gun-license.html" target="_blank">The Andrew formerly known as Prince surrenders gun license</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-31 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
