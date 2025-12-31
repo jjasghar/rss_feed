@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 11:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-31 12:02:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251230-new-laws-ai-voting-rights-paid-family-leave-cs-864c17.jpg" alt="New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602" target="_blank">New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-31 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Ukraine-Odesa-strike-DB-251231_1767170263197_hpMain_4x3t_384.jpg" alt="Zelenskyy suggests Trump fly to Ukraine to help &#x27;end the war&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/zelenskyy-suggests-trump-fly-ukraine-end-war/story?id=128799582" target="_blank">Zelenskyy suggests Trump fly to Ukraine to help &#x27;end the war&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-31 10:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11f/live/51bf6630-e5fd-11f0-a8dc-93c15fe68710.jpg" alt="Eurostar services return to normal after major Channel Tunnel disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +103,20 @@
                 <span class="time">2025-12-31 08:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/31/guinea-junta-chief-mamady-doumbouya-elected-president-after-opposition-boycott" target="_blank">Guinea’s junta chief elected president after opposition boycott</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-12-31 07:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/31/displacement-camps-swell-with-people-fleeing-sudans-war-ravaged-el-fasher?traffic_source=rss" target="_blank">Displacement camps swell with people fleeing Sudan’s war-ravaged el-Fasher</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-31 07:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/693cd639b979444a26094358/master/pass/Cruising.jpg" alt="AI-Powered Dating Is All Hype. IRL Cruising Is the Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/expired-tired-wired-ai-powered-dating/" target="_blank">AI-Powered Dating Is All Hype. IRL Cruising Is the Future</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-31 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Walmart Promo Codes and Coupons: Up to 65% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +162,38 @@
                 <span class="time">2025-12-30 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android" target="_blank">The OneXSugar Wallet is the first gaming handheld with a folding screen</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-30 17:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bhuvaneshm_dev/a-wake-up-call-for-developers-dont-just-build-publish-your-ideas-to-the-linux-ecosystem-odc" target="_blank">🚀 A Wake-Up Call for Developers: Don’t Just Build — Publish Your Ideas to the Linux Ecosystem</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-31 11:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Crown-Engine-0.60" target="_blank">Open-Source Crown Game Engine v0.60 Released</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-31 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/quiz/open-source-new-year-almanac/" target="_blank">Open Source New Year Almanac: What Does 2026 Hold for You? 🗓️</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-31 11:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,47 +219,6 @@
                 <span class="title"><a href="https://dev.to/anthonymax/-3cae" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-31 09:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software" target="_blank">The rise of industrial software</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-31 09:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F16k2xw49e7qol1la0gkk.png" alt="Deep Maze Solver" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dineshgdk/deep-maze-solver-556e" target="_blank">Deep Maze Solver</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-31 07:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/12/cloudflare-2025-ai-bots/en/headerimage/generatedHeaderImage-1766307353625.jpg" alt="Cloudflare Year in Review: AI Bots Crawl Aggressively, Post-Quantum Encryption Hits 50%, Go Doubles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/cloudflare-2025-ai-bots/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Year in Review: AI Bots Crawl Aggressively, Post-Quantum Encryption Hits 50%, Go Doubles</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-31 07:38</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html" target="_blank">Using AI-Generated Images to Get Refunds</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-12-30 12:02</span>
             </div>
         </div>
 </div>
@@ -319,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 113 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
