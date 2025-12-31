@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 20:02:08 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-31 21:01:48 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -161,12 +160,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18735972&w=600" alt="Why Catalogs Really Break (and How a Copilot Prevents It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-catalogs-really-break-and-how-a-copilot-preven" target="_blank">Why Catalogs Really Break (and How a Copilot Prevents It)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-31 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dineshelumalai/s3-vectors-90-cheaper-than-pinecone-our-migration-guide-327c" target="_blank">S3 Vectors: 90% Cheaper Than Pinecone? Our Migration Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-31 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://austinhenley.com/blog/canceledbookdeal.html" target="_blank">I canceled my book deal</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-31 18:26</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +211,6 @@
                 <span class="title"><a href="https://dzone.com/articles/security-governance-patterns-conversational-ai" target="_blank">Security and Governance Patterns for Your Conversational AI</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-31 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-meteor-lake-2025" target="_blank">Intel Meteor Lake On Linux Two Years Post-Launch: 93% The Original Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-31 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803659&w=600" alt="Avoid BigQuery SQL Injection in Go With saferbq" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/avoid-bigquery-sql-injection-go-saferbq" target="_blank">Avoid BigQuery SQL Injection in Go With saferbq</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-31 16:00</span>
             </div>
         </div>
 </div>
@@ -315,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
