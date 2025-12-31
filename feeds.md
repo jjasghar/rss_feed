@@ -1,43 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 02:34:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-31 03:28:40 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 35 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 02:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/31/disney-to-pay-10m-over-alleged-breaches-of-us-child-privacy-laws?traffic_source=rss" target="_blank">Disney to pay $10m over alleged breaches of US child privacy laws</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-31 02:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/30/a-filipino-tribe-fights-to-stay-as-a-smart-city-rises-on-a-former-us-base?traffic_source=rss" target="_blank">A Filipino tribe fights to stay as a ‘Smart City’ rises on a former US base</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-30 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3633/live/b2d702f0-e582-11f0-aae2-2191c0e48a3b.png" alt="Work continues overnight to fix Eurostar and Eurotunnel issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss" target="_blank">Work continues overnight to fix Eurostar and Eurotunnel issue</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-30 22:57</span>
             </div>
         </div>
 </div>
@@ -208,21 +197,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2020/03/shotcut-video-editor-screenshot.jpg?resize=406%2C232&amp;ssl=1" alt="Shotcut 25.12 Adds Full 10-Bit Video Editing Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://codecrafters.io/blog/programming-project-ideas" target="_blank">Project ideas to appreciate the art of programming</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-30 22:47</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/shotcut-25-12-released-cpu-pipeline-improvements" target="_blank">Shotcut 25.12 Adds Full 10-Bit Video Editing Support</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-12-30 23:27</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/" target="_blank">NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives</a></span>
+                <span class="title"><a href="https://codecrafters.io/blog/programming-project-ideas" target="_blank">Project ideas to appreciate the art of programming</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-12-30 22:28</span>
+                <span class="time">2025-12-30 22:47</span>
             </div>
         </div>
 </div>
@@ -244,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/marvel-rivals-lady-loki-skin-1280x853.jpg" alt="Lady Loki Might Be the Most Impressive ‘Marvel Rivals’ Skin Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/marvel-rivals-lady-loki-skin-price-release-date-2000704548" target="_blank">Lady Loki Might Be the Most Impressive ‘Marvel Rivals’ Skin Yet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-30 22:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/state-of-Switch2-2025-1280x720.jpg" alt="The State Of The Nintendo Switch 2 In 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +287,6 @@
                 <span class="time">2025-12-30 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_714565612-e1767120156975.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Farting sloth proves scientists wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/30/farting-sloth-proves-scientists-wrong.html" target="_blank">Farting sloth proves scientists wrong</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-30 18:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 02:35 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
