@@ -1,30 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 15:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-31 16:01:45 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/31/these-are-the-countries-attacked-by-israel-in-2025?traffic_source=rss" target="_blank">These are the countries attacked by Israel in 2025</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-31 15:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/12/1920x1080/skynews-finland-ilkka-koskimaki_7123043.jpg?20251231144658" alt="Finland police seize vessel suspected of damaging Baltic Sea cable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +105,6 @@
                 <span class="time">2025-12-31 10:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11f/live/51bf6630-e5fd-11f0-a8dc-93c15fe68710.jpg" alt="Eurostar services return to normal after major Channel Tunnel disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss" target="_blank">Eurostar services return to normal after major Channel Tunnel disruption</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-31 09:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -102,10 +113,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025" target="_blank">Net neutrality was back, until it wasn’t</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-12-31 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/12/31/the-dumbest-things-that-happened-in-tech-this-year/" target="_blank">The dumbest things that happened in tech this year</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-12-31 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/signal-quantum-security-500x500.jpg" alt="Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/" target="_blank">Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-12-31 13:15</span>
             </div>
         </div>
 <div class="story">
@@ -135,29 +164,29 @@
                 <span class="time">2025-12-31 06:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/" target="_blank">The phone is dead. Long live . . . what exactly?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-31 05:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2014/05/censorship_2-500x500.jpg" alt="The science of how (and when) we decide to speak out—or self-censor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/12/the-science-of-how-and-when-we-decide-to-speak-out-or-self-censor/" target="_blank">The science of how (and when) we decide to speak out—or self-censor</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-12-30 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/beck_moulton/vectors-vs-keywords-why-close-enough-is-dangerous-in-medtech-rag-4o9o" target="_blank">Vectors vs. Keywords: Why &quot;Close Enough&quot; is Dangerous in MedTech RAG</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-31 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/" target="_blank">Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-31 15:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797433&w=600" alt="DevSecOps as a Strategic Imperative for Modern DevOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -165,6 +194,15 @@
                 <span class="title"><a href="https://dzone.com/articles/devsecops-strategic-imperative-modern-devops" target="_blank">DevSecOps as a Strategic Imperative for Modern DevOps</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-31 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-Archinstall-3.0.15" target="_blank">Arch Linux Installer Adds CUPS, rEFInd Boot, IWD, COSMIC &amp; Power Management Options</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-31 13:33</span>
             </div>
         </div>
 <div class="story">
@@ -183,33 +221,6 @@
                 <span class="title"><a href="https://dev.to/bhuvaneshm_dev/a-wake-up-call-for-developers-dont-just-build-publish-your-ideas-to-the-linux-ecosystem-odc" target="_blank">🚀 A Wake-Up Call for Developers: Don’t Just Build — Publish Your Ideas to the Linux Ecosystem</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-31 11:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Crown-Engine-0.60" target="_blank">Open-Source Crown Game Engine v0.60 Released</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-31 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/quiz/open-source-new-year-almanac/" target="_blank">Open Source New Year Almanac: What Does 2026 Hold for You? 🗓️</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-31 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf" target="_blank">Akin&#x27;s Laws of Spacecraft Design [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-31 10:12</span>
             </div>
         </div>
 </div>
@@ -231,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/AnkerHDMISwitch-1280x853.jpg" alt="Anker’s HDMI Switch Crashes Below $10 With Final Discount, Compatible With TV, Laptop, PC, Xbox, Playstation, Projector, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ankers-hdmi-switch-crashes-below-10-with-final-discount-compatible-with-tv-laptop-pc-xbox-playstation-projector-and-more-2000656187" target="_blank">Anker’s HDMI Switch Crashes Below $10 With Final Discount, Compatible With TV, Laptop, PC, Xbox, Playstation, Projector, and More</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-31 15:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/year-in-review-2025-best-tv-best-movies-andor-star-wars-marvel-1280x853.jpg" alt="All of io9’s Best of 2025 Posts, in One Handy Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +296,6 @@
                 <span class="time">2025-12-31 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/timeout.jpeg?fit=1280%2C720&amp;quality=60&amp;ssl=1" alt="Elementary school&#x27;s wooden &quot;time out box&quot; alarms parents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/30/elementary-schools-wooden-time-out-box-alarms-parents.html" target="_blank">Elementary school&#x27;s wooden &quot;time out box&quot; alarms parents</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-31 04:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
