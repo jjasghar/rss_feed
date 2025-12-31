@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 05:04:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-31 06:02:20 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 05:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/31/germany-hunts-christmas-thieves-after-oceans-eleven-style-bank-heist?traffic_source=rss" target="_blank">Germany hunts Christmas thieves after Ocean’s Eleven-style bank heist</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-31 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +101,20 @@
                 <span class="time">2025-12-31 00:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-04/250403-department-of-health-and-human-services-ew-211p-c14a7e.jpg" alt="Trump administration says it&#x27;s halting federal child care payments to Minnesota after viral fraud claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/hhs-halts-federal-child-care-payments-minnesota-fraud-claims-rcna251619" target="_blank">Trump administration says it&#x27;s halting federal child care payments to Minnesota after viral fraud claims</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-31 00:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/" target="_blank">The phone is dead. Long live . . . what exactly?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-31 05:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2014/05/censorship_2-500x500.jpg" alt="The science of how (and when) we decide to speak out—or self-censor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +160,20 @@
                 <span class="time">2025-12-30 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback" target="_blank">GameSir put a tiny force feedback steering wheel on its new Swift Drive controller</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-30 15:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/hyprland-0-53-release/" target="_blank">Hyprland Becomes More Attractive with Crash Recovery and Safe Mode Features</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-31 05:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/12/patreon-2025-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Architectural Lessons From Patreon&#x27;s Year in Review</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-12-31 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2020/03/shotcut-video-editor-screenshot.jpg?resize=406%2C232&amp;ssl=1" alt="Shotcut 25.12 Adds Full 10-Bit Video Editing Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/12/shotcut-25-12-released-cpu-pipeline-improvements" target="_blank">Shotcut 25.12 Adds Full 10-Bit Video Editing Support</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-12-30 23:27</span>
             </div>
         </div>
 </div>
@@ -308,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 05:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
