@@ -1,39 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 12:02:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-12-31 13:11:47 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14e1/live/c1f9f5b0-e633-11f0-a76c-07ff70ccfd82.jpg" alt="Heavy police presence in Sydney for New Year&#x27;s celebrations after Bondi attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss" target="_blank">Heavy police presence in Sydney for New Year&#x27;s celebrations after Bondi attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-31 12:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251230-new-laws-ai-voting-rights-paid-family-leave-cs-864c17.jpg" alt="New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +90,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/31/g-s1-104078/national-guard-arrives-in-new-orleans-for-1st-new-years-since-bourbon-street-attack" target="_blank">National Guard arrives in New Orleans for 1st New Year&#x27;s since Bourbon Street attack</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-31 08:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0cf/live/fc668d30-df12-11f0-a8dc-93c15fe68710.jpg" alt="Queen praises Hunt family for their bravery after triple murders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4ge0jlygr2o?at_medium=RSS&at_campaign=rss" target="_blank">Queen praises Hunt family for their bravery after triple murders</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-31 08:09</span>
             </div>
         </div>
 </div>
@@ -227,6 +216,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Draculas-Chivito-1280x853.jpg" alt="Behold ‘Dracula’s Chivito,’ the Largest Planet Nursery Astronomers Have Ever Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/behold-draculas-chivito-the-largest-planet-nursery-astronomers-have-ever-seen-2000704065" target="_blank">Behold ‘Dracula’s Chivito,’ the Largest Planet Nursery Astronomers Have Ever Seen</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-31 13:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/timeout.jpeg?fit=1280%2C720&amp;quality=60&amp;ssl=1" alt="Elementary school&#x27;s wooden &quot;time out box&quot; alarms parents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -271,15 +269,6 @@
                 <span class="time">2025-12-30 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Image-Epilogue.jpg?fit=1080%2C644&amp;quality=60&amp;ssl=1" alt="USB dock reads Super Nintendo cartridges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/30/usb-dock-reads-super-nintendo-cartridges.html" target="_blank">USB dock reads Super Nintendo cartridges</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-30 20:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 113 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
