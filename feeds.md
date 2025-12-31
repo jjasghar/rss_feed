@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 10:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-31 11:01:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,6 +74,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0cf/live/fc668d30-df12-11f0-a8dc-93c15fe68710.jpg" alt="Queen praises Hunt family for their bravery after triple murders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4ge0jlygr2o?at_medium=RSS&at_campaign=rss" target="_blank">Queen praises Hunt family for their bravery after triple murders</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-31 08:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -91,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/31/displacement-camps-swell-with-people-fleeing-sudans-war-ravaged-el-fasher?traffic_source=rss" target="_blank">Displacement camps swell with people fleeing Sudan’s war-ravaged el-Fasher</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-31 07:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/longform/2025/12/31/an-a-z-list-of-2025s-biggest-stories?traffic_source=rss" target="_blank">An A-Z list of 2025’s biggest stories</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-31 06:27</span>
             </div>
         </div>
 </div>
@@ -167,12 +165,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://susam.net/fed-24-years-of-posts-to-markov-model.html" target="_blank">I Fed 24 Years of My Blog Posts to a Markov Model</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-31 10:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/kubernetes-1-35/en/headerimage/generatedHeaderImage-1767138201650.jpg" alt="Kubernetes 1.35 Released with In-Place Pod Resize and AI-Optimized Scheduling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/kubernetes-1-35/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Kubernetes 1.35 Released with In-Place Pod Resize and AI-Optimized Scheduling</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-31 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2103048%2F716988a5-9c51-49bf-acef-191bc6dd2fee.jpeg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/anthonymax/-3cae" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-31 09:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software" target="_blank">The rise of industrial software</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-31 09:09</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +216,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/12/cloudflare-2025-ai-bots/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Year in Review: AI Bots Crawl Aggressively, Post-Quantum Encryption Hits 50%, Go Doubles</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-12-31 07:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F941014%2F4eda2ca2-581c-43f5-911a-8a7d28bff462.jpeg" alt="Tech Trends: 2025 to 2026 - From Potential to Practicality" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/balagmadhu/tech-trends-2025-to-2026-from-potential-to-practicality-355b" target="_blank">Tech Trends: 2025 to 2026 - From Potential to Practicality</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-31 06:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/my-choice-linux-apps-2025/" target="_blank">These are the Linux Apps I Couldn&amp;#x27;t Live Without in 2025</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-31 06:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/news/hyprland-0-53-release/" target="_blank">Hyprland Becomes More Attractive with Crash Recovery and Safe Mode Features</a></span>
-                <span class="feed">It&#x27;s FOSS</span>
-                <span class="time">2025-12-31 05:57</span>
             </div>
         </div>
 </div>
@@ -321,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
