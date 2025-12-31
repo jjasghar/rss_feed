@@ -1,36 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 08:02:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-31 09:03:28 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +37,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/31/mali-burkina-faso-ban-us-citizens-in-response-to-trump-travel-bans?traffic_source=rss" target="_blank">Mali, Burkina Faso ban US citizens in response to Trump travel bans</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-31 08:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/31/g-s1-104078/national-guard-arrives-in-new-orleans-for-1st-new-years-since-bourbon-street-attack" target="_blank">National Guard arrives in New Orleans for 1st New Year&#x27;s since Bourbon Street attack</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-31 08:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/dec/31/guinea-junta-chief-mamady-doumbouya-elected-president-after-opposition-boycott" target="_blank">Guinea’s junta chief elected president after opposition boycott</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-12-31 07:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +89,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/31/germany-hunts-christmas-thieves-after-oceans-eleven-style-bank-heist?traffic_source=rss" target="_blank">Germany hunts Christmas thieves after Ocean’s Eleven-style bank heist</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-31 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11f/live/51bf6630-e5fd-11f0-a8dc-93c15fe68710.jpg" alt="Eurostar delays persist as passengers stuck onboard overnight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss" target="_blank">Eurostar delays persist as passengers stuck onboard overnight</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-31 04:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/31/russia-ukraine-war-list-of-key-events-day-1406?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,406</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-31 03:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/12/31/disney-to-pay-10m-over-alleged-breaches-of-us-child-privacy-laws?traffic_source=rss" target="_blank">Disney to pay $10m over alleged breaches of US child privacy laws</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-31 02:42</span>
             </div>
         </div>
 </div>
@@ -310,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
