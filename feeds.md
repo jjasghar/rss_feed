@@ -1,18 +1,12 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 19:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-31 20:02:08 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
@@ -20,20 +14,19 @@
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/31/police-investigating-damage-to-undersea-telecom-cable-in-gulf-of-finland?traffic_source=rss" target="_blank">Finland seizes ship sailing from Russia after suspected cable sabotage</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-31 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf4/live/17f99f50-e676-11f0-8ad0-fd7b3893bab0.jpg" alt="UK prepares for New Year celebrations as cold weather warnings issued" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy594gkele3o?at_medium=RSS&at_campaign=rss" target="_blank">UK prepares for New Year celebrations as cold weather warnings issued</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-31 18:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss" target="_blank">Sydney sends message of peace for New Year&#x27;s after Bondi attack</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-31 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/168b/live/0d7d3e10-e671-11f0-8e2a-3df90dbf71c4.jpg" alt="Sydney sends message of peace for New Year&#x27;s after Bondi terror attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss" target="_blank">Sydney sends message of peace for New Year&#x27;s after Bondi terror attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-31 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/31/these-are-the-countries-attacked-by-israel-in-2025?traffic_source=rss" target="_blank">These are the countries attacked by Israel in 2025</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-31 15:11</span>
             </div>
         </div>
 </div>
@@ -241,11 +234,38 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Jujutsu-Kaisen-Modulo-Manga-io9-template-circle-light-dark-1280x853.jpg" alt="‘Jujutsu Kaisen Modulo’ Is Better Than the OG Manga Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jujutsu-kaisen-modulo-jjk-gege-akutami-yuji-iwasaki-manga-sequel-culling-game-shonen-jump-2000704291" target="_blank">‘Jujutsu Kaisen Modulo’ Is Better Than the OG Manga Series</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-31 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/5090.jpg?fit=1796%2C878&amp;quality=60&amp;ssl=1" alt="Get ready for the $5090 5090: GPU prices expected to soar next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/31/get-ready-for-the-5090-5090-gpu-prices-expected-to-soar-next-year.html" target="_blank">Get ready for the $5090 5090: GPU prices expected to soar next year</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-31 18:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/2026-movie-preview-hoppers-project-hail-mary-bone-temple-1280x853.jpg" alt="Our 10 Most Anticipated Movies of Early 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/our-10-most-anticipated-movies-of-early-2026-2000702768" target="_blank">Our 10 Most Anticipated Movies of Early 2026</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-31 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HFPMTSFEBVGVFKM4K7DXV/hero-image.png" alt="Do You Really Need to Check With a Doctor Before Starting to Exercise?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/do-you-need-to-check-with-a-doctor-before-starting-to-exercise?utm_medium=RSS" target="_blank">Do You Really Need to Check With a Doctor Before Starting to Exercise?</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-31 18:00</span>
             </div>
         </div>
@@ -265,33 +285,6 @@
                 <span class="title"><a href="https://kotaku.com/amazon-clears-out-a-mac-mini-alternative-as-the-acemagic-mini-gaming-pc-32gb-ram-1tb-ssd-drops-to-an-all-time-low-2000656167" target="_blank">Amazon Clears Out a Mac Mini Alternative as the Acemagic Mini Gaming PC (32GB RAM, 1TB SSD) Drops to an All-Time Low</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-31 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/AnkerHDMISwitch-1280x853.jpg" alt="Anker’s HDMI Switch Crashes Below $10 With Final Discount, Compatible With TV, Laptop, PC, Xbox, Playstation, Projector, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ankers-hdmi-switch-crashes-below-10-with-final-discount-compatible-with-tv-laptop-pc-xbox-playstation-projector-and-more-2000656187" target="_blank">Anker’s HDMI Switch Crashes Below $10 With Final Discount, Compatible With TV, Laptop, PC, Xbox, Playstation, Projector, and More</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-31 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/year-in-review-2025-best-tv-best-movies-andor-star-wars-marvel-1280x853.jpg" alt="All of io9’s Best of 2025 Posts, in One Handy Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/year-in-review-2025-best-movies-tv-2000704337" target="_blank">All of io9’s Best of 2025 Posts, in One Handy Place</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-31 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Gizmodo_BestGadgets_DEC2025-1280x853.jpg" alt="The Best Gadgets of December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-best-gadgets-of-december-2025-2000704366" target="_blank">The Best Gadgets of December 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-31 14:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
