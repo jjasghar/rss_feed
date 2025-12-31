@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 04:14:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-31 05:04:12 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 04:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 05:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/31/russia-ukraine-war-list-of-key-events-day-1406?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,406</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-31 03:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/hhs-halts-federal-child-care-payments-minnesota-fraud-claims-rcna251619" target="_blank">Trump administration says it&#x27;s halting federal child care payments to Minnesota after viral fraud claims</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-12-31 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/kilmar-ss-jt-251230_1767134384419_hpMain_4x3t_384.jpg" alt="Documents suggest DOJ officials may have pushed Abrego Garcia prosecution: Judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/judge-documents-suggest-top-doj-officials-pushed-prosecute/story?id=128792629" target="_blank">Documents suggest DOJ officials may have pushed Abrego Garcia prosecution: Judge</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-30 23:29</span>
             </div>
         </div>
 </div>
@@ -309,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 04:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 05:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
