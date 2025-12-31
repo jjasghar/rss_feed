@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 06:02:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-31 07:03:52 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/longform/2025/12/31/an-a-z-list-of-2025s-biggest-stories?traffic_source=rss" target="_blank">An A-Z list of 2025’s biggest stories</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-31 06:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/31/germany-hunts-christmas-thieves-after-oceans-eleven-style-bank-heist?traffic_source=rss" target="_blank">Germany hunts Christmas thieves after Ocean’s Eleven-style bank heist</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-31 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11f/live/51bf6630-e5fd-11f0-a8dc-93c15fe68710.jpg" alt="Eurostar delays persist as passengers stuck onboard overnight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss" target="_blank">Eurostar delays persist as passengers stuck onboard overnight</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-31 04:56</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/12/30/g-s1-104049/trump-minnesota-child-care-funding-freeze-fraud-schemes" target="_blank">Trump administration says it&#x27;s freezing child care funds to Minnesota</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-12-31 00:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/camila-mendoza-olmos-ht-jt-251227_1766870269078_hpMain_4x3t_384.jpg" alt="Body located amid search for missing Texas teen: Sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/body-located-amid-search-missing-texas-teen-sheriff/story?id=128793412" target="_blank">Body located amid search for missing Texas teen: Sheriff</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-31 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-04/250403-department-of-health-and-human-services-ew-211p-c14a7e.jpg" alt="HHS says it&#x27;s halting child care payments to Minnesota after viral fraud claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/hhs-halts-federal-child-care-payments-minnesota-fraud-claims-rcna251619" target="_blank">HHS says it&#x27;s halting child care payments to Minnesota after viral fraud claims</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-31 00:03</span>
             </div>
         </div>
 </div>
@@ -166,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F941014%2F4eda2ca2-581c-43f5-911a-8a7d28bff462.jpeg" alt="Tech Trends: 2025 to 2026 - From Potential to Practicality" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/balagmadhu/tech-trends-2025-to-2026-from-potential-to-practicality-355b" target="_blank">Tech Trends: 2025 to 2026 - From Potential to Practicality</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-31 06:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/news/my-choice-linux-apps-2025/" target="_blank">These are the Linux Apps I Couldn&amp;#x27;t Live Without in 2025</a></span>
+                <span class="feed">It&#x27;s FOSS</span>
+                <span class="time">2025-12-31 06:43</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -201,24 +218,6 @@
                 <span class="time">2025-12-31 00:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/" target="_blank">Quality of drinking water varies significantly by airline</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-31 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Architectural Lessons From Patreon&#x27;s Year in Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/patreon-2025-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Architectural Lessons From Patreon&#x27;s Year in Review</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-31 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/timeout.jpeg?fit=1280%2C720&amp;quality=60&amp;ssl=1" alt="Elementary school&#x27;s wooden &quot;time out box&quot; alarms parents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/12/30/elementary-schools-wooden-time-out-box-alarms-parents.html" target="_blank">Elementary school&#x27;s wooden &quot;time out box&quot; alarms parents</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-12-31 04:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/marvel-rivals-lady-loki-skin-1280x853.jpg" alt="Lady Loki Might Be the Most Impressive ‘Marvel Rivals’ Skin Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +291,6 @@
                 <span class="time">2025-12-30 20:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/Breath-of-the-wild-VR-mod-1280x720.jpg" alt="This New Legend Of Zelda: Breath Of The Wild VR Mod Is Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-new-legend-of-zelda-breath-of-the-wild-vr-mod-is-awesome-2000656152" target="_blank">This New Legend Of Zelda: Breath Of The Wild VR Mod Is Awesome</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-30 19:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
