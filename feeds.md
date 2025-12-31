@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 17:01:27 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-12-31 18:02:18 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/12/31/a-marriage-of-three-will-mali-niger-burkina-faso-bloc-reshape-the-sahel?traffic_source=rss" target="_blank">A marriage of three: Will Mali, Niger, Burkina Faso bloc reshape the Sahel?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-31 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/168b/live/0d7d3e10-e671-11f0-8e2a-3df90dbf71c4.jpg" alt="Sydney sends message of peace for New Year&#x27;s after Bondi terror attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss" target="_blank">Sydney sends message of peace for New Year&#x27;s after Bondi terror attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-31 15:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss" target="_blank">Heavy police presence in Sydney for New Year&#x27;s celebrations after Bondi attack</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-31 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251230-new-laws-ai-voting-rights-paid-family-leave-cs-864c17.jpg" alt="New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602" target="_blank">New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-12-31 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Ukraine-Odesa-strike-DB-251231_1767170263197_hpMain_4x3t_384.jpg" alt="Zelenskyy suggests Trump fly to Ukraine to help &#x27;end the war&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/zelenskyy-suggests-trump-fly-ukraine-end-war/story?id=128799582" target="_blank">Zelenskyy suggests Trump fly to Ukraine to help &#x27;end the war&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-31 10:35</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803673&w=600" alt="Security and Governance Patterns for Your Conversational AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/security-governance-patterns-conversational-ai" target="_blank">Security and Governance Patterns for Your Conversational AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-31 17:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -198,27 +204,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/" target="_blank">Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame</a></span>
+                <span class="title"><a href="https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it" target="_blank">The compiler is your best friend</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-12-31 15:39</span>
+                <span class="time">2025-12-31 15:46</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/12/31/a-look-under-the-hood-how-and-why-we-built-question-assistant/" target="_blank">A look under the hood: How (and why) we built Question Assistant</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-12-31 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797433&w=600" alt="DevSecOps as a Strategic Imperative for Modern DevOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/devsecops-strategic-imperative-modern-devops" target="_blank">DevSecOps as a Strategic Imperative for Modern DevOps</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-31 14:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/" target="_blank">Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-31 15:39</span>
             </div>
         </div>
 </div>
@@ -240,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/2026-movie-preview-hoppers-project-hail-mary-bone-temple-1280x853.jpg" alt="Our 10 Most Anticipated Movies of Early 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/our-10-most-anticipated-movies-of-early-2026-2000702768" target="_blank">Our 10 Most Anticipated Movies of Early 2026</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-31 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/princeandrew.webp?fit=1600%2C1067&amp;quality=55&amp;ssl=1" alt="The Andrew formerly known as Prince surrenders gun license" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +291,6 @@
                 <span class="time">2025-12-31 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KDSPA16RPMY2T450DD4GHGK2/hero-image.png" alt="These Ray-Ban Meta Smart Glasses Are 25% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ray-ban-meta-glasses-sale-december-2025?utm_medium=RSS" target="_blank">These Ray-Ban Meta Smart Glasses Are 25% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-12-31 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
