@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-12-30 23:02:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-31 00:04:51 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, December 30, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/kilmar-ss-jt-251230_1767134384419_hpMain_4x3t_384.jpg" alt="Documents suggest DOJ officials may have pushed Abrego Garcia prosecution: Judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/judge-documents-suggest-top-doj-officials-pushed-prosecute/story?id=128792629" target="_blank">Documents suggest DOJ officials may have pushed Abrego Garcia prosecution: Judge</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-30 23:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/30/a-filipino-tribe-fights-to-stay-as-a-smart-city-rises-on-a-former-us-base?traffic_source=rss" target="_blank">A Filipino tribe fights to stay as a ‘Smart City’ rises on a former US base</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-30 23:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/12/30/israel-says-it-will-halt-operations-of-several-ngos-in-gaza?traffic_source=rss" target="_blank">Israel to block dozens of aid groups working in war-battered Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-30 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/30/nx-s1-5661581/cfpb-funding-order" target="_blank">Judge orders Trump administration to continue to seek funding for the CFPB</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-30 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/12/30/g-s1-103731/global-health-progress-challenges-vaccines-malaria-hiv" target="_blank">In a year of steep challenges, there were still shining moments in global health</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-30 19:40</span>
             </div>
         </div>
 </div>
@@ -163,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/" target="_blank">NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-30 22:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/windows-beats-linux-arl-h" target="_blank">Unexpected Surprise: Windows 11 Outperforming Linux On An Intel Arrow Lake H Laptop</a></span>
                 <span class="feed">Phoronix</span>
@@ -203,15 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/ai-driven-cloud-compliance" target="_blank">Rethinking Cloud Compliance With an AI-Driven Approach</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-30 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/" target="_blank">FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-30 19:21</span>
             </div>
         </div>
 </div>
@@ -306,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
