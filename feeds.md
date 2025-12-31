@@ -1,35 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 00:04:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-12-31 01:29:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/30/g-s1-104049/trump-minnesota-child-care-funding-freeze-fraud-schemes" target="_blank">Trump administration says it&#x27;s freezing child care funds to Minnesota</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-31 00:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/camila-mendoza-olmos-ht-jt-251227_1766870269078_hpMain_4x3t_384.jpg" alt="Body located amid search for missing Texas teen: Sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/body-located-amid-search-missing-texas-teen-sheriff/story?id=128793412" target="_blank">Body located amid search for missing Texas teen: Sheriff</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-31 00:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-04/250403-department-of-health-and-human-services-ew-211p-c14a7e.jpg" alt="Trump administration says it&#x27;s halting federal child care payments to Minnesota after viral fraud claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/hhs-halts-federal-child-care-payments-minnesota-fraud-claims-rcna251619" target="_blank">Trump administration says it&#x27;s halting federal child care payments to Minnesota after viral fraud claims</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-12-31 00:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/kilmar-ss-jt-251230_1767134384419_hpMain_4x3t_384.jpg" alt="Documents suggest DOJ officials may have pushed Abrego Garcia prosecution: Judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,39 +98,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3633/live/b2d702f0-e582-11f0-aae2-2191c0e48a3b.png" alt="Work continues overnight to fix Eurostar and Eurotunnel issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/30/uae-to-withdraw-counterterrorism-units-from-yemen-after-saudi-led-strike?traffic_source=rss" target="_blank">UAE to withdraw ‘counterterrorism’ units from Yemen after Saudi-led strike</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-30 22:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/tatiana-schlossberg-gty-jef-251230_1767122619352_hpMain_4x3t_384.jpg" alt="Tatiana Schlossberg, daughter of Caroline Kennedy, has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/tatiana-schlossberg-granddaughter-jfk-died/story?id=128788014" target="_blank">Tatiana Schlossberg, daughter of Caroline Kennedy, has died</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-12-30 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/12/30/nx-s1-5661508/flu-cdc-health" target="_blank">Flu cases are surging and rates will likely get worse, new CDC data shows</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-30 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/30/israel-says-it-will-halt-operations-of-several-ngos-in-gaza?traffic_source=rss" target="_blank">Israel to block dozens of aid groups working in war-battered Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-30 20:30</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss" target="_blank">Work continues overnight to fix Eurostar and Eurotunnel issue</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-30 22:57</span>
             </div>
         </div>
 </div>
@@ -166,6 +173,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/daviesbrown/part-10-scaling-failure-operating-like-a-real-company-2h3e" target="_blank">Part 10: Scaling, Failure &amp; Operating Like a Real Company</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-31 01:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Shotcut-25.12-Released" target="_blank">Shotcut 25.12 Released With 10-bit Video CPU Pipeline, Linear Color Processing</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-12-31 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/EmilStenstrom/justhtml-xss-bench/" target="_blank">Cross-site Scripting-benchmark of python sanitizers against real browsers</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-31 00:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/" target="_blank">NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives</a></span>
                 <span class="feed">Hacker News</span>
@@ -190,33 +224,6 @@
                 <span class="time">2025-12-30 20:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.kasava.dev/blog/everything-as-code-monorepo" target="_blank">Everything as Code: How We Manage Our Company in One Monorepo</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-30 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/matheuscamarques/are-feature-flags-bullsht-why-your-if-is-killing-performance-and-the-planet-26bi" target="_blank">Are Feature Flags Bullsh*t? Why Your &quot;IF&quot; is Killing Performance (and the Planet)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-30 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797431&w=600" alt="Rethinking Cloud Compliance With an AI-Driven Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-driven-cloud-compliance" target="_blank">Rethinking Cloud Compliance With an AI-Driven Approach</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-12-30 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/state-of-Switch2-2025-1280x720.jpg" alt="The State Of The Nintendo Switch 2 In 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-review-metroid-prime-4-pokemon-2000656188" target="_blank">The State Of The Nintendo Switch 2 In 2025</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-12-30 22:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Candida-auris-1280x853.jpg" alt="A Deadly, Drug-Resistant Fungus Threatens People Around the World, Scientists Warn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +297,6 @@
                 <span class="time">2025-12-30 18:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/01/atari0-e1767118643644.jpg?fit=768%2C519&amp;quality=60&amp;ssl=1" alt="Atari unveils gaming hotel in Phoenix that sounds like hell on earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/30/atari-unveils-gaming-hotel-in-phoenix-that-sounds-like-hell-on-earth.html" target="_blank">Atari unveils gaming hotel in Phoenix that sounds like hell on earth</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-30 18:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
