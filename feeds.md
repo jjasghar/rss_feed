@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 07:03:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-31 08:02:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 07:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/31/displacement-camps-swell-with-people-fleeing-sudans-war-ravaged-el-fasher?traffic_source=rss" target="_blank">Displacement camps swell with people fleeing Sudan’s war-ravaged el-Fasher</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-31 07:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +100,20 @@
                 <span class="time">2025-12-31 02:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/30/g-s1-104049/trump-minnesota-child-care-funding-freeze-fraud-schemes" target="_blank">Trump administration says it&#x27;s freezing child care funds to Minnesota</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-31 00:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Walmart Promo Codes and Coupons: Up to 65% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/top-walmart-promo-codes/" target="_blank">Walmart Promo Codes and Coupons: Up to 65% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-31 06:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +159,29 @@
                 <span class="time">2025-12-30 17:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/" target="_blank">The best AI-powered dictation apps of 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-30 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F16k2xw49e7qol1la0gkk.png" alt="Deep Maze Solver" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dineshgdk/deep-maze-solver-556e" target="_blank">Deep Maze Solver</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-31 07:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/12/cloudflare-2025-ai-bots/en/headerimage/generatedHeaderImage-1766307353625.jpg" alt="Cloudflare Year in Review: AI Bots Crawl Aggressively, Post-Quantum Encryption Hits 50%, Go Doubles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/12/cloudflare-2025-ai-bots/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Year in Review: AI Bots Crawl Aggressively, Post-Quantum Encryption Hits 50%, Go Doubles</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-31 07:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F941014%2F4eda2ca2-581c-43f5-911a-8a7d28bff462.jpeg" alt="Tech Trends: 2025 to 2026 - From Potential to Practicality" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/daviesbrown/part-10-scaling-failure-operating-like-a-real-company-2h3e" target="_blank">Part 10: Scaling, Failure &amp; Operating Like a Real Company</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-12-31 01:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Shotcut-25.12-Released" target="_blank">Shotcut 25.12 Released With 10-bit Video CPU Pipeline, Linear Color Processing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-12-31 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/EmilStenstrom/justhtml-xss-bench/" target="_blank">Cross-site Scripting-benchmark of python sanitizers against real browsers</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-31 00:07</span>
             </div>
         </div>
 </div>
@@ -310,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
