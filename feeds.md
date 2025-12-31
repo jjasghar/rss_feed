@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 14:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-12-31 15:01:48 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-finland-ilkka-koskimaki_7123043.jpg?20251231144658" alt="Finland police seize vessel suspected of damaging Baltic Sea cable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/finland-police-seize-vessel-suspected-of-damaging-baltic-sea-cable-13489056" target="_blank">Finland police seize vessel suspected of damaging Baltic Sea cable</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-12-31 14:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +92,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss" target="_blank">Eurostar services return to normal after major Channel Tunnel disruption</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-12-31 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/12/31/mali-burkina-faso-ban-us-citizens-in-response-to-trump-travel-bans?traffic_source=rss" target="_blank">Mali, Burkina Faso ban US citizens in response to Trump travel bans</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-12-31 08:32</span>
             </div>
         </div>
 </div>
@@ -167,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18797433&w=600" alt="DevSecOps as a Strategic Imperative for Modern DevOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/devsecops-strategic-imperative-modern-devops" target="_blank">DevSecOps as a Strategic Imperative for Modern DevOps</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-31 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/presentations/LinkedIn-agent-hiring-assistant/en/mediumimage/medium-karthik-ramgopal-daniel-hewlett-1766066268572.jpg" alt="Presentation: Lessons Learned From Building LinkedIn’s First Agent: Hiring Assistant" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -211,15 +212,6 @@
                 <span class="time">2025-12-31 10:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://susam.net/fed-24-years-of-posts-to-markov-model.html" target="_blank">I Fed 24 Years of My Blog Posts to a Markov Model</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-12-31 10:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,11 +232,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/year-in-review-2025-best-tv-best-movies-andor-star-wars-marvel-1280x853.jpg" alt="All of io9’s Best of 2025 Posts, in One Handy Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/year-in-review-2025-best-movies-tv-2000704337" target="_blank">All of io9’s Best of 2025 Posts, in One Handy Place</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-31 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Gizmodo_BestGadgets_DEC2025-1280x853.jpg" alt="The Best Gadgets of December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/the-best-gadgets-of-december-2025-2000704366" target="_blank">The Best Gadgets of December 2025</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-31 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KDSPA16RPMY2T450DD4GHGK2/hero-image.png" alt="These Ray-Ban Meta Smart Glasses Are 25% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ray-ban-meta-glasses-sale-december-2025?utm_medium=RSS" target="_blank">These Ray-Ban Meta Smart Glasses Are 25% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-12-31 14:00</span>
             </div>
         </div>
@@ -275,24 +285,6 @@
                 <span class="time">2025-12-31 04:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/marvel-rivals-lady-loki-skin-1280x853.jpg" alt="Lady Loki Might Be the Most Impressive ‘Marvel Rivals’ Skin Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/marvel-rivals-lady-loki-skin-price-release-date-2000704548" target="_blank">Lady Loki Might Be the Most Impressive ‘Marvel Rivals’ Skin Yet</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-30 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/state-of-Switch2-2025-1280x720.jpg" alt="The State Of The Nintendo Switch 2 In 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-review-metroid-prime-4-pokemon-2000656188" target="_blank">The State Of The Nintendo Switch 2 In 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-12-30 22:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
