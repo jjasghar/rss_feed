@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 18:02:18 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-12-31 19:01:46 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +53,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/12/31/bulgarians-worry-over-rising-prices-as-country-adopts-euro?traffic_source=rss" target="_blank">Bulgarians worry over rising prices as country adopts euro</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-12-31 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/sydney-nye-gty-jef-251231_1767188049996_hpMain_4x3t_384.jpg" alt="New Year&#x27;s 2026: Celebrations around the world" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/new-years-2026-celebrations-world/story?id=128780581" target="_blank">New Year&#x27;s 2026: Celebrations around the world</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-12-31 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/features/2025/12/31/a-marriage-of-three-will-mali-niger-burkina-faso-bloc-reshape-the-sahel?traffic_source=rss" target="_blank">A marriage of three: Will Mali, Niger, Burkina Faso bloc reshape the Sahel?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-12-31 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/168b/live/0d7d3e10-e671-11f0-8e2a-3df90dbf71c4.jpg" alt="Sydney sends message of peace for New Year&#x27;s after Bondi attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss" target="_blank">Sydney sends message of peace for New Year&#x27;s after Bondi attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-12-31 15:24</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +103,20 @@
                 <span class="time">2025-12-31 15:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/12/1920x1080/skynews-finland-ilkka-koskimaki_7123043.jpg?20251231144658" alt="Finland police seize vessel suspected of damaging Baltic Sea cable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/finland-police-seize-vessel-suspected-of-damaging-baltic-sea-cable-13489056" target="_blank">Finland police seize vessel suspected of damaging Baltic Sea cable</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-12-31 14:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/31/g-s1-103737/vienna-christmas-market-austria" target="_blank">Greetings from Vienna, where an imperial palace hosts a holiday market for all</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-31 13:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14e1/live/c1f9f5b0-e633-11f0-a76c-07ff70ccfd82.jpg" alt="Heavy police presence in Sydney for New Year&#x27;s celebrations after Bondi attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss" target="_blank">Heavy police presence in Sydney for New Year&#x27;s celebrations after Bondi attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-12-31 12:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/" target="_blank">Investors predict AI is coming for labor in 2026</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-31 16:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-161350245-500x500.jpg" alt="Here we go again: Retiring coal plant forced to stay open by Trump Admin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +162,38 @@
                 <span class="time">2025-12-31 12:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/693cd639b979444a26094358/master/pass/Cruising.jpg" alt="AI-Powered Dating Is All Hype. IRL Cruising Is the Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/expired-tired-wired-ai-powered-dating/" target="_blank">AI-Powered Dating Is All Hype. IRL Cruising Is the Future</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-12-31 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dineshelumalai/s3-vectors-90-cheaper-than-pinecone-our-migration-guide-327c" target="_blank">S3 Vectors: 90% Cheaper Than Pinecone? Our Migration Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-12-31 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803683&w=600" alt="How Unified Data Pipelines Transform Modern AI Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/unified-data-flows-modern-ai-infrastructure" target="_blank">How Unified Data Pipelines Transform Modern AI Infrastructure</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-12-31 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.paulox.net/2025/12/31/looking-back-at-python-pescara-2025/" target="_blank">Looking Back at Python Pescara 2025</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-12-31 17:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18803673&w=600" alt="Security and Governance Patterns for Your Conversational AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,33 +219,6 @@
                 <span class="title"><a href="https://dzone.com/articles/avoid-bigquery-sql-injection-go-saferbq" target="_blank">Avoid BigQuery SQL Injection in Go With saferbq</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-12-31 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/beck_moulton/vectors-vs-keywords-why-close-enough-is-dangerous-in-medtech-rag-4o9o" target="_blank">Vectors vs. Keywords: Why &quot;Close Enough&quot; is Dangerous in MedTech RAG</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-31 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it" target="_blank">The compiler is your best friend</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-31 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/" target="_blank">Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-12-31 15:39</span>
             </div>
         </div>
 </div>
@@ -297,6 +300,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1766704267-20251231 - edit.png" alt="Saturday Morning Breakfast Cereal - Boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/boom-3" target="_blank">Saturday Morning Breakfast Cereal - Boom</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-12-31 16:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -310,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
