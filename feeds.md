@@ -1,28 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-12-31 13:11:47 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-12-31 14:01:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, December 31, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, December 31, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/12/31/g-s1-103737/vienna-christmas-market-austria" target="_blank">Greetings from Vienna, where an imperial palace hosts a holiday market for all</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-12-31 13:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14e1/live/c1f9f5b0-e633-11f0-a76c-07ff70ccfd82.jpg" alt="Heavy police presence in Sydney for New Year&#x27;s celebrations after Bondi attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,20 +102,29 @@
                 <span class="time">2025-12-31 08:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/12/31/g-s1-104078/national-guard-arrives-in-new-orleans-for-1st-new-years-since-bourbon-street-attack" target="_blank">National Guard arrives in New Orleans for 1st New Year&#x27;s since Bourbon Street attack</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-12-31 08:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/12/31/the-dumbest-things-that-happened-in-tech-this-year/" target="_blank">The dumbest things that happened in tech this year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-12-31 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/694aac9dc9015253e619588e/master/pass/Deals%20Withings%20Body%20Comp%20scale_Factor%20Meal%20Kit%20top%20art%20122025%20SOURCE%20Matthew%20Korfhage_Factor.jpg" alt="Factor Meal Delivery Promo: Free $200 Withings Body-Scan Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/factor-withings-deal/" target="_blank">Factor Meal Delivery Promo: Free $200 Withings Body-Scan Scale</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-12-31 12:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/693cd639b979444a26094358/master/pass/Cruising.jpg" alt="AI-Powered Dating Is All Hype. IRL Cruising Is the Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,29 +161,20 @@
                 <span class="time">2025-12-30 21:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware" target="_blank">Two cybersecurity employees plead guilty to carrying out ransomware attacks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-12-30 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/12/30/76-european-deep-tech-university-spinouts-reached-unicorn-or-centaur-status/" target="_blank">Almost 80 European deep tech university spinouts reached $1B valuations or $100M in revenue in 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-12-30 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/LinkedIn-agent-hiring-assistant/en/mediumimage/medium-karthik-ramgopal-daniel-hewlett-1766066268572.jpg" alt="Presentation: Lessons Learned From Building LinkedIn’s First Agent: Hiring Assistant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/LinkedIn-agent-hiring-assistant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Lessons Learned From Building LinkedIn’s First Agent: Hiring Assistant</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-12-31 12:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,28 +205,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf" target="_blank">Akin&#x27;s Laws of Spacecraft Design [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-12-31 10:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://susam.net/fed-24-years-of-posts-to-markov-model.html" target="_blank">I Fed 24 Years of My Blog Posts to a Markov Model</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-12-31 10:08</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/12/kubernetes-1-35/en/headerimage/generatedHeaderImage-1767138201650.jpg" alt="Kubernetes 1.35 Released with In-Place Pod Resize and AI-Optimized Scheduling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/12/kubernetes-1-35/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Kubernetes 1.35 Released with In-Place Pod Resize and AI-Optimized Scheduling</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-12-31 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2103048%2F716988a5-9c51-49bf-acef-191bc6dd2fee.jpeg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anthonymax/-3cae" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-12-31 09:45</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html" target="_blank">LinkedIn Job Scams</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-12-31 12:03</span>
             </div>
         </div>
 </div>
@@ -216,12 +240,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/Gizmodo_BestGadgets_DEC2025-1280x853.jpg" alt="The Best Gadgets of December 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-best-gadgets-of-december-2025-2000704366" target="_blank">The Best Gadgets of December 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-12-31 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/12/Draculas-Chivito-1280x853.jpg" alt="Behold ‘Dracula’s Chivito,’ the Largest Planet Nursery Astronomers Have Ever Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/behold-draculas-chivito-the-largest-planet-nursery-astronomers-have-ever-seen-2000704065" target="_blank">Behold ‘Dracula’s Chivito,’ the Largest Planet Nursery Astronomers Have Ever Seen</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-12-31 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JG4DFM52FFJ9SXED450CB1GH/hero-image.png" alt="Why Your New Year&#x27;s Resolutions Need &#x27;Cues,&#x27; According to Science" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/work/add-cues-to-new-years-resolutions?utm_medium=RSS" target="_blank">Why Your New Year&#x27;s Resolutions Need &#x27;Cues,&#x27; According to Science</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-12-31 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -249,24 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/nintendo-switch-2-review-metroid-prime-4-pokemon-2000656188" target="_blank">The State Of The Nintendo Switch 2 In 2025</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-12-30 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/Microsoft-Office-Pro-2021-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Say hello to Office Pro 2021 and goodbye to monthly fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/12/30/say-hello-to-office-pro-2021-and-goodbye-to-monthly-fees.html" target="_blank">Say hello to Office Pro 2021 and goodbye to monthly fees</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-12-30 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/Candida-auris-1280x853.jpg" alt="A Deadly, Drug-Resistant Fungus Threatens People Around the World, Scientists Warn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-deadly-super-fungus-is-on-the-rise-scientists-warn-2000704305" target="_blank">A Deadly, Drug-Resistant Fungus Threatens People Around the World, Scientists Warn</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-12-30 20:45</span>
             </div>
         </div>
 </div>
@@ -297,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
